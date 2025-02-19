@@ -19,6 +19,12 @@
 		<title>MKSAP 19</title>
 	</head>
 	<body>
+		<script>
+			// Check if user is authenticated
+			if (!localStorage.getItem('gotrue.user')) {
+				window.location.href = '/signin.html';
+			}
+		</script>
 		<div class="splash-screen">
 		</div>
 		<div id="user-status" class="ml-3">
