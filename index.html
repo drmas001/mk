@@ -20,9 +20,17 @@
 		<meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: https://mksap19-api.acponline.org https://mksap19-stage.acponline.org https://mksap19-dev.acponline.org cdvfile://* content://* http://localhost:3000 http://localhost:8080">
 		<link rel="stylesheet" type="text/css" href="assets/app.css" />
 		<link rel="stylesheet" type="text/css" href="assets/style.css" />
+		<link rel="stylesheet" type="text/css" href="assets/profile.css" />
 		<title>MKSAP 19</title>
 	</head>
 	<body>
+		<!-- SVG Icons -->
+		<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+			<symbol id="svg-lock" viewBox="0 0 24 24">
+				<path d="M12 1C8.676 1 6 3.676 6 7v2H4v14h16V9h-2V7c0-3.324-2.676-6-6-6zm0 2c2.276 0 4 1.724 4 4v2H8V7c0-2.276 1.724-4 4-4z"/>
+			</symbol>
+		</svg>
+
 		<script>
 			// Check if user is authenticated
 			if (!localStorage.getItem('gotrue.user') && !window.location.pathname.includes('signin.html')) {
@@ -31,7 +39,11 @@
 
 			// Handle Cordova initialization
 			function initApp() {
-				// Your app initialization code here
+				// Initialize profile
+				import('./src/components/profile.js').then(module => {
+					module.initializeProfile();
+				});
+
 				if (window.cordova && window.cordova.plugins && window.cordova.plugins.Keyboard) {
 					cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
 				}
@@ -49,6 +61,9 @@
 		</script>
 
 		<div class="splash-screen"></div>
+		
+		<!-- User Profile Section -->
+		<div id="user-profile" class="profile-section"></div>
 		<div id="user-status" class="ml-3">
 			<span id="user-email"></span>
 			<button onclick="handleSignOut()" class="sign-out-btn">Sign Out</button>
