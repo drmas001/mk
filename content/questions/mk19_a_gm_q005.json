@@ -1,0 +1,196 @@
+{
+"id":"mk19_a_gm_q005",
+"number":5,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"936c8a",
+"children":[
+"A 59-year-old woman is evaluated for long-standing chronic pain due to rheumatoid arthritis associated with reduced overall functional status. She is in regular follow-up with a rheumatologist and a pain medicine specialist. She recently started immediate-release oxycodone at a daily dose equal to 22.5 morphine milligram equivalents. Her Opioid Risk Tool score was 2, indicating low risk for future opioid abuse. In addition to oxycodone, she takes meloxicam, etanercept, topical diclofenac, duloxetine, prednisone, and acetaminophen."
+]
+},
+{
+"type":"p",
+"hlId":"0060cc",
+"children":[
+"On physical examination, vital signs are normal. Active synovitis and typical rheumatoid arthritis deformities are seen in the hands, wrists, elbows, and feet."
+]
+},
+{
+"type":"p",
+"hlId":"49bae9",
+"children":[
+"A urine drug screen before opioid initiation 2 months ago was negative."
+]
+},
+{
+"type":"p",
+"hlId":"dbbf07",
+"children":[
+"The patient requests a refill of her oxycodone prescription today."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"653251",
+"children":[
+"Which of the following is the most appropriate risk mitigation step before refilling this patient's opioid prescription?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Change oxycodone to an extended-release, once-daily formulation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Order a urine drug screen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prescribe a naloxone rescue kit"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Review the state prescription monitoring database"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"631800",
+"hvc":true,
+"children":[
+"The state prescription monitoring database should be reviewed before prescribing opioids to monitor patient use patterns, identify requests for early refills as a warning sign of worsening pain or disordered use, and avoid multiple prescriptions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"07f479",
+"children":[
+"The most appropriate risk mitigation step before refilling this patient's opioid prescription is to review the state prescription monitoring database (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Review of the prescription monitoring database before authorizing refills allows the prescribing clinician to monitor patient use patterns and identify requests for early refills as a warning sign of worsening pain or disordered use. It also serves an important function in identifying multiple prescriptions of opioids and other controlled substances. For this patient with chronic pain who has several specialists involved in her care, close monitoring of the database is needed before each prescription. The regulations for checking prescription monitoring databases before opioid prescribing vary by state, and physicians should be familiar with the regulations in the states in which they practice."
+]
+},
+{
+"type":"p",
+"hlId":"fc97bf",
+"children":[
+"For most patients with chronic noncancer pain, short-acting opioids are preferred. Extended-release or long-acting opioids are typically prescribed for use in palliative care or to manage pain from cancer or other conditions characterized by persistent pain or disabling pain with significant functional impairment. Therefore, changing to extended-release oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be inappropriate at this time."
+]
+},
+{
+"type":"p",
+"hlId":"de1fdd",
+"children":[
+"Urine drug screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an important monitoring tool in patients using opioids to ensure adherence to the prescribed agent and to evaluate for the presence of other controlled drugs or substances prohibited by the terms of the treatment agreement. Optimal screening frequency is currently unclear, but in this patient who recently underwent screening and has a low Opioid Risk Tool score, it would be reasonable to consider repeat screening at least yearly or if aberrant opioid use behaviors develop."
+]
+},
+{
+"type":"p",
+"hlId":"8129ba",
+"children":[
+"Naloxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an opioid blocker used to treat opioid overdose and respiratory compromise. It can be prescribed in an outpatient environment to patients at high risk for overdose. This patient does not have additional major risk factors (such as concurrent benzodiazepine use, obstructive sleep apnea, a history of substance use, or liver or kidney failure) and is taking less than 50 morphine milligram equivalents per day, placing her at relatively low risk for overdose."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_2_2_2",
+"objective":{
+"__html":"Monitor a patient on chronic opioid therapy."
+},
+"references":[
+[
+"Dowell D, Haegerich TM, Chou R. CDC guideline for prescribing opioids for chronic pain—United States, 2016. JAMA. 2016;315:1624-45. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26977696",
+"target":"_blank"
+},
+"children":[
+"PMID: 26977696"
+]
+},
+" doi:10.1001/jama.2016.1464"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":8,
+"C":17,
+"D":71,
+"E":0
+},
+"hlIds":[
+"936c8a",
+"0060cc",
+"49bae9",
+"dbbf07",
+"653251",
+"631800",
+"07f479",
+"fc97bf",
+"de1fdd",
+"8129ba"
+]
+}

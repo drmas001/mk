@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q080",
+"number":80,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 80",
+"stimulus":[
+{
+"type":"p",
+"hlId":"abab4d",
+"children":[
+"A 22-year-old woman is evaluated for a 5-year history of seizures that occur twice monthly, last 2 minutes, and are characterized by staring, lip smacking, and confusion. These seizures have continued despite treatment with two adequately dosed antiepileptic medications (carbamazepine, followed by levetiracetam, both of which have been discontinued owing to insufficient ability to control seizures). Her current medication is lamotrigine at maximum dose, which she tolerates well with no adverse effects."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"8facbb",
+"children":[
+"Results of outpatient routine electroencephalography (EEG) are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4700b4",
+"children":[
+"Which of the following is the next most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Phenytoin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Temporal lobectomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Vagus nerve stimulator"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Video EEG monitoring"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8319aa",
+"children":[
+"Drug-resistant epilepsy is defined as having ongoing seizures despite treatment with two tolerated, appropriately chosen, and adequately dosed antiepileptic medications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"79a9b5",
+"children":[
+"Video electroencephalography is the first step in determining candidacy for epilepsy surgery in patients with drug-resistant epilepsy followed by advanced brain imaging."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"83ce47",
+"children":[
+"The most appropriate management is video electroencephalography (EEG) monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Continuous video EEG monitoring is performed in an epilepsy monitoring unit. Based on the symptoms described, this patient most likely has focal impaired awareness seizures (formerly known as focal dyscognitive seizures or complex partial seizures) of temporal lobe origin. She has drug-resistant epilepsy, having ongoing seizures despite treatment with two tolerated, appropriately chosen, and adequately dosed antiepileptic medications (whether as monotherapy or in combination). The patient should be referred to an epilepsy center for video EEG monitoring to confirm the diagnosis of temporal lobe epilepsy and evaluate her for epilepsy surgery. Mesial temporal sclerosis with hippocampal atrophy is the most common cause of drug-resistant adult-onset focal epilepsy. Therefore, brain MRI is also an appropriate next step because surgical candidacy requires confirmation that seizure manifestations on video EEG match the location of pathology on MRI or other advanced functional imaging (single-photon emission CT or PET). These steps are required to determine if the patient can be considered for temporal lobectomy."
+]
+},
+{
+"type":"p",
+"hlId":"1eac30",
+"children":[
+"Phenytoin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a treatment option, but surgical candidacy should be evaluated first; only 5% to 10% of patients with drug-resistant epilepsy achieve seizure freedom from an additional drug after failing two medications. Furthermore, phenytoin is an older medication with more adverse effects, and other less morbid options should be considered first."
+]
+},
+{
+"type":"p",
+"hlId":"c81b7e",
+"children":[
+"Temporal lobectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") leads to seizure freedom in 60% to 70% of appropriately chosen patients, but candidacy must be determined by video EEG and MRI or other advanced imaging. Surgical resection candidacy should not be determined by history alone."
+]
+},
+{
+"type":"p",
+"hlId":"6a6bd1",
+"children":[
+"Use of a vagus nerve stimulator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a palliative measure and should be offered only if resection is not an option. In addition, use of a vagus nerve stimulator does not result in complete freedom from seizures."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_5_2",
+"objective":{
+"__html":"Evaluate drug-resistant epilepsy."
+},
+"references":[
+[
+"Yoo JY, Panov F. Identification and treatment of drug-resistant epilepsy. Continuum (Minneap Minn). 2019;25:362-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30921014",
+"target":"_blank"
+},
+"children":[
+"PMID: 30921014"
+]
+},
+" doi:10.1212/CON.0000000000000710"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":5,
+"C":12,
+"D":71,
+"E":0
+},
+"hlIds":[
+"abab4d",
+"a4ff4d",
+"8facbb",
+"4700b4",
+"8319aa",
+"79a9b5",
+"83ce47",
+"1eac30",
+"c81b7e",
+"6a6bd1"
+]
+}

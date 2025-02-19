@@ -1,0 +1,230 @@
+{
+"id":"mk19_b_rm_q061",
+"number":61,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"77a18e",
+"children":[
+"A 70-year-old woman is evaluated for a 5-year history of tophaceous gout in both hands. Previous treatment with allopurinol resulted in rash. Over the past year, maximum-dose febuxostat has decreased ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"serum urate"
+]
+},
+" levels to 9.5 mg/dL (0.56 mmol/L). She also has hypertension and stage G3b chronic kidney disease. Current medications are febuxostat and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"c396b7",
+"children":[
+"Radiograph of the right hand obtained before initiation of febuxostat therapy is ",
+{
+"type":"figure-link",
+"target":"mk19_b_rm_mcq_f061",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_rm_mcq_f061"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add hydroxychloroquine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add probenecid"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop febuxostat and start pegloticase"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No treatment changes"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e6e142",
+"children":[
+"Switching to pegloticase rather than continuing current urate-lowering therapy is strongly recommended for patients with gout for whom allopurinol, febuxostat, or uricosurics have failed to achieve the serum urate target and who continue to have frequent gout flares (two or more flares per year) or who have nonresolving subcutaneous tophi."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9b772a",
+"children":[
+"The most appropriate treatment is to stop febuxostat and start pegloticase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has chronic tophaceous gout with a persistently elevated urate level above target (<6.0 mg/dL [0.35 mmol/L]) despite maximum-dose febuxostat. Switching to pegloticase rather than continuing current urate-lowering therapy is strongly recommended for patients with gout for whom allopurinol, febuxostat, or uricosurics have failed to achieve the serum urate target and who continue to have frequent gout flares (two or more flares per year) or who have subcutaneous tophi. Because this patient is allergic to allopurinol and febuxostat has failed, pegloticase is indicated. Pegloticase is recombinant pegylated uricase administered intravenously every 2 weeks. All patients should be screened for glucose-6-phosphate dehydrogenase (G6PD) activity before administration of pegloticase; low activity of G6PD poses a risk for hemolytic anemia and methemoglobinemia, and pegloticase is contraindicated in that setting. Pegloticase rapidly lowers the serum urate level, and prophylactic therapy (colchicine, NSAIDs, or glucocorticoids) must be administered concurrently with treatment. Formation of antibody to pegloticase may occur (30%-50% of patients) and cause severe infusion reactions. Serum urate level must be checked before each infusion. After the initial dose, a serum urate level greater than 6.0 mg/dL (0.35 mmol/L) on two consecutive assessments indicates loss of efficacy due to antibody formation, necessitating discontinuation of pegloticase. Pegloticase should not be given with any other urate-lowering therapy so that interpretation of the serum urate level before each infusion is clear. Therefore, this patient should discontinue febuxostat."
+]
+},
+{
+"type":"p",
+"hlId":"590c43",
+"children":[
+"Hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used in the treatment of rheumatoid arthritis. This patient does not have a history of rheumatoid arthritis. The erosions seen on her radiographs are typical of gout with sclerotic borders and overhanging edges. Typical rheumatoid arthritis radiographic changes include periarticular osteopenia, marginal erosions without overhanging edges, and joint-space narrowing. Thus, adding hydroxychloroquine to febuxostat would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"d33cb5",
+"children":[
+"Probenecid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a uricosuric drug, is not effective as a urate-lowering agent in patients with chronic kidney disease (estimated glomerular filtration rate <50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and should not be added to febuxostat in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"a34130",
+"children":[
+"Continuing febuxostat alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") will not further lower serum urate levels; the patient has been receiving this therapy for 1 year and has steady-state levels, and therefore she will not likely benefit further from it."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_2_3",
+"objective":{
+"__html":"Treat refractory tophaceous gout with pegloticase."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":8,
+"C":61,
+"D":27,
+"E":0
+},
+"figuresContent":{
+"mk19_b_rm_mcq_f061":{
+"id":"mk19_b_rm_mcq_f061",
+"number":61,
+"bookId":"rm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d105366699ce24aef1706a7ccf40a0db",
+"height":309,
+"width":312,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"77a18e",
+"c396b7",
+"1054f1",
+"e6e142",
+"9b772a",
+"590c43",
+"d33cb5",
+"a34130"
+]
+}

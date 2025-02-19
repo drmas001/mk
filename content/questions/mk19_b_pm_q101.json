@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_pm_q101",
+"number":101,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4a2265",
+"children":[
+"A 42-year-old man with 6 months of progressive dyspnea is diagnosed with chronic thromboembolic pulmonary hypertension following right heart catheterization and pulmonary artery angiography. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c3890f",
+"children":[
+"Apixaban is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add riociguat"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Balloon pulmonary angioplasty evaluation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical thromboendarterectomy evaluation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a34104",
+"children":[
+"Anticoagulation and consideration of thromboendarterectomy are indicated for all patients with chronic thromboembolic pulmonary hypertension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"620bc6",
+"children":[
+"In patients with inoperable chronic thromboembolic pulmonary hypertension and those who have persistent pulmonary hypertension following thromboendarterectomy, balloon pulmonary angioplasty or medical therapy with riociguat should be considered."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8172a4",
+"children":[
+"The most appropriate treatment for this patient with chronic thromboembolic pulmonary hypertension (CTEPH) is referral for surgical thromboendarterectomy evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). CTEPH consists of organized, chronic thrombi within the pulmonary arterial system. Patients with CTEPH demonstrate both mechanical obstruction of pulmonary arteries and features of disordered pulmonary angiogenesis, fibrinolysis, and vascular remodeling. These changes manifest in increased pulmonary vascular resistance and elevated mean pulmonary artery pressure. Untreated, CTEPH can lead to right-sided heart failure and death. Lifelong anticoagulation to help prevent further thromboembolism and consideration of thromboendarterectomy are indicated for CTEPH. The only potentially curative therapy for CTEPH is pulmonary thromboendarterectomy. Because the disease is usually progressive, surgical evaluation at an experienced center is warranted in all patients with CTEPH, regardless of disease severity. Approximately half of patients with CTEPH will be eligible for surgery. Pulmonary thromboendarterectomy can result in normalization of pulmonary hemodynamics in about one third of patients who undergo surgery."
+]
+},
+{
+"type":"p",
+"hlId":"8e2ad2",
+"children":[
+"For patients who are not candidates for surgical intervention or who choose not to pursue this path, medical therapy is indicated. Currently, the only medication approved for treating CTEPH is riociguat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a stimulator of soluble guanylate cyclase, the primary receptor for nitric oxide."
+]
+},
+{
+"type":"p",
+"hlId":"d3b205",
+"children":[
+"Balloon pulmonary angioplasty (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be appropriate for some nonoperative patients. Balloon pulmonary angioplasty is an emerging field. A catheter-directed balloon is inserted into the pulmonary artery and inflated to improve blood flow and reduce vascular resistance within the pulmonary circulation. Neither riociguat nor balloon pulmonary angioplasty should be offered before considering surgical intervention. In patients with inoperable CTEPH and those who have persistent pulmonary hypertension following thromboendarterectomy, balloon pulmonary angioplasty or medical therapy with riociguat should be considered."
+]
+},
+{
+"type":"p",
+"hlId":"0e120d",
+"children":[
+"No further treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate for this patient. Lifelong anticoagulant therapy is indicated in all patients to prevent further thromboembolism, but because the disease is progressive without intervention, evaluation for surgical thromboendarterectomy is important."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_3_2",
+"objective":{
+"__html":"Treat chronic thromboembolic pulmonary hypertension."
+},
+"references":[
+[
+"Sahutoglu E, Tuncay E, Aras G, et al. Chronic thromboembolic pulmonary hypertension in patients with persistent chest symptoms after acute pulmonary embolism. Anatol J Cardiol. 2021;25:24-29. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33382052",
+"target":"_blank"
+},
+"children":[
+"PMID: 33382052"
+]
+},
+" doi:10.14744/AnatolJCardiol.2020.69057"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":8,
+"C":40,
+"D":44,
+"E":0
+},
+"hlIds":[
+"4a2265",
+"c3890f",
+"cb2b54",
+"a34104",
+"620bc6",
+"8172a4",
+"8e2ad2",
+"d3b205",
+"0e120d"
+]
+}

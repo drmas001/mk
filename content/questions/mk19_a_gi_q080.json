@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gi_q080",
+"number":80,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 80",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b0d846",
+"children":[
+"A 60-year-old woman is evaluated for 6 months of progressive symptoms of dyspnea on exertion. She has cirrhosis due to nonalcoholic steatohepatitis complicated by ascites and esophageal varices. Current medications include propranolol, furosemide, and spironolactone."
+]
+},
+{
+"type":"p",
+"hlId":"8677c2",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 99% with the patient breathing ambient air. On cardiac examination, central venous pressure is elevated. The pulmonic component of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is increased in intensity. The lungs are clear to auscultation. The liver is enlarged and tender, and ascites is present."
+]
+},
+{
+"type":"p",
+"hlId":"b0ec1f",
+"children":[
+"Posteroanterior and lateral radiographs of the chest are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of chest"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiography with agitated saline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventilation-perfusion scanning"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"83b22f",
+"children":[
+"Features of hepatopulmonary syndrome include orthodeoxia (worsening oxygen saturation while upright) and platypnea (worsening sense of dyspnea when upright); echocardiography with contrast can confirm the diagnosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8228f8",
+"children":[
+"Patients with cirrhosis and portal hypertension who present with dyspnea on exertion should be suspected of having portopulmonary hypertension; echocardiography is the initial screening test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b542e8",
+"children":[
+"The most appropriate diagnostic test to perform next is echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients with cirrhosis and portal hypertension are at risk for hepatopulmonary syndrome and portopulmonary hypertension. In hepatopulmonary syndrome, the pulmonary vasculature becomes dilated, resulting in right-to-left shunting of blood and hypoxemia. Patients may present with characteristic findings of orthodeoxia (worsening oxygen saturation while upright) and platypnea (worsening sense of dyspnea when upright). Dyspnea on exertion suggests possible portopulmonary hypertension, wherein increases in pulmonary arterial pressure cause high right-sided heart pressures. This condition is less common than hepatopulmonary syndrome but carries a high mortality rate. Echocardiography is the best initial diagnostic test in a patient with suspected pulmonary hypertension. If the echocardiogram shows high right-side pressures, potential causes of pulmonary hypertension should be evaluated before portopulmonary hypertension is selected as the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"d4a68b",
+"children":[
+"In this patient with normal pulmonary examination and normal chest radiographs, CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not likely to be helpful. If pulmonary hypertension is confirmed, pulmonary function testing and high-resolution CT of the chest might be useful if interstitial lung disease is a consideration."
+]
+},
+{
+"type":"p",
+"hlId":"2dafcf",
+"children":[
+"The diagnosis of hepatopulmonary syndrome should be suspected in patients with portal hypertension who have symptoms of dyspnea and evidence of hypoxia. Findings of intrapulmonary shunting with contrast administration, such as agitated saline during echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), confirm the diagnosis. This patient's symptoms and findings are not compatible with hepatopulmonary syndrome, and echocardiography with agitated saline is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"72de5c",
+"children":[
+"Progressive exertional dyspnea is the most common symptom of chronic thromboembolic pulmonary hypertension (CTEPH). CTEPH remains an underrecognized cause of pulmonary hypertension and requires a high index of suspicion. Ventilation-perfusion scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most sensitive indicator of CTEPH and should be performed in all patients for whom the diagnosis is suspected. However, the diagnosis of pulmonary hypertension should be confirmed first, and the initial diagnostic study for pulmonary hypertension is echocardiography."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_9",
+"objective":{
+"__html":"Evaluate dyspnea in a patient with cirrhosis."
+},
+"references":[
+[
+"Cartin-Ceba R, Krowka MJ. Pulmonary complications of portal hypertension. Clin Liver Dis. 2019;23:683-711. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31563218",
+"target":"_blank"
+},
+"children":[
+"PMID: 31563218"
+]
+},
+" doi:10.1016/j.cld.2019.06.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":55,
+"C":34,
+"D":7,
+"E":0
+},
+"hlIds":[
+"b0d846",
+"8677c2",
+"b0ec1f",
+"ab9d96",
+"83b22f",
+"8228f8",
+"b542e8",
+"d4a68b",
+"2dafcf",
+"72de5c"
+]
+}

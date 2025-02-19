@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q123",
+"number":123,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 123",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9efb9e",
+"children":[
+"A 29-year-old woman is evaluated for new-onset headache. She reports a 3-month history of twice-monthly severe hemicranial throbbing headaches associated with photophobia that may last between 4 and 72 hours and are sometimes incapacitating. The headaches respond partially to acetaminophen."
+]
+},
+{
+"type":"p",
+"hlId":"31ca09",
+"children":[
+"Physical examination findings, including vital signs, are normal. Brain MRI is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dihydroergotamine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Naproxen sodium"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxycodone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sumatriptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9fa407",
+"children":[
+"The effectiveness of the NSAIDs ibuprofen, naproxen sodium, and diclofenac potassium for acute episodic migraine headache is supported by strong evidence."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a87d9f",
+"children":[
+"Guidelines recommend the use of triptans in patients with moderate to severe migraine who have not responded to NSAID therapy over a series of at least three migraine attacks."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aaaa43",
+"children":[
+"This patient should be treated with naproxen sodium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for acute episodic migraine. Evidence-based guidelines recommend several simple and combination analgesic agents as first-line therapies for acute migraine. Acetaminophen has established efficacy only in migraine of mild to moderate intensity; data suggest the response may be enhanced by coadministration with metoclopramide. Aspirin administered alone or in combination with acetaminophen and caffeine also has established efficacy in acute migraine. The effectiveness of the NSAIDs ibuprofen, naproxen sodium, and diclofenac potassium is supported by strong evidence."
+]
+},
+{
+"type":"p",
+"hlId":"cce92f",
+"children":[
+"Ergot alkaloids, such as dihydroergotamine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), have been used for years to treat moderate to severe migraine headaches but have largely been replaced by triptans, which have better safety and tolerability profiles. Parenteral and nasal formulations of dihydroergotamine are the most available and effective options among the ergot alkaloids."
+]
+},
+{
+"type":"p",
+"hlId":"76d54d",
+"children":[
+"Guidelines recommend avoiding the use of opioids, such as oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and butalbital-containing compounds for acute migraine. In addition to the potential for dependence or addiction, use of these agents has been linked to an increased risk for transformation from episodic to chronic migraine. They should be used sparingly and only when more appropriate acute therapies are contraindicated."
+]
+},
+{
+"type":"p",
+"hlId":"03b4fb",
+"children":[
+"Triptans, such as sumatriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), are migraine-specific selective agonists at 5-hydroxytryptamine 1B and 1D receptors. These drugs inhibit the release of calcitonin gene–related peptide, which mediates cerebral vasodilation, neurogenic inflammation, and pain sensitization of migraine. Guidelines recommend the use of triptans in patients with moderate to severe migraine who have not responded to NSAID therapy over a series of at least three migraine attacks. Current evidence suggests that all oral triptans possess nearly similar clinical efficacy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_3_1_3",
+"objective":{
+"__html":"Treat acute episodic migraine."
+},
+"references":[
+[
+"Ashina M. Migraine. N Engl J Med. 2020;383:1866-1876. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33211930",
+"target":"_blank"
+},
+"children":[
+"PMID: 33211930"
+]
+},
+" doi:10.1056/NEJMra1915327"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9efb9e",
+"31ca09",
+"1054f1",
+"9fa407",
+"a87d9f",
+"aaaa43",
+"cce92f",
+"76d54d",
+"03b4fb"
+]
+}

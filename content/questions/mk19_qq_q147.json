@@ -1,0 +1,228 @@
+{
+"id":"mk19_qq_q147",
+"number":147,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 147",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b4a0a1",
+"children":[
+"A 24-year-old woman is evaluated for excessive water ingestion and urinary frequency. She has bipolar disorder and pulmonary sarcoidosis. Current medications include lithium and low-dose glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"d69cd8",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is normal. Blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level is 108 mg/dL (5.9 mmol/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level is 152 mEq/L (152 mmol/L), and urine osmolality is 117 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. Antidiuretic hormone level is inappropriately low."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Central diabetes insipidus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nephrogenic diabetes insipidus"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Osmotic diuresis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Primary polydipsia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8224e6",
+"children":[
+"Patients with hyperosmolality who have submaximally concentrated urine without evidence of osmotic diuresis have diabetes insipidus by definition."
+]
+},
+{
+"type":"keypoint",
+"hlId":"83115e",
+"children":[
+"Distinguishing between central and nephrogenic diabetes insipidus (DI) in a patient with hyperosmolality can be done by measuring antidiuretic hormone levels (patients with central DI have an inappropriately low level, whereas patients with nephrogenic DI have a normal to elevated level) or by evaluating the response to administering the vasopressor analogue desmopressin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54f877",
+"children":[
+"The most likely cause of this patient's hypernatremia is central diabetes insipidus (DI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has elevated serum osmolality, as estimated by multiplying the serum sodium level by 2 (304 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O) (normal, 275-295 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O). The appropriate kidney response to hyperosmolality is to retain free water, which results in urine osmolality greater than serum osmolality. This response is not seen in this patient (urine osmolality is low compared with serum osmolality); therefore, she has either DI or osmotic diuresis. Patients with hyperosmolality who have submaximally concentrated urine without evidence of osmotic diuresis have DI by definition. The patient's glucose concentration is normal, arguing against osmotic diuresis. Distinguishing between central and nephrogenic DI in a patient who already demonstrates hyperosmolality can be done by measuring antidiuretic hormone (ADH) levels (patients with central DI have an inappropriately low level, whereas patients with nephrogenic DI have a normal to elevated level) or by evaluating the response to administering the vasopressor analogue desmopressin (arginine vasopressin). A significant increase in urine osmolality (>50%) within 1 to 2 hours after administration indicates central DI, whereas a lack of response indicates nephrogenic DI. Central DI can result from tumors that invade the hypothalamus, infiltrating diseases such as sarcoidosis, or surgical destruction. Nephrogenic DI can be caused by medications (for example, lithium), hypokalemia, hypercalcemia, sickle cell disease and trait, and amyloidosis. Central DI can be treated with intranasal or oral desmopressin."
+]
+},
+{
+"type":"p",
+"hlId":"b38998",
+"children":[
+"The patient's antidiuretic hormone measurement is inappropriately low, ruling out the diagnosis of nephrogenic DI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"644082",
+"children":[
+"An osmotic diuresis is most often caused by hyperglycemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient's plasma glucose level is normal. Furthermore, solute diuresis is usually characterized by isotonicity of the urine, whereas this patient has markedly hypotonic urine. Consequently, an osmotic diuresis is an unlikely cause of his hypernatremia."
+]
+},
+{
+"type":"p",
+"hlId":"bf9be4",
+"children":[
+"Patients with primary polydipsia also manifest polyuria and polydipsia but do not develop hypernatremia and hyperosmolality (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). These patients may develop hyponatremia and typically have a clearly identifiable psychiatric illness."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_2_1_1",
+"objective":{
+"__html":"Diagnose central diabetes insipidus."
+},
+"references":[
+[
+"Seay NW, Lehrich RW, Greenberg A. Diagnosis and management of disorders of body tonicity-hyponatremia and hypernatremia: core curriculum 2020. Am J Kidney Dis. 2020;75:272-86. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31606238",
+"target":"_blank"
+},
+"children":[
+"PMID: 31606238"
+]
+},
+" doi:10.1053/j.ajkd.2019.07.014"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b4a0a1",
+"d69cd8",
+"413696",
+"8224e6",
+"83115e",
+"54f877",
+"b38998",
+"644082",
+"bf9be4"
+]
+}

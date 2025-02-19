@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q082",
+"number":82,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"08c28c",
+"children":[
+"A 57-year-old woman is evaluated for enlargement of her hands and feet. Medical history is significant for hypertension. Her only medication is amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"043c2a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 24. The patient has a wide nose and enlargement of hands and feet. Prognathism is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Insulin-like growth factor-1 measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral glucose tolerance test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pituitary MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Random growth hormone measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6c1481",
+"children":[
+"An insulin-like growth factor-1 level is the best screening biomarker for the diagnosis of acromegaly."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e52444",
+"children":[
+"In patients with an elevated insulin-like growth factor-1 level, the diagnosis of acromegaly can be confirmed with an oral glucose tolerance test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e9de78",
+"children":[
+"The most appropriate diagnostic test to perform next is insulin-like growth factor-1 (IGF-1) measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has signs and symptoms of acromegaly, including enlargement of her hands and feet, prognathism, and hypertension. Acromegaly is caused by excess growth hormone (GH) secretion from a pituitary tumor in 95% of patients. Fewer than 5% of patients with GH excess have a GH-releasing hormone-secreting tumor or neuroendocrine tumor. When GH-secreting pituitary tumors occur in children before puberty, the result is increased longitudinal growth, resulting in gigantism. Although gigantism is easily recognized in children, features of excess GH (acromegaly) are more subtle in adults and may not be recognized for years. Because IGF-1 is produced in the liver in response to GH stimulation, obtaining an IGF-1 level is the most appropriate method to evaluate for acromegaly and it is the best screening biomarker for acromegaly because it is more stable than GH level. IGF-1 levels are normalized for age and sex, and aging lowers the normal range of IGF-1."
+]
+},
+{
+"type":"p",
+"hlId":"4f583c",
+"children":[
+"If a patient's IGF-1 level is elevated, then an oral glucose tolerance test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can confirm the diagnosis of acromegaly. This test is performed by administering 75 g of oral glucose and measuring GH levels every 30 minutes for 120 minutes. GH less than 0.2 ng/mL (0.2 μg/L) is a normal response, whereas a GH nadir of 1.0 ng/mL (1.0 μg/L) or greater is diagnostic of acromegaly."
+]
+},
+{
+"type":"p",
+"hlId":"dec877",
+"children":[
+"Because the diagnosis of an endocrine disorder is always made on the basis of laboratory evaluation before imaging, a pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be obtained in this patient before measuring her IGF-1. Small incidentally noted pituitary lesions are common. In patients undergoing MRI for nonpituitary reasons, microadenomas are found in 10% to 38% of cases whereas incidental macroadenomas are seen in 0.2% of cases. Most pituitary incidentalomas (a pituitary lesion discovered incidentally on imaging) are benign nonfunctional adenomas. Because many patients may have a pituitary incidentaloma, obtaining imaging before a biochemical diagnosis of pituitary excess disorders may be misleading. When laboratory evaluation shows GH excess, a pituitary MRI should be obtained."
+]
+},
+{
+"type":"p",
+"hlId":"4eb977",
+"children":[
+"Because GH is pulsatile, measuring a random GH level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may result in a false-negative result and possibly a missed diagnosis of acromegaly."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_5_3",
+"objective":{
+"__html":"Diagnose acromegaly."
+},
+"references":[
+[
+"Giustina A, Barkan A, Beckers A, et al. A Consensus on the diagnosis and treatment of acromegaly comorbidities: an update. J Clin Endocrinol Metab. 2020;105. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31606735",
+"target":"_blank"
+},
+"children":[
+"PMID: 31606735"
+]
+},
+" doi:10.1210/clinem/dgz096"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":78,
+"B":7,
+"C":7,
+"D":7,
+"E":0
+},
+"hlIds":[
+"08c28c",
+"043c2a",
+"2eb226",
+"6c1481",
+"e52444",
+"e9de78",
+"4f583c",
+"dec877",
+"4eb977"
+]
+}

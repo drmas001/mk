@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q039",
+"number":39,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"814e77",
+"children":[
+"A 71-year-old man is evaluated during a follow-up visit. He underwent radical prostatectomy for prostate cancer 10 years ago. Androgen deprivation therapy was initiated 6 years ago for rising ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prostate-specific antigen, serum",
+"children":[
+"prostate-specific antigen"
+]
+},
+" (PSA) levels. His PSA fell rapidly and became undetectable until 6 months ago, when it rose from 0.7 ng/mL (0.7 µg/L) to its present level of 5 ng/mL (5 µg/L). Testosterone remains suppressed. Medical history is otherwise unremarkable, and his only medication is leuprolide acetate."
+]
+},
+{
+"type":"p",
+"hlId":"5dc054",
+"children":[
+"On physical examination, vital signs are normal, and all examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"cecadf",
+"children":[
+"CT and bone scan show no evidence of metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6eef87",
+"children":[
+"Which of the following is the most appropriate treatment at this time?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Androgen receptor blocker"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bone-seeking isotope"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"CYP17 inhibitor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ee628c",
+"children":[
+"Men with nonmetastatic prostate cancer and a very slowly rising prostate-specific antigen level do not always need treatment because development of clinical metastatic disease may take years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"41d71f",
+"children":[
+"Androgen receptor blockers have been shown to improve metastasis-free survival in patients with nonmetastatic, castrate-resistant prostate cancer with rapidly rising prostate-specific antigen levels."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"81e076",
+"children":[
+"This patient has castrate-resistant M0 prostate cancer and should be treated with an androgen receptor blocker (apalutamide or enzalutamide) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). M0 castrate-resistant prostate cancer occurs when the prostate-specific antigen (PSA) level rises without evidence of clinical metastatic disease in men being treated with androgen deprivation therapy (ADT). This condition does not always require treatment, as in men with a very slowly rising PSA level because it can take years before there is development of clinical metastatic disease. However, in a patient with a rapidly rising PSA level (e.g., doubling time ≤10 months), treatment is indicated, as development of clinical metastatic disease typically occurs much sooner. Treatment with androgen receptor blockers improves overall survival in this patient population. A large, randomized, placebo-controlled trial study concluded that apalutamide improved median metastasis-free survival from 16.2 months to 40.5 months. Apalutamide and enzalutamide are both standard treatments for this patient population."
+]
+},
+{
+"type":"p",
+"hlId":"2dae86",
+"children":[
+"Bone-seeking isotope treatment with radium-223 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated for treatment of castrate-resistant metastatic prostate cancer with bone-only or bone-predominant metastatic disease. This agent is not indicted for treatment of men without metastatic disease."
+]
+},
+{
+"type":"p",
+"hlId":"62b5d1",
+"children":[
+"Chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for treatment of M1 castrate-resistant prostate cancer. This patient does not have M1 disease as discussed previously. In the form of docetaxel, it can also be used in combination with ADT in the initial treatment of men with high-volume, castrate-sensitive metastatic prostate cancer. High-volume prostate cancer is typically defined as visceral metastases or four or more bone lesions with one or more outside the axial skeleton."
+]
+},
+{
+"type":"p",
+"hlId":"a07d11",
+"children":[
+"Treatment with a CYP17 inhibitor (abiraterone) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an established treatment for de novo M1 castrate-sensitive prostate cancer and M1 castrate-resistant metastatic prostate cancer. It is not indicated for M0 castrate-resistant prostate cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_1_4",
+"objective":{
+"__html":"Treat castrate-resistant M0 prostate cancer with apalutamide."
+},
+"references":[
+[
+"Smith MR, Saad F, Chowdhury S, et al; SPARTAN Investigators. Apalutamide treatment and metastasis-free survival in prostate cancer. N Engl J Med. 2018;378:1408-18. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29420164",
+"target":"_blank"
+},
+"children":[
+"PMID: 29420164"
+]
+},
+" doi:10.1056/NEJMoa1715546"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":62,
+"B":7,
+"C":16,
+"D":16,
+"E":0
+},
+"hlIds":[
+"814e77",
+"5dc054",
+"cecadf",
+"6eef87",
+"ee628c",
+"41d71f",
+"81e076",
+"2dae86",
+"62b5d1",
+"a07d11"
+]
+}

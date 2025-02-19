@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_gi_q078",
+"number":78,
+"bookId":"gi",
+"correctAnswer":"E",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"82065c",
+"children":[
+"A 46-year-old woman is evaluated at a follow-up visit after being diagnosed with gallstones. She was evaluated in the emergency department 4 days ago for bothersome early satiation and postprandial fullness. A right-upper-quadrant ultrasound revealed several gallstones."
+]
+},
+{
+"type":"p",
+"hlId":"f64a6b",
+"children":[
+"On physical examination, vital signs are normal. BMI is 37. Abdomen is nontender to palpation."
+]
+},
+{
+"type":"p",
+"hlId":"2abeae",
+"children":[
+"The ultrasound report describes multiple stones approximately 1 cm without gallbladder calcification, polyps, or biliary dilation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8f5d4f",
+"children":[
+"Which of the following is the most appropriate management of the gallstones?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cholecystectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance cholangiopancreatography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ursodeoxycholic acid"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b9b938",
+"hvc":true,
+"children":[
+"Incidental gallstones do not typically cause symptoms, and prophylactic cholecystectomy and other treatments are generally not recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e1a7d1",
+"children":[
+"The most appropriate management is clinical observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Gallstones are asymptomatic in most patients. Symptomatic gallstone disease manifests as colicky pain resulting from stimulation of the gallbladder in the presence of an obstructive cystic duct from gallstones or sludge. This pain is typically of relatively acute onset, is fairly severe and steady, and is located in the right upper quadrant or epigastrium. Pain may radiate to the right scapula and can be associated with nausea, vomiting, and diaphoresis, lasting 30 minutes to 6 hours. This symptom complex may be precipitated by eating a fatty meal, which causes gallbladder contraction. Patients with unrelenting right-upper-quadrant or epigastric pain, bothersome early satiety, or postprandial fullness generally do not have biliary colic. Asymptomatic gallstones are commonly discovered when patients undergo abdominal imaging (CT or ultrasonography) for unrelated reasons. Incidental gallstones do not typically cause symptoms, and prophylactic cholecystectomy is generally not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"5d97fb",
+"children":[
+"Cholecystectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in asymptomatic patients at high risk for gallbladder cancer, including patients with gallstones larger than 3 cm, porcelain (calcified) gallbladder, or gallbladder polyps larger than 1 cm in size. This patient does not have these risk factors."
+]
+},
+{
+"type":"p",
+"hlId":"cd9216",
+"children":[
+"Endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be indicated for choledocholithiasis (stones present in the bile ducts) or cholangitis (infection of the biliary tree). Choledocholithiasis can often be visualized on transabdominal ultrasonography or is suggested by an elevated serum bilirubin level and dilated common duct on ultrasonography. Acute cholangitis is characterized by fever, jaundice, and right-upper-quadrant pain. This patient's clinical findings do not suggest choledocholithiasis or cholangitis."
+]
+},
+{
+"type":"p",
+"hlId":"8b5a6d",
+"children":[
+"In patients who have indeterminate findings suggesting a common bile duct stone, magnetic resonance cholangiopancreatography (MRCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or endoscopic ultrasonography may be performed as a less invasive diagnostic alternative to ERCP. There is no role for MRCP or endoscopic ultrasonography, however, in the evaluation of a patient with asymptomatic gallstones without risk factors for gallbladder cancer or suspected choledocholithiasis."
+]
+},
+{
+"type":"p",
+"hlId":"6d4b39",
+"children":[
+"Ursodeoxycholic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be considered for dissolving cholesterol stones in patients with biliary colic who cannot tolerate surgery. This agent has no role in patients with low-risk, asymptomatic gallstones."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s7_1",
+"objective":{
+"__html":"Manage asymptomatic gallstones."
+},
+"references":[
+[
+"Ibrahim M, Sarvepalli S, Morris-Stiff G, et al. Gallstones: watch and wait, or intervene? Cleve Clin J Med. 2018;85:323-331. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29634468",
+"target":"_blank"
+},
+"children":[
+"PMID: 29634468"
+]
+},
+" doi:10.3949/ccjm.85a.17035"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":46,
+"B":3,
+"C":2,
+"D":4,
+"E":45
+},
+"hlIds":[
+"82065c",
+"f64a6b",
+"2abeae",
+"8f5d4f",
+"b9b938",
+"e1a7d1",
+"5d97fb",
+"cd9216",
+"8b5a6d",
+"6d4b39"
+]
+}

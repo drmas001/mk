@@ -1,0 +1,222 @@
+{
+"id":"mk19_a_np_q068",
+"number":68,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"45d512",
+"children":[
+"A 52-year-old woman is evaluated during a follow-up visit for hypertension. Losartan and chlorthalidone were started 1 month ago. She adheres to her medication regimen and low sodium diet. She has no other medical problems and takes no other medications. Previous ECG and results of a comprehensive metabolic profile and urinalysis were normal."
+]
+},
+{
+"type":"p",
+"hlId":"00e1ab",
+"children":[
+"On physical examination, blood pressure is 145/82 mm Hg, and pulse rate is 70/min; other vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"294932",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.8 mg/dL (70.7 µmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"serum potassium"
+]
+},
+" level of 3.6 mEq/L (3.6 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aliskiren"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Amlodipine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hydralazine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hydrochlorothiazide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a71fc2",
+"children":[
+"Two strategies can be used for antihypertensive dose adjustment in the treatment of hypertension: maximize medication dose before adding another agent or add another agent before maximizing the dose of the prior agents."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b2f507",
+"children":[
+"Two drugs from classes that target the same blood pressure control system are less effective and potentially harmful when used together."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9232c1",
+"children":[
+"The most appropriate additional treatment is amlodipine, a calcium channel blocker (CCB) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient with hypertension requires escalation of her antihypertensive medication regimen because her blood pressure (BP) is not at target. The 2017 American College of Cardiology/American Heart Association BP guideline recommends a BP target of <130/80 mm Hg. Two strategies can be used: maximize medication dose before adding another agent or add another agent from a different class of medication before maximizing the dose of the prior agents. There are no randomized trials comparing these strategies. Generally, there is diminishing return in BP lowering if dose is titrated up from 50% to 100% of maximum. Also, it is unlikely that increasing the dose of a drug from 50% to 100% of maximum will result in a significant BP reduction. Finally, titration to maximum doses more commonly results in side effects and may reduce medication adherence. Therefore, adding a third drug to a two-drug regimen is a strategy recommended by many experts."
+]
+},
+{
+"type":"p",
+"hlId":"a4e6f8",
+"children":[
+"Two drugs from classes that target the same BP control system are less effective and potentially harmful when used together. For example, administration of combination therapy with renin-angiotensin system blockers, such as an ACE inhibitor with an angiotensin receptor blocker (ARB) or an ACE inhibitor or ARB with the direct renin inhibitor aliskiren, increases cardiovascular and renal risk. Therefore, aliskiren should not be added (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"ee7b37",
+"children":[
+"Hydralazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the best option, because agents shown to reduce clinical events (such as thiazide diuretics, calcium channel blockers, ACE inhibitors, ARBs) should be used preferentially. Additionally, it is a thrice-daily medication. Use of longer-acting antihypertensive drugs that only require once-daily dosing and combination pills to reduce pill burden can increase adherence."
+]
+},
+{
+"type":"p",
+"hlId":"3fc1f8",
+"children":[
+"Adding hydrochlorothiazide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not the best option because two thiazide diuretics will not improve BP control in this patient and risks the development of hypokalemia. However, concomitant use of diuretics that have different mechanisms of action, such as a combination of a thiazide diuretic, potassium-sparing diuretic, and/or a loop diuretic, can effectively control extracellular volume and hypertension."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_7_2_3_4",
+"objective":{
+"__html":"Adjust an antihypertensive medication regimen using combination drug therapy."
+},
+"references":[
+[
+"Byrd JB, Brook RD. Hypertension. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201905070",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:ITC65-ITC80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31060074",
+"target":"_blank"
+},
+"children":[
+"PMID: 31060074"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":90,
+"C":1,
+"D":4,
+"E":0
+},
+"hlIds":[
+"45d512",
+"00e1ab",
+"294932",
+"78ff87",
+"a71fc2",
+"b2f507",
+"9232c1",
+"a4e6f8",
+"ee7b37",
+"3fc1f8"
+]
+}

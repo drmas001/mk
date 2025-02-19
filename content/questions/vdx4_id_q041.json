@@ -1,0 +1,127 @@
+{
+"id":"vdx4_id_q041",
+"number":41,
+"bookId":"vdx_id",
+"correctAnswer":"D",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fba315",
+"children":[
+"A 44-year-old man is evaluated for fever and worsening back pain of 2 weeks' duration."
+]
+},
+{
+"type":"p",
+"hlId":"7d21e4",
+"children":[
+"A radiograph of the spine is ",
+{
+"type":"figure-link",
+"target":"vdx4_id_mcq_f041",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_id_mcq_f041"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Epidural abscess"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Metastatic tumor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Multiple myeloma"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vertebral osteomyelitis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e7fc70",
+"children":[
+"The most likely diagnosis is vertebral osteomyelitis. Typical findings in hematogenous vertebral osteomyelitis consist of destructive changes of two contiguous vertebral bodies with collapse of the intervening disk space. This image shows osteopenia of the affected vertebrae, loss of visible disk margins in some areas, narrowing of the disk space, and erosions into the vertebral bodies. The infection is rarely confined to a single vertebra; however, when this does occur, it can lead to collapse of the vertebral body, mimicking an ordinary vertebral compression fracture."
+]
+},
+{
+"type":"p",
+"hlId":"fe30bf",
+"children":[
+"Plain radiography is not adequately sensitive to exclude a diagnosis of osteomyelitis, but it is recommended during initial evaluation because of the relatively low cost. The specificity of plain radiography is sufficient to confirm the diagnosis in most patients. If a plain radiograph is not diagnostic, MRI, with and without intravenous contrast, is preferred. If MRI cannot be obtained because of specific contraindications, CT with intravenous contrast is an alternative."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_5",
+"objective":{
+"__html":"Diagnose vertebral osteomyelitis using radiography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_id_mcq_f041":{
+"id":"vdx4_id_mcq_f041",
+"number":41,
+"bookId":"vdx_id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"00bb961ee228e562f0ddb0b392bdd204",
+"height":1625,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"fba315",
+"7d21e4",
+"413696",
+"e7fc70",
+"fe30bf"
+]
+}

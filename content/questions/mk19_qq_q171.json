@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q171",
+"number":171,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 171",
+"stimulus":[
+{
+"type":"p",
+"hlId":"543046",
+"children":[
+"A 48-year-old woman is evaluated for acute alcoholic hepatitis. She reports a 6-week history of binge drinking, a 2-week history of jaundice, and a 3-day history of fever. She has no other risk factors for liver disease and no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"d41f76",
+"children":[
+"Temperature is 38.5 °C (101.3 °F). Jaundice and tender hepatomegaly are present. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"alanine aminotransferase"
+]
+},
+" levels are 124 U/L and 57 U/L, respectively. Maddrey discriminant function score is greater than 32. Supportive treatment is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supportive treatment alone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"34f527",
+"children":[
+"A history of excessive alcohol consumption, low-grade fever, jaundice, tender hepatomegaly, an aspartate-to-alanine aminotransferase ratio greater than 2, and a Maddrey discriminant function score of 32 or more are consistent with severe alcoholic hepatitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"41a1da",
+"children":[
+"In the absence of systemic infection, acute kidney injury, uncontrolled gastrointestinal bleeding, and multiorgan failure, prednisolone is the treatment of choice for severe alcoholic hepatitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f741d3",
+"children":[
+"The patient's history of excessive alcohol consumption and findings of low-grade fever, jaundice, tender hepatomegaly, an aspartate-to-alanine aminotransferase ratio greater than 2, and a Maddrey discriminant function (MDF) score of 32 or more are consistent with severe alcoholic hepatitis, for which prednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the treatment of choice. Alcoholic hepatitis, an acute liver inflammation associated with alcohol intake, usually occurs in patients with a history of heavy and prolonged alcohol use. The MDF score is used to select patients for glucocorticoid treatment after ruling out contraindications, such as systemic infection, acute kidney injury, uncontrolled gastrointestinal bleeding, and multiorgan failure. If the patient shows improvement after the first week, glucocorticoids are continued along with nutritional support for a total of 28 days. Improved short-term survival (30 days) is achieved in approximately 50% of patients on glucocorticoids, whereas long-term survival heavily depends on the degree of coexistent chronic liver disease and abstinence from alcohol. Patients who do not respond to glucocorticoids may become candidates for liver transplantation or palliative care."
+]
+},
+{
+"type":"p",
+"hlId":"528e37",
+"children":[
+"A liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not routinely recommended in patients with alcoholic hepatitis but may be necessary if other causes of liver disease are present or suspected and/or the history of alcohol use is unclear."
+]
+},
+{
+"type":"p",
+"hlId":"481b26",
+"children":[
+"Pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been used in patients with contraindications to glucocorticoids, although its use remains controversial due to inconclusive data supporting its benefit. The American College of Gastroenterology makes a conditional recommendation against its use for severe alcoholic hepatitis based on the low level of existing evidence."
+]
+},
+{
+"type":"p",
+"hlId":"bf43d6",
+"children":[
+"Nonsevere alcoholic hepatitis (MDF score <32) requires supportive measures (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and should not be treated with prednisolone. All patients require assessment for nutritional deficiencies, nutritional management, thiamine replacement, and alcohol treatment, with a goal of abstinence. This patient has severe alcoholic hepatitis, and treatment with prednisone is indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_4",
+"objective":{
+"__html":"Treat alcoholic hepatitis with prednisolone."
+},
+"references":[
+[
+"Crabb DW, Im GY, Szabo G, et al. Diagnosis and treatment of alcohol-associated liver diseases: 2019 practice guidance from the American Association for the Study of Liver Diseases. Hepatology. 2020;71:306-333. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31314133",
+"target":"_blank"
+},
+"children":[
+"PMID: 31314133"
+]
+},
+" doi:10.1002/hep.30866"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"543046",
+"d41f76",
+"cb2b54",
+"34f527",
+"41a1da",
+"f741d3",
+"528e37",
+"481b26",
+"bf43d6"
+]
+}

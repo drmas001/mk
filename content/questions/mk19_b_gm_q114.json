@@ -1,0 +1,224 @@
+{
+"id":"mk19_b_gm_q114",
+"number":114,
+"bookId":"gm2",
+"correctAnswer":"E",
+"title":"Question 114",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ff822",
+"children":[
+"A 58-year-old woman comes to the office for a routine follow-up visit. Medical history is significant for hypertension, hyperlipidemia, and diabetes mellitus. She remains asymptomatic and active. Medications are metformin, empagliflozin, chlorthalidone, and atorvastatin. She consumes a heart-healthy diet, exercises 150 minutes weekly, and does not smoke. She drinks one glass of red wine nightly. She recently began taking vitamins A, C, E, and D with calcium for primary prevention of cardiovascular disease."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"38963f",
+"children":[
+"Which of the following supplements can be recommended as most likely to help the patient meet her therapeutic goal?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Vitamin A"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Vitamin C"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Vitamin D with calcium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin E"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No vitamin or supplement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2be15a",
+"hvc":true,
+"children":[
+"No vitamin or supplement can be recommended to prevent cardiovascular disease due to lack of evidence for efficacy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"439e5c",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force recommends against the use of β-carotene or vitamin E supplements for the prevention of cardiovascular disease because of evidence demonstrating lack of efficacy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4ffbfc",
+"children":[
+"No vitamin or supplement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can be recommended to prevent cardiovascular disease. Overall, the U.S. Preventive Services Task Force (USPSTF) found inadequate evidence on the benefits of supplementation with multivitamins to reduce the risk for cardiovascular disease. In addition, the USPSTF found inadequate evidence on the benefits of supplementation with individual vitamins or minerals or functional pairs in healthy populations without known nutritional deficiencies to reduce the risk for cardiovascular disease. Although these interventions lack proof of efficacy in the prevention of cardiovascular disease, they appear to be without harm if taken in recommended doses."
+]
+},
+{
+"type":"p",
+"hlId":"817833",
+"children":[
+"The USPSTF reviewed five studies of vitamin A (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") supplementation in healthy patients without deficiencies. None of the studies reported cardiovascular disease incidence. Two trials reported all-cause mortality, but no significant difference was observed between the intervention and control groups."
+]
+},
+{
+"type":"p",
+"hlId":"36b10a",
+"children":[
+"The USPSTF cited two studies that reported the effects of vitamin C (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), either alone or in combination with other supplements, and found no statistically significant effect on cardiovascular disease or all-cause mortality."
+]
+},
+{
+"type":"p",
+"hlId":"be6f43",
+"children":[
+"The USPSTF reported on two trials that studied the effects of vitamin D on cardiovascular disease and found no effect on disease incidence or mortality. The USPSTF found only one trial that reported cardiovascular disease incidence and mortality and all-cause mortality with combined use of vitamin D and calcium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and it found no effect after 7 years of follow-up."
+]
+},
+{
+"type":"p",
+"hlId":"ccdd25",
+"children":[
+"The USPSTF found adequate evidence that supplementation with β-carotene or vitamin E (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in healthy populations without known nutritional deficiencies does not reduce the risk for cardiovascular disease. The USPSTF recommends against the use of β-carotene or vitamin E supplements for the prevention of cardiovascular disease."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_6",
+"objective":{
+"__html":"Avoid recommending vitamins for the prevention of cardiovascular disease."
+},
+"references":[
+[
+"Moyer VA; U.S. Preventive Services Task Force. Vitamin, mineral, and multivitamin supplements for the primary prevention of cardiovascular disease and cancer: U.S. Preventive services Task Force recommendation statement. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M14-0198",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2014;160:558-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24566474",
+"target":"_blank"
+},
+"children":[
+"PMID: 24566474"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":0,
+"B":0,
+"C":20,
+"D":7,
+"E":72
+},
+"hlIds":[
+"7ff822",
+"f8786b",
+"38963f",
+"2be15a",
+"439e5c",
+"4ffbfc",
+"817833",
+"36b10a",
+"be6f43",
+"ccdd25"
+]
+}

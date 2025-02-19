@@ -1,0 +1,111 @@
+{
+"id":"vdx4_rm_q001",
+"number":1,
+"bookId":"vdx_rm",
+"correctAnswer":"D",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"78371c",
+"children":[
+"A 42-year-old man with a long history of rheumatoid arthritis is incidentally found to have multiple nodules on chest radiography. He is asymptomatic. ",
+{
+"type":"figure-link",
+"target":"vdx4_rm_mcq_f001",
+"wrapId":"1",
+"children":[
+"Chest CT"
+]
+},
+" is performed."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_rm_mcq_f001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Disseminated histoplasmosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Microscopic polyangiitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Miliary tuberculosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rheumatoid nodules"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c130fb",
+"children":[
+"The findings on this patient's chest CT scan are consistent with pulmonary rheumatoid nodules. Rheumatoid nodules in the lung histologically resemble rheumatoid nodules occurring elsewhere. As seen in this image, rheumatoid nodules in the lung are typically located in subpleural areas or near interlobular septa. They may be solitary or multiple, and either solid or cavitary. Although usually asymptomatic, in some patients they may lead to complications, such as pneumothorax, bronchopleural fistula, and hemoptysis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s3_3",
+"objective":{
+"__html":"Identify pulmonary nodules associated with rheumatoid arthritis on chest CT."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_rm_mcq_f001":{
+"id":"vdx4_rm_mcq_f001",
+"number":1,
+"bookId":"vdx_rm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"a7fc0649f5e747de3f5f23eab73f966e",
+"height":439,
+"width":440,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"78371c",
+"413696",
+"c130fb"
+]
+}

@@ -1,0 +1,267 @@
+{
+"id":"mk19_a_on_q033",
+"number":33,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3906d1",
+"children":[
+"A 37-year-old woman is evaluated in the emergency department for fever 1 week after her second cycle of chemotherapy for breast cancer. She has no focal symptoms, is otherwise healthy, and takes no medications. The patient lives with her partner 20 minutes from the hospital."
+]
+},
+{
+"type":"p",
+"hlId":"41c4ad",
+"children":[
+"On physical examination, temperature is 38.3 °C (101 °F); other vital signs are normal. She appears well. There is a healed right mastectomy incision, and the left chest port is in place without erythema or tenderness."
+]
+},
+{
+"type":"p",
+"hlId":"47d6a1",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 1,600/µL (1.6 × 10 ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Absolute neutrophil count",
+"children":[
+"absolute neutrophil count"
+]
+},
+" of 600/μL (0.6 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 11.1 g/dL (111 g/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" 167,000/µL (167 × 10 ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Urinalysis and basic metabolic panel are normal. Blood cultures are obtained."
+]
+},
+{
+"type":"p",
+"hlId":"9965af",
+"children":[
+"Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e8a00",
+"children":[
+"Which of the following is the most appropriate treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin cefepime; admit the patient"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin cefepime and gentamicin; admit the patient"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Begin ciprofloxacin and amoxicillin/clavulanic acid; discharge the patient home"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discharge the patient home with close follow-up"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fb3061",
+"hvc":true,
+"children":[
+"For selected patients with low-risk neutropenic fever, recommended empiric outpatient treatment includes a fluoroquinolone (i.e., ciprofloxacin or levofloxacin) plus amoxicillin/clavulanate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a30085",
+"hvc":true,
+"children":[
+"There is no better therapeutic success but rather an increased risk of toxicity from adding an aminoglycoside to a broad-spectrum β-lactam in the treatment of febrile neutropenia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"42dd2a",
+"children":[
+"The most appropriate treatment is to begin ciprofloxacin and amoxicillin/clavulanic acid and discharge the patient home (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Selected patients with fever and neutropenia can be managed as outpatients. If the patient is compliant, uncomplicated, hemodynamically stable, does not have significant comorbidities, has no known increased risk to be harboring resistant organisms, and has an anticipated short duration of neutropenia, outpatient management is an option. Published criteria for risk stratification for outpatient management include the Multinational Association for Supportive Care in Cancer index, Talcott's rules, or Clinical Index of Stable Febrile Neutropenia. Published criteria for outpatient management include (1) residence ≤1 hour or ≤30 miles (48 km) from the clinic or hospital, (2) patient's primary care physician or oncologist agrees to outpatient management, (3) ability to comply with logistic requirements, including frequent clinic visits, (4) family member or caregiver at home 24 hours/day, (5) access to a telephone and transportation 24 hours/day, and (6) no history of noncompliance with treatment protocols. Patients should have frequent follow-up by phone or in the office to reassess their status."
+]
+},
+{
+"type":"p",
+"hlId":"07d683",
+"children":[
+"Cefepime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an antipseudomonal β-lactam that is often used as empiric parenteral therapy for febrile neutropenia in hospitalized patients. However, studies have demonstrated that there is a similar level of safety and efficacy with oral versus intravenous regimens as initial empiric therapy for the treatment of low-risk febrile neutropenia."
+]
+},
+{
+"type":"p",
+"hlId":"a24a8b",
+"children":[
+"Clinical studies have also demonstrated that there is no better survival or therapeutic success but rather an increased risk of toxicity from adding an aminoglycoside to a broad-spectrum β-lactam, such as cefepime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), in the treatment of febrile neutropenia."
+]
+},
+{
+"type":"p",
+"hlId":"930148",
+"children":[
+"Given the patient's neutropenia and documented fever, observation without antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be appropriate, as patients with fever and neutropenia can become quite ill rather quickly without antibiotics."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_1_1_1",
+"objective":{
+"__html":"Treat low-risk neutropenic fever in an outpatient."
+},
+"references":[
+[
+"Taplitz RA, Kennedy EB, Bow EJ, et al. Outpatient management of fever and neutropenia in adults treated for malignancy: American Society of Clinical Oncology and Infectious Diseases Society of America Clinical Practice Guideline Update. J Clin Oncol. 2018;36:1443-53. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29461916",
+"target":"_blank"
+},
+"children":[
+"PMID: 29461916"
+]
+},
+" doi:10.1200/JCO.2017.77.6211"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":46,
+"B":12,
+"C":33,
+"D":9,
+"E":0
+},
+"hlIds":[
+"3906d1",
+"41c4ad",
+"47d6a1",
+"9965af",
+"8e8a00",
+"fb3061",
+"a30085",
+"42dd2a",
+"07d683",
+"a24a8b",
+"930148"
+]
+}

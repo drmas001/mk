@@ -1,0 +1,191 @@
+{
+"id":"mk19_b_gm_q121",
+"number":121,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 121",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"60b5cd",
+"children":[
+"A 65-year-old woman is evaluated during a wellness visit. She received the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine 7 years ago; the 23-valent pneumococcal polysaccharide vaccine 6 years ago; the two-dose recombinant herpes zoster vaccine (spaced 7 months apart) 3 years ago; and the influenza vaccine during the most recent influenza season. She has also been vaccinated against COVID-19. Her medical history is unremarkable. She is a current smoker with a 35–pack-year history and is planning to quit. She does not use alcohol or recreational drugs. She has no plans for international travel. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"37133d",
+"children":[
+"After a discussion of risks and benefits, the patient wants to receive all age-appropriate vaccinations."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4d9485",
+"children":[
+"Which of the following is the most appropriate vaccine to administer at this visit?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Recombinant herpes zoster vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Tetanus and diphtheria toxoids vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"20-Valent pneumococcal conjugate vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"23-Valent pneumococcal polysaccharide vaccine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"10862b",
+"children":[
+"Eligible patients who previously received the 23-valent pneumococcal polysaccharide vaccine should undergo vaccination with either of the pneumococcal conjugate vaccines."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0eb976",
+"children":[
+"The most appropriate vaccine to administer at this visit is the 20-valent pneumococcal conjugate vaccine (PCV20) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). According to the CDC Advisory Committee on Immunization Practices (ACIP), adults aged 65 years or older should receive either the PCV20 alone or the 15-valent pneumococcal conjugate vaccine (PCV15) followed by the 23-valent pneumococcal polysaccharide vaccine (PPSV23) at least 1 year later. Patients aged 19 to 64 years with underlying medical conditions or immunocompromise should also undergo vaccination. Eligible patients who previously received the PPSV23, such as this patient, should receive either of the pneumococcal conjugate vaccines. If PCV15 is used, follow-up vaccination with PPSV23 would not be necessary, as this patient has already received PPSV23. This patient meets the age criteria for vaccination and also has an underlying medical condition (cigarette smoking) that would prompt vaccination regardless of age. The ACIP does not recommend revaccination with PPSV23 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). PPSV23 administration would be indicated only if she had previously received PCV15 to complete the PCV15/PPSV23 series."
+]
+},
+{
+"type":"p",
+"hlId":"7249aa",
+"children":[
+"The ACIP recommends that adults aged 50 years or older receive the two-dose recombinant herpes zoster vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") administered 2 to 6 months apart. Although this patient received her doses 7 months apart, this is not expected to decrease the efficacy of the vaccine series; a third dose is not indicated for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"08cbc9",
+"children":[
+"The tetanus and diphtheria toxoids (Td) vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated for this patient at this visit. The Td is indicated every 10 years, with at least one dose replaced by the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine. This patient received the Tdap vaccine 7 years ago and will not be due for her next Td vaccination until age 68 years."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_2_2",
+"objective":{
+"__html":"Manage pneumococcal vaccination in a person older than 65 years."
+},
+"references":[
+[
+"Murthy N, Wodi AP, Bernstein H, et al; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M22-0036",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/35175828",
+"target":"_blank"
+},
+"children":[
+"PMID: 35175828"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":4,
+"C":60,
+"D":32,
+"E":0
+},
+"hlIds":[
+"91054a",
+"60b5cd",
+"37133d",
+"4d9485",
+"10862b",
+"0eb976",
+"7249aa",
+"08cbc9"
+]
+}

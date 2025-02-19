@@ -1,0 +1,206 @@
+{
+"id":"mk19_a_nr_q019",
+"number":19,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0a4b33",
+"children":[
+"A 29-year-old woman is evaluated in the emergency department for loss of consciousness. This morning her mother found her unconscious in bed, drooling, and shaking all her limbs. The patient was unresponsive for 3 to 4 minutes, and was confused for about 5 minutes after regaining consciousness. By the time she reached the emergency department, she had recovered completely. She has had no recent illness, including infection, head trauma, or history of prior similar episodes."
+]
+},
+{
+"type":"p",
+"hlId":"431c3e",
+"children":[
+"She has no history of alcohol or illicit drug use. She has no other medical problems and her only medication is a combined oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"a8dda5",
+"children":[
+"Results of a comprehensive metabolic profile and toxicology screen are normal. A CT of the head without contrast in the emergency department is normal. An electroencephalogram has been scheduled."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI without contrast"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the head with contrast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Levetiracetam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lumbar puncture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5fc750",
+"hvc":true,
+"children":[
+"Neuroimaging with brain MRI and electroencephalography are recommended for all adults with a first (new-onset) seizure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f5ae7e",
+"children":[
+"The most appropriate management for this patient is a brain MRI without contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"."
+]
+},
+" For any patient with a first seizure, obtaining a detailed history is crucial to distinguish seizures from other causes of symptoms. Making the distinction between seizure and nonseizure events and first-time versus recurrent episodes is key in selecting the proper management. The patient likely had a first (new-onset) seizure, and neuroimaging is indicated for all adult patients with a first-time seizure. CT of the head is adequate initially to rapidly exclude emergent pathology, including hemorrhage, but MRI is required and preferred in most patients. Because temporal lobe epilepsy is common, MRI sequences focusing on the hippocampus and temporal lobes are useful. Outpatient electroencephalography (EEG) also is recommended in patients with a first seizure (and has already been scheduled in this case). A single routine EEG is only 40% to 50% sensitive in the diagnosis of seizure, but the yield can increase to 80% to 90% with repeated studies, prolonged studies, and studies that capture sleep."
+]
+},
+{
+"type":"p",
+"hlId":"0e8cd5",
+"children":[
+"Following a first seizure, contrast-enhanced CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or MRI may be deferred unless infection, tumor, or vascular lesions are suspected. These imaging procedures are not indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"c86389",
+"children":[
+"Levetiracetam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be indicated for this patient if epilepsy was suspected (i.e., if the seizure recurrence risk was determined to be at least 60%). Determining seizure recurrence risk for this patient would first require brain MRI and EEG to detect the presence of any significant abnormality that would support a diagnosis of epilepsy."
+]
+},
+{
+"type":"p",
+"hlId":"54b6bf",
+"children":[
+"Unlike in children, a seizure in adults is not enough of an indication for lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Other signs of meningitis, such as neck stiffness, fever, altered mental status, or headache, are indications for lumbar puncture; this patient does not have these signs."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_3_3",
+"objective":{
+"__html":"Evaluate a first (new-onset) seizure."
+},
+"references":[
+[
+"Krumholz A, Wiebe S, Gronseth GS, et al. Evidence-based guideline: Management of an unprovoked first seizure in adults: Report of the Guideline Development Subcommittee of the American Academy of Neurology and the American Epilepsy Society. Neurology. 2015;84:1705-13. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25901057",
+"target":"_blank"
+},
+"children":[
+"PMID: 25901057"
+]
+},
+" doi:10.1212/WNL.0000000000001487"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":47,
+"B":11,
+"C":20,
+"D":23,
+"E":0
+},
+"hlIds":[
+"0a4b33",
+"431c3e",
+"a4ff4d",
+"a8dda5",
+"cb2b54",
+"5fc750",
+"f5ae7e",
+"0e8cd5",
+"c86389",
+"54b6bf"
+]
+}

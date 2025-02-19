@@ -1,0 +1,215 @@
+{
+"id":"mk19_b_hm_q045",
+"number":45,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c7e4ca",
+"children":[
+"A 35-year-old man is evaluated in the emergency department for a 2-day history of swelling in his left leg. His mother was diagnosed with a venous thromboembolism at age 50 years. The patient can identify no provoking event. He is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4bd84e",
+"children":[
+"On physical examination, vital signs are normal. The entire left lower extremity is swollen."
+]
+},
+{
+"type":"p",
+"hlId":"6dece1",
+"children":[
+"Lupus anticoagulant, anticardiolipin antibody, and anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibody testing is normal."
+]
+},
+{
+"type":"p",
+"hlId":"4c5e0b",
+"children":[
+"Duplex ultrasonography confirms deep venous thrombosis in the left femoral vein."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"83db61",
+"children":[
+"Which of the following should be measured now to inform immediate treatment decisions?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antithrombin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Factor V Leiden"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Proteins C and S"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"29f47a",
+"hvc":true,
+"children":[
+"The acute management of patients with venous thromboembolism does not differ based on the presence or absence of an inherited thrombophilia; therefore, testing is not necessary."
+]
+},
+{
+"type":"keypoint",
+"hlId":"18371d",
+"hvc":true,
+"children":[
+"Treatment duration for venous thromboembolism disease is typically determined by whether the event was provoked by a reversible or self-limited insult and not by the presence or absence of thrombophilia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d85a16",
+"children":[
+"No hereditary thrombophilia testing performed now will inform immediate treatment decisions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Although identification of the inherited thrombophilias has advanced the understanding of venous thromboembolism (VTE) pathophysiology, it has little influence on clinical management, which does not differ acutely based on the presence of an inherited thrombophilia. Management duration is typically determined by whether the VTE event was provoked by a reversible or self-limited insult. In this patient with an unprovoked deep venous thrombosis, guidelines suggest that extended anticoagulant therapy should be considered regardless of the presence or absence of an inherited thrombophilia. The choice of extended thromboprophylaxis should be informed by bleeding risk and reevaluated each year. The choice of anticoagulant may be influenced by the presence of antiphospholipid antibody syndrome, but this patient's antiphospholipid evaluation was unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"492ed0",
+"children":[
+"Antithrombin III (ATIII) is a natural anticoagulant that can lead to thrombophilia in the setting of an inherited or acquired deficiency. The prevalence of inherited ATIII deficiency is approximately 1 in 3000 to 5000 persons and leads to a strong predisposition for VTE. ATIII is reduced during an acute VTE, and measurement at this time would not provide useful information (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"66f2be",
+"children":[
+"Factor V Leiden (FVL) is the most common inherited thrombophilia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Heterozygous FVL is most common in patients of European ancestry, affecting up to 5% of this population. FVL can be detected by genetic testing (DNA testing) or a functional coagulation test for activated protein C resistance. Although genetic testing now would not affect immediate treatment options for this patient, testing can be performed independent of the presence of an acute thrombosis. Therapy with a direct thrombin inhibitor (argatroban, dabigatran) or an oral factor Xa inhibitor (apixaban, edoxaban, rivaroxaban) can result in falsely normal activated protein C functional test results."
+]
+},
+{
+"type":"p",
+"hlId":"f4b344",
+"children":[
+"Proteins C and S are vitamin K–dependent proteins that degrade activated factors V and VIII (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Inherited deficiencies are generally associated with thromboses before the age of 50 years and are associated with a strong family history of thrombosis. These proteins are also reduced in the setting of acute VTE, and measurement now would not provide useful information or influence immediate treatment."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_1",
+"objective":{
+"__html":"Avoid inappropriate thrombophilia testing in patients with acute venous thromboembolism."
+},
+"references":[
+[
+"Connors JM. Thrombophilia testing and venous thrombosis. N Engl J Med. 2017;377:1177-1187. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28930509",
+"target":"_blank"
+},
+"children":[
+"PMID: 28930509"
+]
+},
+" doi:10.1056/NEJMra1700365"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":35,
+"C":15,
+"D":46,
+"E":0
+},
+"hlIds":[
+"c7e4ca",
+"4bd84e",
+"6dece1",
+"4c5e0b",
+"83db61",
+"29f47a",
+"18371d",
+"d85a16",
+"492ed0",
+"66f2be",
+"f4b344"
+]
+}

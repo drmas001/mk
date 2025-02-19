@@ -1,0 +1,161 @@
+{
+"id":"mk19_a_id_q063",
+"number":63,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f0131",
+"children":[
+"A 46-year-old woman is evaluated for abdominal pain, diarrhea, and low-grade fever of 1 week's duration. She underwent kidney transplantation 4 months ago for end-stage kidney disease resulting from autosomal dominant polycystic kidney disease. She is cytomegalovirus seronegative and received an organ from a cytomegalovirus seropositive donor; she received cytomegalovirus prophylaxis for 3 months after transplantation. Medications are tacrolimus, prednisone, mycophenolate mofetil, and trimethoprim-sulfamethoxazole."
+]
+},
+{
+"type":"p",
+"hlId":"a85b64",
+"children":[
+"On physical examination, temperature is 37.3 °C (99.1 °F); other vital signs are normal. The abdomen is tender in the lower quadrants, but no guarding is noted. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"153ade",
+"children":[
+"Colonoscopy biopsy specimens reveal cytopathic “owl's-eye” intracellular inclusions. Tissue culture is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cidofovir"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Foscarnet"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Letermovir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Valganciclovir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dfecbd",
+"children":[
+"Intravenous ganciclovir is indicated as initial therapy for severe cytomegalovirus infection in immunosuppressed patients; milder disease can be treated with oral valganciclovir."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a92073",
+"children":[
+"The most appropriate empiric therapy is valganciclovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Cytomegalovirus is an important pathogen in transplant recipients, and the risk of cytomegalovirus infection depends on the serologic status of the patient. The highest risk occurs when a seronegative recipient obtains a graft from a cytomegalovirus-seropositive donor because the recipient lacks cytomegalovirus-specific immunity that can protect them from primary cytomegalovirus infection from the donor organ. Cytomegalovirus infection can develop in up to 70% of patients who are cytomegalovirus-seropositive if prophylaxis is not given. Cytomegalovirus infection can cause retinitis, pneumonitis, encephalitis, hepatitis, bone marrow suppression, colitis with bloody diarrhea, esophagitis, and adrenalitis. Cytomegalovirus is an immunomodulatory virus (active infection also results in nonspecific changes in immune system function), and cytomegalovirus reactivation is associated with organ rejection, secondary infection, and an increased risk for graft loss and death. Diagnosis relies on detection of cytomegalovirus by polymerase chain reaction (PCR) (serum, cerebrospinal fluid, bronchioalveolar lavage, or vitreous fluid sample), detection of cytomegalovirus p65 antigen in leukocytes, or by cytopathic demonstration of “owl's eye” intracellular inclusions or positive immunohistochemical stains from tissue biopsy. Severe infection is treated with intravenous ganciclovir; milder disease can be treated with oral valganciclovir and avoids the potential hazard of central line infection. Oral valganciclovir is also used as prophylaxis or pre-emptive therapy (treat if the PCR serum testing result converts to positive) in transplant recipients."
+]
+},
+{
+"type":"p",
+"hlId":"04ac73",
+"children":[
+"Cidofovir and foscarnet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A, B"
+]
+},
+") can be used in instances of ganciclovir resistance or intolerance. Letermovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most recent FDA-approved drug to prevent cytomegalovirus infection in bone marrow transplant recipients. Foscarnet, cidofovir, and letermovir are not indicated in this patient with relatively mild disease who will most likely respond to oral valganciclovir therapy."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_3_4",
+"objective":{
+"__html":"Treat cytomegalovirus colitis."
+},
+"references":[
+[
+"Clausen ES, Zaffiri L. Infection prophylaxis and management of viral infection. Ann Transl Med. 2020;8(6):415. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32355859",
+"target":"_blank"
+},
+"children":[
+"PMID: 32355859"
+]
+},
+" doi:10.21037/atm.2019.11.85"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":15,
+"C":2,
+"D":79,
+"E":0
+},
+"hlIds":[
+"8f0131",
+"a85b64",
+"153ade",
+"1054f1",
+"dfecbd",
+"a92073",
+"04ac73"
+]
+}

@@ -1,0 +1,207 @@
+{
+"id":"mk19_b_rm_q012",
+"number":12,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3d04b1",
+"children":[
+"A 68-year-old man is evaluated for recent onset of mild pain and significant swelling of his left knee. He lives in eastern Pennsylvania and is an avid golfer. Several months ago he had an illness characterized by an enlarging erythematous annular skin lesion in the left popliteal fossa associated with fever, arthralgia, and myalgia that spontaneously resolved after several days."
+]
+},
+{
+"type":"p",
+"hlId":"a25c53",
+"children":[
+"On physical examination, vital signs are normal. Joint examination shows diffuse swelling of the left knee with minimal warmth but no erythema, slight reduction in full flexion of the knee but pain-free range of motion, and a popliteal cyst."
+]
+},
+{
+"type":"p",
+"hlId":"ea9686",
+"children":[
+"Results of serologic testing are positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ceftriaxone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hydroxychloroquine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Methotrexate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f531c",
+"children":[
+"All patients with Lyme arthritis should have positive results on enzyme-linked immunosorbent assay and Western blot confirmatory serologies; this is the primary means of diagnosing Lyme arthritis, although a second enzyme immunoassay can be used as a confirmatory test."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3a191b",
+"children":[
+"Ninety percent of patients with Lyme arthritis are effectively treated with a 28-day course of oral doxycycline or amoxicillin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9cca49",
+"children":[
+"The most appropriate treatment is doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Although arthralgia and myalgia often occur at the earlier stages of Lyme disease, Lyme arthritis is a late-stage manifestation. It is typically monoarticular, most commonly in the knee. It should be suspected in patients who may have had untreated or incompletely treated Lyme disease, although not all patients will have a history compatible with previous Lyme disease. All patients with Lyme arthritis, however, should have positive results on enzyme-linked immunosorbent assay and Western blot confirmatory serologies; this is the primary means of diagnosing Lyme arthritis, although a second enzyme immunoassay can be used as a confirmatory test. In addition, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+" DNA can be detected by polymerase chain reaction in synovial fluid, but this test offers no advantage to serologic testing. Randomized controlled trials have suggested that 90% of patients with Lyme arthritis are effectively treated with a 28-day course of oral antibiotics. Doxycycline is the most widely recommended first choice in antibiotic treatment of Lyme arthritis. Treatment with a 28-day course of amoxicillin is an alternative first-line therapy. For patients whose arthritis improves but does not completely resolve, a second 28-day course of the same antibiotic can be prescribed. For pregnant and lactating women, tetracyclines are generally avoided in favor of a β-lactam antibiotic."
+]
+},
+{
+"type":"p",
+"hlId":"ec8b59",
+"children":[
+"Ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary in most cases of Lyme arthritis because patients generally respond to oral antibiotics. Ceftriaxone is not the first choice for treatment of Lyme arthritis unless concomitant neurologic symptoms are present. It may be given for moderate to severe persistent arthritis after the failure of oral antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"e9b48f",
+"children":[
+"A small subset of patients may have persistent arthritis that suggests a reactive arthritis, which may respond to immunosuppressive therapy. For moderate to severe persistent symptoms, treatment with hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be appropriate, but only after failure of treatment with oral and intravenous antibiotics."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s13_2_3",
+"objective":{
+"__html":"Treat Lyme arthritis."
+},
+"references":[
+[
+"Arvikar SL, Steere AC. Diagnosis and treatment of Lyme arthritis. Infect Dis Clin North Am. 2015;29:269-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25999223",
+"target":"_blank"
+},
+"children":[
+"PMID: 25999223"
+]
+},
+" doi:10.1016/j.idc.2015.02.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":85,
+"C":2,
+"D":0,
+"E":0
+},
+"hlIds":[
+"3d04b1",
+"a25c53",
+"ea9686",
+"1054f1",
+"6f531c",
+"3a191b",
+"9cca49",
+"ec8b59",
+"e9b48f"
+]
+}

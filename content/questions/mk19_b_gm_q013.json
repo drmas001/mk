@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_gm_q013",
+"number":13,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7b31fc",
+"children":[
+"A 34-year-old man is evaluated for an 8-month history of erectile dysfunction and decreased libido. He reports an absence of early-morning erections. He reports no depressive or anxiety-related symptoms. Medical history is significant for a single episode of depression. His only medication is sertraline, initiated 9 months ago."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"e777d7",
+"children":[
+"Laboratory studies show an early morning serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"total testosterone"
+]
+},
+" level of 560 ng/dL (19.4 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Sex therapy counseling"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start intramuscular testosterone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start oral tadalafil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Taper sertraline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"701a14",
+"hvc":true,
+"children":[
+"All patients with erectile dysfunction (ED) must have a thorough medication history performed to determine whether any medications may be contributing to or causing the ED."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ceae1a",
+"hvc":true,
+"children":[
+"Selective serotonin reuptake inhibitors are commonly associated with decreased libido and erectile dysfunction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"994257",
+"children":[
+"The most appropriate management is to taper sertraline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a selective serotonin reuptake inhibitor (SSRI). All patients with erectile dysfunction (ED) must have a thorough medication history performed to determine whether a medication is contributing to or causing the ED. SSRIs are commonly associated with decreased libido and ED, both of which this patient reports. For patients with depression, the American Psychiatric Association recommends continuation therapy (treatment after resolution of a major depressive episode) for 4 to 9 months in patients who responded to acute therapy for a first episode of depression. Antidepressant medications can then be gradually tapered. Because this patient reports no depressive symptoms and has been treated for 8 months, the most appropriate step is a trial taper of sertraline. If his mood worsens when the sertraline is tapered, initiation of the dopamine/norepinephrine reuptake inhibitor bupropion could be considered. Bupropion is typically not associated with ED but can rarely (<1%) be associated with ejaculatory disorders. In addition to antidepressants, other medications commonly implicated in ED are antihypertensive medications, such as β-blockers, spironolactone, thiazide diuretics, and clonidine."
+]
+},
+{
+"type":"p",
+"hlId":"5221e6",
+"children":[
+"Psychotherapy with or without sex therapy counseling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") with a certified therapist is an effective treatment for patients with psychogenic ED. These patients commonly have preserved early-morning and nocturnal erections and frequently report a depressed mood and psychosocial stressors; these factors are not consistent with this patient's presentation. Without evidence of psychogenic ED, a referral for psychotherapy or sex therapy counseling is not the correct management."
+]
+},
+{
+"type":"p",
+"hlId":"8b59b3",
+"children":[
+"According to a 2018 guideline from the American Urological Association, all patients with ED should have an early morning serum total testosterone measurement, which is normal in this patient. There is no role for testosterone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in patients with ED who are not androgen deficient."
+]
+},
+{
+"type":"p",
+"hlId":"148c32",
+"children":[
+"Although phosphodiesterase-5 inhibitors, such as tadalafil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are considered first-line pharmacotherapy for treating ED, tadalafil therapy should not be initiated in this patient without first tapering sertraline, a possible causative agent, because there are no contraindications to doing so."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_1_1",
+"objective":{
+"__html":"Treat medication-induced erectile dysfunction."
+},
+"references":[
+[
+"Burnett AL, Nehra A, Breau RH, et al. Erectile dysfunction: AUA guideline. J Urol. 2018;200:633-41. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29746858",
+"target":"_blank"
+},
+"children":[
+"PMID: 29746858"
+]
+},
+" doi:10.1016/j.juro.2018.05.004"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":1,
+"C":6,
+"D":90,
+"E":0
+},
+"hlIds":[
+"7b31fc",
+"f8786b",
+"e777d7",
+"cb2b54",
+"701a14",
+"ceae1a",
+"994257",
+"5221e6",
+"8b59b3",
+"148c32"
+]
+}

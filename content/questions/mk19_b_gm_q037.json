@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_gm_q037",
+"number":37,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"79e6fe",
+"children":[
+"A 66-year-old woman is evaluated in the emergency department for severe aching pain and visual blurring in the right eye that began 2 hours ago. She describes seeing halos around lights, accompanied by a throbbing, periocular, right-sided headache and nausea. She reports no other symptoms. Medical history is significant for depression and hyperopia. Her only medication is paroxetine."
+]
+},
+{
+"type":"p",
+"hlId":"5e3e35",
+"children":[
+"On physical examination, blood pressure is 160/94 mm Hg and pulse rate is 102/min. The right pupil is 4 mm in diameter and responds minimally to direct light. There is diffuse conjunctival injection, and the cornea appears cloudy. Visual acuity is 20/60. The globe is tense and tender to palpation. There is no erythema or edema of eyelids or surrounding eye structures. Funduscopic examination shows cupping of the optic disc. Examination of the left eye is unremarkable; visual acuity is 20/30."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute angle-closure glaucoma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bacterial keratitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Orbital cellulitis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Scleritis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7b3d0f",
+"children":[
+"Acute angle-closure glaucoma presents with sudden onset of unilateral visual disturbance, which frequently includes seeing halos around lights, accompanied by severe eye pain, eye redness, nausea, vomiting, and headache."
+]
+},
+{
+"type":"keypoint",
+"hlId":"189cbe",
+"children":[
+"Patients with angle-closure glaucoma have narrow anterior chamber angles, which inhibit drainage of the aqueous fluid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"36de38",
+"children":[
+"The most likely diagnosis is acute angle-closure glaucoma (ACG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Acute ACG presents with unilateral visual disturbance and seeing halos around lights, often accompanied by severe eye pain, eye redness, nausea, vomiting, and headache. Patients with ACG have narrow anterior chamber angles, which inhibit drainage of the aqueous fluid; see image ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f037",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_gm_mcq_f037"
+]
+},
+{
+"type":"p",
+"hlId":"47aa38",
+"children":[
+"Attacks of acute ACG more commonly occur in the evening, when lower light levels cause mydriasis and folding back of the iris, blocking the narrow angle. Risk factors for acute ACG include older age; female sex; hyperopia; and receipt of certain drugs, such as selective serotonin reuptake inhibitors. Common examination findings include a mid-dilated, minimally responsive pupil; conjunctival injection; decreased visual acuity; and globe tenderness to palpation. Funduscopic examination reveals an increased cup-to-disc ratio if chronic ACG is also present. Ophthalmology referral within 1 hour of presentation is necessary to minimize risk for permanent visual loss."
+]
+},
+{
+"type":"p",
+"hlId":"14669d",
+"children":[
+"Bacterial keratitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is most commonly seen in patients who use contact lenses and wear their lenses overnight or improperly wash the lenses with nonsterile water. Patients with bacterial keratitis have eye pain, redness, foreign body sensation, and difficulty keeping the affected eye open. They do not see halos around lights or have nausea, vomiting, or periorbital headache, as seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"5c1cbe",
+"children":[
+"Orbital cellulitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an infection of the globe, ocular fat, and ocular muscles of the orbit that can be both vision- and life-threatening because of potential spread into the brain. Patients with orbital cellulitis frequently have ophthalmoplegia and proptosis and not the clouded cornea and pupillary changes seen in this patient. Orbital cellulitis warrants hospitalization for intravenous antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"4e9e3d",
+"children":[
+"Patients with scleritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") present with a painful red eye accompanied by visual disturbance and photophobia. The cardinal sign of scleritis is edema of the sclera, often associated with a violaceous discoloration of the underlying sclera and intense dilation of episcleral blood vessels. Tenderness is invariably present. These findings are not present in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s8_6_2",
+"objective":{
+"__html":"Diagnose acute angle-closure glaucoma."
+},
+"references":[
+[
+"Jonas JB, Aung T, Bourne RR, et al. Glaucoma. Lancet. 2017;390:2183-93. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28577860",
+"target":"_blank"
+},
+"children":[
+"PMID: 28577860"
+]
+},
+" doi:10.1016/S0140-6736(17)31469-1"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":93,
+"B":2,
+"C":2,
+"D":2,
+"E":0
+},
+"figuresContent":{
+"mk19_b_gm_mcq_f037":{
+"id":"mk19_b_gm_mcq_f037",
+"number":37,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"5f9f18f6c52acf16faccb8a2178c19a9",
+"height":284,
+"width":621,
+"extension":"svg",
+"vector":true
+}
+}
+},
+"hlIds":[
+"79e6fe",
+"5e3e35",
+"413696",
+"7b3d0f",
+"189cbe",
+"36de38",
+"47aa38",
+"14669d",
+"5c1cbe",
+"4e9e3d"
+]
+}

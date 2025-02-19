@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q031",
+"number":31,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"340bc1",
+"children":[
+"A 30-year-old man is evaluated for a 1-hour history of a severe headache. He has had similar headaches for the past 2 weeks that start in the evening, last 2 to 3 hours, and are characterized by intense left-sided pain that is periorbital and piercing. Associated features are photophobia, nausea, and ipsilateral tearing. Nasal sumatriptan, acetaminophen, and ibuprofen have not relieved the pain. He has a 7-pack-year smoking history."
+]
+},
+{
+"type":"p",
+"hlId":"04ed18",
+"children":[
+"On physical examination, vital signs are within normal limits. Left ptosis and miosis are noted."
+]
+},
+{
+"type":"p",
+"hlId":"545441",
+"children":[
+"Results of laboratory studies and MRI of the brain with contrast are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Carbamazepine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Indomethacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance angiography of the head and neck"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Subcutaneous sumatriptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c3efbc",
+"children":[
+"Trigeminal autonomic cephalalgias are characterized by severe pain localized to the periorbital or temporal areas and associated with autonomic features, such as nasal congestion or rhinorrhea and ptosis or miosis; cluster headache is the most common subtype."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4432cc",
+"children":[
+"Subcutaneous sumatriptan and oxygen inhalation are effective treatments of cluster headache and are indicated as first-line treatments of attacks."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"25569f",
+"children":[
+"The most appropriate management is subcutaneous sumatriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The clinical presentation is classic for episodic cluster headache, the most common of the trigeminal autonomic cephalalgias (TACs). Male gender and tobacco use are risk factors for cluster headache. Diagnostic criteria require one to eight daily episodes lasting 15 to 180 minutes when untreated. The pain is unilateral and severe and orbital, supraorbital, or temporal in location. Associated features must include at least one ipsilateral cranial autonomic feature (lacrimation, nasal stuffiness or rhinorrhea, conjunctival injection, ptosis, miosis) and/or a sense of restlessness or agitation. Cluster headache has a cyclical nature in which periods of recurrent headache activity are interrupted by months to years of headache remission. Many of the attacks are nocturnal, and some may be provoked by alcohol ingestion. When cluster headache (or any TAC) is suspected, brain MRI is necessary to rule out structural mimics. Subcutaneous sumatriptan and 100% oxygen inhalation are both effective for cluster headache and indicated as first-line treatments of attacks."
+]
+},
+{
+"type":"p",
+"hlId":"4bd221",
+"children":[
+"Carbamazepine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a first-line treatment for trigeminal neuralgia, but the length of this patient's episodes and the presence of autonomic features are not compatible with this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"baae22",
+"children":[
+"Several headache conditions are uniquely responsive to indomethacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), but cluster headache is not among them. Chronic paroxysmal hemicrania is a TAC related to cluster headache that is indomethacin responsive, but episodes are shorter in duration (2-30 minutes) and higher in frequency (5-20 per day) compared with cluster headache. Hemicrania continua and primary cough headache are other examples of indomethacin-responsive headache disorders."
+]
+},
+{
+"type":"p",
+"hlId":"94b682",
+"children":[
+"Carotid angiography and magnet resonance angiography (MRA) of the head and neck (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are preferred options in the evaluation of cervical artery dissections. Although the differential diagnosis of a headache with ptosis and miosis (partial Horner syndrome) includes carotid artery dissection, this diagnosis is unlikely with a pattern of daily, brief, episodic headaches over a span of 2 weeks."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_3_3",
+"objective":{
+"__html":"Treat cluster headache."
+},
+"references":[
+[
+"Hoffmann J, May A. Diagnosis, pathophysiology, and management of cluster headache. Lancet Neurol. 2018 Jan;17(1):75-83. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29174963",
+"target":"_blank"
+},
+"children":[
+"PMID: 29174963"
+]
+},
+" doi:10.1016/S1474-4422(17)30405-2."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":18,
+"C":29,
+"D":26,
+"E":0
+},
+"hlIds":[
+"340bc1",
+"04ed18",
+"545441",
+"1a5dcc",
+"c3efbc",
+"4432cc",
+"25569f",
+"4bd221",
+"baae22",
+"94b682"
+]
+}

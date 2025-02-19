@@ -1,0 +1,228 @@
+{
+"id":"mk19_b_pm_q034",
+"number":34,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"96b2fe",
+"children":[
+"A 37-year-old woman is evaluated in the emergency department for headache, dyspnea, and cough. Two days ago she traveled from her home at 300 meters (984 feet) above sea level to a mountain ski resort where the slopes are as high as 3914 meters (12,841 feet). She developed the headache yesterday, and today it is worse and she has shortness of breath and a cough."
+]
+},
+{
+"type":"p",
+"hlId":"05cce7",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F), blood pressure is 124/72 mm Hg, pulse rate is 115/min, and respiration rate is 28/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 82% with the patient breathing ambient air. Inspiratory crackles are present bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"44cea8",
+"children":[
+"Chest radiograph demonstrates patchy alveolar infiltrates."
+]
+},
+{
+"type":"p",
+"hlId":"14586b",
+"children":[
+"High-flow supplemental oxygen by nasal cannula is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetazolamide, orally"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone, intravenously"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Descent to a lower altitude"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Dexamethasone, orally"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Furosemide, intravenously"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"05092c",
+"hvc":true,
+"children":[
+"Treatment of high-altitude pulmonary edema focuses on promptly reducing the pulmonary artery pressure; the patient should be given supplemental oxygen and advised to descend to a lower altitude as soon as possible and to limit physical exertion and cold exposure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7a261c",
+"children":[
+"The most appropriate additional treatment is descent to a lower altitude (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") as soon as possible. The patient is experiencing high-altitude pulmonary edema (HAPE), which is caused by exaggerated hypoxic pulmonary vasoconstriction and abnormally high pulmonary artery and capillary pressures. The resulting leakage of edema fluid into the alveolus causes hypoxemia and may evoke an inflammatory response. Risks for this disorder include rapid ascent to altitudes greater than 2500 meters (~8200 feet), the actual altitude attained, time spent at altitude, and a history of high-altitude illness. The typical symptoms of HAPE (cough, shortness of breath, and fatigue) can be difficult to distinguish from pneumonia. As HAPE progresses, patients can develop pink frothy sputum, hemoptysis, and life-threatening hypoxemia. Treatment of HAPE focuses on promptly reducing the pulmonary artery pressure. This can be done by providing supplemental oxygen, limiting the patient's physical exertion and cold exposure, and advising the patient to descend to a lower altitude as soon as possible. This patient has received supplemental oxygen and should descend to a lower altitude. Some clinicians suggest the use of nifedipine as adjunctive therapy, but there is a paucity of data to confirm its benefit."
+]
+},
+{
+"type":"p",
+"hlId":"f99eb6",
+"children":[
+"Acetazolamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is commonly used for prophylaxis against HAPE, but it has no role in treatment."
+]
+},
+{
+"type":"p",
+"hlId":"0a960b",
+"children":[
+"Ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be appropriate if the patient had a concurrent pneumonia along with HAPE. However, given the symptoms and timing of onset in this otherwise healthy patient, there is nothing to suggest a concurrent pneumonia or the need for antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"aefb7c",
+"children":[
+"Dexamethasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has been shown to have a role in prophylaxis for high-altitude–related illnesses and as treatment for high-altitude cerebral edema but not for HAPE."
+]
+},
+{
+"type":"p",
+"hlId":"274fe5",
+"children":[
+"Furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a loop diuretic that is commonly used in pulmonary edema secondary to heart failure. However, the typical patient with HAPE is not volume overloaded. The use of diuretics in these patients has no role in HAPE and may cause harm by depleting intravascular volume and further reducing oxygen delivery to hypoxic tissues."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s9_4",
+"objective":{
+"__html":"Treat high-altitude pulmonary edema."
+},
+"references":[
+[
+"Luks AM, Swenson ER, Bärtsch P. Acute high-altitude sickness. Eur Respir Rev. 2017;26. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28143879",
+"target":"_blank"
+},
+"children":[
+"PMID: 28143879"
+]
+},
+" doi:10.1183/16000617.0096-2016"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":19,
+"B":2,
+"C":61,
+"D":12,
+"E":6
+},
+"hlIds":[
+"96b2fe",
+"05cce7",
+"44cea8",
+"14586b",
+"78ff87",
+"05092c",
+"7a261c",
+"f99eb6",
+"0a960b",
+"aefb7c",
+"274fe5"
+]
+}

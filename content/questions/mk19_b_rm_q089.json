@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_rm_q089",
+"number":89,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"86da1e",
+"children":[
+"A 60-year-old man is evaluated in follow-up after an episode of podagra, which was treated with colchicine. This was his first gout flare. He also has hypertension and hyperlipidemia. Current medications are hydrochlorothiazide and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"a50940",
+"children":[
+"On physical examination, blood pressure and other findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ac0d77",
+"children":[
+"Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"serum urate"
+]
+},
+" level of 9.0 mg/dL (0.53 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Start allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start vitamin C"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop atorvastatin and start fenofibrate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop hydrochlorothiazide and start losartan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e169e1",
+"children":[
+"For patients with gout, the American College of Rheumatology conditionally recommends switching hydrochlorothiazide to an alternate antihypertensive agent when feasible."
+]
+},
+{
+"type":"keypoint",
+"hlId":"37d7cf",
+"children":[
+"For patients with gout, the American College of Rheumatology conditionally recommends switching hydrochlorothiazide to losartan as an antihypertensive agent when feasible."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"41f5c4",
+"children":[
+"The most appropriate treatment is to stop hydrochlorothiazide and start losartan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has had a first episode of podagra (gout of the great toe) treated effectively with colchicine. He has a minimally elevated serum urate level. Hydrochlorothiazide and other loop diuretics cause hyperuricemia and may have contributed to this gout episode. Losartan is an angiotensin receptor blocker that may have some uricosuric effect in addition to lowering blood pressure. For patients with gout, the American College of Rheumatology (ACR) conditionally recommends switching hydrochlorothiazide to an alternate antihypertensive when feasible. The ACR also conditionally recommends switching to losartan preferentially as an antihypertensive agent when feasible. Although this patient has had only a single flare, modifying his iatrogenic risk factors for gout is reasonable at this time."
+]
+},
+{
+"type":"p",
+"hlId":"890bbc",
+"children":[
+"Allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a urate-lowering agent, but this therapy is not indicated after a single gout episode in a patient without tophi or radiographic damage. Urate-lowering therapy is strongly recommended by the ACR for patients with one or more subcutaneous tophi; evidence of radiographic damage (any modality) attributable to gout; or frequent gout flares, with “frequent” being defined as two or more annually. Urate-lowering therapy is conditionally recommended for patients experiencing their first flare when moderate-to-severe chronic kidney disease (stage ≥3), serum urate concentration greater than 9.0 mg/dL (0.53 mmol/L), or urolithiasis is present."
+]
+},
+{
+"type":"p",
+"hlId":"78dfdd",
+"children":[
+"For patients with gout, the ACR conditionally recommends against adding vitamin C supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to decrease serum urate levels. The ACR concluded that data on vitamin C were insufficient to support continued recommendation of its use in patients with gout. Two studies showed clinically insignificant changes in serum urate concentrations for patients with gout taking vitamin C supplementation."
+]
+},
+{
+"type":"p",
+"hlId":"545e63",
+"children":[
+"The ACR conditionally recommends against switching statin agents, such as atorvastatin, to fenofibrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Fenofibrate has urate-lowering effects, but the ACR has determined that the risks (including adverse effects of the medication) outweigh potential benefits of switching among patients with gout, regardless of disease activity."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_2",
+"objective":{
+"__html":"Treat gout by switching hydrochlorothiazide to losartan."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":1,
+"C":3,
+"D":75,
+"E":0
+},
+"hlIds":[
+"86da1e",
+"a50940",
+"ac0d77",
+"1054f1",
+"e169e1",
+"37d7cf",
+"41f5c4",
+"890bbc",
+"78dfdd",
+"545e63"
+]
+}

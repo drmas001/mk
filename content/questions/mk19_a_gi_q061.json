@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gi_q061",
+"number":61,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"adb40e",
+"children":[
+"A 32-year-old man is evaluated for a relapse of ulcerative colitis unresponsive to increasing dosage of a 5-aminosalicylate. Symptoms remitted after 1 week of prednisone; after tapering the prednisone, however, symptoms returned."
+]
+},
+{
+"type":"p",
+"hlId":"9d7d76",
+"children":[
+"On physical examination, vital signs are normal. Abdomen is nondistended, with left-lower-quadrant discomfort on deep palpation and no abdominal guarding."
+]
+},
+{
+"type":"p",
+"hlId":"2e73e5",
+"children":[
+"Results of tests for tuberculosis, hepatitis B virus infection, and stool enteric pathogen panel are negative. Thiopurine methyltransferase enzyme activity is normal."
+]
+},
+{
+"type":"p",
+"hlId":"9245e3",
+"children":[
+"Colonoscopy shows changes consistent with ulcerative colitis from the rectum to the splenic flexure. Biopsy specimens show severe active chronic colitis without evidence of cytomegalovirus infection."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azathioprine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Azathioprine and infliximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Certolizumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Multimatrix budesonide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24951c",
+"children":[
+"Combination therapy with infliximab and azathioprine is more efficacious than monotherapy with either agent alone in achieving glucocorticoid-free remission and mucosal healing in ulcerative colitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8bc597",
+"children":[
+"Before initiation of anti–tumor necrosis factor agents, patients should undergo testing for latent tuberculosis and hepatitis B virus infection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f66ebd",
+"children":[
+"The most appropriate treatment is combination therapy with azathioprine and infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has recurrent symptoms of ulcerative colitis on tapering of glucocorticoids. Although glucocorticoids induce remission in moderate to severe flares of ulcerative colitis, they should not be used to maintain remission. Azathioprine and the anti–tumor necrosis factor (anti-TNF) agents infliximab and golimumab induce and maintain remission in moderate to severe ulcerative colitis. Combination therapy with infliximab and azathioprine is more efficacious than monotherapy with either agent alone in achieving glucocorticoid-free remission and mucosal healing. Before initiation of anti-TNF agents, patients should undergo testing for latent tuberculosis because of an increased risk for reactivation of tuberculosis during therapy. If latent tuberculosis is present, treatment with isoniazid should be administered for at least 2 months before initiation of anti-TNF therapy. Patients should also be assessed for chronic hepatitis B virus infection before starting anti-TNF therapy and receive treatment if needed."
+]
+},
+{
+"type":"p",
+"hlId":"7c5ff3",
+"children":[
+"Thiopurines (azathioprine and mercaptopurine) are immunomodulators used as glucocorticoid-sparing agents in ulcerative colitis. They have a slow onset of action (2-3 months), and patients require a tapering glucocorticoid regimen to bridge the interval until the thiopurines take effect. Thiopurines are no more effective than placebo in inducing short-term symptomatic remission and should not be used in this manner. Given the slow onset of action, beginning azathioprine alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is inappropriate."
+]
+},
+{
+"type":"p",
+"hlId":"5aae69",
+"children":[
+"Certolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), an anti-TNF agent, treats moderate to severe Crohn disease resistant to glucocorticoids or immunomodulators. This agent has no role in treatment of ulcerative colitis."
+]
+},
+{
+"type":"p",
+"hlId":"68b489",
+"children":[
+"Multimatrix budesonide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a colonic delivery system of budesonide that allows directed therapy throughout the colon with fewer glucocorticoid systemic adverse effects. It is effective in inducing remission in mild to moderate ulcerative colitis unresponsive to 5-aminosalicylate. However, because multimatrix budesonide is effective only in inducing remission, it would be inappropriate for this patient, who requires an induction and a maintenance agent. In addition, he is already receiving a glucocorticoid and is steroid dependent."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_5_1",
+"objective":{
+"__html":"Treat moderate to severe relapsed ulcerative colitis."
+},
+"references":[
+[
+"Rubin DT, Ananthakrishnan AN, Siegel CA, et al. ACG clinical guideline: ulcerative colitis in adults. Am J Gastroenterol. 2019;114:384-413. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30840605",
+"target":"_blank"
+},
+"children":[
+"PMID: 30840605"
+]
+},
+" doi:10.14309/ajg.0000000000000152"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":56,
+"C":13,
+"D":7,
+"E":0
+},
+"hlIds":[
+"adb40e",
+"9d7d76",
+"2e73e5",
+"9245e3",
+"1054f1",
+"24951c",
+"8bc597",
+"f66ebd",
+"7c5ff3",
+"5aae69",
+"68b489"
+]
+}

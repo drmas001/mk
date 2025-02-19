@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_nr_q001",
+"number":1,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9a26d9",
+"children":[
+"A 25-year-old man is evaluated for a 1-year history of headaches. He recently returned from active military duty where he sustained a mild traumatic brain injury (TBI). A CT scan obtained after injury was normal. Headaches, which started soon after the TBI, typically occur three times weekly, last 24 hours, and are bifrontal, dull, and moderate in intensity. The patient also reports occasional photosensitivity accompanying the headaches but has had no nausea, phonophobia, visual disturbances, or neurologic symptoms. He takes ibuprofen as needed to relieve the pain."
+]
+},
+{
+"type":"p",
+"hlId":"542eb3",
+"children":[
+"On physical examination, vital signs and all other physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"bb5494",
+"children":[
+"Results of standard laboratory studies are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Depression screening"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Electroencephalography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Erythrocyte sedimentation rate"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Montreal Cognitive Assessment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cb0261",
+"hvc":true,
+"children":[
+"Military personnel with mild traumatic brain injury symptoms should be screened for depression and posttraumatic stress disorder."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"91fd73",
+"children":[
+"This patient should be screened for depression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He is a returning military service member with a history of mild traumatic brain injury (TBI) and persistent posttraumatic headaches. Although headache is the most common symptom after a mild TBI, persons with this diagnosis also may experience other symptoms, such as dizziness, memory or cognitive impairment, insomnia, and mood and anxiety disorders. The incidence of mild TBI in military service personnel is high. Falls, vehicular accidents, and head trauma from explosions and weaponry are common mechanisms of injury. Those with mild TBI sustained during active military duty appear to be particularly susceptible to posttraumatic stress disorder (PTSD) and depression. Given the high prevalence of depression and the increased risk for suicide in returning military personnel with mild TBI, screening for depression is mandatory. The nine-item Patient Health Questionnaire (PHQ-9) is a validated and widely used depression screening tool for detection of depression. Its benefits include brevity and ease of use. Military personnel who screen positive for depression should be asked about suicidal ideation and intent. Screening for PTSD using tools such as the Primary Care PTSD Screen and the PTSD Checklist should also occur."
+]
+},
+{
+"type":"p",
+"hlId":"40b604",
+"children":[
+"Besides headaches, the patient reports no neurologic symptoms and has a normal examination. Head CT performed immediately after the injury was normal. There is no need for repeat neuroimaging with brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"aafeba",
+"children":[
+"Electroencephalography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in the assessment of patients with mild TBI or posttraumatic headaches, and the patient reports no events suspicious for seizure."
+]
+},
+{
+"type":"p",
+"hlId":"75c52c",
+"children":[
+"Although erythrocyte sedimentation rate measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is helpful in the evaluation of headaches potentially related to giant cell arteritis (GCA), development of headaches due to GCA in someone under the age of 50 years would be highly unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"8be28c",
+"children":[
+"The Montreal Cognitive Assessment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is useful in evaluating patients with mild cognitive impairment or dementia but is not useful in evaluating patients with mild TBI or posttraumatic headaches. This patient neither reports nor exhibits any cognitive impairment."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s2_2_2",
+"objective":{
+"__html":"Screen for depression in military service members with persistent posttraumatic brain injury symptoms."
+},
+"references":[
+[
+"Cnossen MC, Scholten AC, Lingsma HF, et al. Predictors of major depression and posttraumatic stress disorder following traumatic brain injury: a systematic review and meta-analysis. J Neuropsychiatry Clin Neurosci. 2017;29:206-224. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28193126",
+"target":"_blank"
+},
+"children":[
+"PMID: 28193126"
+]
+},
+" doi:10.1176/appi.neuropsych.16090165"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":27,
+"B":52,
+"C":4,
+"D":0,
+"E":18
+},
+"hlIds":[
+"9a26d9",
+"542eb3",
+"bb5494",
+"ab9d96",
+"cb0261",
+"91fd73",
+"40b604",
+"aafeba",
+"75c52c",
+"8be28c"
+]
+}

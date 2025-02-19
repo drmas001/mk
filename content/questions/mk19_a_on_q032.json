@@ -1,0 +1,234 @@
+{
+"id":"mk19_a_on_q032",
+"number":32,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"401a4d",
+"children":[
+"A 74-year-old woman is evaluated for cough and dyspnea on exertion, which has progressed over the past 6 months. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"29d305",
+"children":[
+"On physical examination, vital signs are normal. There are scattered crackles throughout the left chest. There is no adenopathy."
+]
+},
+{
+"type":"p",
+"hlId":"1cc02d",
+"children":[
+"CT scan of the chest, abdomen, and pelvis shows only patchy, nodular infiltrates in the left upper and left lower lobes of the lung."
+]
+},
+{
+"type":"p",
+"hlId":"937d99",
+"children":[
+"Transbronchial lung biopsy shows non-Hodgkin, mucosa-associated lymphoid tissue lymphoma."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Combination chemoimmunotherapy with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left pneumonectomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Helicobacter pylori</i> eradication treatment"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rituximab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7bb88a",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" eradication therapy has only been definitively proven to be effective for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+"–associated gastric mucosa-associated lymphoma tissue lymphomas."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ccd674",
+"children":[
+"The treatment of mucosa-associated lymphoma tissue (MALT) lymphomas other than gastric MALT lymphoma may include irradiation for localized disease or rituximab when systemic therapy is required."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5a1818",
+"children":[
+"This patient has mucosa-associated lymphoma tissue (MALT) lymphoma, and the most appropriate management is single-agent rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). MALT lymphomas are low-grade B lymphomas of the marginal zone type (a category that also includes splenic marginal zone and nodal marginal zone lymphomas). They account for 5% to 8% of B-cell lymphomas and arise from B cells in the “marginal zone,” the external part of secondary lymphoid follicles. The stomach is the most common site for MALT lymphomas, and it has been linked to infection with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+". Chronic infection and/or antigenic stimulation may play a role in the development of MALT lymphomas in other sites as well (e.g., Hashimoto thyroiditis and thyroid MALT lymphomas or Sjögren syndrome and parotid lymphomas), but antibiotic therapy has only been definitively proven to be effective for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+"–associated gastric MALT lymphomas (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). MALT lymphomas typically have a relatively indolent course, and asymptomatic patients may be observed without treatment, although radiation therapy can be considered for those with localized disease. For other MALT lymphomas, such as in this patient who is symptomatic and has disease in multiple lobes of the lung, single-agent rituximab, an anti-CD20 monoclonal antibody, would be an appropriate treatment. This therapy is generally quite active and well tolerated."
+]
+},
+{
+"type":"p",
+"hlId":"b7f8f4",
+"children":[
+"Aggressive combination chemoimmunotherapy with a regimen such as rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be appropriate as initial treatment of a MALT lymphoma in an elderly patient. R-CHOP is more typically used in patients with more aggressive lymphomas, such as diffuse large cell lymphoma. Although MALT lymphomas can undergo transformation to more aggressive histologies, such changes are not common."
+]
+},
+{
+"type":"p",
+"hlId":"d1b188",
+"children":[
+"Other than for establishing a diagnosis and managing complications, surgery would generally have little role in the treatment of most low-grade lymphomas. A pneumonectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be appropriate for a patient with a low-grade lymphoma of the lung. That would be an aggressive, morbid, and generally high-risk procedure."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_1_2",
+"objective":{
+"__html":"Treat a low-grade mucosa-associated lymphoid tissue lymphoma involving the lung."
+},
+"references":[
+[
+"Zucca E, Bertoni F. The spectrum of MALT lymphoma at different sites: biological and therapeutic relevance. Blood. 2016;127:2082-92. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26989205",
+"target":"_blank"
+},
+"children":[
+"PMID: 26989205"
+]
+},
+" doi:10.1182/blood-2015-12-624304"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":45,
+"B":2,
+"C":29,
+"D":24,
+"E":0
+},
+"hlIds":[
+"401a4d",
+"29d305",
+"1cc02d",
+"937d99",
+"cb2b54",
+"7bb88a",
+"ccd674",
+"5a1818",
+"b7f8f4",
+"d1b188"
+]
+}

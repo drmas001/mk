@@ -1,0 +1,170 @@
+{
+"id":"vdx4_pm_q031",
+"number":31,
+"bookId":"vdx_pm",
+"correctAnswer":"C",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e245cb",
+"children":[
+"A 53-year-old woman with a diagnosis of previously treated breast cancer is evaluated for progressive dyspnea and cough."
+]
+},
+{
+"type":"p",
+"hlId":"885988",
+"children":[
+"Chest radiograph is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f031a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f031a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e2e935",
+"children":[
+"Which one of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chronic eosinophilic pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cryptogenic organizing pneumonia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lymphangitic carcinomatosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sarcoidosis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0c71bd",
+"children":[
+"The abnormalities ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f031b",
+"wrapId":"2",
+"children":[
+"seen"
+]
+},
+" on this frontal chest radiograph most likely suggest lymphangitic carcinomatosis. Lymphangitic carcinomatosis is defined by the presence of tumor within pulmonary lymphatics. The frontal radiograph shows bilateral prominent interstitial markings. Also seen here is a moderate left and small right pleural effusion, as well as hilar lymphadenopathy (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrowhead"
+]
+},
+"). In the setting of pleural effusions and hilar lymphadenopathy, the interstitial disease is compatible with lymphangitic carcinomatosis. Both Kerley A lines and Kerley B lines (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrow"
+]
+},
+"), when present, may also be helpful, as they indicate infiltration of the interstitial space by either fluid (as seen in pulmonary edema) or cells (as in lymphangitic carcinomatosis). Lymphangitic carcinomatosis is the most likely diagnosis given the patient's past history of breast cancer, presenting symptoms, and radiographic findings."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f031b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_1_1_2",
+"objective":{
+"__html":"Diagnose lymphangitic carcinomatosis."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f031a":{
+"id":"vdx4_pm_mcq_f031a",
+"number":31,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"05ec8b559bf8e3d92291a94fe9fa7716",
+"height":800,
+"width":656,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f031b":{
+"id":"vdx4_pm_mcq_f031b",
+"number":31,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"b4ac484731fadec1d2854cc0378be199",
+"height":1099,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e245cb",
+"885988",
+"e2e935",
+"0c71bd"
+]
+}

@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_hm_q023",
+"number":23,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"350e37",
+"children":[
+"A 51-year-old woman is evaluated before hospital discharge. She was diagnosed with high-risk acute myeloid leukemia and completed induction chemotherapy. Her leukemia is believed to be secondary to breast cancer therapy, which included surgery and chemotherapy following diagnosis 2 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"af7355",
+"children":[
+"On physical examination, vital signs and other findings are normal. A peripherally inserted central catheter is located in the left upper extremity."
+]
+},
+{
+"type":"p",
+"hlId":"c3380f",
+"children":[
+"Complete blood count and bone marrow aspirate and biopsy indicate complete remission."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allogeneic hematopoietic stem cell transplantation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Consolidation chemotherapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intrathecal chemotherapy plus whole brain irradiation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Maintenance chemotherapy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"151ad3",
+"children":[
+"Allogeneic hematopoietic stem cell transplantation is used for consolidation therapy in patients with high-risk acute myeloid leukemia who respond to induction therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"63fa31",
+"children":[
+"The most appropriate management is allogeneic hematopoietic stem cell transplantation (HSCT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient developed secondary or therapy-related acute myeloid leukemia (AML) following breast cancer treatment. A primary AML diagnosis is often sufficient to recommend allogeneic HSCT, but therapy-related AML is even more likely to relapse and is an indication for HSCT. The patient's age, lack of comorbidities, and apparent remission after recent induction chemotherapy further support the indication for allogeneic HSCT. Patients undergo HLA typing, and siblings are considered for stem cell donation; HLA-matched unrelated donors may also be a reasonable option. Patients in first remission can have similar outcomes using alternative donors, represented by haploidentical transplantations (half-matched relatives, such as parent donating to child or vice versa or siblings who share a haplotype) or umbilical cord blood transplantations."
+]
+},
+{
+"type":"p",
+"hlId":"96d917",
+"children":[
+"Patients with AML who initially achieve complete remission will relapse unless additional postremission therapy is provided. Postremission therapy is intended to eliminate undetectable disease to achieve cure, or at least long-term control of the disease. Postremission therapy is divided into consolidation and maintenance treatment phases. Consolidation treatment consists of intensive treatment soon after the attainment of complete remission (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Consolidation with conventional chemotherapy would be indicated in managing patients at low risk with AML. Low risk includes patients with no previous chemotherapy exposure and those without genetic mutations or with select mutations (e.g., ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"NPM1"
+]
+},
+"-mutated AML) that are associated with improved prognosis."
+]
+},
+{
+"type":"p",
+"hlId":"41c1a6",
+"children":[
+"Treatment of the central nervous system (CNS) with intrathecal chemotherapy and whole brain irradiation is routinely employed and improves outcomes in patients with acute lymphoblastic leukemia because the CNS, even in asymptomatic patients, harbors malignant cells that are resistant to systemic chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The same benefit in improving remission rates and survival is not seen in patients with AML."
+]
+},
+{
+"type":"p",
+"hlId":"46be2c",
+"children":[
+"Maintenance chemotherapy is not the best option in patients with higher risk AML, good response to initial therapy, and good overall health (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). It may be considered in older patients in whom allogeneic HSCT would be potentially too toxic (e.g., older than 75-80 years)."
+]
+},
+{
+"type":"p",
+"hlId":"6b05be",
+"children":[
+"Providing no additional therapy would result in AML relapse and is not the best option for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_5_1",
+"objective":{
+"__html":"Treat high-risk acute myeloid leukemia."
+},
+"references":[
+[
+"Dholaria B, Savani BN, Hamilton BK, et al. Hematopoietic cell transplantation in the treatment of newly diagnosed adult acute myeloid leukemia: an evidence-based review from the American Society of Transplantation and Cellular Therapy. Transplant Cell Ther. 2021;27:6-20. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32966881",
+"target":"_blank"
+},
+"children":[
+"PMID: 32966881"
+]
+},
+" doi:10.1016/j.bbmt.2020.09.020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":24,
+"C":4,
+"D":16,
+"E":13
+},
+"hlIds":[
+"350e37",
+"af7355",
+"c3380f",
+"cb2b54",
+"151ad3",
+"63fa31",
+"96d917",
+"41c1a6",
+"46be2c",
+"6b05be"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q034",
+"number":34,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"761ab7",
+"children":[
+"A 47-year-old man is evaluated for a heart murmur. He is asymptomatic and has no exercise limitations."
+]
+},
+{
+"type":"p",
+"hlId":"8a324a",
+"children":[
+"On physical examination, vital signs, including blood pressure, are normal. There is a grade 1/6 decrescendo diastolic murmur heard at the left sternal border. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"5453cd",
+"children":[
+"Echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 55%, a bicuspid aortic valve with mild aortic regurgitation, and a normal left ventricular end-systolic dimension. The ascending aorta is enlarged, with a dimension of 4.2 cm. Echocardiographic imaging quality of the aortic sinuses, sinotubular junction, and ascending aorta is excellent."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic valve replacement and repair of the ascending aorta"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiographic surveillance"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiation of losartan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"db900b",
+"children":[
+"Management of bicuspid aortic valve disease follows the recommendations for the predominant valve lesion type (aortic stenosis or regurgitation) and its severity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ca9010",
+"children":[
+"In patients with a bicuspid aortic valve and aortic sinuses or an ascending aorta 4.0 cm or larger in diameter, lifelong serial imaging is reasonable."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4c6298",
+"children":[
+"The most appropriate management is serial echocardiographic imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Bicuspid valvulopathy is often accompanied by aortic abnormalities, including aneurysm, dissection, or coarctation. In patients with a bicuspid aortic valve, the ascending aorta and aortic arch should be examined for aortopathy with cardiac magnetic resonance (CMR) imaging, echocardiography, or cardiac CT. In patients with a bicuspid aortic valve and aortic sinuses or an ascending aorta 4.0 cm or larger in diameter, lifelong serial evaluation of the size and morphology of the aortic sinuses and ascending aorta by echocardiography, CMR imaging, or CT angiography is reasonable. This otherwise healthy patient with mild aortic regurgitation and an ascending aortic root diameter below the threshold for repair should undergo repeat echocardiography for surveillance."
+]
+},
+{
+"type":"p",
+"hlId":"ec2305",
+"children":[
+"Management of bicuspid aortic valve disease is determined by the predominant lesion type (stenosis or regurgitation) and its severity. In patients with a bicuspid valve undergoing surgery for severe aortic stenosis or regurgitation, surgical repair of the ascending aorta (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is advised when the aortic diameter is greater than 4.5 cm. In the absence of surgical indications for a stenotic or regurgitant aortic valve, surgical repair of the ascending aorta or aortic sinuses is advised when the aortic diameter is greater than 5.5 cm or when the diameter is greater than 5.0 cm in a patient with additional risk factors for dissection (family history, rate of progression ≥0.5 cm/year). This asymptomatic patient does not have an indication for surgical intervention."
+]
+},
+{
+"type":"p",
+"hlId":"723c78",
+"children":[
+"In patients with a bicuspid aortic valve, CMR imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), angiography, or CT angiography is indicated if morphology of the aortic sinuses, sinotubular junction, or ascending aorta cannot be assessed accurately or fully by echocardiography. This patient has no indication for CMR imaging."
+]
+},
+{
+"type":"p",
+"hlId":"d54a8d",
+"children":[
+"No medical therapies slow aortic dilatation in patients with bicuspid aortopathy. Blood pressure should be controlled in patients with concomitant hypertension by using standard drug therapy, including thiazide diuretics, calcium channel blockers, ACE inhibitors, or angiotensin receptor blockers. Angiotensin receptor blockers, such as losartan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), slow the rate of progressive aortic root dilation in patients with Marfan aortopathy, even in the absence of hypertension, but are not effective in bicuspid aortopathy and are not indicated in this patient in the absence of hypertension."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_4",
+"objective":{
+"__html":"Monitor a patient with bicuspid aortic valve and aortopathy with surveillance echocardiography."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":2,
+"C":86,
+"D":4,
+"E":0
+},
+"hlIds":[
+"761ab7",
+"8a324a",
+"5453cd",
+"cb2b54",
+"db900b",
+"ca9010",
+"4c6298",
+"ec2305",
+"723c78",
+"d54a8d"
+]
+}

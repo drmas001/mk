@@ -1,0 +1,184 @@
+{
+"id":"mk19_a_gi_q064",
+"number":64,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d61061",
+"children":[
+"A 75-year-old man is evaluated in the emergency department for several episodes of maroon blood per rectum and cramping abdominal pain of 18 hours' duration. He is admitted to the hospital and colonoscopy preparation is initiated. He has hypertension, atrial fibrillation, and coronary artery disease. At a colonoscopy performed 1 week ago, a 1-cm pedunculated polyp was removed from the transverse colon. Medications are apixaban, low-dose aspirin, metoprolol, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"d74f3c",
+"children":[
+"On initial physical examination, blood pressure was 95/40 mm Hg and pulse rate was 105/min and irregular. The abdomen was soft, with lower abdominal tenderness."
+]
+},
+{
+"type":"p",
+"hlId":"abad5a",
+"children":[
+"After admission and administration of 2 L of intravenous fluid, blood pressure is 110/60 mm Hg and pulse rate is 80/min."
+]
+},
+{
+"type":"p",
+"hlId":"256159",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" is 9 g/dL (90 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9db8df",
+"children":[
+"Which of the following is the most appropriate management of this patient's antiplatelet and anticoagulant therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hold apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hold apixaban and administer andexanet"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hold aspirin and apixaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hold aspirin and apixaban and administer andexanet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1c0ac2",
+"children":[
+"The duration of the anticoagulant effect of the direct oral anticoagulants (DOACs) is limited because of their short half-life; in most cases of gastrointestinal bleeding, simply holding the DOAC is sufficient."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e0934c",
+"children":[
+"The most appropriate management of antiplatelet and anticoagulant therapy in this patient is to hold apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient most likely developed postpolypectomy bleeding that was exacerbated by aspirin and apixaban use. Because he has hemodynamically significant lower gastrointestinal bleeding, the initial steps are intravascular resuscitation and withholding apixaban. The duration of the anticoagulant effect of the direct oral anticoagulants (DOACs), including apixaban, is limited because of their relatively short half-life. In most cases of lower gastrointestinal bleeding, simply holding the DOAC is sufficient."
+]
+},
+{
+"type":"p",
+"hlId":"a0f0ff",
+"children":[
+"Andexanet is a recombinant modified factor Xa protein used to reverse the anticoagulant effects of apixaban and rivaroxaban in patients with life-threatening or uncontrolled bleeding. Its use has been associated with serious and life-threatening events, including myocardial infarction, stroke, cardiac arrest, and sudden death. For life-threatening bleeding related to Xa inhibitors, such as apixaban, the American Society of Hematology suggests stopping the oral direct Xa inhibitor and considering treatment with four-factor prothrombin complex concentrates or andexanet alfa (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, D"
+]
+},
+"). Because of the lack of comparative data, a preferred strategy cannot be identified. This patient does not have life-threatening uncontrolled bleeding (as indicated by the response to intravenous resuscitation) and therefore does not need apixaban reversal therapy."
+]
+},
+{
+"type":"p",
+"hlId":"589b8c",
+"children":[
+"For secondary prevention of cardiovascular disease, the risk of interrupting aspirin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is substantial. Studies have shown that discontinuation of long-term low-dose aspirin therapy for secondary prevention is associated with a threefold increased risk for cardiovascular or cerebrovascular events, with 70% of such events occurring within 7 to 10 days of discontinuation. The American College of Gastroenterology and the British Society of Gastroenterology have recommended that to avoid thromboembolic events, aspirin for secondary prophylaxis in patients with established cardiovascular disease should not be discontinued in patients with lower gastrointestinal bleeding. If aspirin is discontinued, it should be restarted as soon as possible following hemostasis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_3_3",
+"objective":{
+"__html":"Manage dual aspirin and anticoagulant therapy during lower gastrointestinal bleeding."
+},
+"references":[
+[
+"Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut. 2019;68:776-789. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30792244",
+"target":"_blank"
+},
+"children":[
+"PMID: 30792244"
+]
+},
+" doi:10.1136/gutjnl-2018-317807"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":7,
+"C":51,
+"D":21,
+"E":0
+},
+"hlIds":[
+"d61061",
+"d74f3c",
+"abad5a",
+"256159",
+"9db8df",
+"1c0ac2",
+"e0934c",
+"a0f0ff",
+"589b8c"
+]
+}

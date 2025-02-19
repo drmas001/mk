@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_cv_q047",
+"number":47,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0bd848",
+"children":[
+"A 28-year-old woman is evaluated in the emergency department for substernal chest tightness that started several hours ago. She is 2 weeks postpartum after an uncomplicated pregnancy and delivery. She has no history of cardiopulmonary disease and has no risk factors for atherosclerotic cardiovascular disease."
+]
+},
+{
+"type":"p",
+"hlId":"9713e2",
+"children":[
+"On physical examination, blood pressure is 122/72 mm Hg in both arms, pulse rate is 90/min and regular, and respiration rate is 24/min. The estimated central venous pressure and apical impulse are normal. An S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" is present. The rest of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"4d9e64",
+"children":[
+"Laboratory studies are significant for an elevated high-sensitivity cardiac troponin level (>99th percentile upper reference limit)."
+]
+},
+{
+"type":"p",
+"hlId":"083bd9",
+"children":[
+"An ECG shows ST-segment elevation in the anterior precordial leads. An echocardiogram shows anterior wall hypokinesis. Estimated ejection fraction is 40%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atherosclerotic plaque rupture"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Peripartum cardiomyopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Spontaneous coronary artery dissection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stress-induced (takotsubo) cardiomyopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"772005",
+"children":[
+"Spontaneous coronary artery dissection is the most common cause of pregnancy-associated myocardial infarction and occurs most commonly in the first month postpartum."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51def9",
+"children":[
+"The most likely diagnosis is spontaneous coronary artery dissection (SCAD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). SCAD is the most common cause of pregnancy-associated myocardial infarction and commonly occurs during pregnancy or in the first month postpartum. SCAD involves development of a nontraumatic and non-iatrogenic intramural hematoma with or without intimal dissection with luminal communication. The enlarging hematoma in the false lumen compresses the true lumen of the coronary artery and in potential combination with obstructing dissection leads to chest pain, ischemia, and/or infarction. The diagnosis requires coronary CT or coronary angiography to confirm the characteristic imaging features. When associated with ST-elevation myocardial infarction, SCAD may be managed invasively; however, percutaneous coronary intervention may be safely deferred when coronary flow is preserved and symptoms can be controlled and closely monitored."
+]
+},
+{
+"type":"p",
+"hlId":"0357a6",
+"children":[
+"The pathogenesis of ST-elevation myocardial infarction typically involves plaque rupture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") within a coronary artery. The rupture causes platelet adhesion, activation, and aggregation, resulting in a thrombosed coronary artery and acute vessel occlusion. The sudden loss of coronary blood flow leads to transmural ischemia of the myocardium and the ECG manifestation of ST-segment elevation. Acute coronary thrombosis is a less likely cause of myocardial infarction than coronary artery dissection in this postpartum young woman with no atherosclerotic cardiovascular disease risk factors."
+]
+},
+{
+"type":"p",
+"hlId":"6aaf29",
+"children":[
+"This patient's clinical picture is inconsistent with peripartum cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), which is newly noted left ventricular systolic dysfunction with onset in the months after delivery or toward the end of pregnancy in the absence of another identifiable cause. Patients with peripartum cardiomyopathy usually present with features of heart failure. Echocardiography in peripartum cardiomyopathy usually demonstrates global reduction in systolic function, not focal hypokinesis, as seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"58967f",
+"children":[
+"Stress-induced (takotsubo) cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is characterized by transient regional cardiac dysfunction, usually involving the apical and mid portions of the left ventricle. This is commonly precipitated by a stressful physical or emotional event. Postpartum cases of stress-induced cardiomyopathy have been reported, especially after cesarean delivery. Patients with stress-induced cardiomyopathy present with features that mimic an acute coronary syndrome. This patient's clinical picture is inconsistent with stress-induced cardiomyopathy given the regional wall hypokinesis, which is more typical of coronary artery ischemia."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_5",
+"objective":{
+"__html":"Diagnose peripartum spontaneous coronary artery dissection."
+},
+"references":[
+[
+"Tweet MS, Hayes SN, Codsi E, et al. Spontaneous coronary artery dissection associated with pregnancy. J Am Coll Cardiol. 2017;70:426-435. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28728686",
+"target":"_blank"
+},
+"children":[
+"PMID: 28728686"
+]
+},
+" doi:10.1016/j.jacc.2017.05.055"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":22,
+"C":47,
+"D":24,
+"E":0
+},
+"hlIds":[
+"0bd848",
+"9713e2",
+"4d9e64",
+"083bd9",
+"413696",
+"772005",
+"51def9",
+"0357a6",
+"6aaf29",
+"58967f"
+]
+}

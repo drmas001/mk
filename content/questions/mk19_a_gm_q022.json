@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_gm_q022",
+"number":22,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c13898",
+"children":[
+"A 58-year-old woman is evaluated in the emergency department within 1 hour of syncope that occurred while she was waiting in the grocery checkout line. She experienced a sensation of warmth and lightheadedness before the event. She did not have chest pain, shortness of breath, or palpitations. She reports no trauma. She recovered quickly and recalls the episode. Medical history is significant for hypertension, hyperlipidemia, and type 2 diabetes mellitus. Current medications are lisinopril, hydrochlorothiazide, rosuvastatin, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"a3aa68",
+"children":[
+"On physical examination, cardiovascular auscultation and neurologic examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f7f15f",
+"children":[
+"An ECG is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac enzyme testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the head"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Orthostatic blood pressure measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"848b75",
+"hvc":true,
+"children":[
+"All patients with syncope should be evaluated with orthostatic blood pressure measurement and ECG."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6960dd",
+"hvc":true,
+"children":[
+"Laboratory evaluation of syncope with cardiac enzyme testing and comprehensive metabolic assessment is of uncertain value."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2b9e94",
+"children":[
+"The most appropriate diagnostic test to perform next is orthostatic blood pressure measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The American Heart Association/American College of Cardiology/Heart Rhythm Society concluded that the history and physical examination are the most important tools in stratifying risk in patients with syncope. All additional testing can be based on this initial evaluation. Important aspects to obtain in the history include the presence of reversible factors, the situation in which the syncopal event occurred, and any symptoms present before and after the syncopal event. A thorough medical history and medication history should be obtained, with an emphasis on history of cardiac disease. A family history also should be obtained, focusing on any history of syncope or sudden unexplained death, including drowning. Physical examination should include a thorough cardiovascular examination, with orthostatic blood pressure measurement in three positions and cardiac auscultation. A basic neurologic examination should also be performed. ECG should be included in the initial evaluation of syncope as a tool to identify potentially life-threatening causes of cardiac syncope."
+]
+},
+{
+"type":"p",
+"hlId":"9f2635",
+"children":[
+"The usefulness of cardiac enzyme measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is uncertain in patients for whom a cardiac cause of syncope is suspected, and these tests should not be a part of the routine evaluation of syncope. No laboratory values obtained in a routine metabolic profile are linked to the mechanism of syncope."
+]
+},
+{
+"type":"p",
+"hlId":"7d4d07",
+"children":[
+"In the absence of neurologic symptoms or findings, MRI of the brain or CT of the head (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended as part of the routine evaluation of patients who present with syncope. Such imaging adds significant cost to the evaluation with minimal benefit."
+]
+},
+{
+"type":"p",
+"hlId":"1869f9",
+"children":[
+"Transthoracic echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is useful in evaluating patients for whom there is suspicion of structural heart disease. If no physical examination findings suggest structural heart disease, routine cardiac imaging is not recommended."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9_2",
+"objective":{
+"__html":"Evaluate syncope with orthostatic blood pressure measurement."
+},
+"references":[
+[
+"Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2017;136:e25-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28280232",
+"target":"_blank"
+},
+"children":[
+"PMID: 28280232"
+]
+},
+" doi:10.1161/CIR.0000000000000498"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":1,
+"C":93,
+"D":3,
+"E":0
+},
+"hlIds":[
+"c13898",
+"a3aa68",
+"f7f15f",
+"ab9d96",
+"848b75",
+"6960dd",
+"2b9e94",
+"9f2635",
+"7d4d07",
+"1869f9"
+]
+}

@@ -1,0 +1,289 @@
+{
+"id":"mk19_a_id_q009",
+"number":9,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"737f53",
+"children":[
+"A 28-year-old woman is hospitalized with a 5-day history of chest pain, fever, and cough with green sputum. Two weeks ago, she developed an influenza-like illness and seemed to improve before the onset of the most recent symptoms. She has no other medical conditions and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ffdbed",
+"children":[
+"On physical examination, temperature is 38.6 °C (101.5 °F), blood pressure is 150/90 mm Hg, pulse rate is 112/min, and respiration rate is 28/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% breathing ambient air. Crackles are heard at the right lower lung base on pulmonary auscultation. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8cac8c",
+"children":[
+"Blood and sputum cultures are obtained. COVID-19 testing is negative."
+]
+},
+{
+"type":"p",
+"hlId":"53eb6f",
+"children":[
+"Chest radiograph shows a right lower lobe infiltrate."
+]
+},
+{
+"type":"p",
+"hlId":"20ad90",
+"children":[
+"Empiric therapy for community-acquired pneumonia is initiated with ceftriaxone, azithromycin, and vancomycin."
+]
+},
+{
+"type":"p",
+"hlId":"d0cb0a",
+"children":[
+"Ceftriaxone and azithromycin are discontinued on hospital day 2 when blood and sputum cultures return positive for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" with a vancomycin minimum inhibitory concentration of ≤0.5 µg/mL. She remains febrile, but repeat blood and sputum cultures show no growth. Her temperature on hospital day 5 remains elevated at 39.2 °C (102.6 °F)."
+]
+},
+{
+"type":"p",
+"hlId":"d18624",
+"children":[
+"A repeat chest radiograph shows a right-sided pleural effusion. A subsequent CT scan is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f009",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f009"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add cefepime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add gentamicin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Perform bronchoscopy with transbronchial biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Perform thoracentesis and drainage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5cb18b",
+"children":[
+"Ongoing fever in patients with community-acquired pneumonia suggests either infection with an organism not adequately covered by empiric antibiotics or inadequate source control."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8d82f4",
+"children":[
+"This patient has an empyema, and thoracentesis and drainage should be performed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Ongoing fevers suggest either infection with an organism not adequately covered by empiric antibiotics or inadequate source control. In this patient, CT imaging reveals an empyema, recognized as enhancement of the pleura around the fluid creating a lenticular-shaped opacity. This patient's blood cultures grew methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MRSA), and vancomycin was initiated. Vancomycin with a minimum inhibitory concentration of ≤0.5 µg/mL (indicating susceptibility) is appropriate therapy for parenchymal infection but would not penetrate the empyema. Empyema occurs in up to 10% of patients with community-acquired pneumonia (CAP) and is most commonly caused by streptococcal organisms or anaerobes. However, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" is increasingly recognized as a cause of necrotizing pneumonia and associated empyema, particularly in patients with risk factors for MRSA such as recent antibiotic use, hospitalization, influenza-like illness, end-stage kidney disease, and injection drug use."
+]
+},
+{
+"type":"p",
+"hlId":"3ae1fe",
+"children":[
+"Adding empiric cefepime could be considered in a patient who develops secondary hospital-acquired pneumonia as the cause of fever (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient had sustained fevers while in the hospital rather than a biphasic illness and did not grow resistant organisms on repeat cultures, making this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"36dc8b",
+"children":[
+"Synergistic therapy with gentamicin is not indicated for MRSA (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). It would increase the risk of kidney dysfunction without the benefit of lung penetration."
+]
+},
+{
+"type":"p",
+"hlId":"ac60ea",
+"children":[
+"Bronchoscopy is a reasonable diagnostic approach for pathogen identification in patients with CAP unresponsive to empiric therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The causative organism of this patient's infection is already known; therefore, bronchoscopy would be unlikely to provide useful information."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_5",
+"objective":{
+"__html":"Manage community-acquired pneumonia failing to respond to antibiotic therapy."
+},
+"references":[
+[
+"Pinnola A, Kuo YH, Sciarretta JD, et al. Bacteriology and comorbidities in patients requiring surgical management of empyema. Am Surg. 2018;84:599-603. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29712613",
+"target":"_blank"
+},
+"children":[
+"PMID: 29712613"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":3,
+"D":95,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f009":{
+"id":"mk19_a_id_mcq_f009",
+"number":9,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"716cf91060ef1d4e00429de91d823927",
+"height":564,
+"width":788,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"737f53",
+"ffdbed",
+"8cac8c",
+"53eb6f",
+"20ad90",
+"d0cb0a",
+"d18624",
+"cb2b54",
+"5cb18b",
+"8d82f4",
+"3ae1fe",
+"36dc8b",
+"ac60ea"
+]
+}

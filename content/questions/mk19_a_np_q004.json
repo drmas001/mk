@@ -1,0 +1,389 @@
+{
+"id":"mk19_a_np_q004",
+"number":4,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7262cb",
+"children":[
+"A 54-year-old woman is evaluated during a follow-up visit after beginning lisinopril for hypertension 2weeks ago. History is also significant for chronic kidney disease. Her only other medication is amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"051c6f",
+"children":[
+"On physical examination, blood pressure is 128/78 mm Hg; other vital signs are normal. There is 1+ pitting pretibial edema bilaterally. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"03567b",
+"class":"cell text l",
+"children":[
+"1.7 mg/dL (150.3 µmol/L); 2 weeks ago: 1.2 mg/dL (106.1 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cee8b8",
+"class":"cell text l",
+"children":[
+"5.7 mEq/L (5.7 mmol/L); 2 weeks ago: 4.4 mEq/L (4.4 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"77db81",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"Estimated glomerular filtration rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a7abaa",
+"class":"cell text l",
+"children":[
+"33 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"; 2 weeks ago, 50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"25eeda",
+"children":[
+"Two weeks ago, laboratory studies showed a urine ",
+{
+"type":"reference-range-link",
+"referenceRange":"Albumin-creatinine ratio, urine",
+"children":[
+"albumin-creatinine ratio"
+]
+},
+" of 1600 mg/g."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue lisinopril; add furosemide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue lisinopril; recheck laboratory studies in 2 weeks"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue lisinopril; add furosemide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue lisinopril; add losartan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f5b0e",
+"children":[
+"In patients with chronic kidney disease, kidney function and serum potassium levels should be reassessed 2 to 3 weeks after initiation of an ACE inhibitor or angiotensin receptor blocker."
+]
+},
+{
+"type":"keypoint",
+"hlId":"081178",
+"children":[
+"Following initiation of an ACE inhibitor or angiotensin receptor blocker, a >30% increase in serum creatinine levels necessitates decreasing the dose of or discontinuing these agents."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8b9386",
+"children":[
+"The most appropriate treatment for this patient is to discontinue lisinopril and add furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Treatment of hypertension with a renin-angiotensin system inhibitor, such as an ACE inhibitor (e.g., lisinopril) or an angiotensin receptor blocker (ARB) (e.g., losartan), is indicated in patients with stage G3 chronic kidney disease (CKD) or higher or for those with stage G1 or G2 CKD with albuminuria (urine albumin-creatinine ratio ≥300 mg/g). However, kidney function and serum potassium levels should be reassessed 2 to 3 weeks after initiation of an ACE inhibitor or ARB. A 25% to 30% increase in serum creatinine is acceptable, but the dose may need to be lowered or the medication discontinued if a more severe decline in kidney function is observed, such as in this patient. A decrease of the glomerular filtration rate of this magnitude is usually the result of renovascular hypertension. In patients with significant hyperkalemia, a loop diuretic such as furosemide can be added to promote kaliuresis."
+]
+},
+{
+"type":"p",
+"hlId":"c7c3f1",
+"children":[
+"Continuing lisinopril, with or without the addition of furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+"), or replacing lisinopril with losartan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), places the patient at increased risk for progressive kidney injury and hyperkalemia. However, discontinuation of lisinopril in this case is a temporary solution. This patient's laboratory tests can be repeated in 2 to 3 weeks after the discontinuation of lisinopril and addition of furosemide. If the laboratory tests have normalized, reinitiation of lisinopril at a lower dose can be considered with careful monitoring of serum creatinine and potassium levels."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_11_1_4",
+"objective":{
+"__html":"Manage a patient following initiation of a renin-angiotensin system inhibitor."
+},
+"references":[
+[
+"Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018;71:e127-e248. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29146535",
+"target":"_blank"
+},
+"children":[
+"PMID: 29146535"
+]
+},
+" doi:10.1016/j.jacc.2017.11.006"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":29,
+"C":45,
+"D":4,
+"E":0
+},
+"hlIds":[
+"7262cb",
+"051c6f",
+"a462a3",
+"f461b2",
+"03567b",
+"e92687",
+"cee8b8",
+"77db81",
+"a7abaa",
+"25eeda",
+"cb2b54",
+"6f5b0e",
+"081178",
+"8b9386",
+"c7c3f1"
+]
+}

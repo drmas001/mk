@@ -1,0 +1,188 @@
+{
+"id":"mk19_b_en_q027",
+"number":27,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"29d50e",
+"children":[
+"A 70-year-old woman is evaluated in the ICU after admission for urosepsis. Appropriate antibiotics and intravenous fluids were initiated. She remains critically ill and continues to have poor oral intake. She has type 2 diabetes mellitus, which has been previously well controlled. Before hospitalization, her only medication was metformin."
+]
+},
+{
+"type":"p",
+"hlId":"07627f",
+"children":[
+"Plasma ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" values measured on admission were 210 and 205 mg/dL (11.7 and 11.4 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"67eafb",
+"children":[
+"Which of the following is the most appropriate treatment for this patient's diabetes mellitus?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Insulin; glucose target 80 to 110 mg/dL (4.4-6.1 mmol/L)"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Insulin; glucose target 140 to 180 mg/dL (7.8-10.0 mmol/L)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Insulin; glucose target 180 to 200 mg/dL (10.0-11.1 mmol/L)"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c08cd6",
+"hvc":true,
+"children":[
+"The American Diabetes Association recommends that insulin therapy should be initiated for treatment for persistent hyperglycemia starting at a threshold of 180 mg/dL (10.0 mmol/L) with a target glucose range of 140 to 180 mg/dL (7.8-10.0 mmol/L)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ebda00",
+"children":[
+"The most appropriate management of diabetes mellitus is to initiate insulin to achieve blood glucose values of 140 to 180 mg/dL (7.8-10.0 mmol/L) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Inpatient hyperglycemia, defined as consistently elevated glucose values greater than 140 mg/dL (7.8 mmol/L), is associated with poor outcomes, but attempts to achieve blood glucose targets less than 140 mg/dL (7.8 mmol/L) is associated with hypoglycemia. The American Diabetes Association recommends that insulin therapy should be initiated for treatment of persistent hyperglycemia starting at a threshold of 180 mg/dL (10.0 mmol/L). After insulin therapy is started, a target glucose range of 140 to 180 mg/dL (7.8-10.0 mmol/L) is recommended for most critically ill and non-critically ill patients. This recommendation is based on the findings from the NICE-SUGAR randomized clinical trial and is supported by several meta-analyses, some of which suggest that tight glycemic control (80-110 mg/dL [4.4-6.1 mmol/L]) increases mortality compared with more moderate glycemic targets and generally causes higher rates of hypoglycemia. Intravenous insulin therapy is recommended for critically ill inpatients with a history of type 1 or type 2 diabetes. Subcutaneous insulin is appropriate for non-critically ill inpatients."
+]
+},
+{
+"type":"p",
+"hlId":"5cc66d",
+"children":[
+"Tighter glycemic control (80-110 mg/dL [4.4-6.1 mmol/L]) has been studied in critically ill patients and has not consistently been associated with improved outcomes and may increase mortality. Therefore, a goal of 80 to 110 mg/dL (4.4-6.1 mmol/L) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is inappropriate in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"cf8466",
+"children":[
+"Inpatient hyperglycemia, defined as consistently elevated glucose values greater than 140 mg/dL (7.8 mmol/L), is associated with poor outcomes. Therefore, it is inappropriate to target higher blood glucose values (180-200 mg/dL [10.0-11.1 mmol/L]) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"04c4f6",
+"children":[
+"Likewise, it is inappropriate to choose no intervention (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), allowing this patient's glucose levels to be greater than 180 mg/dL (10.0 mmol/L). Insulin is the preferred treatment for hyperglycemia in hospitalized patients, particularly critically ill patients in the ICU. The safety of oral antihyperglycemic agents for critically ill patients has not been established, and frequent clinical status changes may increase the risk for adverse events associated with noninsulin therapies."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_3_1",
+"objective":{
+"__html":"Treat hyperglycemia in a critically ill inpatient."
+},
+"references":[
+[
+"American Diabetes Association. 15. Diabetes care in the hospital: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S211-S220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298426",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298426"
+]
+},
+" doi:10.2337/dc21-S015"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":84,
+"C":11,
+"D":1,
+"E":0
+},
+"hlIds":[
+"29d50e",
+"07627f",
+"67eafb",
+"c08cd6",
+"ebda00",
+"5cc66d",
+"cf8466",
+"04c4f6"
+]
+}

@@ -1,0 +1,200 @@
+{
+"id":"mk19_qq_q104",
+"number":104,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 104",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bd8d04",
+"children":[
+"An 84-year-old man hospitalized for diverticulitis is evaluated for acute right knee pain. He has never experienced this symptom before."
+]
+},
+{
+"type":"p",
+"hlId":"975230",
+"children":[
+"On physical examination, temperature is normal. The right knee is swollen, warm, tender, and erythematous. Arthrocentesis is performed. Synovial fluid analysis shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 21,500/µL (21.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and intracellular positively birefringent rhomboid-shaped crystals. Gram stain is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hydroxychloroquine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intra-articular triamcinolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"39b697",
+"children":[
+"Acute calcium pyrophosphate crystal deposition disease (pseudogout) typically presents as monoarticular inflammatory arthritis, usually in a knee or wrist; intracellular positively birefringent rhomboid-shaped calcium pyrophosphate crystals are consistent with a diagnosis of pseudogout."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1da3d4",
+"children":[
+"Treatment of acute calcium pyrophosphate crystal deposition disease is directed exclusively toward relieving the inflammation; an intra-articular glucocorticoid is usually recommended as first-line therapy if the joint is amenable to injection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"db23a1",
+"children":[
+"Administration of intra-articular triamcinolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is appropriate for this patient. Acute calcium pyrophosphate crystal deposition (CPPD) disease (pseudogout) typically presents as a monoarticular inflammatory arthritis, characterized by sudden onset of swelling, pain, loss of function, tenderness, and warmth of the affected joint, usually a knee or wrist. Similar to acute gout, flares may be provoked by systemic insults such as major surgery or acute illness. Flares are usually milder than those of gout but can persist for months if untreated. This patient has intracellular positively birefringent (blue when parallel to and yellow when perpendicular to the polarizing axis of an optical filter) rhomboid-shaped calcium pyrophosphate crystals, consistent with a diagnosis of pseudogout. If present on radiographs, linear calcium deposits in the cartilage (chondrocalcinosis) would also support the diagnosis of pseudogout. Treatment is directed exclusively toward relieving the inflammation with agents such as NSAIDs, colchicine, and glucocorticoids and is tailored to the individual patient. Initial therapy with an intra-articular glucocorticoid (after aspiration confirms no infection is present) is usually recommended as first-line therapy if the joint is amenable to injection."
+]
+},
+{
+"type":"p",
+"hlId":"923d51",
+"children":[
+"Acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is generally safe in older patients, but it is not an effective anti-inflammatory drug and cannot be recommended for acute CPPD disease."
+]
+},
+{
+"type":"p",
+"hlId":"8f2eea",
+"children":[
+"Hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been suggested in some guidelines as a treatment for patients with chronic CPPD not responding to first-line treatment. Hydroxychloroquine can also be combined with colchicine or NSAIDs. Maximum therapeutic effectiveness of hydroxychloroquine may take up to 6 months and would not be practical for treatment of acute CPPD disease."
+]
+},
+{
+"type":"p",
+"hlId":"3921ee",
+"children":[
+"Administration of a tapering dose of prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") could be effective in treating this patient's pseudogout flare but would be less desirable than an intra-articular glucocorticoid. Oral prednisone is more likely to cause systemic adverse effects, such as hyperglycemia, infection, and hypertension. It would be particularly worrisome in this patient being treated for acute diverticulitis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_2_3",
+"objective":{
+"__html":"Treat acute calcium pyrophosphate crystal deposition disease (pseudogout)."
+},
+"references":[
+[
+"Rosenthal AK, Ryan LM. Calcium pyrophosphate deposition disease. N Engl J Med. 2016;374:2575-84. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27355536",
+"target":"_blank"
+},
+"children":[
+"PMID: 27355536"
+]
+},
+" doi:10.1056/NEJMra1511117"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"bd8d04",
+"975230",
+"1054f1",
+"39b697",
+"1da3d4",
+"db23a1",
+"923d51",
+"8f2eea",
+"3921ee"
+]
+}

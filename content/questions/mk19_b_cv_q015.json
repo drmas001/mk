@@ -1,0 +1,223 @@
+{
+"id":"mk19_b_cv_q015",
+"number":15,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7d5322",
+"children":[
+"A 72-year-old man is hospitalized with decompensated heart failure. Initial overnight treatment consisted of intravenous furosemide equal to his total oral outpatient dose (40 mg). Overnight urine output was 250 mL, with no change in his symptoms. Medical history is significant for hyperlipidemia and hypertension. Outpatient medications are lisinopril, metoprolol succinate, furosemide, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"56c197",
+"children":[
+"On physical examination, blood pressure is 122/82 mm Hg, pulse rate is 88/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% with the patient breathing 2 L/min of oxygen by nasal cannula. He is alert, and his skin is warm and dry. Central venous pressure is elevated. Cardiac examination does not reveal an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+". There is pitting edema to his knees."
+]
+},
+{
+"type":"p",
+"hlId":"3ce0ba",
+"children":[
+"Serum electrolytes are normal, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" level is 1.5 mg/dL (132.6 μmol/L), and B-type natriuretic peptide level is elevated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add intravenous milrinone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add intravenous nitroglycerin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue metoprolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Increase intravenous furosemide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5068d8",
+"children":[
+"For hospitalized patients with acute decompensated heart failure, the initial dose of an intravenous (IV) diuretic should be 1 to 2.5 times the patient's total daily oral dose; if the patient is unresponsive, the IV dose should be increased by 50% to 100%."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3947a9",
+"children":[
+"The most appropriate treatment is to increase the dose of intravenous (IV) furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient presented with acute heart failure in the setting of volume overload, and he has several signs of an increased intravascular volume, including elevated central venous pressure and peripheral edema. In this setting, the initial IV dose of a diuretic should be 1 to 2.5 times the patient's total daily oral dose; if the patient is unresponsive to the initial IV dose, it should be increased by 50% to 100%. Adding a thiazide diuretic may also be considered, but these agents are usually associated with an increased incidence of hyponatremia."
+]
+},
+{
+"type":"p",
+"hlId":"1035e8",
+"children":[
+"Inotropes, such as milrinone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), do not improve outcomes in patients admitted with acute decompensated heart failure or increase urine output. Inotropes may be considered in patients with low-output heart failure (low pulse pressure, cool extremities, presence of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") to improve cardiac output but should not be used in the routine therapy of patients admitted with heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"8f5d79",
+"children":[
+"IV vasodilator therapy, such as nitroglycerin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is occasionally added in patients hospitalized with acute heart failure and might be considered for this patient. With reduction of systemic vascular resistance, stroke volume can often be improved, with resulting patient improvement. However, diuretic therapy is the principal treatment for patients with decompensated heart failure and fluid overload."
+]
+},
+{
+"type":"p",
+"hlId":"6cfb92",
+"children":[
+"According to the 2019 American College of Cardiology expert consensus decision pathway on risk assessment, management, and clinical trajectory of patients hospitalized with heart failure, patients with heart failure with a wet and warm profile who are receiving β-blocker therapy on admission should continue the β-blocker unless blood pressure is low. If heart failure remains refractory to diuretics, the dose should be halved. Discontinuing metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") might be appropriate if this patient is resistant to high doses of IV diuretics; regardless, the best initial step for this patient would be to increase the IV furosemide dose."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_3",
+"objective":{
+"__html":"Treat acute decompensated heart failure with optimal diuretic dosing."
+},
+"references":[
+[
+"Felker GM, Ellison DH, Mullens W, et al. Diuretic therapy for patients with heart failure: JACC state-of-the-art review. J Am Coll Cardiol. 2020;75:1178-1195. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32164892",
+"target":"_blank"
+},
+"children":[
+"PMID: 32164892"
+]
+},
+" doi:10.1016/j.jacc.2019.12.059"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":3,
+"C":3,
+"D":89,
+"E":0
+},
+"hlIds":[
+"7d5322",
+"56c197",
+"3ce0ba",
+"1054f1",
+"5068d8",
+"3947a9",
+"1035e8",
+"8f5d79",
+"6cfb92"
+]
+}

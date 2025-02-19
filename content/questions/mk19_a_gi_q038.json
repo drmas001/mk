@@ -1,0 +1,234 @@
+{
+"id":"mk19_a_gi_q038",
+"number":38,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ea0bc",
+"children":[
+"A 60-year-old woman is evaluated for follow-up of cirrhosis due to nonalcoholic steatohepatitis. Her cirrhosis has been complicated by ascites that has persisted despite escalating diuretic treatment. She has been adhering to a low-sodium diet. Current medications are furosemide and spironolactone."
+]
+},
+{
+"type":"p",
+"hlId":"dd5489",
+"children":[
+"On physical examination, temperature is 36.9 °C (98.4 °F), blood pressure is 98/58 mm Hg, pulse rate is 68/min, and respiration rate is 16/min. She has scleral icterus and spider angiomas over her chest and upper back. Easily detectable ascites is present."
+]
+},
+{
+"type":"p",
+"hlId":"b0d9ce",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level 2 weeks ago was 0.9 mg/dL (79.6 μmol/L). Current laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.9 mg/dL (167.9 μmol/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"sodium"
+]
+},
+" level of 137 mEq/L (137 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"a0f3c5",
+"children":[
+"Abdominal ultrasound shows a shrunken, irregular, and nodular liver; dilated portal vein; patent hepatic and portal vasculature; and ascites."
+]
+},
+{
+"type":"p",
+"hlId":"eef90a",
+"children":[
+"Assessment of urine output, urinalysis, and urine sodium concentration and results of a paracentesis are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue diuretics"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate fluid restriction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate propranolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Liberalize sodium intake"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0cec45",
+"children":[
+"The initial management of acute kidney injury in patients with cirrhosis is to stop diuretic therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ad1f8c",
+"children":[
+"In patients with hepatorenal syndrome, β-blocker therapy should be discontinued."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f7eb87",
+"children":[
+"The most appropriate initial management is discontinuation of diuretics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In a patient with cirrhosis and portal hypertension, ascites is a manifestation of inadequate natriuresis, with increased splanchnic blood flow and reduced renal perfusion. These factors contribute to accumulation of fluid in the peritoneal space. Initial management of ascites includes dietary sodium restriction and diuretic therapy with spironolactone and furosemide. As the splanchnic vasculature progressively dilates and renal perfusion decreases with worsening of portal hypertension, hepatorenal syndrome can develop, which manifests as declining renal function. The initial evaluation of these patients is investigation for a decrease in intravascular volume and for infection and exclusion of other causes of acute kidney injury. In this patient, furosemide and spironolactone may be exacerbating renal hypoperfusion and should be stopped. Assessment for oliguria, urinalysis (bland urinary sediment), and urine sodium concentration (low) is also appropriate in the evaluation for suspected hepatorenal syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"de4cc6",
+"children":[
+"Fluid restriction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be useful in patients who develop dilutional, hypervolemic hyponatremia. Although this patient is hypervolemic, she does not have hyponatremia; she has impaired natriuresis and requires dietary sodium restriction, not fluid restriction."
+]
+},
+{
+"type":"p",
+"hlId":"3f26c1",
+"children":[
+"Nonselective β-blockers, such as propranolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are often used in patients with cirrhosis and portal hypertension to decrease portal pressures and reduce risk for variceal hemorrhage. However, in the setting of refractory ascites or hepatorenal syndrome, β-blocker therapy should not be initiated because it can lower renal perfusion pressures and worsen clinical outcomes. β-Blockers that are already a part of a patient's medication regimen should be discontinued in this context."
+]
+},
+{
+"type":"p",
+"hlId":"a48ac1",
+"children":[
+"This hypervolemic patient already has excessive total-body sodium, and liberalizing dietary sodium intake (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be expected to improve clinical outcomes. Rather, an increase in dietary sodium intake would worsen volume overload yet not necessarily improve renal function."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_7",
+"objective":{
+"__html":"Manage renal dysfunction in a patient with cirrhosis."
+},
+"references":[
+[
+"Adebayo D, Neong SF, Wong F. Ascites and hepatorenal syndrome. Clin Liver Dis. 2019;23:659-682. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31563217",
+"target":"_blank"
+},
+"children":[
+"PMID: 31563217"
+]
+},
+" doi:10.1016/j.cld.2019.06.002"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":66,
+"B":18,
+"C":12,
+"D":4,
+"E":0
+},
+"hlIds":[
+"7ea0bc",
+"dd5489",
+"b0d9ce",
+"a0f3c5",
+"eef90a",
+"e15e9d",
+"0cec45",
+"ad1f8c",
+"f7eb87",
+"de4cc6",
+"3f26c1",
+"a48ac1"
+]
+}

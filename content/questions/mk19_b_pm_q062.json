@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q062",
+"number":62,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"69cd79",
+"children":[
+"A 72-year-old man is evaluated for daytime sleepiness. His wife notes that he snores. He sleeps 8 hours each night. On most days of the week, he feels sleepy and will nap for 45 minutes. Medical history is significant for atrial fibrillation and heart failure. Medications are valsartan-sacubitril, metoprolol, furosemide, spironolactone, empagliflozin, and apixaban."
+]
+},
+{
+"type":"p",
+"hlId":"05020a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 27. Low-lying soft palate, irregularly irregular cardiac rhythm, normal central venous pressure, clear lung fields, and chronic venous stasis are present."
+]
+},
+{
+"type":"p",
+"hlId":"88a955",
+"children":[
+"Transthoracic echocardiogram obtained 1 year ago showed left ventricular enlargement and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 40%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Actigraphy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Home sleep apnea testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Overnight oximetry"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Polysomnography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"628a38",
+"children":[
+"In-laboratory polysomnography is the gold standard sleep apnea test for mission-critical workers, patients with complicated obstructive sleep apnea, and patients with comorbid conditions such as heart failure, neuromuscular disease, and advanced pulmonary disease in which diagnostic and treatment algorithms are more complex."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"57f02f",
+"children":[
+"The most appropriate management is polysomnography in a sleep laboratory (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Objective testing is required for a diagnosis of obstructive sleep apnea (OSA) and central sleep apnea (CSA). In-laboratory polysomnography is the gold standard test for mission-critical workers, patients with complicated OSA, and patients with comorbid conditions such as heart failure, neuromuscular disease, and advanced pulmonary disease in which diagnostic and treatment algorithms are more complex. This patient has risk factors for both OSA (male sex, snoring, overweight) and CSA (heart failure and atrial fibrillation). Once the type of apnea is clarified during the diagnostic portion of polysomnography, the technician may then use the most appropriate mode of positive airway pressure therapy and assess the response to treatment."
+]
+},
+{
+"type":"p",
+"hlId":"03ddaf",
+"children":[
+"An actigraph (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a small device worn on the wrist, uses an accelerometer and an ambient light sensor to objectively measure disrupted sleep patterns and sleep-wake cycles over multiple days and nights. Actigraphy is not a substitute for a home sleep study or polysomnography and cannot diagnose sleep apnea syndromes."
+]
+},
+{
+"type":"p",
+"hlId":"0c5c38",
+"children":[
+"Home sleep apnea testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be used in patients without comorbid cardiopulmonary disease who are likely to have OSA of at least moderate severity, such as a middle-aged man with obesity who snores loudly, pauses breathing, and gasps during sleep."
+]
+},
+{
+"type":"p",
+"hlId":"3e15fe",
+"children":[
+"Overnight pulse oximetry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is poorly discriminative to diagnose OSA, but in those who are asymptomatic with a low pretest probability, normal overnight oximetry might be reassuring and support the decision to avoid further testing. The patient has daytime sleepiness, which is a strong indication for treatment of sleep-disordered breathing. Further screening with overnight oximetry will not add reliably important diagnostic information, nor will it alter the decision to treat."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_3_3",
+"objective":{
+"__html":"Diagnose sleep apnea with polysomnography."
+},
+"references":[
+[
+"Kapur VK, Auckley DH, Chowdhuri S, et al. Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2017;13:479-504. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28162150",
+"target":"_blank"
+},
+"children":[
+"PMID: 28162150"
+]
+},
+" doi:10.5664/jcsm.6506"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":23,
+"C":3,
+"D":70,
+"E":0
+},
+"hlIds":[
+"69cd79",
+"05020a",
+"88a955",
+"c5165c",
+"628a38",
+"57f02f",
+"03ddaf",
+"0c5c38",
+"3e15fe"
+]
+}

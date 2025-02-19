@@ -1,0 +1,198 @@
+{
+"id":"mk19_a_id_q032",
+"number":32,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9ffff2",
+"children":[
+"A 28-year-old man is evaluated 24 hours after hospitalization for hemorrhagic shock following a motor vehicle accident. In the emergency department a femoral central venous catheter was inserted emergently."
+]
+},
+{
+"type":"p",
+"hlId":"9f93e9",
+"children":[
+"On physical examination, temperature is 37.6 °C (99.6 °F), and other vital signs are normal. The left femoral central venous access site is intact with a small amount of blood on the dressing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c2fbe1",
+"children":[
+"Which of the following is the most appropriate management of the central venous catheter?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Obtain two sets of blood cultures from the femoral catheter"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Monitor for signs of infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Replace the femoral catheter over a guidewire"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Replace the femoral catheter with a subclavian catheter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5c19ca",
+"children":[
+"Central venous catheters inserted under emergency conditions should be removed as soon as possible (no longer than 48 hours after insertion) and replaced at a new site."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8e86cd",
+"children":[
+"The need for continued use of central venous catheters should be reviewed and documented daily."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54bc7e",
+"children":[
+"Central venous catheters (CVCs) inserted under emergency conditions should be removed as soon as possible (no longer than 48 hours after insertion) and replaced at a new site (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Femoral venous catheters are associated with higher rates of infection and should be avoided, if possible. Aseptic technique and following the CVC insertion bundle decrease the risk of central line–associated bloodstream infections (CLABSIs), but these strategies are not assured when a CVC is placed emergently. The CVC insertion bundle includes hand hygiene; use of full barrier precautions (large full-body sterile drape to cover the patient during catheter insertion) and personal protective equipment (mask, cap, sterile gown, and gloves); chlorhexidine skin antisepsis (allow antiseptic to air dry before beginning procedure); optimal site selection and catheter type (e.g., minimum number of ports or lumens needed); sterile dressing; and daily review of necessity, with prompt removal of unnecessary catheters. The daily review of line necessity and documentation can be achieved with multidisciplinary rounds, daily reminders, and automated alerts. These practices are important in decreasing the risk of developing CLABSIs. Additionally, hand hygiene before manipulation of the intravenous system, care of injection ports, and proper catheter site dressing monitoring and dressing changes reduce risk of infection. Not following these measures increases the risk for development of a CLABSI."
+]
+},
+{
+"type":"p",
+"hlId":"9d2b8b",
+"children":[
+"Random blood cultures from the femoral catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are not appropriate for monitoring for the development of CVC infections. The risk of blood culture contamination is high, making the results difficult to interpret (colonization vs infection)."
+]
+},
+{
+"type":"p",
+"hlId":"dbab80",
+"children":[
+"Monitoring patients for CLABSIs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is important but is not a substitute for replacing a CVC that was inserted emergently or under less than optimal conditions."
+]
+},
+{
+"type":"p",
+"hlId":"2c2017",
+"children":[
+"Guidelines recommend against changing CVCs over a guidewire (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because this increases the risk of bloodstream infection by introducing bacteria from the skin at the time of insertion."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_5_3",
+"objective":{
+"__html":"Prevent central venous catheter–associated bloodstream infection."
+},
+"references":[
+[
+"Patel PK, Olmsted RN, Hung L, et al. A tiered approach for preventing central line-associated bloodstream infection. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-3469",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:S16-S22. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31569225",
+"target":"_blank"
+},
+"children":[
+"PMID: 31569225"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":39,
+"C":4,
+"D":51,
+"E":0
+},
+"hlIds":[
+"9ffff2",
+"9f93e9",
+"c2fbe1",
+"5c19ca",
+"8e86cd",
+"54bc7e",
+"9d2b8b",
+"dbab80",
+"2c2017"
+]
+}

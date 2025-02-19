@@ -1,0 +1,259 @@
+{
+"id":"mk19_qq_q077",
+"number":77,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"70d789",
+"children":[
+"A 61-year-old man is evaluated during routine follow-up of type 2 diabetes. He is confused about his most recent glucose values. Log records show several fasting blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" levels ranging from 110 to 140 mg/dL (6.1-7.8 mmol/L) over the past 6 months. Despite these values, the past two ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" values are 8.5% and 8.1%. He also has had two early-morning hypoglycemic episodes. Medications are metformin and insulin glargine."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Increase frequency of fasting blood glucose measurements"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase the insulin glargine dosage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measure glycated albumin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Measure 2-hour postprandial glucose levels"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"570db5",
+"children":[
+"The most common cause of fasting blood glucose levels at target and elevated hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" measurements is elevated postprandial blood glucose levels."
+]
+},
+{
+"type":"keypoint",
+"hlId":"df5b0d",
+"children":[
+"The possibility of postprandial hyperglycemia should be assessed by measuring blood glucose levels 2 hours after meals several times each week."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d5c033",
+"children":[
+"This patient requires measurement of his 2-hour postprandial blood glucose levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A common clinical scenario in diabetes management is the patient whose hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" values are suboptimal despite fasting blood glucose results suggesting good glycemic control. Several possible explanations for this phenomenon exist, including a falsely altered hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" value in the setting of hemoglobinopathy or hemolytic anemia. However, there is no reason to suspect a blood disorder in this patient. The most common cause is elevated postprandial blood glucose levels. The possibility of postprandial hyperglycemia should be assessed by measuring blood glucose levels 2 hours after meals several times each week. If elevated blood glucose levels are noted postprandially, the addition of a mealtime rapid-acting insulin analogue, such as insulin aspart, insulin lispro, or insulin glulisine, is appropriate. These insulin preparations, which have peak action within 30 to 90 minutes and duration of action of 2 to 4 hours, successfully modulate the postprandial rise in glucose."
+]
+},
+{
+"type":"p",
+"hlId":"3359f1",
+"children":[
+"Increasing the frequency of blood glucose measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unlikely to add actionable information to the data already collected. There is no reason to discard the results of fasting blood glucose measurements obtained over the past 6 months; rather, postprandial blood glucose should be measured to inform treatment decisions."
+]
+},
+{
+"type":"p",
+"hlId":"51fe41",
+"children":[
+"Basal insulin analogues, such as insulin glargine and insulin detemir, are effective agents to control fasting glucose levels and, in most circumstances, hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" values. However, they cannot reduce postprandial glucose excursions. In addition, increasing the dosage of insulin glargine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may increase the incidence of overnight hypoglycemia without addressing postprandial glucose spikes."
+]
+},
+{
+"type":"p",
+"hlId":"4d8bee",
+"children":[
+"When hemoglobinopathy or hemolytic anemia is responsible for incorrect hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" readings, another biochemical measure of long-term glucose levels, such as fructosamine or glycated albumin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), may be used instead of hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+". Because these conditions are uncommon, measurement of the patient's serum glycated albumin is not useful as the next management step."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_2",
+"objective":{
+"__html":"Manage discordant fasting blood glucose and hemoglobin A<sub>1c</sub> results."
+},
+"references":[
+[
+"American Diabetes Association. 9. Pharmacologic approaches to glycemic treatment: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S111-S124. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298420",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298420"
+]
+},
+" doi:10.2337/dc21-S009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"70d789",
+"1a5dcc",
+"570db5",
+"df5b0d",
+"d5c033",
+"3359f1",
+"51fe41",
+"4d8bee"
+]
+}

@@ -1,0 +1,188 @@
+{
+"id":"mk19_b_hm_q004",
+"number":4,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"e6008d",
+"children":[
+"A 55-year-old woman is evaluated before starting chemotherapy for multiple myeloma. Anticipated therapy will include bortezomib, lenalidomide, dexamethasone, and daily low-dose aspirin. She has otherwise been well, has no symptoms, and has no previous history of venous thromboembolism (VTE) or risk factors for VTE. She takes no medications. Today, her ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level is 9 g/dL (90 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"91113e",
+"children":[
+"Inactivated influenza and 20-valent pneumococcal conjugate vaccines will be administered today. The patient received the herpes zoster virus recombinant vaccine at age 50 years."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e669c4",
+"children":[
+"Which of the following is the most appropriate additional treatment during chemotherapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Epoetin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluconazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metronidazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Valacyclovir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b2994a",
+"children":[
+"Treatment guidelines for patients with multiple myeloma recommend that those treated with proteasome inhibitors (e.g., bortezomib) should receive antiviral prophylaxis (acyclovir, valacyclovir) to avoid herpes zoster virus reactivation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f83653",
+"children":[
+"In addition to chemotherapy, this patient should receive prophylactic therapy with valacyclovir to prevent herpes zoster virus reactivation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She is immunocompromised because of her plasma cell dyscrasia. Treatment guidelines for patients with multiple myeloma (MM) recommend that those treated with proteasome inhibitors (e.g., bortezomib) should receive antiviral prophylaxis (acyclovir, valacyclovir) to avoid herpes zoster virus reactivation. Prophylaxis should be administered regardless of previous immunization against herpes zoster virus."
+]
+},
+{
+"type":"p",
+"hlId":"4d93b9",
+"children":[
+"This patient should not receive epoetin, an erythropoietin-stimulating agent (ESA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The American Society of Clinical Oncology and the American Society of Hematology recommend restricting ESA use to patients with chemotherapy-associated symptomatic anemia when cancer treatment is not curative in intent to reduce the need for erythrocyte transfusions. ESAs are not recommended for patients whose cancer treatment is curative in intent, given the risk of ESA-related cancer progression. Although this recommendation is viewed by some as controversial, this patient's anemia is asymptomatic and does not require treatment with either an ESA or erythrocyte transfusion."
+]
+},
+{
+"type":"p",
+"hlId":"466479",
+"children":[
+"Antibiotic prophylaxis with trimethoprim-sulfamethoxazole or levofloxacin is often administered during induction chemotherapy because of the high rate of infection with gram-negative and encapsulated bacteria during the first 3 months of therapy. Trimethoprim-sulfamethoxazole has been shown to decrease the number of bacterial infections and serious infections, and levofloxacin prophylaxis has been associated with significantly fewer deaths and febrile episodes during this time period. The planned myeloma treatment is not associated with increased risk of fungal infection; therefore, prophylaxis with fluconazole is not indicated in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Additionally, metronidazole has no activity against encapsulated bacteria, a common source of infection in patients with MM, and is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_4_3",
+"objective":{
+"__html":"Prevent herpes zoster virus reactivation during multiple myeloma treatment."
+},
+"references":[
+[
+"Guzdar A, Costello C. Supportive care in multiple myeloma. Curr Hematol Malig Rep. 2020;15:56-61. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32172361",
+"target":"_blank"
+},
+"children":[
+"PMID: 32172361"
+]
+},
+" doi:10.1007/s11899-020-00570-9"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":27,
+"B":10,
+"C":1,
+"D":61,
+"E":0
+},
+"hlIds":[
+"91054a",
+"e6008d",
+"91113e",
+"e669c4",
+"b2994a",
+"f83653",
+"4d93b9",
+"466479"
+]
+}

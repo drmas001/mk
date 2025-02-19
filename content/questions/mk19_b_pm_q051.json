@@ -1,0 +1,228 @@
+{
+"id":"mk19_b_pm_q051",
+"number":51,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3310a2",
+"children":[
+"A 55-year-old man is evaluated for a 2-month history of shoulder pain and progressive weakness in his right hand. The pain radiates to his scapula. He has no shortness of breath or cough. He has a 30-pack-year smoking history and quit smoking 15 years ago. His only medication is ibuprofen for pain."
+]
+},
+{
+"type":"p",
+"hlId":"b3a40f",
+"children":[
+"On physical examination, vital signs are normal. Ptosis and miosis of the right eye are observed. He has mild atrophy of the right hand muscles and decreased grip strength in his right hand. Lungs are clear to auscultation."
+]
+},
+{
+"type":"p",
+"hlId":"28b9fd",
+"children":[
+"Complete blood count and metabolic profile are normal."
+]
+},
+{
+"type":"p",
+"hlId":"885988",
+"children":[
+"Chest radiograph is ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f051",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f051"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopy with biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of chest"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT-guided biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Referral for surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e6dbb7",
+"children":[
+"In patients with radiographic evidence of advanced stage lung cancer, diagnosis and staging are best accomplished with a single invasive test at a location that will establish both the diagnosis and the stage of disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8d1560",
+"children":[
+"The most appropriate next step in management is CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient presents with a chest mass in the superior sulcus that has led to shoulder and arm pain, weakness and atrophy of the muscles of the hand, and Horner syndrome (ptosis, miosis, anhidrosis). This constellation of symptoms is called Pancoast syndrome and is typically caused by tumor infiltration of the brachial plexus and/or extension of the tumor into the parietal pleural, ribs, or vertebral bodies. These tumors are typically non–small cell lung cancer (NSCLC) and do not present with symptoms of dyspnea or cough until late because of their peripheral location. Diagnosis of these tumors can be delayed by several months because patients may first be treated for shoulder bursitis or arthritis. Superior sulcus tumors are staged the same way as NSCLC elsewhere in the chest. Initial evaluation should start with a full history, physical examination, complete blood count, serum chemistry studies, and CT of the chest. The presence of findings on physical examination (consolidation, effusion, bone tenderness, neurologic findings) will indicate advanced disease. PET can be very helpful in the initial evaluation of potential lung cancer, as several studies have demonstrated that PET identifies unsuspected mediastinal involvement, distant disease, or both, which informs staging biopsies and reduces futile (noncurative) surgery. The definitive diagnosis of lung cancer requires tissue histopathology. In patients with radiographic evidence of advanced stage disease, diagnosis and staging are best accomplished with a single invasive test at a location that will establish both the diagnosis and the stage of disease."
+]
+},
+{
+"type":"p",
+"hlId":"0fbc76",
+"children":[
+"Bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not a good choice for two reasons. First, to assess accessibility for biopsy, a CT should be performed first. Second, in this patient the tumor is a peripheral lesion, and the yield for peripheral lesions is typically low. Even if the lesion were accessible by bronchoscopy, it may not be the best modality if it cannot simultaneously diagnose and stage the tumor."
+]
+},
+{
+"type":"p",
+"hlId":"95a662",
+"children":[
+"CT-guided biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the best choice because there has been no assessment for possible metastatic disease. Ideally, one biopsy should be performed for both staging and diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"e7ec5d",
+"children":[
+"Surgical resection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be performed until the extent of disease has been determined. Chest CT, as an initial investigation, would help determine the presence of metastatic disease within the thorax and potential resectability of the tumor."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_2_4",
+"objective":{
+"__html":"Evaluate possible lung cancer with a chest CT."
+},
+"references":[
+[
+"Duma N, Santana-Davila R, Molina JR. Non-small cell lung cancer: epidemiology, screening, diagnosis, and treatment. Mayo Clin Proc. 2019;94:1623-1640. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31378236",
+"target":"_blank"
+},
+"children":[
+"PMID: 31378236"
+]
+},
+" doi:10.1016/j.mayocp.2019.01.013"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":53,
+"C":31,
+"D":7,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f051":{
+"id":"mk19_b_pm_mcq_f051",
+"number":51,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0d8863a5bebd7c43d41737744bb18997",
+"height":477,
+"width":489,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"3310a2",
+"b3a40f",
+"28b9fd",
+"885988",
+"1a5dcc",
+"e6dbb7",
+"8d1560",
+"0fbc76",
+"95a662",
+"e7ec5d"
+]
+}

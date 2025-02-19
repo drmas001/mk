@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q028",
+"number":28,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91e5dd",
+"children":[
+"A 22-year-old woman participating in a marathon is evaluated in the medical tent for headache, confusion, and disorientation after she stopped running at mile 20. This is her first marathon."
+]
+},
+{
+"type":"p",
+"hlId":"3439e3",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F), blood pressure is 110/72 mm Hg, pulse rate is 110/min, and respiration rate is 20/min. The patient is confused. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"084287",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level of 130 mEq/L (130 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fluid restriction"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous 0.9% saline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"100-mL bolus of 3% saline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1b56f2",
+"children":[
+"Acute hyponatremia developing in less than 48 hours can cause headaches, seizures, or death."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6f9271",
+"children":[
+"Acute hyponatremia should be treated with a 100-mL bolus of 3% saline."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f19cd0",
+"children":[
+"The most appropriate management is a 100-mL bolus of 3% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Symptoms caused by hyponatremia depend on both the rapidity and degree of decline in serum sodium. A sudden drop in serum sodium causes water to move into the brain, producing cerebral edema and possibly causing headaches, seizures, or death. Hyponatremia has been reported in inexperienced marathon runners who overhydrate. A systematic study of hyponatremia in runners finishing a marathon revealed that 13% had a serum sodium concentration of ≤135 mEq/L (135 mmol/L) and 0.6% had critical hyponatremia of ≤120 mEq/L (120 mmol/L). Hyponatremia was associated with consumption of more than 3 liters of fluids during the race, consumption of fluids every mile, and a racing time of more than 4 hours, which is a possible indication of less training. Female runners remain a readily identifiable risk group in many studies, but this may represent the impact of body size and longer racing time rather than the sex of the athlete. The other major factor causing hyponatremia in endurance athletes is persistent secretion of antidiuretic hormone (ADH). Because hyponatremia is not uncommon with extreme exercise and overhydration, it is important that medical personnel are able to measure sodium rapidly. If the patient's sodium cannot be measured, treatment should be held until the patient can be transported to a facility where sodium measurements can be made. Individuals with severe symptoms (e.g., confusion, coma, seizures) secondary to acute hyponatremia should be treated with a 100-mL bolus of 3% saline. If symptoms do not improve and the sodium remains low, an additional bolus can be given."
+]
+},
+{
+"type":"p",
+"hlId":"362c2c",
+"children":[
+"Although fluid restriction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may allow for correction of serum sodium in persons with minimal symptoms, it should never be the sole treatment when severe symptoms such as confusion are present, as they are in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"c733ac",
+"children":[
+"Intravenous 0.9% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be administered in this patient. If her ADH levels are extremely elevated, her urine osmolality will exceed the osmolality of normal saline. Intravenous 0.9% saline could potentially lower the patient's sodium further. The use of 0.9% saline should be limited to those patients with evidence of volume depletion and minimal symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"70faed",
+"children":[
+"It is inappropriate to not treat this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient's serum sodium is 130 mEq/L (130 mmol/L), and serious neurologic symptoms may occur when the sodium decreases acutely to <132 mEq/L (132 mmol/L). Therefore, this patient needs prompt treatment."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_2_1_2",
+"objective":{
+"__html":"Treat acute hyponatremia."
+},
+"references":[
+[
+"Hoorn EJ, Zietse R. Diagnosis and treatment of hyponatremia: compilation of the guidelines. J Am Soc Nephrol. 2017;28:1340-1349. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28174217",
+"target":"_blank"
+},
+"children":[
+"PMID: 28174217"
+]
+},
+" doi:10.1681/ASN.2016101139"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":60,
+"C":36,
+"D":1,
+"E":0
+},
+"hlIds":[
+"91e5dd",
+"3439e3",
+"084287",
+"cb2b54",
+"1b56f2",
+"6f9271",
+"f19cd0",
+"362c2c",
+"c733ac",
+"70faed"
+]
+}

@@ -1,0 +1,204 @@
+{
+"id":"mk19_a_gm_q004",
+"number":4,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"75a1e6",
+"children":[
+"A 58-year-old man is evaluated for a 6-month history of persistent low back pain. The patient is a postal employee who first developed pain after lifting a heavy mailbag onto a truck. The pain is localized to the lumbar back, is bilateral, and does not radiate. An MRI obtained 3 months ago demonstrated minor disk herniations that did not correspond to his area of pain. He has no other symptoms, and medical history is otherwise unremarkable. He continues to work. His only medication is naproxen for pain control."
+]
+},
+{
+"type":"p",
+"hlId":"41d469",
+"children":[
+"On physical examination, vital signs are normal. BMI is 25. There is pain to palpation over the lumbar paraspinal muscles. Range of motion with back flexion and extension is limited. Results of the straight leg raise test are negative bilaterally. Lower extremity muscle strength and reflexes are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amitriptyline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gabapentin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oxycodone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Surgical intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cb8ef8",
+"hvc":true,
+"children":[
+"Nonpharmacologic treatment is recommended as first-line therapy for patients with acute (<4 weeks), subacute (4-12 weeks), or chronic (>12 weeks) low back pain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3e7a9b",
+"hvc":true,
+"children":[
+"For patients with chronic low back pain unresponsive to nonpharmacologic treatment, pharmacologic therapy with NSAIDs and duloxetine can be considered."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"16b931",
+"children":[
+"Exercise therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment for this patient with chronic low back pain. Nonpharmacologic treatment is recommended as first-line therapy for patients with acute (<4 weeks), subacute (4-12 weeks), or chronic (>12 weeks) low back pain. Multiple nonpharmacologic options are available for chronic low back pain. Evidence and systematic reviews endorse exercise, multidisciplinary rehabilitation, acupuncture, mindfulness-based stress reduction (moderate-quality evidence), tai chi, yoga, motor control exercise, progressive relaxation, electromyography biofeedback, low-level laser therapy, operant conditioning, cognitive behavioral therapy, and spinal manipulation. Varying levels of predominantly weak evidence support these approaches, but associated harms are minimal."
+]
+},
+{
+"type":"p",
+"hlId":"f81a24",
+"children":[
+"Tricyclic antidepressants (such as amitriptyline [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"]) and neuromodulators (such as gabapentin [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"] and pregabalin) have not demonstrated effectiveness for chronic low back pain and should not be prescribed for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"6b5caf",
+"children":[
+"In patients with chronic low back pain who continue to be symptomatic with nonpharmacologic therapy, pharmacologic treatment with NSAIDs is considered first-line therapy and duloxetine is considered second-line pharmacologic therapy. Opioids, such as oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should be considered as an option only in patients whose symptoms have not responded to nonpharmacologic and first- and second-line pharmacologic therapies and only if the potential benefits outweigh the risks for individual patients. Furthermore, a 2018 randomized controlled trial demonstrated that opioids were not superior to nonopioid medications for improving pain-related function for chronic back pain; pain intensity was significantly improved in the nonopioid group."
+]
+},
+{
+"type":"p",
+"hlId":"f6d554",
+"children":[
+"Most patients with low back pain do not require surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Emergent surgery is indicated for most patients with suspected cord compression or cauda equina syndrome. Nonurgent surgery may be considered in patients with neurologic deficits, progressively worsening spinal stenosis, or chronic pain (with corresponding abnormalities on imaging) that has been refractory to conservative measures and has the potential to respond to surgery. This patient has no lesion that will be amenable to surgical intervention."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_2_1",
+"objective":{
+"__html":"Treat chronic low back pain."
+},
+"references":[
+[
+"Skelly AC, Chou R, Dettori JR, et al. Noninvasive nonpharmacological treatment for chronic pain: a systematic review update. Rockville, MD: Agency for Healthcare Research and Quality; 2020. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32338846",
+"target":"_blank"
+},
+"children":[
+"PMID: 32338846"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":99,
+"C":0,
+"D":0,
+"E":0
+},
+"hlIds":[
+"75a1e6",
+"41d469",
+"1054f1",
+"cb8ef8",
+"3e7a9b",
+"16b931",
+"f81a24",
+"6b5caf",
+"f6d554"
+]
+}

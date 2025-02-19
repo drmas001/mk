@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_nr_q004",
+"number":4,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d847db",
+"children":[
+"A 27-year-old man is evaluated in the emergency department after three episodes of loss of consciousness and falling down that started 2 weeks ago. He has no memory of the events. The third event was witnessed by a coworker who noted that the patient cried out, had whole-body stiffening, and fell backward off his chair. While on the ground, the patient's whole body shook with synchronous limb jerking for 2 minutes. Afterward, the patient was very sleepy and had slow, snoring-like breathing. He remained in a state of impaired alertness for 8 minutes. He gradually awoke by the time he reached the emergency department 20 minutes later, and now has recovered to normal."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Generalized convulsive status epilepticus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Generalized tonic-clonic seizure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myoclonic seizure"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Psychogenic nonepileptic spells/events"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"849721",
+"children":[
+"Generalized tonic-clonic seizures are characterized by an abrupt loss of consciousness and falling down, whole-body stiffening, rhythmic synchronous limb jerking, and subsequent postictal lethargy and stertorous respirations."
+]
+},
+{
+"type":"keypoint",
+"hlId":"989f33",
+"children":[
+"Generalized convulsive status epilepticus is defined as a generalized tonic-clonic seizure (GTCS) lasting more than 5 minutes, or two GTCSs occurring within 5 minutes of each other without a return to baseline mental status."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a07cf8",
+"children":[
+"The most likely diagnosis is generalized tonic-clonic seizures (GTCS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Although this patient's first two seizures were unwitnessed, the third event was characterized by an ictal cry, whole-body stiffening and falling down, rhythmic synchronous limb jerking, and subsequent postictal lethargy and stertorous respirations (slow, deep, snoring-like breathing due to upper airway obstruction); these features characterize a GTCS."
+]
+},
+{
+"type":"p",
+"hlId":"6e1fb3",
+"children":[
+"Generalized convulsive status epilepticus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is defined as a GTCS lasting more than 5 minutes, or two GTCS occurring within 5 minutes of each other without a return to baseline mental status. Convulsive status epilepticus is diagnosed clinically. This patient's clonic activity lasted 2 minutes with an 8-minute postictal period of impaired alertness and does not meet the definition of generalized convulsive status epilepticus. The postictal period of confusion and impaired alertness is not accounted for as part of seizure duration, although the layperson may inadvertently include it when interviewed about the event."
+]
+},
+{
+"type":"p",
+"hlId":"babf4c",
+"children":[
+"Myoclonic seizures (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") typically include jerking or shaking that lasts less than 1 second and may occur in clusters, resulting in a patient falling down. However, unlike this patient's seizure, there is no postictal lethargy or confusion after myoclonic seizures, and 2-minute duration of shaking would be unusually long for this seizure type."
+]
+},
+{
+"type":"p",
+"hlId":"d0fdf2",
+"children":[
+"Psychogenic nonepileptic spells/events (PNES) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be considered in the differential diagnosis. PNES are most often related to posttraumatic stress disorder or conversion disorder. Patients often have a history of military combat, sexual or physical abuse, chronic medical illness, or prominent life stressors. PNES often mimic GTCS, but certain features help distinguish the diagnoses. PNES findings may include asynchronous flailing of variable limbs, side-to-side head shaking, pelvic thrusting, and prolonged duration (>5 minutes or even hours). Event capture during video EEG monitoring usually is required to confirm the diagnosis. GTCS are a better fit for this patient's symptoms."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_3_2_1",
+"objective":{
+"__html":"Diagnose generalized tonic-clonic seizures."
+},
+"references":[
+[
+"Pack AM. Epilepsy overview and revised classification of seizures and epilepsies. Continuum (Minneap Minn). 2019;25:306-21. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30921011",
+"target":"_blank"
+},
+"children":[
+"PMID: 30921011"
+]
+},
+" doi:10.1212/CON.0000000000000707"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":86,
+"C":1,
+"D":6,
+"E":0
+},
+"hlIds":[
+"d847db",
+"a4ff4d",
+"413696",
+"849721",
+"989f33",
+"a07cf8",
+"6e1fb3",
+"babf4c",
+"d0fdf2"
+]
+}

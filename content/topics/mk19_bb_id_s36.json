@@ -1,0 +1,392 @@
+{
+"id":"mk19_bb_id_s36",
+"subspecialtyId":"id",
+"title":"Hospital-Acquired and Ventilator-Associated Pneumonia",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_id_s36",
+"title":{
+"__html":"Hospital-Acquired and Ventilator-Associated Pneumonia"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"210eb2",
+"children":[
+"Hospital-Acquired and Ventilator-Associated Pneumonia"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_id_s36_1",
+"title":{
+"__html":"Prevention"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"c53b76",
+"children":[
+"Prevention"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"1c9f1c",
+"children":[
+{
+"type":"abbreviation",
+"title":"hospital-acquired pneumonia",
+"children":[
+"HAP"
+]
+},
+" is defined as pneumonia that occurs ≥48 hours after admission. ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"ventilator-associated pneumonia",
+"children":[
+"VAP"
+]
+},
+","
+]
+},
+" a subset of HAP, is defined as occurring >48 hours after endotracheal intubation."
+]
+},
+{
+"type":"p",
+"hlId":"d460bd",
+"children":[
+"Procedures to reduce VAP include:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"344190",
+"children":[
+"minimizing sedation"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"6d087b",
+"children":[
+"following daily weaning protocols for timely extubation"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"217b73",
+"children":[
+"keeping the head of the bed elevated >30 degrees"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1e2d72",
+"children":[
+"avoiding nasal intubation and nasogastric tubes"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"7ec158",
+"children":[
+"using chlorhexidine mouth rinse and subglottic suction catheters"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"ae6ffc",
+"children":[
+"facilitating early mobility"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s36_2",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"819a7b",
+"children":[
+"The diagnosis of HAP is based on a new or progressive radiographic infiltrate plus clinical signs of pneumonia (fever, purulent sputum, leukocytosis, hypoxemia)."
+]
+},
+{
+"type":"p",
+"hlId":"262dc9",
+"children":[
+"Obtain specimen for culture."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s36_3",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"5e87d5",
+"children":[
+"The main risk factor for ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"methicillin-resistant Staphylococcus aureus",
+"children":[
+"MRSA"
+]
+},
+","
+]
+},
+" antibiotic-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+", or other antibiotic-resistant pathogens is intravenous antibiotic use within the past 90 days."
+]
+},
+{
+"type":"p",
+"hlId":"290a19",
+"children":[
+"Additional risk factors for antibiotic-resistant pathogens associated with VAP are:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"aa6002",
+"children":[
+"septic shock at the time of VAP"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1ec0a0",
+"children":[
+{
+"type":"abbreviation",
+"title":"acute respiratory distress syndrome",
+"children":[
+"ARDS"
+]
+},
+" preceding VAP"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"300c3e",
+"children":[
+"5 or more days of hospitalization before VAP"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"92da08",
+"children":[
+"kidney replacement therapy before VAP"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"e82f77",
+"children":[
+"Initiate empiric antibiotic therapy for HAP or VAP pending culture results."
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"47642b",
+"children":[
+"Cover ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" with vancomycin or linezolid if MRSA resistance risk factors are present or MRSA prevalence is >10% or unknown."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"59a4be",
+"children":[
+"Cover ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" with two antipseudomonal agents of different classes (e.g., piperacillin-tazobactam plus gentamicin) if resistance risk factors are present, prevalence is >10%, or bronchiectasis or cystic fibrosis is present."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"a8eee0",
+"children":[
+"Choose monotherapy with cefepime, piperacillin-tazobactam, or levofloxacin for patients with no resistance risk factors; choose one agent to treat ",
+{
+"type":"abbreviation",
+"title":"methicillin-sensitive Staphylococcus aureus",
+"children":[
+"MSSA"
+]
+},
+" (e.g., nafcillin) in patients with no risk factors for MRSA."
+]
+},
+{
+"type":"p",
+"hlId":"44f3f0",
+"children":[
+"Narrow the empiric therapy based on culture results."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"1fa0a5",
+"children":[
+"Do not delay empiric antibiotic therapy to perform diagnostic studies."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s36_4",
+"title":{
+"__html":"Test Yourself"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7866cc",
+"children":[
+"Test Yourself"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"3557ba",
+"class":"test",
+"children":[
+"A 78-year-old woman was admitted from home for treatment of a hip fracture. Four days after admission, she develops a temperature of 38.3 °C (100.9 °F) and a cough. A chest x-ray shows a new left lower lobe infiltrate."
+]
+},
+{
+"type":"p",
+"hlId":"27bccc",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+"For diagnosis, choose HAP; for treatment, select cefepime, piperacillin-tazobactam, or levofloxacin and nafcillin."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+}
+}

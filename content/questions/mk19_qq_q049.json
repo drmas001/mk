@@ -1,0 +1,206 @@
+{
+"id":"mk19_qq_q049",
+"number":49,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c1d668",
+"children":[
+"A 55-year-old woman is evaluated for a 5-month history of fatigue and constipation. More recently, she has experienced polydipsia and polyuria. She has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"b1da1a",
+"children":[
+"Physical examination findings, including vital signs, are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Serum albumin"
+]
+},
+" level is 4.5 g/dL (45 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"calcium"
+]
+},
+" level is 11.4 mg/dL (2.9 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Phosphorus, serum",
+"children":[
+"phosphorus"
+]
+},
+" level is 2.2 mg/dL (0.71 mmol/L). Complete blood count, anion gap, and kidney function are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8c731a",
+"children":[
+"Which of the following should be measured next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Calcitonin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"25-Hydroxyvitamin D and 1,25-dihydroxyvitamin D"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ionized calcium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Parathyroid hormone level"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"39c57a",
+"children":[
+"Primary hyperparathyroidism is the most common cause of hypercalcemia in the outpatient setting, and the first step in diagnosing hypercalcemia is to determine the parathyroid hormone level."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9a0d0b",
+"children":[
+"In patients with hypercalcemia, an elevated or “inappropriately” normal parathyroid hormone measurement is diagnostic of primary hyperparathyroidism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2393ea",
+"children":[
+"Primary hyperparathyroidism is the most common cause of hypercalcemia in the outpatient setting, and the first step in diagnosing hypercalcemia is to determine the parathyroid hormone (PTH) level with an assay for intact PTH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). If the PTH level is high or “inappropriately” normal, primary hyperparathyroidism is the diagnosis. If the PTH level is suppressed, a search for other entities that cause hypercalcemia must be conducted. Primary hyperparathyroidism is typically caused by a solitary parathyroid adenoma. Because PTH enhances kidney phosphate excretion, low or low-normal serum phosphorus concentrations support the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"635e85",
+"children":[
+"Calcitonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is secreted by thyroid parafollicular C cells. This serum level is elevated in patients with medullary thyroid cancer or C-cell hyperplasia. Calcitonin tends to lower the calcium level, but the effect is weak and relevant only in pharmacologic amounts. Measurement of serum calcitonin is not indicated in a patient with hypercalcemia."
+]
+},
+{
+"type":"p",
+"hlId":"b4600e",
+"children":[
+"One of the ways in which PTH increases the serum calcium level is by upregulation of the 1α-hydroxylase enzyme, which stimulates conversion of vitamin D to its most active form, 1,25-dihydroxyvitamin D. This form of vitamin D increases the percentage of dietary calcium absorbed by the intestine. Body stores of vitamin D are assessed by measuring 25-hydroxyvitamin D, which has a long half-life. Measurement of this patient's 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be appropriate after measuring serum PTH, particularly if the PTH level is suppressed; however, this should not precede measurement of serum PTH."
+]
+},
+{
+"type":"p",
+"hlId":"7aee8e",
+"children":[
+"Ionized calcium measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not necessary if the serum albumin or corrected total calcium levels are normal, there are no acute acid-base disorders, or there is no evidence of paraproteinemia, such as multiple myeloma (anemia, kidney injury, low anion gap). In most clinical situations, measured calcium levels depend on the amount bound to albumin, which may be affected by nutrition and acid-base status. When albumin concentration is low, ionized calcium measurement or corrected total calcium calculation is required to accurately assess calcium levels. This patient's albumin level is normal, and she has symptoms of hypercalcemia; ionized calcium does not need to be measured."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_2_2_2_1",
+"objective":{
+"__html":"Diagnose primary hyperparathyroidism."
+},
+"references":[
+[
+"Insogna KL. Primary hyperparathyroidism. N Engl J Med. 2018;379:1050-1059. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30207907",
+"target":"_blank"
+},
+"children":[
+"PMID: 30207907"
+]
+},
+" doi:10.1056/NEJMcp1714213"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c1d668",
+"b1da1a",
+"8c731a",
+"39c57a",
+"9a0d0b",
+"2393ea",
+"635e85",
+"b4600e",
+"7aee8e"
+]
+}

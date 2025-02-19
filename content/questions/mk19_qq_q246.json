@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q246",
+"number":246,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 246",
+"stimulus":[
+{
+"type":"p",
+"hlId":"070595",
+"children":[
+"A 62-year-old woman is evaluated in the emergency department for a 2-day history of a painful rash on the right side of her body. She is receiving chemotherapy for breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"8b4ab4",
+"children":[
+"On physical examination, temperature is 37.5 °C (99.5 °F), blood pressure is 115/62 mm Hg, and pulse rate is 78/min. A vesicular rash on an erythematous base in various stages of development is present on her right posterior chest, flank, buttock, and thigh."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2352f5",
+"children":[
+"Which of the following infection control precautions should be initiated?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Airborne and contact"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Contact"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Contact and droplet"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Droplet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9b1753",
+"children":[
+"Patients with localized zoster who are not immunocompromised can be managed with contact precautions alone."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5c954f",
+"children":[
+"Airborne and contact precautions are appropriate infection control measures for patients who have disseminated zoster or who have localized zoster and are immunocompromised."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7b400f",
+"children":[
+"Airborne and contact precautions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for disseminated varicella-zoster virus reactivation are necessary for this patient. Varicella-zoster virus can be transmitted from persons with zoster to susceptible hosts (i.e., those who have never had chickenpox and are not vaccinated against it), who may develop chickenpox as a result of the exposure. The virus can spread through direct contact with active lesions, which is most common with localized zoster. Localized zoster is defined as rash in one or two dermatomes (most commonly along a thoracic dermatome) that does not cross the midline. Patients with localized zoster who are not immunocompromised can be managed with contact precautions alone; a person is no longer infectious after all the lesions have crusted over. Disseminated zoster is defined as a more widespread rash involving three or more dermatomes; it may appear similar to varicella (chickenpox). Vesicles usually appear in various stages of development and generally form over 3 to 5 days before they start to dry and crust over. Immunocompromised persons (such as this patient) are at increased risk for disseminated zoster, which may involve the respiratory tract. In patients with disseminated zoster or those who are immunocompromised, the virus may be transmitted via the airborne route from infected small (≤5 microns) respiratory droplet nuclei that can remain suspended for extended periods or travel long distances on air currents. Airborne (negative-pressure room; health care personnel [HCP] wear fit-tested N95 respirators) and contact precautions (single room; gloves and gown for HCP entering room) are appropriate infection control measures for patients who have disseminated zoster or localized zoster and are immunocompromised."
+]
+},
+{
+"type":"p",
+"hlId":"e503e5",
+"children":[
+"Contact precautions alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be appropriate for a patient with localized varicella-zoster virus reactivation but not disseminated infection."
+]
+},
+{
+"type":"p",
+"hlId":"649766",
+"children":[
+"Contact and droplet precautions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are insufficient to prevent the spread of varicella-zoster infection from a person with disseminated disease. Combination contact and droplet precautions are appropriate for patients with adenovirus infection."
+]
+},
+{
+"type":"p",
+"hlId":"05014b",
+"children":[
+"Droplet precautions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are applied for organisms that are transmitted via large (>5 microns) droplets that travel less than 3 feet on air currents (such as respiratory viruses, pertussis, and mumps). Droplet precautions are insufficient to prevent the spread of varicella-zoster infection from a person with disseminated disease."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_3_2",
+"objective":{
+"__html":"Prevent disseminated varicella-zoster virus nosocomial transmission."
+},
+"references":[
+[
+"Siegel JD, Rhinehart E, Jackson M, Chiarello L, Healthcare Infection Control Practices Advisory Committee. 2007 Guideline for isolation precautions: preventing transmission of infectious agents in healthcare settings. Updated December 9, 2010. Accessed June 18, 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.cdc.gov/hicpac/2007IP/2007isolationPrecautions.html",
+"target":"_blank"
+},
+"children":[
+"www.cdc.gov/hicpac/2007IP/2007isolationPrecautions.html"
+]
+},
+"."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"070595",
+"8b4ab4",
+"2352f5",
+"9b1753",
+"5c954f",
+"7b400f",
+"e503e5",
+"649766",
+"05014b"
+]
+}

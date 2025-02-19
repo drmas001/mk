@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_nr_q039",
+"number":39,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4989f6",
+"children":[
+"A 38-year-old man is admitted to the hospital for surgical resection of a glioblastoma. Following resection, he is expected to remain in intensive care for 2 days and discharged home by the third day."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cf5def",
+"children":[
+"Which of the following is the most appropriate measure to prevent venous thromboembolism immediately following surgery?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Low-molecular-weight heparin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mechanical prophylaxis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Unfractionated heparin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No prophylaxis is needed"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6ba87b",
+"children":[
+"Perioperative mechanical venous thromboembolism prophylaxis is a reasonable option for patients undergoing cranial surgery."
+]
+},
+{
+"type":"keypoint",
+"hlId":"634d59",
+"children":[
+"Subcutaneous low-molecular-weight heparin added to mechanical venous thromboembolism prophylaxis is reasonable 24 to 48 hours following resection of primary brain tumors for patients whose risk of VTE outweighs their risk of bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1358ef",
+"children":[
+"Mechanical prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate venous thromboembolism (VTE) prophylaxis immediately following cranial surgery. Patients with primary and malignant brain tumors, as with most patients with cancer, are hypercoagulable and predisposed to VTE. The perioperative risk associated with glioma approaches 25% in some studies and prophylaxis should begin on admission to the hospital. Guidelines recommend pharmacologic VTE prophylaxis over mechanical prophylaxis in acutely or critically ill patients. In situations in which pharmacologic prophylaxis cannot be given, such as immediately prior to or following neurosurgery, guidelines recommend mechanical prophylaxis over no prophylaxis. Mechanical prophylaxis choices for patients undergoing cranial surgery include either intermittent pneumatic compression or graduated compression stockings. However, not all guidelines support the use of compression stockings for VTE prophylaxis. The differing recommendations relate to the quality of evidence and values assigned to benefits and harms. Recent guidelines recommend continuation of mechanical prophylaxis following cranial surgery for 30 days or until the patient is mobile or discharged, whichever is sooner. The addition of low-molecular-weight heparin (LMWH) starting 24 to 48 hours after cranial surgery and continued for 7 days after surgery is also suggested for patients whose risk of VTE outweighs their risk of bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"1f0516",
+"children":[
+"In the immediate perioperative period neither LMWH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") nor unfractionated heparin (UFH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended because of the risk of intracerebral bleeding. When anticoagulation can be safely initiated, guidelines suggest LMWH over UF unless there is significant renal impairment (creatinine clearance ≤ 30 mL/min). Studies evaluating the effectiveness of long-term prophylaxis with LMWH in patients with glioma show a trend toward fewer episodes of VTE but more episodes of intracerebral hemorrhage; therefore, long-term therapy is not recommended for most patients with glioma."
+]
+},
+{
+"type":"p",
+"hlId":"61a658",
+"children":[
+"Providing no VTE prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not the best option because it places the patient at increased risk for VTE. All guidelines agree that acutely ill medical patients, patients with active cancer, surgical patients, and selected patients with identifiable risk factors should receive VTE prophylaxis during hospitalization."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s10_4_3",
+"objective":{
+"__html":"Prevent venous thromboembolism in patients with primary brain tumors."
+},
+"references":[
+[
+"National Institute for Health and Care Excellence. Venous thromboembolism in over 16s: reducing the risk of hospital-acquired deep vein thrombosis or pulmonary embolism. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.nice.org.uk/guidance/ng89",
+"target":"_blank"
+},
+"children":[
+"https://www.nice.org.uk/guidance/ng89"
+]
+},
+". Accessed May 2, 2020."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":54,
+"C":7,
+"D":7,
+"E":0
+},
+"hlIds":[
+"4989f6",
+"cf5def",
+"6ba87b",
+"634d59",
+"1358ef",
+"1f0516",
+"61a658"
+]
+}

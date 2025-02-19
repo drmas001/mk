@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q146",
+"number":146,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 146",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b3c386",
+"children":[
+"A 68-year-old woman is evaluated because of a 2-month history of intermittent substernal chest pain with exertion that is not consistently relieved with rest. She also has postprandial pain. The patient can walk rapidly without mechanical or respiratory limitation. She has hypertension controlled with lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"39ca3a",
+"children":[
+"On physical examination, vital signs and cardiopulmonary examination are normal. ECG shows left ventricular hypertrophy and 1.5-mm nonspecific ST-segment depression in the anterior and lateral leads."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dobutamine echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Empiric esomeprazole therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Exercise myocardial perfusion imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a9292a",
+"children":[
+"Exercise ECG is a reasonable option as the initial test in patients with intermediate probability of coronary artery disease and normal findings on baseline ECG."
+]
+},
+{
+"type":"keypoint",
+"hlId":"81a4ce",
+"children":[
+"If there are baseline ECG abnormalities, ST-segment changes with exercise cannot be used to evaluate for the presence of obstructive coronary artery disease; functional testing with imaging or anatomic assessment with coronary CT angiography is indicated in these instances."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"067df4",
+"children":[
+"This patient should undergo exercise myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to evaluate for coronary artery disease (CAD). The decision to order a specific stress test is based on the pretest probability of CAD, the patient's ability to exercise, findings on the resting ECG, and the presence of comorbid conditions. This patient's age, sex, and atypical chest pain place her pretest probability of CAD at 51%; therefore, it would be most appropriate to start with noninvasive testing to establish a diagnosis. An exercise myocardial perfusion test is the best option because she is able to exercise and has abnormalities on her resting ECG."
+]
+},
+{
+"type":"p",
+"hlId":"e19bd3",
+"children":[
+"If this patient were unable to adequately exercise, a pharmacologic stress test, such as dobutamine echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), would be indicated. Options for pharmacologic stress agents include adenosine, dipyridamole, dobutamine, and regadenoson. Adenosine and dipyridamole are both contraindicated in patients with reactive airways disease."
+]
+},
+{
+"type":"p",
+"hlId":"915e7b",
+"children":[
+"The development of chest pain from an esophageal cause can mimic chest pain from cardiac disease. Once a cardiac cause is ruled out, the most common cause of chest pain is gastroesophageal reflux disease. Starting a course of an acid-reducing agent, such as esomeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), can be both diagnostic and therapeutic. However, the initial evaluation should focus on life-threatening conditions of chest pain, and this patient should first be evaluated for CAD."
+]
+},
+{
+"type":"p",
+"hlId":"da5c3c",
+"children":[
+"Exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a reasonable option as the initial test in patients with normal findings on baseline ECG, although it is less accurate than stress testing with imaging. If there are baseline ECG abnormalities (such as ST-segment depression >1 mm, left bundle branch block, left ventricular hypertrophy, paced rhythm, or preexcitation), ST-segment changes with exercise cannot be used to evaluate for the presence of obstructive CAD; these abnormalities will result in a nondiagnostic ECG stress test. Functional testing with imaging (with exercise or pharmacologic stress) or anatomic assessment with coronary CT angiography is indicated in these instances."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_3",
+"objective":{
+"__html":"Evaluate chest pain with noninvasive stress testing."
+},
+"references":[
+[
+"Alderwish E, Schultz E, Kassam Z, et al. Evaluation of acute chest pain: evolving paradigm of coronary risk scores and imaging. Rev Cardiovasc Med. 2019;20:231-244. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31912714",
+"target":"_blank"
+},
+"children":[
+"PMID: 31912714"
+]
+},
+" doi:10.31083/j.rcm.2019.04.589"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b3c386",
+"39ca3a",
+"cb2b54",
+"a9292a",
+"81a4ce",
+"067df4",
+"e19bd3",
+"915e7b",
+"da5c3c"
+]
+}

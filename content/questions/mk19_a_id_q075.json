@@ -1,0 +1,256 @@
+{
+"id":"mk19_a_id_q075",
+"number":75,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8edba7",
+"children":[
+"A 67-year-old man is evaluated in the emergency department during the summer for confusion, facial tremor, and seizures; he also has a 3-day history of fever, headaches, and a rash."
+]
+},
+{
+"type":"p",
+"hlId":"4ace39",
+"children":[
+"On physical examination, temperature is 39.1 °C (102.4 °F), blood pressure is 125/98 mm Hg, pulse rate is 122/min, and respiration rate is 22/min. The patient is obtunded, with a score of 12 on the Glasgow Coma Scale. Left facial tremor and a diffuse maculopapular rash are present."
+]
+},
+{
+"type":"p",
+"hlId":"595f83",
+"children":[
+"Cerebrospinal fluid (CSF) studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cell count, cerebrospinal fluid",
+"children":[
+"leukocyte count"
+]
+},
+" of 134/µL (134 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L) with 56% lymphocytes, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, cerebrospinal fluid",
+"children":[
+"glucose"
+]
+},
+" level of 48 mg/dL (2.7 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, cerebrospinal fluid",
+"children":[
+"protein"
+]
+},
+" level of 112 mg/dL (1120 mg/L)."
+]
+},
+{
+"type":"p",
+"hlId":"1d95f3",
+"children":[
+"MRI of the brain is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f075",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f075"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"234173",
+"children":[
+"Which of the following CSF tests will confirm the diagnosis in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Herpes simplex virus IgM"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Herpes simplex virus polymerase chain reaction (PCR)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"West Nile virus IgM"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"West Nile virus PCR"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a9f9d9",
+"hvc":true,
+"children":[
+"West Nile virus can cause encephalitis presenting with a febrile illness, tremors, parkinsonism, myoclonus, and a maculopapular rash; MRI showing basal ganglia involvement is classic."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c42dba",
+"hvc":true,
+"children":[
+"The diagnosis of West Nile virus encephalitis is made with measurement of IgM in the cerebrospinal fluid or the serum."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b4cd33",
+"children":[
+"The cerebrospinal fluid (CSF) test most likely to confirm the diagnosis is a West Nile virus (WNV) IgM measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because WNV encephalitis is most likely in this patient. WNV is an arbovirus transmitted by mosquitoes and occurs between June and October in endemic areas. WNV can present with a febrile illness, meningitis, myelitis, or encephalitis. Older adult patients are at higher risk of encephalitis and have a higher mortality. MRI of the brain in this patient is classic, with basal ganglia involvement that can account for tremors, parkinsonism, and myoclonus. WNV can also cause a maculopapular rash. The CSF profile usually shows a mild lymphocytic pleocytosis, a normal glucose level, and mildly elevated protein level. The diagnosis is made with a WNV IgM in the CSF or the serum. WNV polymerase chain reaction (PCR) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not sensitive because the viremia is usually cleared by the time of clinical presentation. No vaccine is available for WNV encephalitis, and treatment is supportive."
+]
+},
+{
+"type":"p",
+"hlId":"bd1ce1",
+"children":[
+"Herpes simplex virus (HSV) type 1 is the most common cause of sporadic encephalitis. The standard test for diagnosis is the HSV PCR (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). HSV IgM measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not helpful in the early diagnosis of HSV encephalitis. Viral antibody titers do rise significantly over the course of the illness but typically do not become positive until 10 to 14 days after illness onset and are therefore not helpful in directing early, appropriate therapy or allowing for discontinuation of unnecessary therapy. HSV encephalitis should be empirically treated with intravenous acyclovir in all patients while awaiting results of the CSF HSV PCR. A delay in acyclovir initiation is associated with adverse clinical outcomes. The MRI typically shows unilateral temporal lobe enhancement rather than basal ganglia involvement."
+]
+}
+],
+"relatedSection":"mk19_a_id_s1_3_1_3",
+"objective":{
+"__html":"Diagnose West Nile encephalitis."
+},
+"references":[
+[
+"Hansen MA, Samannodi MS, Castelblanco RL, et al. Clinical epidemiology, risk factors, and outcomes of encephalitis in older adults. Clin Infect Dis. 2020;70:2377-2385. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31294449",
+"target":"_blank"
+},
+"children":[
+"PMID: 31294449"
+]
+},
+" doi:10.1093/cid/ciz635"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":33,
+"C":21,
+"D":42,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f075":{
+"id":"mk19_a_id_mcq_f075",
+"number":75,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0a469c194c7b5d536e6e66e6b1b30172",
+"height":512,
+"width":512,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"8edba7",
+"4ace39",
+"595f83",
+"1d95f3",
+"234173",
+"a9f9d9",
+"c42dba",
+"b4cd33",
+"bd1ce1"
+]
+}

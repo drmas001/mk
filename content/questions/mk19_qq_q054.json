@@ -1,0 +1,252 @@
+{
+"id":"mk19_qq_q054",
+"number":54,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"38a0b1",
+"children":[
+"A 36-year-old man is evaluated for ventilator-associated pneumonia in the ICU, where he was transferred 3 days ago for respiratory failure owing to Guillain-Barré syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"506445",
+"children":[
+"Temperature is 38.6 °C (101.4 °F). Pulmonary examination reveals scattered rhonchi. Flaccid weakness is present in the arms and legs. Bronchoalveolar lavage culture grows methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+". The isolate is susceptible to vancomycin, daptomycin, linezolid, and tigecycline. He is allergic to vancomycin. Chest radiograph shows right middle and lower lobe infiltrates without effusions."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Daptomycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Linezolid"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Telavancin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tigecycline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1ba40c",
+"children":[
+"Empiric ventilator-associated pneumonia regimens include coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" and other gram-negative bacilli."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3d45fb",
+"children":[
+"Daptomycin is bound by surfactant, and it is not effective in treating pneumonia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"825580",
+"children":[
+"The most appropriate treatment is intravenous linezolid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for ventilator-associated pneumonia (VAP). VAP notably accounts for approximately 20% of hospital-acquired infections and complicates 10% of ventilation episodes. Empiric VAP regimens include coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" and other gram-negative bacilli. In this patient with methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MRSA) VAP and an adverse reaction to vancomycin, alternative therapy must be used. Linezolid is an oxazolidinone drug with bacteriostatic activity against gram-positive aerobic bacteria, including MRSA and vancomycin-resistant enterococci, and it has performed well in randomized controlled trials compared with vancomycin for pneumonia. The pharmacokinetics of linezolid in the lung are favorable, and it is an excellent alternative to vancomycin for treating MRSA. An important side effect of linezolid is myelosuppression, notably thrombocytopenia. Weekly complete blood counts should be obtained in patients treated with linezolid."
+]
+},
+{
+"type":"p",
+"hlId":"2367f7",
+"children":[
+"Daptomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is effective in treating staphylococcal bacteremia and right-sided infective endocarditis, in addition to skin and skin structure infections. It is equally effective for methicillin-sensitive ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MSSA) and MRSA infections. Although daptomycin is no more effective than β-lactams for treating MSSA infections, it may be a useful alternative to vancomycin for treating MRSA infections in patients with fluctuating kidney function or for isolates with a relatively high (≥2 µg/mL) vancomycin minimum inhibitory concentration. Daptomycin is bound by surfactant, however, and it is not effective in treating pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"dc7334",
+"children":[
+"Telavancin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), oritavancin, and dalbavancin are analogues of vancomycin and are used for complicated skin and soft tissue infections. Telavancin is also approved for the treatment of VAP when other alternatives are not available. The incidence of hypersensitivity cross-reactivity with vancomycin is unknown, and alternative antibiotics should be used in the setting of an adverse reaction to vancomycin."
+]
+},
+{
+"type":"p",
+"hlId":"a2cc16",
+"children":[
+"Tigecycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not approved for hospital-acquired (or ventilator-associated) pneumonia. An FDA warning reported increased mortality rates among patients treated with tigecycline in randomized controlled trials of patients with hospital-acquired pneumonia. Consequently, tigecycline should not be used for treating VAP."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_7_2",
+"objective":{
+"__html":"Treat ventilator-associated methicillin-resistant <i>Staphylococcus aureus</i> pneumonia in a patient allergic to vancomycin."
+},
+"references":[
+[
+"Kalil AC, Metersky ML, Klompas M, et al. Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society. Clin Infect Dis. 2016;63:e61-e111. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27418577",
+"target":"_blank"
+},
+"children":[
+"PMID: 27418577"
+]
+},
+" doi:10.1093/cid/ciw353"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"38a0b1",
+"506445",
+"1054f1",
+"1ba40c",
+"3d45fb",
+"825580",
+"2367f7",
+"dc7334",
+"a2cc16"
+]
+}

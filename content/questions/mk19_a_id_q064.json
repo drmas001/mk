@@ -1,0 +1,215 @@
+{
+"id":"mk19_a_id_q064",
+"number":64,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8bff8d",
+"children":[
+"A 25-year-old woman is evaluated in December for a 2-day history of cough, fever, and sore throat. She has a 4-year-old son who had similar symptoms 10 days ago. She received the quadrivalent influenza vaccine 2 months ago. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"3be929",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F), blood pressure is 104/68 mm Hg, pulse rate is 82/min, and respiration rate is 20/min. Pulmonary examination reveals decreased breath sounds in the right lung base."
+]
+},
+{
+"type":"p",
+"hlId":"decb61",
+"children":[
+"COVID-19 testing is negative."
+]
+},
+{
+"type":"p",
+"hlId":"a3f06a",
+"children":[
+"A chest radiograph shows a right lower lobe infiltrate."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Procalcitonin level"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Rapid influenza antigen test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rapid influenza nucleic acid amplification test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sputum Gram stain and culture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3deb04",
+"children":[
+"The rapid influenza nucleic acid amplification test is recommended for diagnosis over previous rapid antigen tests because of superior sensitivity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8206b7",
+"children":[
+"Influenza testing should be performed routinely on patients with community-acquired pneumonia during seasons when influenza activity is present in the community because a positive result would influence treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"796c01",
+"children":[
+"The most helpful diagnostic test is the rapid influenza nucleic acid amplification test (NAAT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Molecular assays are preferred for the diagnosis of influenza over the older rapid influenza antigen test because of superior sensitivity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). A history of influenza vaccination does not preclude an influenza diagnosis. Reasons for infection despite immunization include an inability to mount an immunologic response or discordance between vaccine strains and those circulating in the community. A positive influenza test result does not exclude the possibility of a bacterial coinfection, so when influenza is suspected or confirmed, antibiotic therapy should be given in addition to antiviral treatment. Infectious Diseases Society of America and American Thoracic Society guidelines for community-acquired pneumonia (CAP) recommend starting oseltamivir in all adults with CAP and laboratory-confirmed influenza independent of symptom duration. Therefore, a positive rapid influenza NAAT would influence management, and testing should be performed routinely on patients with CAP during seasons when influenza activity is present in the community."
+]
+},
+{
+"type":"p",
+"hlId":"2b6743",
+"children":[
+"Procalcitonin level has been studied as a biomarker to distinguish viral from bacterial CAP but is not sufficiently sensitive to differentiate these causes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Because antibiotics are recommended for all patients with CAP regardless of procalcitonin results, testing would not change clinical management and should not be performed."
+]
+},
+{
+"type":"p",
+"hlId":"e1dcbb",
+"children":[
+"Sputum and blood cultures should be considered in hospitalized patients or in patients with risk factors for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In these cases, results would inform narrowing or de-escalation of antibiotic therapy. Resistant pathogens are less likely in patients with mild presentations of CAP, and respiratory tract cultures in this population have not been shown to improve outcomes."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_3",
+"objective":{
+"__html":"Evaluate a patient with community-acquired pneumonia for influenza in the outpatient setting."
+},
+"references":[
+[
+"Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31573350",
+"target":"_blank"
+},
+"children":[
+"PMID: 31573350"
+]
+},
+" doi:10.1164/rccm.201908-1581ST"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":18,
+"C":38,
+"D":32,
+"E":0
+},
+"hlIds":[
+"8bff8d",
+"3be929",
+"decb61",
+"a3f06a",
+"ab9d96",
+"3deb04",
+"8206b7",
+"796c01",
+"2b6743",
+"e1dcbb"
+]
+}

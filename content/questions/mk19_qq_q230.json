@@ -1,0 +1,164 @@
+{
+"id":"mk19_qq_q230",
+"number":230,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 230",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d81b94",
+"children":[
+"A 55-year-old man is evaluated after a 45-minute episode of right monocular vision loss. He has hypertension and type 2 diabetes mellitus treated with chlorthalidone, metformin, liraglutide, and pravastatin."
+]
+},
+{
+"type":"p",
+"hlId":"f79bc9",
+"children":[
+"Vital signs and neurologic examination findings are normal. Brain imaging is unremarkable. Neurovascular imaging shows 40% stenosis of the right carotid artery. ECG and echocardiogram are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin and clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cilostazol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Edoxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Enoxaparin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"00a702",
+"children":[
+"For patients with transient ischemic attack or acute ischemic stroke who are not eligible for thrombolysis or endovascular stroke therapy, antiplatelet therapy is the mainstay of acute treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"08f601",
+"children":[
+"The American Heart Association/American Stroke Association recommends that aspirin and clopidogrel be initiated within 24 hours of symptom onset and continued for 21 days to reduce the risk for stroke for a period of 90 days; long-term aspirin monotherapy is continued after 21 days of dual antiplatelet therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e69428",
+"children":[
+"The most appropriate therapy is dual antiplatelet therapy (DAPT) with aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). For patients with transient ischemic attack (TIA) or acute ischemic stroke who are not eligible for thrombolysis or endovascular stroke therapy, antiplatelet therapy is the mainstay of acute treatment. When administered either orally or rectally within 48 hours of stoke, aspirin reduces the short-term risk for recurrent stroke. Monotherapy with clopidogrel, however, has no established benefit in the acute stroke setting. Patients with TIA or minor stroke, usually defined as a National Institutes of Health Stroke Scale score of 5 or less, have been the focus of recent trials of antiplatelet therapy because of their high short-term risk for recurrent events. Two trials examined the role of aspirin combined with clopidogrel versus monotherapy (with either aspirin or clopidogrel) initiated within 12 to 24 hours from symptom onset in patients with TIA or minor stroke. The studies used 21 or 90 days of aspirin plus clopidogrel versus single antiplatelet agents; overall, the combination therapy produced a small but significant reduction in risk for recurrence at 90 days. The risk for hemorrhagic complications seemed to increase beyond 30 days; DAPT with duration between 30 and 90 days is commonly used in minor stroke or TIA. On the basis of these studies, the American Heart Association/American Stroke Association recommends that DAPT (aspirin and clopidogrel) be initiated within 24 hours of symptom onset and continued for 21 days to reduce the 90-day risk for stroke. Long-term aspirin monotherapy is continued after 21 days of DAPT."
+]
+},
+{
+"type":"p",
+"hlId":"b78fb8",
+"children":[
+"Cilostazol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a phosphodiesterase 3 inhibitor that results in reversible inhibition of platelet aggregation and arterial vasodilation and is commonly used to treat peripheral artery disease–related claudication. Clinical trials in Japan and China have demonstrated that cilostazol is effective for secondary stroke prevention in these populations. However, data in other ethnic groups are insufficient to permit recommendation of cilostazol to non-Asian patients. Other barriers to routine use for secondary stroke prevention include the need for twice-daily dosing, adverse effect profile, heart failure contraindication, and expense."
+]
+},
+{
+"type":"p",
+"hlId":"843f7e",
+"children":[
+"Acute administration of anticoagulation in ischemic stroke (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+"), regardless of whether the stroke is related to atrial fibrillation, does not reduce the short-term risk for recurrent stroke and is not indicated in a patient with TIA."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_2",
+"objective":{
+"__html":"Treat transient ischemic attack with dual antiplatelet therapy."
+},
+"references":[
+[
+"Amarenco P. Transient ischemic attack. N Engl J Med. 2020;382:1933-1941. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32402163",
+"target":"_blank"
+},
+"children":[
+"PMID: 32402163"
+]
+},
+" doi:10.1056/NEJMcp1908837"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d81b94",
+"f79bc9",
+"1054f1",
+"00a702",
+"08f601",
+"e69428",
+"b78fb8",
+"843f7e"
+]
+}

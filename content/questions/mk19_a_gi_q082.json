@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gi_q082",
+"number":82,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a50e2e",
+"children":[
+"A 66-year-old man is evaluated for relief of chronic back pain from a lumbar vertebral compression fracture documented on a recent radiograph. He has a history of cirrhosis, osteoporosis, and stage 2 chronic kidney disease. His only medication is a bisphosphonate."
+]
+},
+{
+"type":"p",
+"hlId":"8af352",
+"children":[
+"On physical examination, vital signs are normal. The patient appears in mild distress because of back pain, with point tenderness over the fourth lumbar vertebra."
+]
+},
+{
+"type":"p",
+"hlId":"2350b6",
+"children":[
+"Laboratory studies show a serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"total bilirubin"
+]
+},
+" level of 1.5 mg/dL (25.6 μmol/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.3 mg/dL (114.9 μmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Duloxetine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ibuprofen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Low-dose opioid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Physical therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e000d6",
+"hvc":true,
+"children":[
+"Opioid analgesics can precipitate hepatic encephalopathy in patients with cirrhosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4fffa9",
+"hvc":true,
+"children":[
+"Management of chronic pain in patients with chronic liver disease should always include physical therapy because it will not exacerbate the manifestations of chronic liver disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"52020a",
+"children":[
+"The most appropriate treatment is physical therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with cirrhosis are at risk for metabolic bone disease and osteoporosis. Bone densitometry is thus indicated in patients with cirrhosis to screen for metabolic bone disease, and bone-fortifying therapy is indicated in patients found to have osteoporosis. The management of chronic pain can be challenging in patients with chronic liver disease because the recognized adverse effects of analgesic medications can be exaggerated in these patients. Nonpharmacologic approaches to managing chronic pain should always be considered because they will not exacerbate the manifestations of chronic liver disease. Therefore, physical therapy should be considered initially in this patient population. Other nonpharmacologic therapies, including local injection therapies and behavioral therapy, may also be beneficial."
+]
+},
+{
+"type":"p",
+"hlId":"b205f5",
+"children":[
+"The serotonin norepinephrine reuptake inhibitor duloxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is approved by the FDA to treat chronic low back pain and may be useful in select patients. However, duloxetine should be avoided in patients with hepatic dysfunction. Rare cases of hepatic failure (some leading to death) have been reported with use. Hepatitis with abdominal pain, hepatomegaly, and elevated aminotransferase levels with and without jaundice have all been observed."
+]
+},
+{
+"type":"p",
+"hlId":"1a4f83",
+"children":[
+"NSAIDs, such as ibuprofen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), inhibit the production of renal prostaglandins and can exacerbate renal dysfunction and worsen fluid retention in the setting of cirrhosis. Therefore, NSAIDs should be avoided in patients with cirrhosis, particularly those with renal impairment or ascites, such as this patient."
+]
+},
+{
+"type":"p",
+"hlId":"24c267",
+"children":[
+"Opioid analgesics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can precipitate hepatic encephalopathy in patients with cirrhosis. Furthermore, these agents can cause vasodilation and hypotension in patients with more advanced liver dysfunction. Therefore, opioid analgesics should be avoided for pain management in patients with cirrhosis. If analgesics are required, low-dose acetaminophen, up to 2000 mg/d, is generally safe and well tolerated in patients with advanced liver dysfunction."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_11",
+"objective":{
+"__html":"Treat chronic pain in a patient with cirrhosis."
+},
+"references":[
+[
+"Klinge M, Coppler T, Liebschutz JM, et al. The assessment and management of pain in cirrhosis. Curr Hepatol Rep. 2018;17:42-51. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29552453",
+"target":"_blank"
+},
+"children":[
+"PMID: 29552453"
+]
+},
+" doi:10.1007/s11901-018-0389-7"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":16,
+"B":3,
+"C":17,
+"D":64,
+"E":0
+},
+"hlIds":[
+"a50e2e",
+"8af352",
+"2350b6",
+"1054f1",
+"e000d6",
+"4fffa9",
+"52020a",
+"b205f5",
+"1a4f83",
+"24c267"
+]
+}

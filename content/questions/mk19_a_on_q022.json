@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_on_q022",
+"number":22,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7b40df",
+"children":[
+"A 49-year-old woman is evaluated for pain and bright red blood with bowel movements for the past 6 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"fa8dc4",
+"children":[
+"Physical examination is notable only for a hard mass palpable on rectal examination in the anal canal. Biopsy reveals squamous cell carcinoma."
+]
+},
+{
+"type":"p",
+"hlId":"80facd",
+"children":[
+"Pelvic MRI confirms a 4-cm anorectal mass. No enlarged lymph nodes are noted. Contrast-enhanced CT scan of the chest and abdomen is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Immunotherapy with programmed death receptor 1 inhibitor"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Irradiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Irradiation with concurrent chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"07fa00",
+"hvc":true,
+"children":[
+"Anal cancers are a human papillomavirus–associated tumor, and risk is increased in men who have sex with men, in patients with HIV infection, history of condylomata, and kidney or liver transplantation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cff7d2",
+"hvc":true,
+"children":[
+"Anal cancer is often curable with combined irradiation and chemotherapy; surgery is typically not indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f0ed69",
+"children":[
+"This patient has locally invasive squamous cell cancer of the anal canal, and curative-intent treatment with the combination of pelvic radiation therapy and concurrent systemic chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated. This would be appropriate for patients with stages I, II, or III anal cancer. Anal cancer is a squamous cell carcinoma, whereas the more common cancer of the rectum is an adenocarcinoma derived from the columnar epithelium of the rectum. Anal cancers are a human papillomavirus (HPV)–associated tumor and are of squamous cell histology. Rectal adenocarcinomas are not HPV-related. Risk of anal cancer is increased in men who have sex with men and in patients with HIV infection, history of condylomata, and kidney or liver transplantation. Presenting symptoms of anal cancer may include bleeding, pain, or pruritus; however, 25% of patients present without any anorectal symptoms. Although no formal recommendations address screening for anal dysplasia in at-risk populations, screening modalities to consider include digital rectal examination, anal Pap test, HPV testing, and high-resolution anoscopy. Mitomycin plus a fluoropyrimidine (now most commonly oral capecitabine, although some centers still use intravenous fluorouracil) is the standard chemotherapy regimen used concurrently with radiation therapy in patients with anal cancer."
+]
+},
+{
+"type":"p",
+"hlId":"7b65d9",
+"children":[
+"Unlike most colorectal cancers, anal cancer, if metastatic, has shown sensitivity to immunotherapy with programmed death receptor 1 inhibitors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"); however, use of these agents as first-line treatment of local-regional disease is just beginning to undergo investigation and is not a proven or recommended strategy at this time."
+]
+},
+{
+"type":"p",
+"hlId":"096de4",
+"children":[
+"Randomized studies have shown irradiation plus chemotherapy to be superior to irradiation alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and 5-fluorouracil plus mitomycin to be superior to 5-fluorouracil alone."
+]
+},
+{
+"type":"p",
+"hlId":"a69dff",
+"children":[
+"Surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is reserved as a salvage treatment for either local recurrence or incomplete response to chemotherapy plus radiation therapy and is potentially curative. However, because definitive surgery must remove the anal sphincter, a placement of a permanent colostomy would be required. Therefore, surgery is reserved for when other reasonable options have been exhausted."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_2",
+"objective":{
+"__html":"Treat locally advanced anal cancer."
+},
+"references":[
+[
+"Jones CM, Adams R, Downing A, et al. Toxicity, tolerability, and compliance of concurrent capecitabine or 5-fluorouracil in radical management of anal cancer with single-dose mitomycin-C and intensity modulated radiation therapy: evaluation of a national cohort. Int J Radiat Oncol Biol Phys. 2018;101:1202-11. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29859793",
+"target":"_blank"
+},
+"children":[
+"PMID: 29859793"
+]
+},
+" doi:10.1016/j.ijrobp.2018.04.033"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":45,
+"D":49,
+"E":0
+},
+"hlIds":[
+"7b40df",
+"fa8dc4",
+"80facd",
+"1054f1",
+"07fa00",
+"cff7d2",
+"f0ed69",
+"7b65d9",
+"096de4",
+"a69dff"
+]
+}

@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_nr_q005",
+"number":5,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f86b88",
+"children":[
+"A 25-year-old woman is evaluated for a 3-month history of headaches that previously occurred weekly but now occur daily. She describes the headaches as holocranial, dull, and vice-like, and worsened by the Valsalva maneuver. The patient reports associated neck stiffness, intermittent visual blurring without diplopia, and nocturnal pulsatile tinnitus. She has had no other symptoms. She also has a history of acne and vitamin D deficiency. Medications are topical benzoyl peroxide, oral doxycycline, and vitamin D."
+]
+},
+{
+"type":"p",
+"hlId":"37946c",
+"children":[
+"On physical examination, vital signs and BMI are within normal limits. Neurologic examination reveals bilateral papilledema. Physical examination findings are otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"e4f60e",
+"children":[
+"Cerebral spinal fluid analysis shows an opening pressure of 280 mm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. Other laboratory studies are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"b782dd",
+"children":[
+"A contrast-enhanced brain MRI shows a partially empty sella and widened optic nerve sheaths. Results of magnetic resonance venography are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer prednisone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Administer topiramate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue doxycycline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue vitamin D"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8217b8",
+"children":[
+"Increased intracranial pressure in the absence of any vascular or space-occupying lesion is the hallmark of idiopathic intracranial hypertension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ec5e70",
+"children":[
+"Idiopathic intracranial hypertension is associated with use of tetracyclines, retinoic acid, and progesterone or estrogen supplements; discontinuation of any potential offending agent is the first step in management."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"112b7b",
+"children":[
+"The most appropriate next step in management is to discontinue doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient's history and examination findings are classic for idiopathic intracranial hypertension (IIH). Increased intracranial pressure in the absence of any vascular or space-occupying lesion is the hallmark of IIH (also known as pseudotumor cerebri). Headaches, visual symptoms, and intracranial noises (pulsatile tinnitus) are the most common presenting symptoms of IIH. Head pain is nonspecific, and neck pain is common. Vision may be blurred or periodically dim in brief episodes known as visual obscurations. Findings on neurologic examination include papilledema and occasionally ophthalmoplegia, typically sixth nerve palsy. Contrast-enhanced brain MRI may reveal widening of the optic nerve sheaths, an empty sella, or flattening of the posterior optic globes. Magnetic resonance venography may reveal unilateral or bilateral stenoses of the intracranial transverse sinuses or may have normal results. Approximately 90% of persons with IIH are women of childbearing age with an elevated BMI. IIH has been associated with kidney failure, endocrine disorders, and the use of tetracyclines, retinoic acid, and progesterone or estrogen supplements. Discontinuation of any potential offending agent is the first step in management."
+]
+},
+{
+"type":"p",
+"hlId":"7eac6e",
+"children":[
+"There is no indication for beginning prednisone in the setting of IIH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Both initiation and withdrawal of glucocorticoids have been associated with the development of IIH; therefore, they are not recommended for IIH treatment."
+]
+},
+{
+"type":"p",
+"hlId":"08d076",
+"children":[
+"Topiramate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be helpful in certain cases of IIH associated with elevated BMI but is considered a second-line agent to acetazolamide because its carbonic anhydrase effect, which is thought to be helpful in lowering intracranial pressure, is weaker. For this patient, stopping doxycycline is the first step in management."
+]
+},
+{
+"type":"p",
+"hlId":"e6c213",
+"children":[
+"Exposure to excessive doses of vitamin A has been associated with the development of IIH, but similar reports have not been seen with vitamin D supplementation. There is no indication to discontinue vitamin D in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_2_2",
+"objective":{
+"__html":"Treat secondary idiopathic intracranial hypertension."
+},
+"references":[
+[
+"Wall M. Update on idiopathic intracranial hypertension. Neurol Clin. 2017 Feb;35(1):45-57. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27886895",
+"target":"_blank"
+},
+"children":[
+"PMID: 27886895"
+]
+},
+" doi:10.1016/j.ncl.2016.08.004."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":11,
+"C":57,
+"D":13,
+"E":0
+},
+"hlIds":[
+"f86b88",
+"37946c",
+"e4f60e",
+"b782dd",
+"765904",
+"8217b8",
+"ec5e70",
+"112b7b",
+"7eac6e",
+"08d076",
+"e6c213"
+]
+}

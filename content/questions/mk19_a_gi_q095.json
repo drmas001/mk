@@ -1,0 +1,269 @@
+{
+"id":"mk19_a_gi_q095",
+"number":95,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dc2ac8",
+"children":[
+"A 25-year-old woman is evaluated for frequent watery, nonbloody diarrhea that began 5 years ago. She has a 2-year history of arthralgia and headaches. Diarrhea, arthralgia, and headaches resolved after the patient started a gluten-free diet 1 year ago. Symptoms occasionally return if she accidentally consumes gluten."
+]
+},
+{
+"type":"p",
+"hlId":"566e3d",
+"children":[
+"Vital signs and other physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"43ff04",
+"children":[
+"Laboratory studies show a normal tissue transglutaminase IgA level. Results of testing for haplotypes ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ2"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ8"
+]
+},
+" are positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>Clostridioides difficile</i> testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat HLA testing after resumption of a gluten-containing diet"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat tissue transglutaminase IgA measurement after resumption of gluten-containing diet"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy and biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fa71ff",
+"hvc":true,
+"children":[
+"Serologic testing for celiac disease must occur while the patient is on a gluten-containing diet."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ccb963",
+"hvc":true,
+"children":[
+"Genetic testing for celiac disease with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ2"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ8"
+]
+},
+" can rule out celiac disease but not confirm it."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"664802",
+"children":[
+"The most appropriate diagnostic test to perform next is repeating the tissue transglutaminase IgA test after resumption of a gluten-containing diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient is mostly asymptomatic and has normal physical examination and laboratory findings. However, her celiac disease status is uncertain because she has been maintaining a gluten-free diet for the past year without having been tested for celiac disease. Her clinical improvement after starting a gluten-free diet may be due to celiac disease or to nonceliac gluten sensitivity, a clinical syndrome of unknown pathophysiology. Because gluten-containing foods can also contain nonabsorbable carbohydrates, such as fructans, they can cause gastrointestinal symptoms due to osmotic mechanisms, as well as fermentation by colonic bacteria. By definition, celiac disease must first be excluded before nonceliac gluten sensitivity is diagnosed. Although the tissue transglutaminase IgA level is normal, the patient's gluten-free diet reduces the sensitivity of this serologic test. Celiac disease testing should therefore be repeated while the patient is on a gluten-containing diet; gluten should be reintroduced daily, preferably for 1 to 3 months before testing."
+]
+},
+{
+"type":"p",
+"hlId":"e3cdd2",
+"children":[
+"Although ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" colitis can cause chronic diarrhea, the response of the patient's symptoms to a gluten-free diet make this diagnosis less likely. Therefore, testing for this pathogen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"022d0b",
+"children":[
+"Most patients with celiac disease carry ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ2"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ8"
+]
+},
+" genetic susceptibility; however, these genes can be found in up to 40% of the general population. Therefore, genetic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can rule out disease but not confirm it. Genetic markers for celiac disease are stable throughout life, regardless of one's diet, and repeating testing for them is not useful. A positive result on a serologic test for celiac disease requires upper endoscopy with biopsies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") from the duodenum to confirm the disease. If biopsy results suggesting celiac disease are obtained before serologic testing, confirmatory serologic testing should be performed. Findings on upper endoscopy and biopsy may be normal in a patient with celiac disease who has adhered to a gluten-free diet for the past year. Therefore, the most appropriate management is resumption of a gluten-containing diet and follow-up serologic testing."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_2_1",
+"objective":{
+"__html":"Evaluate for possible celiac disease."
+},
+"references":[
+[
+"Husby S, Murray JA, Katzka DA. AGA clinical practice update on diagnosis and monitoring of celiac disease-changing utility of serology and histologic measures: expert review. Gastroenterology. 2019;156:885-889. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30578783",
+"target":"_blank"
+},
+"children":[
+"PMID: 30578783"
+]
+},
+" doi:10.1053/j.gastro.2018.12.010"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":4,
+"C":39,
+"D":53,
+"E":0
+},
+"hlIds":[
+"dc2ac8",
+"566e3d",
+"43ff04",
+"ab9d96",
+"fa71ff",
+"ccb963",
+"664802",
+"e3cdd2",
+"022d0b"
+]
+}

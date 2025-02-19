@@ -1,0 +1,220 @@
+{
+"id":"mk19_b_cv_q001",
+"number":1,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"ea43db",
+"children":[
+"A 67-year-old woman is evaluated during a follow-up visit for heart failure with reduced ejection fraction. She reports stable dyspnea with exertion when carrying groceries from her car or walking up a hill. She has no other symptoms. Medications are carvedilol, spironolactone, maximum-dose lisinopril, dapagliflozin, and furosemide."
+]
+},
+{
+"type":"p",
+"hlId":"bd28c6",
+"children":[
+"On physical examination, blood pressure is 108/72 mm Hg and pulse rate is 60/min. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"49689d",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.3 mg/dL (114.9 μmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"8fcea4",
+"children":[
+"A previous echocardiogram showed a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 37%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add digoxin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add ivabradine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase carvedilol dosage"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch lisinopril to valsartan-sacubitril"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"606400",
+"children":[
+"Valsartan-sacubitril significantly reduces heart failure hospitalizations and mortality in patients with symptomatic heart failure with reduced ejection fraction and is recommended in preference to an ACE inhibitor or angiotensin receptor blocker."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"43e3c8",
+"children":[
+"The most appropriate treatment is to switch lisinopril to valsartan-sacubitril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient with heart failure with reduced ejection fraction (HFrEF) and New York Heart Association (NYHA) functional class II symptoms, as evidenced by dyspnea with moderate exertion, is stable and has no evidence of volume overload on examination. In the PARADIGM-HF trial of patients with symptomatic heart failure and left ventricular ejection fraction less than 40%, valsartan-sacubitril reduced mortality and heart failure hospitalization by 20% compared with enalapril. Based on this study, the American College of Cardiology/American Heart Association heart failure guidelines recommend replacing an ACE inhibitor or angiotensin receptor blocker (ARB) with valsartan-sacubitril in patients with chronic symptomatic HFrEF. In addition, for patients with new-onset heart failure, directly initiating valsartan-sacubitril, rather than a pretreatment period with an ACE inhibitor or ARB, is a safe and effective strategy in patients with HFrEF. Because of the risk for angioedema, ACE inhibitors (but not ARBs) should be discontinued at least 36 hours before starting valsartan-sacubitril."
+]
+},
+{
+"type":"p",
+"hlId":"4abc81",
+"children":[
+"Digoxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") reduces the risk for hospitalization for heart failure but does not affect mortality. Digoxin toxicity is common, and risk is increased in patients with abnormal renal function, as is the case with this patient. It may be helpful in patients with heart failure with reduced ejection fraction who have concomitant atrial fibrillation, to aid in rate control. Valsartan-sacubitril is a better option in this patient without atrial fibrillation and with abnormal renal function."
+]
+},
+{
+"type":"p",
+"hlId":"d8ec22",
+"children":[
+"In patients with NYHA functional class II to IV heart failure symptoms, ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been shown to reduce heart failure hospitalizations when added to standard heart failure therapy. Ivabradine is approved for patients with symptomatic HFrEF (ejection fraction ≤35%) who are in sinus rhythm with a heart rate of 70/min or higher and taking a maximally tolerated β-blocker. This patient has a heart rate of 60/min and is therefore not a candidate."
+]
+},
+{
+"type":"p",
+"hlId":"9cddab",
+"children":[
+"This patient has a heart rate of 60/min and does not require β-blocker dosage escalation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") at this time."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_2",
+"objective":{
+"__html":"Treat stable heart failure with reduced ejection fraction with valsartan-sacubitril."
+},
+"references":[
+[
+"Maddox TM, Januzzi JL Jr, Allen LA, et al; Writing Committee. 2021 Update to the 2017 ACC expert consensus decision pathway for optimization of heart failure treatment: answers to 10 pivotal issues about heart failure with reduced ejection fraction: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2021;77:772-810. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33446410",
+"target":"_blank"
+},
+"children":[
+"PMID: 33446410"
+]
+},
+" doi:10.1016/j.jacc.2020.11.022"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":7,
+"C":4,
+"D":81,
+"E":0
+},
+"hlIds":[
+"91054a",
+"ea43db",
+"bd28c6",
+"49689d",
+"8fcea4",
+"1054f1",
+"606400",
+"43e3c8",
+"4abc81",
+"d8ec22",
+"9cddab"
+]
+}

@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_cv_q068",
+"number":68,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cdb8c0",
+"children":[
+"A 28-year-old woman is seen for pregnancy planning. She underwent mitral valve replacement with a mechanical prosthesis 4 years ago for congenital mitral valve stenosis. She is asymptomatic. Medications are warfarin, 4 mg/d, and low-dose aspirin. Her INR measurements have been within the therapeutic range for the past 18 months, including her most recent INR measurement of 3.0."
+]
+},
+{
+"type":"p",
+"hlId":"c391c6",
+"children":[
+"Other than a mechanical-sounding S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", vital signs and all physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f0d639",
+"children":[
+"Echocardiography shows a normally functioning mitral valve prosthesis and normal left ventricular function and estimated pulmonary artery pressure."
+]
+},
+{
+"type":"p",
+"hlId":"7e1383",
+"children":[
+"The patient would like to attempt pregnancy as soon as possible. During this time, aspirin will be continued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b78497",
+"children":[
+"Which of the following is the most appropriate anticoagulation strategy during the first trimester?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Stop warfarin and start bivalirudin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Stop warfarin and start dabigatran"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop warfarin and start subcutaneous dose-adjusted unfractionated heparin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Continue warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b17fc3",
+"children":[
+"For pregnant patients with a mechanical valve prosthesis, warfarin is the preferred anticoagulant during the first trimester if the dosage is 5 mg/d or less; warfarin is the preferred anticoagulant during the second and early third trimesters."
+]
+},
+{
+"type":"keypoint",
+"hlId":"44f4f9",
+"children":[
+"Direct oral anticoagulants are not recommended in patients with a mechanical valve prosthesis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"39d293",
+"children":[
+"Continuing the INR-adjusted warfarin regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is most appropriate for this patient. Mechanical mitral valve prostheses increase risks to the patient and fetus during pregnancy. Warfarin anticoagulation seems to be the safest agent to prevent maternal prosthetic valve thrombosis; however, warfarin poses increased fetal risks, including teratogenicity, miscarriage, and fetal loss because of intracranial hemorrhage. Risk to the fetus is dose related; warfarin is the preferred anticoagulant during the first trimester if the dosage is 5 mg/d or less. During the second and early third trimesters, warfarin is the preferred anticoagulant."
+]
+},
+{
+"type":"p",
+"hlId":"e574cb",
+"children":[
+"Bivalirudin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has not been demonstrated to provide adequate anticoagulation coverage for a pregnant patient with a prosthetic mechanical valve and should not be used."
+]
+},
+{
+"type":"p",
+"hlId":"f99ef8",
+"children":[
+"For patients with a mechanical valve prosthesis, the direct thrombin inhibitor dabigatran (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be used because of increased risk for harm. A randomized clinical trial of dabigatran in nonpregnant patients with a mechanical heart valve showed an increased rate of thromboembolic and bleeding complications with dabigatran compared with warfarin. The effectiveness of apixaban, rivaroxaban, and edoxaban (anti-Xa direct oral anticoagulants) has not been established in patients with a mechanical heart valve, and the safety of these agents in pregnancy is not known; therefore, they are not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"fa780f",
+"children":[
+"In patients who prefer not to take warfarin during the first trimester of pregnancy or if the warfarin dosage is more than 5 mg/d, intravenous dose-adjusted unfractionated heparin may be used. However, subcutaneous unfractionated heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") does not provide adequate anticoagulation coverage for a patient with a mechanical prosthetic valve. Intravenous unfractionated heparin is the preferred anticoagulant option for patients with a mechanical valve around the time of delivery."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s13_3_4",
+"objective":{
+"__html":"Continue warfarin during pregnancy in a patient with a prosthetic mechanical valve."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":5,
+"C":64,
+"D":28,
+"E":0
+},
+"hlIds":[
+"cdb8c0",
+"c391c6",
+"f0d639",
+"7e1383",
+"b78497",
+"b17fc3",
+"44f4f9",
+"39d293",
+"e574cb",
+"f99ef8",
+"fa780f"
+]
+}

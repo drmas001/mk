@@ -1,0 +1,202 @@
+{
+"id":"mk19_a_nr_q061",
+"number":61,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"22384d",
+"children":[
+"A 67-year-old woman is evaluated in the ICU. She is unresponsive. Three days ago, she was admitted to the hospital with acute respiratory distress syndrome secondary to community-acquired pneumonia and was intubated and mechanically ventilated. Prior to intubation, neurologic examination was normal. Antibiotics and propofol were initiated. Twelve hours ago, the propofol was discontinued, but the patient remains unresponsive. Medical history is significant for hypertension and previous right hemispheric stroke without residual deficits. Prehospitalization medications were aspirin, atorvastatin, and hydrochlorothiazide; current medications include ceftriaxone, azithromycin."
+]
+},
+{
+"type":"p",
+"hlId":"2fea30",
+"children":[
+"On physical examination, vital signs are normal. The patient does not respond to verbal stimuli and does not open her eyes or move her limbs when asked, but there is intermittent twitching of the left upper and lower extremities. She withdraws all extremities to noxious stimuli."
+]
+},
+{
+"type":"p",
+"hlId":"9916e3",
+"children":[
+"A recent metabolic profile is normal, including liver and kidney function."
+]
+},
+{
+"type":"p",
+"hlId":"1c186c",
+"children":[
+"A head CT scan shows evidence of remote hemispheric stroke but no additional findings."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continuous electroencephalography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous fosphenytoin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reinitiation of intravenous propofol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2e5089",
+"children":[
+"Nonconvulsive status epilepticus should be suspected in patients with critical illness who develop altered mental status of unclear cause."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d885a5",
+"children":[
+"The diagnosis of nonconvulsive status epilepticus is confirmed with continuous (24-hour) electroencephalography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7bcdb2",
+"children":[
+"The most appropriate next step in management is to initiate immediate continuous electroencephalography (EEG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has coma of unexplained etiology, and left-sided extremity twitching. In this patient with altered mental status and continuous focal motor seizures in the setting of critical illness, the diagnosis is most likely nonconvulsive status epilepticus (NCSE). NCSE should be suspected when a patient, particularly a critically ill patient, has altered mental status with an unclear cause. NCSE is characterized as electrical seizure activity without clinically evident seizure activity. Patients with NCSE may manifest rhythmic twitching of one or more muscle groups but these findings are often subtle and can be missed. NCSE requires continuous (24-hour) EEG confirmation for diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"65857b",
+"children":[
+"Additional brain imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will not establish the diagnosis of NCSE. Because the patient's CT of the head has excluded new structural intracranial pathologies, additional imaging is unlikely to be helpful. MRI may reveal indirect signs of potentially harmful, neuronal hyperactivity but has no role in management."
+]
+},
+{
+"type":"p",
+"hlId":"b42df7",
+"children":[
+"Unlike evidence for convulsive status epilepticus (CSE), evidence does not clearly favor empiric treatment for NCSE. Initiation of intravenous fosphenytoin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be considered only after EEG confirmed the diagnosis of NCSE, or if CSE was clinically diagnosed."
+]
+},
+{
+"type":"p",
+"hlId":"7cea2a",
+"children":[
+"Reinitiation of intravenous propofol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may stop the twitching but is not the best next step in management. Propofol is an appropriate treatment for either NCSE or CSE. However, in this case, empiric treatment would not help ascertain the cause of the otherwise unexplained coma. In general, expert opinion recommends that an effort should be made to diagnose NCSE as quickly as possible but with minimal sedation, so as to avoid inducing or prolonging coma and intubation."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_7_2",
+"objective":{
+"__html":"Diagnose nonconvulsive status epilepticus."
+},
+"references":[
+[
+"Herman ST, Abend NS, Bleck TP, et al; Critical Care Continuous EEG Task Force of the American Clinical Neurophysiology Society. Consensus statement on continuous EEG in critically ill adults and children, part I: indications. J Clin Neurophysiol. 2015;32:87-95. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25626778",
+"target":"_blank"
+},
+"children":[
+"PMID: 25626778"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":74,
+"C":7,
+"D":1,
+"E":0
+},
+"hlIds":[
+"22384d",
+"2fea30",
+"9916e3",
+"1c186c",
+"1a5dcc",
+"2e5089",
+"d885a5",
+"7bcdb2",
+"65857b",
+"b42df7",
+"7cea2a"
+]
+}

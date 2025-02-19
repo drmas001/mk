@@ -1,0 +1,233 @@
+{
+"id":"mk19_b_pm_q040",
+"number":40,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4aa0ba",
+"children":[
+"A 27-year-old woman is evaluated for a cough and chest tightness that occur during and after exercise. She has been training for her first marathon, but she has been unable to increase her training intensity because of these symptoms. She denies cough or chest tightness at any other time. She reports no stridor, throat tightness, or noisy inspiration during the episodes."
+]
+},
+{
+"type":"p",
+"hlId":"75e53d",
+"children":[
+"On physical examination, vital signs and pulmonary examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"46e8cf",
+"children":[
+"Baseline spirometry is normal. Exercise testing demonstrates a significant decrease in FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" from baseline."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cce5b5",
+"children":[
+"Which of the following inhaled medications is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Salmeterol daily"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Budesonide twice daily"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Budesonide-formoterol before exercise"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ipratropium before exercise"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"997e16",
+"children":[
+"Exercise-induced bronchoconstriction is an acute, measurable airway obstruction that occurs in response to exercise."
+]
+},
+{
+"type":"keypoint",
+"hlId":"32ab88",
+"children":[
+"Global Initiative for Asthma guidelines recommend that initial pharmacologic therapy for exercise-induced bronchoconstriction should consist of a daily inhaled glucocorticoid plus a short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist or low-dose budesonide-formoterol before exercise, whereas the National Asthma Education and Prevention Program recommends a short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c1c560",
+"children":[
+"The most appropriate management is to begin budesonide-formoterol 5 to 20 minutes before exercise (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Exercise-induced bronchoconstriction (EIB) is acute, measurable airway obstruction that occurs in response to exercise. It is one of the most common triggers of symptoms in patients with known asthma. It also occurs in patients without asthma (typically, elite athletes) during periods of high-intensity exercise. Environmental factors such as cold, dry air, exposure to high levels of trichloramines in swimming pools, and inhalation of airborne particulates and ozone can play a key role in precipitating symptoms. For safety, current Global Initiative for Asthma (GINA) guidelines no longer recommend treatment of intermittent asthma, including EIB, with a short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist (SABA) alone. All adults should receive a glucocorticoid-containing controller treatment to reduce their risk of serious exacerbations and to control symptoms. The glucocorticoid controller medication can be administered either as regular daily treatment or, in milder asthma, as the combination glucocorticoid-formoterol taken whenever needed for asthma relief. Accordingly, GINA guidelines recommend a daily inhaled glucocorticoid plus a SABA before exercise or low-dose budesonide-formoterol before exercise. Nonpharmacologic measures, including pre-exercise warm-up and warming cold air before inhalation (e.g., with a mask or scarf), are also recommended. In contrast, the 2020 Asthma Guideline Update from the National Asthma Education and Prevention Program has continued the previous recommendation of as-needed SABA-only use for this group of patients."
+]
+},
+{
+"type":"p",
+"hlId":"4f4a5d",
+"children":[
+"Use of single-agent long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonists (LABAs) such as salmeterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended because of a demonstrated increased risk of asthma-related death when used without a simultaneous controller medication. Clinical trial results show that LABAs used with inhaled glucocorticoids do not significantly increase the risk of asthma-related hospitalization, intubation, or death compared with inhaled glucocorticoids alone, and they result in significantly fewer asthma exacerbations."
+]
+},
+{
+"type":"p",
+"hlId":"329a17",
+"children":[
+"Daily use of low-dose inhaled glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would expose this patient to a significantly higher total dose of inhaled glucocorticoids compared with as-needed use. In addition, if daily inhaled controller medication with a glucocorticoid is prescribed, it should usually be accompanied by a SABA before exercise and as needed for quick relief."
+]
+},
+{
+"type":"p",
+"hlId":"da3b8f",
+"children":[
+"In patients with asthma, inhaled ipratropium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is generally not used for quick relief because of its delayed onset and peak action of 15 minutes and 1 to 2 hours, respectively. A SABA is preferred to ipratropium, either with a daily inhaled glucocorticoid or administered with an inhaled glucocorticoid."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_5_4",
+"objective":{
+"__html":"Manage exercise-induced bronchoconstriction."
+},
+"references":[
+[
+"Global Initiative for Asthma. Global Strategy for Asthma Management and Prevention, 2021. Available from: ginasthma.org/wp-content/uploads/2021/04/GINA-2021-Main-Report_FINAL_21_04_28-WMS.pdf. Accessed May 5, 2021."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":6,
+"C":52,
+"D":32,
+"E":0
+},
+"hlIds":[
+"4aa0ba",
+"75e53d",
+"46e8cf",
+"cce5b5",
+"997e16",
+"32ab88",
+"c1c560",
+"4f4a5d",
+"329a17",
+"da3b8f"
+]
+}

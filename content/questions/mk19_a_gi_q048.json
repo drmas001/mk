@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_gi_q048",
+"number":48,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"620de0",
+"children":[
+"A 26-year-old woman is evaluated for a 4-week history of intermittent bright red blood per rectum and the feeling of incomplete evacuation. She has loose and blood-streaked bowel movements four or five times daily. She reports no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"86c2da",
+"children":[
+"Vital signs and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"d1fc56",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 11 g/dL (110 g/L) and a normal leukocyte count."
+]
+},
+{
+"type":"p",
+"hlId":"05aa97",
+"children":[
+"Colonoscopy reveals diffuse and symmetric inflammatory mucosal changes characterized by erythema and friability, with absent mucosal vascular pattern from the rectum to mid sigmoid. Biopsy specimens obtained from sigmoid and rectum show chronic colitis. Results of testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" toxin are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"5-Aminosalicylate (5-ASA) enemas"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"5-ASA suppositories"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Glucocorticoid enemas"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral 5-ASAs"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2c90b0",
+"children":[
+"5-Aminosalicylate enemas are an appropriate and effective treatment for mild, left-sided ulcerative colitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2caccb",
+"children":[
+"5-Aminosalicylate suppositories are an appropriate and effective treatment for mild to moderate ulcerative proctitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"433064",
+"children":[
+"The most appropriate treatment is 5-aminosalicylate (5-ASA) enemas (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Categories of the extent of ulcerative colitis include proctitis (within 18 cm of the anal verge, distal to the rectosigmoid junction), left-sided colitis (extending from the sigmoid to the splenic flexure), and extensive colitis (beyond the splenic flexure). This patient's symptoms, colonoscopy findings, and histopathologic features are diagnostic of mild, left-sided ulcerative colitis. The initial therapy of choice would be 5-ASA enemas because they deliver active drug to the rectum and sigmoid colon. 5-ASAs are anti-inflammatory medications and the mainstay of treatment of mild to moderate ulcerative colitis, with a dose-dependent response when used to induce disease remission. Of note, combined 5-ASA therapy (oral and topical) is superior for induction of remission compared with oral or topical therapies alone. Once remission is achieved, 5-ASAs are effective in maintaining it."
+]
+},
+{
+"type":"p",
+"hlId":"e21785",
+"children":[
+"5-ASA suppositories (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") deliver medication only to the rectum and therefore would be inadequate therapy for a patient with sigmoid inflammation, such as this patient."
+]
+},
+{
+"type":"p",
+"hlId":"7038da",
+"children":[
+"A glucocorticoid enema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be effective in inducing remission of left-sided ulcerative colitis. However, topical 5-ASA therapy is superior to topical glucocorticoids for this indication for several reasons. 5-ASAs are effective in maintenance of remission, whereas topical glucocorticoids are effective only for induction. In addition, glucocorticoids have significant adverse effects. However, guidelines recommend glucocorticoid enemas in patients with mild to moderate proctitis or left-sided colitis who are intolerant of or refractory to oral or topical 5-ASA therapy."
+]
+},
+{
+"type":"p",
+"hlId":"51553a",
+"children":[
+"Oral 5-ASAs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are an alternative therapy if the patient declines use of 5-ASA enemas or has insufficient response. Oral 5-ASAs alone would be less optimal than topical 5-ASAs in this patient given the limited distribution of disease in the rectum and sigmoid colon."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_5_1_1",
+"objective":{
+"__html":"Treat left-sided ulcerative colitis."
+},
+"references":[
+[
+"Rubin DT, Ananthakrishnan AN, Siegel CA, et al. ACG clinical guideline: ulcerative colitis in adults. Am J Gastroenterol. 2019;114:384-413. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30840605",
+"target":"_blank"
+},
+"children":[
+"PMID: 30840605"
+]
+},
+" doi:10.14309/ajg.0000000000000152"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":8,
+"C":14,
+"D":40,
+"E":0
+},
+"hlIds":[
+"620de0",
+"86c2da",
+"d1fc56",
+"05aa97",
+"1054f1",
+"2c90b0",
+"2caccb",
+"433064",
+"e21785",
+"7038da",
+"51553a"
+]
+}

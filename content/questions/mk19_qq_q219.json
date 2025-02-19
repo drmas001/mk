@@ -1,0 +1,728 @@
+{
+"id":"mk19_qq_q219",
+"number":219,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 219",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dff94a",
+"children":[
+"A 46-year-old man is evaluated in the emergency department because of a 1-day history of nausea, vomiting, and confusion. He has depression, for which fluoxetine was initiated 17 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"04124e",
+"children":[
+"On physical examination, blood pressure is 138/78 mm Hg without orthostatic changes. Other than confusion, the remainder of the physical examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d5fe2",
+"children":[
+"Laboratory studies: "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"29d161",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"Blood urea nitrogen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"57d93b",
+"class":"cell text l",
+"children":[
+"9 mg/dL (3.2 mmol/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c1d9f5",
+"class":"cell text l",
+"children":[
+"H"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0f60db",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine, serum"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"23f624",
+"class":"cell text l",
+"children":[
+"1.0 mg/dL (88.4 µmol/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6fff94",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+", serum"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"70183d",
+"class":"cell text l",
+"children":[
+"123 mEq/L (123 mmol/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d20cae",
+"class":"cell text l",
+"children":[
+"L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d05bab",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Osmolality, serum",
+"children":[
+"Osmolality"
+]
+},
+", serum"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f6138e",
+"class":"cell text l",
+"children":[
+"252 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d20cae",
+"class":"cell text l",
+"children":[
+"L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0db4e2",
+"class":"cell text l",
+"children":[
+"Urine studies"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"340e4b",
+"class":"cell text li",
+"children":[
+"Osmolality"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0e2628",
+"class":"cell text l",
+"children":[
+"460 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c1d9f5",
+"class":"cell text l",
+"children":[
+"H"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e30669",
+"class":"cell text li",
+"children":[
+"Sodium"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8c8341",
+"class":"cell text l",
+"children":[
+"50 mEq/L (50 mmol/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d20cae",
+"class":"cell text l",
+"children":[
+"L"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bumetanide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Conivaptan"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"0.9% Saline infusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"3% Saline infusion"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"948cd6",
+"children":[
+"This diagnosis of syndrome of inappropriate antidiuretic hormone secretion is based on a low serum osmolality and a urine osmolality that is inappropriately high relative to serum osmolality without evidence of hypovolemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5764f4",
+"children":[
+"Although free water restriction is the recommended therapy for asymptomatic patients with syndrome of inappropriate antidiuretic hormone secretion, hypertonic saline is used to treat symptomatic patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"380ca3",
+"children":[
+"This patient has symptomatic hypotonic hyponatremia, and a rapid increase in the serum sodium level using a 3% saline infusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated. This patient's presentation is consistent with syndrome of inappropriate antidiuretic hormone secretion (SIADH), likely resulting from his recently started antidepressant medication. This diagnosis is based on a low serum osmolality and a urine osmolality that is inappropriately high relative to serum osmolality without evidence of hypovolemia. Although free water restriction is the recommended therapy for asymptomatic patients with SIADH, hypertonic saline is used to treat symptomatic patients. A typical goal for treating symptomatic hyponatremia is to increase the serum sodium level to approximately 120 mEq/L (120 mmol/L). Evidence suggests that an increase in the serum sodium level by approximately 4 to 6 mEq/L (4-6 mmol/L) over the first 24 hours is sufficient in symptomatic patients. If the extracellular fluid osmolality rapidly normalizes in a patient with chronic hyponatremia, neuronal cell shrinkage may occur and can precipitate osmotic demyelination syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"2fd9fe",
+"children":[
+"Bumetanide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a loop diuretic, can be used as adjunctive management of hyponatremia caused by SIADH because this agent interferes with urine concentration and causes excretion of a more dilute urine, thus increasing total water excretion. However, the rapidity of correction expected with bumetanide alone is insufficient to increase the serum sodium concentration in a symptomatic patient."
+]
+},
+{
+"type":"p",
+"hlId":"58ff9e",
+"children":[
+"Conivaptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an intravenous V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" receptor antagonist, is approved to treat patients with asymptomatic isovolemic and hypervolemic hyponatremia. The safety of V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" receptor antagonists in the management of patients with symptomatic hyponatremia has yet to be established, and 3% saline is preferred for acutely symptomatic patients."
+]
+},
+{
+"type":"p",
+"hlId":"a8addd",
+"children":[
+"Use of 0.9% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with SIADH can result in excretion of most of the infused sodium and retention of a significant portion of the infused water, leading to positive water balance and worsening hyponatremia."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_2_1_1_3",
+"objective":{
+"__html":"Treat symptomatic hyponatremia due to the syndrome of inappropriate antidiuretic hormone secretion."
+},
+"references":[
+[
+"Seay NW, Lehrich RW, Greenberg A. Diagnosis and management of disorders of body tonicity-hyponatremia and hypernatremia: core curriculum 2020. Am J Kidney Dis. 2020;75:272-286. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31606238",
+"target":"_blank"
+},
+"children":[
+"PMID: 31606238"
+]
+},
+" doi:10.1053/j.ajkd.2019.07.014"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"dff94a",
+"04124e",
+"9d5fe2",
+"29d161",
+"57d93b",
+"c1d9f5",
+"0f60db",
+"23f624",
+"d41d8c",
+"6fff94",
+"70183d",
+"d20cae",
+"d05bab",
+"f6138e",
+"d20cae",
+"0db4e2",
+"d41d8c",
+"d41d8c",
+"340e4b",
+"0e2628",
+"c1d9f5",
+"e30669",
+"8c8341",
+"d20cae",
+"1054f1",
+"948cd6",
+"5764f4",
+"380ca3",
+"2fd9fe",
+"58ff9e",
+"a8addd"
+]
+}

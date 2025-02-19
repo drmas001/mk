@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gm_q082",
+"number":82,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a06cc8",
+"children":[
+"A 37-year-old woman is evaluated for a 4-day history of acute-onset, right-sided neck pain with radiation to the right arm. The pain worsens when she turns her head to the right and with right lateral flexion, and it improves when she lies down. She also notes a sporadic tingling sensation on the lateral aspect of the right hand. She has not had any other symptoms. She reports recreational use of oral opioids."
+]
+},
+{
+"type":"p",
+"hlId":"1b2c82",
+"children":[
+"On physical examination, active and passive range of motion of the neck are severely limited by pain. Right upper extremity muscle strength and reflexes are normal. There is no cervical spine tenderness. Pain is reproduced by applying downward pressure to the patient's head while it is bent to the right and extended (Spurling test). Pain is relieved by lifting her right arm above her head."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cervical collar"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the cervical spine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neck exercises"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oxycodone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Radiography of the cervical spine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5c4b34",
+"hvc":true,
+"children":[
+"Cervical radiculopathy is suggested by the finding of, singly or in combination, pain in the neck, shoulder, or arms; upper extremity muscle weakness; reduced reflexes; or paresthesia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2a95d8",
+"hvc":true,
+"children":[
+"Cervical radiculopathy may be managed conservatively with simple analgesia, exercises, and physical therapy as long as symptoms do not progress."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5749c6",
+"children":[
+"The most appropriate treatment for this patient's neck pain is conservative therapy with neck exercises (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Radiculopathy is the result of any pathologic process that affects the nerve root. Cervical radiculopathy is suggested by the finding of, singly or in combination, pain in the neck, shoulder, or arms; upper extremity muscle weakness; reduced reflexes; or paresthesia. This patient probably has cervical radiculopathy, on the basis of the history and physical examination findings (neck pain with radiation to the arm, paresthesia in a dermatomal distribution, positive Spurling test, positive shoulder abduction test). Cervical radiculopathy may be managed conservatively as long as symptoms do not progress or become refractory. A multimodal approach that is tailored to the individual patient should be pursued and may include analgesic agents, range-of-motion exercise, and physical therapy. Symptoms generally improve in 6 to 8 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"69a43b",
+"children":[
+"Use of a cervical collar (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for neck pain should be discouraged because it may delay improvement in neck pain and mobility."
+]
+},
+{
+"type":"p",
+"hlId":"769521",
+"children":[
+"MRI of the cervical spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") provides anatomic information about the spinal cord, nerve roots, intervertebral disks, surrounding soft tissue, ligamentous structures, and vertebral arteries. It is indicated if myelopathy is suspected, suspicion for cancer or infection is high, or neurologic symptoms progress despite conservative therapy. Given the absence of red flag findings that raise suspicion for cancer or infection (e.g., trauma, fevers, chills, injection drug use, or immunosuppression), MRI is unnecessary in this patient at this time."
+]
+},
+{
+"type":"p",
+"hlId":"aa8a7d",
+"children":[
+"Oral and topical NSAIDs are first-line pharmacologic therapy for neck pain. Owing to their potential for abuse, opioids, such as oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should be avoided in the treatment of musculoskeletal neck pain, especially in a patient with a history of opioid use."
+]
+},
+{
+"type":"p",
+"hlId":"c3cc3b",
+"children":[
+"Radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is helpful in evaluating the bony structures of the spine and is therefore useful in patients suspected of having a fracture, metastatic disease, osteomyelitis, or diskitis. In this patient with cervical radiculopathy, there is no indication for radiography."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_3_2",
+"objective":{
+"__html":"Treat cervical radiculopathy with neck exercises."
+},
+"references":[
+[
+"Iyer S, Kim HJ. Cervical radiculopathy. Curr Rev Musculoskelet Med. 2016;9:272-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27250042",
+"target":"_blank"
+},
+"children":[
+"PMID: 27250042"
+]
+},
+" doi:10.1007/s12178-016-9349-4"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":7,
+"B":44,
+"C":32,
+"D":0,
+"E":17
+},
+"hlIds":[
+"a06cc8",
+"1b2c82",
+"cb2b54",
+"5c4b34",
+"2a95d8",
+"5749c6",
+"69a43b",
+"769521",
+"aa8a7d",
+"c3cc3b"
+]
+}

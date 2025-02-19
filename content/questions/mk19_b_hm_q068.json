@@ -1,0 +1,247 @@
+{
+"id":"mk19_b_hm_q068",
+"number":68,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bf54ab",
+"children":[
+"A 76-year-old man is admitted to the ICU with septic shock caused by a urinary tract infection (UTI). Medical history is significant for benign prostatic hyperplasia, hypertension, and stage G3 chronic kidney disease. Before the UTI, he was asymptomatic. Medications are amlodipine and tamsulosin."
+]
+},
+{
+"type":"p",
+"hlId":"bea1f1",
+"children":[
+"On physical examination, temperature is 39.2 °C (102.6 °F), blood pressure is 80/60 mm Hg, pulse rate is 96/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% breathing ambient air. Cardiopulmonary examination reveals a clear chest and normal heart sounds."
+]
+},
+{
+"type":"p",
+"hlId":"7a6e7b",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 10.8 g/dL (108 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 18,000/μL (18 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 112,000/μL (112 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"903d66",
+"children":[
+"Three liters of intravenous 0.9% saline and broad-spectrum antibiotics are administered. On hospital day 3, the patient is hemodynamically stable and is transferred to the general medical ward."
+]
+},
+{
+"type":"p",
+"hlId":"3eb3b6",
+"children":[
+"Repeat ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level is 7.4 g/dL (74 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"547c22",
+"children":[
+"Which of the following is the most appropriate treatment of this patient's anemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin recombinant erythropoietin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythrocyte transfusion to a target hemoglobin of 10 g/dL (100 g/L)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Erythrocyte transfusion to a target hemoglobin of 12 g/dL (120 g/L)"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7df4a3",
+"hvc":true,
+"children":[
+"A restrictive transfusion threshold (7 g/dL [70 g/L]) should be used to manage critically ill patients who are euvolemic, are not actively bleeding, and do not have acute ischemic heart disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"70027b",
+"hvc":true,
+"children":[
+"The restrictive transfusion threshold (7 g/dL [70 g/L]) does not apply to patients with acute coronary syndrome, severe thrombocytopenia, and chronic transfusion-dependent anemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d443eb",
+"children":[
+"This patient does not require transfusion support or other specific management for his anemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A randomized controlled study of euvolemic critically ill patients confirmed the benefit of a more cautious transfusion trigger, with a hemoglobin level less than 7 g/dL (70 g/L), compared with a more liberal trigger of 9 g/dL (90 g/L). Patients with the lower transfusion trigger had improved 30-day mortality and a lower rate of complications, such as pulmonary edema or acute myocardial infarction. A subgroup of patients with active ischemic heart disease did better with the more liberal transfusion strategy. Guidelines support these findings, strongly recommending a restrictive erythrocyte transfusion threshold in which transfusion is not indicated until the hemoglobin level is 7 g/dL (70 g/L) for hospitalized adult patients who are hemodynamically stable, including critically ill patients, rather than when the hemoglobin level is 10 to 12 g/dL (100-120 g/L) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). These recommendations do not apply to patients with acute coronary syndrome, severe thrombocytopenia (patients treated for hematologic or oncologic reasons who are at risk of bleeding), and chronic transfusion-dependent anemia."
+]
+},
+{
+"type":"p",
+"hlId":"e4a443",
+"children":[
+"Erythropoietin is important in the treatment of the anemia of chronic kidney disease (CKD) and is often needed in patients with end-stage kidney disease receiving dialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Guidelines recommend that erythropoietin-stimulating agents be withheld in patients with CKD not requiring dialysis who have a hemoglobin level greater than 10 g/dL (100 g/L). Higher hemoglobin targets are associated with adverse events, including worsening hypertension and volume overload. This patient has an acute worsening of mild, asymptomatic anemia, most likely because of sepsis (inflammation) and dilution owing to fluid resuscitation, which should improve as he continues to recover from his current illness. No evidence supports any benefit to erythropoietin therapy in this setting."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s8_3",
+"objective":{
+"__html":"Avoid unnecessary transfusions."
+},
+"references":[
+[
+"Docherty AB, Turgeon AF, Walsh TS. Best practice in critical care: Anaemia in acute and critical illness. Transfus Med. 2018;28:181-189. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29369437",
+"target":"_blank"
+},
+"children":[
+"PMID: 29369437"
+]
+},
+" doi:10.1111/tme.12505"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":11,
+"C":1,
+"D":82,
+"E":0
+},
+"hlIds":[
+"bf54ab",
+"bea1f1",
+"7a6e7b",
+"903d66",
+"3eb3b6",
+"547c22",
+"7df4a3",
+"70027b",
+"d443eb",
+"e4a443"
+]
+}

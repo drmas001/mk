@@ -1,0 +1,273 @@
+{
+"id":"mk19_b_hm_q075",
+"number":75,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e9ebbb",
+"children":[
+"A 68-year-old man is evaluated in the emergency department for gastrointestinal bleeding. He reports a 3-day history of dark stools and upper abdominal pain but is otherwise asymptomatic. Medical history is significant for coronary artery disease for which he underwent drug-eluting stent placement 7 months ago. Medications are metoprolol, atorvastatin, aspirin, and clopidogrel."
+]
+},
+{
+"type":"p",
+"hlId":"494188",
+"children":[
+"On physical examination, blood pressure is 110/80 mm Hg and pulse rate is 100/min; other vital signs are normal. Abdominal examination reveals midepigastric tenderness. Rectal examination reveals guaiac-positive stool."
+]
+},
+{
+"type":"p",
+"hlId":"e3e74f",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 10.6 g/dL (106 g/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 150,000/μL (150 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Activated partial thromboplastin time and prothrombin time are normal. Appropriate fluid resuscitation is initiated along with a proton pump inhibitor. Endoscopy is planned. Cardiology consultation is obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"58ec60",
+"children":[
+"Which of the following is the most appropriate antiplatelet management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue clopidogrel and aspirin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate platelet transfusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No change in management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a71781",
+"children":[
+"In patients taking dual antiplatelet therapy following coronary revascularization with significant hemorrhage, the best strategy is to discontinue the P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist and continue aspirin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a224b3",
+"children":[
+"In consultation with cardiology, clopidogrel should be discontinued at this time (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Aspirin and clopidogrel, a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist, irreversibly inhibit different steps in platelet activation and reduce coronary artery stent thrombosis risk; however, they also increase the bleeding risk. Guidelines recommend treating patients with stable angina with dual antiplatelet therapy (DAPT) for at least 6 months after drug-eluting stent placement, with the option to continue therapy for a longer duration in those with a high risk for thrombosis-related complications and a favorable bleeding profile. In patients with significant hemorrhage in whom DAPT must be discontinued, the P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist should be discontinued and aspirin continued. This strategy is informed by the results of a systematic review of late stent thrombosis (>30 days but <1 year after stent placement) and very late stent thrombosis (>1 year after stent placement). Patients who discontinued both aspirin and a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist had a median time to stent thrombosis of 7 days. Patients who discontinued a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist but continued aspirin therapy had a median time to thrombotic event of 122 days. Six percent of stent thrombosis occurred within 10 days of P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor antagonist cessation, suggesting short-term discontinuation between 30 days and 1 year from drug-eluting coronary stent placement (late stent thrombosis) might be relatively safe but still carries some risk."
+]
+},
+{
+"type":"p",
+"hlId":"28f9c4",
+"children":[
+"Discontinuing both aspirin and clopidogrel cannot be recommended because of the high risk of stent thrombosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). When modifying DAPT, aspirin should be continued to reduce the risk of stent thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"95e69b",
+"children":[
+"Acute bleeding can be managed with platelet transfusions, but this will result in complete reversal of antiplatelet agent effects, which increases the risk for thrombosis similarly to discontinuing all DAPT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"93ac32",
+"children":[
+"Continuing both aspirin and clopidogrel increases the risk of continued gastrointestinal bleeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The risk of stopping clopidogrel is reasonable based on the available data and, in consultation with cardiology, is likely the best course of action."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s6_4_1",
+"objective":{
+"__html":"Manage gastrointestinal bleeding in a patient taking dual antiplatelet agents."
+},
+"references":[
+[
+"Acosta RD, Abraham NS, Chandrasekhara V, et al.; ASGE Standards of Practice Committee. The management of antithrombotic agents for patients undergoing GI endoscopy. Gastrointest Endosc. 2016;83:3-16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26621548",
+"target":"_blank"
+},
+"children":[
+"PMID: 26621548"
+]
+},
+" doi:10.1016/j.gie.2015.09.035"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":39,
+"C":3,
+"D":18,
+"E":0
+},
+"hlIds":[
+"e9ebbb",
+"494188",
+"e3e74f",
+"58ec60",
+"a71781",
+"a224b3",
+"28f9c4",
+"95e69b",
+"93ac32"
+]
+}

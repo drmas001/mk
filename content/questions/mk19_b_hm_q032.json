@@ -1,0 +1,278 @@
+{
+"id":"mk19_b_hm_q032",
+"number":32,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9c5fb2",
+"children":[
+"A 63-year-old man is evaluated for easy bruising, worsening edema, and dizziness on standing over the past 9 months. Medical history is otherwise noncontributory; he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"bc1e7f",
+"children":[
+"On physical examination, blood pressure is 105/60 mm Hg sitting and 80/50 mm Hg standing; pulse rate is 105/min both sitting and standing. Periorbital ecchymoses, macroglossia, and jugular venous distention are present."
+]
+},
+{
+"type":"p",
+"hlId":"672506",
+"children":[
+"Laboratory studies show a normal ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"serum albumin"
+]
+},
+" level of 2 g/dL (20 g/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.5 mg/dL (133 μmol/L). 24-Hour urine albumin excretion is 3500 mg. Serum protein electrophoresis shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Immunoglobulins, IgG",
+"children":[
+"IgG"
+]
+},
+" λ spike of 1.2 mg/dL."
+]
+},
+{
+"type":"p",
+"hlId":"5a958d",
+"children":[
+"Echocardiogram shows biventricular myocardial hypertrophy with nondilated ventricles and diastolic dysfunction. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"Left ventricular ejection fraction"
+]
+},
+" is 51%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal fat pad biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endomyocardial biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tilt-table test"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2b5ba7",
+"children":[
+"Patients with light-chain amyloidosis may present with kidney, heart, skin, and liver dysfunction, easy bruising, waxy papules and plaques, and macroglossia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"77b24d",
+"children":[
+"Diagnosing amyloidosis requires biopsy of the affected tissue that shows the characteristic pathologic findings; to avoid a more invasive biopsy, abdominal fat pad or bone marrow biopsy may be preferred initially."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3fa3e3",
+"children":[
+"The most appropriate test to perform next is abdominal fat pad biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient likely has light-chain (AL) amyloidosis. These light chains can deposit in the kidney, heart, skin, liver, and other organs. Soft tissue manifestations are present in 30% to 40% of patients and include generalized waxy appearance; easy bruising with minor pressure (pinch purpura); periorbital ecchymoses (“raccoon eyes,” ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_hm_mcq_f032",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+")"
+]
+},
+"; yellow waxy papules and plaques, especially in a periorbital location; dystrophic nails; and macroglossia. He also has an IgG λ monoclonal gammopathy detectable in the serum, which further confirms a plasma cell dyscrasia. Diagnosis requires tissue biopsy that demonstrates characteristic apple green birefringence with Congo red staining. Fat pad biopsy is preferred even in multiorgan involvement because it is less invasive than biopsying other organs (sensitivity, 60%-80%). If unrevealing, kidney, bone marrow, or other organ biopsy can be performed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Protein typing using mass spectrometry is important to identify the specific protein causing amyloidosis. Proper identification of the amyloid type is key for deciding optimal management."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_hm_mcq_f032"
+]
+},
+{
+"type":"p",
+"hlId":"7789f1",
+"children":[
+"All patients with amyloidosis are evaluated for extent of organ involvement. Cardiac involvement is common with AL amyloidosis, and evaluation with echocardiography, electrocardiography, N-terminal pro B-type natriuretic peptide, and serum troponin T is commonly performed. Cardiac MRI is more sensitive than echocardiography and has a distinctive pattern. If fat pad or other organ biopsies are not feasible, an endomyocardial biopsy can be performed to establish the diagnosis but should not be the initial diagnostic test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"75f514",
+"children":[
+"This patient's orthostatic hypotension is a manifestation of amyloid-related autonomic dysfunction. Tilt-table testing may be helpful in persons with reflex syncope triggered by standing or with a single unexplained episode of syncope but will not assist in the diagnosis of amyloidosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_5",
+"objective":{
+"__html":"Diagnose amyloidosis."
+},
+"references":[
+[
+"Gertz MA, Dispenzieri A. Systemic amyloidosis recognition, prognosis, and therapy: A systematic review. JAMA. 2020;324:79-89. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32633805",
+"target":"_blank"
+},
+"children":[
+"PMID: 32633805"
+]
+},
+" doi:10.1001/jama.2020.5493"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":81,
+"B":9,
+"C":8,
+"D":2,
+"E":0
+},
+"figuresContent":{
+"mk19_b_hm_mcq_f032":{
+"id":"mk19_b_hm_mcq_f032",
+"number":32,
+"bookId":"hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"9cba86385ededb71c8df232c08e96935",
+"height":628,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"9c5fb2",
+"bc1e7f",
+"672506",
+"5a958d",
+"ab9d96",
+"2b5ba7",
+"77b24d",
+"3fa3e3",
+"7789f1",
+"75f514"
+]
+}

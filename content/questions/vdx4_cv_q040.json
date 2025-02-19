@@ -1,0 +1,170 @@
+{
+"id":"vdx4_cv_q040",
+"number":40,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d04799",
+"children":[
+"A 60-year-old man is evaluated for chronic right-sided heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"2e5f15",
+"children":[
+"Chest radiographs are ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f040a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f040a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chronic thromboembolic pulmonary hypertension"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Constrictive pericarditis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Primary hyperparathyroidism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Restrictive cardiomyopathy"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c71081",
+"children":[
+"The most likely diagnosis is constrictive pericarditis. This ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f040b",
+"wrapId":"2",
+"children":[
+"chest radiograph"
+]
+},
+" shows pericardial calcification on both the posterior-anterior (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+") and lateral views (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrows"
+]
+},
+"). Constrictive pericarditis is characterized by pericardial thickening, fibrosis, and sometimes calcification that impair diastolic filling and limit total cardiac volume. Chest radiography or CT may demonstrate partial or circumferential pericardial calcification, and CT or cardiac magnetic resonance imaging may demonstrate pericardial thickening (>3 mm). Importantly, constriction may exist in the absence of these findings."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_cv_mcq_f040b"
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_3_1",
+"objective":{
+"__html":"Diagnose constrictive pericarditis."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f040a":{
+"id":"vdx4_cv_mcq_f040a",
+"number":40,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"41e4154494a50026a38f3da7773f6cda",
+"height":1807,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_cv_mcq_f040b":{
+"id":"vdx4_cv_mcq_f040b",
+"number":40,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3c5d260ed709cd5b42f45dd2906b4f97",
+"height":1807,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"d04799",
+"2e5f15",
+"413696",
+"c71081"
+]
+}

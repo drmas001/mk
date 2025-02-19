@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_gi_q029",
+"number":29,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0d8add",
+"children":[
+"A 27-year-old man is evaluated in the emergency department for inability to eat, drink, or swallow his saliva for the past 2 hours. Symptoms began while he was eating chicken, when he felt that the bolus did not move all the way down his esophagus. During evaluation, he begins to sense that he can swallow again. He has had several previous but less severe episodes of dysphagia. His other medical conditions include asthma, seasonal allergies, and episodes of eczema. Current medications are budesonide-formoterol inhaler and loratadine as needed."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ae5f8a",
+"children":[
+"Upper endoscopy is scheduled."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Barrett esophagus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eosinophilic esophagitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Esophageal cancer"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Peptic stricture"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Systemic sclerosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ca4e8f",
+"children":[
+"Eosinophilic esophagitis is a condition commonly associated with dysphagia and food bolus obstruction, usually found in younger men with atopic conditions."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d4b68c",
+"children":[
+"Diagnostic criteria for eosinophilic esophagitis are dysphagia, esophageal biopsy specimens with eosinophil counts of at least 15/hpf, and exclusion of other causes of eosinophilia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b7bf8d",
+"children":[
+"The most likely diagnosis is eosinophilic esophagitis (EoE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient presented with a food impaction that resolved spontaneously. Most patients with EoE are men diagnosed between the second and fifth decades of life, and many have other atopic conditions, such as asthma, rhinitis, dermatitis, and seasonal or food allergies. The diagnostic criteria for EoE are symptoms of esophageal dysfunction, esophageal biopsy specimens showing persistent eosinophil counts of at least 15/hpf, and exclusion of other causes of eosinophilia. Examples of other causes of esophageal eosinophilia include gastroesophageal reflux disease, hypereosinophilic syndrome, infections (i.e., fungal, viral), autoimmune and connective tissue disorders, Crohn disease with esophageal involvement, and drug hypersensitivity reactions. Peripheral eosinophilia is not a diagnostic criterion for EoE. Upper endoscopy with biopsies to confirm this diagnosis is appropriate. Treatment options include a proton pump inhibitor, swallowed topical glucocorticoids (e.g., fluticasone, budesonide), and/or endoscopic dilation. An empiric elimination diet may help treat and prevent flares in EoE."
+]
+},
+{
+"type":"p",
+"hlId":"dab262",
+"children":[
+"Barrett esophagus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a complication of chronic acid reflux disease and is a risk factor for esophageal cancer. However, it does not cause dysphagia with food impaction."
+]
+},
+{
+"type":"p",
+"hlId":"7cbbfe",
+"children":[
+"Although esophageal cancer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can cause solid food dysphagia in older patients, it is often persistent and progressive but not intermittent with spontaneous resolution as seen in this young patient."
+]
+},
+{
+"type":"p",
+"hlId":"5169fc",
+"children":[
+"Patients with symptomatic peptic strictures (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") often have long-standing reflux or heartburn, which are not present in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"22b462",
+"children":[
+"Symptoms of esophageal dysmotility and reflux are common in all forms of systemic sclerosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Dysphagia is the result of incomplete peristalsis, and reflux results from decreased lower esophageal sphincter pressure. Patients with systemic sclerosis usually have associated skin findings and sclerodactyly. This patient lacks these characteristics."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s1_2_2",
+"objective":{
+"__html":"Diagnose eosinophilic esophagitis."
+},
+"references":[
+[
+"Dellon ES, Liacouras CA, Molina-Infante J, et al. Updated international consensus diagnostic criteria for eosinophilic esophagitis: proceedings of the AGREE conference. Gastroenterology. 2018;155:1022-1033.e10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30009819",
+"target":"_blank"
+},
+"children":[
+"PMID: 30009819"
+]
+},
+" doi:10.1053/j.gastro.2018.07.009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":89,
+"C":2,
+"D":6,
+"E":3
+},
+"hlIds":[
+"0d8add",
+"f78abf",
+"ae5f8a",
+"413696",
+"ca4e8f",
+"d4b68c",
+"b7bf8d",
+"dab262",
+"7cbbfe",
+"5169fc",
+"22b462"
+]
+}

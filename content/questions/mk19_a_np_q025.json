@@ -1,0 +1,705 @@
+{
+"id":"mk19_a_np_q025",
+"number":25,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8d40a9",
+"children":[
+"A 48-year-old woman is evaluated in the ICU for increasing serum creatinine and oliguria; she has cirrhosis. She was hospitalized 24 hours ago and treated for a bleeding esophageal varix. Outpatient medications are furosemide, spironolactone, nadolol, and norfloxacin. On admission, her ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level was 1.5 mg/dL (132.6 µmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"608197",
+"children":[
+"On physical examination, blood pressure is 102/63 mm Hg, and pulse rate is 66/min; other vital signs are normal. Ascites and jaundice are present. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"69e4d1",
+"children":[
+"Urine output is 190 mL over the past 24 hours."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"d12432",
+"children":[
+"Current laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"846f94",
+"class":"cell text l",
+"children":[
+"2.3 g/dL (23 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e6438c",
+"class":"cell text l",
+"children":[
+"2.3 mg/dL (203.3 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9eaf68",
+"class":"cell text l",
+"children":[
+"Electrolytes:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"178a22",
+"class":"cell text l",
+"children":[
+"126 mEq/L (126 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"841805",
+"class":"cell text l",
+"children":[
+"3.9 mEq/L (3.9 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d4cfef",
+"class":"cell text l",
+"children":[
+"95 mEq/L (95 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"653d7c",
+"class":"cell text l",
+"children":[
+"18 mEq/L (18 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e331de",
+"class":"cell text l",
+"children":[
+"Urine sodium"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"feec07",
+"class":"cell text l",
+"children":[
+"<10 mEq/L (10 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fffa58",
+"class":"cell text l",
+"children":[
+"Specific gravity 1.030; pH 5.0; trace protein; 2+ bilirubin; bilirubin staining; no erythrocytes or leukocytes"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"f6a227",
+"children":[
+"Kidney ultrasound shows normal-appearing kidneys without hydronephrosis."
+]
+},
+{
+"type":"p",
+"hlId":"cf99fa",
+"children":[
+"Diuretics are withheld, and norepinephrine infusion is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hemodialysis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous albumin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral midodrine and intravenous octreotide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transjugular intrahepatic portosystemic shunt"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0eaef6",
+"children":[
+"Type 1 hepatorenal syndrome is characterized by an increase in the serum creatinine level of at least 0.3 mg/dL (26.5 µmol/L) and/or ≥50% from baseline within 48 hours; bland urinalysis; and normal findings on kidney ultrasound."
+]
+},
+{
+"type":"keypoint",
+"hlId":"97f416",
+"children":[
+"Treatment of type 1 hepatorenal syndrome includes vasoconstrictors and intravenous albumin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3a96f7",
+"children":[
+"The most appropriate additional treatment is intravenous albumin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient exhibits acute kidney injury (AKI) in the context of advanced cirrhosis. At this stage in her hospitalization, it is uncertain if she could have prerenal AKI, acute tubular necrosis, or hepatorenal syndrome (HRS). Type 1 HRS is a clinical diagnosis made after exclusion of other causes of kidney dysfunction. It is characterized by an increase in the serum creatinine level of at least 0.3 mg/dL (26.5 µmol/L) and/or ≥50% from baseline within 48 hours; bland urinalysis; and normal findings on kidney ultrasound. It is also supported by a lack of improvement in kidney function after withdrawal of diuretics and 2 days of volume expansion with intravenous albumin. Often, patients also have low urine sodium, low fractional excretion of sodium, and oliguria. Type 2 HRS is defined as a more gradual decline in kidney function associated with refractory ascites. General management includes discontinuing diuretics, restricting sodium, restricting water in hyponatremic patients, and searching for precipitating factors. Therapeutic interventions include treatment with vasoconstrictors and albumin."
+]
+},
+{
+"type":"p",
+"hlId":"1a504f",
+"children":[
+"Patients with HRS have an overall poor prognosis without liver transplantation. Hemodialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is typically not the best therapeutic option unless the patient is a liver transplant candidate."
+]
+},
+{
+"type":"p",
+"hlId":"227545",
+"children":[
+"Treatment of hepatorenal syndrome may also include the vasoconstrictors midodrine and octreotide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") along with intravenous albumin to raise mean arterial pressure and improve kidney perfusion. However, midodrine and octreotide are not necessary in a patient such as this one who is receiving intravenous norepinephrine."
+]
+},
+{
+"type":"p",
+"hlId":"07c7c9",
+"children":[
+"Although transjugular intrahepatic portosystemic shunt (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an effective therapy for some cases of refractory HRS, it is an invasive therapy with numerous potential complications that should not preempt the administration of albumin."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_6_3",
+"objective":{
+"__html":"Treat hepatorenal syndrome."
+},
+"references":[
+[
+"Best LM, Freeman SC, Sutton AJ, et al. Treatment for hepatorenal syndrome in people with decompensated liver cirrhosis: a network meta-analysis. Cochrane Database Syst Rev. 2019;9:CD013103. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31513287",
+"target":"_blank"
+},
+"children":[
+"PMID: 31513287"
+]
+},
+" doi:10.1002/14651858.CD013103.pub2"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":57,
+"C":25,
+"D":14,
+"E":0
+},
+"hlIds":[
+"8d40a9",
+"608197",
+"69e4d1",
+"d12432",
+"4590ed",
+"846f94",
+"f461b2",
+"e6438c",
+"9eaf68",
+"d41d8c",
+"b99276",
+"178a22",
+"e92687",
+"841805",
+"a207b1",
+"d4cfef",
+"6827e3",
+"653d7c",
+"e331de",
+"feec07",
+"747c2a",
+"fffa58",
+"f6a227",
+"cf99fa",
+"78ff87",
+"0eaef6",
+"97f416",
+"3a96f7",
+"1a504f",
+"227545",
+"07c7c9"
+]
+}

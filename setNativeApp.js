@@ -1,0 +1,1 @@
+window.NATIVE_APP = true;

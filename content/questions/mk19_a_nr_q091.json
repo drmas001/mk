@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q091",
+"number":91,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 91",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5b8b23",
+"children":[
+"A 54-year-old woman is evaluated in the emergency department for a severe, nonpulsatile, bilateral occipital headache accompanied by photophobia and vomiting that suddenly began 3 hours ago during sexual intercourse. She describes the headache as being “different” from her usual migraine. Whereas rizatriptan typically is effective in resolving the migraine, neither rizatriptan nor ibuprofen has relieved her current symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"16150d",
+"children":[
+"On physical examination, blood pressure is 144/94 mm Hg; all other vital signs are normal. She appears uncomfortable and prefers a dark room; the remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ef73cd",
+"children":[
+"Results of laboratory studies are within normal limits."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Head CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sumatriptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d116b8",
+"children":[
+"Head CT is the preferred imaging modality in patients with thunderclap headache, a medical emergency that warrants immediate diagnostic evaluation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"86bebb",
+"children":[
+"If head CT is nondiagnostic in the evaluation of a thunderclap headache, lumbar puncture with measurement of opening pressure, cell counts, and xanthochromia should be performed."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"22f416",
+"children":[
+"The most appropriate first step in management is head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient has an acute-onset severe headache that differs from her migraine episodes. Red flags for secondary headache include abrupt onset, new headache in a patient older than 50 years, and a fundamental change in headache pattern. The abrupt nature in this patient's headache is characteristic of a “thunderclap” headache, which is defined as a severe attack of headache pain developing abruptly and reaching maximum intensity within 1 minute. Thunderclap headache is a medical emergency that warrants immediate diagnostic evaluation. Subarachnoid hemorrhage, the most common cause of thunderclap headache, is discovered in nearly 25% of affected patients. Noncontrast head CT should be performed without delay. The differential diagnosis of thunderclap headache also includes intracranial venous or sinus thrombosis, cervical artery dissection, reversible cerebral vasoconstriction syndrome, posterior reversible encephalopathy syndrome, and ischemic stroke or transient ischemic attack."
+]
+},
+{
+"type":"p",
+"hlId":"7187f5",
+"children":[
+"Brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is preferred to head CT in the evaluation of subacute or chronic headaches, given its greater sensitivity and safety. In the acute setting, however, head CT is performed more rapidly and may be more accurate in identifying acute intracranial hemorrhage."
+]
+},
+{
+"type":"p",
+"hlId":"e97e8b",
+"children":[
+"Lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") with measurement of opening pressure, cell counts, and xanthochromia should be performed if the head CT is nondiagnostic. Lumbar puncture is considered only after a screening neuroimaging study because acute hydrocephalus or space-occupying lesions could present with thunderclap onset and an elevated risk for herniation during a lumbar puncture procedure."
+]
+},
+{
+"type":"p",
+"hlId":"83506a",
+"children":[
+"Sumatriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an effective treatment for acute migraine, but this presentation is atypical for migraine. The use of sumatriptan would also be contraindicated within 24 hours of the administration of rizatriptan. Additionally, a response to triptans should not be a diagnostic indicator for migraine because some secondary headaches may respond to subcutaneous sumatriptan."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_2",
+"objective":{
+"__html":"Evaluate a patient with a thunderclap headache."
+},
+"references":[
+[
+"Godwin SA, Cherkas DS, Panagos PD, et al; American College of Emergency Physicians Clinical Policies Subcommittee (Writing Committee) on Acute Headache: Clinical Policy: Critical Issues in the Evaluation and Management of Adult Patients Presenting to the Emergency Department With Acute Headache. Ann Emerg Med. 2019;74:e41-e74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31543134",
+"target":"_blank"
+},
+"children":[
+"PMID: 31543134"
+]
+},
+" doi:10.1016/j.annemergmed.2019.07.009"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":77,
+"C":9,
+"D":3,
+"E":0
+},
+"hlIds":[
+"5b8b23",
+"16150d",
+"ef73cd",
+"1a5dcc",
+"d116b8",
+"86bebb",
+"22f416",
+"7187f5",
+"e97e8b",
+"83506a"
+]
+}

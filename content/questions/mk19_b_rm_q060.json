@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_rm_q060",
+"number":60,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6e6be5",
+"children":[
+"A 60-year-old woman is evaluated for achiness and fatigue. She reports dry mouth, irritated eyes, and discoloration of fingers after exposure to cold temperature that rapidly responds to rewarming."
+]
+},
+{
+"type":"p",
+"hlId":"d48c15",
+"children":[
+"On physical examination, vital signs are normal. Parotid glands are enlarged, and salivary pooling is decreased. There is no lymphadenopathy. All appendicular joints have preserved range of motion without discomfort."
+]
+},
+{
+"type":"p",
+"hlId":"ff02ba",
+"children":[
+"Laboratory evaluation reveals ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 77 mm/h, a blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"C-reactive protein, blood",
+"children":[
+"C-reactive protein"
+]
+},
+" level of 0.23 mg/dL (2.3 mg/L), and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Rheumatoid factor",
+"children":[
+"rheumatoid factor"
+]
+},
+" level of 202 U/mL (202 kU/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ANCA"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Anti–cyclic citrullinated peptide antibodies"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Anti-Ro/SSA antibodies"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Cryoglobulins"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"317b8f",
+"children":[
+"Anti-Ro/SSA antibodies are the most specific laboratory test for diagnosis of Sjögren syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ab887d",
+"children":[
+"Although rheumatoid factor is more common in Sjögren syndrome than in rheumatoid arthritis, it is not specific to either disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"68a675",
+"children":[
+"The most appropriate diagnostic test to perform next is anti-Ro/SSA antibodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has findings highly suggestive of Sjögren syndrome: oral and ocular dryness and enlarged parotid glands. She also has other nonspecific symptoms (achiness, fatigue, and Raynaud phenomenon) that are common in patients with Sjögren syndrome. Anti-Ro/SSA antibodies are the most specific diagnostic test. The patient also has an elevated rheumatoid factor level, a finding seen often in patients with Sjögren syndrome. Although rheumatoid factor is more common in Sjögren syndrome than in rheumatoid arthritis, it is not specific to either disease."
+]
+},
+{
+"type":"p",
+"hlId":"e367d1",
+"children":[
+"ANCA testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be informative for this case because the patient's presentation does not suggest systemic vasculitis. Clinical manifestations of vasculitis are the result of tissue ischemia associated with the involved vessels. ANCA-associated vasculitides involve small vessels, and patients may have symptoms related to the upper and lower airways, kidneys, eyes, ears, and skin; constitutional symptoms are also common."
+]
+},
+{
+"type":"p",
+"hlId":"0a88f0",
+"children":[
+"Anti–cyclic citrullinated peptide (CCP) antibodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are more specific than rheumatoid factor for diagnosing rheumatoid arthritis. However, in a patient who seems likely to have Sjögren syndrome, anti-CCP antibody testing is not helpful. Only a small proportion of people presenting with joint discomfort have rheumatoid arthritis. The normal joint examination provides another clue that rheumatoid arthritis is unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"17ad12",
+"children":[
+"Cryoglobulinemia can be caused by Sjögren syndrome, but there is no reason to suspect cryoglobulinemia in this patient. Cryoglobulinemic ischemia is fixed rather than reversible (digital tips often appear gangrenous). Cryoglobulins (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") cause small- and medium-vessel vasculitis by depositing in vessel walls and inciting an inflammatory response. Cryoglobulinemia almost always causes a rash (e.g., leukocytoclastic vasculitis manifesting as palpable purpura) and often causes mononeuritis multiplex and arthralgia. Kidney disease, usually membranoproliferative glomerulonephritis, is also frequently seen. Rheumatoid factor and an elevated erythrocyte sedimentation rate are expected in cryoglobulinemia, but the rest of this patient's clinical picture does not support the diagnosis of cryoglobulinemia."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s8_3",
+"objective":{
+"__html":"Diagnose Sjögren syndrome."
+},
+"references":[
+[
+"Shiboski CH, Shiboski SC, Seror R, et al; International Sjögren's Syndrome Criteria Working Group. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren's syndrome: a consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76:9-16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27789466",
+"target":"_blank"
+},
+"children":[
+"PMID: 27789466"
+]
+},
+" doi:10.1136/annrheumdis-2016-210571"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":6,
+"C":84,
+"D":8,
+"E":0
+},
+"hlIds":[
+"6e6be5",
+"d48c15",
+"ff02ba",
+"ab9d96",
+"317b8f",
+"ab887d",
+"68a675",
+"e367d1",
+"0a88f0",
+"17ad12"
+]
+}

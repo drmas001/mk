@@ -1,0 +1,199 @@
+{
+"id":"mk19_a_nr_q095",
+"number":95,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc1bcf",
+"children":[
+"A 67-year-old man is evaluated for a 1-minute episode of right-sided weakness and aphasia that occurred yesterday. The patient also has type 2 diabetes mellitus treated with metformin."
+]
+},
+{
+"type":"p",
+"hlId":"1245d0",
+"children":[
+"On physical examination, blood pressure is 164/100 mm Hg; all other vital signs are within normal limits. Cardiac examination reveals a regular rhythm; no murmurs or carotid bruits are heard on cardiac auscultation. A neurologic examination has normal findings."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a3643d",
+"children":[
+"Which of the following is the most appropriate next diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Carotid ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electroencephalography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance angiography of the brain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"01dd00",
+"hvc":true,
+"children":[
+"The risk of stroke after a TIA is highest in patients with extracranial internal carotid artery stenosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"814c62",
+"hvc":true,
+"children":[
+"Carotid ultrasonography should be performed emergently in patients with transient ischemic attack to identify those who may benefit from surgery."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"16ad7b",
+"children":[
+"This patient should next undergo carotid ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). He had a transient ischemic attack (TIA) characterized by the focal neurologic symptom of hemiparesis. The patient has an ABCD",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" score (Age > 60 years, elevated Blood pressure, Clinical presentation of hemiparesis, Duration of symptoms, and Diabetes mellitus) of 5, which indicates a high risk of stroke at 48 hours (4.1%) and 90 days (9.8%). The highest risk of stroke after a TIA or minor stroke is associated with symptomatic large artery atherosclerosis in patients with extracranial internal carotid artery stenosis. These patients benefit from urgent carotid revascularization to prevent a subsequent stroke. Carotid ultrasonography is a low-cost, readily available test not associated with radiation and should be performed emergently in order to identify patients who may require surgery."
+]
+},
+{
+"type":"p",
+"hlId":"2186d4",
+"children":[
+"Electroencephalography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate because the patient does not have other symptoms of epilepsy, such as convulsions or loss of awareness."
+]
+},
+{
+"type":"p",
+"hlId":"498bb4",
+"children":[
+"Magnetic resonance angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an expensive test and may not immediately change management. Intracranial atherosclerosis is associated with a high risk of stroke after a TIA and minor stroke, and the indicated treatment for stroke prevention is best medical therapy. Intracranial stenting is high risk without a significant reduction in stroke. MRI of the brain also will not result in an immediate change in management and is high cost. The latest American Heart Association guidelines do not recommend routine use of MRI in the inpatient setting; an infarct present on MRI will not change recommendations on initiation of antithrombotic treatment or necessarily inform risk of stroke better than the less expensive carotid imaging. After the initial diagnostic testing, an MRI may allow for further stroke subtyping and confirm the diagnosis of minor stroke."
+]
+},
+{
+"type":"p",
+"hlId":"7bd1ba",
+"children":[
+"Transesophageal echocardiography (TEE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has a low yield for identifying source of emboli in patients with stroke who have no risk factors and is not routinely indicated as the initial cardiac diagnostic test. A TEE can be considered in patients who are younger than 45 years who have otherwise negative diagnostic testing, including transthoracic echocardiography (TTE). TTE also is not routinely indicated in patients with stroke unless there is a clinical suspicion of a cardioembolic stroke based on medical history or examination findings."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_3_1",
+"objective":{
+"__html":"Evaluate a transient ischemic attack."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":45,
+"B":3,
+"C":50,
+"D":3,
+"E":0
+},
+"hlIds":[
+"bc1bcf",
+"1245d0",
+"a3643d",
+"01dd00",
+"814c62",
+"16ad7b",
+"2186d4",
+"498bb4",
+"7bd1ba"
+]
+}

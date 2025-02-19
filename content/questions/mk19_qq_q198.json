@@ -1,0 +1,224 @@
+{
+"id":"mk19_qq_q198",
+"number":198,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 198",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c87fc0",
+"children":[
+"A 66-year-old woman is evaluated in the emergency department for crushing chest pain. She is diagnosed with a high-risk non–ST-elevation myocardial infarction and treated with emergent percutaneous coronary intervention with a drug-eluting stent. Medical history includes a stroke 5 months ago. The patient has never had an episode of atrial fibrillation and does not have a prosthetic heart valve."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7e4c7d",
+"children":[
+"Which of the following is the most appropriate antithrombotic treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aspirin and ticagrelor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Aspirin and prasugrel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Aspirin, warfarin, and clopidogrel"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"df4c46",
+"children":[
+"Guidelines recommend at least 1 year of dual antiplatelet therapy (aspirin plus a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor) for patients with acute coronary syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cd0c58",
+"children":[
+"Antiplatelet therapy is recommended indefinitely after an acute coronary syndrome or revascularization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1cf7f5",
+"children":[
+"This patient, who had a drug-eluting stent placed after a non-ST-elevation myocardial infarction, should receive dual antiplatelet therapy, such as aspirin and ticagrelor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), for at least 1 year. Guidelines from the American College of Cardiology/American Heart Association recommend at least 1 year of dual antiplatelet therapy (aspirin plus a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor) for patients with an acute coronary syndrome (ACS). Transition to monotherapy with a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor after 1 to 3 months of aspirin or monotherapy with aspirin after 6 months may be reasonable in some patients with a high risk for bleeding. In the PLATO trial, ticagrelor was found to be superior to clopidogrel in reducing the incidence of cardiovascular death, myocardial infarction, and stroke after ACS, and the American College of Cardiology/American Heart Association guideline confirms that it is reasonable to use ticagrelor in preference to clopidogrel for maintenance P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor therapy. Clopidogrel or ticagrelor therapy may be used regardless of the ACS treatment strategy; however, prasugrel is indicated only in patients treated with percutaneous coronary intervention."
+]
+},
+{
+"type":"p",
+"hlId":"fc0770",
+"children":[
+"Antiplatelet therapy is recommended indefinitely after an ACS or revascularization, but aspirin alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not sufficient. The addition of a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor to aspirin is indicated to reduce the risk for stent thrombosis and remote ischemic events."
+]
+},
+{
+"type":"p",
+"hlId":"206b5c",
+"children":[
+"Prasugrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is contraindicated in patients with a history of stroke or transient ischemic attack because of an increased risk for intracranial hemorrhage. FDA labeling suggests that use of prasugrel in patients aged 75 years or older generally should be avoided because of increased risk for fatal and intracranial bleeding and uncertain benefit, except in high-risk situations (patients with diabetes mellitus or a history of myocardial infarction) in which its effect appears to be greater and its use may be considered."
+]
+},
+{
+"type":"p",
+"hlId":"9fdcda",
+"children":[
+"In patients requiring oral anticoagulation for atrial fibrillation, warfarin or a direct oral anticoagulant (preferred) plus clopidogrel can be considered without aspirin, often after 2 to 4 weeks of triple therapy. In patients with a mechanical valve prosthesis, warfarin plus clopidogrel therapy is reasonable; direct oral anticoagulants are contraindicated in these patients. This patient has no indication for triple therapy with aspirin, warfarin, and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_4_1",
+"objective":{
+"__html":"Manage dual antiplatelet therapy after acute coronary syndrome."
+},
+"references":[
+[
+"Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy in patients with coronary artery disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines: an update of the 2011 ACCF/AHA/SCAI guideline for percutaneous coronary intervention, 2011 ACCF/AHA guideline for coronary artery bypass graft surgery, 2012 ACC/AHA/ACP/AATS/PCNA/SCAI/STS guideline for the diagnosis and management of patients with stable ischemic heart disease, 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction, 2014 AHA/ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes, and 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery. Circulation. 2016;134:e123-55. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27026020",
+"target":"_blank"
+},
+"children":[
+"PMID: 27026020"
+]
+},
+" doi:10.1161/CIR.0000000000000404"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c87fc0",
+"7e4c7d",
+"df4c46",
+"cd0c58",
+"1cf7f5",
+"fc0770",
+"206b5c",
+"9fdcda"
+]
+}

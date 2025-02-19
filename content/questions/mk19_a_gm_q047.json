@@ -1,0 +1,200 @@
+{
+"id":"mk19_a_gm_q047",
+"number":47,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"797866",
+"children":[
+"A 47-year-old man is evaluated for low back pain. The pain began 5 days ago while he was playing basketball. It is localized to the lumbar back and does not radiate. The patient is unable to sit or stand for long periods, but the pain improves when lying down. Bladder and bowel habits have not changed. His only medication is ibuprofen for pain."
+]
+},
+{
+"type":"p",
+"hlId":"24693b",
+"children":[
+"On physical examination, the patient appears uncomfortable. Pain is induced with palpation of the lumbar paraspinal muscles and by flexion and extension of the lower back, and lumbar movement is limited by pain. Reflexes are normal, and no weakness or sensory deficits are noted. Ipsilateral and contralateral straight leg raise test results are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bed rest"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the lumbar spine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nonpharmacologic treatments"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oxycodone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0d3bfe",
+"hvc":true,
+"children":[
+"Nonpharmacologic treatments, such as superficial heat, exercise, massage, acupuncture, and spinal manipulation, are first-line therapy for patients with acute low back pain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4b41d0",
+"hvc":true,
+"children":[
+"For patients whose low back pain has not responded to nonpharmacologic therapy, NSAIDs are first-line pharmacologic therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0b1c8d",
+"children":[
+"This patient with nonspecific acute low back pain would most likely benefit from a trial of nonpharmacologic treatments (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which are first-line therapy for patients with acute low back pain. Potentially useful nonpharmacologic therapies for acute low back pain include local heat, massage, and acupuncture, although the evidence supporting these approaches is generally weak. Spinal manipulation therapy has moderate evidence for modest pain reduction and improvement in function. The harms of nonpharmacologic therapy are minimal, and the overall prognosis for nonspecific low back pain is excellent, with most patients improving rapidly in the first month."
+]
+},
+{
+"type":"p",
+"hlId":"d26740",
+"children":[
+"Bed rest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been shown to increase pain and decrease functional recovery. Patients with acute and subacute low back pain should be encouraged to maintain as many of their activities of daily living as possible."
+]
+},
+{
+"type":"p",
+"hlId":"9d8210",
+"children":[
+"Acute back pain (<4 weeks' duration) without neurologic or systemic findings, and without “red flag” symptoms, can be managed conservatively without imaging such as MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients should be informed that most low back pain is musculoskeletal in nature and resolves spontaneously without imaging or intervention."
+]
+},
+{
+"type":"p",
+"hlId":"5e2fff",
+"children":[
+"For patients whose low back pain has not responded to nonpharmacologic therapy, a trial of NSAIDs is first-line pharmacologic therapy, and tramadol or duloxetine may be considered as second-line therapy. Opioids, such as oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should only be considered in patients for whom nonpharmacologic therapy as well as first- and second-line pharmacologic therapy has been ineffective. Because of the addictive potential of opioids, physicians should prescribe them only after a discussion of the potential harms and benefits of use."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_2_1",
+"objective":{
+"__html":"Treat acute back pain with nonpharmacologic therapy."
+},
+"references":[
+[
+"Qaseem A, Wilt TJ, McLean RM, Forciea MA; Clinical Guidelines Committee of the American College of Physicians. Noninvasive treatments for acute, subacute, and chronic low back pain: a clinical practice guideline from the American College of Physicians. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M16-2367",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2017;166:514-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28192789",
+"target":"_blank"
+},
+"children":[
+"PMID: 28192789"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":91,
+"D":1,
+"E":0
+},
+"hlIds":[
+"797866",
+"24693b",
+"1a5dcc",
+"0d3bfe",
+"4b41d0",
+"0b1c8d",
+"d26740",
+"9d8210",
+"5e2fff"
+]
+}

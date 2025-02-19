@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_pm_q081",
+"number":81,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 81",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d57091",
+"children":[
+"A 67-year-old woman is evaluated for a 6-month history of dull right chest pain, persistent cough, and dyspnea on exertion. During this time she lost 9.1 kg (20 lb) and had night sweats. She is a retired ship refitter. She has a 25-pack-year smoking history and quit smoking 20 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"64d77b",
+"children":[
+"On physical examination, vital signs are normal. There are diminished breath sounds and dullness to percussion over the right lower hemithorax. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"d63005",
+"children":[
+"Chest radiograph demonstrates a large pleural effusion on the right side as well as pleural plaques. Chest CT scan shows basilar fibrosis and moderate to large right-sided pleural effusion with associated pleural thickening and nodularity."
+]
+},
+{
+"type":"p",
+"hlId":"1c76f9",
+"children":[
+"Thoracentesis yields 1200 mL of serosanguinous fluid; chemical analysis is compatible with an exudative effusion. Interferon-γ release assay is negative. Cytology findings are negative for malignancy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Closed pleural biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluorodeoxyglucose PET"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat thoracentesis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thoracoscopic pleural biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a8edd6",
+"children":[
+"For suspected mesothelioma, tissue biopsy is required to confirm the diagnosis; biopsy can be performed with medical thoracoscopy or video-assisted thoracoscopic surgery."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d7507d",
+"children":[
+"The most appropriate diagnostic test is thoracoscopic pleural biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has a unilateral exudative pleural effusion in the setting of pleural thickening and evidence of asbestos exposure. This clinical scenario strongly suggests malignant pleural mesothelioma. Malignant pleural mesothelioma is a rare neoplasm that originates from the cells that line the pleural cavity (mesothelium). It can present as small nodules, plaque-like masses, or confluent sheets that can encase the lung. It is associated with inhalational exposure to asbestos fibers and has a latency of 20 to 40 years. Tissue biopsy is required to confirm the diagnosis; it can be performed with medical thoracoscopy or video-assisted thoracoscopic surgery, which has 90% sensitivity for malignancy. Because mesothelioma can be difficult to diagnose, patients will typically present with advanced disease. Other conditions that may have a similar presentation include a chronic empyema and malignant conditions such as sarcomas and peripheral adenocarcinomas."
+]
+},
+{
+"type":"p",
+"hlId":"81dcb7",
+"children":[
+"The sensitivity of pleural fluid cytology for the diagnosis of mesothelioma is as low as 5%; therefore a pleural biopsy is required to make the diagnosis. Adding a closed pleural biopsy to thoracentesis increases the sensitivity to approximately 36%. Medical or surgical thoracoscopy has greater than 90% sensitivity for malignancy. Therefore, neither a closed biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") nor a repeat thoracentesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"902621",
+"children":[
+"Once the diagnosis is made, fluorodeoxyglucose PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be performed to evaluate the extent of the disease and help with staging. PET will not be as useful before biopsy because it will not differentiate between an infectious and an inflammatory cause of the pleural thickening. After tissue confirmation, mesothelioma is staged according to the TNM system; PET is often performed to help determine the extent of involvement. If there is limited involvement and no distant disease, some patients will benefit from surgery as well as chemotherapy and radiation. Prognosis for mesothelioma depends on the histologic features (sarcomatoid versus epithelioid) and staging at diagnosis, but overall it remains poor (median survival, 6-9 months)."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_2_6",
+"objective":{
+"__html":"Diagnose mesothelioma."
+},
+"references":[
+[
+"Scherpereel A, Opitz I, Berghmans T, et al. ERS/ESTS/EACTS/ESTRO guidelines for the management of malignant pleural mesothelioma. Eur Respir J. 2020;55. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32451346",
+"target":"_blank"
+},
+"children":[
+"PMID: 32451346"
+]
+},
+" doi:10.1183/13993003.00953-2019"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":0,
+"C":15,
+"D":69,
+"E":0
+},
+"hlIds":[
+"d57091",
+"64d77b",
+"d63005",
+"1c76f9",
+"ab9d96",
+"a8edd6",
+"d7507d",
+"81dcb7",
+"902621"
+]
+}

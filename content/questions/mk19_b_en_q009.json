@@ -1,0 +1,276 @@
+{
+"id":"mk19_b_en_q009",
+"number":9,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"875770",
+"children":[
+"A 33-year-old man is evaluated for tremulousness, nausea and vomiting, palpitations, dyspnea on exertion, and a 6.8-kg (15.0-lb) weight loss during the past month. His medical history is significant for Graves disease diagnosed 3 months ago that was controlled on methimazole and propranolol. He stopped taking the methimazole 1 month ago."
+]
+},
+{
+"type":"p",
+"hlId":"5f3c18",
+"children":[
+"On physical examination, temperature is 39.4 °C (103.0 °F), blood pressure is 80/50 mm Hg, pulse rate is 135/min and irregular, respiration rate is 28/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 93% breathing ambient air. Cardiac examination reveals a rapid irregular rhythm, jugular venous distention, and bilateral pulmonary crackles."
+]
+},
+{
+"type":"p",
+"hlId":"91df1d",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" level is less than 0.01 μU/mL (<0.01 mU/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+")"
+]
+},
+" level is 10.0 ng/dL (129.0 pmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"7af62c",
+"children":[
+"Chest radiograph shows pulmonary congestion. ECG reveals atrial fibrillation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cfcf48",
+"children":[
+"Which of the following is the most appropriate immediate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ICU admission"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methimazole and propranolol reinitiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Supersaturated potassium iodine administration"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroidectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2e15f4",
+"children":[
+"Thyroid storm is characterized by severe thyrotoxicosis and life-threatening complications and requires treatment in the ICU."
+]
+},
+{
+"type":"keypoint",
+"hlId":"df31c9",
+"children":[
+"Thyroid storm occurs often with discontinuation of antithyroid drug therapy, systemic illness, labor and delivery, surgery, or trauma, and there is often evidence of organ compromise."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3ea1fe",
+"children":[
+"The most appropriate management for this patient is ICU admission (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). He has severe thyrotoxicosis with evidence of cardiac compromise, consistent with thyroid storm. Thyroid storm is differentiated from severe thyrotoxicosis by the presence of life-threatening complications such as hemodynamic compromise; it occurs often with discontinuation of antithyroid drug therapy, systemic illness, labor and delivery, surgery, or trauma. It has a high mortality rate (up to 30%) and requires intensive care for any precipitating illness, thyrotoxicosis-directed therapy, and supportive measures. Thyroid storm is treated with intravenous β-blockers (esmolol); thionamides, typically propylthiouracil, transitioning to methimazole when more stable; intravenous high-dose glucocorticoids; and potassium iodide. To avoid providing iodine substrate to the gland, iodide should be administered more than 1 hour after antithyroid drugs. Glucocorticoid therapy is a potent inhibitor of peripheral thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") to triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") conversion. Bile acid sequestrants can be used to decrease T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" levels, especially in patients unable to take thionamides. Plasmapheresis or emergent thyroidectomy is used in patients who experience a poor response to medical therapy."
+]
+},
+{
+"type":"p",
+"hlId":"96638f",
+"children":[
+"Methimazole and propranolol reinitiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would treat the thyrotoxicosis and improve the tachycardia. However, their effects require significant time, and this patient's compromised hemodynamic status requires close monitoring, additional emergent therapy, and supportive care."
+]
+},
+{
+"type":"p",
+"hlId":"689524",
+"children":[
+"Although supersaturated potassium iodine (SSKI) administration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") rapidly decreases thyroid hormone production through the Wolff-Chaikoff effect (excess serum iodide inhibiting organification of iodide and subsequent thyroid hormone release), it is critically important to initiate antithyroid thionamide drugs at least 1 hour before starting SSKI to prevent rapid incorporation of the iodine load, which would worsen the thyrotoxicosis."
+]
+},
+{
+"type":"p",
+"hlId":"e2604c",
+"children":[
+"Definitive treatment with thyroidectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or iodine 131 therapy is indicated in patients who survive thyroid storm. However, thyroidectomy in patients with uncontrolled severe thyrotoxicosis is associated with a high mortality rate and should be avoided if at all possible."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_8_1",
+"objective":{
+"__html":"Treat a patient with thyroid storm in the ICU."
+},
+"references":[
+[
+"Martucci G, Bonicolini E, Parekh D, et al. Metabolic and endocrine challenges. Semin Respir Crit Care Med. 2021;42:78-97. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32882734",
+"target":"_blank"
+},
+"children":[
+"PMID: 32882734"
+]
+},
+" doi:10.1055/s-0040-1713084"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":77,
+"B":17,
+"C":5,
+"D":1,
+"E":0
+},
+"hlIds":[
+"875770",
+"5f3c18",
+"91df1d",
+"7af62c",
+"cfcf48",
+"2e15f4",
+"df31c9",
+"3ea1fe",
+"96638f",
+"689524",
+"e2604c"
+]
+}

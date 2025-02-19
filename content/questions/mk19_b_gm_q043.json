@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_gm_q043",
+"number":43,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4cad64",
+"children":[
+"A 50-year-old woman is evaluated during a routine wellness visit. Medical and family histories are unremarkable. She is in a long-term monogamous sexual relationship. When tested 10 years ago, she was HIV negative. She takes no medications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5a029d",
+"children":[
+"Which of the following is the most appropriate infectious disease screening test for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis C antibody assay"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nucleic acid amplification test for chlamydia and gonorrhea"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Syphilis enzyme immunoassay test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing is indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3e7e4a",
+"children":[
+"One-time screening for hepatitis C virus should be completed in all patients aged 18 to 79 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7cff08",
+"children":[
+"Patients with risk factors for hepatitis C, such as individuals who engage in high-risk sexual behavior, practice unhealthy drug use, have been incarcerated, or are receiving hemodialysis, should be retested regardless of age."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ad8e35",
+"children":[
+"The most appropriate infectious disease screening test for this patient is hepatitis C virus (HCV) antibody assay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients at highest risk for HCV include individuals who engage in high-risk sexual behavior (such as having multiple partners), practice unhealthy drug use, have been incarcerated, or are receiving hemodialysis. One-time screening for HCV should be completed in all patients aged 18 to 79 years. The U.S. Preventive Services Task Force (USPSTF) does not promote screening in patients older than 79 years, although the CDC does not specify an upper age limit. Patients with risk factors should also be retested regardless of age. Screening is accomplished by testing for HCV antibody, followed by HCV RNA quantification if results of antibody testing are positive. Conventional liver chemistry testing is not sufficiently sensitive to exclude chronic HCV infection."
+]
+},
+{
+"type":"p",
+"hlId":"a9e86d",
+"children":[
+"According to the USPSTF, screening for chlamydia and gonorrhea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be performed in all sexually active women aged 24 years or younger because of increased prevalence in this population. The USPSTF believes repeat screening is reasonable in patients whose sexual history reveals new or persistent risk factors since the last negative test result. There is no indication to screen this patient for sexually transmitted infections."
+]
+},
+{
+"type":"p",
+"hlId":"553aa2",
+"children":[
+"The USPSTF recommends screening for syphilis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in persons who are at increased risk for infection. Men who have sex with men (MSM) and men and women living with HIV have the highest risk for syphilis; 61% of cases of primary and secondary syphilis occurred among MSM, and approximately one half of all MSM diagnosed with syphilis were also coinfected with HIV. Other factors associated with increased risk that clinicians should consider include history of incarceration, history of commercial sex work, and well-described regional variations."
+]
+},
+{
+"type":"p",
+"hlId":"9bf31a",
+"children":[
+"Not screening for HCV infection is inappropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). HCV is the most common chronic bloodborne pathogen in the United States and is a leading cause of complications from chronic liver disease. HCV infection is associated with more deaths than the top 60 other reportable infectious diseases combined, including HIV. Effective and safe treatment is available for patients with HCV infection, and screening for HCV should be performed and treatment provided to prevent complications of chronic liver disease and premature death."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_2",
+"objective":{
+"__html":"Screen for hepatitis C virus."
+},
+"references":[
+[
+"Owens DK, Davidson KW, Krist AH, et al; US Preventive Services Task Force. Screening for hepatitis C virus infection in adolescents and adults: US Preventive Services Task Force recommendation statement. JAMA. 2020;323:970-5. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32119076",
+"target":"_blank"
+},
+"children":[
+"PMID: 32119076"
+]
+},
+" doi:10.1001/jama.2020.1123"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":52,
+"B":5,
+"C":2,
+"D":40,
+"E":0
+},
+"hlIds":[
+"4cad64",
+"5a029d",
+"3e7e4a",
+"7cff08",
+"ad8e35",
+"a9e86d",
+"553aa2",
+"9bf31a"
+]
+}

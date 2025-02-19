@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q057",
+"number":57,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0ac095",
+"children":[
+"A 23-year-old man is evaluated for colon cancer risk. Colon cancer was recently diagnosed in his 50-year-old mother. Colon cancer was also diagnosed in his maternal grandmother at age 67 years and his maternal uncle at age 40 years. The patient is asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"bedc10",
+"children":[
+"Physical examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Flexible sigmoidoscopy and stool DNA testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Genetic counseling"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Genetic testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Screening colonoscopy at age 35 years"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ec3f20",
+"children":[
+"Lynch syndrome follows an autosomal dominant inheritance and should be suspected when the “3-2-1-1-0” rules are met: (at least) three family members with Lynch-related cancers, in two generations, with one family member a first-degree relative of the other two, at least one member affected before age 50 years, and no familial polyposis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"61fac6",
+"children":[
+"This patient should be referred for genetic counseling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He has a family history meeting the Amsterdam criteria for Lynch syndrome, an inherited cancer syndrome. It is characterized by germline mutations in the mismatch repair genes or the epithelial cell adhesion molecule gene, which leads to increased risk for neoplasia of the colon and other organs. Lynch syndrome was previously known as hereditary nonpolyposis colorectal cancer; that name is no longer used because the syndrome is associated with polyps and because it may present as extra-colonic cancer. Lynch syndrome follows an autosomal dominant inheritance and should be suspected when the “3-2-1-1-0” rules are met: (at least) three family members with Lynch-related cancers, in two generations, with one family member a first-degree relative of the other two, at least one member affected before age 50 years, and no familial polyposis. Diagnosis of Lynch syndrome is confirmed if tumors are confirmed histologically and tumor tissue from a family member shows evidence of microsatellite instability or loss of mismatch repair protein expression."
+]
+},
+{
+"type":"p",
+"hlId":"c9ce66",
+"children":[
+"Flexible sigmoidoscopy and stool DNA testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or fecal immunochemical testing are insufficient for screening for colon cancer in patients with suspected Lynch syndrome. In this patient, colon cancer screening should be accomplished by full colonoscopy."
+]
+},
+{
+"type":"p",
+"hlId":"97a51b",
+"children":[
+"When a Lynch mutation is identified in a family, testing of first-degree relatives should be performed and surveillance instituted. Family members first should be referred to a genetic counselor who is skilled at appropriate data collection, pedigree analysis, and pre- and posttest counseling for possible germline mutation testing based on the tumor genetics previously identified (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"970a63",
+"children":[
+"Screening colonoscopy should be initiated between age 20 and 25 years (or 2-5 years before the age of diagnosis of the earliest familial cancer, if earlier) and repeated every 1 to 2 years. Waiting for colonoscopy until age 35 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1",
+"objective":{
+"__html":"Recommend genetic counseling for a patient for risk for inherited cancer."
+},
+"references":[
+[
+"Sinicrope FA. Lynch syndrome-associated colorectal cancer. N Engl J Med. 2018;379:764-773. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30134129",
+"target":"_blank"
+},
+"children":[
+"PMID: 30134129"
+]
+},
+" doi:10.1056/NEJMcp1714533"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"0ac095",
+"bedc10",
+"e15e9d",
+"ec3f20",
+"61fac6",
+"c9ce66",
+"97a51b",
+"970a63"
+]
+}

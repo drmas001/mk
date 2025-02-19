@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_gi_q032",
+"number":32,
+"bookId":"gi",
+"correctAnswer":"E",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"236755",
+"children":[
+"A 55-year-old man is evaluated at a follow-up visit. Two months ago he was admitted to the ICU for severe acute pancreatitis from alcohol use. CT during hospitalization revealed an edematous pancreas with fat stranding and peripancreatic fluid collections. He was discharged after 12 days. Two weeks before follow-up he had abdominal pain, and contrast-enhanced pancreas-protocol CT was performed. The scan demonstrated several hypodense lesions throughout the pancreas, including a 12-cm hypodense structure with a well-defined wall and no solid debris. The pancreatic duct was normal and no mass was identified. Today the patient reports feeling well; he has abstained from alcohol since hospitalization."
+]
+},
+{
+"type":"p",
+"hlId":"c4101d",
+"children":[
+"On physical examination today, vital signs and other findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Endoscopic cystogastrostomy and necrosectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic retrograde pancreatography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Endoscopic ultrasonography with fine-needle aspiration"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical drainage"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c19f0c",
+"hvc":true,
+"children":[
+"Pancreatic pseudocysts are peripancreatic fluid collections that occur with acute pancreatitis and do not contain solid material or debris."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b5883e",
+"hvc":true,
+"children":[
+"Pancreatic pseudocysts do not require drainage unless the patient is symptomatic or the pseudocysts become infected."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"90b74f",
+"children":[
+"The most appropriate management is observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This patient has recovered from alcohol-induced pancreatitis and now has a pancreatic pseudocyst. Pancreatic pseudocysts are one of the four types of fluid collections seen in acute pancreatitis; the others are acute peripancreatic fluid collections, acute necrotic collections, and walled-off necrosis. Pancreatic pseudocysts are defined as peripancreatic fluid collections that persist beyond 4 weeks. They develop a well-defined wall, but this wall lacks the epithelial layer required of a true cyst. Pseudocysts do not contain solid material or debris and do not require drainage unless the patient is symptomatic or the pseudocysts become infected. This patient feels well and thus does not require drainage. Ongoing expectant management and observation are appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"40b487",
+"children":[
+"Acute necrotic collections are areas of pancreatic necrosis that develop within the first 4 weeks of acute pancreatitis. Necrosis may occur within the pancreatic parenchyma or in the peripancreatic tissues. Walled-off necrosis occurs when necrotic areas liquefy and become encapsulated with a well-defined wall surrounding the necrotic area. Because of the semi-solid nature of the debris in walled-off necrosis, these lesions are not typically amenable to simple endoscopic needle drainage and may require endoscopic drainage, such as endoscopic cystogastrostomy and necrosectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), or surgical drainage. Because this patient has a pseudocyst, he does not require these procedures."
+]
+},
+{
+"type":"p",
+"hlId":"e6c0e6",
+"children":[
+"Endoscopic retrograde pancreatography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for pancreatic fluid collections. Instrumentation of the pancreatic duct carries a risk for pancreatitis. Although this procedure may provide information, such as connection of the fluid collection to the pancreatic duct, this information will not change management. Therefore, the procedure is not appropriate for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"ed9f4d",
+"children":[
+"If a patient is symptomatic or there is concern for infection, endoscopic ultrasonography with fine-needle aspiration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be considered. For symptomatic pancreatic pseudocysts, endoscopic drainage is preferred over surgical drainage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") given its lesser morbidity. This patient is asymptomatic and thus does not need to undergo ultrasonography and fine-needle aspiration."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_4",
+"objective":{
+"__html":"Manage asymptomatic pancreatic pseudocysts."
+},
+"references":[
+[
+"Hines OJ, Pandol SJ. Management of severe acute pancreatitis. BMJ. 2019;367:l6227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31791953",
+"target":"_blank"
+},
+"children":[
+"PMID: 31791953"
+]
+},
+" doi:10.1136/bmj.l6227"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":3,
+"C":14,
+"D":6,
+"E":73
+},
+"hlIds":[
+"236755",
+"c4101d",
+"cb2b54",
+"c19f0c",
+"b5883e",
+"90b74f",
+"40b487",
+"e6c0e6",
+"ed9f4d"
+]
+}

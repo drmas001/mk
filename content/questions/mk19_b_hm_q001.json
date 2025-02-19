@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_hm_q001",
+"number":1,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fada08",
+"children":[
+"A 58-year-old man is evaluated for possible smoldering myeloma. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"7e22f9",
+"children":[
+"On physical examination, vital signs and other examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"e43b5e",
+"children":[
+"Serum protein electrophoresis and immunofixation show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Immunoglobulins, IgA",
+"children":[
+"IgA"
+]
+},
+" protein spike of 3.5 g/dL (35 g/L). Bone marrow biopsy reveals 50% clonal plasma cells."
+]
+},
+{
+"type":"p",
+"hlId":"1fc996",
+"children":[
+"Whole-body low-dose CT scan is negative for bone lesions."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"00d86f",
+"children":[
+"Which of the following is the most appropriate imaging test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone scan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Skeletal survey"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Whole-body MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"75859e",
+"children":[
+"Low-dose CT (preferred) and PET-CT are recommended as the initial imaging procedure for patients with a monoclonal gammopathy because of increased sensitivity for the detection of lytic lesions."
+]
+},
+{
+"type":"keypoint",
+"hlId":"745939",
+"children":[
+"A whole-body low-dose CT scan negative for smoldering myeloma should be followed by a whole-body MRI."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4a20da",
+"children":[
+"Whole-body MRI is the most appropriate imaging test to perform next in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Smoldering multiple myeloma (MM) is characterized by a serum M protein level of 3 g/dL (30 g/L) or greater (or ≥500 mg/24 hr of urinary monoclonal free light chains) or bone marrow plasma clonal cells of 10% to 59% and no evidence of myeloma-related signs or symptoms. All patients with MM should be assessed for skeletal lesions at diagnosis, periodically thereafter, and when new symptoms occur. Skeletal survey following a negative low-dose CT scan would not provide any value. Low-dose CT and PET-CT scan are recommended as the initial imaging procedure because of increased sensitivity. CT is preferred because of its relatively high sensitivity, speed, and patient convenience. If initial imaging with whole-body low-dose CT is negative, whole-body MRI is recommended. MRI has been found to be more sensitive in identifying myeloma-related bone lesions and soft tissue lesions from plasmacytoma but is more inconvenient for the patient. If more than one lesion greater than 5 mm is discovered, the patient should be considered to have MM requiring therapy. In this patient with smoldering MM, negative findings on whole-body low-dose CT scan does not exclude skeletal lesions, and MRI is needed for further evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"c44a86",
+"children":[
+"Although bone scans are useful in detecting bone metastases from underlying cancer, the bone lesions in MM are often purely lytic and lack the enhanced osteoblast activity that is shown by bone scan imaging. Bone scans should not be used to assess bone involvement in MM (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"ab119c",
+"children":[
+"In the evaluation of MM, advanced cross-sectional imaging with whole-body low-dose CT, PET-CT scan, or whole-body MRI is preferred to a radiographic skeletal survey because advanced cross-sectional imaging is significantly more sensitive and better able to classify the patient's disease and thereby guide therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"b43dd6",
+"children":[
+"The presence or absence of local skeletal lesions on whole-body MRI will determine the plan of care for patients with smoldering MM. Performing no further imaging places the patient at risk of missing a diagnosis of early MM and appropriate treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_4_2",
+"objective":{
+"__html":"Evaluate smoldering myeloma with whole-body MRI."
+},
+"references":[
+[
+"Hillengass J, Usmani S, Rajkumar SV, et al. International Myeloma Working Group consensus recommendations on imaging in monoclonal plasma cell disorders. Lancet Oncol. 2019;20:e302-e312. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31162104",
+"target":"_blank"
+},
+"children":[
+"PMID: 31162104"
+]
+},
+" doi:10.1016/S1470-2045(19)30309-2"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":16,
+"C":19,
+"D":52,
+"E":0
+},
+"hlIds":[
+"fada08",
+"7e22f9",
+"e43b5e",
+"1fc996",
+"00d86f",
+"75859e",
+"745939",
+"4a20da",
+"c44a86",
+"ab119c",
+"b43dd6"
+]
+}

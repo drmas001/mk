@@ -1,0 +1,232 @@
+{
+"id":"mk19_a_gi_q009",
+"number":9,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"98a384",
+"children":[
+"A 44-year-old woman is evaluated for a 3-month history of irregular bowel habits, characterized by four or five episodes of watery, nonbloody diarrhea daily for 2 to 3 days every 3 to 4 weeks. She has lost 2.3 kg (5.1 lb) during the past 3 months. She also has osteoporosis treated with calcium, vitamin D, and alendronate. Her sister has celiac disease."
+]
+},
+{
+"type":"p",
+"hlId":"55401b",
+"children":[
+"On physical examination, vital signs and other findings are normal. BMI is 21."
+]
+},
+{
+"type":"p",
+"hlId":"2f0179",
+"children":[
+"Laboratory evaluation reveals a total ",
+{
+"type":"reference-range-link",
+"referenceRange":"Immunoglobulins, IgA",
+"children":[
+"IgA"
+]
+},
+" level less than 5 mg/dL (0.05 g/L), tissue transglutaminase IgA level of 0 U/mL (normal, 0-3 U/mL), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Immunoglobulins, IgG",
+"children":[
+"IgG"
+]
+},
+" level of 800 mg/dL (8 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anti–deamidated gliadin peptide IgG antibody measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Anti-gliadin IgA and IgG antibody measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gluten-free diet"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"<i>HLA-DQ2</i> and <i>HLA-DQ8</i> testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"86c774",
+"children":[
+"In patients with selective IgA deficiency undergoing testing for celiac disease, IgG antibodies to deamidated gliadin peptide or tissue transglutaminase should be used."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4d45bc",
+"children":[
+"The most appropriate management is measurement of serum anti–deamidated gliadin peptide IgG antibodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is at high risk for celiac disease, given her chronic diarrhea, low weight, osteoporosis, and family history. Tissue transglutaminase IgA antibody is the preferred serologic test for celiac disease in general, but its sensitivity is diminished in the setting of selective IgA deficiency. This patient's undetectable total IgA level indicates that she has selective IgA deficiency, so IgG serology should be used. Available IgG serologies are antibodies to deamidated gliadin peptide or tissue transglutaminase. If the anti–deamidated gliadin peptide IgG antibody level is elevated, upper endoscopy with duodenal biopsy should be performed; the presence of villus atrophy indicates a diagnosis of celiac disease, for which a gluten-free diet should be prescribed."
+]
+},
+{
+"type":"p",
+"hlId":"05e138",
+"children":[
+"Testing for anti-gliadin antibodies (IgA and IgG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be done because of its low sensitivity and specificity compared with testing for antibodies to deamidated gliadin peptide."
+]
+},
+{
+"type":"p",
+"hlId":"d4d7c8",
+"children":[
+"Before a gluten-free diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended, it is crucial to determine the celiac disease status of the patient because the sensitivity of serologies and duodenal biopsy declines after institution of a gluten-free diet. This patient's celiac disease status has not yet been clarified—she has selective IgA deficiency, and IgG serologies have not yet been performed."
+]
+},
+{
+"type":"p",
+"hlId":"ff9063",
+"children":[
+"Current guidelines recommend that ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ2"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HLA-DQ8"
+]
+},
+" testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be used routinely as part of the initial diagnosis of celiac disease; if this testing is done and results are positive, patients should still be serologically tested for celiac disease. Genetic testing is most valuable for patients who have not had serologic testing for celiac disease before starting a gluten-free diet and when the results of celiac-specific serology and histology are discrepant."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_2_1",
+"objective":{
+"__html":"Diagnose celiac disease in a patient with IgA deficiency."
+},
+"references":[
+[
+"Husby S, Murray JA, Katzka DA. AGA clinical practice update on diagnosis and monitoring of celiac disease-changing utility of serology and histologic measures: expert review. Gastroenterology. 2019;156:885-889. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30578783",
+"target":"_blank"
+},
+"children":[
+"PMID: 30578783"
+]
+},
+" doi:10.1053/j.gastro.2018.12.010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":27,
+"B":30,
+"C":31,
+"D":11,
+"E":0
+},
+"hlIds":[
+"91054a",
+"98a384",
+"55401b",
+"2f0179",
+"cb2b54",
+"86c774",
+"4d45bc",
+"05e138",
+"d4d7c8",
+"ff9063"
+]
+}

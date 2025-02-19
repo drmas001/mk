@@ -1,0 +1,181 @@
+{
+"id":"vdx4_hm_q023",
+"number":23,
+"bookId":"vdx_hm",
+"correctAnswer":"D",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fb1363",
+"children":[
+"A 21-year-old woman is evaluated for anemia. She is asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f023a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f023a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hereditary spherocytosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inflammatory anemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Polycythemia vera"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thalassemia minor"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6eec36",
+"children":[
+"The most likely diagnosis is thalassemia minor. The peripheral blood smear in thalassemia ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f023b",
+"wrapId":"2",
+"children":[
+"shown"
+]
+},
+")"
+]
+},
+" is characterized by target cells (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+") and teardrop cells (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"blue arrow"
+]
+},
+"). Thalassemias are congenital disorders characterized by imbalanced globin chain production or synthesis of abnormal globin chains. The resulting excess of cell membrane relative to cell volume results in microcytic target cells contributing to a microcytic, hypochromic anemia. Thalassemia minor is the most likely diagnosis for an asymptomatic patient with the peripheral blood smear shown in the top image. Although not an answer option, iron deficiency anemia may have a similar appearance on peripheral smear."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_hm_mcq_f023b"
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_2_3",
+"objective":{
+"__html":"Diagnose thalassemia minor."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f023a":{
+"id":"vdx4_hm_mcq_f023a",
+"number":23,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"6b5b4d2eb00a6c2f3b2179f2933b7737",
+"height":335,
+"width":504,
+"extension":"jpg"
+}
+},
+"vdx4_hm_mcq_f023b":{
+"id":"vdx4_hm_mcq_f023b",
+"number":23,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"26beccbadba7592c0ff721e4c3516931",
+"height":335,
+"width":505,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"fb1363",
+"f3f1a8",
+"413696",
+"6eec36"
+]
+}

@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_on_q045",
+"number":45,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e6c36b",
+"children":[
+"A 58-year-old woman undergoes follow-up evaluation for recently diagnosed breast cancer following lumpectomy and sentinel lymph node biopsy. Pathology of the primary tumor revealed a 2.3-cm, grade II, estrogen receptor–positive, human epidermal growth factor 2–negative breast cancer. Two sentinel axillary lymph nodes were negative for cancer. Her medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"2a75b2",
+"children":[
+"Local irradiation is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"89a596",
+"children":[
+"Which of the following is the most appropriate management of the patient's systemic therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemotherapy alone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chemotherapy followed by endocrine therapy for 5 years"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Endocrine therapy alone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Multigene recurrence assay"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1636b5",
+"hvc":true,
+"children":[
+"For patients with hormone receptor–positive, human epidermal growth factor 2–negative breast cancers with zero to three positive axillary nodes, the use of multigene assays informs the decision regarding the need for chemotherapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"53ff07",
+"children":[
+"This patient with estrogen receptor (ER)–positive, human epidermal growth factor 2 (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+")–negative breast cancer should have a multigene recurrence assay or gene expression profile (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), such as the 21-gene recurrence score, to inform chemotherapy decision making. If the result is low/intermediate, she should have hormone therapy alone and, if high, chemotherapy and hormone therapy. ER–positive, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+"–negative breast cancer risk may vary considerably based on the anatomic extent of disease (as indicated by tumor size and axillary lymph node involvement) as well as features that indicate the biology of disease, including grade and degree of ER positivity. Gene expression profiles performed on the tumor itself are independently associated with risk of recurrence and the degree of chemotherapy benefit. The Oncotype DX Recurrence Score has the highest-quality data available and is the most widely used test in the United States. Patients with node-negative, ER-positive/",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+"-negative breast cancer and low (RS 0-10) and intermediate (RS 11-25) scores do not benefit from chemotherapy, although there remains controversy regarding the role of chemotherapy for women younger than 50 years and with an RS of 16 to 25. However, patients with a high RS (≥31) do benefit from chemotherapy. These tests have dramatically improved the ability to avoid chemotherapy for patients at low risk of recurrence who will not benefit from chemotherapy and to identify patients at greater risk and who do benefit from chemotherapy. Consensus guidelines recommend sending a gene expression profile for patients with stage II, ER-positive/",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+"-negative breast cancer to inform chemotherapy decision making. If the results of the gene expression profile would not inform decision making (if she would not take chemotherapy regardless of the score), a gene expression profile should not be sent."
+]
+},
+{
+"type":"p",
+"hlId":"3dbdd0",
+"children":[
+"Chemotherapy followed by endocrine therapy for 5 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be recommended to this patient without a gene expression profile to inform the decision. Most patients with ER-positive/HER2-negative breast cancer who have the 21-gene recurrence score performed have low- or intermediate-risk tumors and therefore do not benefit from adjuvant chemotherapy. Administering adjuvant chemotherapy without this information could expose the patient to unnecessary risk without the potential for benefit."
+]
+},
+{
+"type":"p",
+"hlId":"b077f9",
+"children":[
+"This patient will need adjuvant endocrine therapy. Chemotherapy alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be inappropriate. Endocrine therapy alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be appropriate depending on the results of the multigene recurrence assay."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_6_2",
+"objective":{
+"__html":"Select breast cancer therapy informed by a multigene recurrence assay."
+},
+"references":[
+[
+"Sparano JA, Gray RJ, Makower DF, et al. Adjuvant chemotherapy guided by a 21-gene expression assay in breast cancer. N Engl J Med. 2018;379:111-21. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29860917",
+"target":"_blank"
+},
+"children":[
+"PMID: 29860917"
+]
+},
+" doi:10.1056/NEJMoa1804710"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":52,
+"C":24,
+"D":22,
+"E":0
+},
+"hlIds":[
+"e6c36b",
+"2a75b2",
+"89a596",
+"1636b5",
+"53ff07",
+"3dbdd0",
+"b077f9"
+]
+}

@@ -1,0 +1,356 @@
+{
+"id":"mk19_b_pm_q005",
+"number":5,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2666df",
+"children":[
+"A 67-year-old man is evaluated for progressive shortness of breath and dry cough over the past 3 months. He has a 40-pack-year history of cigarette smoking. His only medication is an albuterol inhaler."
+]
+},
+{
+"type":"p",
+"hlId":"f75af0",
+"children":[
+"On physical examination, pulse rate is 90/min and respiration rate is 24/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 88% with the patient breathing ambient air. Auscultation demonstrates bibasilar crackles. Clubbing is present."
+]
+},
+{
+"type":"p",
+"hlId":"a375dd",
+"children":[
+"Spirometry shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 110% of predicted, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 95% of predicted, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.68, and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 36% of predicted."
+]
+},
+{
+"type":"p",
+"hlId":"80aeef",
+"children":[
+"An echocardiogram shows normal left ventricle ejection fraction. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Right ventricle pressure",
+"children":[
+"Right ventricle systolic pressure"
+]
+},
+" is 66 mm Hg."
+]
+},
+{
+"type":"p",
+"hlId":"268771",
+"children":[
+"Representative high-resolution CT chest images are ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f005a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f005a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute interstitial pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combined pulmonary fibrosis and emphysema"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Desquamative interstitial pneumonia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Idiopathic pulmonary fibrosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3192c5",
+"children":[
+"Combined pulmonary fibrosis and emphysema (CPFE) is a distinct clinical entity in which fibrotic lung disease (lower lobe), similar to idiopathic pulmonary fibrosis, coexists with emphysematous changes (upper lobe) in the same patient."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1f88b4",
+"children":[
+"The most likely diagnosis is combined pulmonary fibrosis and emphysema (CPFE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a unique pathophysiologic entity distinct from either idiopathic pulmonary fibrosis (IPF) or emphysema. In patients with CPFE, the competing effects of emphysema and fibrosis result in higher lung volumes than are found in patients with pulmonary fibrosis alone. Similarly, the FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio in patients with CPFE may be preserved. However, there appears to be an additive deleterious effect on gas exchange properties of the lungs, resulting in a severe reduction in the D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+". High-resolution CT (HRCT) is the preferred diagnostic modality to demonstrate upper-lobe emphysema (blue arrows, left panel below) and lower-lobe fibrosis (red arrows, right panel below), as ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f005b",
+"wrapId":"2",
+"children":[
+"shown"
+]
+},
+" below. The likelihood of the development of pulmonary hypertension in CPFE is much higher than in either COPD or IPF. The presence of pulmonary hypertension in CPFE portends a poor prognosis."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_pm_mcq_f005b"
+]
+},
+{
+"type":"p",
+"hlId":"8e3e88",
+"children":[
+"Acute interstitial pneumonia (AIP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a rapidly progressing illness resulting in acute respiratory failure over days to weeks. This process is clinically, radiographically, and pathologically indistinguishable from acute respiratory distress syndrome. The patient's radiograph showing upper-lobe emphysematous changes and lower-lobe reticular and fibrotic changes is not consistent with the airspace opacities found in AIP."
+]
+},
+{
+"type":"p",
+"hlId":"96f376",
+"children":[
+"Desquamative interstitial pneumonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a relatively severe form of smoking-related diffuse parenchymal lung disease, may also present with progressive dyspnea and cough. However, CT scans of a patient with desquamative interstitial pneumonia would reveal diffuse ground-glass opacification with lower-lobe predominance, which is not present in this patient's imaging studies."
+]
+},
+{
+"type":"p",
+"hlId":"cd89e5",
+"children":[
+"The clinical presentation of IPF (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can mimic CPFE. However, pulmonary function tests manifest a pure restrictive pattern. A confident diagnosis can be made based on the presence of a usual interstitial pneumonia pattern on HRCT of the chest in the right clinical setting. In this patient, the presence of upper-lobe emphysema, in addition to lower-lobe fibrotic changes, confirms CPFE rather than IPF as the diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_4_5",
+"objective":{
+"__html":"Diagnose combined pulmonary fibrosis and emphysema."
+},
+"references":[
+[
+"Amariei DE, Dodia N, Deepak J, et al. Combined pulmonary fibrosis and emphysema: pulmonary function testing and a pathophysiology perspective. Medicina (Kaunas). 2019;55. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31509942",
+"target":"_blank"
+},
+"children":[
+"PMID: 31509942"
+]
+},
+" doi:10.3390/medicina55090580"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":81,
+"C":2,
+"D":14,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f005a":{
+"id":"mk19_b_pm_mcq_f005a",
+"number":5,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"27aa5046af9fff96418e799f902cfe57",
+"height":441,
+"width":900,
+"extension":"jpg"
+}
+},
+"mk19_b_pm_mcq_f005b":{
+"id":"mk19_b_pm_mcq_f005b",
+"number":5,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"000519a24e0b6008555abb5b4bd0c6bd",
+"height":441,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"2666df",
+"f75af0",
+"a375dd",
+"80aeef",
+"268771",
+"413696",
+"3192c5",
+"1f88b4",
+"8e3e88",
+"96f376",
+"cd89e5"
+]
+}

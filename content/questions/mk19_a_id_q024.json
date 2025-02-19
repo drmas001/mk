@@ -1,0 +1,193 @@
+{
+"id":"mk19_a_id_q024",
+"number":24,
+"bookId":"id",
+"correctAnswer":"E",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"187783",
+"children":[
+"A 26-year-old woman undergoes consultation to update her vaccinations. She is an elementary school teacher. Medical history is significant for well-controlled HIV diagnosed 6 years ago. Medications are tenofovir alafenamide, emtricitabine, and dolutegravir."
+]
+},
+{
+"type":"p",
+"hlId":"fbea7f",
+"children":[
+"The physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8245ec",
+"children":[
+"Her CD4 cell count is 520/µL and has been stable for several years. HIV viral load is undetectable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"304004",
+"children":[
+"Which of the following vaccines is contraindicated in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Human papillomavirus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inactivated influenza"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measles-mumps-rubella"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Varicella"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No contraindications exist"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a60ab8",
+"children":[
+"Selected live vaccines, including the varicella and measles-mumps-rubella vaccines, are safe to administer to nonimmune persons with HIV infection whose CD4 cell count has consistently been greater than 200/µL."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ad235b",
+"children":[
+"The live influenza vaccine is contraindicated in immunocompromised patients and those with HIV regardless of CD4 cell count."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2bedcd",
+"children":[
+"This patient has no contraindications to routinely administered vaccines (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Live vaccines, including varicella, measles-mumps-rubella, and influenza are not recommended for patients who are severely immunocompromised. Contraindications to live vaccines include persons with HIV with CD4 cell count ≤200/µL; pregnancy or probable pregnancy within 4 weeks; immunosuppressant therapy, including high-dose glucocorticoids; leukemia, lymphoma, or other bone marrow and lymphatic system malignancies; cellular immunodeficiency; solid organ transplant recipient; and recent hematopoietic stem cell transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"223763",
+"children":[
+"The live-attenuated influenza vaccine is contraindicated in patients with HIV infection regardless of CD4 cell count, but the inactivated vaccine can be given (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Numerous other immunizations are recommended for all persons with HIV, including COVID-19 and pneumococcal vaccines. Patients who are not already immune or infected with hepatitis B virus should receive the hepatitis B vaccine series. Tetanus-diphtheria-pertussis, hepatitis A, and human papillomavirus (HPV) vaccinations are indicated as for the general population (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The Advisory Committee on Immunization Practices (ACIP) has expanded the age indications for HPV vaccination to 45 years, recommending that the decision to vaccinate between ages 26 and 45 years be determined through shared decision making with patients. The ACIP recommends that all persons with HIV infection be vaccinated for meningococcal disease with the quadrivalent meningococcal vaccine, including boosters every 5 years."
+]
+},
+{
+"type":"p",
+"hlId":"424b80",
+"children":[
+"For prevention of varicella-zoster, the inactivated recombinant vaccine is recommended for patients with HIV infection aged 19 years and older. For patients without immunity, selected live vaccines such as the measles-mumps-rubella and varicella vaccines can be given to patients with HIV infection as long as the CD4 cell count is greater than 200/µL (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C, D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_4_2",
+"objective":{
+"__html":"Identify appropriate vaccines for patients with HIV infection."
+},
+"references":[
+[
+"Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Updated April 17, 2020. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/0",
+"target":"_blank"
+},
+"children":[
+"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/0"
+]
+},
+"."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":13,
+"D":13,
+"E":71
+},
+"hlIds":[
+"187783",
+"fbea7f",
+"8245ec",
+"304004",
+"a60ab8",
+"ad235b",
+"2bedcd",
+"223763",
+"424b80"
+]
+}

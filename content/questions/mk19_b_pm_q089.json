@@ -1,0 +1,238 @@
+{
+"id":"mk19_b_pm_q089",
+"number":89,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7e1947",
+"children":[
+"A 22-year-old man is evaluated for a 6-week history of shortness of breath and cough. He is otherwise healthy and takes no medications. He works from home as a software developer. Two months ago, he acquired a pet parakeet."
+]
+},
+{
+"type":"p",
+"hlId":"dd7105",
+"children":[
+"On physical examination, other than a respiratory rate of 25/min, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. Auscultation demonstrates inspiratory crackles over both lung fields. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"dc07d9",
+"children":[
+"Chest CT shows micronodular opacities in the mid- to upper-lung zones."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lung transplant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nintedanib"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Parakeet removal"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical lung biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1f48e0",
+"hvc":true,
+"children":[
+"The temporal association of a specific exposure with symptom development and ground-glass or centrilobular nodular opacities on high-resolution chest CT scan supports the diagnosis of hypersensitivity pneumonitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e00cbb",
+"hvc":true,
+"children":[
+"An essential and critical first step in the treatment of hypersensitivity pneumonitis is identification and removal of the offending antigen."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8ee6d2",
+"children":[
+"The most appropriate management for this patient is to remove the pet parakeet from the environment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient's clinical and radiographic picture is consistent with a diagnosis of subacute hypersensitivity pneumonitis. The symptoms started soon after he acquired the pet parakeet. A comprehensive clinical history eliciting the temporal association of a specific exposure (avian antigen in this case) with symptom development suggests the diagnosis. The radiographic findings of micronodular opacities in the mid- and upper-lung zones are consistent with the diagnosis of subacute hypersensitivity pneumonitis. High-resolution ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f089",
+"wrapId":"1",
+"children":[
+"CT scan"
+]
+},
+" of the chest typically reveals ground-glass opacities (faint opacification of the lung, as indicated by yellow arrows in the left panel below) and diffuse centrilobular micronodules (examples indicated by red arrows in the right panel below). Untreated, the disease can progress to a chronic form with the development of traction bronchiectasis and honeycomb changes. Removal of the offending antigen, if identified, is an essential and critical first step in the treatment of hypersensitivity pneumonitis. Elimination of the offending antigen reduces the risk of exacerbation as well as disease progression."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f089"
+]
+},
+{
+"type":"p",
+"hlId":"04d56c",
+"children":[
+"Early referral for lung transplant (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is prudent in patients with idiopathic pulmonary fibrosis because the disease has a progressive course as well as potential for unpredictable and sudden decline. For hypersensitivity pneumonitis, lung transplant is an option for hypoxemic patients with severe disease that is refractory to conservative management strategies. Referral for lung transplant should not precede the removal of the offending antigen."
+]
+},
+{
+"type":"p",
+"hlId":"8a95f6",
+"children":[
+"Nintedanib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a tyrosine kinase inhibitor, is an antifibrotic agent approved for the treatment of idiopathic pulmonary fibrosis. Although the fibrotic stage of hypersensitivity pneumonitis can mimic idiopathic pulmonary fibrosis radiologically, nintedanib does not have a current therapeutic indication for the management of hypersensitivity pneumonitis."
+]
+},
+{
+"type":"p",
+"hlId":"cc64ef",
+"children":[
+"Surgical or transbronchial lung biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be required if the diagnosis remains uncertain. Typical histopathologic findings in early stages of hypersensitivity pneumonitis include lymphocytic cellular infiltration with poorly formed granulomas. Once fibrosis develops, the pattern may be histologically indistinguishable from the usual interstitial pattern seen in idiopathic pulmonary fibrosis. In this patient, the temporal relationship between antigen exposure and development of symptoms plus supportive imaging findings strongly suggest the diagnosis of hypersensitivity pneumonitis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_3_3",
+"objective":{
+"__html":"Treat hypersensitivity pneumonitis."
+},
+"references":[
+[
+"Fernández Pérez ER, Koelsch TL, Leone PM, et al. Clinical decision-making in hypersensitivity pneumonitis: diagnosis and management. Semin Respir Crit Care Med. 2020;41:214-228. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32279292",
+"target":"_blank"
+},
+"children":[
+"PMID: 32279292"
+]
+},
+" doi:10.1055/s-0040-1701250"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":96,
+"D":2,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f089":{
+"id":"mk19_b_pm_mcq_f089",
+"number":89,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"796d0438133b9c4049e7f9c9e740470d",
+"height":340,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7e1947",
+"dd7105",
+"dc07d9",
+"cb2b54",
+"1f48e0",
+"e00cbb",
+"8ee6d2",
+"04d56c",
+"8a95f6",
+"cc64ef"
+]
+}

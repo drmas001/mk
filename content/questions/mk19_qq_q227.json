@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q227",
+"number":227,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 227",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9f7be8",
+"children":[
+"A 71-year-old man, a retired university professor, is evaluated for a 9-month history of difficult-to-manage behaviors and slow gait. He has exhibited intermittent forgetfulness and inattention, gotten lost while driving, and had visual hallucinations. Family members report that his affect has become blunted. He has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"3a948d",
+"children":[
+"Vital signs are normal. Examination reveals mild agitation, impaired recall and figure drawing, masked face, muscle rigidity, hand tremors, and a slow gait."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alzheimer disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dementia with Lewy bodies"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Frontotemporal dementia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vascular cognitive impairment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4087fd",
+"children":[
+"Core features of dementia with Lewy bodies are parkinsonian motor features, visual hallucinations, and frequent fluctuations in attention; autonomic symptoms and REM sleep behavior disorder are common."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b1faba",
+"children":[
+"When dementia occurs well after the motor symptoms, it is considered Parkinson disease dementia but when dementia and motor symptoms develop within 1 to 2 years of each other, it is classified as dementia with Lewy bodies."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f65838",
+"children":[
+"This patient most likely has dementia with Lewy bodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), the second most common cause of degenerative dementia. Core features of dementia with Lewy bodies are parkinsonian motor features, visual hallucinations, and frequent fluctuations in attention; autonomic symptoms and REM sleep behavior disorder are common. Sensitivity to neuroleptic medications also is commonly seen. When dementia occurs well after the motor symptoms, it is considered Parkinson disease dementia. When dementia and motor symptoms develop within 1 to 2 years of each other, it is classified as dementia with Lewy bodies."
+]
+},
+{
+"type":"p",
+"hlId":"e03e2a",
+"children":[
+"Alzheimer disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is predominantly characterized by a decline in memory that may be accompanied by deficits in other cognitive domains. Typical behavioral changes in the earlier stages of Alzheimer disease include irritability, anxiety, and depression. Although visual hallucinations and motor symptoms may occur in Alzheimer disease, these features generally present relatively late in the disease course. In this patient, early cognitive fluctuations and parkinsonism favor dementia with Lewy bodies over Alzheimer disease."
+]
+},
+{
+"type":"p",
+"hlId":"e08392",
+"children":[
+"Frontotemporal dementia (FTD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a clinical syndrome characterized by the insidious onset of changes in behavior, personality, and executive function (behavioral variant) or language (primary progressive aphasia variant). In behavioral variant FTD, patients may exhibit hyperorality, loss of insight, loss of empathy, compulsive behaviors, and impaired social conduct. In this patient, early impairment of memory and visuospatial function, psychosis, cognitive fluctuations, and motor symptoms are inconsistent with FTD."
+]
+},
+{
+"type":"p",
+"hlId":"a58dd6",
+"children":[
+"Vascular cognitive impairment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") encompasses a category of disorders in which the causal link between cerebrovascular disease and cognitive impairment is strong. In older populations, vascular cognitive impairment is likely second only to Alzheimer disease as the most common primary cause of dementia (but not of neurodegenerative dementia). This disorder may occur concurrently with Alzheimer disease in older patients. The likelihood of vascular cognitive impairment increases with age and is associated with systemic vascular risk factors and a history of stroke (either clinically diagnosed or based on neuroimaging evidence). Two major signs of vascular cognitive impairment are early gait impairment and pseudobulbar affect (“emotional incontinence”) that can manifest as excessive crying or laughter disproportionate to the context of the situation and is abrupt in onset and discontinuation. Vascular cognitive impairment cannot explain this patient's parkinsonian motor features, visual hallucinations, blunted affect, and frequent fluctuations in attention."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_2_1",
+"objective":{
+"__html":"Diagnose dementia with Lewy bodies."
+},
+"references":[
+[
+"Arvanitakis Z, Shah RC, Bennett DA. Diagnosis and management of dementia: review. JAMA. 2019;322:1589-99. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31638686",
+"target":"_blank"
+},
+"children":[
+"PMID: 31638686"
+]
+},
+" doi:10.1001/jama.2019.4782"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9f7be8",
+"3a948d",
+"413696",
+"4087fd",
+"b1faba",
+"f65838",
+"e03e2a",
+"e08392",
+"a58dd6"
+]
+}

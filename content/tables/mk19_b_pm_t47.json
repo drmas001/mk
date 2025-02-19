@@ -1,0 +1,801 @@
+{
+"id":"mk19_b_pm_t47",
+"number":47,
+"bookId":"pm",
+"title":{
+"__html":"Most Frequently Used Ventilator Modes"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9f9443",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 47. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t47"
+}
+]
+},
+"Most Frequently Used Ventilator Modes"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"28437f",
+"class":"col hd l",
+"children":[
+"Common Name"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bbfce1",
+"class":"col hd l",
+"children":[
+"Mode Classification"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ad3885",
+"class":"col hd l",
+"children":[
+"Breath Control Variable"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cdc53a",
+"class":"col hd l",
+"children":[
+"Breath Sequence"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"50c488",
+"class":"col hd l",
+"children":[
+"Targeting Scheme"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"93932b",
+"class":"col hd l",
+"children":[
+"Characteristics"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"45bb2f",
+"class":"cell txt l",
+"children":[
+"Volume control assist/control"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e9883",
+"class":"cell txt l",
+"children":[
+"VC-CMVs"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2d73de",
+"class":"cell txt l",
+"children":[
+"VC: The ventilator controls the flow (volume) during the mandatory breath. If the patient's effort, lung compliance, or resistance changes, the ventilator will still deliver the set tidal volume."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a99046",
+"class":"cell txt l",
+"children":[
+"CMV: All breaths are mandatory. The patient may or may not trigger the breath, but the ventilator always ends (cycles) the breath when the tidal volume is delivered."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a5d820",
+"class":"cell txt l",
+"children":[
+"Set-point, s: The operator sets all parameters of the breath (flow waveform, flow rate, and volume). The ventilator does not adjust to the patient's effort or change in lung characteristics."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"afa4b0",
+"class":"cell txt l",
+"children":[
+"Ensures minimum minute ventilation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7f49cf",
+"class":"cell txt l",
+"children":[
+"Ability to limit tidal volume delivered"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"16952c",
+"class":"cell txt l",
+"children":[
+"Least likely to allow comfort for patient because of limitation in flow"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1fcf55",
+"class":"cell txt l",
+"children":[
+"Serves the goal of safety"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0bced8",
+"class":"cell txt l",
+"children":[
+"Pressure control assist/control"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"49682d",
+"class":"cell txt l",
+"children":[
+"PC-CMVs"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a15459",
+"class":"cell txt l",
+"children":[
+"PC: The ventilator controls the pressure during the mandatory breath. If the patient's effort, lung compliance, or resistance changes, the ventilator will still deliver the set inspiratory pressure (but the tidal volume delivered will change)."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6e5531",
+"class":"cell txt l",
+"children":[
+"CMV: All breaths are mandatory. The patient may or may not trigger the breath, but the ventilator always ends the breath when the preset inspiratory time elapses."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"18410f",
+"class":"cell txt l",
+"children":[
+"Set-point, s: The operator sets all parameters of the breath (inspiratory pressure and inspiratory time). The ventilator does not adjust to the patient's effort or change in lung characteristics."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c8f212",
+"class":"cell txt l",
+"children":[
+"Ensures pressure will not rise above a set limit"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ac9755",
+"class":"cell txt l",
+"children":[
+"Tidal volume is dependent on patient effort, lung compliance, and resistance"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7d538c",
+"class":"cell txt l",
+"children":[
+"Serves the goal of safety (if tidal volume within range)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1afbc9",
+"class":"cell txt l",
+"children":[
+"Pressure support, continuous positive airway pressure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fbfe6d",
+"class":"cell txt l",
+"children":[
+"PC-CSVs"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"36af0a",
+"class":"cell txt l",
+"children":[
+"PC: The ventilator controls the pressure during the breath."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"35ab5d",
+"class":"cell txt l",
+"children":[
+"CSV: All breaths are spontaneous. The patient triggers and cycles the breath."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b3eb57",
+"class":"cell txt l",
+"children":[
+"Set-point, s: The operator sets all parameters of the breath (inspiratory pressure). The ventilator delivers the breath and does not adjust to the patient's effort or change in lung characteristics."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"44db54",
+"class":"cell txt l",
+"children":[
+"Patient determines size and timing of breaths"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f26c25",
+"class":"cell txt l",
+"children":[
+"Serves the goal of comfort, as it allows synchrony with patient"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b6bdd0",
+"class":"cell txt l",
+"children":[
+"Can be used to assess extubation readiness"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b880e3",
+"class":"cell txt l",
+"children":[
+"Synchronized intermittent mandatory ventilation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"793f7b",
+"class":"cell txt l",
+"children":[
+"PC-IMVs,s or VC-IMVs,s"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"daadc3",
+"class":"cell txt l",
+"children":[
+"PC or VC: The mandatory breaths can be set to be volume or pressure controlled, not both."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"236ca2",
+"class":"cell txt l",
+"children":[
+"IMV: Preset mandatory breaths are delivered by the ventilator at a minimum set rate. Spontaneous breaths are permitted in between mandatory breaths. The triggering of the mandatory breath will be coordinated with the patient if the inspiratory effort occurs close to the scheduled time trigger."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"723da2",
+"class":"cell txt l",
+"children":[
+"Set-point, s: One “s” refers to the mandatory breath and the other to the spontaneous breath. Generally, all spontaneous breaths in IMV are pressure supported (PC-CSVs)."
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0aafc",
+"class":"cell txt l",
+"children":[
+"Provides a minimum set amount of mandatory breaths"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"978bfd",
+"class":"cell txt l",
+"children":[
+"Allows spontaneous breaths"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fa885a",
+"class":"cell txt l",
+"children":[
+"Serves the goal of safety, as it allows a minimum minute ventilation"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"CMV = continuous mandatory ventilation; CSV = continuous spontaneous ventilation; IMV = intermittent mandatory ventilation; PC = pressure controlled; s = set-point; VC = volume controlled."
+]
+]
+}

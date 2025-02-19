@@ -1,0 +1,314 @@
+{
+"id":"mk19_a_id_q104",
+"number":104,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 104",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1118d8",
+"children":[
+"A 40-year-old man seeks treatment following a positive HIV test. Medical history is otherwise noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"418244",
+"children":[
+"On physical examination, vital signs and the remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"3af421",
+"children":[
+"HIV quantitative RNA is 500,000 copies/mL and CD4 cell count is 45/µL."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ec1fa3",
+"children":[
+"In addition to antiretroviral therapy initiation, which of the following is the most appropriate prophylactic treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluconazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5274ca",
+"children":[
+"Patients with advanced HIV infection and CD4 cell counts less than 200/µL should start prophylaxis for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis jirovecii"
+]
+},
+"."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6068ca",
+"children":[
+"Primary prophylaxis for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" in patients with HIV can be discontinued when the CD4 cell count exceeds 200/µL for at least 3 months or if the CD4 cell count exceeds 100/µL and consistent virologic suppression continues for more than 3 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4d22ea",
+"children":[
+"The most appropriate additional treatment is antimicrobial prophylaxis with trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has advanced HIV with a CD4 cell count of 45/µL, which is classified as AIDS (AIDS diagnostic criteria include either the presence of an AIDS-defining condition or a CD4 cell count <200 cells/µL). His risk for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis jirovecii"
+]
+},
+" pneumonia is high, and he would benefit from ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" prophylaxis. Starting immediate antiretroviral therapy (ART) will address his immunosuppression; a high viral load is one of the key factors that influences the incidence of opportunistic infections in advanced HIV infection. However, guidelines recommend ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" prophylaxis initiation concomitant with ART initiation. Treatment with trimethoprim-sulfamethoxazole will also provide protection against toxoplasmosis in patients with positive serology and CD4 cell count less than 100/µL."
+]
+},
+{
+"type":"p",
+"hlId":"5ca3c7",
+"children":[
+"Previously, prophylaxis for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium avium"
+]
+},
+" complex (MAC) with weekly azithromycin was recommended in patients with CD4 cell counts less than 50/µL (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). However, newer evidence suggests the risk for MAC is low among these patients taking ART. Therefore, primary MAC prophylaxis is no longer recommended in newly diagnosed patients prescribed ART."
+]
+},
+{
+"type":"p",
+"hlId":"7dd953",
+"children":[
+"Mucosal ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" infections like oropharyngeal candidiasis have very low morbidity and mortality and respond well to azole therapy. Concern exists that primary fluconazole prophylaxis could lead to development of azole-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" strains, so primary prophylaxis for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" infections or other fungal infections is not recommended (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"66bf6e",
+"children":[
+"Offering no additional therapy would be inappropriate in this patient with a very low CD4 cell count and high risk for infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Guidelines suggest that ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" prophylaxis be continued until the CD4 cell count responds to ongoing ART, increases to more than 200/µL, and stays above 200/µL for more than 3 months. Some studies have shown that ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" infection risk decreases dramatically when patients achieve virologic suppression despite the CD4 cell count being less than 200/µL, so guidelines suggest that primary prophylaxis for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" could be stopped in patients with CD4 cell counts above 100/µL if consistent virologic suppression continues for more than 3 months."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_4_2",
+"objective":{
+"__html":"Prevent opportunistic infection in a patient with AIDS."
+},
+"references":[
+[
+"Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Updated February 11, 2020. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/0",
+"target":"_blank"
+},
+"children":[
+"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/0"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":1,
+"C":84,
+"D":6,
+"E":0
+},
+"hlIds":[
+"1118d8",
+"418244",
+"3af421",
+"ec1fa3",
+"5274ca",
+"6068ca",
+"4d22ea",
+"5ca3c7",
+"7dd953",
+"66bf6e"
+]
+}

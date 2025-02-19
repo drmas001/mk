@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_hm_q047",
+"number":47,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7be2e2",
+"children":[
+"A 68-year-old woman is evaluated in the emergency department for swelling in her right leg of 3 days' duration. She completed therapy for breast cancer 1 month ago. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"7a439d",
+"children":[
+"On physical examination, vital signs are normal. She has swelling of the right lower extremity from the foot to the thigh with pitting edema."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Calculate the Pulmonary Embolism Rule-Out Criteria score"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"D-dimer measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Duplex ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1a3d7c",
+"children":[
+"For patients with a high pretest probability of deep venous thrombosis measured by the Wells criteria, duplex ultrasonography is recommended without initial D-dimer measurement."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a9fb6e",
+"children":[
+"According to Wells criteria for deep venous thrombosis (DVT), this patient has a high probability of DVT and should undergo duplex ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The Wells criteria include leg symptoms and examination findings as well as patient history. Examination findings and symptoms include calf swelling of 3 cm or more, swollen unilateral superficial veins, unilateral pitting edema, swelling of the entire leg, and localized tenderness along the deep venous system. Patient history criteria include previously documented DVT; active cancer or treatment of cancer in the past 6 months; paralysis, paresis, immobilization, or bedridden status for 3 days or more; and surgery. One point is given for each criterion that is present. If an alternative explanation for leg symptoms is present, then two points are removed. For patients with a score of 0 or 1, a D-dimer measurement should be obtained; no additional testing is indicated for a negative D-dimer result. For a Wells criteria score greater than 1, pretest probability of a DVT is high and duplex ultrasonography should be performed without initial D-dimer evaluation. This patient's leg swelling with pitting edema and recent cancer therapy earn a Wells criteria score of 3, so duplex ultrasonography should be performed."
+]
+},
+{
+"type":"p",
+"hlId":"fc161a",
+"children":[
+"The Pulmonary Embolism Rule-Out Criteria (PERC) score can identify patients at very low risk for pulmonary embolism (PE) and is the recommended initial test for patients at low risk for PE (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). If the PERC score is zero, no D-dimer testing is needed, and no CT angiography should be performed. However, this test is not applicable to a patient with suspected DVT, such as this patient."
+]
+},
+{
+"type":"p",
+"hlId":"1e1a65",
+"children":[
+"CT angiography is unnecessary because the patient has symptoms of a lower extremity DVT, not PE (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). If duplex ultrasonography of the lower extremity is diagnostic for DVT, then CT angiography does not need to be performed, because the treatment for DVT and PE are the same and the risk associated with CT contrast can be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"bc6aee",
+"children":[
+"In patients with a high probability for DVT, the D-dimer measurement should not be obtained (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Imaging is recommended in these patients regardless of the D-dimer result."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_2",
+"objective":{
+"__html":"Evaluate a patient with a high probability of deep venous thrombosis."
+},
+"references":[
+[
+"Lim W, Le Gal G, Bates SM, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Diagnosis of venous thromboembolism. Blood Adv. 2018;2:3226-3256. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482764",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482764"
+]
+},
+" doi:10.1182/bloodadvances.2018024828"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":8,
+"C":8,
+"D":76,
+"E":0
+},
+"hlIds":[
+"7be2e2",
+"7a439d",
+"c5165c",
+"1a3d7c",
+"a9fb6e",
+"fc161a",
+"1e1a65",
+"bc6aee"
+]
+}

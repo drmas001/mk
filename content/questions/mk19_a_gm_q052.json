@@ -1,0 +1,163 @@
+{
+"id":"mk19_a_gm_q052",
+"number":52,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8ccc0b",
+"children":[
+"A study compares a new treatment for symptom reduction in fibromyalgia versus treatment with pregabalin over a 1-year period. The target symptom reduction on a standard symptom inventory was reached in 30% of patients in the new treatment group and 25% of patients in the pregabalin group. However, 15% of patients in the new treatment group had to discontinue the treatment because of adverse effects; treatment was discontinued for this reason in 5% of patients in the pregabalin group."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b498f3",
+"children":[
+"Which of the following is the number needed to treat for one patient to benefit from the new medication for fibromyalgia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"10"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"20"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"30"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"40"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d427eb",
+"children":[
+"The number needed to treat, or the number of patients who must receive a treatment to cause one patient to benefit, is the inverse of the absolute risk reduction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9d1fda",
+"children":[
+"The number needed to harm, or the number of patients who must receive a treatment to cause one patient harm, is the inverse of the absolute risk increase."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"331e60",
+"children":[
+"The number needed to treat for one patient to benefit from the new medication for fibromyalgia is 20 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Numbers needed to treat (NNT) and harm (NNH) are a way to convey the clinical effect of an intervention. The NNT, or the number of patients who must receive a treatment to cause one patient to benefit, is the inverse of the absolute risk reduction. Absolute risk reduction (ARR) is the absolute value of the difference in treatment effect between the experimental and the control or comparison groups. The experimental and control effects are expressed as a rate, or the number of patients who experienced the treatment effect in the group divided by the total number of patients in that group. For this example, the experimental event rate is 0.30. The control event rate is 0.25. Thus, the ARR is |0.30 − 0.25| = 0.05. The NNT is the inverse of the ARR, calculated as 1/0.05 = 20; it is not 10 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), 30 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), or 40 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"78c5a7",
+"children":[
+"The acceptability of the NNT depends on the risks associated with the condition, the cost and side effects of the treatment, and other treatments available. Comparing the NNT with the NNH can assess the balance of treatment benefit versus treatment harms. NNH is calculated similarly to NNT, by using the absolute risk increase (ARI), or the absolute difference in risk increase between the experimental and control groups. In this example, “risk” was the rate of adverse effects in each group. The experimental rate of risk is 15%. The control rate of risk is 5%. The ARI is |0.15 − 0.05| = 0.10, and the NNH (calculated as the inverse of the ARI) is 1/0.10 = 10."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_3_3_4",
+"objective":{
+"__html":"Calculate the number needed to treat."
+},
+"references":[
+[
+"Wald NJ, Morris JK. Two under-recognized limitations of number needed to treat [Editorial]. Int J Epidemiol. 2020;49:359-60. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31965151",
+"target":"_blank"
+},
+"children":[
+"PMID: 31965151"
+]
+},
+" doi:10.1093/ije/dyz267"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":53,
+"C":20,
+"D":12,
+"E":0
+},
+"hlIds":[
+"8ccc0b",
+"b498f3",
+"d427eb",
+"9d1fda",
+"331e60",
+"78c5a7"
+]
+}

@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_rm_q043",
+"number":43,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"eebc94",
+"children":[
+"A 51-year-old woman is evaluated for an immigration physical examination. She has a 2-year history of rheumatoid arthritis. Immigration requirements include multiple vaccinations, and she has no recollection or record of her immunizations. Current medications are oral methotrexate, tofacitinib, and folic acid."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"304004",
+"children":[
+"Which of the following vaccines is contraindicated in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis B virus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measles, mumps, and rubella"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Recombinant influenza"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"15-Valent pneumococcal conjugate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5149ed",
+"children":[
+"Patients receiving biologic or small-molecule therapies should not receive live vaccines (such as measles, mumps, and rubella) or live attenuated vaccines (such as influenza and herpes zoster) because of risk for infection by the vaccine agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5503d2",
+"children":[
+"The measles, mumps, and rubella vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is contraindicated in this patient. Patients with autoimmune rheumatologic diseases, such as rheumatoid arthritis, are at increased risk for infections because of multiple factors, and infection prevention and vaccination are crucial. Ideally, patients with autoimmune diseases should be updated with vaccinations 2 to 4 weeks before initiating immunomodulatory agents, but this is not easy to accomplish. Evidence suggests attenuation of response to vaccines in patients receiving biologic agents. Patients receiving traditional immunomodulatory agents (disease-modifying antirheumatic drugs) in doses that cause only low-grade immunosuppression can receive any immunizations, killed or live, without any problems. Low-grade immunosuppression is defined as short-term prednisone use of less than 20 mg/d, methotrexate dosage of less than 0.4 mg/kg/wk, and azathioprine dosage of less than 3.0 mg/kg/d. Patients who are receiving these immunosuppressive agents at higher dosages should not receive live vaccines. Similarly, patients receiving biologic or small-molecule therapies should not receive live vaccines, such as measles, mumps, and rubella, or live attenuated vaccines, such as influenza and herpes zoster, because of risk for infection by the vaccine agent. In this patient, methotrexate at a low dosage (0.2 mg/kg/wk) would not constitute a contraindication to administration of any vaccination. However, she is also is being treated with tofacitinib, and vaccination with measles, mumps, and rubella is therefore contraindicated."
+]
+},
+{
+"type":"p",
+"hlId":"c00267",
+"children":[
+"The hepatitis B virus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), recombinant influenza (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), and 15-valent pneumococcal conjugate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") are killed vaccines and are not contraindicated in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s2_7",
+"objective":{
+"__html":"Avoid live vaccines in a patient receiving biologic therapy."
+},
+"references":[
+[
+"Furer V, Rondaan C, Heijstek MW, et al. 2019 update of EULAR recommendations for vaccination in adult patients with autoimmune inflammatory rheumatic diseases. Ann Rheum Dis. 2020;79:39-52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31413005",
+"target":"_blank"
+},
+"children":[
+"PMID: 31413005"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":80,
+"C":9,
+"D":4,
+"E":4
+},
+"hlIds":[
+"91054a",
+"eebc94",
+"304004",
+"5149ed",
+"5503d2",
+"c00267"
+]
+}

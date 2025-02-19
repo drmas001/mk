@@ -1,0 +1,262 @@
+{
+"id":"mk19_a_id_q042",
+"number":42,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"591199",
+"children":[
+"A 78-year-old woman is hospitalized with a 2-day history of lethargy, headache, and confusion in September. She is an avid gardener living in Connecticut. Medical history is unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"98a2d5",
+"children":[
+"On physical examination, temperature is 38.9 °C (102 °F) and pulse rate is 110/min. She is lethargic and oriented only to name. She resists passive flexion of the neck and the ocular examination. No rash is present, and the remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"52bae8",
+"children":[
+"Laboratory studies show a normal complete blood count and liver chemistry tests. Cerebrospinal fluid shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cell count, cerebrospinal fluid",
+"children":[
+"leukocyte count"
+]
+},
+" of 94/µL (94 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L), with 88% lymphocytes, 11% monocytes, and 1% polymorphonuclear cells."
+]
+},
+{
+"type":"p",
+"hlId":"6fb856",
+"children":[
+"Serology for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+" is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anaplasmosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Babesiosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lyme disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Powassan virus infection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2a5282",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Ixodes"
+]
+},
+"-transmitted infections include Lyme disease, babesiosis, anaplasmosis, and Powassan virus encephalitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b997f9",
+"children":[
+"Residence in the Northeast or Middle Atlantic region and seasonality might suggest Powassan virus encephalitis, which closely resembles other causes of encephalitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"abf90c",
+"children":[
+"Powassan virus infection is the most likely cause of acute encephalitis in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Powassan virus is transmitted to humans through the bite of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Ixodes"
+]
+},
+" tick, the same vector as Lyme disease, babesiosis, and anaplasmosis. Unsurprisingly, most Powassan virus infections occur in regions where this tick species is plentiful. Risk is highest from late spring to mid fall when ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Ixodes"
+]
+},
+" ticks are most active. Almost all reported cases of Powassan virus present with encephalitis, although this may represent a bias toward testing patients with more severe disease. No specific neurologic, laboratory, or radiographic findings differentiate Powassan virus encephalitis from the many other causes of encephalitis. Residence in the Northeast or Middle Atlantic region and seasonality might suggest the diagnosis, but other arboviruses, including Eastern equine encephalitis virus and West Nile virus would share these features as well. Definitive diagnosis of Powassan virus infection requires serologic testing."
+]
+},
+{
+"type":"p",
+"hlId":"e8aa1c",
+"children":[
+"The clinical presentations of other ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Ixodes"
+]
+},
+" copathogens are distinct from Powassan virus infection. Fever and headache are common with anaplasmosis, but meningoencephalitis occurs in less than 0.5% of patients (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Leukopenia, thrombocytopenia, and abnormal liver enzymes, also suggestive of anaplasmosis, are absent in this patient. Symptoms of babesiosis include fever, headache, myalgia, and cough (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Physical examination may reveal jaundice and hepatosplenomegaly. The hallmark of babesiosis is hemolytic anemia. Babesiosis does not cause encephalopathy, and the patient's complete blood count is not compatible with this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"e05c3c",
+"children":[
+"Neurologic manifestations are reported in as many as 10% of patients with early disseminated Lyme disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Facial nerve palsy is the most common neurologic finding, followed by meningitis, radiculopathy, other cranial nerve palsies, and mononeuritis multiplex. Encephalitis or encephalomyelitis may occur as an unusual complication of late disseminated Lyme disease, occurring months to years after acute infection, but this diagnosis is excluded by the negative serology."
+]
+}
+],
+"relatedSection":"mk19_a_id_s4_6",
+"objective":{
+"__html":"Diagnose Powassan virus encephalitis."
+},
+"references":[
+[
+"Krow-Lucal ER, Lindsey NP, Fischer M, et al. Powassan virus disease in the United States, 2006-2016. Vector Borne Zoonotic Dis. 2018;18:286-290. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29652642",
+"target":"_blank"
+},
+"children":[
+"PMID: 29652642"
+]
+},
+" doi:10.1089/vbz.2017.2239"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":20,
+"C":18,
+"D":45,
+"E":0
+},
+"hlIds":[
+"591199",
+"98a2d5",
+"52bae8",
+"6fb856",
+"413696",
+"2a5282",
+"b997f9",
+"abf90c",
+"e8aa1c",
+"e05c3c"
+]
+}

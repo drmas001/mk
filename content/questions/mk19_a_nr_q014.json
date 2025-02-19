@@ -1,0 +1,194 @@
+{
+"id":"mk19_a_nr_q014",
+"number":14,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb6608",
+"children":[
+"A 47-year-old man is evaluated in the emergency department for a prolonged seizure. According to the family, the initial seizure lasted for 3 minutes and stopped, but the patient did not regain consciousness and a second generalized tonic-clonic seizure started within 5 minutes and has continued. The patient received 4 mg intravenous lorazepam in the ambulance on the way to the hospital. In the emergency department, the seizure continues and he receives an additional 4 mg of intravenous lorazepam followed by another 2 mg 10 minutes later without benefit. The patient has a history of generalized tonic-clonic seizures treated with levetiracetam."
+]
+},
+{
+"type":"p",
+"hlId":"9220db",
+"children":[
+"On physical examination, blood pressure is 147/92 mm Hg, pulse rate is 122/min, and respiration rate is 18/min. Oxygen saturation with the patient breathing ambient air is 90%. Pupils are reactive. Clonic seizure activity persists."
+]
+},
+{
+"type":"p",
+"hlId":"23e3e5",
+"children":[
+"Twenty minutes have elapsed since admission to the emergency department. The patient is intubated, an intravenous line is placed, a blood specimen is obtained, and fingerstick glucose is obtained (126 mg/dL [7.0 mmol/L])."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Head CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Immediate continuous electroencephalography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous fosphenytoin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rectal administration of diazepam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4aa431",
+"children":[
+"Convulsive status epilepticus is a medical emergency and empiric therapy is indicated without awaiting diagnostic studies that would delay treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a1d5ff",
+"children":[
+"First-line therapy for convulsive status epilepticus is intravenous lorazepam; second-line therapy is intravenous fosphenytoin, valproic acid, or levetiracetam."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"009a2b",
+"children":[
+"The most appropriate management is to administer intravenous fosphenytoin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patients meets the clinical criteria for convulsive status epilepticus (CSE), defined as a generalized tonic-clonic seizure lasting greater than 5 minutes, or two generalized tonic-clonic seizures occurring within 5 minutes of each other and without a return to baseline mental status. CSE is a medical emergency. Empiric therapy is indicated without awaiting results of electroencephalography (EEG), imaging, serum studies, or lumbar puncture because a longer duration of CSE is strongly linked to worse outcomes. Securing the airway and obtaining intravenous access are the first steps in CSE management. If point-of-care glucose testing is not available, thiamine should be given, followed by intravenous glucose. This patient has failed first-line therapy of intravenous lorazepam. Intravenous fosphenytoin is indicated for second-line therapy. Fosphenytoin can cause acute bradycardia and hypotension. Intravenous valproic acid or levetiracetam are reasonable alternatives, provided that he is not already taking maximum doses of levetiracetam at home. Fosphenytoin, valproate, and levetiracetam have similar efficacy as second-line agents."
+]
+},
+{
+"type":"p",
+"hlId":"404389",
+"children":[
+"A head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be considered acutely in the emergency department, especially if an obvious cause of seizure is not found. However, obtaining a head CT should not delay rapid intravenous treatment for CSE."
+]
+},
+{
+"type":"p",
+"hlId":"2beb8a",
+"children":[
+"Immediate continuous EEG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated at this point, because the diagnosis can be confirmed clinically, and the delay in treatment would increase this patient's morbidity and mortality."
+]
+},
+{
+"type":"p",
+"hlId":"1d2b78",
+"children":[
+"Rectal administration of diazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a reasonable option for CSE and is used frequently in the home or in an ambulance. However, this patient has intravenous access, which provides more rapid and predictable absorption."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_7_1",
+"objective":{
+"__html":"Treat convulsive status epilepticus with a second-line therapy."
+},
+"references":[
+[
+"Glauser T, Shinnar S, Gloss D, et al. Evidence-Based Guideline: Treatment of Convulsive Status Epilepticus in Children and Adults: Report of the Guideline Committee of the American Epilepsy Society. Epilepsy Curr. 2016 Jan-Feb;16:48-61. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26900382",
+"target":"_blank"
+},
+"children":[
+"PMID: 26900382"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":4,
+"C":79,
+"D":1,
+"E":0
+},
+"hlIds":[
+"bb6608",
+"9220db",
+"23e3e5",
+"1e31fb",
+"4aa431",
+"a1d5ff",
+"009a2b",
+"404389",
+"2beb8a",
+"1d2b78"
+]
+}

@@ -1,0 +1,252 @@
+{
+"id":"mk19_a_id_q097",
+"number":97,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 97",
+"stimulus":[
+{
+"type":"p",
+"hlId":"56cb81",
+"children":[
+"A 62-year-old man in the ICU is evaluated for fever and chills. He underwent a subtotal colectomy for stage III adenocarcinoma of the descending colon 8 days ago; 6 days ago, hospital-acquired pneumonia was diagnosed and piperacillin-tazobactam was initiated; the patient was moved to the ICU. He was improving but developed increasing fever and hypotension 2 days ago. Repeat blood cultures were obtained, a subclavian catheter was removed, and the tip was cultured."
+]
+},
+{
+"type":"p",
+"hlId":"67ea5d",
+"children":[
+"On physical examination today, temperature is 39.5 °C (103.1 °F), blood pressure is 115/60 mm Hg, pulse rate is 108/min, and respiration rate is 26/min. Crackles are present at the lung bases bilaterally. The surgical wound is healing and nontender, and bowel sounds are present. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ad97eb",
+"children":[
+"Blood culture and catheter tip culture from 48 hours ago show budding yeast."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e0e538",
+"children":[
+"Which of the following is the most likely cause of the patient's findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Blastomyces dermatitidis</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Candida albicans</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Cryptococcus neoformans</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Histoplasma capsulatum</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f799e7",
+"children":[
+"Commonly encountered risk factors for candidemia include central venous or hemodialysis-associated catheters, gastrointestinal surgery, and broad-spectrum antimicrobial agents."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f3674e",
+"children":[
+"The T2 magnetic resonance assay of whole blood and the β-D-glucan assay for invasive candidiasis should be obtained when a patient at high risk receiving antimicrobial agents is not responding to therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d01ba7",
+"children":[
+"The most likely cause of this patient's findings would be ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida albicans"
+]
+},
+" infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The presence of yeast cells in the blood and on the catheter indicates candidemia. Commonly encountered risk factors for candidemia include central venous or hemodialysis-associated catheters, gastrointestinal surgery, broad-spectrum antimicrobial agents, ICU stay or mechanical ventilation for more than 3 days, transplantation, and neutropenia. Only 40% to 60% of patients have positive blood culture results. The T2 magnetic resonance assay of whole blood provides rapid diagnosis of culture-negative invasive candidal infections. The β-D-glucan assay can be used also to diagnose invasive candidiasis in patients with negative blood culture results. These assays should be obtained when a patient at high risk receiving antimicrobial agents is not responding to therapy."
+]
+},
+{
+"type":"p",
+"hlId":"d2bf51",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Blastomyces dermatitidis"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is rarely seen in the bloodstream unless it is associated with infection in a severely immunosuppressed person, such as a stem cell or solid organ transplant recipient. Infection occurs by inhalation of conidia and manifests initially as a primary pulmonary infection (acute or chronic pneumonia). It is not associated with catheter-related infections."
+]
+},
+{
+"type":"p",
+"hlId":"1aacc0",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cryptococcus neoformans"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an encapsulated yeast that may be seen in the bloodstream. Although cryptococcal infection can occur in healthy persons, most infected patients have advanced immune suppression. Cryptococcal infection most commonly manifests as central nervous system infection. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C"
+]
+},
+". ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"neoformans"
+]
+},
+" is not associated with catheter-associated infections."
+]
+},
+{
+"type":"p",
+"hlId":"a21c29",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not associated with hospital-acquired infections. It is acquired by inhalation and primarily produces an asymptomatic pulmonary infection. When it is found in the bloodstream, patients are often immunosuppressed or of advanced age. The symptoms of disseminated histoplasmosis may include lymphadenopathy, hepatosplenomegaly, skin and mucosal lesions, and central nervous system symptoms."
+]
+}
+],
+"relatedSection":"mk19_a_id_s8_1",
+"objective":{
+"__html":"Diagnose a patient with candidemia."
+},
+"references":[
+[
+"Pappas PG, Kauffman CA, Andes DR, et al. Executive summary: clinical practice guideline for the management of candidiasis: 2016 update by the Infectious Diseases Society of America. Clin Infect Dis. 2016;62:409-17. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26810419",
+"target":"_blank"
+},
+"children":[
+"PMID: 26810419"
+]
+},
+" doi:10.1093/cid/civ1194"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":83,
+"C":5,
+"D":0,
+"E":0
+},
+"hlIds":[
+"56cb81",
+"67ea5d",
+"ad97eb",
+"e0e538",
+"f799e7",
+"f3674e",
+"d01ba7",
+"d2bf51",
+"1aacc0",
+"a21c29"
+]
+}

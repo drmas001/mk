@@ -1,0 +1,188 @@
+{
+"id":"mk19_b_cv_q033",
+"number":33,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8d1400",
+"children":[
+"A 68-year-old man is evaluated 1 month after atherectomy and stenting of the right superficial femoral artery for severe claudication. Since the procedure, he can walk and perform all of his customary activities without claudication. Medical history is significant for hypertension, hyperlipidemia, and coronary artery disease. He exercises 150 minutes weekly and consumes a heart-healthy diet. He quit smoking 15 years ago. Medications are low-dose aspirin, low-dose rivaroxaban, metoprolol, ramipril, and high-intensity rosuvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"9c8cf9",
+"children":[
+"On physical examination, blood pressure is 124/70 mm Hg. The remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"76f1a8",
+"children":[
+"Laboratory studies reveal a serum total cholesterol level of 120 mg/dL (3.1 mmol/L), serum LDL cholesterol level of 50 mg/dL (1.3 mmol/L), and serum HDL cholesterol level of 48 mg/dL (1.2 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cilostazol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Evolocumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ticagrelor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bac727",
+"hvc":true,
+"children":[
+"Guideline-directed medical therapy for peripheral artery disease includes exercise; an antiplatelet agent; and aggressive management of atherosclerotic risk factors, including smoking, hypertension, diabetes mellitus, and dyslipidemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4ac1bd",
+"children":[
+"This patient requires no additional treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with peripheral artery disease (PAD) are less likely to receive guideline-directed medical therapy than are patients with other forms of cardiovascular disease, including coronary artery disease. Antiplatelet therapy with aspirin alone (75-325 mg/d) or clopidogrel alone (75 mg/d) is recommended to reduce myocardial infarction (MI), stroke, and vascular death in patients with symptomatic PAD. Treatment with a statin is indicated for all patients with PAD. Antihypertensive therapy should be administered to patients with hypertension and PAD to reduce the risk for MI, stroke, heart failure, and cardiovascular death. Patients with PAD who smoke cigarettes or use other forms of tobacco should be advised at every visit to quit. Although not guideline recommended, the combination of low-dose rivaroxaban plus low-dose aspirin in patients with PAD may reduce cardiovascular death, MI, or stroke compared with aspirin alone. This patient is receiving appropriate management for PAD, and no additional treatment is recommended at this time."
+]
+},
+{
+"type":"p",
+"hlId":"ff8b08",
+"children":[
+"Cilostazol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is recommended for patients with PAD and intermittent claudication to improve symptoms and maximal walking distance; however, cilostazol has no impact on mortality, MI, or stroke. Furthermore, this patient is symptom-free and therefore has no indication for cilostazol."
+]
+},
+{
+"type":"p",
+"hlId":"e7315e",
+"children":[
+"Evolocumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitor. Treatment with PCSK9 inhibitors produces a 50% to 60% reduction in LDL cholesterol. The American College of Cardiology and American Heart Association guidelines suggest an LDL cholesterol target of less than 70 mg/dL (1.8 mmol/L) for patients at very high risk for future atherosclerotic cardiovascular events. However, this patient has an LDL cholesterol level of 50 mg/dL (1.3 mmol/L) while being treated with rosuvastatin; treatment with evolocumab is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"abef7d",
+"children":[
+"Ticagrelor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") currently does not have an indication for use in patients with PAD. In the EUCLID study of 13,885 patients with lower extremity PAD, monotherapy with ticagrelor had very similar effectiveness and safety outcomes to clopidogrel. The use of ticagrelor in this setting, when added to aspirin, has not been shown to decrease cardiovascular risk."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_4",
+"objective":{
+"__html":"Treat peripheral artery disease with guideline-directed medical therapy."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2017;69:1465-1508. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27851991",
+"target":"_blank"
+},
+"children":[
+"PMID: 27851991"
+]
+},
+" doi:10.1016/j.jacc.2016.11.008"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":8,
+"B":2,
+"C":11,
+"D":79,
+"E":0
+},
+"hlIds":[
+"8d1400",
+"9c8cf9",
+"76f1a8",
+"78ff87",
+"bac727",
+"4ac1bd",
+"ff8b08",
+"e7315e",
+"abef7d"
+]
+}

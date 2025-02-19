@@ -1,0 +1,416 @@
+{
+"id":"mk19_a_np_q027",
+"number":27,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c2436d",
+"children":[
+"A 43-year-old man is evaluated during a follow-up visit for a recent biopsy-confirmed diagnosis of IgA nephropathy. He is asymptomatic. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"96790f",
+"class":"cell text l",
+"children":[
+"4.0 g/dL (40 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9db8fb",
+"class":"cell text l",
+"children":[
+"0.95 mg/dL (84 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"98ac4a",
+"class":"cell text l",
+"children":[
+"3+ blood; 2+ protein"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b01639",
+"class":"cell text l",
+"children":[
+"24-Hour urine protein excretion"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fd7572",
+"class":"cell text l",
+"children":[
+"725 mg/24 h"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lisinopril"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Omega-3 fatty acids"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0aa465",
+"children":[
+"First-line therapy for IgA nephropathy is either an ACE inhibitor or an angiotensin receptor blocker."
+]
+},
+{
+"type":"keypoint",
+"hlId":"91cfa6",
+"children":[
+"Treatment of IgA nephropathy with high-dose glucocorticoids is associated with an increased risk for adverse events and may not improve kidney function."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"001cf5",
+"children":[
+"First-line therapy for IgA nephropathy (IgAN) is initiation of antiproteinuric therapy with blockade of the renin-angiotensin system using either an ACE inhibitor, such as lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), or an angiotensin receptor blocker (ARB) and is the most appropriate management for this patient. In patients with proteinuria, treatment with ACE inhibitors or ARBs lowers intraglomerular pressure resulting in decreased protein excretion and often slows the rate of declining kidney function. Acute decline in glomerular filtration rate and hyperkalemia are well-recognized potential adverse effects of these drugs, mandating monitoring of serum creatinine and potassium levels. Antiproteinuric therapy is usually coupled with lipid-lowering therapy and fish oil, although the efficacy of the latter two as specific IgAN therapies is unproven."
+]
+},
+{
+"type":"p",
+"hlId":"6afb63",
+"children":[
+"Mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is reserved as a second- or third-line therapy for patients with IgAN who decline despite glucocorticoid or other immunosuppression. This treatment has only shown benefit in patients of Asian descent."
+]
+},
+{
+"type":"p",
+"hlId":"608e3c",
+"children":[
+"Despite its purported anti-inflammatory properties, the benefit of treating IgAN with omega-3 fatty acids (fish oil) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unclear. Because of its safety, it can be used in conjunction with other therapies but should not be the exclusive treatment of IgAN."
+]
+},
+{
+"type":"p",
+"hlId":"19ade3",
+"children":[
+"Immunosuppressive therapy, such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), would not be used for this patient. Although two thirds of patients with IgAN will have progressive loss of kidney function, the use of immunosuppressive therapy remains controversial. Small studies have shown that a 6-month course of prednisone reduces proteinuria and slows decline in glomerular filtration rate in patients with IgAN and >1000 mg/24 h proteinuria despite maximal therapy with an ACE inhibitor or ARB. However, two large randomized controlled trials (STOP-IgAN and TESTING) called into question this management. The STOP-IgAN study showed no difference in changes in kidney function between those patients with IgAN treated with or without immunosuppression over a 3-year period. The TESTING study was terminated early due to significantly higher rates of adverse events in patients with IgAN who were treated with prednisone. As a result, treatment efficacy could not be determined. Because this patient has not yet been treated with an ACE inhibitor or ARB, consideration of immunosuppressive therapy with prednisone is premature."
+]
+}
+],
+"relatedSection":"mk19_a_np_s6_4_4_1_4",
+"objective":{
+"__html":"Treat IgA nephropathy with blockade of the renin-angiotensin system."
+},
+"references":[
+[
+"Barratt J, Tang SCW. Treatment of IgA nephropathy: evolution over half a century. Semin Nephrol. 2018;38:531-540. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30177025",
+"target":"_blank"
+},
+"children":[
+"PMID: 30177025"
+]
+},
+" doi:10.1016/j.semnephrol.2018.05.023"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":66,
+"B":6,
+"C":6,
+"D":23,
+"E":0
+},
+"hlIds":[
+"c2436d",
+"f8786b",
+"a462a3",
+"4590ed",
+"96790f",
+"f461b2",
+"9db8fb",
+"747c2a",
+"98ac4a",
+"b01639",
+"fd7572",
+"cb2b54",
+"0aa465",
+"91cfa6",
+"001cf5",
+"6afb63",
+"608e3c",
+"19ade3"
+]
+}

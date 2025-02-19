@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_pm_q036",
+"number":36,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"8ac262",
+"children":[
+"A 63-year-old woman is evaluated at a follow-up visit for a solitary pulmonary nodule. Six months ago CT angiography (CTA) was performed to evaluate a possible pulmonary embolism. The CTA was negative but demonstrated an 8-mm ground-glass (subsolid) nodule in the left upper lobe. The patient has a 15-pack-year history of cigarette smoking but stopped 6 months ago. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"7e22f9",
+"children":[
+"On physical examination, vital signs and other examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"37a604",
+"children":[
+"A repeat chest CT scan 6 months after the initial scan shows no change in the size or characteristics of the nodule."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest CT every 2 years for 5 years"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest CT in 12 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fluorodeoxyglucose PET"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"81236d",
+"hvc":true,
+"children":[
+"An incidentally found ground-glass (subsolid) pulmonary nodule 6 mm or larger necessitates follow-up chest CT at 6 to 12 months; if it persists but is unchanged in size, CT should be repeated at 2-year intervals for 5 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ae68ac",
+"children":[
+"The most appropriate management is chest CT every 2 years for 5 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient has an indeterminate pulmonary nodule and requires further follow-up evaluation. Pulmonary nodules can be classified as solid or subsolid. The subsolid nodule classification is further subdivided into pure ground-glass nodules and part-solid nodules. The evaluation of pure ground-glass nodules is informed primarily by nodule size. An incidentally found ground-glass nodule of 6 mm or larger necessitates follow-up chest CT at 6 to 12 months. If the nodule persists but is unchanged in size, as in this patient, chest CT should be repeated at 2-year intervals for 5 years. Earlier follow-up is unlikely to affect the outcome of these characteristically indolent lesions. Studies have shown that an average of 3 to 4 years is typically required to establish growth or, less commonly, to diagnose a developing invasive carcinoma. Many ground-glass nodules resolve spontaneously because they can also be from infectious or inflammatory causes. If the nodule resolves, no further follow-up is needed. If the nodule grows or develops a solid component, biopsy or resection is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"28dd62",
+"children":[
+"Ground-glass nodules are associated with more indolent histologic lesions (e.g., adenocarcinoma in situ and minimally invasive adenocarcinoma), which require longer follow-up to determine whether they are benign. Thus, it is not appropriate to perform follow-up CT at 12 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") with no further testing if the scan is normal."
+]
+},
+{
+"type":"p",
+"hlId":"93ef86",
+"children":[
+"The indolence of ground-glass nodules and their very low metabolic activity also makes fluorodeoxyglucose PET less useful (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"); PET scans in this setting can show false-positive results."
+]
+},
+{
+"type":"p",
+"hlId":"434b64",
+"children":[
+"Resection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be recommended at this point because it would subject the patient to a surgery that may be unnecessary given the indeterminate nature of the nodule."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_1_3",
+"objective":{
+"__html":"Evaluate an 8-mm ground-glass (subsolid) pulmonary nodule with serial CT scans."
+},
+"references":[
+[
+"MacMahon H, Naidich DP, Goo JM, et al. Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017. Radiology. 2017;284:228-243. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28240562",
+"target":"_blank"
+},
+"children":[
+"PMID: 28240562"
+]
+},
+" doi:10.1148/radiol.2017161659"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":23,
+"B":71,
+"C":3,
+"D":2,
+"E":0
+},
+"hlIds":[
+"91054a",
+"8ac262",
+"7e22f9",
+"37a604",
+"cb2b54",
+"81236d",
+"ae68ac",
+"28dd62",
+"93ef86",
+"434b64"
+]
+}

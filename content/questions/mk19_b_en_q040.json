@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_en_q040",
+"number":40,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1100d2",
+"children":[
+"A 28-year-old woman is evaluated following a positive pregnancy test. She has polycystic ovary syndrome, and her mother has diabetes mellitus. She takes no medications, except for a prenatal vitamin."
+]
+},
+{
+"type":"p",
+"hlId":"74a16f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"305e45",
+"children":[
+"Which of the following is the most appropriate diabetes mellitus screening strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Screen at 24 to 28 weeks' gestation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Screen now; if negative, rescreen at 24 to 28 weeks' gestation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Screen now and only once"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Self-monitoring of blood glucose"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"18f653",
+"children":[
+"Pregnant women with risk factors for type 2 diabetes mellitus should be screened at the time of their positive pregnancy test using standard screening tests."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6393bd",
+"children":[
+"Pregnant women with risk factors for type 2 diabetes mellitus who have a negative screening test at the time of their positive pregnancy test should be rescreened between 24 and 28 weeks' gestation using an oral glucose tolerance test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ad5478",
+"children":[
+"This patient should be screened now for preexisting diabetes mellitus and again at 24 to 28 weeks' gestation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for gestational diabetes if the first test is negative. Gestational diabetes is defined as hyperglycemia during the second or third trimester in women without a prepregnancy diagnosis of type 1 or type 2 diabetes. Undiagnosed preexisting diabetes in patients who are pregnant is often first noticed during pregnancy; however, this diagnosis is not gestational diabetes. It is reasonable to test women with risk factors for diabetes at the time of a positive pregnancy test using standard diagnostic criteria, which includes measurement of hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" and fasting blood glucose or an oral glucose tolerance test (OGTT). Hyperglycemia identified during the first trimester is classified as type 2 diabetes rather than gestational diabetes. Women who do not meet diagnostic criteria for diabetes on the original assessment should be re-screened between 24 and 28 weeks' gestation using an OGTT (either one-step or two-step strategy)."
+]
+},
+{
+"type":"p",
+"hlId":"4b7c81",
+"children":[
+"This patient has several risk factors, including overweight and family history of diabetes, and thus should be screened now in addition to the standard screening between 24 and 28 weeks' gestation if the original screening is negative."
+]
+},
+{
+"type":"p",
+"hlId":"4e306f",
+"children":[
+"It is important to diagnose and manage diabetes in pregnancy because adverse maternal and neonatal outcomes related to diabetes increase with worsening hyperglycemia. Complications include macrosomia, labor and delivery complications, preeclampsia, fetal defects, neonatal hypoglycemia, spontaneous abortion, and intrauterine fetal demise."
+]
+},
+{
+"type":"p",
+"hlId":"e3e4b3",
+"children":[
+"Performing standard screening for gestational diabetes with the OGTT only at 24 to 28 weeks' gestation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would miss the opportunity to diagnose preexisting diabetes."
+]
+},
+{
+"type":"p",
+"hlId":"2127d7",
+"children":[
+"Screening now and only once (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would miss the opportunity to diagnose gestational diabetes if this screening test is negative."
+]
+},
+{
+"type":"p",
+"hlId":"6d543c",
+"children":[
+"Self-monitoring of blood glucose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") does not have a role in the diagnosis of diabetes. This patient does not have known diabetes, either preexisting or gestational, and should be screened with the standard methods."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_3_3",
+"objective":{
+"__html":"Diagnose diabetes mellitus in pregnancy."
+},
+"references":[
+[
+"American Diabetes Association. 2. Classification and diagnosis of diabetes: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S15-S33. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298413",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298413"
+]
+},
+" doi:10.2337/dc21-S002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":83,
+"C":2,
+"D":3,
+"E":0
+},
+"hlIds":[
+"1100d2",
+"74a16f",
+"305e45",
+"18f653",
+"6393bd",
+"ad5478",
+"4b7c81",
+"4e306f",
+"e3e4b3",
+"2127d7",
+"6d543c"
+]
+}

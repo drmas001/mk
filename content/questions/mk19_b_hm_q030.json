@@ -1,0 +1,269 @@
+{
+"id":"mk19_b_hm_q030",
+"number":30,
+"bookId":"hm",
+"correctAnswer":"B",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c09ff6",
+"children":[
+"A 70-year-old man is hospitalized with a 3-day history of acute abdominal pain and nausea and vomiting. Medical and family histories are noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c3a78c",
+"children":[
+"On physical examination, vital signs are normal. Palpation elicits mild tenderness in the upper abdomen, without hepatosplenomegaly or abdominal mass."
+]
+},
+{
+"type":"p",
+"hlId":"78d34f",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 14.5 g/dL (145 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 5000/μL (5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 250,000/μL (250 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"505b9f",
+"children":[
+"CT of the abdomen with contrast demonstrates an acute portal vein thrombosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9b6425",
+"children":[
+"Which of the following is the most appropriate additional diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antithrombin measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>JAK2</i> tyrosine kinase mutation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Protein C measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Protein S measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ad204",
+"children":[
+"In patients with splanchnic vein thrombosis (portal vein, splenic vein, hepatic vein, or mesenteric vein thrombosis), evaluation for evidence of a myeloproliferative neoplasm should be considered, including evaluation for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" tyrosine kinase mutation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"626645",
+"children":[
+"Evidence of a myeloproliferative neoplasm is discovered in approximately 50% of patients with Budd-Chiari syndrome, even when the complete blood count is normal."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e75561",
+"children":[
+"This patient should be tested for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" tyrosine kinase mutation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients with myeloproliferative neoplasms (MPNs) have an increased risk of thrombosis. These thromboses can occur in the venous or arterial system. Although venous thromboembolism (VTE) usually includes pulmonary embolism and deep venous thrombosis, portal vein thrombosis or Budd-Chiari syndrome (hepatic venous outflow obstruction) can also occur. Causes of Budd-Chiari syndrome may include hypercoagulable states such as a myeloproliferative neoplasm, pregnancy, oral contraceptive use, inflammatory bowel disease, or inherited thrombophilias. Underlying malignancy, especially hepatocellular carcinoma, must be considered. Typical symptoms of Budd-Chiari syndrome include hepatomegaly, ascites, and right-upper-quadrant abdominal pain. Budd-Chiari syndrome is typically diagnosed by ultrasound with Doppler, CT, or MRI in the appropriate clinical setting. Approximately half of patients with Budd-Chiari syndrome are diagnosed with an MPN; therefore, patients with splanchnic vein thrombosis (portal vein, splenic vein, hepatic vein, or mesenteric vein thrombosis) should be evaluated for MPNs, including testing for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" tyrosine kinase mutation. Complete blood counts are not always abnormal with an underlying MPN, so this patient's normal blood profile would not exclude the presence of a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" tyrosine kinase mutation."
+]
+},
+{
+"type":"p",
+"hlId":"aab3d4",
+"children":[
+"Antithrombin III (ATIII) is a natural anticoagulant that inhibits thrombin and activated factors IX and X. Inherited ATIII deficiencies are rare, but acquired ATIII deficiencies are more common. Acquired deficiencies can occur during an acute thrombosis, so this patient's antithrombin level should not be evaluated at this time (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"4324a4",
+"children":[
+"Protein C and S deficiencies are thrombophilias that can be inherited or acquired. Patients with protein C or S deficiency most commonly present at a young age (<50 years) with VTE, rather than arterial thrombosis, and often have a strong family history of thrombosis. The absence of a strong family history of thrombosis and the patient's age significantly reduce the probability of protein C or S deficiency. Additionally, protein C and S measurement during an acute thrombotic event can return falsely reduced levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+"). For these reasons, testing should not be performed in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_3_5",
+"objective":{
+"__html":"Evaluate a patient with splanchnic vein thrombosis for <i>JAK2</i> tyrosine kinase mutation."
+},
+"references":[
+[
+"Dentali F, Squizzato A, Brivio L, et al. JAK2V617F mutation for the early diagnosis of Ph- myeloproliferative neoplasms in patients with venous thromboembolism: A meta-analysis. Blood. 2009;113:5617-23. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/19273837",
+"target":"_blank"
+},
+"children":[
+"PMID: 19273837"
+]
+},
+" doi:10.1182/blood-2008-12-196014"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":59,
+"C":13,
+"D":1,
+"E":0
+},
+"hlIds":[
+"c09ff6",
+"c3a78c",
+"78d34f",
+"505b9f",
+"9b6425",
+"2ad204",
+"626645",
+"e75561",
+"aab3d4",
+"4324a4"
+]
+}

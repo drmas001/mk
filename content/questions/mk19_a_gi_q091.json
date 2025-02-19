@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_gi_q091",
+"number":91,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 91",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb7924",
+"children":[
+"A 56-year-old woman is evaluated for a 3-month history of watery, nonbloody diarrhea that occurs four times daily, usually after meals. Abdominal cramping precedes each bowel movement. She occasionally experiences rectal urgency. She has not lost weight. She also has osteoarthritis of the knees, self-treated with daily ibuprofen for the past 5 years."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"c3833a",
+"children":[
+"Colonoscopy reveals a normal-appearing colon. Biopsy specimens of normal-appearing ascending and sigmoid colon are notable for a marked increase in intraepithelial lymphocytes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Check fecal calprotectin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue ibuprofen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate oral budesonide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate oral prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0ecfb5",
+"hvc":true,
+"children":[
+"Microscopic colitis can be idiopathic, but medications, including NSAIDs, proton pump inhibitors, and selective serotonin reuptake inhibitors, have been associated with its development."
+]
+},
+{
+"type":"keypoint",
+"hlId":"64813b",
+"hvc":true,
+"children":[
+"Treatment of microscopic colitis starts with discontinuation of potentially causative medications, symptomatic treatment with loperamide, and possibly progression to oral budesonide."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4616e4",
+"children":[
+"The most appropriate management is discontinuation of ibuprofen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The histologic finding of marked intraepithelial lymphocytosis in the context of a normal-appearing colon is compatible with lymphocytic colitis, a form of microscopic colitis. This form of inflammatory bowel disease comes in two predominant forms: lymphocytic colitis and collagenous colitis. The condition mostly affects middle-aged women and is characterized by abrupt or gradual onset of watery diarrhea that has a relapsing-remitting course over months to years, sometimes accompanied by weight loss and abdominal pain. Microscopic colitis can be idiopathic, but medications, including NSAIDs, proton pump inhibitors, and selective serotonin reuptake inhibitors, have been associated with its development. Management of microscopic colitis starts with discontinuation of potentially causative medications, in this case ibuprofen. This patient could be advised to substitute acetaminophen or, if that drug is not effective, a trial of topical NSAIDs; gastrointestinal toxicity is much lower with topical NSAIDs because of reduced systemic absorption."
+]
+},
+{
+"type":"p",
+"hlId":"fed2d2",
+"children":[
+"Fecal calprotectin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be of diagnostic utility in evaluating chronic diarrhea; an elevated level suggests colonic inflammation and warrants further investigation, such as colonoscopy. However, fecal calprotectin is not of diagnostic value in this case, for which colonoscopy has already established a diagnosis of microscopic colitis."
+]
+},
+{
+"type":"p",
+"hlId":"63e4cb",
+"children":[
+"Oral budesonide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a glucocorticoid with extensive first-pass metabolism by the liver, is effective in the treatment of microscopic colitis. However, it is reserved for patients whose symptoms do not improve after other measures, such as cessation of associated medications (in this case ibuprofen) or symptomatic treatment with loperamide."
+]
+},
+{
+"type":"p",
+"hlId":"dba4ff",
+"children":[
+"Oral prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be used as induction therapy in patients with other forms of inflammatory bowel disease (ulcerative colitis and Crohn disease), but these diagnoses are not supported by the patient's lack of endoscopically visible colonic abnormalities, such as ulcers, edema, or erythema. In addition, prednisone should not be used as first-line treatment of microscopic colitis because of its adverse effects."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_1_4",
+"objective":{
+"__html":"Treat microscopic colitis."
+},
+"references":[
+[
+"Pardi DS. Diagnosis and management of microscopic colitis. Am J Gastroenterol. 2017;112:78-85. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27897155",
+"target":"_blank"
+},
+"children":[
+"PMID: 27897155"
+]
+},
+" doi:10.1038/ajg.2016.477"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":21,
+"B":50,
+"C":24,
+"D":4,
+"E":0
+},
+"hlIds":[
+"bb7924",
+"f78abf",
+"c3833a",
+"cb2b54",
+"0ecfb5",
+"64813b",
+"4616e4",
+"fed2d2",
+"63e4cb",
+"dba4ff"
+]
+}

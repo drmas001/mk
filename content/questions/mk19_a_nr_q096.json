@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_nr_q096",
+"number":96,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"17bfc1",
+"children":[
+"A 48-year-old woman is evaluated for a 3-month history of repeated rapid and jerky movements on the left side of her face. The movements are painless, and she does not experience any unusual sensation or urge before them. She cannot suppress the movements. She reports no history of involuntary movements or exposure to psychoactive medications."
+]
+},
+{
+"type":"p",
+"hlId":"afb8b7",
+"children":[
+"On physical examination, vital signs are normal. She exhibits fast and synchronous contraction of the muscles of facial expression that repeat at irregular intervals. On the left side, during each contraction the eye is closed, the eyebrow is raised, and the corner of the mouth is pulled. There is no facial weakness or sensory loss. The rest of the neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"37c9f4",
+"children":[
+"MRI of the brain reveals focal compression of left cranial nerve VII at its exit zone from the brainstem."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chorea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dystonia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myoclonus"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stereotypy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Tic"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c78a8",
+"children":[
+"Myoclonus is characterized by brief, shock-like, and jerky contractions that may originate from any part of the nervous system."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fbf516",
+"children":[
+"Dystonia can be differentiated from myoclonus on the basis of slow and sustained muscle contractions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6e09d5",
+"children":[
+"The most likely diagnosis is myoclonus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient exhibits focal myoclonus of the left side of the face, also known as hemifacial spasm. Myoclonus is characterized by brief, shock-like, and jerky contractions that may originate from any part of the nervous system, including the cortex, subcortical structures, spine, or peripheral nerves. Myoclonus can be physiologic (hiccups, hypnic jerks at sleep onset) or pathologic (caused by medications, toxins, or systemic or central disease). Hemifacial spasm is often caused by vascular compression of cranial nerve VII (facial nerve) at its exit zone from the brainstem. Irritation of the facial nerve leads to synchronous activation of the muscles of facial expression that are innervated by this nerve. This condition can be treated with carbamazepine, botulinum toxin injections, and vascular decompression surgery."
+]
+},
+{
+"type":"p",
+"hlId":"025c47",
+"children":[
+"Chorea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") consists of random, nonrepetitive, and flowing movements. This patient's rapid, jerky, synchronous, and uniform movements are inconsistent with chorea."
+]
+},
+{
+"type":"p",
+"hlId":"4f581d",
+"children":[
+"Dystonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be differentiated from myoclonus on the basis of slow and sustained muscle contractions. Focal dystonia can affect periorbital muscles (blepharospasm, usually bilateral) or lower facial muscles (oromandibular dystonia). This patient has rapid, brief facial movements that are not characteristic of dystonia."
+]
+},
+{
+"type":"p",
+"hlId":"22b37b",
+"children":[
+"Stereotypy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is associated with complex, coordinated, and ritualistic movements that are repeated in prolonged cycles. It is often associated with developmental delay and neurometabolic syndromes. Thus, stereotypy is an unlikely diagnosis in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"ea5da1",
+"children":[
+"Like myoclonus, tics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can be fast and twitchy. However, tics are often associated with an early age of onset (during childhood), presence of premonitory urges, and suppressibility, which are absent in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_3_4",
+"objective":{
+"__html":"Diagnose facial myoclonus."
+},
+"references":[
+[
+"Chaudhry N, Srivastava A, Joshi L. Hemifacial spasm: The past, present and future. J Neurol Sci. 2015;356:27-31. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26111430",
+"target":"_blank"
+},
+"children":[
+"PMID: 26111430"
+]
+},
+" doi:10.1016/j.jns.2015.06.032"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":19,
+"C":31,
+"D":5,
+"E":40
+},
+"hlIds":[
+"17bfc1",
+"afb8b7",
+"37c9f4",
+"413696",
+"3c78a8",
+"fbf516",
+"6e09d5",
+"025c47",
+"4f581d",
+"22b37b",
+"ea5da1"
+]
+}

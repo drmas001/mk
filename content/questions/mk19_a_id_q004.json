@@ -1,0 +1,348 @@
+{
+"id":"mk19_a_id_q004",
+"number":4,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a4f62e",
+"children":[
+"A 66-year-old woman is evaluated for increasing oxygen requirements over the past 18 hours. She developed hypercapnic respiratory failure requiring intubation 7 days ago following a colectomy for colon cancer. Suctioned sputum has become thicker. Medical history is significant for moderately severe COPD and right leg cellulitis, which was treated with cefazolin 1 month ago. Medications are albuterol, tiotropium bromide, and salmeterol-fluticasone inhalers."
+]
+},
+{
+"type":"p",
+"hlId":"1150d0",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.1 °F); other vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 90% on an F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 0.6 and positive end-expiratory pressure of 10 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. Pulmonary examination reveals scattered right-sided rhonchi."
+]
+},
+{
+"type":"p",
+"hlId":"acd09e",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 17,200/µL (17.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"19e23e",
+"children":[
+"Chest radiograph shows right lower lobe and right middle lobe infiltrates."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ceftazidime and vancomycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftazidime, ciprofloxacin, and vancomycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ertapenem"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Piperacillin-tazobactam and vancomycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"72be4e",
+"children":[
+"Empiric therapy for ventilator-associated pneumonia should include coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", and other gram-negative bacilli."
+]
+},
+{
+"type":"keypoint",
+"hlId":"393145",
+"children":[
+"Empiric treatment for antibiotic-resistant organisms is recommended for patients with ventilator-associated pneumonia who have risk factors for antibiotic resistance, including intravenous antibiotics within 90 days and more than 5 days in the hospital before diagnosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a40fee",
+"children":[
+"The most appropriate treatment for this patient is ceftazidime, ciprofloxacin, and vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Empiric therapy for ventilator-associated pneumonia (VAP) should include coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", and other gram-negative bacilli. Empiric coverage for antibiotic-resistant organisms is recommended for patients who have risk factors for antibiotic resistance (previous intravenous antibiotics within 90 days; septic shock at the time of VAP diagnosis; acute respiratory distress syndrome preceding VAP; 5 or more hospitalized days before VAP; or undergoing dialysis before VAP onset). This patient has risk factors for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MRSA) and antibiotic-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+", so two antipseudomonal agents from different antibiotic classes (such as a β-lactam and a fluoroquinolone) are indicated. Vancomycin would be included in the empiric regimen to cover MRSA. Microbiologic results should be reviewed as soon as they are available, and antibiotic therapy appropriately adjusted to the narrowest spectrum possible."
+]
+},
+{
+"type":"p",
+"hlId":"e2f129",
+"children":[
+"Ceftazidime and vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") provides only a single antipseudomonal agent; however, two antipseudomonal agents are needed for this patient's empiric regimen."
+]
+},
+{
+"type":"p",
+"hlId":"a64c33",
+"children":[
+"Ertapenem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a carbapenem with good gram-negative activity, but it has limited to no activity against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+". It also has no activity against MRSA."
+]
+},
+{
+"type":"p",
+"hlId":"c08237",
+"children":[
+"Piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provides empiric coverage for methicillin-sensitive ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+", and other gram-negative bacilli and would be appropriate for a patient without risk factors for antibiotic-resistant bacteria; however, the regimen lacks necessary dual antipseudomonal coverage needed for this patient."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_7_2",
+"objective":{
+"__html":"Treat ventilator-associated pneumonia in a patient with risk factors for antimicrobial-resistant pathogens."
+},
+"references":[
+[
+"Kalil AC, Metersky ML, Klompas M, et al. Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society. Clin Infect Dis. 2016;63(5):e61-e111. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27418577",
+"target":"_blank"
+},
+"children":[
+"PMID: 27418577"
+]
+},
+" doi:10.1093/cid/ciw353"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":24,
+"C":2,
+"D":58,
+"E":0
+},
+"hlIds":[
+"a4f62e",
+"1150d0",
+"acd09e",
+"19e23e",
+"1054f1",
+"72be4e",
+"393145",
+"a40fee",
+"e2f129",
+"a64c33",
+"c08237"
+]
+}

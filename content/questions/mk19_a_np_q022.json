@@ -1,0 +1,176 @@
+{
+"id":"mk19_a_np_q022",
+"number":22,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"ad9f4a",
+"children":[
+"A 42-year-old man is evaluated during a follow-up visit for recently confirmed primary hypertension. Hypertension was confirmed with multiple home blood pressure monitoring readings that averaged 148/98 mm Hg. Chlorthalidone was initiated 1 month ago, and home blood pressure monitoring showed readings above target despite adherence to lifestyle interventions and medication. He has no other medical problems and takes no other medication."
+]
+},
+{
+"type":"p",
+"hlId":"c78a1f",
+"children":[
+"On physical examination, blood pressure is 144/94 mm Hg, and pulse rate is 72/min; other vital signs are normal. BMI is 22. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"3b7f87",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.0 mg/dL (88.4 µmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"serum potassium"
+]
+},
+" level of 3.5 mEq/L (3.5 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amlodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Doxazosin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hydralazine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metoprolol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d5297a",
+"children":[
+"Except for the combination of ACE inhibitors and angiotensin receptor blockers (ARBs), regimens containing a combination of thiazide diuretics, calcium channel blockers, ACE inhibitors, and ARBs are preferred to achieve blood pressure goals in patients requiring dual antihypertensive therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b35c49",
+"children":[
+"The most appropriate additional treatment is amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In this patient, a blood pressure (BP) target <130/80 mm Hg is reasonable. Two or more antihypertensive medications are recommended to achieve a BP target of <130/80 mm Hg in most adults with hypertension. According to the American College of Cardiology/American Heart Association guideline, four drug classes (thiazide diuretics, CCBs, ACE inhibitors, or ARBs) lower BP and reduce cardiovascular or renal outcomes. Except for the combination of ACE inhibitors and ARBs, regimens containing a combination of these classes are reasonable to achieve the BP target."
+]
+},
+{
+"type":"p",
+"hlId":"f08097",
+"children":[
+"Doxazosin, hydralazine, and metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B-D"
+]
+},
+") are not recommended drugs for either initial therapy or as add-on therapy in patients with hypertension without the presence of compelling indications. Doxazosin might be considered in male patients with bothersome lower urinary symptoms due to benign prostatic hyperplasia; hydralazine and metoprolol in selected patients with heart failure; or metoprolol in patients with a recent myocardial infarction. None of these indications is present in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_7_2_3_4",
+"objective":{
+"__html":"Treat hypertension in a patient who is unresponsive to initial therapy."
+},
+"references":[
+[
+"Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018;71:e127-e248. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29146535",
+"target":"_blank"
+},
+"children":[
+"PMID: 29146535"
+]
+},
+" doi:10.1016/j.jacc.2017.11.006"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":87,
+"B":0,
+"C":6,
+"D":7,
+"E":0
+},
+"hlIds":[
+"91054a",
+"ad9f4a",
+"c78a1f",
+"3b7f87",
+"78ff87",
+"d5297a",
+"b35c49",
+"f08097"
+]
+}

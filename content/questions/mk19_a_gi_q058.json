@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_gi_q058",
+"number":58,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"585065",
+"children":[
+"A 58-year-old woman is evaluated for treatment of hepatitis C virus (HCV) infection. She has unresectable metastatic pancreatic adenocarcinoma. She requests treatment of her HCV infection."
+]
+},
+{
+"type":"p",
+"hlId":"3a252c",
+"children":[
+"On physical examination, vital signs are normal. She has jaundice, icterus, and cachexia."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"HCV antiviral treatment"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"HCV viral load measurement and genotyping"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Testing for hepatitis B virus and HIV infections"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further HCV-related testing or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2f8e39",
+"hvc":true,
+"children":[
+"All patients with chronic hepatitis C virus infection should be offered treatment regardless of fibrosis stage, except those who have a short life expectancy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"650ef3",
+"hvc":true,
+"children":[
+"When there is no evidence that the patient's requested diagnostic or therapeutic intervention will provide clinical benefit, physicians are not obligated to provide the service."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9f7cbc",
+"children":[
+"The most appropriate management is no further hepatitis C virus (HCV)–related testing or treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The 2018 guidelines suggest that all adults should be screened for HCV with an HCV antibody test. In patients positive for HCV antibody, a positive HCV RNA result indicates active infection. Acute hepatitis C virus infection refers to the first 6 months after initial infection. Because there is a 20% to 50% chance that infection will spontaneously resolve during this period, monitoring HCV RNA for at least 12 to 16 weeks before starting treatment is often recommended. All patients with chronic HCV infection should be treated regardless of fibrosis stage, except those who have a short life expectancy, such as this patient with metastatic pancreatic cancer. Because this patient will not benefit from treatment, it is most appropriate to provide no further testing or treatment."
+]
+},
+{
+"type":"p",
+"hlId":"ae2d98",
+"children":[
+"Patients may request specific diagnostic or therapeutic interventions that may be inappropriate. Examples include requests for antibiotic therapy for a suspected viral infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and aggressive chemotherapy in a debilitated patient with cancer. Although the physician needs to respect patient autonomy, this duty must be weighed against the potential harms of inappropriate interventions, possible secondary effects (e.g., antimicrobial resistance caused by inappropriate antibiotic prescribing), and responsible stewardship of medical resources. When there is no evidence that the desired diagnostic or therapeutic intervention will provide clinical benefit, physicians are not obligated to provide the service. Because this patient has a limited life expectancy, she should not be offered treatment for HCV."
+]
+},
+{
+"type":"p",
+"hlId":"e05b71",
+"children":[
+"The first step in the diagnosis of chronic HCV infection is HCV antibody testing and, if the result is positive, HCV RNA quantification. Patients with positive HCV antibody and RNA test results have active infection, and a genotype test should be performed to guide selection of antiviral therapy. Because this patient will not benefit from treatment, additional testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"c64982",
+"children":[
+"All patients infected with HCV should be tested for hepatitis B virus (HBV) and HIV infections (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because of the potential shared routes of transmission. HBV reactivation can be seen during treatment of HCV infection with direct-acting antiviral therapy. This testing is not necessary in this patient with a limited life expectancy."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_2_3",
+"objective":{
+"__html":"Manage hepatitis C virus infection in a patient with short life expectancy."
+},
+"references":[
+[
+"AASLD-IDSA HCV Guidance Panel. Hepatitis C guidance 2018 update: AASLD-IDSA recommendations for testing, managing, and treating hepatitis C virus infection. Clin Infect Dis. 2018;67:1477-1492. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30215672",
+"target":"_blank"
+},
+"children":[
+"PMID: 30215672"
+]
+},
+" doi:10.1093/cid/ciy585"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":12,
+"C":11,
+"D":75,
+"E":0
+},
+"hlIds":[
+"585065",
+"3a252c",
+"cb2b54",
+"2f8e39",
+"650ef3",
+"9f7cbc",
+"ae2d98",
+"e05b71",
+"c64982"
+]
+}

@@ -1,0 +1,200 @@
+{
+"id":"mk19_qq_q135",
+"number":135,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 135",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c5243d",
+"children":[
+"A 31-year-old man with acute myeloid leukemia is evaluated in the emergency department for fever after his first cycle of cytarabine and daunorubicin. He has no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"9b25a7",
+"children":[
+"On physical examination, temperature is 38.8 °C (101.8 °F); the remainder of the vital signs are normal. No localizing findings are noted. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" is 0.3/µL (0.003 x 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with 0 neutrophils. Chest radiograph is normal. Blood and urine cultures are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer granulocyte-macrophage colony-stimulating factor"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin levofloxacin plus acyclovir"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Begin piperacillin-tazobactam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Begin piperacillin-tazobactam plus vancomycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"91525e",
+"children":[
+"Neutropenic fever is a medical emergency, and immediate broad-spectrum antibiotic coverage within 60 minutes of presentation is recommended."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e2cf23",
+"children":[
+"Although many factors influence the empiric antibiotic choice for patients with neutropenic fever, monotherapy with a β-lactam agent with broad coverage for gram-positive and gram-negative organisms and antipseudomonal activity (e.g., piperacillin-tazobactam) is effective and is the most commonly used approach."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0002c0",
+"children":[
+"This patient requires immediate parenteral administration of a broad-spectrum antibiotic, such as piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), while blood and urine cultures are pending. Patients with acute myeloid leukemia (AML), an absolute neutrophil count <500/µL, and expected prolonged neutropenia (>7 days) are at high risk for neutropenic fevers. This is a medical emergency, and immediate broad-spectrum antibiotic coverage within 60 minutes of presentation is recommended. Multiple clinical factors should influence the initial empiric therapy, such as localizing symptoms, prior infections, local antibiotic resistance pattern, previous prophylactic antibiotic coverage, and others. Monotherapy with a β-lactam agent with broad coverage for gram-positive and gram-negative organisms and antipseudomonal activity is effective in treating neutropenic fever and is the most commonly used approach. Although combination antibiotic therapy is often used (e.g., adding an aminoglycoside for additional antipseudomonal coverage), no specific regimen is superior to broad-spectrum monotherapy. Antifungal agents are usually considered only for patients with mucosal barrier inflammation and prolonged neutropenia (>1 week)."
+]
+},
+{
+"type":"p",
+"hlId":"35d6b0",
+"children":[
+"Hematopoietic growth factors, including granulocyte-macrophage colony-stimulating factor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are effective prophylaxis in patients receiving chemotherapy who have a high incidence of neutropenic fevers. However, they should not replace immediate antimicrobial therapy in patients with fever and neutropenia and do not have a clear role in treating established neutropenic fevers."
+]
+},
+{
+"type":"p",
+"hlId":"6f1f3c",
+"children":[
+"Because of resistance, levofloxacin and other fluoroquinolones are not frequently used as initial monotherapy for patients with high-risk neutropenic fever and antiviral agents, such as acyclovir, are used only in patients with immunosuppression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Monotherapy with a fluoroquinolone may have a role in selected low-risk patients eligible for outpatient oral therapy at experienced centers with close monitoring capability."
+]
+},
+{
+"type":"p",
+"hlId":"cf9de7",
+"children":[
+"If a specific source (e.g., central catheter) of infection is suspected, directed antimicrobial therapy can be further broadened, such as by adding gram-positive coverage with vancomycin to piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has no compelling need to broaden antimicrobial coverage with vancomycin."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_1_1_1",
+"objective":{
+"__html":"Treat neutropenic fever in a patient with leukemia."
+},
+"references":[
+[
+"Zimmer AJ, Freifeld AG. Optimal management of neutropenic fever in patients with cancer. J Oncol Pract. 2019;15:19-24. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30629902",
+"target":"_blank"
+},
+"children":[
+"PMID: 30629902"
+]
+},
+" doi:10.1200/JOP.18.00269"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c5243d",
+"9b25a7",
+"1054f1",
+"91525e",
+"e2cf23",
+"0002c0",
+"35d6b0",
+"6f1f3c",
+"cf9de7"
+]
+}

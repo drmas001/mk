@@ -1,0 +1,525 @@
+{
+"id":"mk19_a_id_q069",
+"number":69,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8fcbf0",
+"children":[
+"A 55-year-old man is evaluated for fever, night sweats, cough with sputum production, and a 6.8-kg (15 lb) weight loss over the past 2 months. He was diagnosed with HIV infection 3 months ago but has not started antiretroviral therapy. He has a history of alcohol use disorder and was incarcerated 5 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"a6a9f1",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.1 °F); other vital signs are normal. Crackles are heard bilaterally in the lung bases."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c95619",
+"class":"cell text l",
+"children":[
+"10 g/dL (100 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3a82b3",
+"class":"cell text l",
+"children":[
+"11,500/µL (11.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"529f44",
+"class":"cell text l",
+"children":[
+"HIV antigen/antibody combination assay"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"328929",
+"class":"cell text l",
+"children":[
+"Positive"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f85414",
+"class":"cell text l",
+"children":[
+"CD4 cell count"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2cea73",
+"class":"cell text l",
+"children":[
+"200/µL"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c38c9a",
+"class":"cell text l",
+"children":[
+"Viral load"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6c491a",
+"class":"cell text l",
+"children":[
+"56,000 copies/mL"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"1802dd",
+"children":[
+"Chest radiograph shows paratracheal lymphadenopathy and bilateral interstitial infiltrates."
+]
+},
+{
+"type":"p",
+"hlId":"7486aa",
+"children":[
+"Sputum Gram stain and cultures are negative. Acid-fast bacilli stain is positive; yeasts are not identified."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"10cf08",
+"children":[
+"Which of the following is the most likely cause of his infection?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Histoplasma capsulatum</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Mycobacterium abscessus</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Mycobacterium avium</i> complex"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Mycobacterium tuberculosis</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e47168",
+"children":[
+"Risk factors for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium tuberculosis"
+]
+},
+" infection include HIV infection, substance abuse, and residing in congregate settings."
+]
+},
+{
+"type":"keypoint",
+"hlId":"73568d",
+"children":[
+"Active pulmonary tuberculosis should be strongly suspected in persons with chronic symptoms of fever, night sweats, weight loss, and productive cough."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7612c4",
+"children":[
+"The most likely organism causing this patient's illness is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium tuberculosis"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). He has several risk factors for active pulmonary tuberculosis, including HIV infection, alcohol use disorder, and history of incarceration. His complex of symptoms, including ongoing fever, night sweats, weight loss, and productive cough, also indicate likely tuberculosis. Although a tuberculin skin test or interferon-γ release assay would be useful and should be performed for all suspected tuberculosis infections, it may not be positive in this patient with a CD4 cell count of 200/µL."
+]
+},
+{
+"type":"p",
+"hlId":"586e38",
+"children":[
+"In immunocompetent patients, symptoms of pulmonary histoplasmosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are typically mild, with headache, fever, and cough, which usually resolve after a few weeks. Although data are limited, patients with HIV infection and CD4 cell counts of 200/µL or greater may present similarly to immunocompetent persons. In this patient, with a more protracted and symptomatic course, negative yeast following bronchoalveolar lavage, and positive acid-fast bacilli stain, pulmonary tuberculosis is a more likely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"3c1a49",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium abscessus"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not generally seen in patients with HIV. It usually occurs in patients with cystic fibrosis, persons with COPD, recipients of solid organ or stem cell transplants, and occasionally health care–associated infections, such as postoperative wound infection. It is considered one of the most pathogenic and resistant mycobacteria and is relatively resistant to most antituberculous antimicrobials."
+]
+},
+{
+"type":"p",
+"hlId":"a505fe",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium avium"
+]
+},
+" complex (MAC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is one of the most common causes of generalized and chronic infection in persons with HIV. Moreover, many of the manifestations of MAC and tuberculosis are similar. MAC is generally diagnosed by bone marrow biopsy or blood culture for mycobacterial organisms. However, MAC is rarely seen in patients with HIV with CD4 cell counts greater than 50/µL."
+]
+}
+],
+"relatedSection":"mk19_a_id_s6_4_2",
+"objective":{
+"__html":"Diagnose active tuberculosis infection in a patient with HIV."
+},
+"references":[
+[
+"Méndez-Samperio P. Diagnosis of tuberculosis in HIV co-infected individuals: current status, challenges and opportunities for the future. Scand J Immunol. 2017;86:76-82. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28513865",
+"target":"_blank"
+},
+"children":[
+"PMID: 28513865"
+]
+},
+" doi:10.1111/sji.12567"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":25,
+"D":70,
+"E":0
+},
+"hlIds":[
+"8fcbf0",
+"a6a9f1",
+"a462a3",
+"f9867c",
+"c95619",
+"2989c0",
+"3a82b3",
+"529f44",
+"328929",
+"f85414",
+"2cea73",
+"c38c9a",
+"6c491a",
+"1802dd",
+"7486aa",
+"10cf08",
+"e47168",
+"73568d",
+"7612c4",
+"586e38",
+"3c1a49",
+"a505fe"
+]
+}

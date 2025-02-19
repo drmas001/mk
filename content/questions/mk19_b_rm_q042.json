@@ -1,0 +1,175 @@
+{
+"id":"mk19_b_rm_q042",
+"number":42,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"743ad3",
+"children":[
+"A 32-year-old woman is evaluated for pain in the right elbow of a few months' duration. She has no history of injury. The pain worsened after she began a new exercise program that includes weights, and it is exacerbated with use. The pain makes it hard to lift things. She also has increased fatigue. Acetaminophen partially alleviates the pain."
+]
+},
+{
+"type":"p",
+"hlId":"ae7478",
+"children":[
+"There is local tenderness over the right lateral epicondyle, and active wrist extension against resistance elicits pain. She has full range of motion of the shoulder, elbow, and wrist. There is no warmth, redness, or swelling. All other joints are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"16ecd9",
+"children":[
+"Which of the following is the most likely cause of the patient's symptoms?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Degenerative joint disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Disorder of central pain processing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Inflammatory arthritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mechanical soft-tissue injury"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c3c5bf",
+"children":[
+"Isolated tendon and/or ligament involvement usually suggests noninflammatory disorders, such as mechanical injury/irritation, overuse, or degeneration."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d5d06e",
+"children":[
+"The cardinal signs of inflammation are pain, erythema, swelling, and warmth; with the exception of pain, noninflammatory conditions usually lack these features."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa1968",
+"children":[
+"This patient has a mechanical soft-tissue injury (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), likely lateral epicondylitis. Common nonarticular sources of musculoskeletal symptoms are the soft tissues (tendons, ligaments, and bursae) around or away from the joints. Isolated tendon and/or ligament involvement usually suggests noninflammatory disorders, such as mechanical injury/irritation, overuse, or degeneration (e.g., rotator cuff disorders or tennis elbow)."
+]
+},
+{
+"type":"p",
+"hlId":"c86451",
+"children":[
+"The elbow is a very unlikely location for a degenerative joint disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), such as osteoarthritis. Localized osteoarthritis, in which a single joint is affected, is more often a consequence of injury or joint asymmetry and often occurs in weight-bearing joints (hip or knee), not the elbows or shoulders. Because this patient has no history of injury and has full range of elbow motion, localized osteoarthritis is unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"bfd1da",
+"children":[
+"Disorders of central pain processing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), such as fibromyalgia, have hyperresponsive pain centers in the brain and spinal cord. Patients characteristically note allodynia (a heightened sensitivity to stimuli that are not normally painful) and hyperalgesia (an increased response to painful stimuli). An additional characteristic feature is “wind-up” or temporal summation. When repeatedly exposed to a mildly uncomfortable stimulus, patients with fibromyalgia experience progressively additive pain, indicating that the pain stimuli are both persistent and inadequately damped. Finally, patients typically have diffuse rather than localized pain. This patient has no features characteristic of a central pain processing disorder. The local nature of her pain also argues against fibromyalgia, which is a disease of widespread pain."
+]
+},
+{
+"type":"p",
+"hlId":"33b7c9",
+"children":[
+"The differentiation between inflammatory and noninflammatory signs and symptoms is central to the evaluation of patients with musculoskeletal pain. Autoimmune conditions typically present with inflammation, whereas mechanical or degenerative disorders are characteristically noninflammatory. The cardinal signs of inflammation are pain, erythema, swelling, and warmth; with the exception of pain, noninflammatory conditions usually lack these features. These features are absent in this patient, making inflammatory arthritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") an unlikely diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s1_4",
+"objective":{
+"__html":"Diagnose a mechanical soft-tissue injury."
+},
+"references":[
+[
+"Batten R, Coady D. The rheumatological examination. Medicine. 2018;46:161-165. doi.org/10.1016/j.mpmed.2017.12.002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":4,
+"C":7,
+"D":86,
+"E":0
+},
+"hlIds":[
+"743ad3",
+"ae7478",
+"16ecd9",
+"c3c5bf",
+"d5d06e",
+"aa1968",
+"c86451",
+"bfd1da",
+"33b7c9"
+]
+}

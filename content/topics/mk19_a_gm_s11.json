@@ -1,0 +1,3062 @@
+{
+"id":"mk19_a_gm_s11",
+"subspecialtyId":"gm",
+"title":"Genetics, Genomics, and Precision Medicine",
+"jsonContent":{
+"type":"section",
+"id":"mk19_a_gm_s11",
+"title":{
+"__html":"Genetics, Genomics, and Precision Medicine"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4b6733",
+"children":[
+"Genetics, Genomics, and Precision Medicine"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_gm_s11_1",
+"title":{
+"__html":"Introduction"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"0b7979",
+"children":[
+"Introduction"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ca750",
+"children":[
+"Genetics is the study of single genes and their role in inheritance, whereas genomics is the study of all of an individual's genetic material (the genome). Interest in the clinical application of genetic information, and with it the field of precision medicine, has grown steadily since the human genome was sequenced in the Human Genome Project. Precision medicine involves the application of individualized genetic information, along with environmental exposures and behavioral characteristics, to the treatment of patients, with a goal of improving clinical outcomes. In precision medicine, clinical decision making includes identification of genetic risk factors; referral to genetic counseling services; appropriate choices in genetic testing; and a collaborative discussion with patients, genetic counselors, and specialists in test interpretation."
+]
+},
+{
+"type":"p",
+"hlId":"40abf2",
+"children":[
+"Genetic testing has an established role in several areas of routine clinical practice, including oncologic disease; neurologic disorders; and inherited cardiac, kidney, and gastrointestinal diseases. The CDC, for example, recognizes hereditary breast and ovarian cancer, Lynch syndrome, and familial hypercholesterolemia as Tier 1 conditions for which screening in selected populations is recommended (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.cdc.gov/genomics/implementation/toolkit/tier1.htm",
+"target":"_blank"
+},
+"children":[
+"www.cdc.gov/genomics/implementation/toolkit/tier1.htm"
+]
+},
+"). Although genetic testing is being used increasingly, it is not without limitations, including an absence of data in underrepresented populations and incomplete understanding of the clinical significance of many genetic variants. In addition, limitations inherent to specific testing methodologies and differences in approaches to interpretation can lead to differing results between testing laboratories."
+]
+},
+{
+"type":"p",
+"hlId":"cc3da4",
+"children":[
+"This section will provide an overview on taking a family history; identifying hereditary risk; and understanding genetic tests and testing strategies, including direct-to-consumer testing."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_2",
+"title":{
+"__html":"Taking a Family History"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"b544a9",
+"children":[
+"Taking a Family History"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"5e34d5",
+"children":[
+"Obtaining a family history is an important risk assessment strategy that can increase severalfold the proportion of patients identified as needing screening, genetic testing, or preventive treatment for some conditions. Features that suggest the presence of a genetically inherited condition are listed in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_gm_t63",
+"wrapId":"1",
+"children":[
+"Table 63"
+]
+}
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_gm_t63"
+]
+},
+{
+"type":"p",
+"hlId":"03ee01",
+"children":[
+"Agreement on the essential components of a family history is lacking. Obtaining a complete three-generation family history is a reasonable initial approach to screening for genetically inherited disease; an increasing number of clinical practice guidelines (e.g., colon cancer screening guidelines) incorporate information on first- and second-degree relatives. Documenting the history in the form of a family pedigree provides a helpful pictorial representation of the relationship between family members and the presence of medical conditions. Obtaining an appropriately complete family history is time consuming, however, and often requires investigation on the part of the patient. Self-administered online tools, such as the My Family Health Portrait tool from the CDC (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://phgkb.cdc.gov/FHH/html/index.html",
+"target":"_blank"
+},
+"children":[
+"https://phgkb.cdc.gov/FHH/html/index.html"
+]
+},
+"), can greatly streamline the acquisition of family disease patterns ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_a_gm_f30",
+"wrapId":"2",
+"children":[
+"Figure 30"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_a_gm_f30"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"114e96",
+"children":[
+"Obtaining a family history is an important risk assessment strategy that can increase severalfold the proportion of patients identified as needing screening, genetic testing, or preventive treatment for some conditions."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_3",
+"title":{
+"__html":"Genetic Tests and Testing Strategies"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"048c93",
+"children":[
+"Genetic Tests and Testing Strategies"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"b4b9fe",
+"children":[
+"Genetic testing indications can be broadly categorized as primarily diagnostic or predictive. Diagnostic testing is performed in patients with clinical features suggestive of a genetic disease or disorders with a suspected genetic basis, such as hereditary hemochromatosis or cystic fibrosis. Predictive testing is typically performed in asymptomatic patients, such as those with a strong family history of a disease for which early intervention would alter the clinical course, or as part of prenatal counseling. As newer types of genetic testing measure large portions of the genome, diagnostic testing for one indication can also yield potentially predictive findings for other conditions."
+]
+},
+{
+"type":"p",
+"hlId":"3031ae",
+"children":[
+"Diagnostic and predictive tests may be performed as single-gene, panel, or whole exome or genome sequencing. Most clinical genetic tests are administered as panels that target specific disorders, such as hereditary cancer, or pharmacologically important genes (“pharmacogenes”). The specific testing indication and abnormality being assessed guide the method of testing ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_gm_t64",
+"wrapId":"3",
+"children":[
+"Table 64"
+]
+}
+]
+},
+")"
+]
+},
+". The Genetic Testing Registry of the National Center for Biotechnology Information (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/gtr/",
+"target":"_blank"
+},
+"children":[
+"www.ncbi.nlm.nih.gov/gtr/"
+]
+},
+") provides a user-friendly index of clinical genetic tests and conditions."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"3",
+"contentIds":[
+"mk19_a_gm_t64"
+]
+},
+{
+"type":"p",
+"hlId":"aa3057",
+"children":[
+"Clinical context must always be considered when ordering genetic testing because certain types of genetic variation (e.g., copy number variation, in which a segment of the genome may be duplicated or deleted) can be missed by certain tests. Specialist involvement is appropriate when genetic test results are negative but clinical suspicion remains high."
+]
+},
+{
+"type":"p",
+"hlId":"dc22cb",
+"children":[
+"Test performance characteristics should also be accounted for when ordering genetic testing. The American College of Physicians Ethics Manual recommends that physicians consider the following:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"5f96d7",
+"children":[
+"Analytical validity: ability of the test to accurately detect the presence or absence of a mutation"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"98085e",
+"children":[
+"Clinical validity: ability of the test to accurately relate the mutation to the disease"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1e83af",
+"children":[
+"Clinical utility: ability of the test results to inform the diagnosis, treatment, or prevention of a disease"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"330da0",
+"children":[
+"Personal utility: ability of the test results to provide patients with important personal or familial information to inform decision making"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"970aaa",
+"children":[
+"Patients for whom genetic testing is being considered, especially those undergoing predictive testing, should receive genetic counseling. Clinicians and patients can use a searchable database provided by the American College of Medical Genetics and Genomics (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.acmg.net/GIS",
+"target":"_blank"
+},
+"children":[
+"www.acmg.net/GIS"
+]
+},
+") to locate available genetic counseling services. The basic components of genetic counseling are education on the condition being tested, including the natural history, possible treatments, and preventive measures; the risks and benefits of testing; alternatives to testing, including the option to forgo testing; the implications for the patient and family members; and the costs, including the possibility of denial of coverage for disability, long-term care, and life insurance. Patients should be informed that the Genetic Information Nondiscrimination Act of 2008 protects against discrimination from obtaining employment (for companies with 15 or more employees) and health insurance; however, this protection does not extend to discrimination involving other types of insurance."
+]
+},
+{
+"type":"p",
+"hlId":"9d244a",
+"children":[
+"Patients who undergo genetic testing must understand the possibility of uncovering information that is incidental to the reason for testing and that such information may be of uncertain significance, which may produce stress and anxiety that is not easily relieved."
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_3_1",
+"title":{
+"__html":"Pharmacogenetics and Pharmacogenomics"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"285c3e",
+"children":[
+"Pharmacogenetics and Pharmacogenomics"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"c932a4",
+"children":[
+"Pharmacogenomics is the study of how genetic variation affects the effects and metabolism of medications. Variation in response to medications can originate from genetic effects on the body's response to drugs (pharmacokinetics), how the drug affects the body (pharmacodynamics), or drug hypersensitivity ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_gm_t65",
+"wrapId":"4",
+"children":[
+"Table 65"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"4",
+"contentIds":[
+"mk19_a_gm_t65"
+]
+},
+{
+"type":"p",
+"hlId":"de055b",
+"children":[
+"More than 95% of individuals carry functional variants in a handful of the most important pharmacogenes. Significant pharmacokinetic alterations are most commonly caused by alleles in genes affecting the cytochrome P450 system, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2C19"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2D6"
+]
+},
+". Clinical phenotypes are assigned on the basis of enzyme activity:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"2576c4",
+"children":[
+"Poor metabolizer: little to no enzyme activity"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"050aea",
+"children":[
+"Intermediate metabolizer: reduced enzyme activity"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"59bbb0",
+"children":[
+"Extensive/normal metabolizer: normal enzyme activity"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"09d305",
+"children":[
+"Rapid metabolizer: increased enzyme activity"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"550a78",
+"children":[
+"Ultrarapid metabolizer: significantly increased enzyme activity"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"e710b6",
+"children":[
+"The effect of the phenotype on a particular medication depends on whether the medication is an active drug or a prodrug. Levels of medications that are taken in their active form, such as omeprazole, will be reduced in patients who are ultrarapid metabolizers and increased in patients who are poor metabolizers. Conversely, prodrugs, such as clopidogrel, require conversion to their active form; ultrarapid metabolizers will have increased drug levels, whereas poor metabolizers will have reduced levels. Correlating pharmacogenetic phenotypes with clinical drug effect is not always straightforward because other factors can influence drug levels and the clinical response may be nonlinear."
+]
+},
+{
+"type":"p",
+"hlId":"6dc200",
+"children":[
+"Guidance on the use of pharmacogenetic information in clinical practice is available from the Clinical Pharmacogenetics Implementation Consortium (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://cpicpgx.org/genes-drugs/",
+"target":"_blank"
+},
+"children":[
+"https://cpicpgx.org/genes-drugs/"
+]
+},
+"). Although predictive pharmacogenomic testing is mostly investigational, the FDA and other organizations have described a role for genetic testing when certain medications are prescribed in routine practice, focusing on situations in which serious adverse effects or treatment failures can occur. Examples include testing for the HLA-B*5701 allele before prescribing abacavir and testing for mutations in the thiopurine methyltransferase (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"TPMT"
+]
+},
+") gene before initiating azathioprine therapy. More broadly, however, the FDA issued a warning in November 2018 that pharmacogenomic testing companies have promulgated drug dosing recommendations using information that has not been evaluated by the FDA. The regulatory landscape in this area continues to evolve."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_3_2",
+"title":{
+"__html":"Direct-to-Consumer Genomic Testing"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"01c05c",
+"children":[
+"Direct-to-Consumer Genomic Testing"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"e086af",
+"children":[
+"Direct-to-consumer (DTC) genomic testing is a commercial service that allows patients to obtain genetic information without a physician order or prescription. Consumer-directed genomic testing is a similar process in which patients request that their physician authorize specific testing to be performed by a third-party laboratory or company. The FDA has approved DTC genomic testing for some disorders, including Parkinson disease and hemochromatosis, and physicians may be asked to provide guidance to persons who have undergone testing on their own. Advocates argue that these services promote patient autonomy because patients can directly access information on genetic predispositions without physician referral. Critics counter that DTC testing is not usually accompanied by pre- or posttest genetic counseling, potentially leading to patient harms."
+]
+},
+{
+"type":"p",
+"hlId":"104394",
+"children":[
+"DTC genomic testing typically uses polygenic risk estimation, a technique in which risk for medical conditions is estimated by genotyping polymorphic nucleotides. Single-nucleotide polymorphisms (SNPs) that are disproportionately found in affected individuals are identified, and odds ratios for each SNP are determined. The SNPs are usually common but have low penetrance (that is, most people with an SNP do not develop disease). Individually, SNPs contribute very little to overall disease risk; most SNPs have an odds ratio of less than 1.5. As an example, if a condition has a general population prevalence of 8%, possessing an associated SNP with an odds ratio of 1.3 would increase one's risk for the condition to approximately 10%. The use of polygenic risk scores (weighted risk estimates created by using a combination of SNPs from the across the entire genome) is an area of ongoing investigation."
+]
+},
+{
+"type":"p",
+"hlId":"69e561",
+"children":[
+"There are several key differences between DTC testing and clinical testing. Most important, DTC testing is only approved to provide health information; DTC tests are not diagnostic tests. The FDA recommends confirmation with clinical testing before using DTC test results in patient care. Available DTC tests also assess for fewer genetic variants than do clinical tests, creating risk for false-negative results. For example, a currently available DTC test for breast cancer tests for only 3 of more than 1000 variants of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+". In addition, risk for false-negative results is increased in non-European populations, which are underrepresented in clinical studies of genetic testing. Finally, DTC testing creates unique privacy concerns if genetic data are made public or sold. Research teams have successfully identified people from anonymized genetic data and public records."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"1a2f5c",
+"children":[
+"The decision to pursue genetic testing should incorporate the clinical history, family history, testing methodology, and patient consent after appropriate counseling."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c6eb79",
+"children":[
+"Patients who may benefit from genetic testing include those with clinical features suggestive of genetic disease, a family history of genetically related disease, or an ethnicity associated with high carrier frequencies, as well as patients receiving medications with an established pharmacogenomic testing indication."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cf04f3",
+"hvc":true,
+"children":[
+"Direct-to-consumer genomic testing provides uncertain clinical benefit, has greater methodologic limitations than clinical testing, and has evolving privacy and regulatory concerns."
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_4",
+"title":{
+"__html":"Epigenetics"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"08eafd",
+"children":[
+"Epigenetics"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"0b2394",
+"children":[
+"Epigenetics is the study of heritable alterations in gene expression that occur outside of the DNA sequence. Epigenetics has been conceptualized as the process by which genetic material (nature) interacts with the environment (nurture) to create a specific phenotype or as a biomarker of this interaction. Mechanisms of epigenetic expression include DNA methylation, histone modification, and chromatin structure. Research studies have shown a potential association between epigenetic variants and presentations of cardiovascular, neurologic, and oncologic diseases. DNA methylation (the transfer of a methyl group to DNA) has demonstrated particular promise in diagnostic, prognostic, and therapeutic roles but has not yet entered routine clinical practice."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_gm_s11_5",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Artin MG, Stiles D, Kiryluk K, et al. Cases in precision medicine: when patients present with direct-to-consumer genetic test results. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-2356",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:643-50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31035287",
+"target":"_blank"
+},
+"children":[
+"PMID: 31035287"
+]
+}
+]
+},
+{
+"type":"reference",
+"children":[
+"Caudle KE, Dunnenberger HM, Freimuth RR, et al. Standardizing terms for clinical pharmacogenetic test results: consensus terms from the Clinical Pharmacogenetics Implementation Consortium (CPIC). Genet Med. 2017;19:215-23. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27441996",
+"target":"_blank"
+},
+"children":[
+"PMID: 27441996"
+]
+},
+" doi:10.1038/gim.2016.87"
+]
+},
+{
+"type":"reference",
+"children":[
+"Ginsburg GS, Wu RR, Orlando LA. Family health history: underused for actionable risk assessment. Lancet. 2019;394:596-603. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31395442",
+"target":"_blank"
+},
+"children":[
+"PMID: 31395442"
+]
+},
+" doi:10.1016/S0140-6736(19)31275-9"
+]
+},
+{
+"type":"reference",
+"children":[
+"Holder LB, Haque MM, Skinner MK. Machine learning for epigenetics and future medical applications. Epigenetics. 2017;12:505-14. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28524769",
+"target":"_blank"
+},
+"children":[
+"PMID: 28524769"
+]
+},
+" doi:10.1080/15592294.2017.1329068"
+]
+},
+{
+"type":"reference",
+"children":[
+"Kiryluk K, Goldstein DB, Rowe JW, et al. Precision medicine in internal medicine. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-0425",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:635-42. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31035290",
+"target":"_blank"
+},
+"children":[
+"PMID: 31035290"
+]
+}
+]
+},
+{
+"type":"reference",
+"children":[
+"Lin B, Chung WK. Cases in precision medicine: the role of pharmacogenetics in precision prescribing. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-2357",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:796-804. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31108507",
+"target":"_blank"
+},
+"children":[
+"PMID: 31108507"
+]
+}
+]
+},
+{
+"type":"reference",
+"children":[
+"Sugrue LP, Desikan RS. What are polygenic scores and why are they important? JAMA. 2019;321:1820-1. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30958510",
+"target":"_blank"
+},
+"children":[
+"PMID: 30958510"
+]
+},
+" doi:10.1001/jama.2019.3893"
+]
+},
+{
+"type":"reference",
+"children":[
+"Sulmasy LS, Bledsoe TA; ACP Ethics, Professionalism and Human Rights Committee. American College of Physicians Ethics Manual: seventh edition. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-2160",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:S1-32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30641552",
+"target":"_blank"
+},
+"children":[
+"PMID: 30641552"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_a_gm_t63":{
+"id":"mk19_a_gm_t63",
+"number":63,
+"bookId":"gm",
+"title":{
+"__html":"Red Flags Suggesting an Increased Genetic Risk in an Individual or Family"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"ee1fbe",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 63. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_gm_t63"
+}
+]
+},
+"Red Flags Suggesting an Increased Genetic Risk in an Individual or Family"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e7618",
+"class":"col hd l",
+"children":[
+"Red Flag"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5a7ad",
+"class":"col hd l",
+"children":[
+"Description"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0a5273",
+"class":"col hd l",
+"children":[
+"Example"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"df23fb",
+"class":"cell txt l",
+"children":[
+"Family history of multiple affected family members with the same or related disorders"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c5792b",
+"class":"cell txt l",
+"children":[
+"Such a pattern indicates increased risk, whether through genetic or environmental risk factors or a combination of genes and environment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c66dae",
+"class":"cell txt l",
+"children":[
+"Three family members in two generations with cardiovascular disease"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f9be4b",
+"class":"cell txt l",
+"children":[
+"Earlier age of disease onset than expected"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0ab3e5",
+"class":"cell txt l",
+"children":[
+"Disorders that arise at a younger age than expected may occur because of a genetic predisposition that makes an individual more susceptible to environmental exposures"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f6bef1",
+"class":"cell txt l",
+"children":[
+"Cardiovascular disease occurring in the fourth decade of life"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"79f3e4",
+"class":"cell txt l",
+"children":[
+"Condition in the less-often-affected sex"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"abf54a",
+"class":"cell txt l",
+"children":[
+"A disorder may occur in the less common sex because of a genetic predisposition that overrides other hormonal, developmental, and environmental factors that contribute to its occurrence"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"42fd9b",
+"class":"cell txt l",
+"children":[
+"Breast cancer in a male"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7bdd98",
+"class":"cell txt l",
+"children":[
+"Disease in the absence of known risk factors"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f8cefa",
+"class":"cell txt l",
+"children":[
+"Genetic predisposition may lead to the occurrence of a disorder in the absence of obvious environmental factors"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf76e9",
+"class":"cell txt l",
+"children":[
+"Hyperlipidemia in an individual with an ideal diet and exercise regimen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fb9633",
+"class":"cell txt l",
+"children":[
+"Ethnic predisposition to certain genetic disorders"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0cec2f",
+"class":"cell txt l",
+"children":[
+"Some genetic disorders are more common in certain ethnic groups. Awareness of a patient's ethnicity or ancestral background can aid in recommendation of genetic testing and evaluation of genetic conditions"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"429e1f",
+"class":"cell txt l",
+"children":[
+"Among women with lymphangioleiomyomatosis, 87% are White, 6% are of African descent, and 4% are of Asian descent"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fda9e2",
+"class":"cell txt l",
+"children":[
+"Close biological relationship between parents"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a3015b",
+"class":"cell txt l",
+"children":[
+"Consanguinity is a relationship by blood or a common ancestor. Because relatives are more likely to share the same genes, children from a consanguineous couple related as first cousins or closer have an increased risk for an autosomal recessive condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3559ef",
+"class":"cell txt l",
+"children":[
+"Breast/ovarian cancer in Ashkenazi Jewish women"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"Information from The Jackson Laboratory. Core principles in family history: interpretation. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.jax.org/education-and-learning/clinical-and-continuing-education/ccep-non-cancer-resources/core-principles-in-family-history/interpretation",
+"target":"_blank"
+},
+"children":[
+"www.jax.org/education-and-learning/clinical-and-continuing-education/ccep-non-cancer-resources/core-principles-in-family-history/interpretation"
+]
+},
+". Accessed February 8, 2021."
+]
+]
+},
+"mk19_a_gm_t64":{
+"id":"mk19_a_gm_t64",
+"number":64,
+"bookId":"gm",
+"title":{
+"__html":"Commonly Used Genetic Tests"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"c94e79",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 64. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_gm_t64"
+}
+]
+},
+"Commonly Used Genetic Tests"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f18b7c",
+"class":"col hd l",
+"children":[
+"Type of Testing"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5a7ad",
+"class":"col hd l",
+"children":[
+"Description"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"491377",
+"class":"cell txt l",
+"children":[
+"Cytogenetic testing or karyotyping (Giemsa staining, in situ hybridization, microarray analysis)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6a706a",
+"class":"cell txt l",
+"children":[
+"Analyzes chromosomal structure (e.g., for Down syndrome)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"01d42a",
+"class":"cell txt l",
+"children":[
+"Giemsa staining produces banding pattern, allowing for gross structural analysis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"493f78",
+"class":"cell txt l",
+"children":[
+"In situ hybridization and microarray analysis detect more subtle abnormalities"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"712d59",
+"class":"cell txt l",
+"children":[
+"Direct DNA testing (Sanger sequencing, genome sequencing, Southern blot analysis)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"79fc4f",
+"class":"cell txt l",
+"children":[
+"Analyzes a desired set of genes and detects specific genetic mutations (e.g., single-nucleotide polymorphisms for detection of factor V Leiden)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"860dcc",
+"class":"cell txt l",
+"children":[
+"Indirect DNA testing"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"64e57f",
+"class":"cell txt l",
+"children":[
+"Useful when the genetic location for a condition is known, but the genetic mutation is unknown"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"aac514",
+"class":"cell txt l",
+"children":[
+"Biochemical testing"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a1cc35",
+"class":"cell txt l",
+"children":[
+"Measures metabolite levels to assess enzymatic activity controlled by genes (e.g., α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin measurement to assess MM, MT, or TT genotypes)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"84ee1b",
+"class":"cell txt l",
+"children":[
+"Whole exome sequencing",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9ef8c7",
+"class":"cell txt l",
+"children":[
+"Sequences protein-coding region of the entire genome"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5e8e23",
+"class":"cell txt l",
+"children":[
+"Useful when there is a clear family history of a genetic disorder based on pedigree, but the affected gene is unknown"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"51f764",
+"class":"cell txt l",
+"children":[
+"Genome-wide association study"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e3c5e0",
+"class":"cell txt l",
+"children":[
+"Identifies genetic variations and attempts to associate the variants with disease conditions"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"12416b",
+"class":"cell txt l",
+"children":[
+"Used as a research tool for hypothesis generation in populations rather than in individual patients"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8ea949",
+"class":"cell txt l",
+"children":[
+"RNA expression analysis (Northern blot, serial analysis of gene expression)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"24552d",
+"class":"cell txt l",
+"children":[
+"Evaluates the expression of genes by measuring messenger RNA or microRNA"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"The exome contains the parts of genes that encode proteins. Because over 85% of known disease-causing proteins are limited to exons, exome sequencing is more cost-effective than whole genome sequencing."
+]
+]
+},
+"mk19_a_gm_t65":{
+"id":"mk19_a_gm_t65",
+"number":65,
+"bookId":"gm",
+"title":{
+"__html":"Mechanisms of Pharmacogenomic Variants"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"b2619c",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 65. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_gm_t65"
+}
+]
+},
+"Mechanisms of Pharmacogenomic Variants"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a3d46",
+"class":"col hd l",
+"children":[
+"Mechanism"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5db77f",
+"class":"col hd l",
+"children":[
+"Drug"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ef9730",
+"class":"col hd l",
+"children":[
+"Associated Gene"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8413c6",
+"class":"col hd l",
+"children":[
+"Comments"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"4"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8482d9",
+"class":"col hd l",
+"children":[
+"Pharmacokinetic"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"692e64",
+"class":"cell txt l",
+"children":[
+"Altered metabolism of active compound"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3b3194",
+"class":"cell txt l",
+"children":[
+"Pantoprazole; other proton pump inhibitors to a lesser extent"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"32531f",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2C19"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7c6347",
+"class":"cell txt l",
+"children":[
+"Ultrarapid metabolizers of CYP2C19 deactivate pantoprazole quickly, leading to reduced efficacy at standard doses"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"62a392",
+"class":"cell txt l",
+"children":[
+"Altered metabolism of prodrug"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9608dd",
+"class":"cell txt l",
+"children":[
+"Codeine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f37271",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2D6"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"49f67c",
+"class":"cell txt l",
+"children":[
+"Ultrarapid metabolizers of CYP2D6 convert codeine into morphine more quickly, potentially leading to toxicity"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"8c8ee9",
+"class":"cell txt l",
+"children":[
+"Poor and intermediate metabolizers of CYP2D6 convert codeine into morphine slowly, resulting in attenuated effect"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c4ece3",
+"class":"cell txt l",
+"children":[
+"Clopidogrel"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"32531f",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2C19"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"47e85d",
+"class":"cell txt l",
+"children":[
+"Poor and intermediate metabolizers of CYP2C19 slowly convert clopidogrel to its active form; the FDA warns of an increased risk for treatment failure in this population"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2acbd1",
+"class":"cell txt l",
+"children":[
+"Altered drug uptake"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0708da",
+"class":"cell txt l",
+"children":[
+"Simvastatin; other statins to a lesser extent"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f8505f",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"SLCO1B1"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"059c13",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"SLCO1B1"
+]
+},
+" alters hepatic uptake by the OATP1B1 transporter; reduced uptake may increase myopathy risk"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"4"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ce23ea",
+"class":"col hd l",
+"children":[
+"Pharmacodynamic"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"037ba2",
+"class":"cell txt l",
+"children":[
+"Altered receptor binding affinity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"00fb95",
+"class":"cell txt l",
+"children":[
+"Warfarin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"289d3a",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"VKORC1"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a9d32f",
+"class":"cell txt l",
+"children":[
+"Increased warfarin affinity in certain ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"VKORC1"
+]
+},
+" polymorphisms may indicate that a lower dose of warfarin is needed to achieve a therapeutic INR"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ae75c8",
+"class":"cell txt l",
+"children":[
+"Off-target effects"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3311f2",
+"class":"cell txt l",
+"children":[
+"Sulfa drugs, NSAIDs, quinine, fluoroquinolones"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"20349f",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"G6PD"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bbc971",
+"class":"cell txt l",
+"children":[
+"Reduced G6PD activity increases susceptibility to oxidative stress, leading to hemolysis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"4"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"825a2f",
+"class":"col hd l",
+"children":[
+"Hypersensitivity"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"422b7f",
+"class":"cell txt l",
+"children":[
+"Non-anaphylactic systemic hypersensitivity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5081e1",
+"class":"cell txt l",
+"children":[
+"Abacavir"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"228b84",
+"class":"cell txt l",
+"children":[
+"HLA-B*57:01"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d450c0",
+"class":"cell txt l",
+"children":[
+"Increased risk for hypersensitivity reaction; the FDA recommends testing before prescribing"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ff2469",
+"class":"cell txt l",
+"children":[
+"Non-anaphylactic cutaneous hypersensitivity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"051b8d",
+"class":"cell txt l",
+"children":[
+"Carbamazepine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4fc171",
+"class":"cell txt l",
+"children":[
+"HLA-B*15:02"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"45af23",
+"class":"cell txt l",
+"children":[
+"Increased risk for STS or TEN; the FDA recommends testing patients of Asian descent before prescribing"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2e4c04",
+"class":"cell txt l",
+"children":[
+"Allopurinol"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"312795",
+"class":"cell txt l",
+"children":[
+"HLA-B*58:01"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"05f158",
+"class":"cell txt l",
+"children":[
+"Increased risk for severe cutaneous adverse reactions (i.e., STS or TEN); the American College of Rheumatology conditionally recommends testing patients of Southeast Asian (e.g., Han Chinese, Korean, Thai) descent and African American patients before prescribing"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"CYP2C19 = cytochrome P450 2C19; CYP2D6 = cytochrome P450 2D6; G6PD = glucose-6-phosphate dehydrogenase; OATP1B1 = organic anion transporting protein B1; SLCO1B1 = solute carrier organic anion transporter family member 1B1; STS = Stevens-Johnson syndrome; TEN = toxic epidermal necrolysis; VKORC1 = vitamin K 2,3-epoxide reductase complex subunit 1."
+]
+]
+}
+}
+}

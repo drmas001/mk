@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q131",
+"number":131,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 131",
+"stimulus":[
+{
+"type":"p",
+"hlId":"290f75",
+"children":[
+"A 35-year-old woman is evaluated for a painful rash. Carbamazepine was initiated 40 days ago for epilepsy. Four days ago, she developed fever and red macules on the trunk that progressed to vesicles and erosions."
+]
+},
+{
+"type":"p",
+"hlId":"03c575",
+"children":[
+"On physical examination, temperature is 39.9 °C (102.9 °F), blood pressure is 110/60 mm Hg, and pulse rate is 116/min. Sloughing skin on the trunk and extremities involves 60% body surface area. Oral erosions are present."
+]
+},
+{
+"type":"p",
+"hlId":"06c779",
+"children":[
+"Carbamazepine is discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Infliximab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intensive care unit admission and supportive care"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous methylprednisolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intravenous vancomycin and ceftriaxone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0cd84f",
+"children":[
+"Stevens-Johnson syndrome and toxic epidermal necrolysis are related clinical syndromes that are characterized by acute epidermal necrosis; most deaths result from secondary infection, complications of transcutaneous fluid loss, or respiratory distress."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2f7191",
+"children":[
+"The treatment of Stevens-Johnson syndrome and toxic epidermal necrolysis involves stopping the offending agent and supportive care, often in an intensive care unit or burn unit."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5c1cf6",
+"children":[
+"This patient with toxic epidermal necrolysis (TEN) should be admitted to the intensive care unit and receive supportive care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The most commonly implicated medications with TEN are antiepileptic agents, especially carbamazepine, lamotrigine, and phenytoin. Minocycline, sulfonamides, fluoroquinolones, β-lactam antibiotics, pantoprazole, sertraline, NSAIDs (oxicam and acetic acid type), tramadol, and allopurinol are also frequent causes. The treatment of TEN begins with drug cessation and aggressive care in the intensive care unit or burn center. Ophthalmologic and urologic consultations are mandatory if ocular or genital involvement is present, as destructive scarring may occur in these areas. Most deaths result from secondary infection, complications of transcutaneous fluid loss, or respiratory distress. Aggressive fluid resuscitation is often necessary. A low threshold is recommended for performing cultures and initiation of empiric antibiotics, but use of prophylactic antibiotics is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"ca3ed5",
+"children":[
+"Stevens-Johnson syndrome (SJS) and TEN are related clinical syndromes that are characterized by acute epidermal necrosis. The classification of SJS and TEN is determined by the percentage of body surface area with epidermal detachment: SJS involves less than 10%, SJS-TEN overlap involves 10% to 30%, and TEN involves greater than 30%. TEN is almost exclusively caused by medications, whereas SJS is also triggered by vaccines or infection. SJS and TEN occur within 8 weeks of drug initiation. Patients may have flu-like symptoms for 1 to 3 days before skin eruption. Red-purple macules or patches that enlarge and coalesce develop on the trunk and extremities; skin pain is prominent. Vesicles, bullae, and erosions reflect the epidermal necrosis seen on biopsy. Nikolsky sign (the shearing off of the epidermis with lateral pressure on the skin) is present. Two or more mucosal surfaces are involved in more than 80% of patients. Systemic inflammation can result in pneumonia, hepatitis, nephritis, arthralgia, and myocarditis."
+]
+},
+{
+"type":"p",
+"hlId":"b5c3d3",
+"children":[
+"Infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a monoclonal antibody used in several conditions, including psoriasis, but has no role in TEN management. Evidence shows that treatment with systemic glucocorticoids, such as intravenous methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), can increase mortality rates in patients with TEN. Infection is a risk for patients with SJS or TEN because of the extensive damage to the skin barrier; however, antibiotics, such as vancomycin and ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), are not started without signs or symptoms of infection."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_5_5",
+"objective":{
+"__html":"Treat toxic epidermal necrolysis."
+},
+"references":[
+[
+"Charlton OA, Harris V, Phan K, et al. Toxic epidermal necrolysis and Steven-Johnson syndrome: A comprehensive review. Adv Wound Care (New Rochelle). 2020;9:426-439. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32520664",
+"target":"_blank"
+},
+"children":[
+"PMID: 32520664"
+]
+},
+" doi:10.1089/wound.2019.0977"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"290f75",
+"03c575",
+"06c779",
+"1054f1",
+"0cd84f",
+"2f7191",
+"5c1cf6",
+"ca3ed5",
+"b5c3d3"
+]
+}

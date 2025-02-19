@@ -1,0 +1,190 @@
+{
+"id":"mk19_b_gm_q059",
+"number":59,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f54bb8",
+"children":[
+"A 49-year-old man is evaluated for influenza immunization. Two weeks ago, he underwent surgical resection for stage III colon cancer. He will begin a 3-month course of adjuvant chemotherapy in 3 weeks. He is doing well postsurgically. All other immunizations are up to date. He has no other medical problems and takes no medications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6b51bb",
+"children":[
+"Which of the following is the preferred influenza immunization strategy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Defer vaccination until completion of chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-dose vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nasal spray vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Standard-dose inactivated vaccine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b1e725",
+"children":[
+"In patients with active cancer, annual vaccination with the standard-dose inactivated influenza vaccine should be administered at least 2 weeks before initiation of chemotherapy or 1 week after administration of chemotherapy if between cycles."
+]
+},
+{
+"type":"keypoint",
+"hlId":"413533",
+"children":[
+"The live attenuated influenza vaccine is contraindicated in immunocompromised patients, including those with active cancer or who are undergoing chemotherapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7dc86c",
+"children":[
+"The most appropriate vaccination strategy for this patient is to administer the standard-dose inactivated influenza vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Annual influenza vaccination is recommended for all individuals aged 6 months or older. The influenza vaccine should be administered as soon as it becomes available, preferably by October, but can be given at any time during the influenza season. Immunocompromised patients, including patients with cancer and those undergoing chemotherapy, are at risk for influenza and may be more likely to develop complications. Successful immunization requires a competent immune system to generate antibodies; although this response may be attenuated in immunocompromised patients, vaccination is still indicated. Members of this patient's immediate household should also receive the inactivated influenza vaccine. In patients undergoing chemotherapy, the vaccine should ideally be administered at least 2 weeks before initiation of chemotherapy or 1 week after administration of chemotherapy if between cycles. However, some studies have shown no difference in immunogenic response at different time points during chemotherapeutic cycles."
+]
+},
+{
+"type":"p",
+"hlId":"8fc9d5",
+"children":[
+"Deferring influenza vaccination until completion of chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not an appropriate option. Immunocompromised patients are especially prone to severe influenza infection, and a priority must be placed on preventing infections, if possible. Although chemotherapy may potentially blunt the immune response to vaccination, the vaccine should still be administered."
+]
+},
+{
+"type":"p",
+"hlId":"ce4ed6",
+"children":[
+"High-dose quadrivalent influenza vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") became available in the 2020-2021 influenza season and is an option for people aged 65 years or older. The previous high-dose trivalent vaccine was 24% more effective than its standard-dose counterpart. Estimates of relative efficacy or effectiveness of the quadrivalent high-dose vaccine compared with standard-dose quadrivalent vaccine are not available. This patient is younger than 65 years and would not benefit from the high-dose formulation."
+]
+},
+{
+"type":"p",
+"hlId":"139adb",
+"children":[
+"The nasal spray influenza vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a live attenuated vaccine and should not be given to patients with active cancer or who are undergoing chemotherapy. The live attenuated influenza vaccine is contraindicated in immunocompromised patients and additionally should be used with caution in patients with significant medical conditions, including cardiovascular, pulmonary, or liver disease; dialysis-dependent end-stage kidney disease; or diabetes mellitus. This live attenuated vaccine should not be given to members of this patient's household. The nasal spray vaccination is otherwise an option for some individuals aged 2 through 49 years."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_1_1",
+"objective":{
+"__html":"Prevent influenza in patients who are immunocompromised."
+},
+"references":[
+[
+"Freedman MS, Bernstein H, Ault KA; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M20-8080",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:374-384. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33571011",
+"target":"_blank"
+},
+"children":[
+"PMID: 33571011"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":21,
+"C":1,
+"D":76,
+"E":0
+},
+"hlIds":[
+"f54bb8",
+"6b51bb",
+"b1e725",
+"413533",
+"7dc86c",
+"8fc9d5",
+"ce4ed6",
+"139adb"
+]
+}

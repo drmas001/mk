@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q145",
+"number":145,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 145",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fc46fc",
+"children":[
+"A 74-year-old woman is evaluated for increasing cough, dyspnea, and weight loss. She has a 35-pack-year smoking history. She has never been screened for lung cancer with low-dose CT."
+]
+},
+{
+"type":"p",
+"hlId":"b3527f",
+"children":[
+"On physical examination, vital signs are normal. Multiple firm nonmobile lymph nodes are palpable in the left supraclavicular space. Breath sounds are diminished in the left upper chest. Chest radiography and subsequent CT scan show a left upper lobe mass and bilateral hilar lymphadenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a3643d",
+"children":[
+"Which of the following is the most appropriate next diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT-guided percutaneous biopsy of the left apical mass"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Needle aspiration of the left supraclavicular lymph nodes"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transbronchial biopsy of the left apical mass"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d135e4",
+"children":[
+"The most appropriate diagnostic test for lung cancer is one that not only confirms the diagnosis but also provides adequate staging to help plan treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d40f0c",
+"children":[
+"During evaluation of lung cancer, it is important not to miss a concomitant head and neck cancer; smoking is a common risk factor for both lung and head and neck cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b80aae",
+"children":[
+"The most appropriate next diagnostic test is needle aspiration of the left supraclavicular lymph nodes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Given this patient's significant smoking history and imaging findings of a pulmonary mass and associated lymphadenopathy, she has a high pretest probability of primary lung cancer. The most appropriate diagnostic test is one that not only confirms the diagnosis but also provides adequate staging to help plan treatment. Needle aspiration of the left supraclavicular lymph nodes is the least invasive procedure and would also stage the likely cancer by documenting metastatic disease to these lymph nodes. During evaluation of this patient, it is important not to miss a concomitant head and neck cancer; smoking is a common risk factor for both lung and head and neck cancer. If the patient has high cervical or contralateral cervical lymph nodes, they might need further evaluation to confirm or exclude a second head and neck primary cancer."
+]
+},
+{
+"type":"p",
+"hlId":"f47fad",
+"children":[
+"CT-guided percutaneous needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") could potentially diagnose lung cancer in this patient. However, the needle would need to pass through normal lung tissue, which carries a risk for inducing pneumothorax. In addition, CT-guided needle biopsy would not provide information on staging because it would not assess whether there is involvement of the mediastinal or supraclavicular lymph nodes."
+]
+},
+{
+"type":"p",
+"hlId":"11f3d0",
+"children":[
+"PET scans can be very helpful in the initial evaluation of potential lung cancer. Several studies have demonstrated that PET identifies unsuspected mediastinal involvement, distant disease, or both, which informs staging biopsies and reduces futile (noncurative) surgery. This patient has clinically apparent metastatic disease involving the supraclavicular lymph nodes. Needle aspiration of the lymph nodes will likely provide evidence of metastatic disease, which will inform treatment options, obviating the need for a PET scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"10cc25",
+"children":[
+"Bronchoscopy with transbronchial biopsy of the left apical mass (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be technically difficult given the apical position of the mass. More importantly, however, it would not provide any information about possible metastases to the lymph nodes."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_2_4",
+"objective":{
+"__html":"Diagnose lung cancer with lymph node biopsy."
+},
+"references":[
+[
+"Rivera MP, Mehta AC, Wahidi MM. Establishing the diagnosis of lung cancer: diagnosis and management of lung cancer, 3rd ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest. 2013;143:e142S-e165S. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23649436",
+"target":"_blank"
+},
+"children":[
+"PMID: 23649436"
+]
+},
+" doi:10.1378/chest.12-2353"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"fc46fc",
+"b3527f",
+"a3643d",
+"d135e4",
+"d40f0c",
+"b80aae",
+"f47fad",
+"11f3d0",
+"10cc25"
+]
+}

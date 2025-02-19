@@ -1,0 +1,191 @@
+{
+"id":"mk19_b_gm_q031",
+"number":31,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9be49d",
+"children":[
+"A 39-year-old woman comes to the office to discuss bariatric surgery. She has been unable to lose weight with diet and exercise, including supervised weight loss programs. She has tried naltrexone-bupropion and phentermine-topiramate with modest success, but the weight returned after medication discontinuation. Medical history is significant for type 2 diabetes mellitus. Medications are metformin and liraglutide."
+]
+},
+{
+"type":"p",
+"hlId":"98770a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 45. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e8a00",
+"children":[
+"Which of the following is the most appropriate treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Gastric banding"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intragastric balloon"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Orlistat"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sleeve gastrectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c21556",
+"hvc":true,
+"children":[
+"Sleeve gastrectomy is associated with less weight loss compared with Roux-en-Y gastric bypass but fewer 30-day postoperative complications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2eaaaf",
+"children":[
+"The most appropriate treatment for this patient is sleeve gastrectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Guidelines recommend bariatric surgery for patients with a BMI of 40 or greater or for those with a BMI of 35 or greater who have at least one serious weight-related comorbid condition, such as type 2 diabetes mellitus, obstructive sleep apnea, or knee or hip osteoarthritis. Sleeve gastrectomy is accomplished by excising the part of the stomach along the greater curvature, creating an approximately 85% reduction in size of the stomach. It results in restriction of caloric intake via early satiety with a smaller stomach and hormonal (glucagon-like peptide-1 and related hormones) appetite suppression. The smaller gastric surface area also results in less production of ghrelin, an appetite stimulant. Roux-en-Y gastric bypass (RYGB) surgery has the most efficacy data and remains superior to other procedures for weight loss, but it also has the highest rate of early postoperative complications. RYGB consists of creating a small proximal gastric pouch separate from the distal stomach and creating a biliopancreatic limb that connects the Roux limb to the gastrojejunostomy. The weight loss with sleeve gastrectomy is less than RYGB surgery. Sleeve gastrectomy, however, is associated with fewer major surgical complications at 30 days than other forms of bariatric surgery. After 5 years, the two bariatric procedures do not differ in regard to health-related quality of life or major complications."
+]
+},
+{
+"type":"p",
+"hlId":"999053",
+"children":[
+"Gastric banding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is often complicated by band erosion and slippage. Due to complications and poor efficacy, sleeve gastrectomy is preferred."
+]
+},
+{
+"type":"p",
+"hlId":"0f7510",
+"children":[
+"The FDA has approved intragastric balloons (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and vagal blockade devices, which resulted in modest weight loss in trials. However, long-term safety and efficacy data are lacking, and most insurance companies classify these devices as investigational."
+]
+},
+{
+"type":"p",
+"hlId":"8f08a0",
+"children":[
+"This patient is taking liraglutide, which promotes weight loss, and has tried two different weight loss medications with modest initial success but experienced weight gain upon their discontinuation. This is common for patients who take weight loss medications. Orlistat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is less effective in achieving target weight loss than the weight loss medications that this patient has already tried. Provided that this patient has no contraindications to bariatric surgery, sleeve gastrectomy is an appropriate choice."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s5_3_3_1",
+"objective":{
+"__html":"Treat obesity with sleeve gastrectomy."
+},
+"references":[
+[
+"Arterburn D, Wellman R, Emiliano A, et al; PCORnet Bariatric Study Collaborative. Comparative effectiveness and safety of bariatric procedures for weight loss: A PCORnet cohort study. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M17-2786",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;169:741-750. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30383139",
+"target":"_blank"
+},
+"children":[
+"PMID: 30383139"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":25,
+"B":4,
+"C":6,
+"D":65,
+"E":0
+},
+"hlIds":[
+"9be49d",
+"98770a",
+"8e8a00",
+"c21556",
+"2eaaaf",
+"999053",
+"0f7510",
+"8f08a0"
+]
+}

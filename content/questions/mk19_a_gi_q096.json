@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gi_q096",
+"number":96,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"daf7c0",
+"children":[
+"A 40-year-old woman was hospitalized 3 days ago with gallstone pancreatitis. Abdominal ultrasound at admission revealed multiple small gallstones in the gallbladder, a common bile duct that is normal in size (3 mm), and no choledocholithiasis. She was treated with intravenous fluids; her pain has resolved and she is now tolerating an oral diet."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"84de6c",
+"children":[
+"Current laboratory results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Laparoscopic cholecystectomy before hospital discharge"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Laparoscopic cholecystectomy in 4 to 6 weeks"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Magnetic resonance cholangiopancreatography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cba9c0",
+"children":[
+"Acute pancreatitis is most commonly caused by biliary disorders, and patients should undergo transabdominal ultrasonography for the detection of gallstones."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bce002",
+"children":[
+"For patients with mild gallstone pancreatitis, same-admission cholecystectomy can reduce rates of gallstone-related complications compared with cholecystectomy 25 to 30 days after hospital discharge."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bba84b",
+"children":[
+"The most appropriate management is laparoscopic cholecystectomy before hospital discharge (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). A multicenter, randomized, controlled trial showed that for patients with mild gallstone pancreatitis, same-admission cholecystectomy reduced rates of gallstone-related complications compared with cholecystectomy 25 to 30 days after hospital discharge (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The diagnosis of acute pancreatitis requires two of the following three criteria: (1) acute-onset abdominal pain characteristic of pancreatitis (severe, persistent for hours to days, and epigastric in location, often radiating to the back), (2) serum lipase or amylase levels elevated at least three times the upper limit of normal, and (3) characteristic imaging findings. Because acute pancreatitis is most commonly caused by biliary disorders, patients with acute pancreatitis should undergo transabdominal ultrasonography. Transabdominal ultrasonography is preferred over CT for detection of gallstones because it has a higher sensitivity for detection of gallstones, avoids the risks associated with intravenous contrast, and is more cost-effective. Imaging during this patient's hospitalization revealed multiple small gallstones in the gallbladder. Her common bile duct is normal in size and without choledocholithiasis; therefore, it is likely that a stone has passed through the common bile duct. Gallstone-induced acute pancreatitis can be caused by obstruction of the pancreatic duct or the ampulla, causing bile to reflux back into the pancreatic duct."
+]
+},
+{
+"type":"p",
+"hlId":"3e034c",
+"children":[
+"Endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be considered in the setting of ascending cholangitis with choledocholithiasis or if ongoing biliary obstruction is confirmed. The presence of cholangitis is manifested by fever, jaundice, and right-upper-quadrant abdominal pain and, in severely ill patients, hypotension and altered mental status. Cholangitis is potentially life-threatening, and antibiotic therapy targeting gram-negative Enterobacteriaceae should be administered. Identified common bile duct stones should be removed urgently with ERCP, after which elective cholecystectomy should be performed during the initial hospitalization or within 2 weeks to reduce the risk for complications. This patient does not have cholangitis, choledocholithiasis, or biliary obstruction."
+]
+},
+{
+"type":"p",
+"hlId":"eb3e66",
+"children":[
+"Endoscopic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and magnetic resonance cholangiopancreatography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may be considered if ongoing biliary obstruction is suspected. This patient requires neither examination because she is clinically improving, her laboratory values are normal, and the bile duct on ultrasonography is of normal caliber. These findings suggest that biliary obstruction is unlikely."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_3",
+"objective":{
+"__html":"Treat gallstone pancreatitis with early cholecystectomy."
+},
+"references":[
+[
+"Crockett SD, Wani S, Gardner TB, et al; American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guideline on initial management of acute pancreatitis. Gastroenterology. 2018;154:1096-1101. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29409760",
+"target":"_blank"
+},
+"children":[
+"PMID: 29409760"
+]
+},
+" doi:10.1053/j.gastro.2018.01.032"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":1,
+"C":59,
+"D":29,
+"E":4
+},
+"hlIds":[
+"daf7c0",
+"f78abf",
+"84de6c",
+"cb2b54",
+"cba9c0",
+"bce002",
+"bba84b",
+"3e034c",
+"eb3e66"
+]
+}

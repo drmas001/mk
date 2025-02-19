@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q062",
+"number":62,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d67f3a",
+"children":[
+"A 54-year-old man is evaluated in the emergency department 2 hours after the onset of acute, sharp, central chest pain that radiates to the back and has intensified over time. He has hypertension. He quit smoking 2 years ago. Medications are hydrochlorothiazide and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"7b97f0",
+"children":[
+"On physical examination, blood pressure in the right arm is 90/56 mm Hg, blood pressure in the left arm is not obtainable, and pulse rate is 120/min. He is confused and diaphoretic. Cardiac examination reveals a summation gallop and a grade 3/6 diastolic murmur at the right upper sternal border. Pulmonary examination reveals crackles. Radial pulses are weakly present on the right and absent on the left. Lower extremity pulses are diminished. Skin is cool and mottled."
+]
+},
+{
+"type":"p",
+"hlId":"15d8b2",
+"children":[
+"Chest radiograph reveals a widened mediastinum, and a CT angiogram shows a type A aortic dissection."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coronary angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous nitroprusside"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Open aortic repair"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thoracic endovascular aortic repair"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"19de8b",
+"children":[
+"In patients with ascending aortic dissection, immediate open aortic repair is imperative to improve survival and reduce morbidity."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cd9644",
+"children":[
+"The most appropriate treatment for this patient with acute type A aortic dissection is immediate open aortic repair (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The in-hospital mortality rate for patients with acute type A aortic dissection is greater than 50% with conservative measures and typically 10% to 20% following surgery. In this patient with hypotension, asymmetric arm blood pressures and pulses, and murmur of aortic regurgitation, emergency repair of the aorta and aortic valve repair or replacement are indicated. Delaying surgical repair has been associated with higher morbidity and mortality rates, and expert consensus guidelines recommend emergency repair in patients without clear contraindications."
+]
+},
+{
+"type":"p",
+"hlId":"cddef7",
+"children":[
+"A retrospective study evaluated the role of coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in patients with type A aortic dissection who underwent emergency aortic surgery. In-hospital mortality rates were no different in those who underwent coronary angiography compared with those who did not. Furthermore, coronary angiography had no impact on coronary artery bypass grafting, as most of these procedures were performed for coronary artery dissection, not atherosclerotic coronary artery disease. These findings support the need to perform aortic surgery as soon as possible and not delay surgery for coronary angiography."
+]
+},
+{
+"type":"p",
+"hlId":"f9381c",
+"children":[
+"Although most guidelines recommend that patients with acute aortic dissection be treated aggressively with blood pressure reduction (systolic blood pressure goal of <120 mm Hg in the first hour), this patient should undergo emergent aortic repair due to evidence of cardiogenic shock. Interventions to reduce his blood pressure are not needed. When indicated, intravenous β-blocker therapy is used initially to lower blood pressure; decrease the velocity of left ventricular contraction; and reduce heart rate, contractility, and aortic shear stress. Vasodilator therapy, using agents such as nitroprusside (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), follows β-blockade."
+]
+},
+{
+"type":"p",
+"hlId":"d07109",
+"children":[
+"There are reports of endovascular repair (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of ascending aortic dissection; however, open surgical repair remains the standard of care and is recommended by current guidelines. Furthermore, this patient requires aortic valve repair or replacement due to evidence of aortic regurgitation, and endovascular repair has not been shown to be effective in patients with evidence of valvular dysfunction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s10_5_3",
+"objective":{
+"__html":"Treat acute ascending aortic dissection with open aortic repair."
+},
+"references":[
+[
+"Lawton JS, Liu J, Kulshrestha K, et al. The impact of surgical strategy on survival after repair of type A aortic dissection. J Thorac Cardiovasc Surg. 2015;150:294-301.e1. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26005060",
+"target":"_blank"
+},
+"children":[
+"PMID: 26005060"
+]
+},
+" doi:10.1016/j.jtcvs.2015.03.023"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":5,
+"C":70,
+"D":22,
+"E":0
+},
+"hlIds":[
+"d67f3a",
+"7b97f0",
+"15d8b2",
+"1054f1",
+"19de8b",
+"cd9644",
+"cddef7",
+"f9381c",
+"d07109"
+]
+}

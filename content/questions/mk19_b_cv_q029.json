@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q029",
+"number":29,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"36c72a",
+"children":[
+"A 57-year-old woman is evaluated in the emergency department for an acute anterior ST-elevation myocardial infarction."
+]
+},
+{
+"type":"p",
+"hlId":"c0c7db",
+"children":[
+"Aspirin, ticagrelor, unfractionated heparin, and intravenous nitroglycerin are initiated. Emergent coronary angiography reveals an acutely occluded proximal left anterior descending (LAD) coronary artery and 70% stenosis of the mid right coronary artery. The LAD lesion is treated with drug-eluting stent placement, resulting in resolution of chest pain and improvement in the ST-segment elevation seen on ECG."
+]
+},
+{
+"type":"p",
+"hlId":"c512d8",
+"children":[
+"Following successful percutaneous coronary intervention, blood pressure is 138/82 mm Hg, pulse rate is 78/min, respiration rate is 18/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. The remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Glycoprotein IIb/IIIa inhibitor infusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Predischarge exercise ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right coronary artery revascularization"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supplemental oxygen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"14ff67",
+"children":[
+"The preferred method of treating ST-elevation myocardial infarction is primary percutaneous coronary intervention."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7fd177",
+"children":[
+"Approximately 50% of patients with ST-elevation myocardial infarction (STEMI) have other obstructive lesions remote from the area of infarction (“nonculprit” lesions); studies have shown the benefit of nonculprit lesion revascularization within 4 to 6 weeks following STEMI."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c6237b",
+"children":[
+"The most appropriate management is right coronary artery revascularization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient presents with an anterior ST-elevation myocardial infarction (STEMI). Prompt reperfusion with primary percutaneous coronary intervention (PCI) is indicated. Because rates of achieving vessel patency are higher and more reliable with primary PCI than with thrombolysis, primary PCI is the preferred method of treating STEMI. In addition to the left anterior descending artery culprit lesion, the patient has obstruction to the mid right coronary artery. Approximately 50% of patients with STEMI have other obstructive lesions remote from the area of infarction (“nonculprit” lesions), and revascularization should be considered. In selected hemodynamically stable patients with STEMI and low-complexity multivessel disease, PCI of a nonculprit lesion may be considered at the time of primary PCI to reduce cardiac event rates. In hemodynamically stable patients with STEMI and multivessel disease, such as this patient, staged PCI of a significant noninfarct artery stenosis within a short interval after PCI of the infarct vessel is recommended to reduce the risk for death or myocardial infarction."
+]
+},
+{
+"type":"p",
+"hlId":"8323f7",
+"children":[
+"There is no indication for initiation of potent antiplatelet therapy, such as intravenous glycoprotein IIb/IIIa inhibition (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), following successful primary PCI in the absence of thrombotic complications, because the hemorrhagic risk outweighs potential reduction in thrombosis in patients treated appropriately with oral dual antiplatelet therapy."
+]
+},
+{
+"type":"p",
+"hlId":"e28f5c",
+"children":[
+"Low-risk patients with non–ST-elevation acute coronary syndrome can be managed with an ischemia-guided strategy. These patients will undergo noninvasive stress testing before hospital discharge. Cardiac catheterization is reserved for patients with active or intermittent ischemia, including those with angina despite medical therapy or evidence of ischemia on stress testing. This patient with STEMI has undergone revascularization of a culprit lesion and will undergo revascularization of a nonculprit lesion; predischarge exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") will serve no useful purpose."
+]
+},
+{
+"type":"p",
+"hlId":"884594",
+"children":[
+"Supplemental oxygen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in the setting of normal oxygen saturation is associated with increased mortality in patients with acute coronary syndrome. The American Heart Association recommends oxygen therapy for oxygen saturation less than 90% or in the presence of heart failure or dyspnea. This patient has no need for supplemental oxygen therapy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_2_2_1",
+"objective":{
+"__html":"Treat multivessel coronary artery disease in a patient with an ST-elevation myocardial infarction."
+},
+"references":[
+[
+"Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Dec 9:CIR0000000000001038. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34882435",
+"target":"_blank"
+},
+"children":[
+"PMID: 34882435"
+]
+},
+" doi:10.1161/CIR.0000000000001038."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":31,
+"B":33,
+"C":29,
+"D":7,
+"E":0
+},
+"hlIds":[
+"36c72a",
+"c0c7db",
+"c512d8",
+"1e31fb",
+"14ff67",
+"7fd177",
+"c6237b",
+"8323f7",
+"e28f5c",
+"884594"
+]
+}

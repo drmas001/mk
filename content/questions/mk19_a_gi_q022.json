@@ -1,0 +1,226 @@
+{
+"id":"mk19_a_gi_q022",
+"number":22,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7c1189",
+"children":[
+"A 25-year-old woman is evaluated for watery, nonbloody diarrhea of 9 months' duration, occurring four times daily but not nocturnally. It is usually accompanied by abdominal pain in the periumbilical area or left lower quadrant. Pain usually diminishes after a bowel movement. She has had no weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"96102a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 22. Abdominal examination reveals minimal tenderness in the left lower quadrant."
+]
+},
+{
+"type":"p",
+"hlId":"7eecf1",
+"children":[
+"Laboratory studies show normal fecal calprotectin, thyroid-stimulating hormone, hematocrit, tissue transglutaminase IgA, and liver chemistries. The test result for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colonoscopy with biopsy of right and left colon"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stool testing for <i>Escherichia coli</i> O157:H7"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stool testing for <i>Giardia</i>"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"200584",
+"hvc":true,
+"children":[
+"The diagnosis of irritable bowel syndrome requires symptoms of recurrent abdominal pain at least 1 day a week for 3 months, along with at least two of the following: pain related to defecation, change in stool frequency, or change in stool consistency."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6e1bbf",
+"hvc":true,
+"children":[
+"Fecal calprotectin testing to assess for inflammatory bowel disease and stool testing for giardiasis and celiac disease should be considered in patients with chronic diarrhea."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1ffa39",
+"children":[
+"The most appropriate diagnostic test is stool testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Giardia"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient meets the clinical criteria for irritable bowel syndrome with abdominal pain at least 1 day a week for 3 months and at least two of the following: pain related to defecation, change in stool frequency, or change in stool consistency. IBS is a common cause of diarrhea and can be diagnosed on clinical grounds, including history and physical examination. Although an extensive workup for structural abnormalities is not indicated in the absence of alarm symptoms, fecal calprotectin testing to assess for inflammatory bowel disease and stool testing for giardiasis and celiac disease should be considered in patients with chronic diarrhea."
+]
+},
+{
+"type":"p",
+"hlId":"8c2903",
+"children":[
+"Abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") visualizes the gallbladder and biliary tree, and its role in the evaluation of abdominal pain is principally to exclude choledocholithiasis or biliary obstruction. Biliary colic pain is typically postprandial, particularly after fatty meals. Diarrhea is not a feature of biliary colic. Given the patient's symptoms, ultrasonography is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"53ff54",
+"children":[
+"Colonoscopy with biopsy of the right and left colon (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is performed to investigate for microscopic colitis, a form of inflammatory bowel disease that most commonly affects women in the seventh or eighth decades of life. It is characterized by watery diarrhea and is sometimes associated with medication use, including NSAIDs. Microscopic colitis does not have to be ruled out in a patient meeting clinical criteria for IBS without alarm symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"d8a035",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" O157:H7 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can cause acute inflammatory diarrhea via toxin-mediated injury to the colon. Clinical manifestations include bloody diarrhea, tenesmus, and leukocytosis. This condition can progress to hemolytic uremic syndrome. The chronic time course and nonbloody nature of diarrhea in this patient make this diagnosis unlikely."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_6_1",
+"objective":{
+"__html":"Diagnose irritable bowel syndrome."
+},
+"references":[
+[
+"Smalley W, Falck-Ytter C, Carrasco-Labra A, et al. AGA clinical practice guidelines on the laboratory evaluation of functional diarrhea and diarrhea-predominant irritable bowel syndrome in adults (IBS-D). Gastroenterology. 2019;157:851-854. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31302098",
+"target":"_blank"
+},
+"children":[
+"PMID: 31302098"
+]
+},
+" doi:10.1053/j.gastro.2019.07.004"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":46,
+"C":2,
+"D":47,
+"E":0
+},
+"hlIds":[
+"7c1189",
+"96102a",
+"7eecf1",
+"2eb226",
+"200584",
+"6e1bbf",
+"1ffa39",
+"8c2903",
+"53ff54",
+"d8a035"
+]
+}

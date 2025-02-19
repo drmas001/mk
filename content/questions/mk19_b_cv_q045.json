@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q045",
+"number":45,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"73d025",
+"children":[
+"A 78-year-old woman is evaluated for a 3-month history of heart failure with reduced ejection fraction (ejection fraction, 20%). She has stable dyspnea when walking up stairs but has no other symptoms. Her medical history is otherwise unremarkable. Medications are valsartan-sacubitril, carvedilol, furosemide, and spironolactone. Carvedilol is at half-maximum dosage; all other medications are at maximum recommended dosages."
+]
+},
+{
+"type":"p",
+"hlId":"1673c8",
+"children":[
+"On physical examination, blood pressure is 118/74 mm Hg and pulse rate is 88/min. BMI is 27, unchanged from her last visit. Central venous pressure and the remainder of the examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add ivabradine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Decrease valsartan-sacubitril"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase carvedilol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Increase furosemide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3be9b9",
+"children":[
+"β-Blockers should be initiated in all patients with heart failure with reduced ejection fraction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"45fa74",
+"children":[
+"In patients with heart failure with reduced ejection fraction, β-blockers should be initiated at low dosages and slowly uptitrated over weeks (not days) until the patient achieves the guideline-directed target dosage or maximum tolerable dosage."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"17f69c",
+"children":[
+"The most appropriate management is to increase the dosage of carvedilol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has recent-onset heart failure with reduced ejection fraction (HFrEF) and is undergoing medication titration. β-Blockers should be initiated in all patients with HFrEF. These agents can improve remodeling, increase left ventricular ejection fraction, and reduce hospitalization and mortality when added to ACE inhibitor and diuretic therapy. In contrast to ACE inhibitors, the benefits of β-blocker therapy do not seem to be a class effect, and one of three agents shown to have a mortality benefit (bisoprolol, carvedilol, metoprolol succinate) should be used. β-Blockers are generally well tolerated but should not be started when the patient is acutely decompensated. These agents have negative inotropic properties and may exacerbate heart failure in patients with acute volume overload. β-Blockers should be initiated at low dosages and uptitrated slowly over weeks (not days) until the patient achieves the guideline-directed target dosage or maximum tolerable dosage. The target dosage for carvedilol is 25 mg twice daily (50 mg twice daily if weight >85 kg [187 lb])."
+]
+},
+{
+"type":"p",
+"hlId":"3a48bc",
+"children":[
+"Ivabradine has been shown to reduce hospitalizations in patients with New York Heart Association functional class III to IV heart failure on maximally tolerated β-blocker therapy. This patient's heart rate is elevated; however, she is not receiving the maximum dosage of carvedilol, and carvedilol should be increased before considering adding ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"af647f",
+"children":[
+"In patients with symptomatic heart failure, valsartan-sacubitril has been shown to reduce morbidity and mortality compared with enalapril. It will occasionally cause symptomatic hypotension, a reason to lower the dosage. This patient has no indication to lower the dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"2456fa",
+"children":[
+"This patient has no evidence of volume overload on physical examination (no jugular venous distention or edema). Therefore, there is no need to increase the dosage of furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_3",
+"objective":{
+"__html":"Manage uptitration of β-blocker therapy in a patient with heart failure with reduced ejection fraction."
+},
+"references":[
+[
+"Yancy CW, Januzzi JL Jr, Allen LA, et al. 2017 ACC expert consensus decision pathway for optimization of heart failure treatment: answers to 10 pivotal issues about heart failure with reduced ejection fraction: a report of the American College of Cardiology Task Force on Expert Consensus Decision Pathways. J Am Coll Cardiol. 2018;71:201-230. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29277252",
+"target":"_blank"
+},
+"children":[
+"PMID: 29277252"
+]
+},
+" doi:10.1016/j.jacc.2017.11.025"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":14,
+"B":3,
+"C":82,
+"D":2,
+"E":0
+},
+"hlIds":[
+"73d025",
+"1673c8",
+"1054f1",
+"3be9b9",
+"45fa74",
+"17f69c",
+"3a48bc",
+"af647f",
+"2456fa"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q009",
+"number":9,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d67e59",
+"children":[
+"A 21-year-old woman is evaluated in the hospital following cardiac arrest that occurred during a collegiate cross-country race. She received cardiopulmonary resuscitation at the scene and has recovered while at the hospital. She has no pertinent personal medical history. The patient takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1af5c7",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"26298e",
+"children":[
+"Laboratory studies are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"c08f83",
+"children":[
+"Echocardiogram shows normal left ventricular function and right ventricular dilation and dysfunction. Results from cardiac catheterization are normal."
+]
+},
+{
+"type":"p",
+"hlId":"4b13d3",
+"children":[
+"Metoprolol is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"00eae5",
+"children":[
+"Which of the following is the most appropriate additional management before discharge?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amiodarone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Genetic testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Implantable cardioverter-defibrillator"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lisinopril"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"84ff9b",
+"children":[
+"Patients with sustained ventricular arrhythmias (>30 seconds) or cardiac arrest without a reversible cause have a class 1 recommendation for secondary prevention with implantable cardioverter-defibrillator placement."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3b1fea",
+"children":[
+"The most appropriate additional management before discharge is implantable cardioverter-defibrillator (ICD) placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in this athlete who presented with rescued sudden cardiac death. Patients with sustained ventricular arrhythmias (>30 seconds) or cardiac arrest without a reversible cause have a class 1 recommendation for secondary prevention with ICD placement. Despite her normal left ventricular function, an ICD is warranted before discharge, barring a clear, acute contraindication (e.g., active bacteremia). ICDs are indicated and effective in the setting of secondary prevention of sudden cardiac death, even if the cause is not confirmed (unless it is very clear that the cause is acutely reversible and correctable). However, her presentation is not unusual for arrhythmogenic right ventricular cardiomyopathy (ARVC), an inherited “wear-and-tear” disorder that primarily affects the right ventricle but may be seen in the left. Ventricular arrhythmias are often the initial presentation, and some are very dramatic (as in this case); they are also very likely to recur. Cardiac magnetic resonance imaging would be helpful to assess myocardial infiltration, ideally before ICD placement. A major facet of her treatment will be exertional limitation, often a major challenge for patients who are athletes."
+]
+},
+{
+"type":"p",
+"hlId":"fb45f2",
+"children":[
+"Amiodarone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a multichannel antiarrhythmic agent that may be necessary in patients with ARVC and refractory ventricular arrhythmias. However, this patient has yet to have a trial of exertional limitation and/or a β-blocker (e.g., metoprolol), and she is quite young to commit to amiodarone as first-line therapy. Furthermore, amiodarone is not nearly as effective as is an ICD in preventing sudden cardiac death."
+]
+},
+{
+"type":"p",
+"hlId":"80782b",
+"children":[
+"Genetic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be helpful to understand this patient's disease risk and severity, and results may have implications for her future children and other family members. However, genetic testing is not required for diagnosis or ICD placement, and it should not be undertaken without prior genetic counseling. Therefore, it is not necessary before discharge, as it is unlikely to affect immediate decision making regarding ICD placement."
+]
+},
+{
+"type":"p",
+"hlId":"5e3711",
+"children":[
+"Lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be helpful for patients with new left ventricular dysfunction and has been recommended in patients with ARVC with right ventricular dysfunction; however, it has no current role in this patient. Furthermore, it is not as imperative before discharge as is an ICD."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_10_3",
+"objective":{
+"__html":"Provide secondary prevention of sudden cardiac death using an implantable cardioverter-defibrillator."
+},
+"references":[
+[
+"Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018;72:e91-e220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29097296",
+"target":"_blank"
+},
+"children":[
+"PMID: 29097296"
+]
+},
+" doi:10.1016/j.jacc.2017.10.054"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":18,
+"C":77,
+"D":3,
+"E":0
+},
+"hlIds":[
+"d67e59",
+"1af5c7",
+"26298e",
+"c08f83",
+"4b13d3",
+"00eae5",
+"84ff9b",
+"3b1fea",
+"fb45f2",
+"80782b",
+"5e3711"
+]
+}

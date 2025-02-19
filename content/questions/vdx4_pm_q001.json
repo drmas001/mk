@@ -1,0 +1,148 @@
+{
+"id":"vdx4_pm_q001",
+"number":1,
+"bookId":"vdx_pm",
+"correctAnswer":"B",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dd3825",
+"children":[
+"A 42-year-old woman with systemic sclerosis is evaluated for progressive dyspnea and exertional chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"433059",
+"children":[
+"An apical four-chamber echocardiogram is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f001",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypertrophic cardiomyopathy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pulmonary hypertension"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Restrictive cardiomyopathy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stress-induced cardiomyopathy"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f0707a",
+"children":[
+"The most likely diagnosis is pulmonary hypertension. The apical four-chamber echocardiogram view shows dilation of both the right atrium and right ventricle. On a normal apical four-chamber view, the right ventricle should be smaller than the left ventricle, but in this image, the right ventricle is significantly larger than the left. The right atrium also dwarfs the left atrium. Other echocardiographic findings in patients with pulmonary hypertension may include right ventricular hypokinesis, septal flattening or bowing toward the left ventricle, tricuspid regurgitation, pulmonary insufficiency, and midsystolic closure of the pulmonary valve."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_1_1",
+"objective":{
+"__html":"Diagnose pulmonary hypertension."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figureCredits":[
+[
+"Image reproduced with permission from Poch D, Mandel J. Pulmonary hypertension. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC202104200",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:ITC49-ITC64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33844574",
+"target":"_blank"
+},
+"children":[
+"PMID: 33844574"
+]
+},
+". Copyright 2021, American College of Physicians."
+]
+],
+"figuresContent":{
+"vdx4_pm_mcq_f001":{
+"id":"vdx4_pm_mcq_f001",
+"number":1,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3e13e5d280ec3e3ad69cbdae73710a89",
+"height":388,
+"width":432,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"dd3825",
+"433059",
+"413696",
+"f0707a"
+]
+}

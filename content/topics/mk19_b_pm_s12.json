@@ -1,0 +1,8172 @@
+{
+"id":"mk19_b_pm_s12",
+"subspecialtyId":"pm",
+"title":"Common ICU Conditions",
+"jsonContent":{
+"type":"section",
+"id":"mk19_b_pm_s12",
+"title":{
+"__html":"Common ICU Conditions"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"d441e6",
+"children":[
+"Common ICU Conditions"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1",
+"title":{
+"__html":"Acute Respiratory Failure"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"2bd877",
+"children":[
+"Acute Respiratory Failure"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"921391",
+"children":[
+"Acute respiratory failure occurs when a patient cannot adequately oxygenate blood (hypoxemia) or remove carbon dioxide (hypercapnia) from the blood. History and physical examination together with tests such as chest radiograph ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t52",
+"wrapId":"1",
+"children":[
+"Table 52"
+]
+}
+]
+},
+")"
+]
+},
+", CT scan, arterial blood gas, and pulse oximetry are useful as part of a structured evaluation allowing clinicians to identify and treat factors leading to respiratory failure. This approach includes evaluation for airway compromise, inadequate oxygenation, and inadequate ventilation ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_pm_f25",
+"wrapId":"1",
+"children":[
+"Figure 25"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_t52",
+"mk19_b_pm_f25"
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_1",
+"title":{
+"__html":"Acute Upper Airway Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"dabc22",
+"children":[
+"Acute Upper Airway Management"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"b45ca2",
+"children":[
+"In patients who cannot maintain a patent airway or protect themselves against aspiration, a cuffed endotracheal or tracheostomy tube should be placed. An oropharyngeal, nasopharyngeal, or supraglottic device or laryngeal mask airway can aid oxygenation and ventilation when immediate intubation is not feasible and may be used until the airway can be secured."
+]
+},
+{
+"type":"p",
+"hlId":"f04e63",
+"children":[
+"Respiratory failure can result from obstruction or compression of the upper airways. Patients with partial airway obstruction may have tachypnea, stridor, increased respiratory effort, or an upright (tripod) posture with the use of accessory muscles. Absent air movement, inability to talk, or cyanosis suggests complete obstruction, which is a medical emergency. Inspiratory stridor suggests obstruction at or above the vocal cords, whereas expiratory stridor and wheezing suggest an intrathoracic process. Pulse oximetry in the setting of partial upper airway obstruction and stridor is usually normal. In patients with respiratory distress or for whom the risk for respiratory deterioration is high, early intubation is indicated."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"662eb3",
+"children":[
+"In patients who cannot maintain a patent airway or protect their airway against aspiration, a secure airway should be established by inserting a cuffed endotracheal or tracheostomy tube."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_2",
+"title":{
+"__html":"Hypoxemic Respiratory Failure"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"c69202",
+"children":[
+"Hypoxemic Respiratory Failure"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"94c8a8",
+"children":[
+"Hypoxemic respiratory failure is caused by inadequate oxygenation of hemoglobin. The most common cause of hypoxemic respiratory failure is shunt, which is an extreme ventilation/perfusion (V/Q) mismatch (V/Q = 0), which occurs when perfused areas of the lung are not ventilated. There are two main causes: alveolar collapse (atelectasis) and alveolar filling with blood, cells, protein, or water. The key feature of the shunt is an increased alveolar-arterial oxygen gradient not responsive to oxygen supplementation, derived by subtracting the measured arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" from the calculated alveolar P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" from the alveolar gas equation:"
+]
+},
+{
+"type":"p",
+"hlId":"a4f0d0",
+"class":"equation",
+"children":[
+"Alveolar P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" = (F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" × [P",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"atm"
+]
+},
+" − 47]) − (1.25 × P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+")"
+]
+},
+{
+"type":"p",
+"hlId":"085226",
+"children":[
+"F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is the fraction of inspired oxygen (0.21 in ambient air), P",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"atm"
+]
+},
+" is the atmospheric pressure (760 mm Hg at sea level), and 47 represents the partial pressure of water in mm Hg at 37°C (98.6°F)."
+]
+},
+{
+"type":"p",
+"hlId":"8033b6",
+"children":[
+"Features of acute hypoxemic respiratory failure include recent onset of increased work of breathing, tachypnea, and anxiety. Cyanosis of the lips or fingers may be present when oxygenation of hemoglobin is severely compromised—often below 80%. Auscultation of crackles, wheezing, egophony, or rhonchi may suggest underlying etiologies. Clubbing suggests chronic diseases. Findings on chest imaging may be helpful to identify the cause of acute respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"7879e0",
+"children":[
+"Treatment of hypoxemic respiratory failure includes administration of supplemental oxygen, mechanical ventilation (with positive end-expiratory pressure, or PEEP) to open alveoli, and in severe cases, extracorporeal membrane oxygenation (ECMO). Disease-specific management is discussed here."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"4afb6b",
+"children":[
+"The most common cause of hypoxemic respiratory failure in the ICU is shunt, which occurs when perfused areas of the lung are not ventilated, whether because of alveolar collapse (atelectasis) or alveolar filling with blood, protein, or water."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cb62b1",
+"children":[
+"Management of hypoxemic respiratory failure centers on administration of supplemental oxygen and measures to open alveoli that are fluid-filled or collapsed."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_3",
+"title":{
+"__html":"Acute Inhalational Injuries"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"882cee",
+"children":[
+"Acute Inhalational Injuries"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"55db92",
+"children":[
+"Pulmonary complications are a leading cause of morbidity and mortality in burn patients or those who experience significant smoke exposure from fires. Direct thermal injury resulting from smoke inhalation is usually limited to the upper airways. However, steam inhalation causes direct thermal injury throughout the tracheobronchial tree because of its ability to carry heat more efficiently than dry, hot gas. After smoke inhalation, one third of patients develop airway edema or mucosal sloughing from epithelial necrosis. Chest physiotherapy and serial bronchoscopy are frequently necessary to facilitate continued airway clearance. Injury to the distal tracheobronchial tree and lung parenchyma is caused by chemicals in smoke that generate a combination of bronchoconstriction, pulmonary edema, V/Q mismatch, and bronchial cast formation. Treatment is supportive."
+]
+},
+{
+"type":"p",
+"hlId":"724fb5",
+"children":[
+"Secondary infections after inhalational injury are common and are a major cause of morbidity and mortality. Pneumonia is the most common complication after smoke inhalation, especially from ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" species. Toxicity from carbon monoxide (CO) and hydrogen cyanide (HCN) are common after smoke inhalation and should be suspected in all patients with smoke exposure. Management of these toxicities is discussed in the section on ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s13_4",
+"children":[
+"Specific Critical Care Topics"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"acff88",
+"children":[
+"Inhalational injuries related to chemical vapors are uncommon. War, industry, farming, and exposure to home cleaning or pesticide agents constitute most chemical inhalation injuries. Water-soluble agents usually affect mucosal structures of the upper airway and have rapid onset of symptoms. Water-insoluble agents affect deeper structures including lung parenchyma and distal airways, and symptoms are often delayed. Edema, bronchospasm, asphyxiation, and direct systemic toxicity are common. Key features of inhalational agents are listed in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t53",
+"wrapId":"2",
+"children":[
+"Table 53"
+]
+}
+]
+},
+". Treatment is supportive. In patients with cholinesterase inhibitor exposure (typically organophosphate pesticides), high-dose atropine is administered until bronchorrhea and bronchospasm are controlled."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_pm_t53"
+]
+},
+{
+"type":"p",
+"hlId":"a3b87b",
+"children":[
+"E-cigarette- or vaping-associated lung injury (EVALI) represents another type of inhalational injury. Vitamin E acetate, used to thicken illicit vaping products, is linked to toxicity. Clinical suspicion for EVALI should be high in patients who use e-cigarettes or vaping devices, have hypoxemia, and report respiratory symptoms (cough, dyspnea) or gastrointestinal symptoms (abdominal pain, vomiting, diarrhea). Patients may also have constitutional symptoms (fever, chills). Reported cases of EVALI have declined sharply since their peak in September 2019. The CDC has issued ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease/healthcare-providers/index.html",
+"target":"_blank"
+},
+"children":[
+"guidelines"
+]
+},
+" on diagnosis and treatment of EVALI."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_4",
+"title":{
+"__html":"Acute Respiratory Distress Syndrome"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7309e7",
+"children":[
+"Acute Respiratory Distress Syndrome"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"ccc7a5",
+"children":[
+"Acute respiratory distress syndrome (ARDS) is a syndrome characterized by acute hypoxemia and diffuse lung injury as a result of an inciting insult. The most common causes are sepsis and pneumonia, but there are other causes of ARDS ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t54",
+"wrapId":"3",
+"children":[
+"Table 54"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"3",
+"contentIds":[
+"mk19_b_pm_t54"
+]
+},
+{
+"type":"p",
+"hlId":"58d8de",
+"children":[
+"In ARDS, disruption of surfactant, vascular endothelial injury, and alveolar epithelial injury lead to fluid and protein extravasation into interstitial and alveolar spaces and alveolar collapse, V/Q mismatch, and decreased lung compliance. Histology shows diffuse alveolar damage ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_pm_f26",
+"wrapId":"4",
+"children":[
+"Figure 26"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"4",
+"contentIds":[
+"mk19_b_pm_f26"
+]
+},
+{
+"type":"p",
+"hlId":"c5f051",
+"children":[
+"ARDS has no specific diagnostic test. The most recent ARDS diagnostic consensus is summarized in the 2012 Berlin Definition of ARDS ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t55",
+"wrapId":"5",
+"children":[
+"Table 55"
+]
+}
+]
+},
+")"
+]
+},
+". Patients with ARDS are at high risk for mortality, which increases with ARDS severity. Importantly, mortality is usually the result of underlying disease, secondary infection, or multiorgan dysfunction rather than refractory respiratory failure."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"5",
+"contentIds":[
+"mk19_b_pm_t55"
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_4_1",
+"title":{
+"__html":"Ventilatory Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"f6798b",
+"children":[
+"Ventilatory Management"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"71c84c",
+"children":[
+"Most patients with ARDS are managed with invasive mechanical ventilation. PEEP and low tidal volume ventilation are the cornerstones of ARDS management, as they are associated with improved patient outcomes. In ARDS, the lung injury is not homogenous—it is characterized by areas of noncompliant lung adjacent to lung with more normal compliance. The compliant lung is susceptible to overdistention and injury by tidal volume (volutrauma). Based on evidence showing an 11% absolute reduction in reduction in mortality, guidelines recommend a tidal volume of 4 to 8 mL/kg of predicted body weight and a plateau pressure less than 30 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O."
+]
+},
+{
+"type":"p",
+"hlId":"9a1cc9",
+"children":[
+"PEEP prevents lung injury associated with repeated opening and closing of distal airways and alveoli (atelectrauma). It improves homogeneity of the lung parenchyma by reducing differences in regional lung compliance and improves V/Q mismatch by maintaining alveolar recruitment. There is no definitive level of optimal PEEP for the ventilation of patients with ARDS. The favored method of selecting PEEP is to use a PEEP-F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" table, where PEEP is matched to the needed F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" to maintain a target saturation of 88% to 95%. Guidelines recommend using higher PEEP in patients with moderate to severe ARDS. However, a recent trial comparing higher PEEP and recruitment maneuvers to a lower PEEP strategy in moderate to severe ARDS showed an increase in mortality with higher PEEP."
+]
+},
+{
+"type":"p",
+"hlId":"64fe6d",
+"children":[
+"Prone positioning reduces compression of portions of the lung behind the cardiac and mediastinal structures and improves V/Q matching in patients with ARDS. A large randomized trial demonstrated improved mortality in patients with an arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" ratio less than 150 who were treated with early-onset (less than 48 hours) prone positioning and low tidal volume ventilation. Prone positioning for at least 12 to 16 hours a day should be considered for patients with severe ARDS (P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", less than 150; F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", at least 60)."
+]
+},
+{
+"type":"p",
+"hlId":"49a0db",
+"children":[
+"Two large trials have evaluated the role of ECMO in the management of ARDS; both trials demonstrated feasibility and trends toward decreased mortality. At this time, ECMO is part of the therapeutic options for patients with severe refractory respiratory failure resulting from ARDS. Early evaluation is recommended in patients with severe ARDS."
+]
+},
+{
+"type":"p",
+"hlId":"837e9c",
+"children":[
+"Other methods to optimize ventilator management in ARDS have been suggested, including recruitment maneuvers, inverse ratio ventilation, airway pressure release ventilation, esophageal pressure, and driving pressure-guided titration of PEEP, as well as high-frequency oscillatory ventilation. None of these methods has demonstrated a mortality benefit in ARDS."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"6d2880",
+"children":[
+"Treating patients with severe acute respiratory distress syndrome using early prone positioning and low tidal volume ventilation has demonstrated clinically important mortality benefit."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_4_2",
+"title":{
+"__html":"Nonventilatory Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"50a45e",
+"children":[
+"Nonventilatory Management"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"cc9c2f",
+"children":[
+"Although mortality in ARDS has decreased, the morbidity associated with ARDS is recognized as a major factor in survivors' well-being. Many interventions will have lasting effects beyond hospital discharge. Sedation and analgesia guidelines (discussed in the ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s11_1_1",
+"children":[
+"Principles of Critical Care"
+]
+},
+" section) are designed to limit the complications of sedative and opioid medications."
+]
+},
+{
+"type":"p",
+"hlId":"d149db",
+"children":[
+"Volume overload is recognized as a source of morbidity. The Fluids and Catheters Treatment Trial compared conservative with liberal fluid strategies in patients with ARDS. Although mortality did not differ between groups, patients who were treated with conservative fluid management showed improved oxygenation and decreased time on the ventilator and in the ICU. Patients who are hemodynamically stable and do not have end-organ hypoperfusion should receive protocol-directed diuretics and management to minimize fluid administration."
+]
+},
+{
+"type":"p",
+"hlId":"637922",
+"children":[
+"Paralytic agents in ARDS are used to increase oxygenation and decrease ventilator-induced lung injury. Although initial trials indicated a mortality benefit, the more recent Reevaluation of Systemic Early Neuromuscular Blockade trial showed that among patients with moderate to severe ARDS who were treated with a strategy of high PEEP, there was no significant difference in 90-day mortality between patients who receiving cisatracurium infusion and those treated with lighter sedation targets. There was a non–statistically significant increase in subsequent ICU-acquired weakness in paralyzed patients."
+]
+},
+{
+"type":"p",
+"hlId":"d87b78",
+"children":[
+"Sedation strategies have an effect on outcomes. The current recommendation is to lighten sedation as soon as it is safe, to allow patient interaction. A multicenter, randomized trial among ventilated ICU patients showed no difference in 90-day mortality between those assigned to no sedation and those assigned to light sedation with daily interruption. The study highlighted the importance of daily awakening, reassessment of the sedation strategies, and minimizing mind-altering medications."
+]
+},
+{
+"type":"p",
+"hlId":"4a0959",
+"children":[
+"Other therapies, including nutritional modifications, glucocorticoid administration, vitamin C, macrolide antibiotics, inhaled nitric oxide, prostacyclin analogues, and stem cells or granulocyte-macrophage colony-stimulating factor, have conflicting or limited evidence and are not recommended in the management of ARDS."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_5",
+"title":{
+"__html":"Heart Failure"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"6ff5ed",
+"children":[
+"Heart Failure"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"be78e6",
+"children":[
+"Acute cardiogenic pulmonary edema often presents with hypoxemic respiratory failure. In patients who present with acute respiratory failure, but no clear trigger for ARDS, it is important to evaluate for cardiogenic causes, which include cardiomyopathy, mitral and aortic valve disease, myocardial ischemia, and arrhythmias (particularly atrial fibrillation with rapid ventricular rate). Evaluation for a cardiac cause of pulmonary edema should include an assessment for volume overload (jugular venous distention, S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", peripheral edema), an electrocardiogram, B-type natriuretic peptide, serial serum troponins, and an echocardiogram."
+]
+},
+{
+"type":"p",
+"hlId":"4042d7",
+"children":[
+"In general, acute cardiogenic pulmonary edema responds promptly to therapy with diuretics and afterload reduction (vasodilators or inodilators). Systematic reviews demonstrate that noninvasive positive pressure ventilation (continuous positive airway pressure or bilevel positive airway pressure) hastens the resolution of hypoxemia, improves symptoms, lowers intubation rates, and decreases mortality compared with oxygen therapy alone."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"9683a2",
+"children":[
+"In cardiogenic pulmonary edema, noninvasive positive pressure ventilation (continuous positive airway pressure or bilevel positive airway pressure) hastens the resolution of hypoxemia, improves symptoms, lowers intubation rates, and decreases mortality compared with oxygen therapy alone."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_6",
+"title":{
+"__html":"Atelectasis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"d72bbd",
+"children":[
+"Atelectasis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"512a69",
+"children":[
+"Atelectasis is a common postoperative complication. Pain or impaired respiratory mechanics after thoracic and abdominal surgeries can lead patients to adopt shallow breathing patterns and to avoid coughing. Patients may be asymptomatic or present with diminished breath sounds at the lung bases, consolidation on imaging, egophony, rhonchi, and labored breathing. Management includes pain control, encouraging mobility, and secretion management. Respiratory physiotherapy (inspiratory muscle training, deep breathing exercise, mobility programs, or percussion and vibration therapy) help prevent atelectasis. Bronchoscopy for routine airway mucous clearance offers no clear benefit compared with other methods of chest physiotherapy. It should be considered whether 24 hours of chest physiotherapy fails to decrease the atelectasis. If secretions are minimal, positive pressure airway therapy (positive expiratory pressure devices) to recruit collapsed alveoli may be considered. No evidence exists for use of mucolytics such as N-acetyl cysteine for treatment of atelectasis."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"fa95f0",
+"hvc":true,
+"children":[
+"Strategies to prevent postoperative atelectasis include pain control, early mobility, and secretion management with aggressive chest physiotherapy; bronchoscopy for airway mucous clearance offers no clear benefit compared with other methods of chest physiotherapy."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_7",
+"title":{
+"__html":"Pneumonia"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"b7bf8c",
+"children":[
+"Pneumonia"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"189ed1",
+"children":[
+"Pneumonia is a common cause of respiratory failure in the ICU and is the most common cause of ARDS that develops outside the hospital. In patients with an appropriate history, chest radiograph is the standard for diagnosis. However, a negative clinical examination or chest radiograph does not necessarily rule out community-acquired pneumonia in symptomatic patients, especially in older adults. Therefore, the absence of typical features or focal infiltrates on chest radiograph should not preclude early antibiotic administration to persons with an otherwise high probability of pneumonia. For further discussion of community-acquired pneumonia, see ",
+{
+"type":"cross-reference",
+"target":"mk19_a_id_s3_3",
+"children":[
+"MKSAP 19 Infectious Disease"
+]
+},
+". In patients who do not respond appropriately to antibiotics, repeat sputum cultures should be obtained and nonbacterial causes of infection and noninfectious causes should be considered. In addition, further evaluation with chest ultrasonography, chest CT, or bronchoscopy should be considered to evaluate for complicating factors such as pleural effusion, abscess, or airway obstruction stemming from malignancy or foreign body aspiration."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"81ef55",
+"children":[
+"A negative clinical examination or chest radiograph does not necessarily rule out community-acquired pneumonia in symptomatic patients, especially in elderly individuals."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_8",
+"title":{
+"__html":"Diffuse Parenchymal Lung Disease"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"02e678",
+"children":[
+"Diffuse Parenchymal Lung Disease"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"209d64",
+"children":[
+"Acute exacerbations of diffuse parenchymal lung disease, particularly idiopathic pulmonary fibrosis, can occur either as a complication of an inciting event (infection, postprocedural, drug reaction) or, in many cases, for unknown reasons. The criteria for identifying acute exacerbations include previous or concurrent diagnosis of diffuse parenchymal lung disease, acute worsening of respiratory status (less than 1 month), and new ground-glass opacities on imaging studies. The mortality in patients with hypoxemic respiratory failure resulting from an exacerbation of idiopathic pulmonary fibrosis exceeds 50%. Most patients with hypoxemic respiratory failure caused by idiopathic pulmonary fibrosis are treated empirically with antibiotics and high-dose glucocorticoids or other immunosuppressants, but the data are insufficient to recommend specific doses, duration, or certainty of benefit. Outcomes after intubation and mechanical ventilation are very poor, as mortality can approach 100%. Therefore, many clinicians recommend that goals-of-care discussions be held and palliative care strategies be determined early in the clinical course and that other therapies, such as ECMO, only be offered as a bridge for patients eligible for (and already listed for) lung transplantation. (See ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s3_4_1",
+"children":[
+"Diffuse Parenchymal Lung Disease: Idiopathic Pulmonary Fibrosis"
+]
+},
+".)"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"cc4604",
+"children":[
+"Because outcomes after intubation and mechanical ventilation are very poor for patients with acute exacerbations of idiopathic pulmonary fibrosis, goals of care and palliative care strategies should be discussed early and other therapies, such as extracorporeal membrane oxygenation, should only be offered as a bridge for patients eligible for lung transplantation."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_9",
+"title":{
+"__html":"Pulmonary Embolism"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"78221c",
+"children":[
+"Pulmonary Embolism"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"8e7406",
+"children":[
+"Pulmonary embolism (PE) causes respiratory failure primarily through V/Q mismatch. After an acute PE, resistance to pulmonary blood flow increases both because of thrombosis and because of the vasospasm of adjacent pulmonary blood vessels from inflammatory mediators. Blood flow is directed to other areas of normal lung, which become overperfused. If alveolar oxygen levels in the normal lung are insufficient to fully oxygenate blood in the overperfused vessels, hypoxemia ensues. Chest radiograph or chest CT scan may demonstrate peripheral, ground-glass, wedge-shaped opacities (Hampton hump sign) signifying the presence of infarcted lung and surrounding atelectasis. Blood flow through atelectatic lung can result in shunt and worsened hypoxemia."
+]
+},
+{
+"type":"p",
+"hlId":"a38343",
+"children":[
+"Pulmonary emboli can also cause strain on the right ventricle (RV) if the PE causes significant pulmonary arterial obstruction. Cardiac output may be impaired, leading to reduced mixed venous oxygen saturation, especially when metabolic demands exceed cardiac capacity. If this occurs in conjunction with V/Q mismatch and shunt, blood cannot fully saturate with oxygen before leaving the alveolar capillaries. This adds to hypoxemia and subsequent respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"869c8b",
+"children":[
+"Although most patients with hypoxemia after PE can be managed with supplemental oxygen alone, some patients require intubation and mechanical ventilation. Mechanical ventilation produces several physiologic effects that need to be considered in the patient with PE and RV dysfunction. Increased intrathoracic pressures from mechanical ventilation can decrease venous return and RV preload. Increased alveolar pressures can compress capillaries and increase RV afterload. These effects can lead to further RV dysfunction and hemodynamic instability. Although there is no absolute contraindication to mechanical ventilation in patients with underlying PE, the possibility of rapid hemodynamic instability must be anticipated. This is usually managed with vasopressors (norepinephrine), oxygen, careful use of PEEP, and sometimes pulmonary vasodilators (inhaled nitric oxide or epoprostenol). In patients with hemodynamic collapse, treatment with thrombolytics is associated with decreased mortality and improved clinical and echocardiographic parameters."
+]
+},
+{
+"type":"p",
+"hlId":"cd2ec6",
+"children":[
+"Thrombolytic therapy has up to a 2% risk of intracranial hemorrhage, and this should be considered relative to the risk for massive PE leading to hemodynamic collapse. In patients with contraindications to thrombolysis, or in those in whom thrombolysis has failed, surgical or percutaneous catheter-based embolectomy is an option if resources are available. For further discussion of PE, see ",
+{
+"type":"cross-reference",
+"target":"mk19_b_hm_s9_3",
+"children":[
+"MKSAP 19 Hematology"
+]
+},
+"."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10",
+"title":{
+"__html":"Hypercapnic (Ventilatory) Respiratory Failure"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"919b01",
+"children":[
+"Hypercapnic (Ventilatory) Respiratory Failure"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"aeaef8",
+"children":[
+"Hypercapnic, or ventilatory, respiratory failure occurs when alveolar ventilation is inadequate to clear the CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" produced by cellular metabolism and the level of CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" increases in the blood. Hypercapnia reflects alveolar hypoventilation, an increased metabolic load that is not matched by an increase in alveolar ventilation, or both. Alveolar hypoventilation occurs when the patient is unable to ventilate because of decreased respiratory drive, decreased tidal volume (V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"T"
+]
+},
+"), or increased volume of dead space (V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+") relative to the overall tidal volume (V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+"/V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"T"
+]
+},
+") ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t56",
+"wrapId":"6",
+"children":[
+"Table 56"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"6",
+"contentIds":[
+"mk19_b_pm_t56"
+]
+},
+{
+"type":"p",
+"hlId":"4d7bdb",
+"children":[
+"Clinical features of acute hypercapnic respiratory failure are variable and nonspecific. Symptoms may include somnolence and myoclonic jerks in the setting of CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" narcosis. In some cases, increased work of breathing may precede the development of acute hypercapnic respiratory failure. Underlying chest wall deformity, neurologic weakness, or polycythemia should also prompt evaluation for hypercapnia in the setting of respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"3bb71b",
+"children":[
+"Patients presenting with hypercapnic respiratory failure frequently have coexisting hypoxemia. In these cases, administration of supplemental oxygen may decrease hypoxemia, but it may increase hypercapnia (mechanisms include V/Q mismatch, decreased respiratory drive, and the Haldane effect). This is particularly dangerous for patients with neuromuscular diseases, as they may rapidly become more hypercapnic, leading to obtundation and respiratory arrest. All patients who are suspected of acute hypercapnic respiratory failure should have arterial blood gas analysis even if hypoxemia resolves with oxygen administration ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t57",
+"wrapId":"7",
+"children":[
+"Table 57"
+]
+}
+]
+},
+")"
+]
+},
+". The pH helps to determine the acuity and severity of respiratory failure. In chronic hypercapnia, pH changes are less marked because of metabolic compensation resulting in increased serum bicarbonate levels. See ",
+{
+"type":"cross-reference",
+"target":"mk19_a_np_s3_4",
+"children":[
+"MKSAP 19 Nephrology"
+]
+},
+" for further discussion of respiratory acidosis."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"7",
+"contentIds":[
+"mk19_b_pm_t57"
+]
+},
+{
+"type":"p",
+"hlId":"a93fc5",
+"children":[
+"Management of an elevated arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" depends on the clinical situation and the resultant pH. For instance, an elevated arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" may represent the baseline in patients with COPD; however, in patients with asthma, the development of elevated arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" may indicate imminent respiratory failure requiring emergent intubation."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"6c35ee",
+"children":[
+"All patients who are suspected of acute hypercapnic respiratory failure should have arterial blood gas analysis even if hypoxemia resolves with oxygen administration."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_1",
+"title":{
+"__html":"Decreased Respiratory Drive"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"3cd424",
+"children":[
+"Decreased Respiratory Drive"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"c55e2d",
+"children":[
+"Decreased respiratory drive leads to diminished alveolar CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" clearance and hypercapnia. Patients often present with somnolence and difficulty protecting their airway. Noninvasive positive pressure ventilation (NPPV) should be considered for patients who can protect their airway. This improves minute ventilation and gas exchange. If airway protection is compromised or there is either significant respiratory acidosis (pH less than 7.25) or hemodynamic instability, intubation and mechanical ventilation are indicated."
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_1_1",
+"title":{
+"__html":"Drug Overdose"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"256018",
+"children":[
+"Drug Overdose"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"4fa9dd",
+"children":[
+"Sedating drugs (illicit or prescribed), anesthetics, and severe alcohol intoxication can lead to depressed central respiratory drive. In addition to management as outlined earlier, contact with a local poison control center is helpful to determine the most appropriate care of the patient. See discussion of specific agents in the ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s13_4_4",
+"children":[
+"Specific Critical Care Topics"
+]
+},
+" section."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_1_2",
+"title":{
+"__html":"Obesity Hypoventilation Syndrome"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"5fb5b4",
+"children":[
+"Obesity Hypoventilation Syndrome"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"3b3c59",
+"children":[
+"Obesity hypoventilation syndrome is characterized by the presence of obesity, sleep-disordered breathing, and persistent daytime hypercapnia (arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" greater than 45 mm Hg [5.9 kPa]). Hypercapnia stems from low tidal volumes and inappropriate central respiratory response. Acute hypercapnic respiratory failure attributable to obesity hypoventilation syndrome should be a diagnosis of exclusion. The 2019 guidelines from the American Thoracic Society recommend that hospitalized patients suspected of having this syndrome be started on noninvasive ventilation with either bilevel positive airway pressure or volume-targeted pressure support and continued on this therapy until they undergo outpatient evaluation for obstructive sleep apnea."
+]
+},
+{
+"type":"p",
+"hlId":"ba2136",
+"children":[
+"Arterial blood gases should be monitored within 2 hours of initiation of NPPV to ensure clinical improvement. If patients do not improve with adequate NPPV, intubation is warranted. Respiratory stimulants such as acetazolamide, theophylline, or a progestin have theoretical benefit to patients, but limited data supporting their use in this setting."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"0df46e",
+"children":[
+"Obesity hypoventilation syndrome is characterized by the presence of obesity, sleep-disordered breathing, and persistent daytime hypercapnia (arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" greater than 45 mm Hg [5.9 kPa])."
+]
+},
+{
+"type":"keypoint",
+"hlId":"de47bf",
+"children":[
+"Noninvasive ventilation with bilevel positive airway pressure or volume-targeted pressure support is the key to improving hypercapnia in hospitalized patients with obesity hypoventilation syndrome."
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_2",
+"title":{
+"__html":"Decreased Tidal Volume and Increased Dead Space"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"49e22c",
+"children":[
+"Decreased Tidal Volume and Increased Dead Space"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_2_1",
+"title":{
+"__html":"Neuromuscular Weakness"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"2537c0",
+"children":[
+"Neuromuscular Weakness"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"d40f3c",
+"children":[
+"The diaphragm is the main muscle responsible for inspiration and accounts for more than two thirds of the ventilatory work. The C3-C5 cervical nerve roots form the phrenic nerves, which directly innervate the diaphragm. Diaphragmatic weakness is common in the ICU. Common causes are postsurgical phrenic nerve injury and ICU-acquired weakness."
+]
+},
+{
+"type":"p",
+"hlId":"31a4d1",
+"children":[
+"Patients with diaphragmatic weakness develop orthopnea, shallow breathing, and paradoxical movement of the chest wall and abdomen. Intercostal and abdominal wall muscles are required for coughing. Lower cervical and upper thoracic nerve roots supply the intercostal and abdominal wall muscles. Weak cough, difficulty managing secretions, or a change in voice may point to bulbar weakness."
+]
+},
+{
+"type":"p",
+"hlId":"70e7dd",
+"children":[
+"Assessment of cranial nerves and respiratory muscle function is important in a patient with suspected neurologic disease. Specific components of pulmonary function testing can be helpful but are effort-dependent ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t58",
+"wrapId":"8",
+"children":[
+"Table 58"
+]
+}
+]
+},
+")"
+]
+},
+". Facial, bulbar, or postural weakness can affect accurate measurement. Pressure measurements may be falsely low in patients with severe obstructive lung disease"
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"8",
+"contentIds":[
+"mk19_b_pm_t58"
+]
+},
+{
+"type":"p",
+"hlId":"458eea",
+"children":[
+"Guillain-Barré syndrome and myasthenic crisis are the most common causes of acute neurologic respiratory failure in the ICU. Patients with Guillain-Barré syndrome generally present with ascending symmetric paralysis and areflexia occurring during the course of 2 to 4 weeks. Dysautonomia is common and can cause hemodynamic instability or cardiac arrhythmias. In myasthenic crisis, the hallmark feature is muscle fatigability. Diplopia, ptosis, dysarthria, limb weakness, and weak cough are common. See ",
+{
+"type":"cross-reference",
+"target":"mk19_a_nr_s9_2_3_3_1",
+"children":[
+"MKSAP 19 Neurolog"
+]
+},
+"y for further discussion of Guillain-Barré syndrome and myasthenic crisis."
+]
+},
+{
+"type":"p",
+"hlId":"3eabbc",
+"children":[
+"In the 25% of patients with Guillain-Barré syndrome who develop respiratory failure, intubation is necessary because respiratory function can take days to weeks to recover. In myasthenic crisis, early NPPV may prevent the need for intubation; the ability to protect the airway and to cough must be carefully evaluated in such patients."
+]
+},
+{
+"type":"p",
+"hlId":"d1db6f",
+"children":[
+"Acute spinal cord injuries at or above the C5 level invariably require mechanical ventilation. In some cases (complete spinal cord injury below C3 or incomplete injury above C3), recovery of independent respiratory function can occur. However, atelectasis, aspiration pneumonia, and pulmonary emboli are common and can lead to recurrent acute hypercapnic respiratory failure. NPPV and mechanical cough assist devices are essential in the management and prevention of these events."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"d6c5ed",
+"children":[
+"Guillain-Barré syndrome and myasthenic crisis are the most common causes of acute neurologic respiratory failure in the ICU."
+]
+},
+{
+"type":"keypoint",
+"hlId":"31e775",
+"children":[
+"Evaluation of maximum inspiratory and expiratory pressures and positional changes in vital capacity are helpful in assessing neuromuscular weakness as a cause of hypercapnic respiratory failure."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_2_2",
+"title":{
+"__html":"Restrictive Chest Wall Disease"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"659571",
+"children":[
+"Restrictive Chest Wall Disease"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"0d015c",
+"children":[
+"Restrictive disease from disorders affecting the pulmonary parenchyma (such as diffuse parenchymal lung disease) primarily leads to hypoxemia without hypercapnia. Acute hypercapnic respiratory failure is more common in patients with extrapulmonary chest wall restriction (pectus deformity, scoliosis, kyphosis), which causes compromised respiratory mechanics. Ascites and severe bowel distention can also compromise respiratory mechanics by exerting a significant cephalad force on the diaphragm. Extrapulmonary chest wall restriction usually causes poor ventilatory reserve without overt respiratory failure. However, acute insults such as infection or sedating medications can precipitate hypercapnic respiratory failure. NPPV or invasive mechanical ventilation may be appropriate while the precipitating condition is managed. In patients with thoracic cage deformity, NPPV is frequently sufficient."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_1_10_2_3",
+"title":{
+"__html":"Obstructive Lung Diseases (Asthma and COPD)"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"3b2945",
+"children":[
+"Obstructive Lung Diseases (Asthma and COPD)"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f0a8b7",
+"children":[
+"The physiologic hallmark of obstructive lung diseases is hyperinflation. The main driver is high airway resistance resulting from structural changes, inflammation, high cholinergic tone, and mucous plugging. When combined with a decrease in the lung's elastic recoil (as observed in emphysema), this results in increased total lung capacity and functional residual capacity (lung volume at end exhalation)."
+]
+},
+{
+"type":"p",
+"hlId":"8aa084",
+"children":[
+"The degree of airflow obstruction and the respiration rate both contribute to dynamic hyperinflation. Because of high airflow resistance, air in the lungs does not have enough time to exit before the next breath begins, which increases the functional residual capacity and limits the inspiratory capacity. When the intrathoracic pressure remains positive at the end of exhalation because of this trapped volume, it is called auto-PEEP. Dynamic hyperinflation, auto-PEEP, and decreased elastic recoil of the lung all contribute to disordered lung mechanics, increased work of breathing, and respiratory muscle fatigue. When patients are on mechanical ventilation, auto-PEEP may decrease venous return and contribute to hemodynamic instability. The main strategies to minimize auto-PEEP are to prolong the expiratory time (with lower respiration rate) and administer bronchodilators."
+]
+},
+{
+"type":"p",
+"hlId":"ddffb7",
+"children":[
+"At the time of a COPD exacerbation, patients may present with signs of increased respiratory work. They may also have findings related to the presence of hypercapnia, such as somnolence. See ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s2_2_10",
+"children":[
+"Airways Disease"
+]
+},
+" section for more detailed information about the management of COPD exacerbations."
+]
+},
+{
+"type":"p",
+"hlId":"a79ccd",
+"children":[
+"In patients with COPD, excessive oxygen can worsen hypercapnia by three mechanisms: increasing V/Q mismatch, decreasing respiratory drive, and the Haldane effect. Oxygen therapy should be titrated to 88% to 92% SpO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". In patients with hypercapnic respiratory failure resulting from COPD exacerbation, NPPV is preferred as the initial means to reduce P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"; bilevel positive airway pressure is the most commonly used and most effective NPPV mode for this condition. If patients cannot protect their airway, are hemodynamically unstable, or do not improve on NPPV, intubation and mechanical ventilation are necessary."
+]
+},
+{
+"type":"p",
+"hlId":"bd53ee",
+"children":[
+"In patients with asthma, upright posture, inability to speak in full sentences, diaphoresis, flaring of the nares, and use of accessory muscles during inspiration are signs of impending respiratory failure. Blood gases usually demonstrate respiratory alkalosis resulting from rapid, shallow breathing patterns, but when the P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" becomes normal or elevated, it may signal impending respiratory failure. Oxygen should be given to maintain a hemoglobin saturation of 90% to 95%."
+]
+},
+{
+"type":"p",
+"hlId":"668b57",
+"children":[
+"In cases of severe asthma exacerbation refractory to conventional management, therapies with lower levels of evidence, such as magnesium sulfate or heliox, may be used. Other adjunctive therapies are not recommended because of lack of demonstrated efficacy. Antibiotics should not be administered unless there is evidence of infection."
+]
+},
+{
+"type":"p",
+"hlId":"1df03b",
+"children":[
+"Little evidence supports the use of NPPV in asthma exacerbations. If used, close monitoring is required. For most patients with asthma with respiratory failure, mechanical ventilation and intubation are recommended. As with COPD, efforts should be directed at maximizing expiratory time, as this reduces auto-PEEP. Doing so often requires sedation or paralytics and can lower the overall minute ventilation. Because this may increase arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", arterial blood gas analysis should be performed frequently in these patients. See ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s2_1_7",
+"children":[
+"Airways Disease"
+]
+},
+" section for more detailed information about management of asthma exacerbations."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"b45764",
+"children":[
+"Patients with hypercapnic respiratory failure and COPD exacerbation benefit from noninvasive positive pressure ventilation, provided they can protect their airway and are hemodynamically stable."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ca23b6",
+"children":[
+"In patients with asthma with respiratory failure, intubation and mechanical evaluation are recommended rather than noninvasive positive pressure ventilation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0423bd",
+"hvc":true,
+"children":[
+"In severe refractory asthma, anesthetics with bronchodilator properties (aminophylline, mucolytics, and leukotriene receptor antagonists) are not recommended."
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_2",
+"title":{
+"__html":"Shock"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"6d94cc",
+"children":[
+"Shock"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"8a31d1",
+"children":[
+"Shock occurs when systemic tissue perfusion is inadequate. In early states of tissue hypoperfusion, aerobic metabolism is supplanted by anaerobic metabolism and tissue injury is reversible. As compensatory mechanisms fail, sustained organ hypoperfusion can lead to cellular dysfunction and death. There are four primary mechanisms of shock: decreased circulating volume (hypovolemic), pump failure (cardiogenic), circulatory obstruction (obstructive), and inappropriate vasodilation (distributive)—these mechanisms may overlap."
+]
+},
+{
+"type":"p",
+"hlId":"2f4442",
+"children":[
+"Hypotension alone should not be considered diagnostic of end-organ hypoperfusion. Instead, blood pressure should be considered in the context of other physical examination findings that may suggest end-organ hypoperfusion ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t59",
+"wrapId":"9",
+"children":[
+"Table 59"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"9",
+"contentIds":[
+"mk19_b_pm_t59"
+]
+},
+{
+"type":"p",
+"hlId":"d1569f",
+"children":[
+"A thorough examination of the patient, laboratory results, and ancillary studies ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_pm_f27",
+"wrapId":"10",
+"children":[
+"Figure 27"
+]
+}
+]
+},
+")"
+]
+},
+" are essential to identifying the type of shock present ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t60",
+"wrapId":"10",
+"children":[
+"Table 60"
+]
+}
+]
+},
+")"
+]
+},
+". The use of point-of-care ultrasound to aid in shock assessment is increasing. Echocardiography can provide useful data regarding cardiac function and cardiac response to treatment. Vascular, lung, and abdominal ultrasonography improve procedural safety and can rapidly assess for venous thrombosis and pleural or abdominal abnormalities. Evidence for pulmonary artery catheters demonstrates a lack of benefit and, in some cases, increased risk to patients. Despite this, pulmonary artery catheters may provide diagnostic utility in select patients who require assessment of cardiopulmonary pressures or cardiac output, such as those with pulmonary hypertension, tamponade, or pericarditis. Other tools that predict response to volume replacement, such as pulse contour analysis, pulse pressure, or stroke volume, variation can also be considered. However, these methods are invasive and carry procedural limitations that may make them impractical or unreliable. Treatment is directed toward correcting the root cause of the shock state."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"10",
+"contentIds":[
+"mk19_b_pm_f27",
+"mk19_b_pm_t60"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"91ac86",
+"children":[
+"Treatment of a patient in shock is predicated on distinguishing the type of shock present and directed toward the root cause of the shock state."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f86c24",
+"hvc":true,
+"children":[
+"Evidence for pulmonary artery catheters demonstrates a lack of benefit and, in some cases, increased risk to patients."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_2_1",
+"title":{
+"__html":"Distributive Shock"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"eab5e7",
+"children":[
+"Distributive Shock"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"244c86",
+"children":[
+"In distributive shock, the blood volume is generally normal, but a state of “relative” hypovolemia occurs from excessive vasodilation and microvascular dysfunction. Cardiac output is often increased but still cannot maintain a pressure sufficient for normal tissue perfusion. Sepsis is the most common cause of distributive shock, but other disease states present similarly (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t60",
+"wrapId":"11",
+"children":[
+"Table 60"
+]
+}
+]
+},
+")"
+]
+},
+". Initial treatment of distributive shock should focus on fluid resuscitation. Several studies have compared the effectiveness of crystalloid versus colloid administration, with no clear evidence that one is better than the other. A large randomized controlled trial suggested that critically ill patients who were resuscitated using balanced crystalloid solution had a lower composite outcome of death, need for renal replacement therapy, or persistent kidney dysfunction compared with patients receiving normal saline solution. Balanced crystalloid solutions have an electrolyte composition similar to plasma with the addition of a buffer, such as lactate (for example, lactated Ringer solution). If fluid administration alone is insufficient to support tissue perfusion, vasopressor support is warranted. The selection of a vasopressor should be based on the patient's comorbidities and underlying cause of shock."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"11",
+"contentIds":[
+"mk19_b_pm_t60"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"c59987",
+"hvc":true,
+"children":[
+"Several studies have compared the effectiveness of crystalloid versus colloid administration for treatment of distributive shock, with no clear evidence of either's superiority; given the relative expense of colloids, crystalloid administration is generally preferred and recommended by guidelines."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_2_2",
+"title":{
+"__html":"Hypovolemic Shock"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"1bdb76",
+"children":[
+"Hypovolemic Shock"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"3d8c1f",
+"children":[
+"Hypovolemic shock occurs when decreased intravascular blood volume causes decreased preload, decreased ventricular filling, and diminished stroke volume. Initially, tachycardia and peripheral vasoconstriction help to preserve perfusion of vital organs but cannot compensate in the setting of severe hypovolemia. Treatment of hypovolemic shock includes aggressive volume or blood product replacement and controlling any source of bleeding. Patients with hemorrhage initially receive intravenous fluids to maintain hemodynamic stability, but ultimately may need erythrocyte transfusion to prevent tissue ischemia. In stable ICU patients, hemoglobin levels should be maintained above 7 g/dL (70 g/L); however, different thresholds and hemoglobin levels may trigger transfusion in actively bleeding patients who are in shock. Higher hemoglobin values may be desirable in patients with underlying cardiovascular disease. In patients with severe trauma resulting in massive blood replacement requirements and coagulopathy, evidence supports early resuscitation with a 1:1:1 ratio of erythrocytes, platelets, and fresh frozen plasma."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_2_3",
+"title":{
+"__html":"Cardiogenic Shock"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"d2deb3",
+"children":[
+"Cardiogenic Shock"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"3f3f42",
+"children":[
+"Arrhythmias, myocardial dysfunction, and valvular disease can lead to decreased cardiac output and cardiogenic shock. The most common cause of cardiogenic shock is myocardial infarction. Cardiogenic shock-induced tachycardia and vasoconstriction increase afterload and myocardial oxygen demand, often precipitating a further decrease in cardiac output. Initial evaluation should include a focused physical examination, laboratory testing for myocardial ischemia and heart failure, chest radiograph, electrocardiogram, and transthoracic echocardiogram. External or transvenous pacing may be indicated in patients with bradyarrhythmias. Emergent percutaneous intervention or fibrinolytic therapy is indicated if ECG suggests ST-elevation myocardial infarction and laboratory examination supports coronary ischemia. Although not clearly supported by evidence, patients with severe cardiogenic shock may benefit from adjunctive measures as a bridge toward definitive therapy. These include ECMO, intraaortic balloon pumps, and left or right ventricular assist devices. In some cases, these devices can be employed as destination therapy."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_2_4",
+"title":{
+"__html":"Obstructive Shock"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"3bc93f",
+"children":[
+"Obstructive Shock"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"e9e838",
+"children":[
+"Obstructive shock is caused by extracardiac forces that, despite normal cardiac function, act to impair cardiac output. Examples include tamponade, tension pneumothorax, and acute PE. Although hemodynamics frequently mimic those of cardiogenic shock, the clinical presentation of obstructive shock varies depending on the cause. A patient with PE may have signs of elevated right atrial pressure, including jugular venous distention and lower extremity edema, but can have a clear pulmonary exam. A patient with tamponade may have jugular venous distension, pulsus paradoxus, and distant heart sounds. A patient with tension pneumothorax may have absent lung sounds on the affected side of the chest. History and clinical examination should guide ancillary testing and management. Point-of-care lung ultrasound can help rapidly assess patients for pneumothorax, and echocardiography can quickly identify features consistent with PE or pericardial effusion. In some cases, such as constrictive or restrictive pericarditis or pulmonary arterial hypertension, invasive hemodynamic evaluation of cardiopulmonary pressures helps to confirm a diagnosis. Most cases of obstructive shock can be rapidly reversed if promptly identified."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3",
+"title":{
+"__html":"Sepsis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"1d5f90",
+"children":[
+"Sepsis"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_1",
+"title":{
+"__html":"Definition, Pathophysiology, and Clinical Presentation of Sepsis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"e013b9",
+"children":[
+"Definition, Pathophysiology, and Clinical Presentation of Sepsis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"7f254f",
+"children":[
+"The Third International Definitions for Sepsis and Septic Shock (Sepsis-3) define sepsis as life-threatening organ dysfunction caused by a dysregulated host response to infection. Septic shock is defined as a subset of sepsis in which profound circulatory, cellular, and metabolic abnormalities are associated with a greater risk for mortality than with sepsis alone."
+]
+},
+{
+"type":"p",
+"hlId":"2578f4",
+"children":[
+"Infections giving rise to sepsis can include any pathogen and involve any organ. Infections need not be disseminated. The pathophysiology of sepsis is complex and involves dysfunction at many levels, from subcellular mitochondrial dysfunction to failure of entire organ systems. Loss of regulation of the body's finely balanced proinflammatory and antiinflammatory mediators and unregulated coagulation in the microvasculature are characteristic of the syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"7f791f",
+"children":[
+"Operationally, sepsis can be identified whenever infection is known or suspected and clinical criteria defining organ dysfunction are met. The recommended criteria to assess organ dysfunction are included in the Sequential Organ Failure Assessment (SOFA) score, which assigns a value of 0 to 4 for each of six organ systems assessed: respiratory, coagulation, hepatic, cardiovascular, central nervous, and renal, with increasing scores for more severe dysfunction (SOFA score calculators are available online at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://clincalc.com/IcuMortality/SOFA.aspx",
+"target":"_blank"
+},
+"children":[
+"ClinCalc"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.mdcalc.com/sequential-organ-failure-assessment-sofa-score",
+"target":"_blank"
+},
+"children":[
+"MDCalc"
+]
+},
+" . An initial SOFA score of 2 or greater or an increase in SOFA score of 2 or more correlates with acute organ dysfunction and predicts hospital mortality of greater than 10%. The SOFA score should be used to assess patients in the ICU."
+]
+},
+{
+"type":"p",
+"hlId":"08a04f",
+"children":[
+"The 2021 sepsis guidelines recommend against the use of the simplified quick SOFA (qSOFA) score to evaluate for sepsis or septic shock. Other scoring systems, such as the National Early Warning Score (NEWS), systemic inflammatory response syndrome (SIRS), and Modified Early Warning Score (MEWS), outperform qSOFA in predicting in-hospital death and need for ICU admission. Because there is no perfect test for identifying sepsis, scoring systems should not be used as the sole indicator of disease or triage needs."
+]
+},
+{
+"type":"p",
+"hlId":"cb559f",
+"children":[
+"The criteria for diagnosing septic shock includes hypotension requiring vasopressors to maintain a mean arterial pressure of greater than 65 mm Hg and serum lactate level of greater than 2 mEq/L (2 mmol/L) despite adequate fluid resuscitation. Patients who meet these criteria have a 40% or greater risk for in-hospital mortality."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"1f7a42",
+"children":[
+"The criteria for diagnosing septic shock include a serum lactate level of greater than 2 mEq/L (2 mmol/L) despite adequate fluid resuscitation and hypotension requiring vasopressors to maintain a mean arterial pressure of greater than 65 mm Hg."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_2",
+"title":{
+"__html":"Epidemiology of Sepsis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"93bb32",
+"children":[
+"Epidemiology of Sepsis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"d102fa",
+"children":[
+"The epidemiology of sepsis is difficult to judge accurately because of its evolving definition, challenges with clinical recognition of the syndrome, and lack of standardized reporting. However, estimating its clinical and economic effects is possible. There are disparities in sepsis rates among different demographic groups. Sepsis is also more common among older adults, with incidence increasing with each year after the age of 65 years. Mortality from sepsis is high. A patient who is septic has a mortality rate 4 or more times greater than for the same underlying condition and comorbidities without sepsis. Mortality increases by roughly 15% for each sepsis-related organ system failure."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_3",
+"title":{
+"__html":"Management of Sepsis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"9532cb",
+"children":[
+"Management of Sepsis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"fe4d3f",
+"children":[
+"For years, sepsis guidelines have focused on early diagnosis and timely treatment of sepsis to improve survival. Early guidelines supported the development of separately created time-based performance improvement metrics to be achieved in the form of a sepsis “bundle.” In 2016 a 3-hour and a 6-hour bundle were proposed on the basis of evidence that bundle-based care led to significant improvements in sepsis mortality. However, subsequent data suggested that in-hospital mortality might be further improved by expediting care within the initial 3-hour window. In 2018, the 3- and 6-hour bundles were combined into a single 1-hour performance improvement bundle. The 1-hour bundle includes collection of blood cultures, measurement of serum lactate levels, administration of broad-spectrum antibiotics, and provision of fluid or vasopressor resuscitation in patients with hypotension or signs of hypoperfusion. Weak evidence behind some elements of the 1-hour bundle recommendations has generated considerable controversy, but the intent of these recommendations clearly addresses the two main pillars of sepsis management: supporting organ perfusion and controlling the infection."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"9c7d21",
+"children":[
+"The two main pillars of sepsis management are supporting organ perfusion and function and controlling the infection."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_3_1",
+"title":{
+"__html":"Initial Resuscitation"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"bfb495",
+"children":[
+"Initial Resuscitation"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"edbd5c",
+"children":[
+"Sepsis can have serious hemodynamics effects, with decreased preload (resulting from capillary leak), impaired cardiac contractility, and decreased vascular tone. Patients may present in shock, sometimes with profound hypotension requiring large-volume resuscitation with intravenous fluids or vasopressor therapy."
+]
+},
+{
+"type":"p",
+"hlId":"6a848a",
+"children":[
+"The Surviving Sepsis Campaign guidelines recommend early and aggressive fluid resuscitation for sepsis-induced hypoperfusion or shock with an initial bolus of 30 mL/kg of crystalloid fluid given within the first 3 hours of resuscitation. The 1-hour performance improvement bundle indicates that fluid bolus should be initiated within the first hour of presentation. Balanced crystalloid solutions, such as lactated Ringer solution, are suggested instead of 0.9% saline. In patients receiving large volumes of crystalloids, the use of intravenous albumin can be considered. When lactate levels are elevated more than 2 mmol/L, they should be rechecked within 2 to 4 hours to ensure improvement. Although experts agree that aggressive fluid resuscitation is essential, the adequacy of initial fluid resuscitation and the need for further fluid or vasopressors requires clinical judgment based on patient comorbidities and the available data."
+]
+},
+{
+"type":"p",
+"hlId":"daa876",
+"children":[
+"When hypotension or hypoperfusion persists, additional fluids or vasopressors may be needed. The Surviving Sepsis Campaign guidelines support using norepinephrine as first-line therapy in patients who require vasopressor support, as it increases systemic vascular resistance without compromising myocardial performance (stroke volume or cardiac output). In cases where norepinephrine alone is insufficient, the addition of vasopressin should be considered; epinephrine may be added for persistent shock despite combined use of norepinephrine and vasopressin. For patients with septic shock and cardiac dysfunction resulting in hypoperfusion despite adequate volume status and arterial blood pressure, adding dobutamine to norepinephrine or using epinephrine alone is suggested. Dopamine is not recommended for use in septic shock except in select patients with clinically significant bradycardia, given its association with increased tachyarrhythmia and death compared with norepinephrine (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_b_pm_t50",
+"wrapId":"12",
+"children":[
+"Table 50"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"12",
+"contentIds":[
+"mk19_b_pm_t50"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"804c0a",
+"children":[
+"Early and aggressive fluid resuscitation for patients with hypoperfusion resulting from sepsis begins with an initial bolus of 30 mL/kg body weight of crystalloid solution."
+]
+},
+{
+"type":"keypoint",
+"hlId":"552ac8",
+"children":[
+"Norepinephrine is recommended as the first vasopressor of choice for septic shock."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_3_2",
+"title":{
+"__html":"Antibiotic Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"19cf96",
+"children":[
+"Antibiotic Therapy"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"a02011",
+"children":[
+"Early antibiotic therapy is crucial in treating sepsis. Broad-spectrum antibiotics should be given within the first hour of suspected sepsis, and the regimen should be subsequently adjusted on the basis of culture results. Delay in the first dose of antibiotic therapy or use of inappropriate antibiotic therapy increases sepsis mortality. Although antibiotic stewardship is of paramount importance, the Surviving Sepsis Campaign guidelines recommend choosing up-front empiric therapy that is broad enough to cover the most likely pathogens causing sepsis. The most common pathogens include gram-negative, gram-positive, and “mixed” bacterial pathogens. However, treatment consideration should not be limited to bacterial coverage if empiric viral or fungal coverage are warranted. Consideration of the potential source of sepsis, local antibiotic resistance patterns, and a patient's clinical history (including the presence of an indwelling catheter, neutropenia, or another immunocompromised state) are important when choosing initial therapy. In addition, recent treatment with antibiotic therapy or a recent stay in a health care facility is associated with increased bacterial resistance and may necessitate broader empiric coverage compared with patients who do not have these risk factors. Guidelines do not provide specific recommendations about drug therapy, but the Surviving Sepsis Campaign guidelines do suggest that a carbapenem or extended-range penicillin or β-lactamase inhibitor may be a safe starting point in most septic patients. In cases of septic shock (but not sepsis without shock), combination therapy with at least two antibiotics from different classes should be employed against the most likely bacterial pathogen. In addition, when specific risks for multidrug resistance are present, empiric combination therapy against resistant gram-negative bacteria or targeted coverage of methicillin-resistant staph aureus is indicated. When available, the use of antibiograms specific to a community or healthcare facility is recommended to guide treatment."
+]
+},
+{
+"type":"p",
+"hlId":"e44f47",
+"children":[
+"Once a specific pathogen is identified, antibiotics should be tailored appropriately to the narrowest effective regimen. In many cases, culture data are either not obtained or remain negative. In these cases, deescalation of antibiotics is generally recommended within the first few days if a patient is improving clinically. Antibiotic therapy should usually be continued for 7 to 10 days, depending on the clinical situation. Antibiotics should also continually be reassessed for efficacy and opportunities for early deescalation or discontinuation sought. In patients with neutropenia, guidelines recommend that antibiotics be continued until either the full planned course of therapy concludes or the neutropenic state resolves (neutrophils higher than 500/μL [0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L]), whichever is later."
+]
+},
+{
+"type":"p",
+"hlId":"e216f5",
+"children":[
+"Prompt identification and control of potential sources of infection is essential in the management of sepsis. Examples include drainage of abscesses and removal of intravenous catheters suspected of being infected. One exception is necrotizing pancreatitis, for which definitive resection or drainage should be delayed until the extent of necrosis is clear."
+]
+},
+{
+"type":"p",
+"hlId":"253b53",
+"children":[
+"Procalcitonin, a serum marker for bacterial infection, should not be used in the initial determination regarding the initiation of antibiotic therapy. The 2021 sepsis guidelines, however, suggest that procalcitonin and clinical evaluation may be used to support shortening the duration of antibiotic therapy in patients with sepsis or as a marker to support discontinuing therapy in patients who initially were thought to have sepsis but do not. Several recent meta-analyses support these suggestions, as they have demonstrated that algorithms that use procalcitonin as a decision support tool lead to decreased overall use of antibiotics. However, there remains conflicting evidence surrounding key outcome measures, including mortality benefit, associated with procalcitonin testing. This has led to wide heterogeneity among clinicians regarding whether procalcitonin is used in clinical practice."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"50affb",
+"children":[
+"Prompt identification and control of any potential source of infection is essential in the management of sepsis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b43f22",
+"children":[
+"Broad-spectrum antibiotics should be given within the first hour of suspected sepsis, and the regimen subsequently adjusted based on culture results."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6b6027",
+"children":[
+"In cases of septic shock, combination therapy with at least two antibiotics from different classes should be employed against the most likely bacterial pathogen."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_3_3_3",
+"title":{
+"__html":"Adjunctive Therapies"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"748e4a",
+"children":[
+"Adjunctive Therapies"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"bdbf0f",
+"children":[
+"If possible, all patients receiving vasopressor therapy should have an arterial catheter for continuous blood pressure monitoring. Several large trials and meta-analyses have demonstrated that there is no benefit to using a pulmonary artery catheter to manage patients with septic shock. In many studies of pulmonary artery catheter use, patients with sepsis and septic shock demonstrated higher levels of resource use, higher complication rates, and in some cases higher mortality compared with no pulmonary artery catheter."
+]
+},
+{
+"type":"p",
+"hlId":"d4a77f",
+"children":[
+"The use of glucocorticoids in the setting of sepsis has been suggested to achieve hemodynamic stability when it is not achieved using intravenous fluids and vasopressor therapies. Although there is not a clear mortality benefit, recent trials have showed that glucocorticoids are associated with a faster time to shock recovery and fewer days with organ failure or requirement for mechanical ventilation. Glucocorticoids have no role in sepsis without shock. The Society of Critical Care Medicine and the European Society of Intensive Care Medicine in 2017 recommended a maximum dose of 400 mg hydrocortisone daily, whereas the 2016 Surviving Sepsis Campaign guidelines recommend hydrocortisone to 200 mg daily for refractory shock. An adrenocorticotropic hormone stimulation test is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"5a1c37",
+"children":[
+"Patients with sepsis or septic shock should receive early oral feeding when possible and should be considered at risk for malnutrition when in the ICU for more than 48 hours. If oral nutrition is not feasible, early enteral nutrition (within 72 hours) is indicated to minimize infectious complications associated with delayed enteral nutrition. In cases where both oral and enteral nutrition is not feasible, the optimal time and method to initiate parenteral therapy is not clear. New guidelines suggest, based largely on expert opinion, that caloric and protein needs should be gradually increased to their goal over the course of 3 to 7 days to avoid risks associated with early refeeding syndrome or overfeeding."
+]
+},
+{
+"type":"p",
+"hlId":"9c0832",
+"children":[
+"Glucose control is also important in patients with sepsis and septic shock. However, the optimal target is not entirely clear. In critically ill patients in a medical ICU, tight glucose control (for example, glucose 80-110 mg/dL) is associated with higher rates of severe hypoglycemia (glucose less than 40 mg/dL) and sometimes death compared with rates for similar patients managed with more liberal glucose targets (either 140-180 mg/dL or 180-200 mg/dL). The Surviving Sepsis Campaign Guidelines recommend targeting an upper glucose limit lower than 180 mg/dL in patients with sepsis and septic shock."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"88681f",
+"children":[
+"Early enteral nutrition is recommended in septic patients, if possible."
+]
+},
+{
+"type":"keypoint",
+"hlId":"00e9a8",
+"hvc":true,
+"children":[
+"The use of glucocorticoids in the setting of sepsis is suggested if adequate fluid resuscitation and vasopressor therapy are unable to restore hemodynamic stability; there is no role for glucocorticoids in sepsis without shock."
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s12_4",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Cavalcanti AB, Suzumura ÉA, Laranjeira LN, et al; Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. Effect of lung recruitment and titrated positive end-expiratory pressure (PEEP) vs low PEEP on mortality in patients with acute respiratory distress syndrome: A randomized clinical trial. JAMA. 2017;318:1335-1345. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28973363",
+"target":"_blank"
+},
+"children":[
+"PMID: 28973363"
+]
+},
+" doi:10.1001/jama.2017.14171"
+]
+},
+{
+"type":"reference",
+"children":[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+},
+{
+"type":"reference",
+"children":[
+"Fan E, Del Sorbo L, Goligher EC, et al; American Thoracic Society, European Society of Intensive Care Medicine, and Society of Critical Care Medicine. An official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine clinical practice guideline: mechanical ventilation in adult patients with acute respiratory distress syndrome. Am J Respir Crit Care Med. 2017;195:1253-1263. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28459336",
+"target":"_blank"
+},
+"children":[
+"PMID: 28459336"
+]
+},
+" doi:10.1164/rccm.201703-0548ST"
+]
+},
+{
+"type":"reference",
+"children":[
+"Global Initiative for Asthma. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://goldcopd.org/gold-reports/Global",
+"target":"_blank"
+},
+"children":[
+"https://goldcopd.org/gold-reports/Global"
+]
+},
+" strategy for asthma management and prevention, 2021. Accessed May 5, 2021."
+]
+},
+{
+"type":"reference",
+"children":[
+"Global Initiative for Chronic Obstructive Lung Disease. Global strategy for the diagnosis, management, and prevention of chronic obstructive pulmonary disease: 2020 report. Accessed September 27, 2020."
+]
+},
+{
+"type":"reference",
+"children":[
+"Levy MM, Evans LE, Rhodes A. The surviving sepsis campaign bundle: 2018 update [Editorial]. Intensive Care Med. 2018;44:925-928. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29675566",
+"target":"_blank"
+},
+"children":[
+"PMID: 29675566"
+]
+},
+" doi:10.1007/s00134-018-5085-0"
+]
+},
+{
+"type":"reference",
+"children":[
+"Moss M, Huang DT, Brower RG, et al; National Heart, Lung, and Blood Institute PETAL Clinical Trials Network. Early neuromuscular blockade in the acute respiratory distress syndrome. N Engl J Med. 2019;380:1997-2008. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31112383",
+"target":"_blank"
+},
+"children":[
+"PMID: 31112383"
+]
+},
+" doi:10.1056/NEJMoa1901686"
+]
+},
+{
+"type":"reference",
+"children":[
+"Rhodes A, Evans LE, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock: 2016. Crit Care Med. 2017;45:486-552. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28098591",
+"target":"_blank"
+},
+"children":[
+"PMID: 28098591"
+]
+},
+" doi:10.1097/CCM.0000000000002255"
+]
+},
+{
+"type":"reference",
+"children":[
+"Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock (Sepsis-3). JAMA. 2016;315:801-10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26903338",
+"target":"_blank"
+},
+"children":[
+"PMID: 26903338"
+]
+},
+" doi:10.1001/jama.2016.0287"
+]
+},
+{
+"type":"reference",
+"children":[
+"Singer P, Blaser AR, Berger MM, et al. ESPEN guideline on clinical nutrition in the intensive care unit. Clin Nutr. 2019;38:48-79. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30348463",
+"target":"_blank"
+},
+"children":[
+"PMID: 30348463"
+]
+},
+" doi:10.1016/j.clnu.2018.08.037"
+]
+},
+{
+"type":"reference",
+"children":[
+"Thompson BT, Chambers RC, Liu KD. Acute respiratory distress syndrome. N Engl J Med. 2017;377:562-572. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28792873",
+"target":"_blank"
+},
+"children":[
+"PMID: 28792873"
+]
+},
+" doi:10.1056/NEJMra1608077"
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_b_pm_t52":{
+"id":"mk19_b_pm_t52",
+"number":52,
+"bookId":"pm",
+"title":{
+"__html":"Radiographic Findings and Differential Diagnosis in Acute Respiratory Failure"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a6482b",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 52. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t52"
+}
+]
+},
+"Radiographic Findings and Differential Diagnosis in Acute Respiratory Failure"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d60fa5",
+"class":"col hd l",
+"children":[
+"Finding"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a44fd1",
+"class":"col hd l",
+"children":[
+"Differential Diagnosis"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9cb3d1",
+"class":"cell txt l",
+"children":[
+"No infiltrate"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5de7d1",
+"class":"cell txt l",
+"children":[
+"Asthma/COPD exacerbation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"81b884",
+"class":"cell txt l",
+"children":[
+"Drug overdose/toxicity"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7b2538",
+"class":"cell txt l",
+"children":[
+"Intracardiac shunt"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"64b6be",
+"class":"cell txt l",
+"children":[
+"Neuromuscular weakness"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3a4bd5",
+"class":"cell txt l",
+"children":[
+"Pulmonary embolus"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a0b1db",
+"class":"cell txt l",
+"children":[
+"Diffuse infiltrates"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2b8e1a",
+"class":"cell txt l",
+"children":[
+"Acute respiratory distress syndrome"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a77532",
+"class":"cell txt l",
+"children":[
+"Cardiogenic pulmonary edema"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"31e173",
+"class":"cell txt l",
+"children":[
+"Acute exacerbation of idiopathic pulmonary fibrosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b7bf8c",
+"class":"cell txt l",
+"children":[
+"Pneumonia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e8d98d",
+"class":"cell txt l",
+"children":[
+"Other (e.g., acute hypersensitivity pneumonitis, acute eosinophilic pneumonia)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8b269e",
+"class":"cell txt l",
+"children":[
+"Focal infiltrate"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b6b652",
+"class":"cell txt l",
+"children":[
+"Airway obstruction"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d72bbd",
+"class":"cell txt l",
+"children":[
+"Atelectasis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b7bf8c",
+"class":"cell txt l",
+"children":[
+"Pneumonia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a8983b",
+"class":"cell txt l",
+"children":[
+"Pulmonary infarction"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_b_pm_t53":{
+"id":"mk19_b_pm_t53",
+"number":53,
+"bookId":"pm",
+"title":{
+"__html":"Key Features of Inhaled Agents"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"86ace1",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 53. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t53"
+}
+]
+},
+"Key Features of Inhaled Agents"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"744605",
+"class":"col hd l",
+"children":[
+"Agent"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"93932b",
+"class":"col hd l",
+"children":[
+"Characteristics"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"624b63",
+"class":"col hd l",
+"children":[
+"Clinical Features After Exposure"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"454b2d",
+"class":"cell txt l",
+"children":[
+"Ammonia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0dffe8",
+"class":"cell txt l",
+"children":[
+"Colorless; ammonia odor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ea5e44",
+"class":"cell txt l",
+"children":[
+"Cough, upper airway burns, pulmonary edema, asphyxiation in poorly vented areas"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"dca055",
+"class":"cell txt l",
+"children":[
+"Chlorine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"39be73",
+"class":"cell txt l",
+"children":[
+"Yellow-green; chlorine odor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ae4948",
+"class":"cell txt l",
+"children":[
+"Upper airway irritation and burns, bronchospasm, pulmonary edema"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bcf88e",
+"class":"cell txt l",
+"children":[
+"Phosgene"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2543c2",
+"class":"cell txt l",
+"children":[
+"Colorless; musty odor like fresh-cut grass"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"da9a06",
+"class":"cell txt l",
+"children":[
+"Systemic toxicity, including elevated methemoglobin level, cyanosis, and metabolic acidosis; pulmonary edema"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"81517e",
+"class":"cell txt l",
+"children":[
+"Mustard gas"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3e88c5",
+"class":"cell txt l",
+"children":[
+"Yellow-brown vapor; odor like garlic or onions"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"914c9a",
+"class":"cell txt l",
+"children":[
+"Upper airways burns and obstruction can occur"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e99258",
+"class":"cell txt l",
+"children":[
+"Organophosphates and other cholinesterase inhibitors"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cb91be",
+"class":"cell txt l",
+"children":[
+"Colorless; fruity odor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"52e16c",
+"class":"cell txt l",
+"children":[
+"Systemic toxicity causing acetylcholine toxicity (rhinorrhea, bronchorrhea, diarrhea, bronchospasm, bradycardia, flaccid paralysis, apnea)"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_b_pm_t54":{
+"id":"mk19_b_pm_t54",
+"number":54,
+"bookId":"pm",
+"title":{
+"__html":"Common Causes of Acute Respiratory Distress Syndrome"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"73c26d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 54. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t54"
+}
+]
+},
+"Common Causes of Acute Respiratory Distress Syndrome"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"929ebe",
+"class":"col hd l",
+"children":[
+"Direct Pulmonary Injury"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b76d4f",
+"class":"cell txt l",
+"children":[
+"Aspiration of gastric contents"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"86d9c7",
+"class":"cell txt l",
+"children":[
+"Fat embolism"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f472fe",
+"class":"cell txt l",
+"children":[
+"Near drowning"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"420787",
+"class":"cell txt l",
+"children":[
+"Pneumonia (including viral causes such as COVID-19)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3e7647",
+"class":"cell txt l",
+"children":[
+"Smoke or chemical inhalation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffad65",
+"class":"cell txt l",
+"children":[
+"Thoracic trauma/thoracic contusion"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d0656a",
+"class":"col hd l",
+"children":[
+"Indirect Pulmonary Injury"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"528499",
+"class":"cell txt l",
+"children":[
+"Disseminated intravascular coagulation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d8506f",
+"class":"cell txt l",
+"children":[
+"Nonthoracic trauma"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d9e5cc",
+"class":"cell txt l",
+"children":[
+"Pancreatitis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffa409",
+"class":"cell txt l",
+"children":[
+"Pulmonary reperfusion injury (after lung transplantation)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c7ffd4",
+"class":"cell txt l",
+"children":[
+"Sepsis/septic shock"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"29a980",
+"class":"cell txt l",
+"children":[
+"Transfusion of blood products"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_b_pm_t55":{
+"id":"mk19_b_pm_t55",
+"number":55,
+"bookId":"pm",
+"title":{
+"__html":"Berlin Definition of Acute Respiratory Distress Syndrome"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"247326",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 55. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t55"
+}
+]
+},
+"Berlin Definition of Acute Respiratory Distress Syndrome"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1515dd",
+"class":"cell txt l",
+"children":[
+"The following criteria must be met:"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3fedda",
+"class":"cell txt li",
+"children":[
+"Onset within 1 week of known ARDS insult (most cases occur within 72 hours)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7ec356",
+"class":"cell txt li",
+"children":[
+"Bilateral opacities on chest imaging consistent with pulmonary edema"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"76e373",
+"class":"cell txt li",
+"children":[
+"Respiratory failure not related to cardiac failure or volume overload"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"97c3d3",
+"class":"cell txt li",
+"children":[
+"Arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" <300 on at least 5 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O PEEP from noninvasive or invasive mechanical ventilator"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c10631",
+"class":"cell txt l",
+"children":[
+"Once criteria for diagnosis are met, severity of ARDS is based on the following criteria:"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d3d88a",
+"class":"cell txt li",
+"children":[
+"Mild = arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" >200 to <300"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"882b62",
+"class":"cell txt li",
+"children":[
+"Moderate = arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" 100 to 200"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"849af0",
+"class":"cell txt li",
+"children":[
+"Severe = arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" <100"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ARDS = acute respiratory distress syndrome; PEEP = positive end-expiratory pressure."
+],
+[
+"Information from Ranieri VM, Rubenfeld GD, Thompson BT, et al; ARDS Definition Task Force. Acute respiratory distress syndrome: the Berlin definition. JAMA. 2012;307:2526-2533. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/22797452",
+"target":"_blank"
+},
+"children":[
+"PMID: 22797452"
+]
+},
+" doi:10.1001/jama.2012.5669"
+]
+]
+},
+"mk19_b_pm_t56":{
+"id":"mk19_b_pm_t56",
+"number":56,
+"bookId":"pm",
+"title":{
+"__html":"Causes of Acute Hypercapnic Respiratory Failure"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"d8e4e1",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 56. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t56"
+}
+]
+},
+"Causes of Acute Hypercapnic Respiratory Failure"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3cd424",
+"class":"col hd l",
+"children":[
+"Decreased Respiratory Drive"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c1f84e",
+"class":"cell txt l",
+"children":[
+"Anesthesia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"560ecd",
+"class":"cell txt l",
+"children":[
+"Central apnea"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"cfe09a",
+"class":"cell txt l",
+"children":[
+"Obesity hypoventilation syndrome"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"80d048",
+"class":"cell txt l",
+"children":[
+"Drugs (e.g., opioids, benzodiazepines, ethanol)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e9a998",
+"class":"cell txt l",
+"children":[
+"Encephalitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fc041c",
+"class":"cell txt l",
+"children":[
+"Hypothermia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1eb03b",
+"class":"cell txt l",
+"children":[
+"Hypothyroidism"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d7b2da",
+"class":"cell txt l",
+"children":[
+"Meningitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"8e763d",
+"class":"cell txt l",
+"children":[
+"Stroke"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cd8f2d",
+"class":"col hd l",
+"children":[
+"Decreased V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"T"
+]
+},
+" or Increased V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+"/V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"T"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"64b6be",
+"class":"cell txt l",
+"children":[
+"Neuromuscular weakness"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"6d9162",
+"class":"cell txt li",
+"children":[
+"Amyotrophic lateral sclerosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5056ce",
+"class":"cell txt li",
+"children":[
+"Botulism"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ebd781",
+"class":"cell txt li",
+"children":[
+"Critical illness myopathy"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"88f174",
+"class":"cell txt li",
+"children":[
+"Guillain-Barré syndrome"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"2942f9",
+"class":"cell txt li",
+"children":[
+"Myasthenia gravis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"c0a459",
+"class":"cell txt li",
+"children":[
+"Myositis (polymyositis, dermatomycosis)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"2c59d1",
+"class":"cell txt li",
+"children":[
+"Polio"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"088775",
+"class":"cell txt li",
+"children":[
+"Spinal or phrenic nerve injury"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a44d2",
+"class":"cell txt l",
+"children":[
+"Metabolic"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a3f130",
+"class":"cell txt li",
+"children":[
+"Electrolyte disorder (low magnesium, low phosphate)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3c7c6d",
+"class":"cell txt l",
+"children":[
+"Obstructive airway disease"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3aff16",
+"class":"cell txt li",
+"children":[
+"Asthma exacerbation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fe4137",
+"class":"cell txt li",
+"children":[
+"Bronchiectasis flare (including cystic fibrosis)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b59535",
+"class":"cell txt li",
+"children":[
+"COPD exacerbation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"292f81",
+"class":"cell txt l",
+"children":[
+"Restrictive physiology"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9d107e",
+"class":"cell txt li",
+"children":[
+"Ankylosing spondylitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7d4b4a",
+"class":"cell txt li",
+"children":[
+"Multiple rib fractures (flail chest)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"488bfc",
+"class":"cell txt li",
+"children":[
+"Thoracic cage deformity (kyphoscoliosis)"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+" = volume of dead space; V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"T"
+]
+},
+" = tidal volume."
+]
+]
+},
+"mk19_b_pm_t57":{
+"id":"mk19_b_pm_t57",
+"number":57,
+"bookId":"pm",
+"title":{
+"__html":"Features of Acute and Chronic Hypercapnia"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"91fecc",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 57. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t57"
+}
+]
+},
+"Features of Acute and Chronic Hypercapnia"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"97cfbc",
+"class":"col hd l",
+"children":[
+"Laboratory Study"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c4167f",
+"class":"col hd l",
+"children":[
+"Acute Hypercapnia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f98fc6",
+"class":"col hd l",
+"children":[
+"Chronic Hypercapnia"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell txt l",
+"children":[
+"pH"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e6def9",
+"class":"cell txt l",
+"children":[
+"<7.35"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8c7b0f",
+"class":"cell txt l",
+"children":[
+"~7.35-7.40"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"77f841",
+"class":"cell txt l",
+"children":[
+"Arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5ec111",
+"class":"cell txt l",
+"children":[
+">45 mm Hg (6.0 kPa)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5ec111",
+"class":"cell txt l",
+"children":[
+">45 mm Hg (6.0 kPa)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"261638",
+"class":"cell txt l",
+"children":[
+"Bicarbonate concentration [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"]"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"af6320",
+"class":"cell txt l",
+"children":[
+"22-26 mEq/L (22-26 mmol/L)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ab21b9",
+"class":"cell txt l",
+"children":[
+">26 mEq/L (26 mmol/L)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"eb1907",
+"class":"cell txt l",
+"children":[
+"Expected metabolic compensation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7ecf1e",
+"class":"cell txt l",
+"children":[
+"1.0 mEq/L ↑ (1 mmol/L) [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↑ in arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"847abf",
+"class":"cell txt l",
+"children":[
+"3.5 mEq/L (3.5 mmol/L) ↑ [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↑ arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_b_pm_t58":{
+"id":"mk19_b_pm_t58",
+"number":58,
+"bookId":"pm",
+"title":{
+"__html":"Pulmonary Function Values Suggestive of Neuromuscular Weakness"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"aa4e36",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 58. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t58"
+}
+]
+},
+"Pulmonary Function Values Suggestive of Neuromuscular Weakness"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"864085",
+"class":"col hd l",
+"children":[
+"Function"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"689202",
+"class":"col hd l",
+"children":[
+"Value"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4313e5",
+"class":"cell txt l",
+"children":[
+"FVC"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1b7858",
+"class":"cell txt l",
+"children":[
+">20% decrement in FVC while supine compared with upright position"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0a347b",
+"class":"cell txt l",
+"children":[
+"Maximal inspiratory pressure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b8d5c0",
+"class":"cell txt l",
+"children":[
+"Less than −60 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O or 50% of predicted"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ad1111",
+"class":"cell txt l",
+"children":[
+"Maximal expiratory pressure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"18abaa",
+"class":"cell txt l",
+"children":[
+"Less than +60 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O or 50% of predicted"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_b_pm_t59":{
+"id":"mk19_b_pm_t59",
+"number":59,
+"bookId":"pm",
+"title":{
+"__html":"Common Clinical Findings in Patients With Shock"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"43411d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 59. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t59"
+}
+]
+},
+"Common Clinical Findings in Patients With Shock"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"476778",
+"class":"cell txt l",
+"children":[
+"Altered mentation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"385d5e",
+"class":"cell txt l",
+"children":[
+"Capillary refill time (>2 s)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"82446d",
+"class":"cell txt l",
+"children":[
+"Elevated serum lactate (>3 mEq/L [3 mmol/L])"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"48761a",
+"class":"cell txt l",
+"children":[
+"Hypotension (SBP <90 mm Hg) or >30 mm Hg drop in SBP from baseline"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a82a11",
+"class":"cell txt l",
+"children":[
+"Mottled skin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"345043",
+"class":"cell txt l",
+"children":[
+"Tachycardia (heart rate >100/min)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e89fbc",
+"class":"cell txt l",
+"children":[
+"Tachypnea (respiration rate >20/min)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b12bac",
+"class":"cell txt l",
+"children":[
+"Urine output <0.5 mL/kg/h"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"SBP = systolic blood pressure."
+]
+]
+},
+"mk19_b_pm_t60":{
+"id":"mk19_b_pm_t60",
+"number":60,
+"bookId":"pm",
+"title":{
+"__html":"Selected Causes of Shock"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a3a010",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 60. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t60"
+}
+]
+},
+"Selected Causes of Shock"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"col hd l",
+"children":[
+"Distributive"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c677bb",
+"class":"cell txt l",
+"children":[
+"Anaphylaxis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"31cbb9",
+"class":"cell txt l",
+"children":[
+"Drugs (peripheral vasodilators, nitrates)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1d5f90",
+"class":"cell txt l",
+"children":[
+"Sepsis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"096298",
+"class":"cell txt l",
+"children":[
+"Spinal injury (usually above T4 level)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"77c388",
+"class":"col hd l",
+"children":[
+"Hypovolemic"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ec875f",
+"class":"cell txt l",
+"children":[
+"Acute blood loss (trauma, GI bleeding, surgery, uterine bleeding, obstetrical, retroperitoneal bleeding, aortic rupture)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e06c40",
+"class":"cell txt l",
+"children":[
+"Crush injury, rhabdomyolysis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"33ac66",
+"class":"cell txt l",
+"children":[
+"Cutaneous losses (burns, toxic epidermal necrolysis, erythroderma, excessive sweating)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9a8dfb",
+"class":"cell txt l",
+"children":[
+"Drugs (diuretics, laxatives)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f758ae",
+"class":"cell txt l",
+"children":[
+"GI losses (vomiting/diarrhea)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_2-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"745e87",
+"class":"cell txt l",
+"children":[
+"Kidney losses (diabetic ketoacidosis, hyperglycemic hyperosmolar syndrome, adrenal insufficiency, post-ATN osmotic diuresis)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"col hd l",
+"children":[
+"Cardiogenic"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b44646",
+"class":"cell txt l",
+"children":[
+"Arrhythmia (tachycardia, bradycardia)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9b78c6",
+"class":"cell txt l",
+"children":[
+"Heart failure"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f361bb",
+"class":"cell txt l",
+"children":[
+"Pulmonary hypertension"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e33bb1",
+"class":"cell txt l",
+"children":[
+"Myocardial infarction"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"af6b1c",
+"class":"cell txt l",
+"children":[
+"Valvular heart disease (critical stenosis, severe insufficiency, valve perforation, papillary muscle or chordae rupture)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_3-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"13aa5c",
+"class":"cell txt l",
+"children":[
+"Ventricular septal rupture"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f8d8fb",
+"class":"col hd l",
+"children":[
+"Obstructive"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"316640",
+"class":"cell txt l",
+"children":[
+"Abdominal compartment syndrome"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"57b406",
+"class":"cell txt l",
+"children":[
+"Atrial myxoma"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fa9e0d",
+"class":"cell txt l",
+"children":[
+"Constrictive pericarditis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d0bbc3",
+"class":"cell txt l",
+"children":[
+"Pericardial tamponade"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"364e33",
+"class":"cell txt l",
+"children":[
+"Pulmonary embolism"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e99e88",
+"class":"cell txt l",
+"children":[
+"Severe dynamic hyperinflation (e.g., excessive PEEP)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_4-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"dc1f19",
+"class":"cell txt l",
+"children":[
+"Tension pneumothorax"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ATN = acute tubular necrosis; GI = gastrointestinal; PEEP = positive end-expiratory pressure."
+]
+]
+},
+"mk19_b_pm_t50":{
+"id":"mk19_b_pm_t50",
+"number":50,
+"bookId":"pm",
+"title":{
+"__html":"Selection of Vasopressors and Inotropes"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"3c2f1e",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 50. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t50"
+}
+]
+},
+"Selection of Vasopressors and Inotropes"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"353bd6",
+"class":"col hd l",
+"children":[
+"Medication"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"709d81",
+"class":"col hd l",
+"children":[
+"Type of Shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f36245",
+"class":"col hd l",
+"children":[
+"Receptor Target"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f449d8",
+"class":"col hd l",
+"children":[
+"Primary Effect"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8413c6",
+"class":"col hd l",
+"children":[
+"Comments"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"baf153",
+"class":"cell txt l",
+"children":[
+"Angiotensin II"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"cell txt l",
+"children":[
+"Distributive"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"20343a",
+"class":"cell txt l",
+"children":[
+"AT II"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8b0fa0",
+"class":"cell txt l",
+"children":[
+"↑ SVR"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"966f41",
+"class":"cell txt l",
+"children":[
+"Role still being defined; concern for increase in thrombotic events"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9ff335",
+"class":"cell txt l",
+"children":[
+"Dobutamine (not a vasopressor)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"cell txt l",
+"children":[
+"Cardiogenic"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"cell txt l",
+"children":[
+"Distributive"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a12853",
+"class":"cell txt l",
+"children":[
+"β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bea02c",
+"class":"cell txt l",
+"children":[
+"↑ Inotropy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e31607",
+"class":"cell txt l",
+"children":[
+"First choice for cardiogenic shock without hypotension"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b3ec73",
+"class":"cell txt l",
+"children":[
+"May be added to norepinephrine for septic shock with depressed cardiac function"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d64d44",
+"class":"cell txt l",
+"children":[
+"Dopamine (high-dose)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"cell txt l",
+"children":[
+"Cardiogenic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ad4b53",
+"class":"cell txt l",
+"children":[
+"D, α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"964941",
+"class":"cell txt l",
+"children":[
+"↑ SVR, ↑ inotropy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a43cfb",
+"class":"cell txt l",
+"children":[
+"Associated with increased mortality compared with norepinephrine in distributive shock; use only in cases of severe bradycardia in septic shock"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6e0f3a",
+"class":"cell txt l",
+"children":[
+"Dopamine (low-dose)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"cell txt l",
+"children":[
+"Cardiogenic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bf891d",
+"class":"cell txt l",
+"children":[
+"D, β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6f2f01",
+"class":"cell txt l",
+"children":[
+"↑ Inotropy, ↑ HR"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"90e036",
+"class":"cell txt l",
+"children":[
+"Not recommended to augment renal blood flow"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"39e38c",
+"class":"cell txt l",
+"children":[
+"Epinephrine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"cell txt l",
+"children":[
+"Cardiogenic"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"cell txt l",
+"children":[
+"Distributive"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"77c388",
+"class":"cell txt l",
+"children":[
+"Hypovolemic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a1a4d",
+"class":"cell txt l",
+"children":[
+"α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"964941",
+"class":"cell txt l",
+"children":[
+"↑ SVR, ↑ inotropy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0dd136",
+"class":"cell txt l",
+"children":[
+"First choice anaphylactic (distributive) shock"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"150836",
+"class":"cell txt l",
+"children":[
+"May be added to norepinephrine and vasopressin in persistent septic (distributive) shock"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9ca371",
+"class":"cell txt l",
+"children":[
+"May be used as a single agent in septic shock with depressed cardiac function"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f7ac0c",
+"class":"cell txt l",
+"children":[
+"Norepinephrine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"978dcf",
+"class":"cell txt l",
+"children":[
+"Cardiogenic"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"cell txt l",
+"children":[
+"Distributive"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"77c388",
+"class":"cell txt l",
+"children":[
+"Hypovolemic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"71a993",
+"class":"cell txt l",
+"children":[
+"α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"964941",
+"class":"cell txt l",
+"children":[
+"↑ SVR, ↑ inotropy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"450ba6",
+"class":"cell txt l",
+"children":[
+"First choice in cardiogenic, distributive, and hypovolemic shock"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a1c6d",
+"class":"cell txt l",
+"children":[
+"Vasopressin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1e5cd4",
+"class":"cell txt l",
+"children":[
+"Distributive"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"77c388",
+"class":"cell txt l",
+"children":[
+"Hypovolemic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"520656",
+"class":"cell txt l",
+"children":[
+"V"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8b0fa0",
+"class":"cell txt l",
+"children":[
+"↑ SVR"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a839b",
+"class":"cell txt l",
+"children":[
+"May be added to norepinephrine in persistent septic (distributive) shock; no role in other shock states"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"AT II = angiotensin type II; HR = heart rate; SVR = systemic vascular resistance."
+]
+]
+}
+}
+}

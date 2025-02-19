@@ -1,0 +1,466 @@
+{
+"id":"mk19_a_on_q069",
+"number":69,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e7a4b2",
+"children":[
+"A 47-year-old man is evaluated during a follow-up examination. His medical history is significant for resection of cutaneous malignant melanoma from his left upper back 4 years ago. One month ago, he was diagnosed with metastatic melanoma to the liver and lungs. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"e35a8c",
+"children":[
+"No mutation in the liver metastasis ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" gene was identified."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e8a00",
+"children":[
+"Which of the following is the most appropriate treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anti-CTLA-4 antibody plus anti–programmed death antibody"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>BRAF</i> inhibitor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Combination of a <i>BRAF</i> and <i>MEK</i> inhibitor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"<i>MEK</i> inhibitor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e343f2",
+"children":[
+"Immunotherapy with an anti–CTLA-4 antibody plus an anti-programmed death antibody improves response rates compared with either agent alone and is the preferred treatment for patients with metastatic melanoma without a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aebc80",
+"children":[
+"In a patient with metastatic melanoma with a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation, treatment with either immunotherapy or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"-targeted therapy is appropriate."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e2896e",
+"children":[
+"This patient has ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF-"
+]
+},
+"nonmutated melanoma, and the best treatment is immunotherapy with an anti–CTLA-4 antibody plus an anti–programmed death (anti–PD-1) antibody (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Ipilimumab is an anti–CTLA-4 antibody, and nivolumab is an anti–PD-1 antibody. Individually, they each have activity against malignant melanoma. Ipilimumab has a response rate as a single agent of 10% to 15%. Nivolumab and other anti–PD-1 antibodies, such as pembrolizumab, have a response rate of about 40%. The combination is more active than either drug alone, although it is associated with more immune toxicities. This immunotherapy combination is effective whether the melanoma is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutated or not. Some of these responses are quite durable with a minority of patients remaining free of recurrence for many years."
+]
+},
+{
+"type":"p",
+"hlId":"0a9931",
+"children":[
+"Although about 50% of melanomas have a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation (most commonly ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" V600E or V600K), the other half of melanomas do not. Patients who have a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation may respond to therapy with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" inhibitors (vemurafenib, dabrafenib, and encorafenib) along with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibitors (trametinib, cobimetinib, and binimetinib). However, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" inhibitors are not effective in patients with tumors such as this one that is not ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Thus, there is no role for the use of a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" inhibitor in this patient who lacks a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation. Other driver mutations identified in patients with melanoma include ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"NRAS"
+]
+},
+" and c-KIT."
+]
+},
+{
+"type":"p",
+"hlId":"6b021c",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibitors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") do have single-agent activity in melanoma but are usually used in combination with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" inhibitors. Adding a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibitor to a BRAF inhibitor improves the response rate and the durability of response in ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"-mutated melanoma. A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibitor combined with a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in this patient with a tumor that lacks a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"-related mutation. Finally, treatment with an anti–CTLA-4 antibody plus an anti–PD-1 antibody results in superior clinical outcomes compared to treatment with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibitor monotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"1d5baa",
+"children":[
+"In a patient with metastatic disease who has a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutation, treatment with either immunotherapy or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"-targeted therapy would be appropriate without a clear indication as of yet which treatment is superior. In patients who are ill and in need of a rapid response or in those with underlying autoimmune disorders who would be at increased risk for adverse immune-related events, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"/",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEK"
+]
+},
+" inhibition may be favored, given the potential for more rapid response and the lower rate of autoimmune complications."
+]
+}
+],
+"relatedSection":"mk19_a_on_s11_1",
+"objective":{
+"__html":"Treat <i>BRAF-</i>nonmutated melanoma with immunotherapy."
+},
+"references":[
+[
+"Bomar L, Senithilnathan A, Ahn C. Systemic therapies for advanced melanoma. Dermatol Clin. 2019;37:409-23. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31466582",
+"target":"_blank"
+},
+"children":[
+"PMID: 31466582"
+]
+},
+" doi:10.1016/j.det.2019.05.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":60,
+"B":6,
+"C":25,
+"D":10,
+"E":0
+},
+"hlIds":[
+"e7a4b2",
+"e35a8c",
+"8e8a00",
+"e343f2",
+"aebc80",
+"e2896e",
+"0a9931",
+"6b021c",
+"1d5baa"
+]
+}

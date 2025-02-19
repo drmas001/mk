@@ -1,0 +1,199 @@
+{
+"id":"mk19_a_id_q108",
+"number":108,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 108",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e0eb4d",
+"children":[
+"A 24-year-old man undergoes consultation for test results following empiric therapy with ceftriaxone and azithromycin for sexually transmitted proctocolitis 3 days ago. His symptoms of mild rectal pain, tenesmus, and discharge are improving. Medical history includes no previous diagnosis of sexually transmitted infections. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4ffe7d",
+"children":[
+"Nucleic acid amplification test results are positive for chlamydia and negative for gonorrhea and herpes simplex virus. The syphilis enzyme immunoassay is positive, with a negative rapid plasma reagin; a fluorescent treponemal antibody absorption test is positive. HIV serology is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Benzathine penicillin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Doxycycline and benzathine penicillin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"197844",
+"children":[
+"Without a history of previous syphilis treatment, patients with a positive specific test and confirmatory specific test should be treated for syphilis of unknown duration with benzathine penicillin once weekly for three doses."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dc1c3c",
+"children":[
+"Benzathine penicillin is the most appropriate treatment for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Many laboratories use the “reverse” serologic testing strategy for syphilis, starting with an automated enzyme immunoassay (EIA) followed by a nonspecific test (rapid plasma reagin [RPR] or Venereal Disease Research Lab [VDRL] test). Patients with a positive EIA result but negative RPR or VDRL test result should have a second specific treponemal antibody test to confirm the result. Those with a confirmed positive result and no history of syphilis treatment should be offered treatment for syphilis of unknown duration with benzathine penicillin once weekly for three doses. In this patient, nucleic acid amplification testing (NAAT) confirmed a diagnosis of chlamydia proctitis, so the empiric treatment provided with ceftriaxone and azithromycin would have been sufficient to treat that infection."
+]
+},
+{
+"type":"p",
+"hlId":"7a8b85",
+"children":[
+"Oral amoxicillin is not recommended to treat syphilis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In countries where benzathine penicillin was not available, observational studies have demonstrated successful treatment of syphilis with long-duration, high-dose oral amoxicillin combined with probenecid. This long oral regimen is much less desirable than three weekly injections of benzathine penicillin."
+]
+},
+{
+"type":"p",
+"hlId":"3c7314",
+"children":[
+"Long courses of therapy with doxycycline may be required to treat proctocolitis caused by the lymphogranuloma venereum (LGV) serovars (L1, L2, or L3) of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+". LGV infections are increasing in the United States, and the NAAT for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. trachomatis"
+]
+},
+" would be positive in these cases. Patients usually present with more severe symptoms of proctocolitis and may have anal ulcers on examination. A course of doxycycline would be added to benzathine penicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") if this patient did not respond to the empiric therapy provided."
+]
+},
+{
+"type":"p",
+"hlId":"0e225d",
+"children":[
+"The serologic results for this patient could be consistent with successfully treated syphilis because the specific test may remain positive indefinitely. If the patient had reported a history of treatment for syphilis, then no further treatment would be necessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with untreated syphilis can also have a negative nonspecific test (RPR or VDRL), so anyone with two positive specific tests for syphilis, regardless of the nonspecific test result, and no history of treatment should be offered therapy for syphilis of unknown duration."
+]
+}
+],
+"relatedSection":"mk19_a_id_s9_6_2",
+"objective":{
+"__html":"Treat syphilis of unknown duration."
+},
+"references":[
+[
+"Ghanem KG, Ram S, Rice PA. The modern epidemic of syphilis. N Engl J Med. 2020;382:845-854. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32101666",
+"target":"_blank"
+},
+"children":[
+"PMID: 32101666"
+]
+},
+" doi:10.1056/NEJMra1901593"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":39,
+"C":49,
+"D":12,
+"E":0
+},
+"hlIds":[
+"e0eb4d",
+"4ffe7d",
+"1054f1",
+"197844",
+"dc1c3c",
+"7a8b85",
+"3c7314",
+"0e225d"
+]
+}

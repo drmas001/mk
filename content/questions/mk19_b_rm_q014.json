@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_rm_q014",
+"number":14,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5de3c1",
+"children":[
+"A 35-year-old woman is evaluated in follow-up for a recent diagnosis of ankylosing spondylitis. Despite the use of three different NSAIDs and physical therapy, she continues to have night pain and morning stiffness/pain lasting more than 1 hour."
+]
+},
+{
+"type":"p",
+"hlId":"8c6a88",
+"children":[
+"On physical examination, vital signs are normal. There is pain at the sacroiliac joints with hip flexion, abduction, and external rotation. Lumbar spine range of motion is mildly limited. Peripheral joints are normal."
+]
+},
+{
+"type":"p",
+"hlId":"a10784",
+"children":[
+"Initial anteroposterior radiograph of pelvis showed bilateral sacroiliitis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"916db9",
+"children":[
+"Which of the following is the most appropriate next treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Etanercept"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sulfasalazine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a37d57",
+"children":[
+"Tumor necrosis factor inhibitors are useful in patients with ankylosing spondylitis in whom NSAIDs have failed or cannot be tolerated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e426fa",
+"children":[
+"The most appropriate next treatment is etanercept (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a clear diagnosis of ankylosing spondylitis (AS), and first-line therapy with NSAIDs has failed. The American College of Rheumatology (ACR) recommends the use of a tumor necrosis factor (TNF) inhibitor after failure of a trial of at least two NSAIDs for 2 to 4 weeks each, or if NSAIDs cannot be tolerated. TNF inhibitors, such as etanercept (a fusion protein), adalimumab, or infliximab (monoclonal antibodies), can be used. The selection may depend on the presence of comorbid disease, such as uveitis or inflammatory bowel disease, where the monoclonal antibodies would be more appropriate. TNF inhibitors have been shown to be disease modifying in AS. Interleukin-17 inhibitors, such as secukinumab, could be used in patients in whom a TNF inhibitor fails or in whom a TNF inhibitor may be contraindicated. The ACR conditionally recommends TNF inhibitors over interleukin-17 inhibitors in patients in whom NSAIDs fail or who cannot tolerate NSAIDs."
+]
+},
+{
+"type":"p",
+"hlId":"8bd564",
+"children":[
+"Nonbiologic disease-modifying antirheumatic drugs, such as methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or sulfasalazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), have no efficacy in axial disease and limited efficacy in peripheral disease. Treatment with sulfasalazine is recommended primarily for patients with prominent peripheral arthritis and few or no axial skeleton symptoms and in these patients, it may be more effective than methotrexate. However, a TNF inhibitor may be the best option for these patients."
+]
+},
+{
+"type":"p",
+"hlId":"6719a1",
+"children":[
+"The ACR strongly recommend against treatment with systemic glucocorticoids, such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Glucocorticoids have numerous adverse effects, which are more likely to occur with higher doses and longer treatment, and lower doses are not as efficacious as TNF inhibitors."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s6_5_2",
+"objective":{
+"__html":"Treat ankylosing spondylitis with a tumor necrosis factor inhibitor."
+},
+"references":[
+[
+"Ward MM, Deodhar A, Gensler LS, et al. 2019 update of the American College of Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment Network Recommendations for the treatment of ankylosing spondylitis and nonradiographic axial spondyloarthritis. Arthritis Rheumatol. 2019;71:1599-1613. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31436036",
+"target":"_blank"
+},
+"children":[
+"PMID: 31436036"
+]
+},
+" doi:10.1002/art.41042"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":54,
+"B":21,
+"C":11,
+"D":14,
+"E":0
+},
+"hlIds":[
+"5de3c1",
+"8c6a88",
+"a10784",
+"916db9",
+"a37d57",
+"e426fa",
+"8bd564",
+"6719a1"
+]
+}

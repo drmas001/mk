@@ -1,0 +1,181 @@
+{
+"id":"mk19_b_gm_q101",
+"number":101,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"284e98",
+"children":[
+"A 56-year-old woman is evaluated for a 2-year history of worsening hot flashes and night sweats. She reports that the night sweats awaken her several times nightly, resulting in fatigue and missed work. History is significant for hypertension and hysterectomy at age 48 years for uterine fibroids. She has no history of venous thromboembolism. Findings on screening mammography 1 year ago were negative. Family history is significant for breast cancer in her grandmother, diagnosed at age 75 years. The patient's only medication is amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"b93a7f",
+"children":[
+"On physical examination, blood pressure is 134/82 mm Hg; other vital signs are normal. The remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Oral estrogen and progesterone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral gabapentin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transdermal estrogen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transdermal estrogen and oral progesterone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e3ae30",
+"hvc":true,
+"children":[
+"Hormone therapy is the most effective treatment for vasomotor symptoms associated with menopause."
+]
+},
+{
+"type":"keypoint",
+"hlId":"055c43",
+"hvc":true,
+"children":[
+"Transdermal estrogen is recommended for patients with moderate risk for coronary artery disease, increased risk for venous thromboembolism, hypertriglyceridemia, or high or intermediate risk for breast cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0dfaea",
+"children":[
+"The most appropriate treatment is transdermal estrogen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although associated with risk, hormone therapy is the most effective medication for vasomotor symptoms associated with menopause (hot flashes, night sweats). This patient is experiencing symptoms severe enough to result in missed work, which warrants hormone therapy. Before initiating therapy, patients should be assessed for contraindications, including unexplained vaginal bleeding, liver disease, coronary artery disease, stroke, thromboembolic disease, and breast or endometrial cancer. This patient has no risk factors for complications of hormonal therapy. Her only other health condition is controlled hypertension, and her mammogram obtained 1 year ago was negative. The lowest dose of estrogen therapy needed to manage symptoms should be used, and vasomotor symptoms and risk factors should be assessed annually. All women receiving hormone therapy should also receive individualized breast cancer risk assessments. This patient does not have a first-degree relative with breast cancer or other markers of elevated risk for breast cancer, but she should be advised that hormone therapy is associated with an increased risk for breast cancer in a dose-dependent fashion; estrogen therapy alone is lower risk than estrogen plus progesterone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). When hormonal therapy is indicated, transdermal estrogen may be preferable to oral estrogen because it is associated with less thromboembolic risk. However, this is based on limited observational data, and head-to-head comparisons are lacking. Guidelines are in general agreement in recommending transdermal estrogen in patients with moderate risk for coronary artery disease, increased risk for venous thromboembolism, hypertriglyceridemia, or high or intermediate risk for breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"62708e",
+"children":[
+"Oral gabapentin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") taken nightly can be an effective nonhormonal option for the management of vasomotor symptoms of menopause. However, it is less effective than hormonal therapy, and given the severity of this patient's symptoms and the absence of contraindications, she should be offered transdermal estrogen."
+]
+},
+{
+"type":"p",
+"hlId":"75196f",
+"children":[
+"Transdermal or oral estrogen plus oral progesterone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate treatment. A progestin is only needed for patients with a uterus to prevent estrogen-related endometrial proliferation and hyperplasia. This patient previously underwent hysterectomy. When used, progestins can be dosed either continuously or cyclically. Women receiving progestins cyclically may experience withdrawal bleeding."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s7_4_2_1",
+"objective":{
+"__html":"Manage vasomotor symptoms of menopause with hormone therapy."
+},
+"references":[
+[
+"The NAMS 2017 Hormone Therapy Position Statement Advisory Panel. The 2017 hormone therapy position statement of the North American Menopause Society. Menopause. 2017;24:728-53. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28650869",
+"target":"_blank"
+},
+"children":[
+"PMID: 28650869"
+]
+},
+" doi:10.1097/GME.0000000000000921"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":26,
+"B":13,
+"C":57,
+"D":5,
+"E":0
+},
+"hlIds":[
+"284e98",
+"b93a7f",
+"1054f1",
+"e3ae30",
+"055c43",
+"0dfaea",
+"62708e",
+"75196f"
+]
+}

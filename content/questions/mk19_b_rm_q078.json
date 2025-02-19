@@ -1,0 +1,196 @@
+{
+"id":"mk19_b_rm_q078",
+"number":78,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b99fad",
+"children":[
+"A 31-year-old man is evaluated following a recent diagnosis of ankylosing spondylitis. He has low back and pelvic pain that interrupts his sleep. Acetaminophen has not helped."
+]
+},
+{
+"type":"p",
+"hlId":"d4b500",
+"children":[
+"On physical examination, vital signs are normal. The FABER (Flexion, ABduction, and External Rotation) test of the hip elicits pain at both sacroiliac joints. Lumbar spine range of motion is slightly limited. There is good range of motion of the cervical spine and peripheral joints, including the hips. No peripheral joint swelling or tenderness is noted."
+]
+},
+{
+"type":"p",
+"hlId":"c55005",
+"children":[
+"Radiographs of the lumbar spine show bilateral sacroiliitis."
+]
+},
+{
+"type":"p",
+"hlId":"4580b7",
+"children":[
+"The patient is referred to physical therapy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Etanercept"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Naproxen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sulfasalazine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bbc680",
+"hvc":true,
+"children":[
+"Physical therapy and NSAIDs are the recommended first-line therapies for ankylosing spondylitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a44c37",
+"hvc":true,
+"children":[
+"If NSAIDs fail or the patient cannot tolerate NSAIDs, a tumor necrosis factor inhibitor is second-line therapy for ankylosing spondylitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"45501b",
+"children":[
+"The most appropriate treatment is naproxen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has classic ankylosing spondylitis (AS), as suggested by inflammatory low back pain with signs of sacroiliac joint irritation, limitation of lumbar spine motion, and changes of sacroiliitis on radiograph. NSAIDs are recommended first-line therapy for AS. In general, an NSAID must be dosed toward the higher end of the dosing range to modify new bone formation and have a significant impact on inflammation. If an NSAID is started early in the course of AS (<3 years), 35% of patients will enter remission compared with only 12% to 15% of those starting it later. Unlike with other rheumatologic diseases, evidence suggests that NSAID use in AS has a disease-modifying effect. Patients should be aware of and monitored for NSAID toxicity, such as hypertension, gastrointestinal bleeding, and kidney disease. Physical therapy is the most important nonpharmacologic intervention in AS. The goals of therapy include improving pain and stiffness, maintaining range of motion, and reducing disability; transition to an ongoing daily exercise program is optimal."
+]
+},
+{
+"type":"p",
+"hlId":"9ffabb",
+"children":[
+"If NSAIDs fail or the patient cannot tolerate NSAIDs, a tumor necrosis factor (TNF) inhibitor, such as etanercept (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is recommended as second-line disease-modifying therapy. The efficacy of TNF inhibitors in patients with active AS has been demonstrated in numerous randomized controlled trials, which showed improvements in clinical, radiographic, and MRI outcomes. Patients in whom a TNF inhibitor fails should receive an interleukin-17 inhibitor, such as secukinumab or ixekizumab."
+]
+},
+{
+"type":"p",
+"hlId":"6cddd0",
+"children":[
+"Nonbiologic agents, such as methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or sulfasalazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), do not play a role in axial disease but could be used as additional therapy as needed for significant peripheral joint disease. Sulfasalazine is the preferred agent. This patient has no evidence of peripheral joint disease, and these nonbiologic agents are not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s6_5_2",
+"objective":{
+"__html":"Treat ankylosing spondylitis with NSAIDs."
+},
+"references":[
+[
+"Ward MM, Deodhar A, Gensler LS, et al. 2019 Update of the American College of Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment Network Recommendations for the Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis. Arthritis Rheumatol. 2019;71:1599-1613. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31436036",
+"target":"_blank"
+},
+"children":[
+"PMID: 31436036"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":17,
+"B":8,
+"C":60,
+"D":15,
+"E":0
+},
+"hlIds":[
+"b99fad",
+"d4b500",
+"c55005",
+"4580b7",
+"78ff87",
+"bbc680",
+"a44c37",
+"45501b",
+"9ffabb",
+"6cddd0"
+]
+}

@@ -1,0 +1,202 @@
+{
+"id":"mk19_qq_q030",
+"number":30,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9ef47f",
+"children":[
+"A 36-year-old man with a 5-year history of ulcerative colitis is hospitalized with a 1-week history of fever, tenesmus, diffuse abdominal pain, and 12 daily episodes of bloody diarrhea despite use of oral glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"76909e",
+"children":[
+"Stool culture for enteric pathogens and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" assay are negative. He improves with intravenous glucocorticoid therapy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"060965",
+"children":[
+"Which of the following is the most appropriate maintenance treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azathioprine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Infliximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tofacitinib"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vedolizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3d2f6a",
+"children":[
+"Glucocorticoids are appropriate for the treatment of severe flares of ulcerative colitis but should never be used for maintenance therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"052b4c",
+"children":[
+"Tumor necrosis factor inhibitors (adalimumab, golimumab, and infliximab) are effective for induction and maintenance in severe ulcerative colitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"83371a",
+"children":[
+"The patient's symptoms are consistent with a severe flare-up of ulcerative colitis, which makes a tumor necrosis factor (TNF) inhibitor such as infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") the appropriate choice to induce and maintain remission. Ulcerative colitis is an immune-mediated disease with a fluctuating course that is characterized by periods of remission and flare-ups of varying severity and extent of colonic involvement. Most patients have proctitis, but inflammatory changes often extend proximally in a continuous fashion and involve other segments of the colon. The presence of systemic symptoms, such as fever and tachycardia, as well as 6 to 10 daily bloody bowel movements, defines a severe flare. Because some of the symptoms of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" and infectious colitis may mimic ulcerative colitis flares, it is highly recommended that these conditions be ruled out. In addition to the clinical assessment, fecal calprotectin, a protein found in neutrophils, is useful in assessing disease activity and response to treatment. Glucocorticoids are appropriate for the treatment of severe flares of ulcerative colitis but should never be used for maintenance therapy. TNF inhibitors (adalimumab, golimumab, and infliximab) are effective for induction and maintenance in severe ulcerative colitis and may lead to a favorable response within days. Although well tolerated, TNF inhibitors increase the risk for infection."
+]
+},
+{
+"type":"p",
+"hlId":"be6c78",
+"children":[
+"Thiopurines, such as oral azathioprine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are slow-acting agents recommended for maintenance but not for inducing remission of ulcerative colitis. Budesonide is a nonsystemic glucocorticoid that induces remission in flares of colitis, but only in mild to moderate cases. Oral mesalamine, an aminosalicylate, is commonly used for maintenance and may be used as a single agent to induce remission in mild to moderate, but not severe, colitis."
+]
+},
+{
+"type":"p",
+"hlId":"5e8c3c",
+"children":[
+"The small-molecule Janus kinase inhibitor tofacitinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is effective as primary therapy in inducing and maintaining remission in moderate to severe ulcerative colitis and as secondary therapy when anti-TNF agents have failed. Tofacitinib is associated with an increased risk of myocardial infarction, stroke, cancer, blood clots, and death."
+]
+},
+{
+"type":"p",
+"hlId":"2cf158",
+"children":[
+"Vedolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is effective in inducing and maintaining remission in moderate to severe ulcerative colitis, as well as in inducing remission when anti-TNF agents have failed."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_5_1_4",
+"objective":{
+"__html":"Treat severe ulcerative colitis."
+},
+"references":[
+[
+"Feuerstein JD, Isaacs KL, Schneider Y, et al; AGA Institute Clinical Guidelines Committee. AGA clinical practice guidelines on the management of moderate to severe ulcerative colitis. Gastroenterology. 2020;158:1450-1461. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31945371",
+"target":"_blank"
+},
+"children":[
+"PMID: 31945371"
+]
+},
+" doi:10.1053/j.gastro.2020.01.006"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9ef47f",
+"76909e",
+"060965",
+"3d2f6a",
+"052b4c",
+"83371a",
+"be6c78",
+"5e8c3c",
+"2cf158"
+]
+}

@@ -1,0 +1,347 @@
+{
+"id":"mk19_b_pm_q086",
+"number":86,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"01c8a1",
+"children":[
+"A 66-year-old woman is evaluated in the ICU for management of acute hypoxic respiratory failure due to viral pneumonia. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ac2534",
+"children":[
+"On physical examination, the patient is calm, alert, and interactive. Temperature is 37.6 °C (99.7 °F), blood pressure is 140/90 mm Hg, pulse rate is 100/min, and respiration rate is 32/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 89% breathing oxygen, 3 L/min by nasal cannula. Lung examination reveals bilateral rhonchi and tachypnea. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"08cc2b",
+"children":[
+"On arterial blood gas analysis with the patient breathing ambient air, pH is 7.40, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 37 mm Hg (4.9 kPa), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 58 mm Hg (7.7 kPa)."
+]
+},
+{
+"type":"p",
+"hlId":"297dd9",
+"children":[
+"Chest radiograph shows bilateral opacities."
+]
+},
+{
+"type":"p",
+"hlId":"9c55e9",
+"children":[
+"Therapy is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fd55db",
+"children":[
+"Which of the following is the most appropriate additional management of the patient's hypoxemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intubation and mechanical ventilation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"No change in current management"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Noninvasive positive pressure ventilation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oxygen by high-flow humidified nasal cannula"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f989a4",
+"children":[
+"In patients with hypoxemic respiratory failure, a therapeutic target for peripheral arterial saturation (Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") is between 90% and 96%, if feasible."
+]
+},
+{
+"type":"keypoint",
+"hlId":"148c1c",
+"children":[
+"In patients with hypoxemic respiratory failure, high-flow nasal cannula may decrease rates of endotracheal intubation and does not affect mortality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d88f6e",
+"children":[
+"The most appropriate next step in managing this patient's hypoxemia is oxygen by high-flow nasal cannula (HFNC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). HFNC mixes and humidifies high-flow air and oxygen (30 L/min or more) to deliver a consistent F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" (0.21-1.00) through a nasal cannula. The high flow creates positive airway pressure; the amount depends on the flow rate and cannot be measured or monitored consistently. A systematic review of oxygen delivered by HFNC versus standard oxygen therapy for hypoxemic respiratory failure showed that HFNC may decrease rates of endotracheal intubation and has no demonstrated effect on mortality."
+]
+},
+{
+"type":"p",
+"hlId":"c79087",
+"children":[
+"Intubation and mechanical ventilation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are acceptable interventions to manage hypoxemic respiratory failure. However, alternative options such as HFNC and noninvasive ventilation may be preferable because they are less invasive and less prone to complications of therapy if monitored correctly. This patient can maintain gas exchange, has acceptable breathing effort (she is calm and is not using accessory muscles to breathe), and can communicate and cooperate. Thus, HFNC should be pursued first instead of intubation and mechanical ventilation."
+]
+},
+{
+"type":"p",
+"hlId":"9978e7",
+"children":[
+"Management of hypoxemic respiratory failure centers on administration of supplemental oxygen with the lowest possible F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" necessary to meet oxygenation goals. A therapeutic target for peripheral arterial saturation (Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") is between 90% and 96%, if feasible. This patient requires additional management to reach that therapeutic target; therefore, no change in hypoxemia management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is inappropriate."
+]
+},
+{
+"type":"p",
+"hlId":"5d2f79",
+"children":[
+"Evidence favors the use of noninvasive positive pressure ventilation (NPPV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C)"
+]
+},
+" in patients with COPD exacerbations, cardiogenic pulmonary edema, neuromuscular disease, and obesity hypoventilation syndrome and in patients who have been extubated, which places them at high risk of morbidity."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_6_1_1",
+"objective":{
+"__html":"Treat hypoxemic respiratory failure with oxygen by high-flow nasal cannula."
+},
+"references":[
+[
+"Rochwerg B, Einav S, Chaudhuri D, et al. The role for high flow nasal cannula as a respiratory support strategy in adults: a clinical practice guideline. Intensive Care Med. 2020;46:2226-2237. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33201321",
+"target":"_blank"
+},
+"children":[
+"PMID: 33201321"
+]
+},
+" doi:10.1007/s00134-020-06312-y"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":15,
+"C":26,
+"D":51,
+"E":0
+},
+"hlIds":[
+"01c8a1",
+"ac2534",
+"08cc2b",
+"297dd9",
+"9c55e9",
+"fd55db",
+"f989a4",
+"148c1c",
+"d88f6e",
+"c79087",
+"9978e7",
+"5d2f79"
+]
+}

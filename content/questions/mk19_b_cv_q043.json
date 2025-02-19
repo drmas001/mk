@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_cv_q043",
+"number":43,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7866ab",
+"children":[
+"A 55-year-old woman is evaluated for a 6-month history of progressive fatigue and dyspnea while walking on level ground."
+]
+},
+{
+"type":"p",
+"hlId":"19abce",
+"children":[
+"On physical examination, blood pressure is normal and pulse rate is 80/min. Cardiac examination reveals an opening snap and a diastolic rumble heard best at the cardiac apex. Estimated central venous pressure is normal."
+]
+},
+{
+"type":"p",
+"hlId":"1b30ba",
+"children":[
+"A resting echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" greater than 55% and a normal-size right ventricle with preserved function. The mitral valve is thickened and appears rheumatic, with restricted opening of the leaflet tips. The mitral gradient and calculated valve area are consistent with moderate mitral stenosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Exercise echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Percutaneous balloon mitral commissurotomy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b14e57",
+"children":[
+"In patients with rheumatic mitral stenosis and a discrepancy between resting echocardiographic findings and clinical symptoms, exercise echocardiography or exercise testing during cardiac catheterization is recommended to further assess the valve."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"30f03d",
+"children":[
+"The most appropriate management is to perform exercise echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient's history (fatigue and exertional dyspnea) and examination findings (opening snap and diastolic rumble) are consistent with mitral stenosis, which the echocardiogram confirms. However, quantitation of the mitral stenosis reveals a gradient and valve area consistent with moderate, rather than severe, mitral stenosis. Severe mitral stenosis is defined by a mitral valve area of 1.5 cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or less, which usually corresponds to a mean mitral gradient of more than 5 to 10 mm Hg at a normal heart rate. This patient's symptoms are predominantly exertional, and decreased diastolic filling time with exertion typically results in an increased mitral gradient and left atrial and pulmonary pressures in mitral stenosis. In patients with a discrepancy between the clinical and echocardiographic findings, exercise echocardiography or exercise testing during cardiac catheterization should be pursued to assess the response of the mitral gradient and pulmonary pressures to an increased heart rate. Exercise testing is important because percutaneous balloon mitral commissurotomy is indicated for patients with severe mitral stenosis and favorable valve morphology."
+]
+},
+{
+"type":"p",
+"hlId":"b37813",
+"children":[
+"Although cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), or transesophageal echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may be used to measure the transmitral gradient and calculate or measure mitral valve area, each does so with the patient in a resting state and thus would not likely demonstrate the heart rate–related increases in mitral gradient, pulmonary pressures, and left atrial pressures often seen in mitral stenosis. None of these tests would provide evidence to explain this patient's symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"1ae19d",
+"children":[
+"Conclusively demonstrating the severity of mitral stenosis with exercise echocardiography would be necessary before recommending an intervention as invasive as percutaneous balloon mitral commissurotomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_5_1",
+"objective":{
+"__html":"Assess the severity of mitral stenosis with exercise echocardiography."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":21,
+"C":1,
+"D":45,
+"E":14
+},
+"hlIds":[
+"7866ab",
+"19abce",
+"1b30ba",
+"cb2b54",
+"b14e57",
+"30f03d",
+"b37813",
+"1ae19d"
+]
+}

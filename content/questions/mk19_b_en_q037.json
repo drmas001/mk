@@ -1,0 +1,245 @@
+{
+"id":"mk19_b_en_q037",
+"number":37,
+"bookId":"en",
+"correctAnswer":"E",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a7ea9a",
+"children":[
+"A 66-year-old woman is evaluated in follow-up for osteoporosis. Initial treatment with alendronate resulted in upper gastrointestinal symptoms that resolved with discontinuation. After receiving intravenous zoledronic acid 1 year ago, she experienced mild body aches, nausea, and headache peaking the day after the infusion and resolving by day 3."
+]
+},
+{
+"type":"p",
+"hlId":"977167",
+"children":[
+"Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"calcium"
+]
+},
+" level is 10.1 mg/dL (2.5 mmol/L). Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" level is 0.9 mg/dL (79.6 μmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"63241b",
+"children":[
+"The patient is concerned about a more severe reaction with the next zoledronic acid infusion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Decrease the rate of infusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pretreat with prednisone and diphenhydramine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pretreat with oral calcium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to denosumab"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Reassure the patient"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"40282f",
+"children":[
+"An acute-phase response reaction characterized by low-grade fever, myalgia, and arthralgia may occur within 1 to 3 days after first administration of zoledronic acid in 30% of patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8b2db5",
+"children":[
+"An acute-phase response to bisphosphonate infusion decreases or is absent with subsequent infusions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"71c932",
+"children":[
+"The most appropriate management is to reassure the patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Intravenous bisphosphonates (almost exclusively zoledronic acid) are useful for patients who cannot tolerate oral bisphosphonates because of gastrointestinal adverse effects or contraindications. An acute-phase response reaction characterized by low-grade fever, myalgia, and arthralgia may occur within 1 to 3 days after first administration of zoledronic acid in 30% of patients. Antipyretic agents (ibuprofen or acetaminophen) minimize the severity of symptoms, especially when given on a schedule rather than in response to symptoms. Symptoms are relatively mild and of short duration for most, but younger women and those who have never received oral bisphosphonate therapy may have more pronounced symptoms. The likelihood and severity of symptoms decreases with subsequent infusions such that patients can be reassured regarding diminished symptoms during subsequent intravenous bisphosphonate treatment."
+]
+},
+{
+"type":"p",
+"hlId":"e14d3b",
+"children":[
+"Zoledronic acid infusion may rarely result in acute kidney injury, and bisphosphonate use is contraindicated in patients with reduced kidney function (estimated glomerular filtration rate <35 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"). The risk for kidney injury may be increased in patients who are volume depleted or receiving diuretic therapy. A decreased rate of infusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may lessen the risk for kidney injury, but it will not affect the occurrence or severity of the acute-phase response reaction."
+]
+},
+{
+"type":"p",
+"hlId":"ab97d8",
+"children":[
+"Because the patient's symptoms are not immunologic drug reactions, the use of antihistamines or glucocorticoids such as prednisone and diphenhydramine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to prevent symptoms is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"861e4c",
+"children":[
+"Hypocalcemia can occur with bisphosphonate use and may be most pronounced after intravenous administration. This patient's symptoms, however, are not suggestive of hypocalcemia (paresthesia of hands and feet or perioral numbness). Further, in the absence of worsening kidney function or other disorders of calcium or vitamin D metabolism, the risk for hypocalcemia after intravenous bisphosphonate therapy decreases after the initial treatment. Pretreatment with oral calcium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") before a bisphosphonate infusion does not affect the likelihood of the acute-phase response reaction."
+]
+},
+{
+"type":"p",
+"hlId":"f4feaf",
+"children":[
+"Denosumab is an appropriate therapy for patients who cannot tolerate oral or intravenous bisphosphonate therapy. Switching to denosumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be a reasonable option in the rare case in which the acute-phase response is intolerable; however, this patient is likely to tolerate the subsequent bisphosphonate infusion, and thus it remains the preferable treatment."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_6_1",
+"objective":{
+"__html":"Manage acute-phase response to bisphosphonate infusion."
+},
+"references":[
+[
+"Camacho PM, Petak SM, Binkley N, et al. American Association of Clinical Endocrinologists/American College of Endocrinology clinical practice guidelines for the diagnosis and treatment of postmenopausal osteoporosis-2020 update executive summary. Endocr Pract. 2020;26:564-570. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32427525",
+"target":"_blank"
+},
+"children":[
+"PMID: 32427525"
+]
+},
+" doi:10.4158/GL-2020-0524"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":16,
+"C":5,
+"D":24,
+"E":38
+},
+"hlIds":[
+"a7ea9a",
+"977167",
+"63241b",
+"cb2b54",
+"40282f",
+"8b2db5",
+"71c932",
+"e14d3b",
+"ab97d8",
+"861e4c",
+"f4feaf"
+]
+}

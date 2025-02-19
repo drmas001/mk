@@ -1,0 +1,207 @@
+{
+"id":"mk19_a_gi_q042",
+"number":42,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ad32a6",
+"children":[
+"A 40-year-old woman is evaluated for a 3-month history of epigastric pain, bloating, abdominal fullness, nausea, and diarrhea 30 to 60 minutes after meals that is worse with larger meals. She sometimes experiences headaches and feels sweaty after larger meals. Symptoms usually improve gradually 30 minutes to 2 hours after eating. She has obesity, type 2 diabetes mellitus, and hypertension. She underwent sleeve gastrectomy 4 months ago. Current medications are omeprazole, promethazine, metformin, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"027742",
+"children":[
+"Vital signs and other physical examination findings are unremarkable. BMI is 35."
+]
+},
+{
+"type":"p",
+"hlId":"52989c",
+"children":[
+"Upper endoscopy findings are notable only for gastric sleeve anatomy. Gastric biopsy specimens are negative for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+". Duodenal biopsy specimens (for celiac disease) are normal. Result of a gastric emptying study is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acarbose"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Metoclopramide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rifaximin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Smaller, more frequent meals"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eb2818",
+"hvc":true,
+"children":[
+"Dumping syndrome results from rapid gastric emptying after gastric surgery; symptoms can include abdominal pain, epigastric fullness, diarrhea, nausea, vomiting, borborygmi, and bloating."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c8ea26",
+"hvc":true,
+"children":[
+"First-line treatment of dumping syndrome is smaller, more frequent meals."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d33d43",
+"children":[
+"The most appropriate treatment is smaller, more frequent meals (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient most likely has dumping syndrome as a consequence of her sleeve gastrectomy. Dumping syndrome can follow a variety of surgical procedures, including vagotomy, pyloroplasty, Roux-en-Y bypass, sleeve gastrectomy, and esophagectomy. Early dumping syndrome, as in this patient, results from the rapid transition of food into the small intestine, causing a fluid shift and potential release of gastrointestinal hormones with vasoactive properties. Classic gastrointestinal symptoms can include abdominal pain, epigastric fullness, diarrhea, nausea, vomiting, borborygmi, and bloating. Classic vasomotor symptoms can include palpitations and tachycardia, faintness or syncope, diaphoresis, and flushing and pallor. Symptoms typically occur within 1 hour of eating. Treatment should be tiered, beginning with dietary modifications and patient education by a trained dietitian. Dietary interventions can include the pursuit of smaller and more frequent meals (at least six per day); delayed intake of fluids by at least 30 minutes after intake of solids; avoidance of rapidly absorbable carbohydrates and alcohol; increased intake of high-fiber, high-protein foods; and lying down after a meal for 30 minutes. The use of dietary supplements, such as guar gum or pectin, to increase food viscosity can also be helpful."
+]
+},
+{
+"type":"p",
+"hlId":"0dad04",
+"children":[
+"Pharmacologic interventions can be considered when the previously mentioned measures fail, although no pharmacologic treatment has been approved for dumping syndrome. The currently available options include acarbose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and, in severe cases, somatostatin analogues. Acarbose, an α-glycosidase hydrolase inhibitor that interferes with digestion of polysaccharides to monosaccharides, can be used for late symptoms of dumping syndrome if dietary intervention is only partially successful."
+]
+},
+{
+"type":"p",
+"hlId":"9277b8",
+"children":[
+"Metoclopramide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a prokinetic approved for the treatment of gastroparesis. However, this patient does not have gastroparesis, as documented by the normal results of a gastric emptying study."
+]
+},
+{
+"type":"p",
+"hlId":"d1ac8d",
+"children":[
+"Rifaximin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for irritable bowel syndrome with diarrhea, which this patient does not have."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_9",
+"objective":{
+"__html":"Treat dumping syndrome."
+},
+"references":[
+[
+"Vavricka SR, Greuter T. Gastroparesis and dumping syndrome: current concepts and management. J Clin Med. 2019;8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31362413",
+"target":"_blank"
+},
+"children":[
+"PMID: 31362413"
+]
+},
+" doi:10.3390/jcm8081127"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":3,
+"C":2,
+"D":94,
+"E":0
+},
+"hlIds":[
+"ad32a6",
+"027742",
+"52989c",
+"1054f1",
+"eb2818",
+"c8ea26",
+"d33d43",
+"0dad04",
+"9277b8",
+"d1ac8d"
+]
+}

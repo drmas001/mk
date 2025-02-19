@@ -1,0 +1,200 @@
+{
+"id":"mk19_a_gi_q045",
+"number":45,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"42796e",
+"children":[
+"A 57-year-old man is evaluated for recurrent diarrhea and abdominal pain over the past 2 months. He was diagnosed with celiac disease 10 years ago when he presented with similar symptoms; at that time, symptoms resolved within 1 month of starting a gluten-free diet, which he has maintained since then. He has unintentionally lost 2 kg (5 lb) in the past 2 months."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"b1ae82",
+"children":[
+"Laboratory testing reveals a tissue transglutaminase IgA level more than 30 times the upper limit of normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"14a2dd",
+"children":[
+"Assessment for which of the following conditions is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Inadvertent gluten exposure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Microscopic colitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pancreatic insufficiency"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Small-bowel lymphoma"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dd2008",
+"hvc":true,
+"children":[
+"The most common cause of recurrent celiac disease symptoms is gluten exposure."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cb3a96",
+"hvc":true,
+"children":[
+"For the assessment of recurrent symptoms of celiac disease, a dietitian should evaluate possible sources of gluten exposure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6df30e",
+"children":[
+"The most appropriate initial management is assessment for inadvertent gluten exposure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient with a history of celiac disease now presents with recurrent symptoms. The most common cause of recurrent celiac disease symptoms is gluten exposure. This exposure may be inadvertent. This patient's elevated tissue transglutaminase IgA level 10 years after diagnosis is suspicious for ongoing gluten exposure because serologic results typically normalize within 1 year of starting a gluten-free diet. Before nonresponsive celiac disease is diagnosed, a dietitian's evaluation of the patient's exposure to dietary gluten is important."
+]
+},
+{
+"type":"p",
+"hlId":"dc6db0",
+"children":[
+"In patients who truly have unresponsive celiac disease, other diagnoses should be considered. Some reports suggest that approximately 10% of patients with celiac disease and recurrent symptoms have a concurrent diagnosis. Conditions to consider include HIV infection, irritable bowel syndrome, small intestinal bacterial overgrowth, microscopic colitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and pancreatic insufficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient does not appear to have risk factors for small intestinal bacterial overgrowth or chronic pancreatitis. Microscopic colitis deserves particular attention because approximately 4% of patients with celiac disease have this condition, but it is more typically found in middle-age and older women. Because inadvertent exposure to gluten is the most common cause of recurrent celiac disease symptoms, a referral to a dietitian and exploration of possible sources of gluten exposure is the best initial management option."
+]
+},
+{
+"type":"p",
+"hlId":"725f8e",
+"children":[
+"Upper endoscopy with duodenal biopsy is necessary to diagnose celiac disease. This procedure also plays a role in the assessment for unresponsive celiac disease, including evaluation for intestinal lymphoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or adenocarcinoma, which can complicate celiac disease and manifest as unresponsive disease. However, unresponsive celiac disease is far less likely than inadvertent gluten intake as a cause of this patient's recurrent symptoms."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_2_4",
+"objective":{
+"__html":"Evaluate recurrent celiac disease symptoms."
+},
+"references":[
+[
+"Rubin JE, Crowe SE. Celiac disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC202001070",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:ITC1-ITC16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31905394",
+"target":"_blank"
+},
+"children":[
+"PMID: 31905394"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":47,
+"B":6,
+"C":8,
+"D":39,
+"E":0
+},
+"hlIds":[
+"42796e",
+"f78abf",
+"b1ae82",
+"14a2dd",
+"dd2008",
+"cb3a96",
+"6df30e",
+"dc6db0",
+"725f8e"
+]
+}

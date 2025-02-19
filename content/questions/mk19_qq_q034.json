@@ -1,0 +1,211 @@
+{
+"id":"mk19_qq_q034",
+"number":34,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b4f0f2",
+"children":[
+"A 56-year-old man is evaluated in the emergency department for a 3-day history of fever, dyspnea, and anterior chest pain. Five other men were seen in the emergency department today with similar symptoms. All attended a baseball game 4 days ago and sat in the same stadium section."
+]
+},
+{
+"type":"p",
+"hlId":"9414cd",
+"children":[
+"Temperature is 38.7 °C (101.7 °F). The patient has hypotension, tachycardia, and tachypnea and is confused. Breath sounds are diminished. Chest radiograph shows bilateral lower lobe infiltrates and mediastinal widening."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ca7ce7",
+"children":[
+"Which of the following is the most likely infectious agent?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Bacillus anthracis</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Ebolavirus</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"SARS-CoV-2"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Yersinia pestis</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"653971",
+"children":[
+"The rapid development of a septic state following a nonspecific prodromal flu-like syndrome is characteristic of inhalational anthrax."
+]
+},
+{
+"type":"keypoint",
+"hlId":"83b534",
+"children":[
+"Inhalational anthrax results in widening of the mediastinum and occasional bloody pleural effusions demonstrated on chest radiograph or CT scan."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e59de5",
+"children":[
+"The most likely infectious agent is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Bacillus anthracis"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Unusually severe illness; rapid increase in disease incidence; atypical clinical presentation; and uncommon geographic, temporal, or demographic clustering of disease outbreaks suggest a bioterrorism attack. The rapid development of a septic state following a nonspecific prodromal flu-like syndrome is characteristic of inhalational anthrax. Migration of inhaled spores to the mediastinal lymph nodes leads to tissue destruction and hemorrhage, resulting in the classic widening of the mediastinum and occasional bloody pleural effusions demonstrated on chest radiograph or CT scan. The diagnosis is confirmed by isolating the organism (commonly from blood cultures of patients with inhalational disease) or detecting its presence in tissue or fluid through polymerase chain reaction testing."
+]
+},
+{
+"type":"p",
+"hlId":"6693cd",
+"children":[
+"The Ebola (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and Marburg viruses are the most likely viruses to be used as biologic weapons. In endemic areas, spread to humans occurs by vectors, contact with bodily fluids, or fomites. Aerosolization is a likely mode of terrorist dissemination. Symptoms of fever, headache, myalgia, abdominal pain, diarrhea, and unexplained bleeding and bruising appear 2 to 21 days after exposure. Disease progression results in maculopapular rash, hemorrhagic diathesis, shock, and multiorgan failure. Mortality rates may reach 90%. Pneumonia with mediastinal widening is not seen."
+]
+},
+{
+"type":"p",
+"hlId":"92965a",
+"children":[
+"Symptomatic infection with SARS-CoV-2 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is known as COVID-19 (coronavirus disease 2019). COVID-19 may present as an acute respiratory disease, which may be mild but can progress to severe viral pneumonia. The clinical presentation is an influenza-like illness with lower respiratory tract symptoms. Fever eventually develops in most symptomatic patients. Cough may be severe and nonproductive; myalgia, sore throat, and headache are common. Loss of taste and smell is a differentiating symptom. Although imaging is nondiagnostic and may appear normal, persons with COVID-19 who do have imaging abnormalities most characteristically have bilateral ground-glass opacities."
+]
+},
+{
+"type":"p",
+"hlId":"9ca99f",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Yersinia pestis"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is endemic to the southwestern United States, where the population of reservoir rodents is dense, with transmission usually by flea bite. Plague typically consists of three clinical syndromes: (1) pneumonic plague, occurring with inhalation of bacteria (very rare); (2) bubonic plague, characterized by purulent lymphadenitis near the inoculation site; and (3) septicemic plague, a septic presentation that may arise from either of the other syndromes. The bipolar staining, gram-negative bacillus giving the appearance of a closed safety pin is practically pathognomonic for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Y. pestis."
+]
+},
+" Mediastinal widening is not seen with pneumonic plague."
+]
+}
+],
+"relatedSection":"mk19_a_id_s13_2",
+"objective":{
+"__html":"Diagnose anthrax infection."
+},
+"references":[
+[
+"Savransky V, Ionin B, Reece J. Current status and trends in prophylaxis and management of anthrax disease. Pathogens. 2020;9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32408493",
+"target":"_blank"
+},
+"children":[
+"PMID: 32408493"
+]
+},
+" doi:10.3390/pathogens9050370"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b4f0f2",
+"9414cd",
+"ca7ce7",
+"653971",
+"83b534",
+"e59de5",
+"6693cd",
+"92965a",
+"9ca99f"
+]
+}

@@ -1,0 +1,201 @@
+{
+"id":"mk19_qq_q167",
+"number":167,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 167",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0e2b3f",
+"children":[
+"A 68-year-old woman is treated for acute heart failure with torsemide. She has a history of hypertension, obesity, type 2 diabetes mellitus, and atrial fibrillation. Medications are metoprolol, hydrochlorothiazide, empagliflozin, and apixaban."
+]
+},
+{
+"type":"p",
+"hlId":"9efec3",
+"children":[
+"Echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 60% without valvular abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"712a1f",
+"children":[
+"On the following day, blood pressure is 150/90 mm Hg and pulse rate is 50/min. BMI is 30. There is no jugular venous distention, pulmonary crackles, or edema."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add digoxin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add ivabradine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add losartan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Replace hydrochlorothiazide with furosemide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1d3bd7",
+"children":[
+"In patients with heart failure with preserved ejection fraction, antihypertensive agents should target a systolic blood pressure of less than 130 mm Hg."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"795e04",
+"children":[
+"The most appropriate treatment is to add losartan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has heart failure with preserved ejection fraction (HFpEF), which is characterized by symptoms of heart failure in the setting of normal systolic function and no valvular abnormalities. This patient with HFpEF was appropriately treated with a loop diuretic to control symptoms of volume overload. She now needs an additional antihypertensive agent to attain a target systolic blood pressure of less than 130 mm Hg. Adding losartan for better hypertension control is appropriate at this time. Neurohormonal blockade of the renin-angiotensin-aldosterone system in HFpEF is beneficial in reducing sodium and water retention and ameliorating adverse cardiac remodeling."
+]
+},
+{
+"type":"p",
+"hlId":"7a0a35",
+"children":[
+"Digoxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a positive inotropic agent occasionally used in the treatment of symptomatic heart failure with reduced ejection fraction. It is used for rate control in the setting of atrial fibrillation with a rapid ventricular rate, which may exacerbate heart failure, but there are currently no data to support its use for the primary treatment of HFpEF."
+]
+},
+{
+"type":"p",
+"hlId":"0d5c7b",
+"children":[
+"Ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") reduces heart failure–associated hospitalizations and the combined endpoint of mortality and heart failure hospitalization in patients with chronic symptomatic heart failure and left ventricular ejection fraction less than or equal to 35% who are in sinus rhythm and taking maximally tolerated doses of a β-blocker. In these patients, ivabradine should be considered for those with an elevated heart rate (≥70/min). This patient has no indication for ivabradine."
+]
+},
+{
+"type":"p",
+"hlId":"eb39a3",
+"children":[
+"This patient appears euvolemic on her current diuretic regimen and, from a clinical standpoint, would not need to switch from hydrochlorothiazide to another diuretic agent, such as furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). There are no significant cardiac remodeling or outcomes benefits beyond simple volume management associated with switching between diuretic classes."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_1",
+"objective":{
+"__html":"Treat heart failure with preserved ejection fraction."
+},
+"references":[
+[
+"Wu A. Heart failure. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201806050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;168:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29868816",
+"target":"_blank"
+},
+"children":[
+"PMID: 29868816"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"0e2b3f",
+"9efec3",
+"712a1f",
+"1054f1",
+"1d3bd7",
+"795e04",
+"7a0a35",
+"0d5c7b",
+"eb39a3"
+]
+}

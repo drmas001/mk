@@ -1,0 +1,259 @@
+{
+"id":"mk19_b_gm_q044",
+"number":44,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1d3b0f",
+"children":[
+"A 58-year-old woman is evaluated for a 5-week history of an itchy rash on the low back. She was recently diagnosed with hepatitis C virus infection, for which she has just initiated ledipasvir-sofosbuvir. Her medical history is otherwise unremarkable, and she takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"c8ac74",
+"children":[
+"Skin findings on the low back are ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f044a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_gm_mcq_f044a"
+]
+},
+{
+"type":"p",
+"hlId":"302735",
+"children":[
+"The volar wrists have lesions similar to those on the back. There is no lymphadenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lichen planus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pityriasis rosea"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Psoriasis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Secondary syphilis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"091ceb",
+"children":[
+"Lichen planus is a T-cell–mediated disease classically presenting with pruritic purple papules that are often flat topped and characteristically erupt on the low back, volar wrists, elbows, knees, and ankles."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d56d88",
+"children":[
+"The most likely diagnosis is lichen planus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Some, but not all, studies have shown an increased prevalence of hepatitis C virus infection in patients with lichen planus. Lichen planus is a relatively common T-cell–mediated disease presenting with pruritic purple papules that are often flat topped and have a polygonal appearance. Papules characteristically erupt on the low back, volar wrists, elbows, knees, and ankles. Other variants include nail, genital, bullous, atrophic, and hypertrophic lichen planus. Mucosal lesions have lacy white streaks (Wickham striae), as ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f044b",
+"wrapId":"2",
+"children":[
+"shown"
+]
+},
+" in this patient, or erosions and ulcerations."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_gm_mcq_f044b"
+]
+},
+{
+"type":"p",
+"hlId":"b32f67",
+"children":[
+"Lichen planus also exhibits the Koebner phenomenon, which describes its occurrence in areas of trauma, such as those caused by scratching. Lichen planus is typically treated with topical glucocorticoids or ultraviolet light therapy. Lichen planus tends to resolve over the course of 1 to 2 years, although oral and nail lichen planus are more persistent."
+]
+},
+{
+"type":"p",
+"hlId":"d67248",
+"children":[
+"Pityriasis rosea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") begins as a single annular patch or plaque with fine scaling (the herald patch), typically on the trunk, followed by numerous smaller skin-colored to pink papules and plaques erupting along skin cleavage lines. As a result of the Koebner phenomenon, scratching the lichen planus on the lower back can result in a linear-appearing rash, mimicking the appearance of pityriasis rosea. However, lichen planus is significantly more purple in color than pityriasis rosea and tends to erupt on the lower back, whereas pityriasis rosea tends to erupt on the upper and mid-back. This patient also has rash on her volar wrists, which would be an unusual finding in pityriasis rosea."
+]
+},
+{
+"type":"p",
+"hlId":"4058e3",
+"children":[
+"Psoriasis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has many clinical presentations, the most common being plaque psoriasis. Plaque psoriasis typically presents with thick, well-demarcated erythematous plaques with overlying silvery scale. Nail psoriasis presents with nail pitting, onycholysis (separation of the nail plate from the nail bed), and “oil spots.” Other less common subtypes include guttate psoriasis (commonly seen in pediatric patients), palmoplantar psoriasis (frequently with pustules as the primary lesion), and inverse psoriasis (often seen without scale in the intertriginous areas). This patient's purple papules do not resemble the red plaques with thick scale of psoriasis."
+]
+},
+{
+"type":"p",
+"hlId":"e94a0b",
+"children":[
+"The rash of secondary syphilis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is more brownish red in color compared with the purple papules of lichen planus. Secondary syphilis also typically involves the trunk and extremities, often including the palms and soles. Involvement of the palms and soles and generalized lymphadenopathy favor the diagnosis of secondary syphilis."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_18_2",
+"objective":{
+"__html":"Diagnose lichen planus."
+},
+"references":[
+[
+"Ioannides D, Vakirlis E, Kemeny L, et al. European S1 guidelines on the management of lichen planus: a cooperation of the European Dermatology Forum with the European Academy of Dermatology and Venereology. J Eur Acad Dermatol Venereol. 2020;34:1403-14. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32678513",
+"target":"_blank"
+},
+"children":[
+"PMID: 32678513"
+]
+},
+" doi:10.1111/jdv.16464"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":44,
+"C":5,
+"D":11,
+"E":0
+},
+"figuresContent":{
+"mk19_b_gm_mcq_f044a":{
+"id":"mk19_b_gm_mcq_f044a",
+"number":44,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"fe8c5055f7d6da9e0aeab0d96437344d",
+"height":488,
+"width":650,
+"extension":"jpg"
+}
+},
+"mk19_b_gm_mcq_f044b":{
+"id":"mk19_b_gm_mcq_f044b",
+"number":44,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"7e377181dbfa1a2c9f24e743e78aeb8a",
+"height":558,
+"width":727,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"1d3b0f",
+"c8ac74",
+"302735",
+"413696",
+"091ceb",
+"d56d88",
+"b32f67",
+"d67248",
+"4058e3",
+"e94a0b"
+]
+}

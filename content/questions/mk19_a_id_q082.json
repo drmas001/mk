@@ -1,0 +1,190 @@
+{
+"id":"mk19_a_id_q082",
+"number":82,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"51ef15",
+"children":[
+"A 77-year-old woman is hospitalized for decompensated heart failure. An indwelling urinary catheter is placed to monitor hourly urine output, and intravenous diuretics are administered. Medical history is significant for hypertension and untreated urinary incontinence. Her medications are carvedilol, furosemide, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"6c13d6",
+"children":[
+"On physical examination, blood pressure is 154/92 mm Hg, pulse rate is 100/min, and respiration rate is 18/min. Cardiopulmonary examination reveals bibasilar crackles and an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+". Bilateral lower extremity pitting edema is present to the mid calf."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"82e8ae",
+"children":[
+"Which of the following is the most appropriate management to prevent urinary tract infection?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer prophylactic trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Check urinalysis and urine culture on third day of catheterization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Remove indwelling urinary catheter"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Replace indwelling urinary catheter with an antiseptic-coated catheter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6eda9b",
+"hvc":true,
+"children":[
+"Early removal of indwelling urinary catheters should be considered whenever possible, with use of external catheters for patients with incontinence or increased urination when frequent toileting does not adequately address the issue."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"58999f",
+"children":[
+"Removing this patient's indwelling urinary catheter is the most appropriate management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Patients who are female and older than 50 years are at increased risk for catheter-associated urinary tract infection (CAUTI); a serum creatinine level greater than 2 mg/dL (177 µmol/L) in this population is also a risk factor. Without an accepted indication for an indwelling urinary catheter, it should be removed. Accurate monitoring of urine output in a critically ill patient is an accepted indication, but this patient is not critically ill. Her fluid status can be assessed by other means (e.g., weight), or the urine may be collected in another manner to measure output. Her history of urinary incontinence alone is also not an indication for an indwelling urinary catheter. Indwelling urinary catheters may be used in the management of stage III or IV or unstageable perineal or sacral pressure ulcers in patients who are incontinent. External catheters (e.g., condom catheters for men or female external urinary collection device with suction for women) can be used for patients with incontinence or increased urination (e.g., diuretic treatment) when frequent toileting does not adequately address the issue. Early removal of urinary catheters should be considered whenever possible."
+]
+},
+{
+"type":"p",
+"hlId":"93473b",
+"children":[
+"In patients with short-term or long-term requirements for an indwelling urinary catheter, administration of antibiotics such as trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated. Such therapy promotes the development of resistant bacteria without improving patient care."
+]
+},
+{
+"type":"p",
+"hlId":"e0003d",
+"children":[
+"Random urinalysis and urine culture is not helpful in monitoring for CAUTI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Without symptoms, the results are likely to represent catheter colonization rather than infection and may lead to inappropriate antibiotic use. Patients with indwelling urinary catheters should be assessed daily for signs and symptoms of infection. If present, the catheter should be removed. If symptoms persist after catheter removal, the patient should be evaluated for urinary tract infection."
+]
+},
+{
+"type":"p",
+"hlId":"7fa3cc",
+"children":[
+"Antimicrobial-impregnated or antiseptic-coated catheters (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may decrease the incidence of asymptomatic bacteriuria, but they have not been shown to decrease CAUTI or urinary catheter–associated bloodstream infection with short-term (<7 days) catheterization. Little information is available regarding benefits with long-term urinary catheters."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_3_3",
+"objective":{
+"__html":"Prevent catheter-associated urinary tract infection."
+},
+"references":[
+[
+"Shuman EK, Chenoweth CE. Urinary catheter-associated infections. Infect Dis Clin North Am. 2018;32:885-897. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30241712",
+"target":"_blank"
+},
+"children":[
+"PMID: 30241712"
+]
+},
+" doi:10.1016/j.idc.2018.07.002"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":6,
+"C":85,
+"D":7,
+"E":0
+},
+"hlIds":[
+"51ef15",
+"6c13d6",
+"82e8ae",
+"6eda9b",
+"58999f",
+"93473b",
+"e0003d",
+"7fa3cc"
+]
+}

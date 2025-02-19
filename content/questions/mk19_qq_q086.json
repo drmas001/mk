@@ -1,0 +1,215 @@
+{
+"id":"mk19_qq_q086",
+"number":86,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c9094b",
+"children":[
+"A 28-year-old woman has right-upper-quadrant (RUQ) abdominal pain of 5 hours' duration without nausea or vomiting."
+]
+},
+{
+"type":"p",
+"hlId":"fef8f8",
+"children":[
+"Temperature is 37.8 °C (100.0 °F) and pulse rate is 98/min. Palpation of the RUQ causes discomfort and inspiratory arrest. Laboratory studies show leukocytosis. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"aspartate aminotransferase"
+]
+},
+" levels are 45 U/L and 50 U/L, respectively, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, serum",
+"children":[
+"serum bilirubin"
+]
+},
+" level is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ecb9ce",
+"children":[
+"Which of the following is the most appropriate next diagnostic step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the abdomen and pelvis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hepatobiliary iminodiacetic acid scanning"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Magnetic resonance cholangiopancreatography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"600bd2",
+"children":[
+"Acute cholecystitis presents with right-upper-quadrant (RUQ) abdominal pain, fever, and positive Murphy sign (arrest of respiration on palpation of the RUQ); leukocytosis may be present, and liver chemistries and bilirubin level are often normal or minimally elevated."
+]
+},
+{
+"type":"keypoint",
+"hlId":"252eee",
+"children":[
+"Abdominal ultrasonography can establish the diagnosis of acute cholecystitis by visualization of gallbladder wall thickening and/or edema and a sonographic Murphy sign."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"82158a",
+"children":[
+"Abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate next diagnostic study for this patient with likely acute cholecystitis. Clues to this diagnosis include right-upper-quadrant (RUQ) abdominal pain, fever, and positive Murphy sign (arrest of respiration on palpation of the RUQ). Laboratory studies may show leukocytosis; liver chemistries and bilirubin are often normal or minimally elevated, unless complications such as common bile duct obstruction or cholangitis are present. Abdominal ultrasonography can establish the diagnosis by visualization of gallbladder wall thickening and/or edema and a sonographic Murphy sign."
+]
+},
+{
+"type":"p",
+"hlId":"1b5e6f",
+"children":[
+"A contrast-enhanced CT scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can show gallstones, gallbladder wall thickening, gallbladder distension, pericholecystic fluid, and inflammation of the pericholecystic fat. An unenhanced CT can show gallstones and a hyperdense gallbladder wall, which can suggest the presence of gangrenous cholecystitis. However, CT is expensive and exposes the patient to ionizing radiation. It is generally reserved to resolve diagnostic dilemmas and to detect possible complications of acute cholecystitis, such as generalized peritonitis, sepsis, or bowel obstruction."
+]
+},
+{
+"type":"p",
+"hlId":"faa38e",
+"children":[
+"Hepatobiliary iminodiacetic acid (HIDA) scanning (cholescintigraphy) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used when the diagnosis of acute cholecystitis is unclear, such as when symptoms are consistent with cholecystitis yet the ultrasound is normal. The classic finding of acute cholecystitis on a HIDA scan is nonvisualization of the gallbladder due to cystic duct obstruction. If the gallbladder is not visualized within 60 minutes, delayed images are obtained after 4 hours. In patients who are critically ill, morphine may be administered to increase sphincter of Oddi pressure and to reduce the likelihood of false-positive results."
+]
+},
+{
+"type":"p",
+"hlId":"657414",
+"children":[
+"Symptoms of common bile duct stones include abdominal pain and jaundice due to obstruction of bile flow. Common duct stones may be visualized by transabdominal ultrasonography. In patients who are suspected of having common duct stones but who have indeterminate findings on ultrasonography, magnetic resonance cholangiopancreatography (MRCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or endoscopic ultrasonography should be performed. The initial diagnostic study for either acute cholecystitis or common bile duct stone is abdominal ultrasonography; MRCP is not indicated as the initial imaging test in this patient",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"."
+]
+}
+]
+}
+],
+"relatedSection":"mk19_a_gi_s7_3",
+"objective":{
+"__html":"Diagnose acute cholecystitis."
+},
+"references":[
+[
+"Lam R, Zakko A, Petrov JC, et al. Gallbladder disorders: a comprehensive review. Dis Mon. 2021;67:101130. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33478678",
+"target":"_blank"
+},
+"children":[
+"PMID: 33478678"
+]
+},
+" doi:10.1016/j.disamonth.2021.101130"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c9094b",
+"fef8f8",
+"ecb9ce",
+"600bd2",
+"252eee",
+"82158a",
+"1b5e6f",
+"faa38e",
+"657414"
+]
+}

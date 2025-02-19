@@ -1,0 +1,328 @@
+{
+"id":"mk19_qq_q084",
+"number":84,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"de2670",
+"children":[
+"A 27-year-old woman receiving parenteral antibiotics for pelvic inflammatory disease develops fever, watery diarrhea, and abdominal pain. She otherwise has been well and takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"cedb60",
+"children":[
+"Temperature is 38.0 °C (100.4 °F); all other vital signs are normal. She has a soft abdomen with normal bowel sounds. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" is 17,500/μL (17.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level is 1.7 mg/dL (150.3 μmol/L). Result of a stool ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" antigen/toxin assay is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous (IV) vancomycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral fidaxomicin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral vancomycin plus IV metronidazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral vancomycin, IV metronidazole, and vancomycin enema"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"18fe2d",
+"children":[
+"Guidelines define severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection by a serum creatinine level of 1.5 mg/dL (132.6 μmol/L) or higher or a leukocyte count of 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a5bc8d",
+"children":[
+"Oral fidaxomicin (preferred) or oral vancomycin for 10 days is recommended for an initial episode of severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b4163d",
+"children":[
+"In addition to discontinuing the associated antibiotic agent, if possible, oral fidaxomicin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or vancomycin is the most appropriate treatment for this patient with severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection. The Society for Healthcare Epidemiology of America and the Infectious Diseases Society of America guidelines define severe disease by a serum creatinine level of 1.5 mg/dL (132.6 μmol/L) or higher or a leukocyte count of 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater. Fidaxomicin (preferred) or oral vancomycin for 10 days is recommended for an initial episode of nonsevere or severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection."
+]
+},
+{
+"type":"p",
+"hlId":"394869",
+"children":[
+"Intravenous (IV) vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended for treatment of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection, because vancomycin delivered intravenously is not excreted into the large intestine and has no effect on ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection."
+]
+},
+{
+"type":"p",
+"hlId":"ea680e",
+"children":[
+"Oral vancomycin plus IV metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended for treatment of fulminant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection, which is associated with hypotension, ileus, shock, or toxic megacolon. This patient has no indication for oral vancomycin plus IV metronidazole."
+]
+},
+{
+"type":"p",
+"hlId":"e209b2",
+"children":[
+"Fulminant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection is often associated with ileus-limiting colonic transit of orally dosed medications; therefore, a vancomycin enema through a rectal tube should be considered to maximize colonic luminal concentrations in this condition. Parenteral metronidazole has variable penetration but provides some delivery to the distal colon in the setting of ileus. Patients with fulminant disease warrant surgical evaluation. This patient does not have an ileus; therefore, treatment with oral vancomycin, IV metronidazole, and vancomycin enema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_8",
+"objective":{
+"__html":"Treat severe <i>Clostridioides difficile</i> infection."
+},
+"references":[
+[
+"Johnson S, Lavergne V, Skinner AM, et al. Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection in adults. Clin Infect Dis. 2021;73:755-757. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34492699",
+"target":"_blank"
+},
+"children":[
+"PMID: 34492699"
+]
+},
+" doi:10.1093/cid/ciab718"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"de2670",
+"cedb60",
+"1054f1",
+"18fe2d",
+"a5bc8d",
+"b4163d",
+"394869",
+"ea680e",
+"e209b2"
+]
+}

@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gi_q020",
+"number":20,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b6246e",
+"children":[
+"A 20-year-old woman is evaluated for loose, bloody stools up to three times daily with prominent fecal urgency. She has no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"167328",
+"children":[
+"On physical examination, all vital signs are normal. Abdominal examination is normal. Anorectal examination elicits mild discomfort."
+]
+},
+{
+"type":"p",
+"hlId":"6b8aaf",
+"children":[
+"Laboratory evaluation shows a normal complete blood count and liver chemistries. Results of testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" toxin are negative."
+]
+},
+{
+"type":"p",
+"hlId":"17cd74",
+"children":[
+"Colonoscopy shows moderate inflammatory mucosal changes involving the rectum in a diffuse, continuous fashion, characterized by edema, erythema, and erosions. Abrupt transition to normal-appearing mucosa in the upper rectum is evident, and the remaining colonic mucosa above the rectum is normal. Biopsy specimens from the rectum reveal moderate chronic colitis with crypt architectural distortion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"5-Aminosalicylate suppository"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glucocorticoid suppository"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral 5-aminosalicylate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral glucocorticoid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a608be",
+"children":[
+"Patients with ulcerative proctitis should receive topical therapy with 5-aminosalicylate suppositories; once remission is achieved, 5-aminosalicylates are effective in maintaining it."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5ce3a6",
+"children":[
+"Combined 5-ASA therapy (oral and topical) is superior for inducing remission in patients with left-sided or extensive ulcerative colitis compared with oral or topical therapies alone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a8e1c5",
+"children":[
+"The most appropriate treatment is a 5-aminosalicylate (5-ASA) suppository (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Categories of the extent of ulcerative colitis include proctitis (within 18 cm of the anal verge, distal to the rectosigmoid junction), left-sided colitis (extending from the sigmoid to the splenic flexure), and extensive colitis (beyond the splenic flexure). This patient has findings consistent with mild ulcerative proctitis. Three factors must be considered in choosing therapy for ulcerative colitis: disease severity, distribution of disease, and previous therapies, including response and adherence. 5-ASAs are anti-inflammatory medications and the mainstay of treatment of mild to moderate ulcerative colitis. Patients with proctitis should receive topical therapy with 5-ASA suppositories. Patients with left-sided colitis should receive topical therapy with 5-ASA enemas. In mild to moderate left-sided or extensive ulcerative colitis, combined 5-ASA therapy (oral and topical) is superior for inducing remission compared with oral or topical therapies alone. Once remission is achieved, 5-ASAs are effective in maintaining it."
+]
+},
+{
+"type":"p",
+"hlId":"71a00c",
+"children":[
+"A glucocorticoid suppository (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be effective in inducing remission of ulcerative proctitis, but topical 5-ASA therapy is superior for this purpose. Topical glucocorticoid therapy may be considered in patients with disease limited to the rectum but intolerant of topical or oral 5-ASA therapy. In addition, 5-ASAs are effective in maintenance of remission, whereas topical glucocorticoids are effective only for induction."
+]
+},
+{
+"type":"p",
+"hlId":"6d4e0c",
+"children":[
+"Oral therapy with 5-ASA (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be less optimal than topical 5-ASA in this patient given the limited distribution of disease in the rectum. Oral 5-ASA would be an option if the patient declines use of a suppository."
+]
+},
+{
+"type":"p",
+"hlId":"6f2203",
+"children":[
+"Oral glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are commonly used to treat moderate to severe ulcerative colitis and are effective in inducing remission. However, given the significant adverse effects of glucocorticoids and the limited extent of disease in this patient, oral glucocorticoids would not be an appropriate treatment."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_5_1_1",
+"objective":{
+"__html":"Treat ulcerative proctitis with topical 5-aminosalicylate."
+},
+"references":[
+[
+"Rubin DT, Ananthakrishnan AN, Siegel CA, et al. ACG clinical guideline: ulcerative colitis in adults. Am J Gastroenterol. 2019;114:384-413. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30840605",
+"target":"_blank"
+},
+"children":[
+"PMID: 30840605"
+]
+},
+" doi:10.14309/ajg.0000000000000152"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":58,
+"B":16,
+"C":16,
+"D":11,
+"E":0
+},
+"hlIds":[
+"b6246e",
+"167328",
+"6b8aaf",
+"17cd74",
+"1054f1",
+"a608be",
+"5ce3a6",
+"a8e1c5",
+"71a00c",
+"6d4e0c",
+"6f2203"
+]
+}

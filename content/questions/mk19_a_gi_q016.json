@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_gi_q016",
+"number":16,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"408b75",
+"children":[
+"A 65-year-old woman is hospitalized for acute pancreatitis due to alcohol use. During hospitalization, she receives lactated Ringer solution overnight and is taking nothing by mouth."
+]
+},
+{
+"type":"p",
+"hlId":"850564",
+"children":[
+"On physical examination the morning after admission, the patient reports improved pain. Vital signs are normal. She has mild epigastric pain without guarding. Bowel sounds are present."
+]
+},
+{
+"type":"p",
+"hlId":"d65f99",
+"children":[
+"After fluid resuscitation, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" decreases from 45% at admission to 38% 12 hours later."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate enteral tube feeding"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate oral feeding"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Maintain nothing-by-mouth status"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transfuse 2 units of packed red blood cells"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"88b680",
+"hvc":true,
+"children":[
+"Patients with acute pancreatitis should resume oral feedings when pain improves and any nausea or vomiting subsides."
+]
+},
+{
+"type":"keypoint",
+"hlId":"61f5d9",
+"hvc":true,
+"children":[
+"If patients with acute pancreatitis do not tolerate oral feeding, enteral feeding should be considered within 72 hours."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"903d36",
+"children":[
+"The most appropriate management is initiation of oral feeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient has acute pancreatitis. The diagnosis of acute pancreatitis requires two of the following three criteria: (1) acute-onset abdominal pain characteristic of pancreatitis, (2) serum lipase or amylase levels elevated at least three times the upper limit of normal, and (3) characteristic imaging findings. She received intravenous resuscitation overnight, which typically consists of 250 to 500 mL/h of normal saline or lactated Ringer solution, with fluid boluses as needed for severe volume depletion. Treatment with intravenous fluids should be aimed at avoiding hypovolemia and maintaining adequate organ perfusion. Goal-directed therapy allows for titration of fluids to particular biochemical and clinical targets, including blood pressure, pulse rate, urine output, blood urea nitrogen, and hematocrit. This patient initially had risk factors for severe disease, including a hematocrit greater than 44%, which has improved with volume resuscitation. Overall, her pain is improving and oral feeding should therefore be considered. Patients with acute pancreatitis should resume feeding when pain improves and any nausea or vomiting subsides. Oral feeding is preferred, and guidelines recommend starting oral feeding within 24 hours."
+]
+},
+{
+"type":"p",
+"hlId":"28aabf",
+"children":[
+"If patients with acute pancreatitis do not tolerate oral feeding, enteral tube feeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be considered within 72 hours. Historically, this approach included placement of a nasojejunal tube to avoid stimulation of the pancreas. More recent data suggest that nasogastric tube placement and feedings are easier to administer than nasojejunal feeding and are as efficacious. In this patient, however, oral feeding should be attempted before enteral feeding is considered."
+]
+},
+{
+"type":"p",
+"hlId":"cd3196",
+"children":[
+"In the past, management of acute pancreatitis included keeping patients on nothing-by-mouth status (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to prevent stimulation of the pancreas. However, more recent evidence has demonstrated a benefit to early feeding; this approach may promote a healthy mucosal barrier and avoid translocation of gut bacteria, which can result in local and systemic infection."
+]
+},
+{
+"type":"p",
+"hlId":"ea9372",
+"children":[
+"Transfusion of packed red blood cells (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not required at this time. Although complications of pancreatitis may include gastrointestinal bleeding (e.g., splenic vein thrombus leading to varices or pseudoaneurysm formation followed by rupture of an arterial wall), this patient is hemodynamically stable and does not exhibit signs or symptoms of acute gastrointestinal bleeding. She was intravascularly depleted at the time of hospitalization, and fluid resuscitation led to an expected decrease in hematocrit."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_3",
+"objective":{
+"__html":"Treat acute pancreatitis with initiation of oral feeding."
+},
+"references":[
+[
+"Crockett SD, Wani S, Gardner TB, et al; American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guideline on initial management of acute pancreatitis. Gastroenterology. 2018;154:1096-1101. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29409760",
+"target":"_blank"
+},
+"children":[
+"PMID: 29409760"
+]
+},
+" doi:10.1053/j.gastro.2018.01.032"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":79,
+"C":15,
+"D":0,
+"E":0
+},
+"hlIds":[
+"408b75",
+"850564",
+"d65f99",
+"cb2b54",
+"88b680",
+"61f5d9",
+"903d36",
+"28aabf",
+"cd3196",
+"ea9372"
+]
+}

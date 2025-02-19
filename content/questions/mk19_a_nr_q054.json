@@ -1,0 +1,229 @@
+{
+"id":"mk19_a_nr_q054",
+"number":54,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6f3699",
+"children":[
+"A 43-year-old woman is seen in a follow-up evaluation of myasthenia gravis diagnosed 2 years ago. Current treatment with daily prednisone and pyridostigmine partially controls her symptoms. She is experiencing weakness with prolonged activity and in the evening. She wishes to minimize long-term need for glucocorticoids and other medications that may suppress her immune system."
+]
+},
+{
+"type":"p",
+"hlId":"83b419",
+"children":[
+"On physical examination, vital signs are normal. She has mild bilateral ptosis and impaired left eye adduction and bilateral eye abduction. Speech is nasal. Proximal upper and lower extremity muscle strength and neck flexion are mildly weak."
+]
+},
+{
+"type":"p",
+"hlId":"7d58b1",
+"children":[
+"Acetylcholine receptor–binding antibody is positive."
+]
+},
+{
+"type":"p",
+"hlId":"806767",
+"children":[
+"CT of the chest is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Eculizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ipilimumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plasma exchange"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reduction in prednisone dose"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Thymectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c0508",
+"hvc":true,
+"children":[
+"Myasthenia gravis is an autoimmune disease of the postsynaptic neuromuscular junction associated with antibodies to the postsynaptic acetylcholine receptors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9087fc",
+"hvc":true,
+"children":[
+"Indications for thymectomy in myasthenia gravis include the presence of thymoma and the need to minimize immunotherapy requirements in patients without thymoma who have active disease and positivity for acetylcholine receptor antibodies, are younger than 65 years, and are within 3 years of diagnosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d2fe7f",
+"children":[
+"The most appropriate treatment is thymectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Myasthenia gravis is an autoimmune disease of the postsynaptic neuromuscular junction associated with antibodies to the postsynaptic acetylcholine receptors. Onset most commonly occurs in the third decade of life in women and after age 50 years in men. Ptosis and diplopia are the first manifestations in two thirds of patients. Diagnosis is based on clinical, serologic, and EMG findings. In this patient with early-onset and active myasthenia gravis (<3 years' duration), thymectomy provides the best chance of avoiding or minimizing long-term immunotherapy. Indications for thymectomy in myasthenia gravis include the presence of thymoma and the need to minimize immunotherapy requirements in patients without thymoma who have active disease, have positivity for acetylcholine receptor antibodies, are younger than 65 years, and are within 3 years of diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"f10d46",
+"children":[
+"Eculizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a monoclonal antibody targeting the complement system that is FDA approved for managing refractory myasthenia gravis in patients who are not responding to other immunosuppressive treatments and are positive for acetylcholine receptor antibodies. However, this medication would not fulfill the patient's goal of minimizing immunosuppressive medications."
+]
+},
+{
+"type":"p",
+"hlId":"91df74",
+"children":[
+"Immune checkpoint inhibitors, such as ipilimumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), have shown promise in management of certain malignancies, but their use is associated with increased incidence of neuromuscular adverse effects, including myasthenia gravis, neuropathy, and myopathy. These medications are not indicated for treatment of myasthenia gravis."
+]
+},
+{
+"type":"p",
+"hlId":"ca45a1",
+"children":[
+"Plasma exchange (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an appropriate treatment for managing myasthenic crisis or as a bridge therapy for patients with severe generalized weakness or bulbar symptoms. This patient does not show signs of severe weakness or impending myasthenic crisis."
+]
+},
+{
+"type":"p",
+"hlId":"0e709a",
+"children":[
+"Reducing prednisone dose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in this patient without an alternative immunomodulatory strategy is likely to aggravate the clinical symptoms and is not appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_4_1",
+"objective":{
+"__html":"Treat myasthenia gravis with thymectomy."
+},
+"references":[
+[
+"Gilhus NE, Tzartos S, Evoli A, et al. Myasthenia gravis. Nat Rev Dis Primers. 2019;5:30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31048702",
+"target":"_blank"
+},
+"children":[
+"PMID: 31048702"
+]
+},
+" doi:10.1038/s41572-019-0079-y"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":13,
+"B":5,
+"C":25,
+"D":13,
+"E":44
+},
+"hlIds":[
+"6f3699",
+"83b419",
+"7d58b1",
+"806767",
+"1054f1",
+"3c0508",
+"9087fc",
+"d2fe7f",
+"f10d46",
+"91df74",
+"ca45a1",
+"0e709a"
+]
+}

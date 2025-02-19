@@ -1,0 +1,505 @@
+{
+"id":"mk19_b_en_q066",
+"number":66,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"200284",
+"children":[
+"A 62-year-old woman is evaluated after a fall, sustaining a right humerus fracture. Medical history is significant for gastric bypass surgery 10 years earlier. She takes a multivitamin and vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+". She discontinued calcium and vitamin D assuming that the multivitamin was sufficient for her needs."
+]
+},
+{
+"type":"p",
+"hlId":"a8f05a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 29."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3ba11d",
+"class":"cell text l",
+"children":[
+"92 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1a4da4",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"Calcium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d3e407",
+"class":"cell text l",
+"children":[
+"9.0 mg/dL (2.3 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"06f1e1",
+"class":"cell text l",
+"children":[
+"1.1 mg/dL (97.2 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ca2815",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Parathyroid hormone, serum",
+"children":[
+"Parathyroid hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1516cb",
+"class":"cell text l",
+"children":[
+"92 pg/mL (92 ng/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"743b71",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Vitamin D",
+"children":[
+"25-Hydroxyvitamin D"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8d2847",
+"class":"cell text l",
+"children":[
+"31 ng/mL (77.4 nmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"bd0c71",
+"children":[
+"Dual-energy x-ray absorptiometry shows a left femur neck T-score of -2 and lumbar spine T-score of -2.2."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6147ed",
+"children":[
+"Which of the following is the appropriate next step in the evaluation of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Measure 24-hour urine calcium excretion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure serum 1,25-dihydroxyvitamin D"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Order parathyroid sestamibi scan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Order technetium bone scan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d5bcfa",
+"children":[
+"Malnutrition or malabsorption of vitamin D and/or calcium may be suspected based on clinical history (bariatric surgery, celiac disease) and confirmed by a low serum 25-hydroxyvitamin D level or low 24-hour urine calcium excretion."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"059740",
+"children":[
+"The most appropriate next step is to measure 24-hour urine calcium excretion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The list of potential nutrient deficiencies after bariatric surgery is extensive; replacement therapy with daily multivitamin, folate, iron, vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+", calcium, and vitamin D are routinely recommended. However, this patient is no longer taking either calcium or vitamin D. Malnutrition or malabsorption of vitamin D and/or calcium may be suspected based on clinical history (bariatric surgery, celiac disease) and confirmed by low serum 25-hydroxyvitamin D level or low 24-hour urine calcium excretion (a proxy indicator of calcium intake and absorption). This patient has a normal 25-hydroxyvitamin D level, so measurement of urine calcium excretion is the next diagnostic step. The initial response to a decline in serum calcium is an increase in parathyroid hormone level (PTH) secretion, which decreases renal calcium excretion and increases calcium resorption from the bones. Continued PTH-mediated mobilization of calcium from bone over months to years in response to chronic negative calcium balance can lead to metabolic bone disease. In this patient who has sufficient vitamin D, low urine calcium excretion will confirm inadequate intake and/or absorption of calcium and explain her low bone mass."
+]
+},
+{
+"type":"p",
+"hlId":"08eda7",
+"children":[
+"Measuring serum 1,25-dihydroxyvitamin D (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is inappropriate. The most appropriate test to assess adequacy of vitamin D is measurement of serum 25-hydroxyvitamin D, which reflects dietary and skin-derived vitamin D. Testing for deficiency is appropriate in groups at high risk or in patients presenting with low bone mass, fractures, hypocalcemia, or hyperparathyroidism. The concentration of 1,25-dihydroxyvitamin D is more reflective of kidney and parathyroid function and measurement will not be useful in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"68188e",
+"children":[
+"Imaging with a parathyroid sestamibi scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") before parathyroidectomy may be useful in patients with an established diagnosis of primary hyperparathyroidism. A low urine calcium excretion will support the diagnosis of calcium malabsorption and the diagnosis of secondary hyperparathyroidism. In that case, a parathyroid sestamibi scan would not be needed."
+]
+},
+{
+"type":"p",
+"hlId":"64551a",
+"children":[
+"Nuclear medicine testing such as technetium bone scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can reveal patterns of tracer uptake in the skeleton suggestive of metabolic bone disorders, including those associated with vitamin D deficiency and hypocalcemia (generalized increased uptake reflecting increased bone turnover). However, these findings lack specificity and biochemical testing is still required to characterize the defects leading to a negative calcium balance."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_3_2_2",
+"objective":{
+"__html":"Diagnose calcium malabsorption."
+},
+"references":[
+[
+"Saad R, Habli D, El Sabbagh R, et al. Bone health following bariatric surgery: an update. J Clin Densitom. 2020 Apr - Jun;23:165-181. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31519474",
+"target":"_blank"
+},
+"children":[
+"PMID: 31519474"
+]
+},
+" doi:10.1016/j.jocd.2019.08.002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":43,
+"C":21,
+"D":4,
+"E":0
+},
+"hlIds":[
+"200284",
+"a8f05a",
+"a462a3",
+"1cc80b",
+"3ba11d",
+"1a4da4",
+"d3e407",
+"f461b2",
+"06f1e1",
+"ca2815",
+"1516cb",
+"743b71",
+"8d2847",
+"bd0c71",
+"6147ed",
+"d5bcfa",
+"059740",
+"08eda7",
+"68188e",
+"64551a"
+]
+}

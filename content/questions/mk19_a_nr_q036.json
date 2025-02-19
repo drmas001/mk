@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_nr_q036",
+"number":36,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"db5078",
+"children":[
+"A 44-year-old man is evaluated for muscle cramps and fatigue. He frequently experiences cramps after prolonged exertion. Within the past few months he has developed difficulty climbing stairs and feels that his walking has become unsteady. He has no family history of neuromuscular disease."
+]
+},
+{
+"type":"p",
+"hlId":"89ba08",
+"children":[
+"On physical examination, vital signs are normal. There is no muscle tenderness on palpation. Muscle strength is reduced in bilateral hip flexors and arm abductors and preserved distally. Deep tendon reflexes are preserved but exhibit delayed relaxation. Percussion over biceps muscles leads to formation of a raised muscular ridge. Gait has a waddling quality. Sensory examination and muscle tone are normal. Plantar responses are flexor. There are no involuntary movements."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"bc5c0d",
+"children":[
+"Which of the following is the most likely cause of this patient's findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Copper deficiency"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypokalemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypothyroidism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin D deficiency"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vitamin E deficiency"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f37e04",
+"children":[
+"Hypothyroid myopathy is associated with proximal symmetric weakness, myalgia, and cramps without sensory loss or upper motor neuron signs, and muscle mounding after percussion (myoedema)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3d49f9",
+"children":[
+"Myopathy may be the only manifestation of hypothyroidism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"47dd58",
+"children":[
+"The most likely cause of this patient's findings is hypothyroidism, and the most likely diagnosis is hypothyroid myopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The clinical presentation of proximal symmetric weakness, myalgia, and cramps without sensory loss or upper motor neuron signs is consistent with a myopathy. In this patient, the finding of muscle mounding after percussion (myoedema) strongly suggests hypothyroidism. The diagnosis of primary hypothyroidism is made by measuring serum thyroid-stimulating hormone level and, if elevated, measuring the level of serum free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+"). Clinical symptoms and signs can be nonspecific, often resulting in a delayed diagnosis. If asked, most patients do have muscular symptoms (stiffness, myalgias, cramps, easy fatigability), and muscle symptoms may be the predominant or the only clinical manifestation of hypothyroidism. If measured, serum creatine kinase is elevated in many patients with hypothyroidism, but the degree of elevation does not always correlate with the severity of muscle symptoms. Other features that may be seen with hypothyroid myopathy include goiter, ptosis, enlarged muscle bulk, and delayed relaxation of deep tendon reflexes (Woltman sign)."
+]
+},
+{
+"type":"p",
+"hlId":"7a1eae",
+"children":[
+"Copper deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can lead to myeloneuropathy associated with large-fiber sensory deficit, ataxia, and brisk reflexes. In this patient, proximal weakness, intact sensory examination, and absence of upper motor neuron signs (such as the extensor plantar response and hyperreflexia) are inconsistent with copper deficiency."
+]
+},
+{
+"type":"p",
+"hlId":"09d377",
+"children":[
+"Hypokalemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be associated with muscle weakness and cramps. However, this patient's myoedema is not a typical feature of hypokalemia. Hypokalemic periodic paralysis is a rare genetic disorder associated with episodic weakness."
+]
+},
+{
+"type":"p",
+"hlId":"ca6a8c",
+"children":[
+"Vitamin D deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be associated with myalgia and proximal weakness. Myoedema is not a feature of vitamin D deficiency."
+]
+},
+{
+"type":"p",
+"hlId":"a43f3b",
+"children":[
+"Vitamin E deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can cause myelopathy and peripheral neuropathy, but myopathy with proximal weakness is not typical. This patient does not exhibit signs of myeloneuropathy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_5_3",
+"objective":{
+"__html":"Diagnose hypothyroid myopathy."
+},
+"references":[
+[
+"Sindoni A, Rodolico C, Pappalardo MA, et al. Hypothyroid myopathy: a peculiar clinical presentation of thyroid failure. Review of the literature. Rev Endocr Metab Disord. 2016;17:499-519. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27154040",
+"target":"_blank"
+},
+"children":[
+"PMID: 27154040"
+]
+},
+" doi:10.1007/s11154-016-9357-0"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":19,
+"C":54,
+"D":6,
+"E":1
+},
+"hlIds":[
+"db5078",
+"89ba08",
+"bc5c0d",
+"f37e04",
+"3d49f9",
+"47dd58",
+"7a1eae",
+"09d377",
+"ca6a8c",
+"a43f3b"
+]
+}

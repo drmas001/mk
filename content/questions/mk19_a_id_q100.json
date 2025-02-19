@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_id_q100",
+"number":100,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6b8242",
+"children":[
+"A 26-year-old woman is evaluated for acute cystitis of 2 days' duration. She is pregnant at 10 weeks' gestation. Medical history is significant for postcoital lower urinary tract infections; her last infection was 6 months ago. Her only medication is a prenatal vitamin."
+]
+},
+{
+"type":"p",
+"hlId":"d20313",
+"children":[
+"On physical examination, vital signs and the examination are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"f346d8",
+"children":[
+"Dipstick urinalysis results show a pH of 7.1; positive leukocyte esterase, blood, and nitrites; and negative glucose, protein, and ketones."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Nitrofurantoin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Urine culture; cefpodoxime proxetil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine culture; ciprofloxacin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c2f7af",
+"children":[
+"Cystitis in pregnant women is considered a complicated urinary tract infection and requires a urine culture and prompt treatment with antibiotics such as cefpodoxime proxetil, cephalexin, cefdinir, and amoxicillin-clavulanate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"452f84",
+"children":[
+"Follow-up urine cultures after treatment of urinary tract infections are indicated in pregnant patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"488718",
+"children":[
+"Cystitis in a pregnant woman is considered a complicated urinary tract infection and requires a urine culture and prompt treatment with antibiotics; cefpodoxime proxetil is an acceptable and safe choice in pregnant women (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), as are other cephalosporin agents (cephalexin, cefdinir) and amoxicillin-clavulanate. Physiologic alterations in the urinary tract beginning early in pregnancy and increasing thereafter lead to ureteral dilatation and decreased peristalsis that allow bacteria in the bladder to more easily ascend to the kidney, resulting in a much greater incidence of pyelonephritis than that encountered in nonpregnant women. Cystitis and asymptomatic bacteriuria during pregnancy may also be associated with low birth weight and preterm delivery, so treatment is indicated. Pending culture and susceptibility results, initiation of empiric antimicrobial therapy is indicated. The recommended treatment duration for cystitis in pregnancy is generally 3 to 7 days. A single dose of fosfomycin is a suitable but more costly alternative. Other than in pregnant women, test of cure is not indicated in those reporting symptom resolution. Follow-up urine cultures shortly after successful treatment completion are indicated in pregnant patients, with retreatment as needed. Controversy exists regarding the benefit of prophylactic antibiotic therapy throughout the remainder of pregnancy in women who have recurrent infections."
+]
+},
+{
+"type":"p",
+"hlId":"082e8e",
+"children":[
+"Case control studies associate nitrofurantoin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") with birth defects. These findings were not duplicated in a prospective study of women treated with nitrofurantoin for asymptomatic bacteriuria. A reasonable approach is to avoid nitrofurantoin in the first trimester if a safer antibiotic choice is available."
+]
+},
+{
+"type":"p",
+"hlId":"473c1f",
+"children":[
+"Because trimethoprim is a folic acid antagonist, its use is avoided in the first trimester for fear of causing neural tube defects. Sulfonamides are avoided before delivery because they can displace bilirubin from plasma binding sites in the newborn and theoretically cause kernicterus. Trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be given safely during the second trimester."
+]
+},
+{
+"type":"p",
+"hlId":"e5df2b",
+"children":[
+"Because fluoroquinolones have demonstrated toxicity to developing cartilage in experimental animal studies, they are generally avoided during pregnancy and lactation. These findings have not been documented in humans, but for the sake of safety, fluoroquinolones (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are avoided during pregnancy and lactation if a safer alternative antibiotic is available."
+]
+}
+],
+"relatedSection":"mk19_a_id_s5_3_2",
+"objective":{
+"__html":"Treat cystitis during pregnancy."
+},
+"references":[
+[
+"Abou Heidar NF, Degheili JA, Yacoubian AA, et al. Management of urinary tract infection in women: A practical approach for everyday practice. Urol Ann. 2019 Oct-Dec;11:339-346. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31649450",
+"target":"_blank"
+},
+"children":[
+"PMID: 31649450"
+]
+},
+" doi:10.4103/UA.UA_104_19"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":6,
+"C":52,
+"D":4,
+"E":0
+},
+"hlIds":[
+"6b8242",
+"d20313",
+"f346d8",
+"cb2b54",
+"c2f7af",
+"452f84",
+"488718",
+"082e8e",
+"473c1f",
+"e5df2b"
+]
+}

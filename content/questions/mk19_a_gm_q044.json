@@ -1,0 +1,190 @@
+{
+"id":"mk19_a_gm_q044",
+"number":44,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"077e15",
+"children":[
+"A 56-year-old woman is evaluated in the hospital for management of alcohol withdrawal. Her last drink was 8 hours ago. One year ago, she was hospitalized for more than 2 weeks with delirium tremens. She has no other medical conditions or evidence of liver disease. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a37b23",
+"children":[
+"On physical examination, temperature is 37.4 °C (99.4 °F), blood pressure is 163/93 mm Hg, and pulse rate is 127/min. The patient is intermittently tangential and confrontational, but mentation is otherwise intact."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Scheduled lorazepam"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Scheduled plus symptom-triggered oxazepam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Symptom-triggered chlordiazepoxide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Symptom-triggered haloperidol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"192e26",
+"children":[
+"The treatment of severe alcohol withdrawal symptoms is best managed by symptom-triggered administration of benzodiazepines."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e64242",
+"children":[
+"In the treatment of severe alcohol withdrawal symptoms, short-acting benzodiazepines are preferred to long-acting benzodiazepines in patients with severe alcoholic hepatitis or cirrhosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f0e983",
+"children":[
+"In this patient who is at risk for severe alcohol withdrawal, symptom-triggered chlordiazepoxide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate treatment. Alcohol withdrawal may cause minor symptoms, such as tremulousness, diaphoresis, and palpitations, within 6 hours and hallucinosis and withdrawal seizures within 12 to 48 hours of cessation of alcohol use; symptoms may progress to severe withdrawal (delirium tremens), usually 48 to 96 hours after the last drink. Predictors of severe alcohol withdrawal include a history of delirium tremens and baseline systolic blood pressure of 140 mm Hg or higher. No single symptom or sign is associated with exclusion of severe alcohol withdrawal. The Clinical Institute Withdrawal Assessment for Alcohol, Revised (CIWA-Ar), is a commonly used standardized instrument to measure severity of alcohol withdrawal. The CIWA-Ar includes 10 easily observable clinical findings that are summed to create a score. A score less than 8 indicates mild withdrawal, a score of 8 to 15 indicates moderate withdrawal, and a score greater than 15 indicates severe withdrawal. These scores can be used to guide changes in clinical status and medication management. Some patients can be managed safely in the outpatient setting with close follow-up, whereas patients at greater risk for severe alcohol withdrawal symptoms (e.g., history of delirium tremens or seizures, concomitant drug use, elderly persons) should be hospitalized."
+]
+},
+{
+"type":"p",
+"hlId":"72683f",
+"children":[
+"Benzodiazepine therapy is the cornerstone of treatment for alcohol withdrawal. After initial dosing to control acute symptoms, benzodiazepines should be administered using a symptom-triggered approach. Symptom-triggered management of alcohol withdrawal in hospitalized patients results in a shorter course of therapy and less benzodiazepine use. It is as efficacious as scheduled or scheduled plus symptom-triggered management in managing symptoms. Chlordiazepoxide has a very long half-life and is typically preferred in the treatment of alcohol withdrawal because it is associated with less frequent changes from agitated to sedated and a lower chance for recurrent withdrawal or seizures. However, chlordiazepoxide may accumulate in patients with severe alcoholic hepatitis and cirrhosis; benzodiazepines with a shorter half-life, such as lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and oxazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are preferred in these patients."
+]
+},
+{
+"type":"p",
+"hlId":"cf6dd1",
+"children":[
+"Antipsychotics, such as haloperidol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should not be used in the treatment of alcohol withdrawal because they have not been shown to improve symptom burden. In addition, they may lower the seizure threshold in a patient at risk for withdrawal seizures."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_5_2",
+"objective":{
+"__html":"Manage alcohol withdrawal in a hospitalized patient."
+},
+"references":[
+[
+"Edelman EJ, Fiellin DA. In the clinic. Alcohol use. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201601050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:ITC1-16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26747315",
+"target":"_blank"
+},
+"children":[
+"PMID: 26747315"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":31,
+"B":47,
+"C":21,
+"D":1,
+"E":0
+},
+"hlIds":[
+"077e15",
+"a37b23",
+"1054f1",
+"192e26",
+"e64242",
+"f0e983",
+"72683f",
+"cf6dd1"
+]
+}

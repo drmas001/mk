@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gm_q039",
+"number":39,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c751e4",
+"children":[
+"A 57-year-old man is evaluated for a 2-month history of neck pain and stiffness accompanied by unsteadiness on his feet, especially while climbing up or down stairs. He is otherwise healthy and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"151e0a",
+"children":[
+"On physical examination, vital signs are normal. Muscle strength is 4/5 for both hip flexors and arm flexors. Hyperreflexia and clonus are present in the lower extremities, as are bilateral upgoing extensor reflexes in the toes. Diminished reflexes are present in the upper extremities. Forward flexion of the neck produces electric shock–like pain that radiates from the neck to the arms."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cervical myelopathy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cervical radiculopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cervical sprain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Myofascial pain"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Whiplash injury"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cc3020",
+"children":[
+"Combined upper and lower motor neuron findings indicate disease in the spinal cord."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cc5430",
+"children":[
+"Cervical spinal cord compression produces lower motor weakness in the arms or hands (atrophy, suppressed reflexes) and upper motor weakness in the legs (increased muscle tone, hyperreflexia, clonus, upgoing extensor reflexes in the toes)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9fcd8e",
+"children":[
+"This patient most likely has cervical myelopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a condition most commonly caused by degenerative cervical spondylosis. Combined upper and lower motor neuron findings indicate disease in the spinal cord, the only anatomic location in the body where both segments are found together and can be affected simultaneously. Lower motor neuron weakness originates at the level of compression, and upper motor neuron weakness occurs below it. Cervical spinal cord compression produces lower motor weakness in the arms or hands (atrophy, suppressed reflexes) and upper motor weakness in the legs (increased muscle tone, hyperreflexia, clonus, upgoing extensor reflexes in the toes). Lhermitte sign, an electric shock–like pain radiating from the neck to the spine or the arms, can be produced by forward flexion of the neck, but it is insensitive for the presence of cervical cord disease. Clinical diagnosis of cervical myelopathy should be confirmed with MRI. Treatment is surgical decompression."
+]
+},
+{
+"type":"p",
+"hlId":"390933",
+"children":[
+"Cervical radiculopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is caused by spinal nerve root compression resulting from degenerative spinal changes or disk herniation. It manifests as neck pain radiating to the arm, paresthesia in a dermatomal distribution, decreased deep tendon reflexes, and diminished strength in the affected extremity. This patient's examination findings are not consistent with cervical radiculopathy."
+]
+},
+{
+"type":"p",
+"hlId":"a4719f",
+"children":[
+"Cervical sprain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a common musculoskeletal cause of neck pain. Typical symptoms include pain and stiffness with movement and decreased cervical range of motion. This patient's abnormal neurologic findings rule out cervical sprain."
+]
+},
+{
+"type":"p",
+"hlId":"aa234a",
+"children":[
+"Myofascial neck pain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be differentiated from other musculoskeletal causes by localized tenderness and pain with palpation of “trigger points” on the neck and shoulder. The neurologic examination is normal in patients with myofascial neck pain."
+]
+},
+{
+"type":"p",
+"hlId":"d9dc5b",
+"children":[
+"Whiplash injury (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") develops after trauma involving abrupt acceleration and deceleration, leading to sudden neck flexion and extension. The physical examination reveals pain and stiffness of the neck with decreased range of motion due to pain. The neurologic examination in patients with whiplash injury is normal as long as concussion was not a feature of the injury. Without a history of acceleration-deceleration trauma, whiplash injury is unlikely in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_3_1",
+"objective":{
+"__html":"Diagnose cervical myelopathy."
+},
+"references":[
+[
+"McCormick JR, Sama AJ, Schiller NC, Butler AJ, Donnally CJ 3rd. Cervical spondylotic myelopathy: a guide to diagnosis and management. J Am Board Fam Med. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32179614",
+"target":"_blank"
+},
+"children":[
+"PMID: 32179614"
+]
+},
+" 2020;33:303-13. doi:10.3122/jabfm.2020.02.190195"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":78,
+"B":20,
+"C":0,
+"D":0,
+"E":1
+},
+"hlIds":[
+"c751e4",
+"151e0a",
+"413696",
+"cc3020",
+"cc5430",
+"9fcd8e",
+"390933",
+"a4719f",
+"aa234a",
+"d9dc5b"
+]
+}

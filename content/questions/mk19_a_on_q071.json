@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_on_q071",
+"number":71,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7eb9d1",
+"children":[
+"A 55-year-old woman is evaluated in the office following treatment for limited-stage small cell lung cancer. She was treated with cisplatin/etoposide chemotherapy plus irradiation to the site of the primary tumor. Repeat imaging at the end of treatment showed complete response. She is currently asymptomatic."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Maintenance chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"PET/CT in 6 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prophylactic cranial irradiation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat bronchoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9b01d8",
+"children":[
+"Prophylactic cranial irradiation reduces the incidence of brain metastases in patients with either limited or extensive-stage small cell lung cancer who have responded to their initial therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"73c9cc",
+"children":[
+"Prophylactic cranial irradiation improves overall survival in patients with limited-stage small cell lung cancer who have responded to their initial therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d39de2",
+"children":[
+"The most appropriate management for this patient would be prophylactic cranial irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Patients with small cell lung cancer have a high risk of developing brain metastases (prophylactic cranial irradiation [PCI]). Given that risk, initial staging should include brain MRI. Following completion of treatment for patients with either extensive or limited-stage small cell lung cancer, the risk of developing brain metastatic lesions remains significant, occurring in up to two thirds of patients following attainment of complete remission with initial treatment. Given this significant risk, PCI has been studied extensively as a means of reducing the risk of brain metastases. PCI refers to radiation treatment given to the whole brain in a patient without brain metastatic disease after the completion of planned cancer treatment. Many studies have addressed use of this treatment, and a meta-analysis of 12 different trials including more than 1500 patients showed that treatment with PCI resulted in a significant reduction in the incidence of brain metastases as well as a significant reduction in mortality (this last benefit was only clearly shown for patients with limited-stage disease). Based on these benefits, this is considered a standard component of treatment for patients with either limited or extensive-stage disease who have responded to their initial therapy. Since this treatment was initially pioneered, safety concerns regarding cognitive impairment have been noted, although more modern studies have found that this risk can be mitigated with a lower total dose and a lower fraction dose."
+]
+},
+{
+"type":"p",
+"hlId":"56f0e7",
+"children":[
+"Maintenance chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is commonly used in patients with metastatic non–small cell lung cancer and has been shown to improve progression-free survival in patients who have a favorable response to their initial treatment regimen. It has no established role in the treatment of patients with small cell lung cancer."
+]
+},
+{
+"type":"p",
+"hlId":"739c12",
+"children":[
+"PET/CT imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not a standard test for surveillance following completion of treatment for small cell lung cancer. Standard surveillance consists of history and physical along with periodic chest imaging. Given lack of evidence that PET/CT can improve outcomes when used for surveillance, it is not recommended for this indication."
+]
+},
+{
+"type":"p",
+"hlId":"2d191c",
+"children":[
+"At the present time, this patient is doing very well and has no signs or symptoms of an active pulmonary process. CT imaging has effectively evaluated the status of her cancer. There is no indication for a repeat bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_2",
+"objective":{
+"__html":"Treat limited-stage small cell lung cancer with prophylactic cranial irradiation."
+},
+"references":[
+[
+"Kalemkerian GP, Loo BW, Akerley W, et al. NCCN guidelines insights: small cell lung cancer, version 2.2018. J Natl Compr Canc Netw. 2018;16:1171-82. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30323087",
+"target":"_blank"
+},
+"children":[
+"PMID: 30323087"
+]
+},
+" doi:10.6004/jnccn.2018.0079"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":42,
+"C":49,
+"D":2,
+"E":0
+},
+"hlIds":[
+"7eb9d1",
+"cb2b54",
+"9b01d8",
+"73c9cc",
+"d39de2",
+"56f0e7",
+"739c12",
+"2d191c"
+]
+}

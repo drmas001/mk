@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_gm_q053",
+"number":53,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d864f6",
+"children":[
+"A 68-year-old woman is evaluated for reduced vision and flashing lights in her left eye that began this morning. This was preceded by floaters in her left eye, first appearing several days ago and now with increasing frequency. She has no other symptoms. Medical history is significant for myopia. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"3faf90",
+"children":[
+"On physical examination, she has an inferior visual field defect in her left eye. Visual fields in the right eye are normal. Pupils are equally round and reactive to light and accommodation. Visual acuity is 20/60 in the left eye and 20/20 in the right eye. Nondilated funduscopic examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Age-related macular degeneration"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Central retinal artery occlusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Central retinal vein occlusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Retinal detachment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9e3f66",
+"children":[
+"Retinal detachment is an ocular emergency that causes painless vision loss, unilateral flashing lights, floaters, and visual field defect."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8bda68",
+"children":[
+"Retinal detachment is confirmed by indirect ophthalmoscopy or wide-field retinal photography by an ophthalmologist."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8df191",
+"children":[
+"The most likely diagnosis is retinal detachment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), which is causing a painless visual field defect. Her symptoms of visual loss, flashing lights, and floaters should raise suspicion for this diagnosis, which can be confirmed by an ophthalmologist using indirect ophthalmoscopy or wide-field retinal photography. Indirect ophthalmoscopy using a condensing lens provides the ophthalmologist a wide field of vision of the retina and three-dimensional views showing elevation and depth. Because retinal detachment typically occurs far into the periphery, office-based direct ophthalmoscopy will likely be normal or at least nondiagnostic. Floaters may be described by patients as a “cobweb” and represent accompanying posterior vitreous detachment (PVD). This patient likely developed a PVD in the days preceding her presentation, which led to a retinal tear. Flashing lights represent vitreoretinal attachments stimulating retinal depolarization as they pull away from the retina. Larger retinal detachments cause more severe visual disturbances. Risk factors for retinal detachment include increasing age, myopia, and recent cataract surgery. This patient requires immediate ophthalmology referral for diagnosis and treatment to prevent further vision loss."
+]
+},
+{
+"type":"p",
+"hlId":"35d715",
+"children":[
+"Age-related macular degeneration (AMD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is often asymptomatic in its earliest stages. Dry AMD typically presents with gradual onset of vision loss that is most noticeable when driving or with a scotoma (blind spot). Wet AMD can present acutely with change or loss in central vision resulting from subretinal swelling and hemorrhage. Neither is typically associated with flashing lights or floaters."
+]
+},
+{
+"type":"p",
+"hlId":"cc5f58",
+"children":[
+"Patients with central retinal artery occlusion (CRAO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") present with abrupt, painless vision loss in one eye. The vision loss is profound, and affected patients can typically visualize only gross movements, although there may be a small area of vision in the temporal field. A complete or relative afferent pupillary defect is present, and funduscopic examination will reveal retinal paleness due to ischemic changes. These findings are absent in this patient. CRAO is most commonly associated with ipsilateral carotid artery atherosclerotic disease."
+]
+},
+{
+"type":"p",
+"hlId":"c4e6c1",
+"children":[
+"Patients with central retinal vein occlusion (CRVO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") present with sudden onset of unilateral vision loss. On examination, an afferent pupillary defect may be present. The most common funduscopic findings are scattered, diffuse retinal hemorrhages sometimes accompanied by optic disc edema, none of which are present in this patient. Most commonly, CRVO is due to primary thrombus formation. Risk factors include increasing age, hypertension, tobacco use, and diabetes mellitus."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s8_9",
+"objective":{
+"__html":"Diagnose retinal detachment."
+},
+"references":[
+[
+"Kwok JM, Yu CW, Christakis PG. Retinal detachment. CMAJ. 2020;192:E312. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32392514",
+"target":"_blank"
+},
+"children":[
+"PMID: 32392514"
+]
+},
+" doi:10.1503/cmaj.191337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":8,
+"C":8,
+"D":80,
+"E":0
+},
+"hlIds":[
+"d864f6",
+"3faf90",
+"413696",
+"9e3f66",
+"8bda68",
+"8df191",
+"35d715",
+"cc5f58",
+"c4e6c1"
+]
+}

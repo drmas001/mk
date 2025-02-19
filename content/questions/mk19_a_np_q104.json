@@ -1,0 +1,431 @@
+{
+"id":"mk19_a_np_q104",
+"number":104,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 104",
+"stimulus":[
+{
+"type":"p",
+"hlId":"89131a",
+"children":[
+"A 23-year-old woman is evaluated during a follow-up visit for focal segmental glomerulosclerosis that was diagnosed 3 weeks ago. The edema in her lower extremities has not improved on her current regimen of prednisone, losartan, atorvastatin, and maximal doses of oral furosemide."
+]
+},
+{
+"type":"p",
+"hlId":"915358",
+"children":[
+"On physical examination, vital signs are normal. The patient weighs 72 kg (158.7 lb). There is 3-mm pitting edema of the lower extremities through the mid-thigh, equal on both sides. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3f2cc2",
+"class":"cell text l",
+"children":[
+"2.0 g/dL (20 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"182194",
+"class":"cell text l",
+"children":[
+"Total cholesterol"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"913c33",
+"class":"cell text l",
+"children":[
+"303 mg/dL (7.8 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"848a67",
+"class":"cell text l",
+"children":[
+"0.6 mg/dL (53 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d17af8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein-creatinine ratio, urine",
+"children":[
+"Urine protein-creatinine ratio"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6b4254",
+"class":"cell text l",
+"children":[
+"9150 mg/g"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"806767",
+"children":[
+"CT of the chest is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add metolazone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Administer furosemide by continuous intravenous infusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Administer furosemide by intravenous bolus"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue prednisone; add cyclosporine"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Hemodialysis with ultrafiltration"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c243f3",
+"hvc":true,
+"children":[
+"In patients with the nephrotic syndrome and refractory edema despite high-dose loop diuretics, adding a thiazide diuretic and/or a potassium-sparing diuretic is the appropriate next step in management."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"228486",
+"children":[
+"The most appropriate management is to add metolazone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient with the nephrotic syndrome due to focal segmental glomerulosclerosis (FSGS) has refractory edema despite therapy with maximal doses of oral furosemide and therefore needs additional diuretic therapy. Addition of a second diuretic that works distal to the loop of Henle, such as a thiazide diuretic and/or a potassium-sparing diuretic, is the appropriate next step in management. In patients taking high-dose loop diuretics, increased delivery of salt and water to the distal portions of the nephron can lead to hypertrophy of these segments and overabsorption of sodium, undermining the effects of the loop diuretic."
+]
+},
+{
+"type":"p",
+"hlId":"13eda9",
+"children":[
+"Factors that warrant admission for intravenous (IV) diuretics include lack of response after addition of a thiazide and/or potassium-sparing diuretic to a loop diuretic; acute respiratory symptoms secondary to pulmonary edema; or significant ascites that raise concern for gut edema and malabsorption of oral diuretics. These factors are not present in this patient. A number of randomized clinical trials have evaluated the efficacy of a continuous IV infusion of loop diuretics compared with IV bolus therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). Findings indicated that continuous IV infusion is associated with less ototoxicity than bolus injections of loop diuretics, but clear evidence of its diuretic superiority is lacking, at the minimum in heart failure patients."
+]
+},
+{
+"type":"p",
+"hlId":"5315da",
+"children":[
+"This patient's significant edema alongside persistent nephrotic-range proteinuria and hypoalbuminemia does not warrant discontinuation of prednisone (first-line therapy for FSGS) for the addition of cyclosporine (second-line therapy for FSGS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), as the patient has received glucocorticoid therapy for only 3 weeks. In adults with FSGS, therapeutic response can take up to 12 to 16 weeks. Therefore, it would be premature to consider this patient refractory to glucocorticoid therapy."
+]
+},
+{
+"type":"p",
+"hlId":"5208b8",
+"children":[
+"Hemodialysis with ultrafiltration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") for edema is reserved for patients with anasarca, significant kidney dysfunction, and an inability to diurese on maximal doses of IV diuretics."
+]
+}
+],
+"relatedSection":"mk19_a_np_s6_2_1",
+"objective":{
+"__html":"Manage edema associated with the nephrotic syndrome."
+},
+"references":[
+[
+"Gupta S, Pepper RJ, Ashman N, et al. Nephrotic syndrome: oedema formation and its treatment with diuretics. Front Physiol. 2018;9:1868. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30697163",
+"target":"_blank"
+},
+"children":[
+"PMID: 30697163"
+]
+},
+" doi:10.3389/fphys.2018.01868"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":47,
+"B":7,
+"C":15,
+"D":27,
+"E":3
+},
+"hlIds":[
+"89131a",
+"915358",
+"a462a3",
+"4590ed",
+"3f2cc2",
+"182194",
+"913c33",
+"f461b2",
+"848a67",
+"d17af8",
+"6b4254",
+"806767",
+"cb2b54",
+"c243f3",
+"228486",
+"13eda9",
+"5315da",
+"5208b8"
+]
+}

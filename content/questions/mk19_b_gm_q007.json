@@ -1,0 +1,200 @@
+{
+"id":"mk19_b_gm_q007",
+"number":7,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f1e8de",
+"children":[
+"A 21-year-old woman is evaluated during a routine wellness visit. She has no concerns and is asymptomatic. Medical history is unremarkable. Family history is negative for premature cardiovascular disease. She does not smoke cigarettes. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"8440eb",
+"children":[
+"On physical examination, the average of three blood pressure measurements is 129/78 mm Hg; other vital signs are normal. BMI is 30. The remainder of the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate antihypertensive medication"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obtain echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat blood pressure measurement annually"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat blood pressure measurement in 3 to 5 years"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"92360e",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force supports screening all adults for hypertension beginning at age 18 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b4b11d",
+"hvc":true,
+"children":[
+"Hypertension screening should occur annually in adults aged 40 years or older and in younger adults at increased risk."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"029747",
+"children":[
+"The most appropriate next step in management is to repeat blood pressure measurement annually (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has received appropriate screening for hypertension at a routine wellness examination. She has no signs or symptoms of cardiovascular disease and her blood pressure at this visit is in the high-normal range, according to the U.S. Preventive Services Task Force (USPSTF). The USPSTF supports screening all adults beginning at age 18 years for hypertension (grade A). Screening should occur annually in adults aged 40 years or older and in younger adults at increased risk. On the basis of this patient's blood pressure reading today (129/78 mm Hg) and her having obesity (BMI of 30), she should have repeated blood pressure measurement annually. The 2017 American College of Cardiology/American Heart Association blood pressure guideline recommends repeated annual blood pressure measurement for adults with a normal pressure reading."
+]
+},
+{
+"type":"p",
+"hlId":"baa9ba",
+"children":[
+"This patient does not meet criteria for initiation of antihypertensive medication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Before treatment is initiated, when possible and in the absence of severe hypertension or end-organ damage, the diagnosis should be confirmed with blood pressure measurements outside of the clinical setting by using ambulatory or home blood pressure monitoring. This patient with high-normal blood pressure reading can be reassessed in 1 year without initiating treatment."
+]
+},
+{
+"type":"p",
+"hlId":"bdc838",
+"children":[
+"Left ventricular hypertrophy (LVH) is commonly measured by ECG and/or echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Assessment for LVH is not universally recommended during evaluation and management of hypertension. Assessment for LVH is most useful in adults with confirmed hypertension who are young (≤18 years of age) or have evidence of secondary hypertension, chronic uncontrolled hypertension, or a history of symptoms of heart failure. Echocardiography is not indicated in this patient with normal physical examination findings and a high-normal blood pressure."
+]
+},
+{
+"type":"p",
+"hlId":"dc75ef",
+"children":[
+"According to the USPSTF, for patients younger than 40 years with normal initial blood pressure and no risk factors for atherosclerotic cardiovascular disease, screening should occur at 3- to 5-year intervals (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient is at increased risk for hypertension, and annual blood pressure measurement is recommended."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_1_7",
+"objective":{
+"__html":"Screen and monitor for hypertension in a young adult."
+},
+"references":[
+[
+"Siu AL; U.S. Preventive Services Task Force. Screening for high blood pressure in adults: U.S. preventive services task force recommendation statement. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-2223",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2015;163:778-86. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26458123",
+"target":"_blank"
+},
+"children":[
+"PMID: 26458123"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":84,
+"D":12,
+"E":0
+},
+"hlIds":[
+"f1e8de",
+"8440eb",
+"1a5dcc",
+"92360e",
+"b4b11d",
+"029747",
+"baa9ba",
+"bdc838",
+"dc75ef"
+]
+}

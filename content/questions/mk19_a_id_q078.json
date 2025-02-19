@@ -1,0 +1,177 @@
+{
+"id":"mk19_a_id_q078",
+"number":78,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"577048",
+"children":[
+"A 48-year-old woman is evaluated for an 18-mm induration following tuberculin skin testing performed at her request following return from a medical mission in Peru 6 weeks ago. She reports possible exposure to tuberculosis. A fourth-generation HIV test and pregnancy test are negative."
+]
+},
+{
+"type":"p",
+"hlId":"1b46fc",
+"children":[
+"On physical examination, vital signs are normal, and the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"746695",
+"children":[
+"Posteroanterior and lateral chest radiographs are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Isoniazid, daily for 6 months"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Isoniazid, daily for 9 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Isoniazid and rifampin, daily for 3 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Isoniazid, rifampin, pyrazinamide, and ethambutol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5bd656",
+"children":[
+"Short-course dual therapy with isoniazid and rifampin or rifapentine is the preferred treatment for patients with latent tuberculosis infection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"28381f",
+"children":[
+"Daily isoniazid monotherapy for 6 or 9 months can be recommended for patients with latent tuberculosis who cannot take rifapentine or rifampin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"db7092",
+"children":[
+"Treatment with isoniazid and rifampin daily for 3 months is most appropriate for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). She has a tuberculin skin test (TST) reaction greater than 15 mm, indicating a positive result. However, she has no signs of active tuberculosis infection (normal chest radiograph and no clinical findings), so treatment for latent tuberculosis infection (LTBI) should be initiated. Short-course treatment regimens with rifamycins are recommended over longer (6- to 9-month) courses. In persons without HIV infection, other preferred regimens include isoniazid and rifapentine once weekly for 3 months or rifampin daily for 4 months. Alternatively, daily isoniazid alone for 6 or 9 months is now considered a second-line treatment option; it carries a higher toxicity risk and lower completion rate than short-course regimens. Short-course treatment regimens are also recommended for LTBI in patients with HIV infection; these include isoniazid and rifapentine once weekly for 3 months or isoniazid plus rifampin daily for 3 months in patients who are not taking antiretroviral therapy that interacts with rifapentine."
+]
+},
+{
+"type":"p",
+"hlId":"35a881",
+"children":[
+"Monotherapy with isoniazid can be offered to patients with LTBI and HIV; however, monotherapy regimens (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A, B"
+]
+},
+") are considered alternatives for patients who are unable to take rifapentine or rifampin. Short-course combination therapy is as effective as longer duration therapy with isoniazid and is associated with higher treatment completion rates and less toxicity."
+]
+},
+{
+"type":"p",
+"hlId":"83b3ca",
+"children":[
+"The four-drug regimen of isoniazid, rifampin, pyrazinamide, and ethambutol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the standard for active tuberculosis treatment. This patient does not have active tuberculosis and does not require four-drug treatment that will be unnecessarily toxic for a patient with LTBI."
+]
+}
+],
+"relatedSection":"mk19_a_id_s6_5_1",
+"objective":{
+"__html":"Treat latent tuberculosis infection in an immunocompetent person."
+},
+"references":[
+[
+"Sterling TR, Njie G, Zenner D, et al. Guidelines for the treatment of latent tuberculosis infection: Recommendations from the National Tuberculosis Controllers Association and CDC, 2020. MMWR Recomm Rep. 2020;69(1):1-11. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32053584",
+"target":"_blank"
+},
+"children":[
+"PMID: 32053584"
+]
+},
+" doi:10.15585/mmwr.rr6901a1"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":37,
+"C":35,
+"D":7,
+"E":0
+},
+"hlIds":[
+"577048",
+"1b46fc",
+"746695",
+"cb2b54",
+"5bd656",
+"28381f",
+"db7092",
+"35a881",
+"83b3ca"
+]
+}

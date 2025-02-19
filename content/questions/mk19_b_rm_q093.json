@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_rm_q093",
+"number":93,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9005df",
+"children":[
+"A 58-year-old woman is evaluated for a 4-month history of diarrhea and weight loss. Diffuse cutaneous systemic sclerosis was diagnosed 10 years ago. She reports explosive diarrhea soon after eating a meal. She has lost 5 kg (11 lb) since the symptoms began. She also has Raynaud phenomenon and gastroesophageal reflux disease controlled with pantoprazole once a day. Current medications are sustained-release nifedipine and pantoprazole."
+]
+},
+{
+"type":"p",
+"hlId":"53d851",
+"children":[
+"On physical examination, vital signs are normal. Skin changes consistent with diffuse cutaneous systemic sclerosis are present. Findings on the abdominal examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cholestyramine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase in pantoprazole dosage"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Loperamide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fb03c7",
+"children":[
+"Small intestinal bacterial overgrowth affects patients with systemic sclerosis, causing diarrhea, abdominal pain, bloating, and nausea."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9eac44",
+"children":[
+"Small intestinal bacterial overgrowth is best treated with monthly antibiotics in a rotating fashion to decrease the bacterial load in the small intestine."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"07d9fc",
+"children":[
+"The most appropriate treatment is ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient is experiencing the manifestations of small intestinal bacterial overgrowth (SIBO), which affects 39% of patients with systemic sclerosis. SIBO occurs in both the limited and diffuse cutaneous forms of systemic sclerosis. The most frequent symptoms include diarrhea, abdominal pain, bloating, and nausea. The diarrhea is often explosive and typically follows a meal. Over time, SIBO can lead to malabsorption, malnutrition, and weight loss. Jejunal aspirate is considered the gold standard but is often not used in clinical practice because of the requirement for endoscopy to obtain cultures and the patchy nature of small intestinal overgrowth. Glucose and lactulose breath tests have acceptable specificity (around 80%) but poor sensitivity (30%-40%) for diagnosing SIBO. Diagnosis requires typical symptoms and a confirmatory test, although empiric antibiotic therapy with monitoring for improvement in symptoms may be reasonable in patients with a high probability of SIBO, such as this patient. The protocol is to a take a different antibiotic with activity against bowel flora (e.g., ciprofloxacin, doxycycline, amoxicillin/clavulanic acid, and rifaximin) for the first 10 days of the month for 4 months. Systemic sclerosis affects both smooth muscle and autonomic nerves and leads to small intestine hypomotility. Hypomotility results in food and liquid stasis, which then fosters bacterial overgrowth. SIBO also causes bile acid deconjugation, leading to dietary malabsorption of fats and fat-soluble vitamins. A low-fat diet may help reduce the intensity of the diarrhea."
+]
+},
+{
+"type":"p",
+"hlId":"36686b",
+"children":[
+"Cholestyramine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is often prescribed for bile acid diarrhea following limited ileal resection, after abdominal radiation therapy, or for postcholecystectomy diarrhea. Patients with SIBO have bile acid insufficiency, and treatment with a bile acid–binding resin, such as cholestyramine, is likely to worsen this patient's symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"d8e7d8",
+"children":[
+"Pantoprazole, a proton pump inhibitor, is useful for gastrointestinal reflux disease. This patient's reflux disease is stable; further reducing gastric acid production by increasing the pantoprazole dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may contribute to bacterial overgrowth and may worsen the problem."
+]
+},
+{
+"type":"p",
+"hlId":"e1e43e",
+"children":[
+"Loperamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), an opioid agonist, will slow intestinal motility further and potentially worsen SIBO."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s10_3_5",
+"objective":{
+"__html":"Treat small intestinal bacterial overgrowth in a patient with diffuse cutaneous systemic sclerosis."
+},
+"references":[
+[
+"Polkowska-Pruszynska B, Gerkowicz A, Szczepanik-Kulak P, et al. Small intestinal bacterial overgrowth in systemic sclerosis: a review of the literature. Arch Dermatol Res. 2019;311:1-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30382339",
+"target":"_blank"
+},
+"children":[
+"PMID: 30382339"
+]
+},
+" doi:10.1007/s00403-018-1874-0"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":37,
+"C":4,
+"D":26,
+"E":0
+},
+"hlIds":[
+"9005df",
+"53d851",
+"1054f1",
+"fb03c7",
+"9eac44",
+"07d9fc",
+"36686b",
+"d8e7d8",
+"e1e43e"
+]
+}

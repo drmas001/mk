@@ -1,0 +1,237 @@
+{
+"id":"mk19_b_pm_q018",
+"number":18,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ba12ba",
+"children":[
+"A 59-year-old woman is evaluated 5 days after her admission to the hospital for septic shock with no obvious source of infection. She is neutropenic. She has large B-cell lymphoma and received her last course of chemotherapy (rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone) 5 days before admission. Piperacillin-tazobactam, gentamicin, and vancomycin were initiated. Gentamicin and vancomycin were discontinued 2 days ago following confirmation of negative blood cultures. She is clinically improved and has been afebrile for 24 hours."
+]
+},
+{
+"type":"p",
+"hlId":"993d20",
+"children":[
+"On physical examination, temperature is 36.9 °C (98.4 °F); the remainder of the vital signs and physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"473024",
+"children":[
+"Laboratory studies show a leukocyte count of 1500/μL (1.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L); absolute neutrophil count is 100/μL (0.1 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Change to imipenem-cilastatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue piperacillin-tazobactam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"No change in treatment"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start voriconazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5ffbc8",
+"children":[
+"In patients with neutropenic fever, antibiotics should usually be continued until either the absolute neutrophil count recovers (>500/μL [0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L]) or the patient has completed a full course of antibiotic therapy, whichever is longest."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"50c5c1",
+"children":[
+"No change in treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is most appropriate for this patient. In patients with neutropenic fever, it is always appropriate to provide empiric gram-positive and gram-negative coverage as an initial approach. Coverage for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" should be considered if the patient is hemodynamically unstable, but it can be discontinued after 2 to 3 days if culture data are unrevealing. Notation of previous infections, resistance patterns, and local antibiograms should guide decisions on the initial regimen, although carbapenems or extended-range penicillin–β-lactamase inhibitors are a reasonable empiric choice for most patients. Most neutropenic fevers have no known source. In situations in which no pathogen is identified, antibiotic discontinuation is largely contingent on two criteria: resolution of fever and improvement of the patient's absolute neutrophil count to more than 500/μL (0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"0f9760",
+"children":[
+"Indications for modifying a patient's antibiotic coverage include identification of an infectious source, escalation of therapy for persistent fever or worsening clinical status, and, in some cases, transition to an oral regimen for patients leaving the hospital. Because this patient does not meet any of these criteria, switching from piperacillin-tazobactam to imipenem-cilastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be indicated."
+]
+},
+{
+"type":"p",
+"hlId":"4ee8c0",
+"children":[
+"This patient is hemodynamically stable, appears clinically improved, and is afebrile, but the absolute neutrophil count has not recovered. Antibiotics should be continued until either the absolute neutrophil count recovers or the patient has completed a full course of antibiotic therapy, whichever is longest. Some guidelines suggest discontinuing antibiotics after 48 to 72 hours in patients without fever who are improving and have no clear source for infection, regardless of neutrophil recovery. Because this patient has been afebrile for only 24 hours and her absolute neutrophil count has not recovered, it would not be appropriate to discontinue antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") at this time."
+]
+},
+{
+"type":"p",
+"hlId":"4935af",
+"children":[
+"The risk of fungemia is increased in patients who remain neutropenic and febrile for more than 7 days. If a patient remains febrile for more than 4 days, addition of an antifungal agent such as voriconazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is warranted if the patient's neutropenia is expected to last beyond 7 days and no alternative source for the infection has been identified. Because this patient is no longer febrile, addition of an antifungal agent is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3_2",
+"objective":{
+"__html":"Treat neutropenic sepsis with an appropriate duration of antibiotic therapy."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":24,
+"C":63,
+"D":10,
+"E":0
+},
+"hlIds":[
+"ba12ba",
+"993d20",
+"473024",
+"1054f1",
+"5ffbc8",
+"50c5c1",
+"0f9760",
+"4ee8c0",
+"4935af"
+]
+}

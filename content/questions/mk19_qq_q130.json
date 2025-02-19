@@ -1,0 +1,220 @@
+{
+"id":"mk19_qq_q130",
+"number":130,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 130",
+"stimulus":[
+{
+"type":"p",
+"hlId":"031bd5",
+"children":[
+"A 59-year-old woman is evaluated for a 7-month history of progressive exertional dyspnea. She has type 2 diabetes mellitus and hypertension. She currently smokes cigarettes."
+]
+},
+{
+"type":"p",
+"hlId":"7c6e12",
+"children":[
+"On physical examination, blood pressure is 150/88 mm Hg. Jugular venous distention is present. Cardiopulmonary examination reveals pulmonary crackles and an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+". Pedal edema is noted. Chest radiograph shows vascular congestion. ECG shows inferior Q waves. Echocardiogram reveals inferior wall hypokinesis and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 30%."
+]
+},
+{
+"type":"p",
+"hlId":"c48053",
+"children":[
+"Treatment is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a3643d",
+"children":[
+"Which of the following is the most appropriate next diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Endomyocardial biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nuclear myocardial perfusion imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cdbdbd",
+"children":[
+"Patients with heart failure and exertional chest pain, history of myocardial infarction, or other symptoms suggesting coronary artery disease should undergo further evaluation with stress testing or cardiac catheterization as clinically appropriate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c0ca34",
+"children":[
+"Heart failure caused by ischemia may improve or resolve with percutaneous or surgical revascularization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5e01a0",
+"children":[
+"The most appropriate next step in diagnostic testing is coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Coronary artery disease (CAD) is the leading cause of heart failure in the United States (>50% of patients) and should be considered in all patients with newly diagnosed heart failure. The decision to evaluate for CAD depends on the patient's symptoms and risk factors (family history, male sex, diabetes, hypertension, tobacco use). Additionally, findings on ECG and echocardiography may suggest an ischemic cause for left ventricular dysfunction. Patients with exertional chest pain, history of myocardial infarction, or other symptoms suggesting CAD should undergo further evaluation with stress testing or cardiac catheterization as clinically appropriate. Identification of significant CAD is important, as left ventricular dysfunction caused by ischemia may improve or resolve with percutaneous or surgical revascularization. This patient has a high likelihood for ischemic heart disease as evidenced by a previous inferior wall myocardial infarction on ECG, which likely accounts for her symptoms and reduced ejection fraction. Given the high pretest probability of ischemic heart disease and findings suggestive of extensive myocardial ischemia, coronary angiography is indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"dd3b70",
+"children":[
+"Cardiac MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is useful for evaluating possible infiltrative or inflammatory cardiomyopathy, which is unlikely in this patient with high likelihood of ischemic heart disease."
+]
+},
+{
+"type":"p",
+"hlId":"c5d3c2",
+"children":[
+"Endomyocardial biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has proven value when used to monitor for cardiac allograft rejection. Otherwise, endomyocardial biopsy is useful in only a limited number of patients who may have heart failure secondary to giant cell myocarditis, restrictive and infiltrative cardiomyopathies, or other types of myocarditis. Clinical situations where biopsy might be considered include unexplained acute onset and fulminant heart failure associated with normal size or dilated left ventricle; in patients with dilated left ventricle, new ventricular arrhythmias, or conduction block; and in patients who fail to respond to guideline-directed medical therapy. This patient has risk factors for CAD, and endomyocardial biopsy is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"994795",
+"children":[
+"Noninvasive stress testing, such as nuclear myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), would likely identify ischemic heart disease in this patient, but the more relevant issue is whether the coronary anatomy is amenable to revascularization, which could improve function."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_3",
+"objective":{
+"__html":"Diagnose ischemic cardiomyopathy."
+},
+"references":[
+[
+"Wu A. Heart failure. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201806050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;168:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29868816",
+"target":"_blank"
+},
+"children":[
+"PMID: 29868816"
+]
+},
+"."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"031bd5",
+"7c6e12",
+"c48053",
+"a3643d",
+"cdbdbd",
+"c0ca34",
+"5e01a0",
+"dd3b70",
+"c5d3c2",
+"994795"
+]
+}

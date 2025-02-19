@@ -1,0 +1,253 @@
+{
+"id":"mk19_a_on_q049",
+"number":49,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"19352a",
+"children":[
+"A 78-year-old man undergoes preoperative evaluation for left knee arthroplasty. Other than knee pain, he has no other symptoms. Medical history is otherwise unremarkable. His only medication is ibuprofen, which he has recently discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"a3e97e",
+"children":[
+"On physical examination, vital signs are normal. Diffuse adenopathy with nodes 1.5 to 2 cm is present in cervical, axillary, and inguinal areas. The spleen is enlarged 2 cm below the left costal margin."
+]
+},
+{
+"type":"p",
+"hlId":"a7698c",
+"children":[
+"Results of laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 62,000/µL (62 × 10 ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with 90% lymphocytes, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 12.8 g/dL (128 g/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" 152,000/µL (152 × 10 ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Flow cytometry shows a predominance of CD5, CD19, and CD20 cells expressing only κ light chains consistent with chronic lymphocytic leukemia."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin ibrutinib"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Begin rituximab and bendamustine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Proceed with elective surgery"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"911083",
+"hvc":true,
+"children":[
+"The diagnosis of chronic lymphocytic leukemia is suggested by absolute lymphocytosis with an abundance of predominantly mature-appearing lymphocytes on peripheral smear and confirmed by flow cytometry."
+]
+},
+{
+"type":"keypoint",
+"hlId":"67d11a",
+"hvc":true,
+"children":[
+"Chronic lymphocytic leukemia is typically an indolent disease, and many patients require no therapy for many years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9ea06f",
+"children":[
+"For this patient with early-stage chronic lymphocytic leukemia (CLL), there is no indication for therapy, and it is safe to proceed with surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). CLL is a low-grade B-cell lymphoproliferative disorder. Many patients are not symptomatic at presentation and are diagnosed when noted to have a lymphocytosis on a routine complete blood count (CBC)."
+]
+},
+{
+"type":"p",
+"hlId":"9008ac",
+"children":[
+"Bone marrow aspiration and biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are generally unnecessary for patients newly diagnosed with CLL. In most cases, the diagnosis is suggested by an absolute lymphocytosis on CBC with an abundance of predominantly mature-appearing lymphocytes on peripheral smear, characteristically associated with “smudge cells.” The diagnosis is confirmed by flow cytometry, which shows monoclonal B cells that usually co-express CD5 (typically a T-cell marker) along with the B-cell antigens CD19 and CD20. Routinely, cytogenetics and fluorescence in situ hybridization studies are performed, along with determination of immunoglobulin variable region heavy chain (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"IgVH"
+]
+},
+") status, to help confirm the diagnosis and provide prognostic information. Favorable prognostic features include the presence of del(13), absence of del(17p), and the presence of a mutated ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"IgVH"
+]
+},
+" as opposed to unmutated status. Patients with CLL without systemic symptoms, bulky adenopathy, or significant cytopenias should not be treated."
+]
+},
+{
+"type":"p",
+"hlId":"f06025",
+"children":[
+"Although chemoimmunotherapy regimens such as bendamustine or fludarabine and cyclophosphamide combined with an anti-CD20 antibody such as rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are very active, these have been increasingly replaced by oral targeted therapies such as ibrutinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") (which inhibits Bruton tyrosine kinase) and venetoclax (a B-cell lymphoma 2 inhibitor). These targeted agents were initially studied in patients with CLL who had relapsed or refractory disease, but studies now support their use as first-line therapy. At this time, despite the availability of many active agents and regimens, there is no evidence that earlier institution of therapy is associated with better outcomes. Many patients will go for years, and some indefinitely, without requiring therapy for their disease."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_1_3",
+"objective":{
+"__html":"Manage early-stage chronic lymphocytic leukemia."
+},
+"references":[
+[
+"Yeung CCS, Shadman M. How to choose the best treatment and testing for chronic lymphocytic leukemia in the tsunami of new treatment options. Curr Oncol Rep. 2019;21:74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31327069",
+"target":"_blank"
+},
+"children":[
+"PMID: 31327069"
+]
+},
+" doi:10.1007/s11912-019-0819-x"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":20,
+"B":12,
+"C":4,
+"D":65,
+"E":0
+},
+"hlIds":[
+"19352a",
+"a3e97e",
+"a7698c",
+"cb2b54",
+"911083",
+"67d11a",
+"9ea06f",
+"9008ac",
+"f06025"
+]
+}

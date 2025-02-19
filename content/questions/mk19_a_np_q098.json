@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q098",
+"number":98,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 98",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e4e8b1",
+"children":[
+"A 26-year-old man is referred for an elevated ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.4 mg/dL (123.8 µmol/L) that was measured when he presented to an urgent care center for flank pain. The flank pain was determined to be musculoskeletal and caused by a weight-lifting injury. A subsequent urinalysis was normal, and a random urine ",
+{
+"type":"reference-range-link",
+"referenceRange":"Albumin-creatinine ratio, urine",
+"children":[
+"albumin-creatinine ratio"
+]
+},
+" was 10 mg/g. He reports that he takes no creatine supplements but is evasive when questioned about anabolic steroid use. His medical history is otherwise unremarkable, and he takes no prescribed medications."
+]
+},
+{
+"type":"p",
+"hlId":"6514c9",
+"children":[
+"On physical examination, vital signs are normal. BMI is 29. The patient is muscular, with no evidence of subcutaneous fat. He has mild muscle tenderness in the right lower back. The remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Blood urea nitrogen measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Creatinine clearance"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radionuclide imaging"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum cystatin C measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ca034",
+"children":[
+"Increased or decreased muscle mass can alter the serum creatinine level in the absence of kidney disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bde935",
+"children":[
+"Serum cystatin C is more sensitive in identifying milder decrements in kidney function than serum creatinine."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9cc741",
+"children":[
+"The most appropriate test is serum cystatin C measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Reduction of muscle mass, as seen in amputees and those with malnutrition or muscle wasting, can result in a lower serum creatinine concentration without a change in glomerular filtration rate (GFR). Because of decreased muscle mass, serum creatinine overestimates kidney function in older persons, especially women. Young persons and men often have higher muscle mass and higher serum creatinine concentration at a given GFR compared with older persons and thus underestimates kidney function in this population. This patient's elevated serum creatinine level is likely the result of increased muscle mass. Serum cystatin C is an alternative marker of GFR that is less influenced than serum creatinine by age, sex, muscle mass, and body weight. Cystatin C is produced by all nucleated cells, completely filtered by glomeruli, and then metabolized by renal tubules; serum levels thus provide an index of GFR. Serum cystatin C is more sensitive in identifying milder decrements in kidney function than serum creatinine."
+]
+},
+{
+"type":"p",
+"hlId":"53b33b",
+"children":[
+"Blood urea nitrogen (BUN) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is derived from the metabolism of proteins. BUN concentration is a poor marker of kidney function because it is not produced at a constant rate and is reabsorbed along the tubules; furthermore, alterations in renal blood flow markedly influence tubular reabsorption and excretion."
+]
+},
+{
+"type":"p",
+"hlId":"828a01",
+"children":[
+"Because of the secretion of creatinine in the proximal tubule, the direct measurement of creatinine clearance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") with a 24-hour urine collection tends to overestimate GFR. Nonetheless, with an adequate collection, the 24-hour urine collection can be used to estimate GFR; however, this test is prone to collection errors and would be unnecessarily burdensome for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"5bf34b",
+"children":[
+"Radionuclide imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") provides the most accurate measurement of GFR and is the gold standard in research. It is useful for accurate determination of GFR during evaluation of kidney donors, evaluation of recipients for other organs, or assessment of the differential GFR of each kidney before nephrectomy. However, for this patient, the availability of serum cystatin C measurement makes radionuclide imaging unnecessary."
+]
+}
+],
+"relatedSection":"mk19_a_np_s1_1_1_2",
+"objective":{
+"__html":"Evaluate kidney function with serum cystatin C measurement."
+},
+"references":[
+[
+"Baxmann AC, Ahmed MS, Marques NC, et al. Influence of muscle mass and physical activity on serum and urinary creatinine and serum cystatin C. Clin J Am Soc Nephrol. 2008;3:348-354. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/18235143",
+"target":"_blank"
+},
+"children":[
+"PMID: 18235143"
+]
+},
+" doi:10.2215/CJN.02870707"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":25,
+"C":1,
+"D":63,
+"E":0
+},
+"hlIds":[
+"e4e8b1",
+"6514c9",
+"983777",
+"2ca034",
+"bde935",
+"9cc741",
+"53b33b",
+"828a01",
+"5bf34b"
+]
+}

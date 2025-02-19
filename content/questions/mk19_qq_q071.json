@@ -1,0 +1,272 @@
+{
+"id":"mk19_qq_q071",
+"number":71,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"29e13f",
+"children":[
+"A 51-year-old man is evaluated for a 3-month history of worsening lower extremity edema. He has a 15-pack-year smoking history but reports no cough or sputum production."
+]
+},
+{
+"type":"p",
+"hlId":"e8a109",
+"children":[
+"BMI is 42. Breath sounds are diminished without wheezing. There is bilateral edema of the legs. Arterial pH is 7.36, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 52 mm Hg (6.9 kPa), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 53 mm Hg (7.0 kPa). Chest radiograph shows only reduced lung volumes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"COPD"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Diffuse parenchymal lung disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obesity hypoventilation syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obstructive sleep apnea"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"155c38",
+"children":[
+"Obesity hypoventilation syndrome is characterized by daytime hypercapnia (arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" >45 mm Hg [5.9 kPa]) that is thought to be a consequence of diminished ventilation related to extreme obesity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1e38c5",
+"children":[
+"Biventricular heart failure, pulmonary hypertension, erythrocytosis, and volume overload are common manifestations of obesity hypoventilation syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dd9546",
+"children":[
+"The most likely diagnosis is obesity hypoventilation syndrome (OHS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). OHS is characterized by daytime hypercapnia (arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" >45 mm Hg [5.9 kPa]) that is thought to be a consequence of diminished ventilatory drive and capacity related to extreme obesity. Obstructive sleep apnea (OSA) is usually but not always superimposed. Biventricular heart failure, pulmonary hypertension, erythrocytosis, and volume overload are common. Weight loss is essential, and consideration can be given to bariatric surgery. Positive airway pressure therapy is indicated. Although definitive trials comparing continuous positive airway pressure (CPAP) and bilevel positive airway pressure (BPAP) are not available, the most recent guideline recommends CPAP as initial therapy for overlapping OSA and obesity hypoventilation, though BPAP might be warranted for those without coexisting OSA. Supplemental oxygen may need to be added and reassessed at a later date."
+]
+},
+{
+"type":"p",
+"hlId":"6869d8",
+"children":[
+"Long-standing, severe COPD (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may lead to carbon dioxide retention and hypercapnia. However, despite this patient's smoking history, he does not have a history or clinical picture that is consistent with a diagnosis of COPD, such as cough and sputum production."
+]
+},
+{
+"type":"p",
+"hlId":"82f326",
+"children":[
+"Nonproductive cough and dyspnea are the most common presenting symptoms of a diffuse parenchymal lung disease (DPLD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Wheezes and Velcro-like crackles may be present. Chest radiography may show various findings in patients with DPLD but can be normal in patients with minimal disease. Although hypercapnia defines OHS, such a finding is unusual in DPLD until the disease reaches a very advanced stage. The combined absence of cough and hypercapnia along with the normal chest radiograph argue against the diagnosis of DPLD."
+]
+},
+{
+"type":"p",
+"hlId":"4e38fe",
+"children":[
+"OSA (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") often coexists with OHS, and polysomnography is usually required to determine the extent of OSA and titrate positive airway pressure therapy. However, OSA alone does not account for this patient's daytime hypercapnia."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_5_2",
+"objective":{
+"__html":"Diagnose obesity hypoventilation syndrome."
+},
+"references":[
+[
+"Mokhlesi B, Masa JF, Brozek JL, et al. Evaluation and management of obesity hypoventilation syndrome. an official American Thoracic Society clinical practice guideline. Am J Respir Crit Care Med. 2019;200:e6-e24. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31368798",
+"target":"_blank"
+},
+"children":[
+"PMID: 31368798"
+]
+},
+" doi:10.1164/rccm.201905-1071ST"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"29e13f",
+"e8a109",
+"413696",
+"155c38",
+"1e38c5",
+"dd9546",
+"6869d8",
+"82f326",
+"4e38fe"
+]
+}

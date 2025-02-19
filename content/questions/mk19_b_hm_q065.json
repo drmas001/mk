@@ -1,0 +1,265 @@
+{
+"id":"mk19_b_hm_q065",
+"number":65,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"342d60",
+"children":[
+"A 61-year-old woman with recent SARS-CoV-2 exposure is hospitalized for hypoxemic respiratory failure; she is also diagnosed with thrombocytopenia. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"7179ec",
+"children":[
+"On physical examination, temperature is 38.7 °C (101.7 °F), blood pressure is 105/80 mm Hg, pulse rate is 114/min, and respiration rate is 28/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 89% breathing ambient air. Cardiopulmonary examination reveals bibasilar crackles. She has no petechiae or ecchymoses."
+]
+},
+{
+"type":"p",
+"hlId":"14ac5a",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 10.6 g/dL (106 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 11,200/μL (11.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 23,000/μL (23 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"4d95f8",
+"children":[
+"Ground-glass opacities consistent with SARS-CoV-2 are seen on a chest radiograph, and a SARS-CoV-2 test is positive."
+]
+},
+{
+"type":"p",
+"hlId":"367fee",
+"children":[
+"The patient is given supplemental oxygen by nasal cannula, and treatment for severe SARS-CoV-2 is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"988f7d",
+"children":[
+"Which of the following is the first test to perform in evaluating the patient's thrombocytopenia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ADAMTS13"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Antiplatelet antibodies"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Direct antiglobulin test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Peripheral blood smear"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a459c7",
+"hvc":true,
+"children":[
+"The first step in the evaluation of thrombocytopenia is to review the peripheral blood smear and confirm the platelet count."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d0b729",
+"hvc":true,
+"children":[
+"Pseudothrombocytopenia occurs when patients have antibodies to ethylenediaminetetraacetic acid, causing platelets to clump together in vitro; an accurate count can be obtained from blood drawn in citrate or heparin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e6e641",
+"children":[
+"A peripheral blood smear (PBS) should be obtained (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has severe thrombocytopenia in the absence of petechiae, ecchymoses, or other bleeding manifestations. The first step in the evaluation of any patient with thrombocytopenia is to review the PBS and confirm the platelet count. Pseudothrombocytopenia occurs when a patient has antibodies to ethylenediaminetetraacetic acid (EDTA), causing platelets to clump together in vitro. In patients with platelet clumping on the PBS, an accurate count can be obtained from blood drawn in citrate or heparin instead of EDTA. Inaccurate platelet counts may also occur if the platelets are exceptionally large (complete blood count machine may count them as erythrocytes) or if erythrocyte fragments (schistocytes) are counted by the machine as if they were platelets (leading to a higher than actual platelet count)."
+]
+},
+{
+"type":"p",
+"hlId":"a5c145",
+"children":[
+"Patients with thrombotic thrombocytopenic purpura (TTP) present with microangiopathic hemolytic anemia (MAHA) and thrombocytopenia. The presence of MAHA is evidenced by elevated lactate dehydrogenase (LDH) and decreased haptoglobin levels, schistocytes on PBS, and a negative direct antiglobulin test result. If the PBS confirms thrombocytopenia and is positive for schistocytes, and if additional tests confirm the presence of erythrocyte destruction, an ADAMTS13 level less than 10% would support the diagnosis of TTP (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). If the PBS demonstrates clumping, repeating the platelet count from blood drawn in citrate or heparin is the next step."
+]
+},
+{
+"type":"p",
+"hlId":"8ab4d3",
+"children":[
+"Immune thrombocytopenic purpura (ITP) is a clinical diagnosis made by exclusion of other causes for thrombocytopenia, but even in patients with confirmed thrombocytopenia, antiplatelet antibodies are not helpful diagnostically because they are neither sensitive nor specific in the diagnosis of ITP (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient does not have confirmed thrombocytopenia, and any additional testing to evaluate causes of thrombocytopenia are premature until the PBS is examined."
+]
+},
+{
+"type":"p",
+"hlId":"2beeab",
+"children":[
+"In a patient with anemia and thrombocytopenia, a direct antiglobulin test would be useful in evaluating for possible Evans syndrome (autoimmune hemolytic anemia and ITP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, before this diagnosis is entertained, thrombocytopenia must first be verified. A PBS may also support the diagnosis of autoimmune hemolytic anemia by the presence of spherocytes. If hemolysis is a consideration, supporting evidence for erythrocyte destruction should be obtained, including a reticulocyte count to evaluate for reticulocytosis, serum LDH, free hemoglobin level, and a urinalysis for hemoglobinuria. If erythrocyte destruction is confirmed, a direct antiglobulin test should be obtained."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s6_2",
+"objective":{
+"__html":"Confirm thrombocytopenia with a peripheral blood smear."
+},
+"references":[
+[
+"Musson EN, Lomas O, Murphy MF. Acute thrombocytopenia: Picking a way through a paucity of platelets. Br J Hosp Med (Lond). 2019;80:507-512. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31498668",
+"target":"_blank"
+},
+"children":[
+"PMID: 31498668"
+]
+},
+" doi:10.12968/hmed.2019.80.9.507"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":8,
+"C":3,
+"D":83,
+"E":0
+},
+"hlIds":[
+"342d60",
+"7179ec",
+"14ac5a",
+"4d95f8",
+"367fee",
+"988f7d",
+"a459c7",
+"d0b729",
+"e6e641",
+"a5c145",
+"8ab4d3",
+"2beeab"
+]
+}

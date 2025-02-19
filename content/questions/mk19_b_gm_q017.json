@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_gm_q017",
+"number":17,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5a3d69",
+"children":[
+"A 36-year-old man is evaluated for a 2-day history of right-eye redness with a yellow discharge. When he awoke this morning, his right eye was matted with a small amount of yellow crust. He reports no pain or change in visual acuity. He does not wear contact lenses. He has no other symptoms or medical problems, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"22031b",
+"children":[
+"On physical examination, the right eye shows diffuse, circumferential conjunctival erythema with yellow crusting on the eyelashes. Visual acuity is 20/20 bilaterally. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"dc6ef5",
+"children":[
+"After a discussion of the risks and benefits of treatment, the patient prefers pharmacologic treatment."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"61c3b8",
+"children":[
+"Which of the following is the most appropriate topical treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ofloxacin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Olopatadine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trimethoprim-polymyxin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"15b5e6",
+"children":[
+"Mild bacterial conjunctivitis is typically a self-limited condition, but topical antibiotic treatment may shorten the duration of symptoms and transmissibility and is a reasonable option in some patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9eb389",
+"children":[
+"The choice of a topical broad-spectrum antibiotic for bacterial conjunctivitis is usually empiric; the most convenient or least expensive option can be selected."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"997e9e",
+"children":[
+"Trimethoprim-polymyxin ophthalmic solution is the most appropriate topical treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient presents with acute unilateral conjunctival redness accompanied by mucopurulent discharge, which is consistent with acute bacterial conjunctivitis. According to the 2019 American Academy of Ophthalmology guideline, mild bacterial conjunctivitis is usually self-limited, and it typically resolves spontaneously without specific treatment in immunocompetent adults. Use of topical antibacterial therapy is associated with earlier clinical and microbiological remission compared with placebo in days 2 to 5 of treatment. Treatment may reduce transmissibility. The choice of antibiotic is usually empiric. Because a course of a broad-spectrum topical antibiotic is usually effective, the most convenient or least expensive option can be selected; there is no clinical evidence suggesting the superiority of any particular antibiotic. Although there are no data supporting the cost-effectiveness of using antibiotics in mild bacterial conjunctivitis, the shortened morbidity associated with their use makes choice of therapy an individual decision. Trimethoprim-polymyxin ophthalmic solution is an appropriate antibiotic option for patients, such as this one, who do not wear contact lenses. Other reasonable options are erythromycin or bacitracin-polymyxin ophthalmic ointments. Lack of symptom improvement or symptom worsening within several days of initiation of an appropriate topical antimicrobial should prompt ophthalmology referral."
+]
+},
+{
+"type":"p",
+"hlId":"1167b1",
+"children":[
+"Because of concern about antibiotic resistance and higher cost, ofloxacin ophthalmic solution (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be reserved for patients who wear contact lenses, which increases the risk for pseudomonal infection."
+]
+},
+{
+"type":"p",
+"hlId":"909014",
+"children":[
+"Topical antihistamines, such as olopatadine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), have no role in the treatment of acute bacterial conjunctivitis. Olopatadine is commonly used in patients with allergic conjunctivitis, who typically present with bilateral eye redness, pruritus, watery discharge, and eyelid swelling."
+]
+},
+{
+"type":"p",
+"hlId":"d40412",
+"children":[
+"Topical ophthalmologic glucocorticoids, such as prednisolone alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or in combination with an antibiotic, do not have a role in the treatment of acute bacterial conjunctivitis. When given to patients with either bacterial or viral keratitis, they can lead to corneal damage, including perforation and scarring."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s8_2_1",
+"objective":{
+"__html":"Treat acute bacterial conjunctivitis with a topical antibiotic."
+},
+"references":[
+[
+"Varu DM, Rhee MK, Akpek EK, et al; American Academy of Ophthalmology Preferred Practice Pattern Cornea and External Disease Panel. Conjunctivitis Preferred Practice Pattern®. Ophthalmology. 2019;126:P94-169. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30366797",
+"target":"_blank"
+},
+"children":[
+"PMID: 30366797"
+]
+},
+" doi:10.1016/j.ophtha.2018.10.020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":7,
+"C":3,
+"D":47,
+"E":0
+},
+"hlIds":[
+"5a3d69",
+"22031b",
+"dc6ef5",
+"61c3b8",
+"15b5e6",
+"9eb389",
+"997e9e",
+"1167b1",
+"909014",
+"d40412"
+]
+}

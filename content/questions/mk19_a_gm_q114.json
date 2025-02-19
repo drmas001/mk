@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gm_q114",
+"number":114,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 114",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fe4277",
+"children":[
+"A 47-year-old woman is evaluated in the emergency department for constant vertigo that has worsened over the past few hours, with associated nausea and vomiting. She reports feeling unsteady when walking. She recovered from a viral upper respiratory tract infection 1 week ago and has had reduced hearing in the right ear since then. She has no tinnitus. She is otherwise healthy and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"9dd4a6",
+"children":[
+"On physical examination, vital signs are normal. The Dix-Hallpike maneuver shows unidirectional nystagmus on the right side. Head impulse testing shows catch-up saccades. The remainder of the neurologic examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benign paroxysmal positional vertigo"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Labyrinthitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meniere disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ramsay Hunt syndrome"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vertebrobasilar ischemia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c9fe7d",
+"children":[
+"Labyrinthitis is caused by postviral inflammation of the vestibulocochlear nerve (cranial nerve VIII), resulting in sudden-onset, severe, persistent vertigo and hearing loss."
+]
+},
+{
+"type":"keypoint",
+"hlId":"106f92",
+"children":[
+"Labyrinthitis is treated with prednisone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"31ab9a",
+"children":[
+"Labyrinthitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most likely diagnosis. This patient has symptoms and examination findings suggesting vertigo arising from a peripheral cause, including unidirectional nystagmus with the Dix-Hallpike maneuver and catch-up saccades with head impulse testing. Labyrinthitis is caused by postviral inflammation of both branches of the vestibulocochlear nerve (cranial nerve VIII), resulting in sudden-onset, severe, persistent vertigo and hearing loss. This patient's symptoms and her recent viral upper respiratory tract infection are consistent with the diagnosis of labyrinthitis. Labyrinthitis is usually treated with prednisone."
+]
+},
+{
+"type":"p",
+"hlId":"fa4472",
+"children":[
+"Benign paroxysmal positional vertigo (BPPV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a common cause of peripheral vertigo. However, it typically causes brief episodes of vertigo provoked by position change, rather than the continuous vertigo described by this patient. BPPV is not typically associated with hearing loss."
+]
+},
+{
+"type":"p",
+"hlId":"2772ee",
+"children":[
+"Symptoms of Meniere disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") typically include episodic vertigo with insidious onset of both sensorineural hearing loss and tinnitus; the hearing loss and tinnitus occur sometimes years before the vertigo. Meniere disease would cause examination findings consistent with peripheral vertigo, but it would be uncommon for Meniere disease to present with constant vertigo that worsens rapidly."
+]
+},
+{
+"type":"p",
+"hlId":"a01eda",
+"children":[
+"Ramsay Hunt syndrome (herpes zoster infection involving cranial nerve VII) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") causes peripheral vertigo but has clinical features unlike this patient's; it usually presents with ear pain and vesicles in the auditory canal. It can also cause unilateral facial paralysis (from cranial nerve VII involvement), taste loss or dysgeusia (from cranial nerve VII branch chorda tympani involvement), and altered hearing (if cranial nerve VIII is involved). Ramsay Hunt syndrome is usually seen in young immunosuppressed persons (such as those with AIDS) or in adults older than 50 years."
+]
+},
+{
+"type":"p",
+"hlId":"1a352e",
+"children":[
+"In vertebrobasilar ischemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), physical examination findings are consistent with central ischemia (negative Dix-Hallpike maneuver and absence of catch-up saccades on the head impulse test). Vertebrobasilar ischemia commonly occurs in patients with risk factors for vascular disease and often presents with other neurologic findings in addition to vertigo, such as dysarthria, dysphagia, diplopia, weakness, or numbness."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_3_2_1",
+"objective":{
+"__html":"Diagnose labyrinthitis."
+},
+"references":[
+[
+"Zwergal A, Dieterich M. Vertigo and dizziness in the emergency room. Curr Opin Neurol. 2020;33:117-25. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31743236",
+"target":"_blank"
+},
+"children":[
+"PMID: 31743236"
+]
+},
+" doi:10.1097/WCO.0000000000000769"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":79,
+"C":4,
+"D":3,
+"E":4
+},
+"hlIds":[
+"fe4277",
+"9dd4a6",
+"413696",
+"c9fe7d",
+"106f92",
+"31ab9a",
+"fa4472",
+"2772ee",
+"a01eda",
+"1a352e"
+]
+}

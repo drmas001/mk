@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_gm_q003",
+"number":3,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b2799c",
+"children":[
+"A 75-year-old woman is evaluated to establish care. She reports intermittent palpitations. She has stage G4 chronic kidney disease (",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+", 25 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and hypertension. Medications are lisinopril, amlodipine, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"3f9a8f",
+"children":[
+"On physical examination, pulse rate is 85/min and irregularly irregular. Cardiac auscultation confirms an irregular pulse and variable intensity of the first heart sound. There are no murmurs. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"081ed9",
+"children":[
+"ECG reveals atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"409745",
+"children":[
+"The physician initiates a prescription for full-dose rivaroxaban through the electronic health record (EHR) but then reduces the dose."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"683011",
+"children":[
+"Which of the following features of the EHR most likely accounts for the physician's decision to modify the patient's prescription?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Computerized clinical decision support"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electronic transmission of prescription"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Laboratory monitoring guidance"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Patient information fact sheet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ebb4a0",
+"children":[
+"Computerized clinical decision support can highlight potential contraindications to diagnostic tests, specify dose recommendations, identify potential drug interactions, and suggest modifications to drug dosage in patients with kidney or liver dysfunction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"76e7e6",
+"children":[
+"Computerized clinical decision support (CDS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the feature of the electronic health record (EHR) that most likely accounts for the physician's decision to modify the patient's prescription. The EHR is a computerized system that encompasses patient record review and treatment-ordering functionality for clinicians. The EHR enables the timely sharing of patient information by multiple users, resulting in improved communication and care efficiency. Computerized physician order entry (CPOE) is a system by which clinicians electronically enter medication, radiology, and laboratory orders, thereby reducing errors and delays related to illegible handwriting. Computerized CDS is the use of information technology to facilitate clinical decision making. When integrated into a CPOE system, CDS can highlight potential contraindications to diagnostic tests, specify dose recommendations, identify potential drug interactions, and suggest modifications to drug dosage in patients with kidney or liver dysfunction. In this case, the physician was going to prescribe this patient full-dose rivaroxaban to reduce the risk for stroke caused by atrial fibrillation. However, many direct oral anticoagulants require dosage adjustment in patients with advanced kidney disease because decreased kidney clearance of these medications may be associated with adverse events. The CDS system notified the physician of the contraindication to use full-dose rivaroxaban in this patient and prevented the potential harm."
+]
+},
+{
+"type":"p",
+"hlId":"44ffdf",
+"children":[
+"Electronic transmission of prescriptions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has reduced delays in obtaining prescriptions and eliminates errors due to prescription legibility issues. This process improves the likelihood that a medication is dispensed as intended but is unlikely to result in a change in the medication prescribed."
+]
+},
+{
+"type":"p",
+"hlId":"17f882",
+"children":[
+"When applied to medication prescribing, best practice alerts or advisories typically provide information on how best to institute and monitor specific medications. They may provide guidance on appropriate laboratory monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or duration of therapy. They usually are distinct from a contraindication alert."
+]
+},
+{
+"type":"p",
+"hlId":"6b0dd7",
+"children":[
+"Patient information fact sheets (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are typically provided by the pharmacy upon medication dispensing and provide information regarding medication administration, expected medication effects, and potential adverse events. Their provision typically would not result in a change in medication."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s2_6",
+"objective":{
+"__html":"Use clinical decision support to improve medication safety."
+},
+"references":[
+[
+"Billstein-Leber M, Carrillo CJ, Cassano AT, et al. ASHP guidelines on preventing medication errors in hospitals. Am J Health Syst Pharm. 2018;75:1493-517. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30257844",
+"target":"_blank"
+},
+"children":[
+"PMID: 30257844"
+]
+},
+" doi:10.2146/ajhp170811"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":68,
+"B":7,
+"C":20,
+"D":5,
+"E":0
+},
+"hlIds":[
+"b2799c",
+"3f9a8f",
+"081ed9",
+"409745",
+"683011",
+"ebb4a0",
+"76e7e6",
+"44ffdf",
+"17f882",
+"6b0dd7"
+]
+}

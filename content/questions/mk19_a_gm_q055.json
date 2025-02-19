@@ -1,0 +1,233 @@
+{
+"id":"mk19_a_gm_q055",
+"number":55,
+"bookId":"gm",
+"correctAnswer":"E",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7e4203",
+"children":[
+"A 43-year-old man is evaluated for cough. His symptoms started 12 days ago with headache, runny nose, cough, subjective fever, and fatigue. The headache, runny nose, and fever have improved, but the cough has persisted. He reports no shortness of breath. Medical history is significant for major depressive disorder treated with fluoxetine."
+]
+},
+{
+"type":"p",
+"hlId":"d9067f",
+"children":[
+"On physical examination, temperature is 37.4 °C (99.4 °F), blood pressure is 128/89 mm Hg, and respiration rate is 16/min. The oropharynx is clear and without exudates. Lungs are clear bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"679f63",
+"children":[
+"Testing for SARS-CoV-2 is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Albuterol inhaler"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Dextromethorphan"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Education and reassurance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"92d7e2",
+"hvc":true,
+"children":[
+"The mainstay of treatment of acute cough due to bronchitis is patient education and reassurance that the cough usually resolves in 2 to 3 weeks."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"24d0df",
+"children":[
+"The most appropriate next step in management of this patient with symptoms consistent with acute bronchitis is education and reassurance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Acute cough (<3 weeks' duration) is most often caused by viral infections involving the upper respiratory tract and bronchial airways. Coronaviruses and rhinoviruses are the most common causative pathogens, but influenza virus should be highly suspected in patients presenting with fever and myalgia, especially during influenza season (between autumn and early spring). Treatment of acute cough is primarily symptomatic and dependent on the underlying etiology. The mainstay of treatment of bronchitis is patient education and reassurance that the cough usually resolves in 2 to 3 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"67f553",
+"children":[
+"The use of albuterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or another β-agonist for acute cough is not associated with a reduction in cough frequency or duration. β-Agonist inhalers can be considered for patients with acute cough and wheezing on physical examination. This patient's cough is unlikely to improve with use of an albuterol inhaler."
+]
+},
+{
+"type":"p",
+"hlId":"7d21ec",
+"children":[
+"Empiric treatment of bronchitis with antibiotics, such as azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is ineffective in most cases; increases bacterial antibiotic resistance; and may cause multiple adverse effects, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" colitis. Antibiotics should be avoided unless pneumonia is probable, and the lack of fever and dyspnea and normal lung examination in this case argue against pneumonia. Patients suspected of having acute bronchitis should be counseled to return if symptoms do not improve; further evaluation and antibiotic therapy should be considered in patients with worsening or persistent symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"125278",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated for the evaluation of acute cough in the absence of abnormal vital signs (heart rate >100/min, respiration rate >24/min, temperature >38 °C [100.4 °F]) or abnormal lung examination findings, unless there are other concerning clinical features (such as altered mental status)."
+]
+},
+{
+"type":"p",
+"hlId":"ee4b9a",
+"children":[
+"Antitussive agents, such as dextromethorphan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), have limited efficacy in treating cough and generally should be avoided in patients who take selective serotonin reuptake inhibitors, particularly fluoxetine, because of the possibility of increased serotonergic effects, including serotonin syndrome. Serotonin syndrome is a hyperthermic reaction triggered by simultaneous use of two or more medications that affect release or reuptake of serotonin; it is usually associated with hyperreflexia and myoclonus."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_1",
+"objective":{
+"__html":"Treat acute cough suggestive of bronchitis."
+},
+"references":[
+[
+"Harris AM, Hicks LA, Qaseem A; High Value Care Task Force of the American College of Physicians and for the Centers for Disease Control and Prevention. Appropriate antibiotic use for acute respiratory tract infection in adults: advice for high-value care from the American College of Physicians and the Centers for Disease Control and Prevention. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-1840",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:425-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26785402",
+"target":"_blank"
+},
+"children":[
+"PMID: 26785402"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":7,
+"B":2,
+"C":15,
+"D":17,
+"E":59
+},
+"hlIds":[
+"7e4203",
+"d9067f",
+"679f63",
+"1a5dcc",
+"92d7e2",
+"24d0df",
+"67f553",
+"7d21ec",
+"125278",
+"ee4b9a"
+]
+}

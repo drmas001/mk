@@ -1,0 +1,244 @@
+{
+"id":"mk19_b_cv_q020",
+"number":20,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0b7217",
+"children":[
+"A 59-year-old woman is evaluated in the emergency department for two episodes of crushing chest pain occurring at rest during the past 24 hours. The last episode occurred 2 hours ago; she is currently pain-free. She has no history of coronary artery disease or heart failure symptoms. History is notable only for hypertension treated with amlodipine; she takes no other medications. Aspirin, intravenous unfractionated heparin, and metoprolol are initiated."
+]
+},
+{
+"type":"p",
+"hlId":"1af5c7",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"a622cd",
+"children":[
+"The initial high-sensitivity cardiac troponin level is normal (<99th percentile upper reference limit)."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f020",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f020"
+]
+},
+{
+"type":"p",
+"hlId":"a5ff7a",
+"children":[
+"The calculated TIMI score is 1."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nitroglycerin infusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tirofiban infusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent coronary angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4fe1ad",
+"children":[
+"In patients with low-risk non–ST-elevation acute coronary syndrome, an ischemia-guided strategy is appropriate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5596c4",
+"children":[
+"Early loading with either clopidogrel or ticagrelor in addition to aspirin is recommended in patients with acute coronary syndrome regardless of either an early invasive strategy or ischemia-guided strategy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8e27ed",
+"children":[
+"Clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate additional management for this patient with probable unstable angina, a form of non–ST-elevation acute coronary syndrome (NSTE-ACS). Early clopidogrel loading has been recommended in patients with ACS regardless of reperfusion or revascularization strategy. In patients presenting with signs and symptoms suggestive of NSTE-ACS, risk assessment is indicated to select the treatment strategy. Several risk criteria and scores are available. The TIMI risk score includes seven independent predictors for death, nonfatal myocardial infarction, or ischemia requiring revascularization at 14 days, with 1 point assigned for each of these predictors: age 65 years or older, three or more coronary artery disease (CAD) risk factors (cholesterol, family history, hypertension, diabetes mellitus, smoking), previously documented CAD (angiographic stenosis >50%), aspirin use in the past 7 days, two or more ischemic episodes in the past 24 hours, ST-segment deviation on ECG, and elevated cardiac biomarkers (creatine kinase-MB or troponin). This patient presents with features consistent with possible ACS but has a TIMI score of 1 and is clinically stable. Low-risk patients undergo noninvasive stress testing with left ventricular function assessment before hospital discharge. Cardiac catheterization is reserved for patients with active or intermittent ischemia, including those with angina despite medical therapy or evidence of ischemia on stress testing, and patients at very high clinical risk based on risk score. The ischemia-guided approach is appropriate for low-risk patients (TIMI score <2), particularly low-risk women, who may have worse outcomes with an early invasive approach."
+]
+},
+{
+"type":"p",
+"hlId":"50a319",
+"children":[
+"Nitrates are used primarily to manage angina symptoms in ACS. Sublingual nitrates should be administered at presentation to relieve chest pain. For patients with persistent chest pain despite β-blockade, intravenous nitroglycerin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can alleviate symptoms, particularly in those with hypertension. This patient does not have chest pain, and nitroglycerin infusion is not needed."
+]
+},
+{
+"type":"p",
+"hlId":"72f04d",
+"children":[
+"If used, intravenous glycoprotein IIb/IIIa inhibitors, such as tirofiban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are generally reserved for use during percutaneous intervention; they should be administered only in the catheterization laboratory because of the lack of benefit and increase in bleeding with upfront administration in the emergency department."
+]
+},
+{
+"type":"p",
+"hlId":"6d3785",
+"children":[
+"Urgent invasive treatment (within 2 hours) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended for patients with NSTE-ACS who have hemodynamic instability, refractory chest pain, heart failure, or ventricular arrhythmias. This patient does not have an indication for urgent coronary angiography."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_3_2",
+"objective":{
+"__html":"Treat non–ST-elevation acute coronary syndrome in a low-risk patient."
+},
+"references":[
+[
+"Anderson JL, Morrow DA. Acute myocardial infarction. N Engl J Med. 2017 May 25;376:2053-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28538121",
+"target":"_blank"
+},
+"children":[
+"PMID: 28538121"
+]
+},
+" doi:10.1056/NEJMra1606915"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":11,
+"C":4,
+"D":42,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f020":{
+"id":"mk19_b_cv_mcq_f020",
+"number":20,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"83c62e935edad74580aeb4432d8db61a",
+"height":348,
+"width":641,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"0b7217",
+"1af5c7",
+"a622cd",
+"4a9f79",
+"a5ff7a",
+"1e31fb",
+"4fe1ad",
+"5596c4",
+"8e27ed",
+"50a319",
+"72f04d",
+"6d3785"
+]
+}

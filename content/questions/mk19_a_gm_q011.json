@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_gm_q011",
+"number":11,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a8fc67",
+"children":[
+"A 67-year-old man is evaluated at hospital discharge after a myocardial infarction. He is an active smoker with a 35-pack-year smoking history. He has never tried to quit smoking but is willing to try now. Medications are metoprolol, lisinopril, rosuvastatin, and aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"6cf02e",
+"children":[
+"The patient is willing to participate in a smoking cessation clinic or use a telephone quit line support and counseling service."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bupropion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nicotine patch"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nortriptyline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Varenicline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"275bd0",
+"children":[
+"Varenicline or combination nicotine replacement therapy is the most appropriate treatment for hospitalized patients with acute coronary syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"adcecd",
+"children":[
+"Varenicline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or combination nicotine replacement therapy (NRT) is the most appropriate treatment for this hospitalized patient with acute coronary syndrome (ACS). Varenicline is a partial nicotinic receptor agonist that has been shown to be more effective as monotherapy for tobacco cessation than either bupropion or nicotine replacement monotherapy. In addition, it is not associated with increased risk for cardiovascular events. Varenicline is one of two first-line treatments recommended for hospitalized patients with ACS by the 2018 American College of Cardiology (ACC) Expert Consensus Decision Pathway on Tobacco Cessation Treatment. Combination NRT, which includes short-acting (e.g., nicotine inhaler) and long-acting (e.g., nicotine patch) forms, is more effective than nicotine replacement monotherapy and is recommended by the ACC as first-line therapy for hospitalized patients with ACS to decrease nicotine cravings. At the time of hospital discharge, either combination NRT or varenicline is recommended; however, the ACC Expert Pathway notes that some committee members would initiate either varenicline or combination NRT during hospitalization. Combining behavioral counseling with pharmacotherapy is more effective than either modality alone. Effective counseling and behavioral resources include problem-solving guidance (such as developing a quit plan and overcoming barriers), motivational interviewing, social support, and telephone quit lines."
+]
+},
+{
+"type":"p",
+"hlId":"c9211d",
+"children":[
+"Bupropion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a norepinephrine and dopamine reuptake inhibitor with nicotinic receptor activity. Evidence is clear that it enhances smoking cessation rates, but bupropion is probably less effective than varenicline and equivalent to nicotine replacement monotherapy. The ACC recommends bupropion as third-line therapy for patients hospitalized with ACS."
+]
+},
+{
+"type":"p",
+"hlId":"f2c681",
+"children":[
+"The nicotine patch (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has efficacy similar to that of bupropion for tobacco cessation. For patients with ACS, the ACC recommends a nicotine patch at the time of hospital discharge as a second-line therapy behind either combination NRT or varenicline."
+]
+},
+{
+"type":"p",
+"hlId":"1839dc",
+"children":[
+"Nortriptyline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not FDA approved for smoking cessation, and there are few data on its use in patients with cardiovascular disease. It is a suggested third-line therapy for patients with stable coronary artery disease but is not recommended for hospitalized patients with ACS."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_5_1",
+"objective":{
+"__html":"Treat nicotine dependence in a patient hospitalized with acute coronary syndrome."
+},
+"references":[
+[
+"Barua RS, Rigotti NA, Benowitz NL, et al. 2018 ACC expert consensus decision pathway on tobacco cessation treatment: a report of the American College of Cardiology Task Force on Clinical Expert Consensus Documents. J Am Coll Cardiol. 2018;72:3332-65. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30527452",
+"target":"_blank"
+},
+"children":[
+"PMID: 30527452"
+]
+},
+" doi:10.1016/j.jacc.2018.10.027"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":32,
+"C":1,
+"D":51,
+"E":0
+},
+"hlIds":[
+"a8fc67",
+"6cf02e",
+"78ff87",
+"275bd0",
+"adcecd",
+"c9211d",
+"f2c681",
+"1839dc"
+]
+}

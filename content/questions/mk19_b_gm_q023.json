@@ -1,0 +1,217 @@
+{
+"id":"mk19_b_gm_q023",
+"number":23,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"04f54e",
+"children":[
+"A 65-year-old man is seen for a preoperative medical evaluation 2 weeks before total left shoulder arthroplasty. Medical history is significant for COPD. He was hospitalized 6 months ago for COPD exacerbation. He reports no changes in cough or sputum production. He has no shortness of breath or fever. Screening for obstructive sleep apnea (OSA) with the STOP-BANG questionnaire categorizes the patient as low risk for OSA. He has a 30–pack-year history of cigarette smoking but quit smoking 6 years ago. Medications are inhaled tiotropium, beclomethasone, and albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"dd1535",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 94% breathing ambient air. There are decreased breath sounds throughout and an increased expiratory phase. Left shoulder range of motion is painful and restricted. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"773920",
+"children":[
+"Which of the following is the most appropriate perioperative pulmonary assessment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Arterial blood gas analysis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Spirometry"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"300484",
+"hvc":true,
+"children":[
+"Patients with COPD should be screened preoperatively for signs and symptoms of COPD exacerbation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"560631",
+"hvc":true,
+"children":[
+"Chest radiography, arterial blood gas analysis, or spirometry is not routinely indicated in the preoperative evaluation of patients with chronic lung disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cfc33f",
+"children":[
+"No further testing is required for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Perioperative pulmonary complications include pneumonia, respiratory failure, and exacerbation of underlying lung disease. There is a limited role for routine perioperative pulmonary testing in patients with COPD. Patients with COPD should be screened preoperatively for signs and symptoms of COPD exacerbation. Patients should also be screened for obstructive sleep apnea, which is associated with adverse perioperative outcomes, including cardiac events, pulmonary complications, and ICU admissions. A validated screening tool for OSA is the 8-item STOP-BANG questionnaire. One point is assigned for each “yes” response about Snoring, Tiredness, Observed apneas, elevated blood Pressure, BMI >35, Age >50 years, Neck circumference >40 cm, and male Gender. Cumulative points determine the risk for OSA: low risk, 0 to 2 points; intermediate risk, 3 to 5 points; high risk, 5 points."
+]
+},
+{
+"type":"p",
+"hlId":"a6cdfd",
+"children":[
+"Evidence for the benefit of preoperative arterial blood gas analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is lacking. The results are rarely helpful in managing patients with stable chronic lung disease or predicting clinical outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"97e2ee",
+"children":[
+"Routine preoperative chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended in patients with chronic lung disease unless clinical examination or history suggests a change in pulmonary status. In only approximately 2% of cases does screening chest radiography lead to changes in perioperative management, and abnormal findings can usually be predicted on the basis of clinical examination. It may be reasonable, but not necessary, to obtain chest radiographs in patients older than 70 years with chronic cardiopulmonary disease if they have not had chest radiography in the previous 6 months. Preoperative chest radiography may be indicated in patients undergoing thoracic or mediastinal surgery, which this patient is not."
+]
+},
+{
+"type":"p",
+"hlId":"1b20b2",
+"children":[
+"Although spirometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may help delineate progression of airflow obstruction due to worsening COPD, results do not change perioperative management in patients such as this one. There is no absolute value of FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" or FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC that precludes surgery, nor do these values help predict perioperative pulmonary complications."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_3_1",
+"objective":{
+"__html":"Perform perioperative pulmonary assessment in a patient with COPD."
+},
+"references":[
+[
+"Miskovic A, Lumb AB. Postoperative pulmonary complications. Br J Anaesth. 2017;118:317-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28186222",
+"target":"_blank"
+},
+"children":[
+"PMID: 28186222"
+]
+},
+" doi:10.1093/bja/aex002"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":14,
+"C":46,
+"D":35,
+"E":0
+},
+"hlIds":[
+"04f54e",
+"dd1535",
+"773920",
+"300484",
+"560631",
+"cfc33f",
+"a6cdfd",
+"97e2ee",
+"1b20b2"
+]
+}

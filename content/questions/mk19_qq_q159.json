@@ -1,0 +1,166 @@
+{
+"id":"mk19_qq_q159",
+"number":159,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 159",
+"stimulus":[
+{
+"type":"p",
+"hlId":"af62b2",
+"children":[
+"A 46-year-old woman is evaluated during follow-up for an unprovoked proximal leg deep venous thrombosis (DVT). The DVT was diagnosed 3 months ago, and anticoagulation therapy initiated at that time. She has tolerated the treatment well, she has no other medical problems, and her risk for bleeding is estimated to be low. Her only medication is rivaroxaban."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue rivaroxaban for another 3 months, then discontinue"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue rivaroxaban now"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Extended anticoagulation therapy with rivaroxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Perform thrombophilia testing now"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fcb481",
+"children":[
+"Extended anticoagulant therapy is recommended in patients with unprovoked proximal leg deep venous thrombosis or pulmonary embolism who have a low or moderate bleeding risk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"809961",
+"children":[
+"Short-term anticoagulant therapy (3-6 months) is suggested for patients with venous thromboembolism associated with a major transient risk factor, those with unprovoked distal leg deep venous thrombosis, and those with unprovoked proximal leg deep venous thrombosis who are at high risk for bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"138413",
+"children":[
+"This patient should be offered extended anticoagulation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Because her venous thromboembolism (VTE) was unprovoked, she is at relatively high risk for recurrence, in the range of 10% in the first year and 5% per year afterward, without anticoagulation. Treatment with full-dose anticoagulation has been shown to decrease this recurrence by about 90%. Based on her history, absence of comorbid conditions, and age, her bleeding risk is low. In addition to risks for recurrence and bleeding, patient preference should also be considered in deciding on long-term anticoagulation. The decision to treat this patient for an extended period is consistent with current guidelines, which suggest extended anticoagulant therapy in patients with unprovoked proximal leg deep venous thrombosis (DVT) or pulmonary embolism who have low or moderate bleeding risk. Guidelines also suggest considering reduced-dose anticoagulation with a direct oral anticoagulant (apixaban or rivaroxaban) when opting for extended anticoagulation therapy. Reevaluation of this indication based on periodic risk/benefit assessments, new clinical study data, and new anticoagulation drug availability is appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"25c4e8",
+"children":[
+"Short-term anticoagulant therapy (3-6 months) is suggested for patients with VTE associated with a major transient risk factor, those with unprovoked distal leg DVT, and those with unprovoked proximal leg DVT who are at high risk for bleeding. Therefore, discontinuing treatment now (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or after another 3 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be the optimal approach for this patient with unprovoked proximal DVT."
+]
+},
+{
+"type":"p",
+"hlId":"c9e3a6",
+"children":[
+"Identification of an inherited thrombophilia often does not change treatment decisions in a patient with VTE, because it does not reliably predict risk for recurrence or influence the duration of recommended anticoagulation; therefore, evidence-based guidelines recommend against routine thrombophilia testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In this patient with an unprovoked proximal DVT, the recommendation for long-term anticoagulation would not be altered by the results of such testing; thus, it would not be helpful. Testing may be indicated, however, in patients with VTE at intermediate risk for recurrence by traditional predictors, in whom finding a strong thrombophilic risk might alter therapeutic decisions. Finally, some tests for thrombophilia are inaccurate in patients receiving anticoagulation treatment, so these studies should be performed when the patient is not taking anticoagulants."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_3",
+"objective":{
+"__html":"Determine the length of anticoagulation therapy in a patient with venous thromboembolism disease."
+},
+"references":[
+[
+"Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: treatment of deep vein thrombosis and pulmonary embolism. Blood Adv. 2020;4:4693-4738. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33007077",
+"target":"_blank"
+},
+"children":[
+"PMID: 33007077"
+]
+},
+" doi:10.1182/bloodadvances.2020001830"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"af62b2",
+"cb2b54",
+"fcb481",
+"809961",
+"138413",
+"25c4e8",
+"c9e3a6"
+]
+}

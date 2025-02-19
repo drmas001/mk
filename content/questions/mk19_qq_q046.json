@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q046",
+"number":46,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7bb03d",
+"children":[
+"A 35-year-old man is evaluated for a 4-month history of snoring and daytime somnolence. His bed partner reports the recent onset of gasping and loud snorting following a period of not breathing."
+]
+},
+{
+"type":"p",
+"hlId":"b3eb45",
+"children":[
+"BMI is 34. Neck circumference is 18 inches. The soft palate is low-lying. Polysomnography discloses an apnea-hypopnea index of 38/hour."
+]
+},
+{
+"type":"p",
+"hlId":"831705",
+"children":[
+"Weight loss is recommended."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bilevel positive airway pressure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continuous positive airway pressure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypoglossal nerve stimulator"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nocturnal oxygen therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5acff1",
+"children":[
+"Obstructive sleep apnea is defined by upper airway narrowing or collapse resulting in cessation (apnea) or reduction (hypopnea) in airflow despite ongoing efforts to breathe."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e510d4",
+"children":[
+"Continuous positive airway pressure should be considered first-line therapy in any patient who has obstructive sleep apnea and associated symptoms, particularly excessive daytime sleepiness."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4cfae8",
+"children":[
+"The most appropriate treatment is continuous positive airway pressure (CPAP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Obstructive sleep apnea (OSA) is defined by upper airway narrowing or collapse resulting in cessation (apnea) or reduction (hypopnea) in airflow despite ongoing efforts to breathe. The severity of OSA is measured using the apnea-hypopnea index (AHI), calculated as the sum of apneas and hypopneas divided by total sleep hours. An AHI of 5 to 15 indicates mild OSA, an AHI of 16 to 30 indicates moderate sleep apnea, and an AHI of more than 30 indicates severe OSA. It is estimated that 24% of men aged 30 to 60 years and 9% of similarly aged women have OSA (AHI of at least 5/hour). CPAP should be considered first-line therapy in any patient who has OSA and associated symptoms, particularly excessive daytime sleepiness. Optimal positive airway pressure therapy may have salutary effects on the cardiovascular diseases associated with OSA. Suboptimal adherence to CPAP is common in clinical practice, and rates of discontinuation are high. Therefore, objective monitoring of use and periodic follow-up are important to ensure adherence."
+]
+},
+{
+"type":"p",
+"hlId":"802680",
+"children":[
+"Bilevel positive airway pressure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), which delivers separate inspiratory and expiratory pressures (the gradient is referred to as pressure support) to augment alveolar ventilation, is not first-line therapy for OSA without a hypoventilation syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"f9748f",
+"children":[
+"A hypoglossal nerve stimulator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") approved for use in OSA has been shown to improve the AHI in some patients. Implanted in the chest wall, it synchronizes with the respiratory cycle to contract the tongue muscles during inspiration. It is expensive, and those patients most likely to benefit from this treatment are yet to be determined."
+]
+},
+{
+"type":"p",
+"hlId":"ff2e85",
+"children":[
+"Nocturnal oxygen therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") alone is inadequate to prevent complications associated with OSA because it does not correct upper airway obstruction, which is the primary problem related to oxygen desaturation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_3_4_2",
+"objective":{
+"__html":"Treat obstructive sleep apnea."
+},
+"references":[
+[
+"Kent D, Stanley J, Aurora RN, et al. Referral of adults with obstructive sleep apnea for surgical consultation: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34351848",
+"target":"_blank"
+},
+"children":[
+"PMID: 34351848"
+]
+},
+" doi:10.5664/jcsm.9592"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"7bb03d",
+"b3eb45",
+"831705",
+"78ff87",
+"5acff1",
+"e510d4",
+"4cfae8",
+"802680",
+"f9748f",
+"ff2e85"
+]
+}

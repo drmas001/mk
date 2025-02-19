@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_gi_q018",
+"number":18,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2e130c",
+"children":[
+"A 47-year-old woman is evaluated at a follow-up appointment. Autoimmune hepatitis was diagnosed 1 year ago when she developed jaundice. Current medications are prednisone and azathioprine. Her liver enzyme levels have been normal for 9 months, and her jaundice has resolved."
+]
+},
+{
+"type":"p",
+"hlId":"566e3d",
+"children":[
+"Vital signs and other physical examination findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue immunosuppressant therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Perform liver biopsy now"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop azathioprine and taper prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop azathioprine, taper prednisone, and perform liver biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cac2dd",
+"children":[
+"The mainstay of treatment of autoimmune hepatitis is immunosuppression with prednisone or a combination of prednisone and azathioprine."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3b7cc3",
+"children":[
+"Because autoimmune hepatitis has a high rate of relapse, therapy is recommended for at least 2 to 3 years before discontinuation of the medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"acb5b0",
+"children":[
+"The most appropriate management is continuation of immunosuppressant therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Autoimmune hepatitis is a chronic, inflammatory liver disease that has variable presentation, from asymptomatic elevation of aminotransferase levels to extrahepatic symptoms (e.g., myalgia and malaise) to acute liver failure. Diagnosis is based on laboratory test results, including the presence of antinuclear and smooth-muscle antibodies and elevated IgG levels, exclusion of other diagnoses (e.g., Wilson disease, viral hepatitis, and drug-induced liver injury), and liver biopsy. Patients with severe presentations require management by a hepatologist. The mainstay of treatment is immunosuppression. Induction of remission is typically with prednisone or a combination of prednisone and azathioprine. Depending on response, maintenance therapy may consist of prednisone or azathioprine monotherapy or combination therapy. Because of the high rate of relapse, therapy is recommended for at least 2 to 3 years. Biochemical response may occur within 3 to 8 months of treatment in 85% of patients whose disease responds to standard treatment, but histologic response can lag by several months. Therefore, a liver biopsy is recommended to demonstrate absence of active inflammation before cessation of therapy."
+]
+},
+{
+"type":"p",
+"hlId":"5b46bb",
+"children":[
+"If the patient is doing well and aminotransferase levels have normalized, a biopsy is not necessary to monitor therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). A biopsy is typically performed before attempted withdrawal of immunosuppressant therapy to assess risk for relapse. This patient has no indication for biopsy at this time."
+]
+},
+{
+"type":"p",
+"hlId":"03ea01",
+"children":[
+"Normalization of liver test results is insufficient to determine when it is safe to stop therapy. Stopping immunosuppressant therapy before completion of at least 2 years of therapy, regardless of aminotransferase levels, is associated with an increased risk for relapse. Therefore, stopping azathioprine therapy now and tapering prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and stopping azathioprine now, tapering prednisone, and performing a liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are not recommended. Because of the adverse effects of immunosuppressant therapy, indefinite treatment is avoided if possible. Some patients will require indefinite maintenance therapy because of relapsing disease. However, it is too soon to know whether this patient will remain in remission or relapse after discontinuation of immunosuppressant therapy."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_3",
+"objective":{
+"__html":"Treat autoimmune hepatitis."
+},
+"references":[
+[
+"Liwinski T, Schramm C. Autoimmune hepatitis—update on clinical management in 2017. Clin Res Hepatol Gastroenterol. 2017;41:617-625. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28882739",
+"target":"_blank"
+},
+"children":[
+"PMID: 28882739"
+]
+},
+" doi:10.1016/j.clinre.2017.07.002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":14,
+"C":33,
+"D":17,
+"E":0
+},
+"hlIds":[
+"2e130c",
+"566e3d",
+"cb2b54",
+"cac2dd",
+"3b7cc3",
+"acb5b0",
+"5b46bb",
+"03ea01"
+]
+}

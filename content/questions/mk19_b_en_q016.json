@@ -1,0 +1,440 @@
+{
+"id":"mk19_b_en_q016",
+"number":16,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"111577",
+"children":[
+"A 46-year-old woman is evaluated for a 1-year history of progressive diffuse pain in the legs that worsens with weight bearing. She also reports two episodes of acute chest pain after bending followed by chest soreness lasting weeks. She has generalized muscle weakness, a waddling gait, weight loss, and postprandial bloating. She describes no other medical concerns and takes no medications or supplements."
+]
+},
+{
+"type":"p",
+"hlId":"3189fd",
+"children":[
+"On physical examination, the chest and abdomen are tender to palpation over the ribs bilaterally. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0d67d5",
+"class":"cell text l",
+"children":[
+"190 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1a4da4",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"Calcium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8dda40",
+"class":"cell text l",
+"children":[
+"7.8 mg/dL (2.0 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e8394c",
+"class":"cell text l",
+"children":[
+"0.8 mg/dL (70.7 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a4922e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Phosphorus, serum",
+"children":[
+"Phosphorus"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"111424",
+"class":"cell text l",
+"children":[
+"2.4 mg/dL (0.78 mmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"083883",
+"children":[
+"A right rib radiograph shows unhealed rib fractures corresponding to the region of chest soreness. Whole-body bone scan shows increased uptake of technetium throughout the skeleton and foci of intense uptake in the ribs and pubic rami bilaterally."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone metastases"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Osteomalacia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Osteonecrosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Osteoporosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3df0f0",
+"children":[
+"Chronic deficiencies of vitamin D, calcium, or phosphorus lead to osteomalacia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"99b28f",
+"children":[
+"In patients with osteomalacia, a progressive rise in total alkaline phosphatase precedes overt hypocalcemia or hypophosphatemia and is an early indicator that osteomalacia rather than osteoporosis is the cause of low bone mineral density."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a7ffeb",
+"children":[
+"The most likely diagnosis is osteomalacia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Diffuse signs and symptoms of skeletal disease versus an isolated low-energy fracture should raise suspicion for bone disorders other than osteoporosis. In the setting of disorders associated with malabsorption such as celiac disease or gastric bypass surgery, chronic deficiencies of vitamin D, calcium, or phosphorus can lead to osteomalacia, manifesting as impaired skeletal mineralization and low bone mineral density (BMD). Diffuse pain with weight bearing or palpation, especially if accompanied by fractures of ribs and bones of the pelvis and feet, are late presentations of osteomalacia. A progressive rise in total alkaline phosphatase precedes overt hypocalcemia or hypophosphatemia and is an early indicator that low BMD is the result of osteomalacia rather than osteoporosis. Very low levels of 25-hydroxyvitamin D, secondary hyperparathyroidism, and low urine calcium excretion could serve as corroborating evidence that this patient has osteomalacia caused by malabsorption."
+]
+},
+{
+"type":"p",
+"hlId":"3c8aa7",
+"children":[
+"Pathologic fractures caused by osteomalacia and skeletal disease caused by bone metastases (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") both appear as widespread focal uptake on whole-body bone scan. However, generalized increase in tracer uptake in the entire skeleton in addition to the focal “hotspots” is seen with osteomalacia and not with malignancy. Radiography, CT, or MRI examination of areas of concern on bone scan can further distinguish between metastases, insufficiency fractures, and pseudofractures of osteomalacia. Finally, bone metastases are more commonly associated with hypercalcemia, not hypocalcemia."
+]
+},
+{
+"type":"p",
+"hlId":"cf55f3",
+"children":[
+"Osteonecrosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") typically occurs in the shoulders, knees, and hips. It is often bilateral but is not a diffuse disease as reflected in the whole-body bone scan in this patient. Osteonecrosis is not associated with other skeletal or mineral abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"399866",
+"children":[
+"Osteoporosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be present because osteoporosis and osteomalacia can occur concurrently, but the findings on bone scan are indicative of osteomalacia. A bone biopsy would be needed to determine the relative contribution of each to impaired skeletal strength. Osteomalacia is further suggested by improvement in clinical, biochemical, and BMD improvement with treatment of vitamin D deficiency. Vitamin D therapy would result in minimal improvement in BMD if osteoporosis were the primary process."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_4_1",
+"objective":{
+"__html":"Diagnose osteomalacia caused by vitamin D deficiency."
+},
+"references":[
+[
+"Bhan A, Rao AD, Rao DS. Osteomalacia as a result of vitamin D deficiency. Rheum Dis Clin North Am. 2012;38:81-91, viii-ix. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/22525844",
+"target":"_blank"
+},
+"children":[
+"PMID: 22525844"
+]
+},
+" doi:10.1016/j.rdc.2012.03.008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":69,
+"C":2,
+"D":7,
+"E":0
+},
+"hlIds":[
+"111577",
+"3189fd",
+"a462a3",
+"1cc80b",
+"0d67d5",
+"1a4da4",
+"8dda40",
+"f461b2",
+"e8394c",
+"a4922e",
+"111424",
+"083883",
+"413696",
+"3df0f0",
+"99b28f",
+"a7ffeb",
+"3c8aa7",
+"cf55f3",
+"399866"
+]
+}

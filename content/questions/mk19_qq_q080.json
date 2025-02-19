@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q080",
+"number":80,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 80",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e91e54",
+"children":[
+"A 57-year-old man is evaluated during the winter season because of a 9-day history of cough productive of yellow-green sputum. He has also felt feverish and is fatigued. He was treated with antibiotics 1 year ago for similar symptoms. He has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"8ad478",
+"children":[
+"On physical examination, vital signs and pulmonary examination are normal. Testing for SARS-CoV-2 is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oseltamivir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supportive care"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d7c417",
+"children":[
+"Acute bronchitis is a self-limited inflammation of the bronchi due to upper airway infection, typically caused by a viral pathogen; it is typically associated with a cough that lasts from 2 to 3 weeks, mild dyspnea, and sputum production."
+]
+},
+{
+"type":"keypoint",
+"hlId":"781dd2",
+"children":[
+"Acute bronchitis is treated with supportive care; antibiotics are not indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3952e4",
+"children":[
+"The most appropriate management is supportive care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has acute bronchitis, which is a self-limited inflammation of the bronchi due to upper airway infection, typically caused by a viral pathogen. Classic symptoms include cough that lasts from 2 to 3 weeks, mild dyspnea, and sputum production. Findings on examination can include wheezing or rhonchi that are extinguished after coughing. Bronchitis is treated with supportive care. Several studies have shown an absence of benefit and possible harms in treating bronchitis with antibiotics. The presence of purulent sputum cannot be considered indicative of a bacterial etiology or a favorable response to treatment in acute bronchitis. Similarly, the duration of this patient's cough (9 days) does not confirm a bacterial cause, as the typical duration of cough in viral bronchitis is 2 to 3 weeks. This contrasts with the approach in acute rhinosinusitis, in which lack of improvement after 10 days and the presence of purulent nasal discharge suggest a bacterial etiology."
+]
+},
+{
+"type":"p",
+"hlId":"bd67ad",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is useful in evaluating for pneumonia in patients with suggestive signs or symptoms, such as fever, tachypnea, tachycardia, rales, or signs of parenchymal consolidation. This patient's presentation is consistent with bronchitis, and no further evaluation is needed."
+]
+},
+{
+"type":"p",
+"hlId":"eae485",
+"children":[
+"Antibiotic therapy with doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or ampicillin is warranted in ambulatory patients without significant comorbidities with signs of pneumonia (fever, tachypnea, tachycardia, crackles, or parenchymal consolidation. A macrolide such as clarithromycin or azithromycin is also appropriate if local pneumococcal resistance is less than 25%. This patient does not exhibit findings of pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"803fb7",
+"children":[
+"During the winter, influenza causes a self-limiting illness with fever, cough, rhinorrhea, myalgia, and headache in most patients. Treatment with an antiviral agent such as oseltamivir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be considered for otherwise healthy outpatients if started within 48 hours of symptom onset. The cough associated with influenza is typically nonproductive, and the window of therapeutic opportunity for treating influenza in an otherwise healthy person has passed."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_1",
+"objective":{
+"__html":"Treat acute bronchitis."
+},
+"references":[
+[
+"Smith MP, Lown M, Singh S, et al; CHEST Expert Cough Panel. Acute cough due to acute bronchitis in immunocompetent adult outpatients: CHEST Expert Panel report. Chest. 2020;157:1256-1265. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32092323",
+"target":"_blank"
+},
+"children":[
+"PMID: 32092323"
+]
+},
+" doi:10.1016/j.chest.2020.01.044"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"e91e54",
+"8ad478",
+"cb2b54",
+"d7c417",
+"781dd2",
+"3952e4",
+"bd67ad",
+"eae485",
+"803fb7"
+]
+}

@@ -1,0 +1,235 @@
+{
+"id":"mk19_b_pm_q037",
+"number":37,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f04e83",
+"children":[
+"A 57-year-old woman is evaluated for a 4-month history of progressive exertional dyspnea and occasional chest pain and palpitations. She has limited cutaneous systemic sclerosis with Raynaud phenomenon and gastroesophageal reflux disease. Medications are omeprazole and diltiazem."
+]
+},
+{
+"type":"p",
+"hlId":"fc389c",
+"children":[
+"On physical examination, blood pressure is 107/74 mm Hg and pulse rate is 90/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is normal at rest. Characteristic skin findings of limited cutaneous systemic sclerosis are present. New cardiac findings include jugular venous distention, persistent splitting of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and 2/6 systolic murmur at the left lower sternal border that increases with inspiration. Lungs are clear."
+]
+},
+{
+"type":"p",
+"hlId":"7d9293",
+"children":[
+"ECG shows a heart rate of 95/min and is otherwise normal. Chest radiograph is normal. Echocardiography performed 12 months ago was normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography of the chest"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise stress test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary function testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"990edc",
+"children":[
+"Physical examination findings of pulmonary hypertension may include accentuated or persistently split S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", holosystolic tricuspid regurgitant murmur, jugular venous distention, right ventricular heave, hepatomegaly, ascites, and peripheral edema."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aee722",
+"children":[
+"Transthoracic echocardiography is indicated in patients with suspected pulmonary hypertension."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"047e0a",
+"children":[
+"The most appropriate diagnostic test to perform is echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Approximately 10% of patients with systemic sclerosis develop pulmonary arterial hypertension (PAH), a significant cause of morbidity and mortality. Symptoms of pulmonary hypertension (PH) are nonspecific; thus, the average time from symptom onset to diagnosis can exceed 2 years. Symptoms include exertional dyspnea or lightheadedness, lower extremity edema, chest pain, palpitations, and in some cases, syncope. Findings on physical examination frequently include an accentuated or persistently split S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". A holosystolic tricuspid regurgitant murmur, jugular venous distention, a right ventricular heave, hepatomegaly, ascites, and peripheral edema occur in the face of progressive right ventricular failure. Pulmonary findings reflect underlying lung disease when present. If PAH is suspected, transthoracic echocardiography should be pursued. Echocardiography provides an estimation of mean pulmonary artery systolic pressure and assessment of both right and left heart size and function. If the echocardiogram suggests PH, the patient should be referred for further evaluation, including right heart catheterization. In patients with systemic sclerosis, guidelines suggest annual screening with echocardiography for PH."
+]
+},
+{
+"type":"p",
+"hlId":"bca2de",
+"children":[
+"CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be used to evaluate for the presence of acute pulmonary embolism. Since the patient's symptoms are progressive over months, the likelihood of acute pulmonary embolism is very low. CT angiography is not the best initial diagnostic test for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"c47de3",
+"children":[
+"Patients with systemic sclerosis are at increased risk for developing coronary artery disease and interstitial lung disease. In a patient with progressive dyspnea, both diseases should be considered. However, this patient's findings of increased jugular venous distention, persistently split S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and tricuspid regurgitant murmur suggest PAH. The patient's pulmonary examination and chest radiograph are normal. An exercise stress test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or pulmonary function testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be indicated if the patient's echocardiogram is unremarkable, but neither is the best initial choice in light of her physical examination findings."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_1_1",
+"objective":{
+"__html":"Evaluate suspected pulmonary hypertension."
+},
+"references":[
+[
+"Jiang Y, Turk MA, Pope JE. Factors associated with pulmonary arterial hypertension (PAH) in systemic sclerosis (SSc). Autoimmun Rev. 2020;19:102602. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32659476",
+"target":"_blank"
+},
+"children":[
+"PMID: 32659476"
+]
+},
+" doi:10.1016/j.autrev.2020.102602"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":69,
+"C":6,
+"D":16,
+"E":0
+},
+"hlIds":[
+"f04e83",
+"fc389c",
+"7d9293",
+"2eb226",
+"990edc",
+"aee722",
+"047e0a",
+"bca2de",
+"c47de3"
+]
+}

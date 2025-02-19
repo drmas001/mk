@@ -1,0 +1,226 @@
+{
+"id":"mk19_b_pm_q031",
+"number":31,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fc90ab",
+"children":[
+"A 50-year-old woman was admitted to the ICU 24 hours ago for management of acute respiratory distress syndrome due to pneumonia. She is on a mechanical ventilator. She is receiving vasopressors for hypotension. Medications are norepinephrine, fentanyl drip, and propofol drip."
+]
+},
+{
+"type":"p",
+"hlId":"490b7f",
+"children":[
+"On physical examination, vital signs are stable. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 90%, with an F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 0.60, and positive end-expiratory pressure is 12 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. The patient is deeply sedated and unresponsive to physical stimulation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Downward titration of sedation medication"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electroencephalography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Head CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hold sedation and analgesia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dab223",
+"hvc":true,
+"children":[
+"Sedative-analgesic medications can cause excess sedation and may prolong the duration of mechanical ventilation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a66438",
+"hvc":true,
+"children":[
+"For acutely hospitalized patients ventilated for more than 24 hours, guidelines suggest protocols to reduce sedation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"05566a",
+"children":[
+"The most appropriate management is to hold the sedation and analgesia infusions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). For acutely hospitalized patients ventilated for more than 24 hours, guidelines suggest protocols to reduce sedation. Sedative-analgesic medications can cause excess sedation and may prolong the duration of mechanical ventilation. In randomized clinical trials, two strategies have been shown to be effective in reducing the duration of mechanical ventilation and its associated complication. The first strategy consists of intermittent intravenous administration of analgesia without sedatives (analgesia first approach). A second strategy consists of daily interruption of continuous infusion of analgesics and sedatives. Variations of these protocols exist, including targeting light sedation. The optimal strategy is not known, and guidelines offer no preference due to insufficient data, but all have in common periods of time in which the patient is awake. When implemented routinely, protocols that limit sedation or allow spontaneous awakening will decrease the length of mechanical ventilation, ICU stay, and incidence of delirium. In this deeply sedated patient, stopping sedation and analgesics now will allow the fastest decrease in medication levels, thus allowing assessment of the patient."
+]
+},
+{
+"type":"p",
+"hlId":"dd60eb",
+"children":[
+"Titration of sedation medication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will also lead to arousal. However, the time to reach steady state after decreasing the infusion rate of a sedative is prolonged (7 half-lives), thus prolonging the time until an appropriate neurologic examination."
+]
+},
+{
+"type":"p",
+"hlId":"783501",
+"children":[
+"Electroencephalography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") remains a key diagnostic tool for critically ill patients with unexplained altered mental status because the incidence of nonconvulsive seizures has been reported to be as high as 43% in critically ill patients with encephalopathy. But the first step should be to stop the medication effects before initiating other diagnostic evaluations."
+]
+},
+{
+"type":"p",
+"hlId":"b0157c",
+"children":[
+"A head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unlikely to yield any relevant information in this patient. A neurologic examination, for which sedation should be held, should guide the decision to perform any imaging studies."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_1_1",
+"objective":{
+"__html":"Minimize sedation in ventilated patients in the ICU."
+},
+"references":[
+[
+"Ervin JN, Rentes VC, Dibble ER, et al. Evidence-based practices for acute respiratory failure and acute respiratory distress syndrome: A systematic review of reviews. Chest. 2020;158:2381-2393. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32682771",
+"target":"_blank"
+},
+"children":[
+"PMID: 32682771"
+]
+},
+" doi:10.1016/j.chest.2020.06.080"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":77,
+"B":0,
+"C":2,
+"D":22,
+"E":0
+},
+"hlIds":[
+"fc90ab",
+"490b7f",
+"cb2b54",
+"dab223",
+"a66438",
+"05566a",
+"dd60eb",
+"783501",
+"b0157c"
+]
+}

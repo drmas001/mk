@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_np_q005",
+"number":5,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6d1322",
+"children":[
+"A 32-year-old man is evaluated for end-stage kidney disease due to congenital reflux nephropathy. He began hemodialysis at age 21 years. He is on the kidney transplant list. He also has hypertension. Medications are amlodipine, calcitriol, lisinopril, and sevelamer carbonate."
+]
+},
+{
+"type":"p",
+"hlId":"01e4db",
+"children":[
+"On physical examination, vital signs are normal. There is a left upper extremity arteriovenous fistula with strong thrill. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"a00e18",
+"children":[
+"Kidney ultrasound shows small kidneys with multiple cysts bilaterally. A few cysts have internal septations. There are no solid components or evidence of vascular flow within the cysts."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"45fdbd",
+"children":[
+"Which of the following is the most appropriate management of this patient's acquired kidney cysts?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Annual kidney ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bilateral nephrectomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tolvaptan therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9d360a",
+"children":[
+"Patients with end-stage kidney disease are at increased risk for renal cell carcinoma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"dab6a2",
+"children":[
+"Screening for renal cell carcinoma in patients with end-stage kidney disease and acquired cystic kidney disease may be reasonable in patients with a longer life expectancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"31d99d",
+"children":[
+"The most appropriate management of this patient's acquired kidney cysts is annual kidney ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients with end-stage kidney disease (ESKD) are at increased risk for renal cell carcinoma compared with the general population. Acquired cystic changes of the kidney are common in patients with severe chronic kidney disease (CKD) and ESKD and are at risk for malignant transformation. Risk factors for acquired cystic kidney disease include longer duration of ESKD and dialysis and male sex. For patients with ESKD and acquired kidney cysts, decisions about screening must be individualized based on the competing issues of risk for renal cell carcinoma versus a shortened overall life expectancy. This young patient is a kidney transplant candidate with extended life expectancy. His kidney ultrasound confirms the presence of acquired cysts, a few of which are complex with internal septations; however, there is no evidence of malignant change with no solid components or neovascularization. This patient should have annual ultrasonography of the kidneys to monitor for malignant conversion and undergo nephrectomy if a suspicious mass develops."
+]
+},
+{
+"type":"p",
+"hlId":"173437",
+"children":[
+"Preemptive nephrectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an invasive intervention that would put this patient at risk for surgical complications with no clear benefit; he has no evidence of renal cell carcinoma or other indications for nephrectomy, such as recurrent infections related to the kidney."
+]
+},
+{
+"type":"p",
+"hlId":"49f8d0",
+"children":[
+"Tolvaptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been FDA approved for treatment of patients with autosomal dominant polycystic kidney disease. However, there is no role for tolvaptan in patients with acquired kidney cysts."
+]
+},
+{
+"type":"p",
+"hlId":"4c8bbd",
+"children":[
+"For older patients with ESKD and those who are not transplant candidates, screening is not recommended (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), even in the presence of known acquired cystic kidney disease. The American Society of Nephrology's Choosing Wisely Campaign recommends not screening for malignancy in patients with reduced life expectancy. However, because of the increased risk for renal cell carcinoma in this patient population, development of symptoms or signs consistent with renal cell carcinoma should be investigated. For example, spontaneous improvement in hemoglobin is suspicious for renal cell carcinoma–related erythropoietin production."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_3_3",
+"objective":{
+"__html":"Screen for renal cell carcinoma in a patient with acquired cystic kidney disease."
+},
+"references":[
+[
+"Tsuzuki T, Iwata H, Murase Y, et al. Renal tumors in end-stage renal disease: a comprehensive review. Int J Urol. 2018;25:780-786. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30066367",
+"target":"_blank"
+},
+"children":[
+"PMID: 30066367"
+]
+},
+" doi:10.1111/iju.13759"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":3,
+"C":1,
+"D":56,
+"E":0
+},
+"hlIds":[
+"6d1322",
+"01e4db",
+"a00e18",
+"45fdbd",
+"9d360a",
+"dab6a2",
+"31d99d",
+"173437",
+"49f8d0",
+"4c8bbd"
+]
+}

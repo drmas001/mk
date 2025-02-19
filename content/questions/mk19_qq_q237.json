@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q237",
+"number":237,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 237",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d79b9a",
+"children":[
+"A 34-year-old woman is evaluated in the office for new-onset fever, diffuse rash, and worsening joint pain. She has rheumatoid arthritis. Medications are methotrexate and rituximab; her second infusion of rituximab was 7 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"e551d0",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F). Purpura is present over the trunk and extremities. Symmetrical polyarticular synovial swelling, erythema, and warmth of the small joints of the hands and feet are present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anaphylaxis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Drug-induced hypersensitivity syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Infusion reaction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum sickness"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e6cc4e",
+"children":[
+"Serum sickness is a type III hypersensitivity reaction mediated by complement-fixing antibodies against an immunogenic region of an external agent, usually a foreign protein or drug."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f7b8ee",
+"children":[
+"The typical presentation of serum sickness is the triad of fever, rash, and arthritis that occurs 7 to 14 days after exposure to an inciting agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1f3359",
+"children":[
+"Serum sickness (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") induced by rituximab is the most likely diagnosis in this patient with new onset of fever, rash, and worsening rheumatoid arthritis. Serum sickness may mimic exacerbation of various rheumatologic conditions. It is a type III hypersensitivity reaction mediated by complement-fixing antibodies against an immunogenic region of an external agent, usually a foreign protein or drug. Agents that may provoke a serum sickness–type reaction are antivenoms, antitoxins, streptokinase, several monoclonal antibodies (rituximab, infliximab), rabies vaccine, and insect venom. Similar reactions have been reported with the use of cefaclor, penicillins, and trimethoprim-sulfamethoxazole. Typical symptoms are a triad of fever, rash, and arthritis that occurs 7 to 14 days after exposure, such as in this patient. Other manifestations include glomerulonephritis, elevated inflammatory markers, and hypocomplementemia. It is vital to recognize the diagnosis of serum sickness because readministration of the inciting protein/medication often leads to a more severe reaction. Treatment with systemic glucocorticoids is generally very effective at resolving a serum sickness reaction. This patient should not be rechallenged; the medication should be discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"421b18",
+"children":[
+"Anaphylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a severe reaction caused by acute mediator release into the circulation, usually triggered by IgE-linked immunologic responses to specific foods, medications, insect venom, latex, or other antigens, but sometimes occurring without an allergic trigger. The mediator release results in various clinical manifestations, including pruritus, hypotension, and tissue swelling (known as angioedema) caused by capillary leak from widespread inflammatory mediator release. Onset of symptoms may be immediately after antigen exposure or delayed, sometimes for hours or even days, although more rapid onset usually signals a more severe reaction. Fever and joint pain are not part of the presentation."
+]
+},
+{
+"type":"p",
+"hlId":"ccab25",
+"children":[
+"Drug-induced hypersensitivity syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a severe life-threatening medication reaction. Unlike other medication reactions, the onset of symptoms is delayed, often by 2 to 6 weeks, from the time of exposure. Patients begin with fever and flulike symptoms, which are quickly followed by burning skin pain and rash. Patients typically develop a morbilliform exanthem that starts on the face and upper trunk and spreads distally. Eventually patients develop striking facial edema and redness, a hallmark of this condition. The patient's presentation of symptoms 7 days following rituximab infusion, purpura, and joint pain is not compatible with drug hypersensitivity syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"c1944f",
+"children":[
+"In contrast to serum sickness, medication-related infusion reactions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), such as fever, rash, myalgia, and hypotension, occur immediately during administration of the drug and are likely related to mast cell degranulation with complement activation rather than antidrug antibodies. The time course in this patient makes an infusion reaction unlikely."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s3_4_2_2",
+"objective":{
+"__html":"Diagnose serum sickness."
+},
+"references":[
+[
+"McNamara K, Hughes OB, Strowd LC. Cutaneous drug eruptions including serum sickness-like reaction, symmetrical drug-related intertriginous and flexural exanthema, and drug-induced lupus. Clin Dermatol. 2020;38:641-647. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33341198",
+"target":"_blank"
+},
+"children":[
+"PMID: 33341198"
+]
+},
+" doi:10.1016/j.clindermatol.2020.06.013"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d79b9a",
+"e551d0",
+"413696",
+"e6cc4e",
+"f7b8ee",
+"1f3359",
+"421b18",
+"ccab25",
+"c1944f"
+]
+}

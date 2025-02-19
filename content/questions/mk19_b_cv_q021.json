@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_cv_q021",
+"number":21,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"65fb63",
+"children":[
+"A 68-year-old man is evaluated for a 6-month history of intermittent claudication. His symptoms have been slowly progressive but are not life limiting. Medical history is significant for hypertension, hyperlipidemia, and carotid artery stenosis treated with left carotid endarterectomy. He is a former smoker but quit 10 years ago. Medications are low-dose aspirin, high-intensity rosuvastatin, and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"60317b",
+"children":[
+"On physical examination, vital signs are normal. The dorsalis pedis and posterior tibialis pulses are diminished bilaterally. Bilateral femoral bruits and carotid bruits are noted. Ankle-brachial index measurements confirm the diagnosis of bilateral lower extremity peripheral artery disease."
+]
+},
+{
+"type":"p",
+"hlId":"8fced4",
+"children":[
+"Laboratory studies reveal a serum LDL cholesterol level of 56 mg/dL (1.45 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"f9f2b3",
+"children":[
+"The patient is enrolled in a supervised exercise program."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9ae783",
+"children":[
+"Which of the following is the most appropriate treatment to reduce this patient's cardiovascular risk?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cilostazol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ezetimibe"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripheral artery bypass surgery"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivaroxaban"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Ticagrelor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"641541",
+"children":[
+"In patients with peripheral artery disease, antithrombotic therapy with very low-dose rivaroxaban plus aspirin reduces the occurrence of cardiovascular death, myocardial infarction, or stroke by 2% and increases the risk for major bleeding by 1%."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9a8419",
+"children":[
+"No study has demonstrated the benefit of intensifying lipid management when the LDL cholesterol level is below 70 mg/dL (1.81 mmol/L)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"89ce7a",
+"children":[
+"The most appropriate treatment to reduce cardiovascular risk in this patient is to initiate very low-dose rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In a randomized trial, the addition of very low-dose rivaroxaban (2.5 mg twice daily) to aspirin (81 mg daily) was shown to reduce the occurrence of cardiovascular death, myocardial infarction, or stroke in patients with peripheral artery disease (PAD). The absolute risk reduction, when compared with aspirin alone, was 2% in 7470 patients enrolled with either lower extremity PAD or carotid stenosis. Major bleeding, primarily gastrointestinal bleeding, was increased by 1% in patients assigned to aspirin plus rivaroxaban. Thus, low-dose rivaroxaban should be avoided in patients with PAD who have a higher risk for bleeding. It should be noted that use of rivaroxaban in patients with PAD is at odds with the 2016 American Heart Association/American College of Cardiology (AHA/ACC) PAD guideline, which recommends against anticoagulation to reduce the risk for cardiovascular events in patients with PAD due to lack of benefit and increased risk for harm from major bleeding events, including intracranial bleeding. The studies that informed the AHA/ACC recommendation used warfarin as the anticoagulant."
+]
+},
+{
+"type":"p",
+"hlId":"7eb8f3",
+"children":[
+"Cilostazol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a phosphodiesterase inhibitor with antiplatelet and vasodilator activity, has been associated with improvements in pain-free walking distance and overall walking distance in patients with claudication. Cilostazol should be considered in this patient in addition to supervised exercise therapy; however, it will not reduce this patient's cardiovascular risk."
+]
+},
+{
+"type":"p",
+"hlId":"8baeb6",
+"children":[
+"No study has demonstrated the benefit of intensifying lipid management, such as with the initiation of ezetimibe (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), when the LDL cholesterol level is below 70 mg/dL (1.81 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"e6bb3a",
+"children":[
+"Revascularization, such as with peripheral artery bypass surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), improves symptoms, increases functional capacity, and improves wound healing (when applicable) in patients with intermittent claudication or critical limb ischemia when standard measures, such as exercise training, cilostazol, and/or wound treatment, are inadequate. Peripheral artery bypass surgery is not appropriate for this patient without life-limiting symptoms and would not reduce his cardiovascular risk."
+]
+},
+{
+"type":"p",
+"hlId":"9af377",
+"children":[
+"In the EUCLID study of patients with symptomatic PAD, ticagrelor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") was not associated with improved prevention of cardiovascular death, myocardial infarction, or ischemic stroke when compared with clopidogrel; it does not have a role in the management of patients with PAD for cardiovascular risk reduction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_4_1_1",
+"objective":{
+"__html":"Reduce cardiovascular risk in a patient with peripheral artery disease with very low-dose rivaroxaban therapy."
+},
+"references":[
+[
+"Anand SS, Bosch J, Eikelboom JW, et al; COMPASS Investigators. Rivaroxaban with or without aspirin in patients with stable peripheral or carotid artery disease: an international, randomised, double-blind, placebo-controlled trial. Lancet. 2018;391:219-229. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29132880",
+"target":"_blank"
+},
+"children":[
+"PMID: 29132880"
+]
+},
+" doi:10.1016/S0140-6736(17)32409-1"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":11,
+"C":11,
+"D":17,
+"E":26
+},
+"hlIds":[
+"65fb63",
+"60317b",
+"8fced4",
+"f9f2b3",
+"9ae783",
+"641541",
+"9a8419",
+"89ce7a",
+"7eb8f3",
+"8baeb6",
+"e6bb3a",
+"9af377"
+]
+}

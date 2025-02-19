@@ -1,0 +1,578 @@
+{
+"id":"mk19_a_id_q047",
+"number":47,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a77c19",
+"children":[
+"A 38-year-old man is evaluated in the emergency department for a 3-day history of daily fevers up to 39.4 °C (103 °F), headaches, myalgia, arthralgia, back pain, and nausea. Symptoms began 5 days after returning from a vacation in Ecuador, during which he spent time hiking in the forest."
+]
+},
+{
+"type":"p",
+"hlId":"cb004a",
+"children":[
+"On physical examination, temperature is 39.4 °C (102.9 °F); other vital signs are normal. He has petechial lesions on the distal right arm after a blood pressure measurement was taken on that arm. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1fae6",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"Hematocrit"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8288db",
+"class":"cell text l",
+"children":[
+"41%"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1c658c",
+"class":"cell text l",
+"children":[
+"2850/µL (2.9 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2269d3",
+"class":"cell text l",
+"children":[
+"82,000/µL (82 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0c8a71",
+"class":"cell text l",
+"children":[
+"192 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6b6ff0",
+"class":"cell text l",
+"children":[
+"176 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9be6be",
+"class":"cell text l",
+"children":[
+"1.4 mg/dL (124 µmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chikungunya virus infection"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dengue virus infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Leptospirosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Typhoid (enteric) fever"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8ba729",
+"children":[
+"Dengue virus infection is the most common cause of fever in travelers returning from South America."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ffbf19",
+"children":[
+"Dengue infection manifests with the abrupt onset of high fever, headache, retro-orbital pain, myalgia, arthralgia, and lower back pain (break-bone fever); a positive tourniquet test is characteristic."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49f7f5",
+"children":[
+"This man has a typical presentation of dengue virus infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This flavivirus is endemic in South and Central America (and the Caribbean, the Pacific Islands, Southeast Asia, and parts of Africa). It is transmitted by the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aedes"
+]
+},
+" mosquito species and is the most common cause of fever in travelers returning from South America. Incubation ranges from a few days to 2 weeks, after which symptomatic illness manifests with the abrupt onset of high fever, headache, retro-orbital pain, myalgia, arthralgia, and lower back pain. The development of petechiae after deflating a blood pressure cuff (positive tourniquet test) is characteristic. Fever usually abates after a few days and then mildly returns (saddleback pattern), frequently accompanied by a maculopapular rash. Leukopenia, thrombocytopenia, and elevated hepatic aminotransferase levels are frequent laboratory findings."
+]
+},
+{
+"type":"p",
+"hlId":"38d47c",
+"children":[
+"Chikungunya (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is also spread by the bite of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aedes"
+]
+},
+" mosquito. Symptomatic infection is uncommon, but disease signs and symptoms closely mimic those of dengue fever. However, severe joint pain, often involving the hands and feet, and relapsing arthralgia/arthritis are distinguishing features."
+]
+},
+{
+"type":"p",
+"hlId":"6224c1",
+"children":[
+"Leptospirosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is caused by a spirochetal bacterium excreted in the urine of infected animals, mainly rodents. Human illness occurs after direct contact with rodent urine or the ingestion of contaminated food or water. The clinical presentation ranges from a self-limited biphasic febrile illness to a more severe form of infection, known as Weil disease. Liver, kidney, pulmonary, or multisystem failure may occur. Conjunctival erythema and pain in the lower back and calf muscles are characteristic."
+]
+},
+{
+"type":"p",
+"hlId":"04f3bf",
+"children":[
+"Most typhoid fever (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") diagnosed in the United States occurs in persons who have recently traveled to South and Southeast Asia. The incubation period is 1 to 2 weeks, and fever presents more slowly and is more progressive and longer lasting than in arbovirus infections. Gastrointestinal symptoms are common, ranging from diarrhea to constipation. A delayed rash arises on the chest or abdomen in about 20% of patients."
+]
+}
+],
+"relatedSection":"mk19_a_id_s14_5",
+"objective":{
+"__html":"Diagnose dengue virus infection."
+},
+"references":[
+[
+"Muller DA, Depelsenaire AC, Young PR. Clinical and laboratory diagnosis of dengue virus infection. J Infect Dis. 2017;215:S89-S95. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28403441",
+"target":"_blank"
+},
+"children":[
+"PMID: 28403441"
+]
+},
+" doi:10.1093/infdis/jiw649"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":64,
+"C":12,
+"D":1,
+"E":0
+},
+"hlIds":[
+"a77c19",
+"cb004a",
+"a462a3",
+"f1fae6",
+"8288db",
+"2989c0",
+"1c658c",
+"fcac73",
+"2269d3",
+"62ea29",
+"0c8a71",
+"c7d329",
+"6b6ff0",
+"f461b2",
+"9be6be",
+"413696",
+"8ba729",
+"ffbf19",
+"49f7f5",
+"38d47c",
+"6224c1",
+"04f3bf"
+]
+}

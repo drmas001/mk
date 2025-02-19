@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q004",
+"number":4,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"01939a",
+"children":[
+"A 72-year-old man is evaluated in the emergency department for decreasing responsiveness after he spent the day at the zoo. The outside temperature was 38.9 °C (102.0 °F). He also has hypertension. Medications are hydrochlorothiazide and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"026e9d",
+"children":[
+"On physical examination, temperature is 40.5 °C (104.9 °F), blood pressure is 97/54 mm Hg, pulse rate is 117/min, respiration rate is 22/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. He is somnolent. His skin is flushed, warm, and dry. Other than tachycardia, cardiac and pulmonary examinations are normal."
+]
+},
+{
+"type":"p",
+"hlId":"bc86ce",
+"children":[
+"Laboratory results are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dantrolene"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Evaporative cooling"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Immersion in ice water"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"01a489",
+"children":[
+"Treatment of nonexertional heat stroke includes evaporative cooling (with water mist and fans) with or without ice packs to lower the core temperature to a safe temperature, usually 38.5 °C (101.3 °F)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d01d1c",
+"children":[
+"In older persons with nonexertional hyperthermia, ice water immersion is associated with increased mortality and should not be used."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ff7006",
+"children":[
+"The most appropriate treatment is evaporative cooling with water mist, fans, and ice packs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Heat stroke is a failure of the body's thermal regulatory system caused by dysfunction, as in elderly patients taking anticholinergic medications; volume depletion (diuretics, insensible water loss); or overwhelming of the system, as in athletes or military recruits who train strenuously in hot, humid weather. They may also experience hypotension, nausea, and muscle weakness. This patient has nonexertional heat stroke. It is generally defined by a core body temperature above 40 °C (104.0 °F) along with encephalopathy. Additional complications of heat stroke can include kidney and liver injury, disseminated intravascular coagulation, and rhabdomyolysis. The elderly are particularly vulnerable, with added risk from comorbidities and medications. If untreated, mortality in heat stroke can reach 60%. Treatment of nonexertional heat stroke includes evaporative cooling (with water mist and fans) with or without ice packs to lower the core temperature to a safe temperature, usually 38.5 °C (101.3 °F). Evaporative cooling is effective, noninvasive, and easily performed, and does not interfere with other aspects of patient care. It is associated with decreased morbidity and mortality when used to treat elderly patients with classic heat stroke."
+]
+},
+{
+"type":"p",
+"hlId":"79f06c",
+"children":[
+"Centrally acting antipyretics such as acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are not effective for heat stroke because the underlying mechanism does not involve a change in the hypothalamic set point. Furthermore, acetaminophen may exacerbate complications such as hepatic injury and should be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"a61040",
+"children":[
+"Malignant hyperthermia is a rare cause of severe hyperthermia in response to inhaled anesthetic agents (e.g., halothane and isoflurane) or depolarizing paralytic agents (e.g., succinylcholine) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). When a patient with inherited susceptibility is exposed to one of these agents, he or she may develop muscle rigidity, rhabdomyolysis, cardiac arrhythmias, and core body temperature elevation to 45.0 °C (113.0 °F) or more. Mortality can reach 10%. Treatment consists of discontinuing the triggering agent, active cooling, and administration of the muscle relaxant dantrolene every 5 to 10 minutes until muscle rigidity and hyperthermia resolve. Dantrolene is ineffective in patients with severe temperature elevation not caused by malignant hyperthermia."
+]
+},
+{
+"type":"p",
+"hlId":"75539c",
+"children":[
+"Immersion in ice water (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be necessary in young persons with exertional heat stroke when they remain severely symptomatic despite evaporative cooling, but it is not first-line therapy because it may be complicated by hypothermia. In older persons with nonexertional hyperthermia, ice water immersion is associated with increased mortality and should not be used."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_1",
+"objective":{
+"__html":"Treat nonexertional heat stroke."
+},
+"references":[
+[
+"Epstein Y, Yanovich R. Heatstroke. N Engl J Med. 2019;380:2449-2459. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31216400",
+"target":"_blank"
+},
+"children":[
+"PMID: 31216400"
+]
+},
+" doi:10.1056/NEJMra1810762"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":8,
+"C":71,
+"D":17,
+"E":0
+},
+"hlIds":[
+"01939a",
+"026e9d",
+"bc86ce",
+"1054f1",
+"01a489",
+"d01d1c",
+"ff7006",
+"79f06c",
+"a61040",
+"75539c"
+]
+}

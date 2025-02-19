@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q035",
+"number":35,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ddce37",
+"children":[
+"An 84-year-old man living in a nursing home is evaluated in the emergency department for recent onset of unresponsiveness and fever. He has Alzheimer dementia."
+]
+},
+{
+"type":"p",
+"hlId":"cc7bc7",
+"children":[
+"On physical examination, temperature is 39.3 °C (102.7 °F), blood pressure is 88/50 mm Hg, pulse rate is 106/min, and respiration rate is 18/min. Oxygen saturation is 95% with the patient breathing ambient air. The patient is responsive only to physical stimuli. Cardiopulmonary examination reveals normal heart and lung sounds. Abdominal examination is normal. A 6 × 6 cm necrotic sacral decubitus wound is present."
+]
+},
+{
+"type":"p",
+"hlId":"e347de",
+"children":[
+"Laboratory data are pending. Blood cultures are obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"03c572",
+"children":[
+"Which of the following is the most appropriate resuscitative treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"5% albumin solution"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"150 mEq bicarbonate in 5% dextrose"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hydroxyethyl starch"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lactated Ringer solution"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b14de8",
+"children":[
+"Sepsis and septic shock are medical emergencies, and fluid resuscitation should begin immediately."
+]
+},
+{
+"type":"keypoint",
+"hlId":"701000",
+"children":[
+"Guidelines recommend that in the resuscitation from sepsis-induced hypoperfusion, at least 30 mL/kg of intravenous crystalloid fluid be given within the first 3 hours."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0cdf64",
+"children":[
+"The most appropriate resuscitative treatment for this patient is lactated Ringer solution (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient most likely has sepsis or septic shock based on a source of infection, fever, hypotension, tachycardia, and altered mentation. Sepsis and septic shock are medical emergencies, and treatment with fluid resuscitation begins immediately. Guidelines recommend that in the resuscitation from sepsis-induced hypoperfusion, at least 30 mL/kg of intravenous crystalloid fluid be given within the first 3 hours with a balanced crystalloid solution such as lactated Ringer solution rather than 0.9% saline. A large 2018 clinical trial demonstrated that among critically ill adults, the use of a balanced crystalloid solution for intravenous fluid administration resulted in a lower rate of the composite outcome of death from any cause, new renal replacement therapy, or persistent renal dysfunction than the use of 0.9% saline, with an absolute difference of 1.1%."
+]
+},
+{
+"type":"p",
+"hlId":"0e0d2c",
+"children":[
+"Three large trials have evaluated the benefits of albumin administration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") compared with crystalloid solutions. Although prespecified subgroup analyses in two of the trials initially suggested that albumin may improve survival over crystalloids in patients with septic shock, more recent meta-analyses suggest otherwise. Because albumin is significantly more expensive than crystalloid solutions, it is not recommended for routine use in resuscitation of patients with septic shock. Intravenous albumin may be considered in patients requiring large volumes of intravenous fluid during resuscitation."
+]
+},
+{
+"type":"p",
+"hlId":"ea5398",
+"children":[
+"Bicarbonate solutions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are not recommended as a standard part of sepsis or septic shock resuscitation and would not benefit this patient. Even in patients with an increased anion gap acidosis, administration of bicarbonate solution is not associated with improved outcomes and can have adverse effects such as hypocalcemia, hypercapnia, and QT prolongation."
+]
+},
+{
+"type":"p",
+"hlId":"d54c93",
+"children":[
+"Guidelines recommend against using hydroxyethyl starches (HESs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for intravascular volume replacement in patients with sepsis or septic shock due to a lack of data showing superiority to crystalloid solutions and safety concerns. A network meta-analysis focused on acute resuscitation of patients with sepsis or septic shock found that HESs resulted in a higher risk of death and need for renal replacement therapy compared with crystalloids."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_2_1",
+"objective":{
+"__html":"Treat sepsis with a balanced crystalloid solution."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":2,
+"D":94,
+"E":0
+},
+"hlIds":[
+"ddce37",
+"cc7bc7",
+"e347de",
+"03c572",
+"b14de8",
+"701000",
+"0cdf64",
+"0e0d2c",
+"ea5398",
+"d54c93"
+]
+}

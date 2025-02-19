@@ -1,0 +1,181 @@
+{
+"id":"mk19_b_gm_q093",
+"number":93,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"32719e",
+"children":[
+"A randomized controlled screening trial for prostate cancer is reviewed. Men who were screened with a prostate-specific antigen blood test were compared with men who were not screened. Results were analyzed according to their original group assignment. Approximately 1.3 deaths from prostate cancer were prevented over 13 years per 1000 men screened. Overall mortality was not reduced by screening. Men in the screened population were more likely to undergo repeated biopsies and report higher levels of anxiety, and they had greater rates of infection and bleeding complications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ea071f",
+"children":[
+"Which of the following is most likely responsible for these results?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Classifying outcomes by overall mortality"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lead-time bias"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Overdiagnosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Selection bias"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ccb3f8",
+"hvc":true,
+"children":[
+"Overdiagnosis is finding and treating illness that otherwise would not have become clinically apparent or caused harm in the patient's lifetime and is often associated with patient harm."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aae5e9",
+"hvc":true,
+"children":[
+"Lead-time bias occurs when early detection artificially results in an increase in measured survival."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d5c388",
+"children":[
+"Overdiagnosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is most likely responsible for the small reduction in cancer-related deaths and increase in harm. Length-time bias occurs when screening detects more cases of disease with a prolonged asymptomatic phase than aggressive cases of disease with a short asymptomatic phase. Slowly progressive disease is more likely than aggressive disease to be detected with screening, leading to an overestimation of survival benefit in patients with screen-detected disease. Overdiagnosis, or finding and treating illness that otherwise would not have become clinically apparent or caused harm in the patient's lifetime, is an extreme example of length-time bias. Overdiagnosis not uncommonly leads to harm due to overtesting and unnecessary treatments."
+]
+},
+{
+"type":"p",
+"hlId":"971bc8",
+"children":[
+"All-cause mortality (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") rather than cancer-specific mortality has been proposed as a preferable end point in randomized controlled trials on the basis of possible biases in assignment of cause of death. Misassignment can falsely elevate or decrease cancer-related deaths. All-cause mortality is a less ambiguous assignment and reduces bias and does not account for the results of this study."
+]
+},
+{
+"type":"p",
+"hlId":"c73226",
+"children":[
+"Lead-time bias (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") occurs when early detection artificially results in an increase in measured survival. The time between early detection and clinical diagnosis is mistakenly counted as survival time; however, only the measured time with diagnosed disease, not survival time, has increased. Using mortality rates rather than survival time as the primary outcome in studies of screening tests in randomized controlled trials can help minimize lead-time bias. This randomized controlled trial used a specific disease-related end point as well as overall mortality. The risk for lead-time bias is low in this study and cannot account for the results."
+]
+},
+{
+"type":"p",
+"hlId":"ac4615",
+"children":[
+"Selection bias (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") occurs when patients who undergo screening tests are healthier and more interested in their health than the general population. Intention-to-treat analyses, in which patients are analyzed according to their original group assignment in randomized clinical trials regardless of intervention received, reduce the risk for selection bias. Participants in this study were randomized into the two arms of the study and the results were analyzed according to their original group assignment; risk for selection bias was thus reduced, and such bias cannot account for the results."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_1",
+"objective":{
+"__html":"Identify overdiagnosis as a cause of harm due to screening."
+},
+"references":[
+[
+"Berry DA. Failure of researchers, reviewers, editors, and the media to understand flaws in cancer screening studies: application to an article in Cancer. Cancer. 2014;120:2784-91. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24925345",
+"target":"_blank"
+},
+"children":[
+"PMID: 24925345"
+]
+},
+" doi:10.1002/cncr.28795"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":12,
+"B":29,
+"C":44,
+"D":14,
+"E":0
+},
+"hlIds":[
+"32719e",
+"ea071f",
+"ccb3f8",
+"aae5e9",
+"d5c388",
+"971bc8",
+"c73226",
+"ac4615"
+]
+}

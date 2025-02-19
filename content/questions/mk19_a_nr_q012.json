@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_nr_q012",
+"number":12,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cc2b96",
+"children":[
+"A 48-year-old man is evaluated for a 25-year history of headaches that have become increasingly frequent. Headaches previously occurred four to five times per month but now occur 16 to 20 times per month and last 12 to 24 hours. The headaches are bilateral, throbbing, moderate in intensity, aggravated by physical activity, and accompanied by photophobia and phonophobia. He has had no other associated symptoms. The patient takes amitriptyline and sumatriptan for the headaches and has been taking sumatriptan four to five times weekly for the past 3 months."
+]
+},
+{
+"type":"p",
+"hlId":"7063cf",
+"children":[
+"Physical examination findings, including vital signs, are all normal."
+]
+},
+{
+"type":"p",
+"hlId":"d75a31",
+"children":[
+"A brain MRI with contrast is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin butalbital"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin verapamil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue amitriptyline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue sumatriptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"687e9a",
+"hvc":true,
+"children":[
+"Medication overuse headache can result from the use of triptans, ergot alkaloids, opioids, or combination analgesics for 10 or more days per month or simple analgesics for 15 or more days per month."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6b421c",
+"hvc":true,
+"children":[
+"Treatment of medication overuse headache is to wean overused acute medications, initiate migraine preventive medication, and provide new acute medications limited in use to 10 or fewer days per month."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"89e4f0",
+"children":[
+"The most appropriate next step in management is to discontinue sumatriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient has a history of headaches meeting criteria for episodic migraine and has likely now developed medication overuse headache (MOH). MOH is defined as headache occurring on at least 15 days per month in a patient with a pre-existing headache disorder exposed to regular overuse for more than 3 months of one or more drugs taken for acute and/or symptomatic treatment of headache. Use of triptans, ergot alkaloids, opioids, or combination analgesics for 10 or more days per month or simple analgesics for 15 or more days per month constitutes medication overuse. Affected patients often report daily or near-daily headache that is refractory to numerous treatments. MOH is more common in midlife, in women, and in persons with high baseline headache frequency. The development of MOH often coincides with the transformation of episodic forms of migraine or tension-type headache (occurring <15 days per month) into their chronic subtypes (15 or more days monthly). Treatment of MOH is to wean overused acute medications, initiate migraine preventive medication, and provide new acute medications limited in use to 10 or fewer days per month."
+]
+},
+{
+"type":"p",
+"hlId":"5fe287",
+"children":[
+"Guidelines suggest butalbital compounds be avoided in patients with primary headache (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In those with migraine, opioids are associated with a 44% increase and butalbital compounds with a 70% increase in the risk of headache progression. Both medications should be avoided in patients with recurrent primary headache disorders, particularly those already diagnosed with MOH."
+]
+},
+{
+"type":"p",
+"hlId":"7e9c1a",
+"children":[
+"This patient's headache history is compatible with migraine and subsequent development of MOH. There is no evidence that verapamil is helpful in either headache disorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fea4f9",
+"children":[
+"Amitriptyline is indicated for the preventive treatment of migraine; there is no need to discontinue this medication in the setting of MOH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Most preventive options for migraine are rendered less effective or ineffective in the presence of MOH. Resolving MOH often restores the therapeutic benefits of pharmacologic prevention of migraine."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_2_5",
+"objective":{
+"__html":"Treat medication overuse headache."
+},
+"references":[
+[
+"Chen P, Wang S. Medication overuse and medication overuse headache: risk factors, comorbidities, associated burdens and nonpharmacologic and pharmacologic treatment approaches. Curr Pain Headache Rep. 2019;23(8):60. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31346781",
+"target":"_blank"
+},
+"children":[
+"PMID: 31346781"
+]
+},
+" doi:10.1007/s11916-019-0796-7."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":33,
+"C":5,
+"D":57,
+"E":0
+},
+"hlIds":[
+"cc2b96",
+"7063cf",
+"d75a31",
+"765904",
+"687e9a",
+"6b421c",
+"89e4f0",
+"5fe287",
+"7e9c1a",
+"fea4f9"
+]
+}

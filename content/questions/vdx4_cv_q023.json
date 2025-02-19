@@ -1,0 +1,111 @@
+{
+"id":"vdx4_cv_q023",
+"number":23,
+"bookId":"vdx_cv",
+"correctAnswer":"A",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7549ce",
+"children":[
+"A 49-year-old man undergoes ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f023",
+"wrapId":"1",
+"children":[
+"ECG"
+]
+},
+" following reperfusion therapy for an acute myocardial infarction."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f023"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a819d0",
+"children":[
+"Which of the following abnormalities is demonstrated on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Accelerated idioventricular rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Junctional rhythm"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Torsades de pointes"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular tachycardia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"39b23c",
+"children":[
+"This ECG demonstrates an accelerated idioventricular rhythm, which is an escape rhythm arising from the ventricular myocardium. The QRS complexes are wide (as in all ventricular arrhythmias) and fairly regular. An idioventricular rhythm is typically at a rate between 30/min and 40/min but is considered accelerated when the rate is more than 50/min but less than 100/min; the heart rate on this tracing is approximately 90/min. Accelerated idioventricular rhythm, which commonly arises after reperfusion, is generally benign and transient. The slow rate is a major difference between accelerated idioventricular rhythm and ventricular tachycardia."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_2_3",
+"objective":{
+"__html":"Identify an accelerated idioventricular rhythm on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f023":{
+"id":"vdx4_cv_mcq_f023",
+"number":23,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"2690409073eac7ec2333eaf1bf79e4d7",
+"height":333,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7549ce",
+"a819d0",
+"39b23c"
+]
+}

@@ -1,0 +1,193 @@
+{
+"id":"mk19_qq_q154",
+"number":154,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 154",
+"stimulus":[
+{
+"type":"p",
+"hlId":"723e84",
+"children":[
+"A 51-year-old woman is screened for breast cancer. She is healthy and has no breast symptoms or family or personal history of cancer. Previous breast cancer screening demonstrated dense breast tissue and no other abnormalities. Menarche was at age 13 years, and she is now perimenopausal. She gave birth to two children at maternal ages 19 and 24 years."
+]
+},
+{
+"type":"p",
+"hlId":"0e3d0d",
+"children":[
+"Breast examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9226bc",
+"children":[
+"Which of the following is the most appropriate breast cancer screening test for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Breast MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Digital breast tomosynthesis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Digital mammography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Whole breast ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"38b10e",
+"children":[
+"Digital mammography is recommended as the breast cancer screening test for average-risk women with dense breasts."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d7edbf",
+"children":[
+"MRI is not recommended for either primary screening or as a supplemental test for average-risk women with increased breast density."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a46c06",
+"children":[
+"This patient with high breast density should undergo routine digital screening mammography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). High breast density is common, occurring in up to 50% of women. Women with high breast density have an increased risk for breast cancer (relative risk of 1.2 for heterogeneously dense breast tissue, relative risk of 2.1 for extremely dense breast tissue) but not breast cancer–related mortality. High breast density also decreases the sensitivity of film mammography to detect small lesions. Digital mammography has an increased sensitivity for detecting small lesions in dense breasts compared with film mammography; it is therefore the preferred modality for routine screening, if available."
+]
+},
+{
+"type":"p",
+"hlId":"fc8bb7",
+"children":[
+"MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended for either primary screening or as a supplemental test for average-risk women with increased breast density due to a lack of documented effectiveness and a high false-positive rate leading to unnecessary biopsies. However, women with dense breasts and other risk factors that impart a lifetime risk for breast cancer of 20% to 25% or higher, as calculated by models largely dependent on family history, should undergo breast MRI in addition to screening mammography."
+]
+},
+{
+"type":"p",
+"hlId":"4c32ba",
+"children":[
+"Digital breast tomosynthesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), also known as 3-D mammography, uses a moving x-ray source and a digital detector to capture breast images at different angles. A computer algorithm reconstructs the two-dimensional images into a three-dimensional image of the breast. Digital breast tomosynthesis exposes the patient to twice as much radiation as conventional mammography. There are no clinical studies comparing standard mammography to digital breast tomosynthesis, and it is not considered the standard of care for average-risk women with dense breasts."
+]
+},
+{
+"type":"p",
+"hlId":"ea2820",
+"children":[
+"Breast ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended by some organizations as a supplemental test in addition to mammography in women with dense breasts; however, up to 90% of positive results on supplemental ultrasonography are false-positive findings. No prospective trials of breast ultrasonography as a primary screening modality currently exist, and the role of ultrasonography as a supplemental test to mammography has not been clearly defined. It is therefore not recommended as a replacement for digital mammography."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_1",
+"objective":{
+"__html":"Screen for breast cancer in a patient with high breast density."
+},
+"references":[
+[
+"Qaseem A, Lin JS, Mustafa RA, et al; Clinical Guidelines Committee of the American College of Physicians. Screening for breast cancer in average-risk women: a guidance statement from the American College of Physicians. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-2147",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:547-560. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30959525",
+"target":"_blank"
+},
+"children":[
+"PMID: 30959525"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"723e84",
+"0e3d0d",
+"9226bc",
+"38b10e",
+"d7edbf",
+"a46c06",
+"fc8bb7",
+"4c32ba",
+"ea2820"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q022",
+"number":22,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"90daf5",
+"children":[
+"A 66-year-old woman is evaluated for a 6-month history of slowed gait and difficulty lifting her feet off of the ground when she first starts to walk. She becomes incontinent without feeling the urge to urinate. Her family reports that she seems to be thinking more slowly."
+]
+},
+{
+"type":"p",
+"hlId":"d826c2",
+"children":[
+"On physical examination, vital signs are normal. Gait is magnetic, with hesitancy and shuffling."
+]
+},
+{
+"type":"p",
+"hlId":"0ec862",
+"children":[
+"MRI of the brain shows ventriculomegaly in the lateral ventricles and third ventricle. There is no obstruction in the cerebral aqueduct."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"High-volume cerebrospinal fluid removal"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumboperitoneal shunt procedure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Placement of a temporary lumbar drain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventriculoperitoneal shunt procedure"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7269df",
+"children":[
+"The characteristic findings of normal pressure hydrocephalus are gait changes, urinary incontinence, and cognitive impairment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"30f643",
+"children":[
+"In patients with normal pressure hydrocephalus, the most predictive test for improvement with ventricular shunting is gait assessment before and after high volume cerebrospinal fluid removal."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dd147f",
+"children":[
+"The most appropriate next step is removal of a large volume of cerebrospinal fluid (CSF) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") coupled with gait assessment. The patient has signs and symptoms of normal pressure hydrocephalus (NPH) (gait changes, urinary incontinence, and cognitive impairment). Gait impairment, the most prominent feature, is characterized by shuffling short step length and often problems with starting ambulation (hesitation). The feet can appear as though they are stuck to the ground, which is described as a “magnetic” gait. In addition, this patient's MRI of the brain shows communicating (nonobstructive) hydrocephalus. NPH is treated by a ventriculoperitoneal shunt placed by a neurosurgeon. Before treatment is attempted, a test that predicts response to shunting is necessary. This test assesses the patient's gait after removal of 30 to 50 mL of CSF. The patient's walking is timed immediately before and after lumbar puncture. An objective measure of gait improvement is the Timed Up and Go test (TUG), which measures the amount of time necessary to rise from a chair, walk 3 meters, turn, return to the chair, and sit. An improvement in time by more than 5 seconds is predictive of a positive response to CSF shunting."
+]
+},
+{
+"type":"p",
+"hlId":"d7345e",
+"children":[
+"Placement of a lumboperitoneal shunt (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is another surgical option for treatment but should not precede testing for response to shunting."
+]
+},
+{
+"type":"p",
+"hlId":"c29ca4",
+"children":[
+"Gait disturbance is the clinical symptom most amenable to ventricular shunting. The longer cognitive impairment has been present and the more pronounced the memory problem, the less certain is the response to shunting."
+]
+},
+{
+"type":"p",
+"hlId":"562c38",
+"children":[
+"If response to high-volume CSF removal is uncertain, assessment for gait improvement after placement of a lumbar drain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") by a neurosurgeon can be pursued."
+]
+},
+{
+"type":"p",
+"hlId":"937233",
+"children":[
+"CSF diversion through a ventriculoperitoneal shunt (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the definitive treatment of NPH. However, in the absence of a clear response to either high-volume CSF removal or lumbar drainage, a permanent ventricular shunt should not be pursued."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_2_2_1",
+"objective":{
+"__html":"Diagnose normal pressure hydrocephalus."
+},
+"references":[
+[
+"Yamada S, Ishikawa M, Miyajima M, et al. Timed up and go test at tap test and shunt surgery in idiopathic normal pressure hydrocephalus. Neurol Clin Pract. 2017;7:98-108. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29185546",
+"target":"_blank"
+},
+"children":[
+"PMID: 29185546"
+]
+},
+" doi:10.1212/CPJ.0000000000000334"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":49,
+"B":4,
+"C":9,
+"D":38,
+"E":0
+},
+"hlIds":[
+"90daf5",
+"d826c2",
+"0ec862",
+"1a5dcc",
+"7269df",
+"30f643",
+"dd147f",
+"d7345e",
+"c29ca4",
+"562c38",
+"937233"
+]
+}

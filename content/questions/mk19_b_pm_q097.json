@@ -1,0 +1,296 @@
+{
+"id":"mk19_b_pm_q097",
+"number":97,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 97",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6e0e86",
+"children":[
+"A 62-year-old man is evaluated for chronic cough productive of thin clear sputum and dyspnea on exertion that has worsened over the last 2 years. He has a 54-pack-year smoking history. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d44605",
+"children":[
+"On physical examination, vital signs are normal. The patient coughs during the examination, and mild expiratory wheezing is heard over the posterior lung fields. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"a251af",
+"children":[
+"Chest radiograph shows hyperinflated lungs with a flattened diaphragm without infiltrates."
+]
+},
+{
+"type":"p",
+"hlId":"c5c5a9",
+"children":[
+"Spirometry shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.65 and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 52% of predicted without a significant bronchodilator response."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Asthma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bronchiectasis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"COPD"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Desquamative interstitial pneumonia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c7fd64",
+"children":[
+"The possibility of COPD should be considered and spirometry should be performed in patients 40 years of age or older with progressive dyspnea, chronic cough, or chronic sputum production."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e8edad",
+"children":[
+"The diagnosis of COPD is confirmed by an FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio of less than 0.70 without a significant bronchodilator response."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e8ad37",
+"children":[
+"This patient has COPD (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The diagnosis is supported by his significant smoking history combined with his symptoms, imaging, and spirometry findings. The possibility of COPD should be considered and spirometry should be performed in patients 40 years of age or older with progressive dyspnea, chronic cough, or chronic sputum production, particularly in the presence of known risk factors such as smoking."
+]
+},
+{
+"type":"p",
+"hlId":"b23e29",
+"children":[
+"COPD is a common disorder and is associated with high morbidity and mortality. However, the role of screening spirometry in asymptomatic persons with risk factors is controversial. The U.S. Preventive Services Task Force guideline and other guidelines recommend against screening for COPD in asymptomatic adults, whereas the Global Initiative for Chronic Obstructive Lung Disease (GOLD) advocates performing screening spirometry in persons with risk factors for COPD. The diagnosis of COPD is made using spirometric measurement to document airflow obstruction. COPD is confirmed by a postbronchodilator FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio of less than 0.70."
+]
+},
+{
+"type":"p",
+"hlId":"d3186b",
+"children":[
+"Asthma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an inflammatory disorder of the airways characterized by cough, wheezing, chest tightness, dyspnea, and variable airflow obstruction. Confirmation of reversible airflow obstruction is a cornerstone of asthma diagnosis and can be assessed by spirometry, with measurement of forced expiratory volume in 1 second (FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"), forced vital capacity (FVC), and the FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio, or by serial measurement of peak expiratory flow rates. Airway obstruction that improves with bronchodilators, on subsequent measurements, or after 4 weeks of anti-inflammatory treatment supports a diagnosis of asthma. For adults, a significant change in FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" is an increase from baseline of at least 12% and at least 200 mL. This patient does not have evidence of reversible airflow obstruction, excluding the diagnosis of asthma."
+]
+},
+{
+"type":"p",
+"hlId":"3b6dea",
+"children":[
+"Bronchiectasis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be considered in the differential diagnosis of any patient with a chronic cough, especially if the patient has a history of frequent respiratory infections or if the cough is productive of mucopurulent tenacious sputum. Bronchiectasis is diagnosed by high-resolution chest CT. Diagnostic criteria include airway diameter that is greater than that of its accompanying vessel and lack of distal airway tapering. This patient's clinical presentation is not consistent with bronchiectasis."
+]
+},
+{
+"type":"p",
+"hlId":"023f0a",
+"children":[
+"Desquamative interstitial pneumonia (DIP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a smoking-related diffuse parenchymal lung disease. Patients with DIP typically are symptomatic with a dry cough and dyspnea. DIP typically is associated with pure restrictive disease on spirometry. This patient's clinical presentation and spirometry results are not consistent with DIP."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_7",
+"objective":{
+"__html":"Diagnose COPD with spirometry."
+},
+"references":[
+[
+"Celli BR, Wedzicha JA. Update on clinical aspects of chronic obstructive pulmonary disease. N Engl J Med. 2019;381:1257-1266. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31553837",
+"target":"_blank"
+},
+"children":[
+"PMID: 31553837"
+]
+},
+" doi:10.1056/NEJMra1900500"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":7,
+"C":91,
+"D":2,
+"E":0
+},
+"hlIds":[
+"6e0e86",
+"d44605",
+"a251af",
+"c5c5a9",
+"413696",
+"c7fd64",
+"e8edad",
+"e8ad37",
+"b23e29",
+"d3186b",
+"3b6dea",
+"023f0a"
+]
+}

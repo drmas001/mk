@@ -1,0 +1,298 @@
+{
+"id":"mk19_b_rm_q069",
+"number":69,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"95e760",
+"children":[
+"A 50-year-old woman is evaluated for exertional dyspnea of 6 months' duration. Limited cutaneous systemic sclerosis was diagnosed 6 years ago. She reports no other cardiopulmonary symptoms. Other medical problems include sclerodactyly, Raynaud phenomenon, and gastroesophageal reflux disease. Current medications are nifedipine and omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"270b15",
+"children":[
+"On physical examination, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. Other vital signs are normal. Sclerodactyly of the fingers is noted. Telangiectasias are present on the hands and face. Lungs are clear to auscultation. Heart examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"db7427",
+"children":[
+"Twelve months ago, a baseline high-resolution chest CT scan was normal."
+]
+},
+{
+"type":"p",
+"hlId":"2d9005",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" is 96% of predicted, and D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" is 58% of predicted. Twelve months ago, these values were 97% and 75% of predicted, respectively."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat high-resolution chest CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right heart catheterization"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d1dea9",
+"children":[
+"In systemic sclerosis, pulmonary arterial hypertension is typically associated with a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" less than 60% of predicted and is disproportionately low compared with the decrease in lung volumes (FVC/D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" ratio >1.6)"
+]
+},
+{
+"type":"keypoint",
+"hlId":"a63549",
+"children":[
+"In patients with systemic sclerosis, transthoracic echocardiography can estimate pulmonary arterial systolic pressure and assess both right and left heart size and function."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d6bcdd",
+"children":[
+"The most appropriate diagnostic test to perform next is transthoracic echocardiography (TTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Pulmonary arterial hypertension (PAH) occurs in roughly 10% of patients with systemic sclerosis and is more prevalent in the limited form (in this patient, evidenced by distal-only skin involvement). PAH is a major cause of morbidity and mortality. Risk factors include anticentromere antibodies, antibodies to U1 ribonucleoprotein, antiphospholipid antibodies, disease duration greater than 6 years, and telangiectasias. TTE provides an estimation of pulmonary arterial systolic pressure and assessment of both right and left heart size and function. Current recommendations based on expert opinion vary, but PAH screening with pulmonary function tests and TTE at baseline and at the time of development of any new signs or symptoms is reasonable. In addition, most experts obtain pulmonary function tests and TTE annually. PAH is typically associated with a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" that is less than 60% of predicted and is disproportionately low compared with the decrease in lung volumes (FVC/D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" ratio >1.6) or a decrease in D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 20% or greater in 1 year. In this patient, an elevated FVC/D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" ratio (1.66) suggests the possibility of PAH and mandates the need for TTE. Because TTE may be more sensitive than specific, further testing is required if the results indicate possible PAH."
+]
+},
+{
+"type":"p",
+"hlId":"b640fb",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can measure right ventricular mass, and right ventricular hypertrophy can be a clue to the presence of PAH. However, this test is expensive and cannot estimate pulmonary artery pressure. TTE, on the other hand, can be used for that purpose."
+]
+},
+{
+"type":"p",
+"hlId":"b63319",
+"children":[
+"High-resolution CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is most useful to look for underlying interstitial lung disease (which is more prevalent in diffuse than in limited cutaneous systemic sclerosis). However, the normal pulmonary examination, normal FVC, and significantly diminished D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" more strongly suggest PAH and the need for TTE."
+]
+},
+{
+"type":"p",
+"hlId":"2d540e",
+"children":[
+"Right heart catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the gold standard for confirming PAH, but it is invasive and is typically done after noninvasive tests suggest PAH. Right heart catheterization should be performed in most patients with an abnormal TTE result to confirm the diagnosis of PAH and to guide therapy."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s10_3_7",
+"objective":{
+"__html":"Diagnose pulmonary arterial hypertension in a patient with limited cutaneous systemic sclerosis."
+},
+"references":[
+[
+"Sundaram SM, Chung L. An update on systemic sclerosis-associated pulmonary arterial hypertension: a review of the current literature. Curr Rheumatol Rep. 2018;20:10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29488016",
+"target":"_blank"
+},
+"children":[
+"PMID: 29488016"
+]
+},
+" doi:10.1007/s11926-018-0709-5"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":45,
+"C":23,
+"D":30,
+"E":0
+},
+"hlIds":[
+"95e760",
+"270b15",
+"db7427",
+"2d9005",
+"ab9d96",
+"d1dea9",
+"a63549",
+"d6bcdd",
+"b640fb",
+"b63319",
+"2d540e"
+]
+}

@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_id_q025",
+"number":25,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3d9396",
+"children":[
+"A 35-year-old man is evaluated for potential anthrax exposure. He was informed that three coworkers with whom he has had no close contact are being evaluated for suspected cutaneous anthrax. Medical history is notable for a torn Achilles tendon that was repaired 9 months ago. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1b46fc",
+"children":[
+"On physical examination, vital signs are normal, and the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"68dadf",
+"children":[
+"A chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ciprofloxacin and raxibacumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Doxycycline and anthrax vaccination"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Doxycycline, meropenem, and linezolid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Isolation"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ddbc2c",
+"children":[
+"In patients potentially exposed to anthrax spores and without local or systemic infection, prophylaxis with doxycycline or ciprofloxacin plus anthrax immunization should be provided."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4ad256",
+"children":[
+"Initial multidrug antimicrobial therapy with a fluoroquinolone or doxycycline, a second active agent (e.g., penicillin, meropenem, vancomycin), and a protein synthesis inhibitor (e.g., linezolid, clindamycin) is standard treatment of anthrax with systemic manifestations."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"509a71",
+"children":[
+"Doxycycline and anthrax vaccination are the most appropriate management options for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Although he is asymptomatic, it should be assumed that he was intentionally exposed to anthrax spores. Postexposure prophylactic antibiotic therapy must begin immediately after any local or systemic infection has been excluded. Ciprofloxacin and doxycycline are the preferred first-line agents. Doxycycline is the safer choice in this patient, who has a history of tendon repair, because of the association of ciprofloxacin and other fluoroquinolone options (levofloxacin and moxifloxacin) with the risk of tendinopathy. Because antibiotics are only active against vegetative bacilli, they are administered for 60 days, helping to ensure that late germination of spores lying dormant in the lungs and macrophages does not evolve into active disease. Postexposure protocols for anthrax include immunization along with antibiotics. The approved vaccine should be given within 10 days of exposure and is administered subcutaneously on weeks 0, 2, and 4."
+]
+},
+{
+"type":"p",
+"hlId":"335bac",
+"children":[
+"When given early in combination with antibacterial therapy, the toxin-neutralizing human monoclonal antibodies raxibacumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and obiltoxaximab are beneficial in the treatment of systemic anthrax, as is anthrax immune globulin. They are only intended for use in postexposure prophylaxis when alternative preventive therapies are unavailable or inappropriate."
+]
+},
+{
+"type":"p",
+"hlId":"2bf235",
+"children":[
+"Initial multidrug antimicrobial therapy with a fluoroquinolone or doxycycline, a second active agent (e.g., penicillin, meropenem, vancomycin), and a protein synthesis inhibitor (e.g., linezolid, clindamycin) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is standard treatment of anthrax with systemic manifestations. It should also be initially prescribed for patients with nonsevere cutaneous disease when intentional release of anthrax spores is suspected."
+]
+},
+{
+"type":"p",
+"hlId":"cb5be3",
+"children":[
+"Person-to-person transmission of anthrax does not occur, so it is unnecessary for the patient to be isolated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"3a0650",
+"children":[
+"Although he had no direct contact with the ill coworkers, concern for a common covert anthrax exposure is an indication for postexposure prophylaxis. Therefore, clinical observation alone would be inappropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s13_2",
+"objective":{
+"__html":"Prevent anthrax following potential exposure."
+},
+"references":[
+[
+"Hendricks KA, Wright ME, Shadomy SV, et al; Workgroup on Anthrax Clinical Guidelines. Centers for Disease Control and Prevention expert panel meetings on prevention and treatment of anthrax in adults. Emerg Infect Dis. 2014;20. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24447897",
+"target":"_blank"
+},
+"children":[
+"PMID: 24447897"
+]
+},
+" doi:10.3201/eid2002.130687"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":19,
+"C":1,
+"D":8,
+"E":69
+},
+"hlIds":[
+"3d9396",
+"1b46fc",
+"68dadf",
+"cb2b54",
+"ddbc2c",
+"4ad256",
+"509a71",
+"335bac",
+"2bf235",
+"cb5be3",
+"3a0650"
+]
+}

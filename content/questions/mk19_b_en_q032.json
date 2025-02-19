@@ -1,0 +1,201 @@
+{
+"id":"mk19_b_en_q032",
+"number":32,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"44fbe4",
+"children":[
+"A 72-year-old man is evaluated following surgical fixation of a right distal radius fracture after a fall. Dual-energy x-ray absorptiometry (DEXA) scan performed 2 years ago showed low bone mineral density (BMD). Alendronate weekly was initiated after the scan, and he has been adherent to therapy. Review for secondary causes of osteoporosis is negative. DEXA reassessment shows no significant change in BMD."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add calcium and vitamin D supplementation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue alendronate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Order dual-energy x-ray absorptiometry scan of the distal left radius"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Measure serum C-telopeptide of type 1 collagen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2b08c5",
+"hvc":true,
+"children":[
+"An incident fracture during treatment for osteoporosis with bisphosphonates does not always indicate a failure of drug therapy that necessitates a treatment change."
+]
+},
+{
+"type":"keypoint",
+"hlId":"269a3d",
+"hvc":true,
+"children":[
+"Interpretation of changes in bone mineral density should not compare the current T-scores to past T-scores but rather focus on significant changes in percentage of g/cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of bone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"29fd4d",
+"children":[
+"The most appropriate management is to continue alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Because no treatment can eliminate the risk for fractures, an incident fracture does not always indicate a failure of drug therapy and need for change. This patient has not had a significant decrease in the absolute bone mineral density (BMD) that may indicate treatment failure. Furthermore, the beneficial effects of bisphosphonates in fracture prevention are not fully reflected in changes in BMD. Continuing alendronate therapy is the best option."
+]
+},
+{
+"type":"p",
+"hlId":"4607da",
+"children":[
+"Although calcium and vitamin D nutrition are important for bone health, increasing intake with supplements has an inconsistent effect on fracture risk. A recommendation for calcium and vitamin D supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be informed by an estimate of the adequacy of the patient's dietary intake of calcium and vitamin D. It is appropriate to measure vitamin D levels in individuals who are at high risk for deficiency."
+]
+},
+{
+"type":"p",
+"hlId":"6247c6",
+"children":[
+"Despite a lack of evidence, BMD is commonly performed to serve as an indicator of response to osteoporosis treatment. However, BMD response to treatment varies by skeletal site, drug used, and patient-specific clinical context. In a patient with an incident fracture during therapy, some groups recommend reassessment of BMD to detect bone loss caused by treatment nonadherence or secondary causes of osteoporosis. If subsequent testing in a given patient is performed, it must be performed at the same facility using the same machine as the previous study. Reporting should include locally determined least significant change thresholds for each measurement site. Interpretation should not compare current to past T-scores but rather focus on significant change or no change in percentage of g/cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of bone. This patient has an insignificant change in absolute BMD, and further delineation of BMD with a dual-energy x-ray absorptiometry scan of the distal left radius (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated. Further, the distal one-third radius site has the largest measurement precision error; measurement would not enhance discrimination of the significance of changes in BMD in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"4e141c",
+"children":[
+"The failure to suppress bone turnover markers such as crosslinks of type 1 collagen (C-telopeptide and N-telopeptide) has been suggested to reflect treatment failure in osteoporosis. However, limited evidence exists to support routine use of biochemical markers. In addition, fracture healing results in locally increased bone turnover; an increase in C-telopeptide levels in this patient with a recent fracture would not necessarily reflect a lack of antiresorptive treatment effect on the remaining skeleton. Therefore, measurement of serum C-telopeptide of type 1 collagen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an incorrect choice for this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_6_1",
+"objective":{
+"__html":"Manage a patient with osteoporosis and an incident fracture while taking bisphosphonate therapy."
+},
+"references":[
+[
+"Cummings SR, Cosman F, Lewiecki EM, et al. Goal-directed treatment for osteoporosis: a progress report from the ASBMR-NOF Working Group on Goal-Directed Treatment for Osteoporosis. J Bone Miner Res. 2017;32:3-10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27864889",
+"target":"_blank"
+},
+"children":[
+"PMID: 27864889"
+]
+},
+" doi:10.1002/jbmr.3039"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":55,
+"B":22,
+"C":7,
+"D":15,
+"E":0
+},
+"hlIds":[
+"44fbe4",
+"cb2b54",
+"2b08c5",
+"269a3d",
+"29fd4d",
+"4607da",
+"6247c6",
+"4e141c"
+]
+}

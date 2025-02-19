@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_gm_q111",
+"number":111,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 111",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5e7bd8",
+"children":[
+"A 55-year-old woman is evaluated for left lateral hip pain that has progressed over the past 6 weeks. She describes an aching pain that radiates to the knee and is worse at night when lying on the affected side. She reports no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"6f34bd",
+"children":[
+"On physical examination, there is tenderness to palpation over the left lateral hip. The FABER (Flexion, ABduction, and External Rotation) test elicits lateral hip pain. Sensation to light touch and pinprick over the thigh are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Femoroacetabular impingement syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Greater trochanteric pain syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hip osteoarthritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Meralgia paresthetica"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b9340d",
+"children":[
+"The characteristic finding of greater trochanteric pain syndrome is tenderness over the greater trochanter."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b74a2f",
+"children":[
+"The most likely diagnosis is greater trochanteric pain syndrome (GTPS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), formerly known as trochanteric bursitis. The most helpful diagnostic test for GTPS is to ask the patient to point to the location of the pain. If the patient points to the lateral hip near the greater femoral trochanter, GTPS is the most likely diagnosis. The likely cause of GTPS is friction between the greater trochanter and iliotibial band, causing repetitive microtrauma of the gluteal tendons. The characteristic finding of tenderness over the greater trochanter implies inflammation of the bursa, and more recent studies have shown involvement of the gluteus minimus and medius tendons with similar frequency. Pain that worsens with lying on the affected side suggests GTPS; the pain may also radiate to the buttock or knee if the iliotibial band is affected. The FABER (Flexion, ABduction, and External Rotation) test may cause lateral hip pain with GTPS. Most cases respond to conservative measures, including activity modification, physical therapy, NSAIDs, and weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"f6be62",
+"children":[
+"Femoroacetabular impingement syndrome (FAIS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a cause of anterior hip or groin pain attributed to abnormal contact of the femoral head-neck junction against the acetabular rim of the hip joint with normal range of motion. Patients with FAIS describe an insidious onset of groin pain that is worse after sitting for a prolonged period and improves with standing. Movement is often associated with pain. FAIS is associated with an aspherical femoral head. FAIS is not responsible for this patient's lateral hip pain."
+]
+},
+{
+"type":"p",
+"hlId":"25d716",
+"children":[
+"Hip osteoarthritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") presents as groin or buttock pain. Lateral hip pain that worsens with pressure, such as sleeping on the affected side, is not characteristic of osteoarthritis."
+]
+},
+{
+"type":"p",
+"hlId":"933263",
+"children":[
+"Meralgia paresthetica (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") causes upper outer thigh paresthesia in the distribution of the lateral femoral cutaneous nerve; sensory disturbances are often found on examination. This patient's hip pain is lateral, whereas patients with meralgia paresthetica have pain that is more anterior. Finally, the patient's sensory examination was normal, making this diagnosis unlikely."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_5_1_1",
+"objective":{
+"__html":"Diagnose greater trochanteric pain syndrome."
+},
+"references":[
+[
+"Hirschmann A, Falkowski AL, Kovacs B. Greater trochanteric pain syndrome: abductors, external rotators. Semin Musculoskelet Radiol. 2017;21:539-46. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29025184",
+"target":"_blank"
+},
+"children":[
+"PMID: 29025184"
+]
+},
+" doi:10.1055/s-0037-1606139"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":74,
+"C":9,
+"D":6,
+"E":0
+},
+"hlIds":[
+"5e7bd8",
+"6f34bd",
+"413696",
+"b9340d",
+"b74a2f",
+"f6be62",
+"25d716",
+"933263"
+]
+}

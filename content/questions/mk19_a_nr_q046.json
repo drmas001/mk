@@ -1,0 +1,227 @@
+{
+"id":"mk19_a_nr_q046",
+"number":46,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0f5f96",
+"children":[
+"A 62-year-old man is evaluated in the emergency department for right arm weakness that lasted 20 minutes and occurred 6 hours ago. He has hypertension and type 2 diabetes mellitus. Current medications are metformin, lisinopril, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"cac2b0",
+"children":[
+"On physical examination, blood pressure is 142/82 mm Hg; the remainder of the vital signs and neurologic examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"408734",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"Hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" value is 6.5%, and LDL cholesterol level is 120 mg/dL (3.1 mmol/L). Basic metabolic profile and aminotransferase levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"9873e9",
+"children":[
+"CT scan of the head shows no acute ischemic changes. Carotid duplex ultrasound shows less than 40% stenosis in both carotid arteries and normal flow in the vertebral arteries."
+]
+},
+{
+"type":"p",
+"hlId":"215064",
+"children":[
+"High-intensity rosuvastatin is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin and apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aspirin and clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Aspirin, clopidogrel, and dipyridamole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ticagrelor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0d344f",
+"children":[
+"In patients who have experienced a transient ischemic attack, adding clopidogrel to aspirin for 21 days has been shown to be effective in reducing the risk for subsequent stroke compared with monotherapy with either agent alone."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7df97a",
+"children":[
+"In patients treated with dual antiplatelet therapy following a transient ischemic attack or minor stroke, aspirin should be continued following discontinuation of clopidogrel at 21 days."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bffce7",
+"children":[
+"The most appropriate treatment is aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient sustained a high-risk transient ischemic attack (TIA) and has no evidence of extracranial internal carotid artery stenosis. Two trials examined the role of aspirin combined with clopidogrel versus monotherapy (with either aspirin or clopidogrel) in TIA and minor stroke initiated within 12 to 24 hours from onset. The studies used either 21 or 90 days of aspirin and clopidogrel versus single antiplatelet agents and, overall, demonstrated a small but significant reduction in risk of recurrence at 90 days for the combination therapy. The American Heart Association Guidelines endorse a treatment duration of 21 days. The risk of hemorrhagic complications appeared to increase beyond 30 days; duration between 30 to 90 days of aspirin and clopidogrel in minor stroke or TIA is commonly used in patients with intracranial atherosclerosis as the underlying stroke cause. Following that time, clopidogrel is discontinued, and aspirin therapy is maintained."
+]
+},
+{
+"type":"p",
+"hlId":"b19813",
+"children":[
+"Adding apixaban to aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated because the patient does not have atrial fibrillation or any other indication for anticoagulation. In patients with acute stroke or TIA, direct oral anticoagulants have not been established as effective at reducing the risk for subsequent adverse outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"09a0d9",
+"children":[
+"Adding dipyridamole to aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") therapy may be harmful in patients with acute ischemic stroke. Such therapy has not been found to reduce the risk or severity of recurrent stroke but does increase the risk of major bleeding. Triple therapy for acute stroke cannot be recommended."
+]
+},
+{
+"type":"p",
+"hlId":"a849f3",
+"children":[
+"Ticagrelor monotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate because ticagrelor has not been established to be effective at reducing the risk for ischemic stroke after TIA. The Acute Stroke or Transient Ischemic Attack Treated with Aspirin or Ticagrelor and Patient Outcomes (SOCRATES) trial showed no superiority of ticagrelor compared with aspirin in patients with TIA."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_2",
+"objective":{
+"__html":"Treat an acute transient ischemic attack with antiplatelet agents."
+},
+"references":[
+[
+"Prasad K, Siemieniuk R, Hao Q, et al. Dual antiplatelet therapy with aspirin and clopidogrel for acute high risk transient ischaemic attack and minor ischaemic stroke: a clinical practice guideline. BMJ. 2018;363:k5130. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30563885",
+"target":"_blank"
+},
+"children":[
+"PMID: 30563885"
+]
+},
+" doi:10.1136/bmj.k5130"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":86,
+"C":3,
+"D":6,
+"E":0
+},
+"hlIds":[
+"0f5f96",
+"cac2b0",
+"408734",
+"9873e9",
+"215064",
+"78ff87",
+"0d344f",
+"7df97a",
+"bffce7",
+"b19813",
+"09a0d9",
+"a849f3"
+]
+}

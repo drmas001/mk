@@ -1,0 +1,294 @@
+{
+"id":"mk19_b_cv_q104",
+"number":104,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 104",
+"stimulus":[
+{
+"type":"p",
+"hlId":"796578",
+"children":[
+"A 77-year-old woman is hospitalized for intermittent recurrent chest pain. Her ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f104",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f104"
+]
+},
+{
+"type":"p",
+"hlId":"be585c",
+"children":[
+"The patient had a moderately severe ischemic stroke 2 years ago and has oxygen-dependent COPD. Medications are aspirin, atorvastatin, and inhaled albuterol and tiotropium."
+]
+},
+{
+"type":"p",
+"hlId":"b05e6b",
+"children":[
+"On physical examination, blood pressure is 145/85 mm Hg, pulse rate is 82/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 90% on 2 L of oxygen by nasal cannula. BMI is 18. An expiratory wheeze is heard on auscultation of the lungs. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+". Estimated central venous pressure is 10 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. Minimal left-sided weakness is present."
+]
+},
+{
+"type":"p",
+"hlId":"9cabcf",
+"children":[
+"The initial high-sensitivity troponin level is elevated (>99th percentile upper reference limit)."
+]
+},
+{
+"type":"p",
+"hlId":"bb27f1",
+"children":[
+"Intravenous unfractionated heparin is initiated, and coronary angiography is planned for the morning."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prasugrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Reteplase"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tirofiban"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"55df93",
+"children":[
+"All patients with non–ST-elevation acute coronary syndrome should be treated with aspirin and a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor regardless of reperfusion strategy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ae998f",
+"children":[
+"All patients with non–ST-elevation acute coronary syndrome (NSTE-ACS) should be treated with aspirin and a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor, such as clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), regardless of reperfusion strategy. Current American Heart Association/American College of Cardiology guidelines recommend administration of aspirin (162-325 mg at presentation, followed by 81-162 mg/d) and P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibition combined with early invasive angiography within 24 hours of presentation in hemodynamically stable patients who have evidence of NSTE-ACS and elevated risk as determined by prognostic assessment with risk scores, such as TIMI and GRACE risk models. Clopidogrel or ticagrelor is indicated at presentation in patients with acute coronary syndrome managed with an early invasive strategy (class 1 recommendation). Ticagrelor (180 mg at presentation followed by 90 mg twice daily) is more effective than clopidogrel (300-600 mg at presentation followed by 75 mg/d) and preferred in patients without increased bleeding risk. However, ticagrelor is associated with higher rates of bleeding than clopidogrel and is associated with an increased incidence of dyspnea and bradycardia. This patient has oxygen-dependent COPD, which may limit her ability to tolerate ticagrelor therapy. Therefore, clopidogrel is the most reasonable option for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"2e7af7",
+"children":[
+"Prasugrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an effective antiplatelet agent in patients with ACS but is reserved for use after coronary stent placement and not at presentation. Prasugrel is also contraindicated in patients aged 75 years or older and those with previous transient ischemic attack or stroke; it also must be used with caution in underweight patients."
+]
+},
+{
+"type":"p",
+"hlId":"1429ed",
+"children":[
+"Thrombolytic therapy, such as reteplase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), has not been shown to be beneficial in patients without ST-elevation myocardial infarction (STEMI) or STEMI equivalents (e.g., new bundle branch block) and is not indicated for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"936eba",
+"children":[
+"Glycoprotein IIb/IIIa inhibitors, such as tirofiban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and eptifibatide, are potent intravenous antiplatelet agents that are generally reserved for use at the time of coronary angiography and coronary intervention for treatment of significant intracoronary thrombus burden. Tirofiban would have no benefit in this clinically stable patient and has the potential to increase bleeding."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_4_1",
+"objective":{
+"__html":"Treat a patient with non–ST-elevation acute coronary syndrome with dual antiplatelet therapy."
+},
+"references":[
+[
+"Anderson JL, Morrow DA. Acute myocardial infarction. N Engl J Med. 2017;376:2053-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28538121",
+"target":"_blank"
+},
+"children":[
+"PMID: 28538121"
+]
+},
+" doi:10.1056/NEJMra1606915"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":54,
+"B":22,
+"C":13,
+"D":10,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f104":{
+"id":"mk19_b_cv_mcq_f104",
+"number":104,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"9d925504e882bead052870f33c2e93d9",
+"height":363,
+"width":660,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"796578",
+"be585c",
+"b05e6b",
+"9cabcf",
+"bb27f1",
+"78ff87",
+"55df93",
+"ae998f",
+"2e7af7",
+"1429ed",
+"936eba"
+]
+}

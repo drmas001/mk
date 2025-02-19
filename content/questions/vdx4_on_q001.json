@@ -1,0 +1,119 @@
+{
+"id":"vdx4_on_q001",
+"number":1,
+"bookId":"vdx_on",
+"correctAnswer":"C",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bf712c",
+"children":[
+"A 20-year-old woman undergoes an excisional biopsy of a cervical lymph node."
+]
+},
+{
+"type":"p",
+"hlId":"b3c5b3",
+"children":[
+"A light microscopy view is ",
+{
+"type":"figure-link",
+"target":"vdx4_on_mcq_f001",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_on_mcq_f001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cat-scratch fever"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epstein-Barr virus infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hodgkin lymphoma"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Papillary thyroid carcinoma"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8a6f58",
+"children":[
+"The most likely diagnosis is Hodgkin lymphoma. This diagnosis is established with a lymph node biopsy specimen showing Reed-Sternberg cells. These cells are large and are either multinucleated or have a bilobed nucleus (“owl's eye” appearance) with prominent eosinophilic inclusion–like nucleoli. Reed-Sternberg cells are usually derived from B lymphocytes. The absence of Reed–Sternberg cells has very high negative predictive value for Hodgkin disease."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_5",
+"objective":{
+"__html":"Recognize a Reed-Sternberg cell to diagnose Hodgkin lymphoma."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_on_mcq_f001":{
+"id":"vdx4_on_mcq_f001",
+"number":1,
+"bookId":"vdx_on",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"b92a2043ded5d5afc295d95d74500f73",
+"height":531,
+"width":612,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"bf712c",
+"b3c5b3",
+"413696",
+"8a6f58"
+]
+}

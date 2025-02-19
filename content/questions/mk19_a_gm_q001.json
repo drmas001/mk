@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_gm_q001",
+"number":1,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1a3d6a",
+"children":[
+"A 62-year-old man is evaluated in a follow-up appointment for a 10-year history of low back and knee pain. He reports trouble falling asleep at night and describes significant changes in his functional activity and social interactions. He feels that his pain will never improve. Current medications are acetaminophen and ibuprofen."
+]
+},
+{
+"type":"p",
+"hlId":"ec06a2",
+"children":[
+"On physical examination, vital signs are normal. Range of motion is limited by pain at the lumbar spine and knees bilaterally."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diazepam at bedtime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral tramadol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Screen for depression"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spinal manipulation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9d2720",
+"hvc":true,
+"children":[
+"In patients with chronic pain, the incidence of depression increases as pain symptoms magnify, and depression may manifest as pain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"425e44",
+"hvc":true,
+"children":[
+"Aggressive treatment of depression, with cognitive behavioral therapy and pharmacologic therapy, can lead to substantial improvement in both chronic pain and depressive symptoms."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dbab99",
+"children":[
+"The most appropriate management is to screen for depression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). In patients with chronic pain, the incidence of depression increases as pain symptoms magnify, and depression may manifest as pain. Aggressive treatment of depression, with cognitive behavioral therapy and pharmacologic therapy, can lead to substantial improvements in both chronic pain and depressive symptoms. Iterative evaluation of depressive symptoms during chronic pain treatment is critical to ensuring that patients sustain improvements. The PHQ-2 has been validated as a screening instrument for depression in older adults, with similar sensitivity and specificity in this population compared with its performance in younger adults. A positive screening result should prompt further assessment for depression."
+]
+},
+{
+"type":"p",
+"hlId":"e2485d",
+"children":[
+"This patient's sleep disruption is probably related to his depressed mood. Treatment for the depression should take precedence before introducing a controlled substance with risk for dependence, such as diazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a benzodiazepine."
+]
+},
+{
+"type":"p",
+"hlId":"532724",
+"children":[
+"Oral tramadol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a weak μ-opioid receptor agonist with serotonergic and noradrenergic activity. Although tramadol is thought to carry less risk related to chronic use than other opioids, a 2019 study examining the association of tramadol prescription with all-cause mortality among patients with osteoarthritis suggested that tramadol may be associated with a higher rate of mortality over 1 year. The single study is far from conclusive; however, tramadol should be considered as similar to other opioids when assessing the risk for opioid use in the treatment of chronic pain."
+]
+},
+{
+"type":"p",
+"hlId":"52c062",
+"children":[
+"The evidence for spinal manipulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in the treatment of acute, subacute, or chronic nonspecific low back pain is mixed. One systematic review reported that spinal manipulation was associated with modest improvements in pain and function at up to 6 weeks, with transient minor musculoskeletal harms. Other low-quality evidence suggests that spinal manipulation was associated with a small effect on function compared with sham manipulation, but evidence was insufficient to determine the effect on pain. Assessment for depression and subsequent treatment is more likely to have a positive effect on pain control in this patient than would spinal manipulation. In addition, spinal manipulation will not help with this patient's chronic knee pain."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9",
+"objective":{
+"__html":"Screen for depression in a patient with chronic pain."
+},
+"references":[
+[
+"Finnerup NB. Nonnarcotic methods of pain management. N Engl J Med. 2019;380:2440-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31216399",
+"target":"_blank"
+},
+"children":[
+"PMID: 31216399"
+]
+},
+" doi:10.1056/NEJMra1807061"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":0,
+"B":6,
+"C":90,
+"D":4,
+"E":0
+},
+"hlIds":[
+"1a3d6a",
+"ec06a2",
+"1a5dcc",
+"9d2720",
+"425e44",
+"dbab99",
+"e2485d",
+"532724",
+"52c062"
+]
+}

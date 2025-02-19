@@ -1,0 +1,436 @@
+{
+"id":"mk19_bb_np_s2",
+"subspecialtyId":"np",
+"title":"Urinalysis",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_np_s2",
+"title":{
+"__html":"Urinalysis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"747c2a",
+"children":[
+"Urinalysis"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_np_s2_1",
+"title":{
+"__html":"Proteinuria"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"40421f",
+"children":[
+"Proteinuria"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"85550a",
+"children":[
+"Albumin is the only protein that is detected on dipstick urinalysis."
+]
+},
+{
+"type":"p",
+"hlId":"c16e2f",
+"children":[
+"Protein detected by urine dipstick should always be quantified with either a 24-hour urine collection or protein-creatinine or albumin-creatinine ratio on random urine samples."
+]
+},
+{
+"type":"p",
+"hlId":"bc0b8b",
+"children":[
+"The albumin-creatinine ratio measures only albumin in the urine and is used to evaluate diabetic kidney disease:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"bd477e",
+"children":[
+"30 to 300 mg/g defines ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"moderately increased albuminuria."
+]
+}
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1ced25",
+"children":[
+">300 mg/g defines ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"severely increased albuminuria."
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"02bb4a",
+"children":[
+"A protein-creatinine ratio can be used to measure proteinuria (abnormal protein-creatinine ratio defined as ≥150 mg/g)."
+]
+},
+{
+"type":"p",
+"hlId":"fbc24d",
+"children":[
+"Proteinuria is a marker of renal parenchymal and glomerular disease and an independent predictor of progressive kidney disease, cardiovascular disease, and peripheral vascular disease."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"118262",
+"children":[
+"Dipstick urinalysis does not detect immunoglobulin light chains associated with multiple myeloma."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"3b04be",
+"children":[
+"Because moderately increased albuminuria may go undetected by dipstick, direct quantification using a random (spot) protein-creatinine ratio or albumin-creatinine ratio is required when screening patients at high risk."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"eab274",
+"children":[
+"Positional (orthostatic) proteinuria, a benign cause of isolated proteinuria, is diagnosed by obtaining split daytime (standing) and nighttime (supine) urine collections."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_np_s2_2",
+"title":{
+"__html":"Hematuria"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"011ec4",
+"children":[
+"Hematuria"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"175715",
+"children":[
+"Hematuria is classified as glomerular and extraglomerular. Erythrocyte casts and dysmorphic erythrocytes (acanthocytes, erythrocytes with “Mickey Mouse” ears) in the urine indicate glomerular disease (see The Nephritic Syndrome following). ",
+{
+"type":"alert",
+"children":[
+"Coexisting proteinuria supports glomerular causes of hematuria, even in the absence of casts."
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"a4cc2a",
+"children":[
+"Hematuria with preserved erythrocyte morphology in the urine and without proteinuria or casts is consistent with extraglomerular bleeding (",
+{
+"type":"abbreviation",
+"title":"genitourinary",
+"children":[
+"GU"
+]
+},
+" cancer, kidney stones, trauma, infection, and medications) and requires additional diagnostic studies to locate the extraglomerular source. The proper evaluation is directed by findings in the history and physical examination."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_np_f01"
+],
+"forceOpen":true
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"e21305",
+"children":[
+"Evaluate hematuria even in patients taking antiplatelet drugs or anticoagulants."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_np_s2_3",
+"title":{
+"__html":"Leukocytes and Other Formed Elements"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"43022d",
+"children":[
+"Leukocytes and Other Formed Elements"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"feadba",
+"children":[
+"Leukocytes in the urine may be caused by glomerular or tubulointerstitial inflammation, infection, or an allergic reaction."
+]
+},
+{
+"type":"p",
+"hlId":"cb40c6",
+"children":[
+"Remember:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"f8ae84",
+"children":[
+" ",
+{
+"type":"alert",
+"children":[
+"Sterile pyuria (pyuria and a negative urine culture) suggests ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium tuberculosis"
+]
+},
+", interstitial cystitis, or interstitial nephritis."
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1031b8",
+"children":[
+"Eosinophiluria suggests ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"acute interstitial nephritis",
+"children":[
+"AIN"
+]
+},
+","
+]
+},
+" postinfectious ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"glomerulonephritis",
+"children":[
+"GN"
+]
+},
+","
+]
+},
+" atheroembolic disease of the kidney, septic emboli, or small-vessel vasculitis."
+]
+},
+" "
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"bcef17",
+"children":[
+"Absence of eosinophiluria does not rule out AIN, postinfectious GN, atheroembolic disease of the kidney, septic emboli, or small-vessel vasculitis."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"ac345f",
+"children":[
+{
+"type":"alert",
+"children":[
+"Patients with hemolysis and rhabdomyolysis test positive for blood on dipstick urinalysis in the absence of erythrocytes on urine microscopy."
+]
+},
+" Urine lipids and fat are almost always associated with heavy proteinuria or the nephrotic syndrome. These may appear as free lipid droplets, round or oval fat bodies, or fatty casts."
+]
+},
+{
+"type":"p",
+"hlId":"641f97",
+"children":[
+"Casts are cylindrical aggregates of Tamm-Horsfall mucoproteins that trap the intraluminal contents and appear in the urine."
+]
+},
+{
+"type":"p",
+"hlId":"3d1934",
+"children":[
+"Different types of casts are associated with specific disorders:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"140ab6",
+"children":[
+"Erythrocyte casts indicate glomerular disease."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"639a43",
+"children":[
+"Leukocyte casts indicate inflammation or infection of the renal parenchyma."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"3df75d",
+"children":[
+"Muddy brown casts are associated with ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"acute tubular necrosis",
+"children":[
+"ATN"
+]
+},
+"."
+]
+}
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"a6ec08",
+"children":[
+"Broad casts are associated with ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"chronic kidney disease",
+"children":[
+"CKD"
+]
+},
+"."
+]
+}
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+}
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_cv_q077",
+"number":77,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a24524",
+"children":[
+"A 63-year-old man is evaluated during a follow-up visit for a 6-month history of heart failure. He currently has New York Heart Association functional class III symptoms. His only hospitalization was at the time of diagnosis. Medications are valsartan-sacubitril, carvedilol, furosemide, and spironolactone."
+]
+},
+{
+"type":"p",
+"hlId":"f6c497",
+"children":[
+"On physical examination, blood pressure is 110/76 mm Hg and pulse rate is 64/min. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"26298e",
+"children":[
+"Laboratory studies are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"42113b",
+"children":[
+"ECG demonstrates left bundle branch block with a QRS duration of 130 ms. Since beginning guideline-directed medical therapy, his ejection fraction has increased from 15% to 25%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac resynchronization therapy–defibrillator"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Implantable cardioverter-defibrillator"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Implantable pulmonary artery pressure sensor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Wearable cardioverter-defibrillator"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"66b1ce",
+"children":[
+"Cardiac resynchronization therapy is indicated in patients with New York Heart Association functional class II to IV symptoms despite guideline-directed medical therapy who have an ejection fraction of 35% or less, sinus rhythm, and left bundle branch block with a QRS duration of 150 ms or longer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cbde52",
+"children":[
+"A cardiac resynchronization therapy (CRT)–defibrillator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in this patient with relatively new-onset symptomatic heart failure who is receiving guideline-directed medical therapy. CRT is indicated in patients with an ejection fraction of 35% or less, New York Heart Association (NYHA) functional class II to IV symptoms despite guideline-directed medical therapy, sinus rhythm, and left bundle branch block (LBBB) with a QRS duration of 150 ms or longer (class 1 recommendation). For patients with LBBB and QRS duration of 120 to 149 ms, CRT can be useful and should be considered (class 2a recommendation). A recent echocardiogram shows that this patient's ejection fraction is still less than 35%, and his ECG shows LBBB; therefore, it would be appropriate to place a biventricular pacemaker (which will improve ejection fraction) with a cardioverter-defibrillator. This therapy would give him a survival benefit over continued medical therapy and improve his functional capacity."
+]
+},
+{
+"type":"p",
+"hlId":"970ab1",
+"children":[
+"Implantable cardioverter-defibrillators (ICDs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") have also been shown to provide a survival benefit in patients with symptomatic heart failure and an ejection fraction less than 35%. In contrast to CRT, ICDs have no effect on either ejection fraction or functional capacity."
+]
+},
+{
+"type":"p",
+"hlId":"09335e",
+"children":[
+"Implantable pulmonary artery pressure sensors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are placed in the distal pulmonary artery and are used to remotely monitor pulmonary hemodynamics. In the CHAMPION trial, the use of these sensors was shown to reduce heart failure hospitalizations in patients with NYHA class III symptoms compared with patients in the control arm. These monitors are often placed in patients who have frequent hospitalizations to more closely monitor their heart failure hemodynamics, but they have no effect on ejection fraction. Despite significant ongoing symptoms, this patient has not had frequent hospitalizations and would not be a candidate for this device."
+]
+},
+{
+"type":"p",
+"hlId":"0b158f",
+"children":[
+"A randomized controlled trial showed that a wearable cardioverter-defibrillator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") after acute myocardial infarction did not reduce the incidence of sudden cardiac death but did reduce the secondary outcome of all-cause mortality. There are no guideline recommendations on the use of a wearable cardioverter-defibrillator in patients with heart failure, but this device might be an option for patients at high risk for arrhythmias as a bridge to ICD therapy. Unlike resynchronization therapy, a wearable cardioverter-defibrillator will not improve this patient's ejection fraction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_2_2",
+"objective":{
+"__html":"Treat heart failure with a cardiac resynchronization therapy–defibrillator."
+},
+"references":[
+[
+"Henin M, Ragy H, Mannion J, et al. Indications of cardiac resynchronization in non-left bundle branch block: clinical review of available evidence. Cardiol Res. 2020;11:1-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32095190",
+"target":"_blank"
+},
+"children":[
+"PMID: 32095190"
+]
+},
+" doi:10.14740/cr989"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":49,
+"C":3,
+"D":7,
+"E":0
+},
+"hlIds":[
+"a24524",
+"f6c497",
+"26298e",
+"42113b",
+"1054f1",
+"66b1ce",
+"cbde52",
+"970ab1",
+"09335e",
+"0b158f"
+]
+}

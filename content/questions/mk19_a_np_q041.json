@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_np_q041",
+"number":41,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"249e8e",
+"children":[
+"A 28-year-old man is evaluated for hematuria that he noted on awakening and a 3-day history of fever, runny nose, and cough. One year ago, he had an episode of gross hematuria after running a half marathon. Evaluation at that time resulted in a biopsy diagnosis of IgA nephropathy. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"db89da",
+"children":[
+"On physical examination, temperature is 37.9 °C (100.2 °F), and blood pressure is 110/70 mm Hg; other vital signs are normal. The nasal mucosa is edematous, with serous discharge. Examination of the oropharynx reveals erythema without exudate. There is no lymphadenopathy. Lungs are clear to auscultation. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"6e5be6",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.9 mg/dL (79.6 µmol/L); urinalysis shows 3+ blood, trace protein, too numerous to count erythrocytes, and no casts. Streptococcal rapid antigen test is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the abdomen and pelvis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cac77f",
+"hvc":true,
+"children":[
+"In younger patients with IgA nephropathy, recurrent hematuria in the absence of proteinuria usually portends a benign clinical course and treatment is conservative."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b082eb",
+"hvc":true,
+"children":[
+"Recurrent gross hematuria, often occurring at the time of an upper respiratory infection or following strenuous exercise, is a common manifestation of IgA nephropathy in younger patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"75dddc",
+"children":[
+"The most appropriate management is clinical observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient can be reassured that the gross hematuria is related to his underlying IgA nephropathy and will resolve spontaneously. Recurrent gross hematuria, in which the hematuria occurs in the setting of an upper respiratory infection (synpharyngitic hematuria) or after heavy exertion, is a common manifestation of IgA nephropathy in younger patients; it usually portends a benign clinical course with recurrent episodes of gross hematuria without progression to chronic kidney disease. Other predictors of a benign prognosis include a normal serum creatinine concentration and blood pressure as well as minimal proteinuria."
+]
+},
+{
+"type":"p",
+"hlId":"57635a",
+"children":[
+"Amoxicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be indicated to treat streptococcal pharyngitis. However, this diagnosis is unlikely in the presence of cough, the absence of pharyngeal exudate and cervical lymphadenopathy, and a negative rapid antigen test."
+]
+},
+{
+"type":"p",
+"hlId":"a27ce5",
+"children":[
+"CT of the abdomen and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an appropriate screening test for unexplained gross hematuria, which may be due to the presence of a stone or mass in the kidney or bladder. However, this patient has a known diagnosis of IgA nephropathy and a classic presentation of synpharyngitic hematuria; the gross hematuria is well explained, and imaging is not required."
+]
+},
+{
+"type":"p",
+"hlId":"4f5057",
+"children":[
+"Glucocorticoid therapy, such as with prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is unnecessary in a mild form of nonprogressive IgA nephropathy. The use of immunosuppression in progressive IgA nephropathy remains controversial: The STOP-IgAN study showed no benefit of glucocorticoid therapy in slowing the decline of kidney function, and the TESTING study was terminated early due to significantly increased risk for adverse events in patients treated with glucocorticoids. Therefore, glucocorticoid therapy is reserved for severe forms of IgA nephropathy deemed high risk for rapid progression to end-stage kidney disease."
+]
+}
+],
+"relatedSection":"mk19_a_np_s6_4_4_1_4",
+"objective":{
+"__html":"Manage gross hematuria in IgA nephropathy."
+},
+"references":[
+[
+"Schena FP, Nistor I. Epidemiology of IgA nephropathy: a global perspective. Semin Nephrol. 2018;38:435-42. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30177015",
+"target":"_blank"
+},
+"children":[
+"PMID: 30177015"
+]
+},
+" doi:10.1016/j.semnephrol.2018.05.013"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":8,
+"C":21,
+"D":66,
+"E":0
+},
+"hlIds":[
+"249e8e",
+"db89da",
+"6e5be6",
+"cb2b54",
+"cac77f",
+"b082eb",
+"75dddc",
+"57635a",
+"a27ce5",
+"4f5057"
+]
+}

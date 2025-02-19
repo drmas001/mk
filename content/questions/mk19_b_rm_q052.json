@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_rm_q052",
+"number":52,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b991a8",
+"children":[
+"A 45-year-old man is evaluated 2 weeks after an emergency department visit for gouty olecranon bursitis. Naproxen was initiated at 500 mg twice daily; after clinical improvement, the dosage was tapered. He has a 5-year history of acute gout that occurs three times a year. He also has a history of kidney stones. Current medication is naproxen, 250 mg twice daily."
+]
+},
+{
+"type":"p",
+"hlId":"32321b",
+"children":[
+"There is left olecranon bursal thickening without redness, warmth, or fluid. Tophi are present bilaterally in the first metatarsophalangeal joints without swelling, redness, or warmth."
+]
+},
+{
+"type":"p",
+"hlId":"babe10",
+"children":[
+"Kidney function is normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"Serum urate"
+]
+},
+" level is 10.5 mg/dL (0.62 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Febuxostat"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Probenecid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"82500b",
+"children":[
+"Urate-lowering therapy is strongly recommended for patients with gout and any of the following indications: one or more subcutaneous tophi; evidence of radiographic damage (any modality) attributable to gout; or frequent gout flares, with “frequent” being defined as two or more episodes annually."
+]
+},
+{
+"type":"keypoint",
+"hlId":"08bd5d",
+"children":[
+"Allopurinol is strongly recommended as the preferred urate-lowering agent, over all other agents, including in patients with moderate-to-severe chronic kidney disease (stage ≥3)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"367b3f",
+"children":[
+"The most appropriate treatment to add is allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a recent history of gouty bursitis as well as a history of recurrent episodes of gouty arthritis, tophi, and elevated serum urate. The American College of Rheumatology (ACR) strongly recommends initiating urate-lowering therapy for patients with gout and any of the following indications: one or more subcutaneous tophi; evidence of radiographic damage (any modality) attributable to gout; or frequent gout flares, with “frequent” being defined as two or more annually. This patient has two indications for urate-lowering therapy: two or more recurrent episodes per year and tophi. Allopurinol, a xanthine oxidase inhibitor, is strongly recommended by the ACR as first-line urate-lowering therapy in all patients, including those with moderate-to-severe chronic kidney disease, with appropriate dose adjustments. In patients taking allopurinol, the HLA-B*58:01 allele is associated with a markedly elevated risk for acute hypersensitivity reaction, also known as DRESS (drug reaction with eosinophilia and systemic symptoms) syndrome. Testing for the HLA-B*58:01 allele before starting allopurinol is conditionally recommended by the ACR in high-risk populations (including persons of Han Chinese, Korean, Thai, and African descent). It is appropriate to continue naproxen as prophylactic therapy for 3 to 6 months along with the initiation of urate-lowering therapy to prevent flares while the serum urate level is lowered."
+]
+},
+{
+"type":"p",
+"hlId":"48f4ae",
+"children":[
+"Colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used for treatment of acute gouty arthritis or for long-term prevention of flares while urate-lowering therapy is initiated. If it is used to prevent flares during urate-lowering therapy, it should be continued for 3 to 6 months or until serum urate is at target level. This patient has responded to naproxen and therefore does not need additional acute treatment of his gout or additional medication for prevention. Colchicine does not affect the serum urate level."
+]
+},
+{
+"type":"p",
+"hlId":"2e72a7",
+"children":[
+"Like allopurinol, febuxostat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a urate-lowering agent that inhibits xanthine oxidase. It is indicated in patients in whom allopurinol has failed or who cannot tolerate allopurinol. This patient has never received urate-lowering therapy; therefore, febuxostat is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"006724",
+"children":[
+"Probenecid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not a preferred medication for this patient. Allopurinol is strongly recommended as the preferred urate-lowering agent. In addition, probenecid is contraindicated in patients with nephrolithiasis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_2",
+"objective":{
+"__html":"Treat chronic recurrent gout with urate-lowering therapy."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":77,
+"B":9,
+"C":8,
+"D":6,
+"E":0
+},
+"hlIds":[
+"b991a8",
+"32321b",
+"babe10",
+"78ff87",
+"82500b",
+"08bd5d",
+"367b3f",
+"48f4ae",
+"2e72a7",
+"006724"
+]
+}

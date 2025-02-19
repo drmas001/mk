@@ -1,0 +1,153 @@
+{
+"id":"mk19_b_pm_q092",
+"number":92,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 92",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3b4e90",
+"children":[
+"A 54-year-old man is evaluated for nutritional supplementation. He was admitted to the ICU 3 days ago for sepsis related to an empyema associated with community-acquired pneumonia. He was unable to maintain his nutritional needs before admission, and this has continued during hospitalization. He has lost an unknown quantity of weight. A decision is made to begin enteral feedings. His nutritional requirements are calculated to be 1460 calories daily."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ff77f3",
+"children":[
+"Which of the following is the most appropriate enteral feeding strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"1460 calories daily starting on day 1"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"2000 calories daily starting on day 1"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Incremental increase to 1460 calories daily over 3 to 7 days"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Incremental increase to 2000 calories daily over 3 to 7 days"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f8b342",
+"children":[
+"Guidelines recommend that caloric and protein needs of critically ill patients at risk for refeeding syndrome should be gradually increased to their goal over the course of 3 to 7 days."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"93b113",
+"children":[
+"The most appropriate enteral feeding strategy for this patient is incrementally increasing to 1460 calories daily over 3 to 7 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Patients with critical illness should receive early oral feeding when possible and should be considered at risk for malnutrition when they have not received nutrition for more than 48 hours. If oral nutrition is not feasible, early enteral nutrition is indicated to minimize infectious complications associated with delayed enteral nutrition. New guidelines suggest that, in malnourished patients, caloric and protein needs should be increased gradually to their goal over the course of 3 to 7 days to avoid risks associated with early refeeding syndrome. When patients are chronically malnourished or endure prolonged starvation, the body shifts from metabolizing carbohydrates to metabolizing protein and fat as the main source of adenosine triphosphate production. In the process, intracellular depletion of key electrolytes such as potassium, phosphorous, and magnesium begins to occur. When carbohydrates or other simple sugars are reintroduced to the diet or given intravenously, production of insulin causes rapid intracellular uptake and a rapid drop in extracellular concentrations of electrolytes. These shifts have potentially life-threatening consequences, including diaphragmatic weakness and respiratory impairment, tissue hypoxia, fatal arrhythmias, and cardiomyopathies. Guidelines suggest that enteral intake should be increased slowly over a period of 3 to 7 days. Should electrolyte levels markedly decrease from their baseline, suggesting refeeding syndrome, these abnormalities should be corrected and the number of calories the patient is receiving should be either reduced or held steady."
+]
+},
+{
+"type":"p",
+"hlId":"7da77c",
+"children":[
+"This patient should not receive either 1460 calories or 2000 calories daily (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") on the first day of nutritional supplementation as it may precipitate refeeding syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"0cc918",
+"children":[
+"Guidelines indicate that full targeted medical nutrition therapy is considered to achieve more than 70% of the resting energy expenditure, but not more than 100%, to prevent overfeeding. Administering 2000 calories to this patient would represent overfeeding whether administered on the first day of feeding or over 3 to 7 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"); therefore, it is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3_3",
+"objective":{
+"__html":"Manage the progression of enteral feeding in a malnourished patient."
+},
+"references":[
+[
+"Singer P, Blaser AR, Berger MM, et al. ESPEN guideline on clinical nutrition in the intensive care unit. Clin Nutr. 2019;38:48-79. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30348463",
+"target":"_blank"
+},
+"children":[
+"PMID: 30348463"
+]
+},
+" doi:10.1016/j.clnu.2018.08.037"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":6,
+"C":62,
+"D":25,
+"E":0
+},
+"hlIds":[
+"3b4e90",
+"ff77f3",
+"f8b342",
+"93b113",
+"7da77c",
+"0cc918"
+]
+}

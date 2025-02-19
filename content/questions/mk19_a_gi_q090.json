@@ -1,0 +1,270 @@
+{
+"id":"mk19_a_gi_q090",
+"number":90,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7c97da",
+"children":[
+"A 60-year-old woman is evaluated at follow-up for daily nausea, bloating and occasional vomiting after large meals, epigastric pain, and fullness. Upper endoscopy last week revealed some retained food in the stomach but no other significant findings, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection. She has a 10-year history of type 2 diabetes mellitus. Current medications are metformin and canagliflozin."
+]
+},
+{
+"type":"p",
+"hlId":"9e6073",
+"children":[
+"The ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level is 9%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate erythromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate metoclopramide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain 4-hour gastric scintigraphy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain upper gastrointestinal barium series"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Repeat upper endoscopy once hemoglobin A<sub>1c</sub> level is less than 7%"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a82df1",
+"children":[
+"The diagnostic criteria for gastroparesis include a combination of compatible symptoms, absence of gastric outlet obstruction or ulceration, and an objectively measured delay in gastric emptying."
+]
+},
+{
+"type":"keypoint",
+"hlId":"729eba",
+"children":[
+"Tests to document delayed gastric emptying include scintigraphy, wireless motility capsule, and breath testing; scintigraphy of a solid-phase meal is preferred."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"183826",
+"children":[
+"The most appropriate next step in management is 4-hour gastric scintigraphy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient's presentation strongly suggests—but is not diagnostic of—diabetic gastroparesis. Her upper gastrointestinal symptoms and the retained food on upper endoscopy indicate delayed gastric emptying. However, definitive diagnosis of gastroparesis requires objectively demonstrating a delay in gastric emptying. American College of Gastroenterology guidelines state that the diagnosis of gastroparesis must be based on the combination of symptoms of gastroparesis, absence of gastric outlet obstruction or ulceration, and a delay in gastric emptying. Objective evidence of delayed gastric emptying is important because other conditions, such as accelerated gastric emptying, functional dyspepsia, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection, and peptic ulcer disease, can present with similar symptoms. This patient reports many gastroparesis symptoms, which can include early satiety, postprandial fullness, nausea, vomiting, bloating, and/or upper abdominal pain. Her upper endoscopy excluded a mechanical obstruction of the stomach and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" gastritis. To document a delay in gastric emptying, further testing must be performed. The three tests used are scintigraphy, wireless motility capsule, and breath testing using ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"13"
+]
+},
+"C-labeled ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Spirulina platensis"
+]
+},
+". Of these tests, scintigraphy of a solid-phase meal is considered the standard for diagnosis of gastroparesis because it quantifies the emptying of a physiologic caloric meal. The 4-hour solid-emptying study is preferred over shorter solid-emptying studies or sole liquid-emptying studies because those methods are less sensitive. The most reliable parameter to document a delayed gastric emptying is the percentage of retained gastric contents 4 hours after meal consumption."
+]
+},
+{
+"type":"p",
+"hlId":"c853f5",
+"children":[
+"Medical therapy for gastroparesis—erythromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or metoclopramide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")—should not be initiated until the diagnosis is confirmed."
+]
+},
+{
+"type":"p",
+"hlId":"654cbe",
+"children":[
+"An upper gastrointestinal barium series (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can exclude mechanical obstruction and other structural abnormalities of the upper gastrointestinal tract, but this confirmation has already been accomplished with upper endoscopy. A barium series cannot objectively assess gastric emptying."
+]
+},
+{
+"type":"p",
+"hlId":"740354",
+"children":[
+"Although poor glycemic control is known to further delay gastric emptying, there is no value in repeating upper endoscopy after better control of this patient's diabetes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") to reassess for retained food."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_6_2",
+"objective":{
+"__html":"Evaluate suspected gastroparesis."
+},
+"references":[
+[
+"Camilleri M, Parkman HP, Shafi MA, et al; American College of Gastroenterology. Clinical guideline: management of gastroparesis. Am J Gastroenterol. 2013;108:18-37; quiz 38. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23147521",
+"target":"_blank"
+},
+"children":[
+"PMID: 23147521"
+]
+},
+" doi:10.1038/ajg.2012.373"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":35,
+"C":51,
+"D":6,
+"E":4
+},
+"hlIds":[
+"7c97da",
+"9e6073",
+"1a5dcc",
+"a82df1",
+"729eba",
+"183826",
+"c853f5",
+"654cbe",
+"740354"
+]
+}

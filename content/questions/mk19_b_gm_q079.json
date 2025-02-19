@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_gm_q079",
+"number":79,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 79",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a8bf9e",
+"children":[
+"A 62-year-old woman is evaluated in the hospital for venous thromboembolism (VTE) prophylaxis. The patient has locally invasive ovarian cancer and will undergo total abdominal hysterectomy and bilateral salpingo-oophorectomy. She has no personal or family history of VTE. She is otherwise well and takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"0cfcd3",
+"children":[
+"On physical examination, vital signs are normal. BMI is 33. Ascites is present. The remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"82c5da",
+"children":[
+"Intermittent pneumatic compression is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a4adf6",
+"children":[
+"Which of the following is the most appropriate additional VTE prophylaxis for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Insertion of an inferior vena cava filter"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-molecular-weight heparin (LMWH) for 7 days"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"LMWH for 30 days"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional prophylaxis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8f56cb",
+"children":[
+"Pharmacologic venous thromboembolism prophylaxis is recommended for hospitalized patients with active cancer in the absence of bleeding or other contraindications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"20cfc1",
+"children":[
+"Extended venous thromboembolism (VTE) prophylaxis with low-molecular-weight heparin for up to 4 weeks postoperatively is recommended for patients undergoing major open or laparoscopic abdominal or pelvic surgery for cancer who have high-risk features, such as restricted mobility, obesity, or history of VTE, or who have additional risk factors."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e9af89",
+"children":[
+"The most appropriate additional venous thromboembolism (VTE) prophylaxis for this patient is administration of subcutaneous low-molecular weight heparin (LMWH) for 30 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The 2019 American Society of Clinical Oncology (ASCO) guideline for VTE prophylaxis in patients with cancer recommends pharmacologic prophylaxis for hospitalized patients with active cancer in the absence of bleeding or other contraindications. Patients should be offered pharmacologic thromboprophylaxis with either unfractionated heparin or LMWH. Prophylaxis should commence in the hours immediately preceding surgery and may be combined with mechanical methods, such as intermittent pneumatic compression. A combined regimen of pharmacologic and mechanical prophylaxis may be superior, especially in the highest-risk patients. Pharmacologic thromboprophylaxis for patients undergoing major surgery for cancer should be continued for at least 7 to 10 days. Extended prophylaxis with LMWH for up to 4 weeks postoperatively is recommended for patients undergoing major open or laparoscopic abdominal or pelvic surgery for cancer who have high-risk features, such as restricted mobility, obesity, or history of VTE, or who have additional risk factors. This patient is undergoing high-risk surgery and has obesity as an additional risk for VTE, and extended prophylaxis is warranted."
+]
+},
+{
+"type":"p",
+"hlId":"05ff60",
+"children":[
+"The ASCO and other guidelines assert that there is no role for inferior vena cava (IVC) filter insertion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for VTE prophylaxis owing to concerns about its long-term harm. IVC filter placement may be considered in patients with absolute contraindications to anticoagulant therapy in the acute treatment setting of VTE if the thrombus burden is considered life-threatening."
+]
+},
+{
+"type":"p",
+"hlId":"b0eb0a",
+"children":[
+"Prophylaxis with LMWH for 7 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is unlikely to provide adequate prophylaxis for this patient with cancer undergoing major surgery. Registry data have documented that postoperative VTE is detected after hospital discharge in 54% of cases, with the highest risk corresponding to colorectal and genitourinary cancer surgery. Studies have demonstrated that administration of LMWH for 30 days after the day of surgery reduces the risk for VTE without increasing the risk for bleeding complications."
+]
+},
+{
+"type":"p",
+"hlId":"cdef42",
+"children":[
+"No additional prophylaxis is not appropriate therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The 2019 ASCO guideline for VTE prophylaxis in patients with cancer recommends pharmacologic prophylaxis for hospitalized patients with active cancer in the absence of bleeding or other contraindications."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_4_1",
+"objective":{
+"__html":"Prevent deep venous thromboembolism in a patient with cancer undergoing major surgery."
+},
+"references":[
+[
+"Key NS, Khorana AA, Kuderer NM, et al. Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO clinical practice guideline update. J Clin Oncol. 2020;38:496-520. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31381464",
+"target":"_blank"
+},
+"children":[
+"PMID: 31381464"
+]
+},
+" doi:10.1200/JCO.19.01461"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":35,
+"C":44,
+"D":14,
+"E":0
+},
+"hlIds":[
+"a8bf9e",
+"0cfcd3",
+"82c5da",
+"a4adf6",
+"8f56cb",
+"20cfc1",
+"e9af89",
+"05ff60",
+"b0eb0a",
+"cdef42"
+]
+}

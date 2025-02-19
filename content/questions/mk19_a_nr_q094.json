@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q094",
+"number":94,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d50f6f",
+"children":[
+"A 64-year-old woman is evaluated in the emergency department for a 2-day history of worsening lower extremity weakness, fatigue, and a return of urinary frequency. She has secondary progressive multiple sclerosis with gait dysfunction, leg weakness, and poor vision. She uses a walker. She also has an overactive bladder with symptoms of urgency and frequency previously well controlled on solifenacin. Additional medications are fluoxetine and a vitamin D supplement."
+]
+},
+{
+"type":"p",
+"hlId":"7257f5",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.1 °F), blood pressure is 110/50 mm Hg, and pulse rate is 70/min. Muscle strength testing shows normal strength in the upper extremities and 3/5 strength in the lower extremities with increased tone. She is unable to support her weight independently when she stands from a seated position. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Increase solifenacin dose"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate intravenous high-dose glucocorticoids"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate modafinil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain MRI of the cervical and thoracic spines"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Obtain urinalysis and urine culture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c5c33e",
+"hvc":true,
+"children":[
+"Patients with multiple sclerosis experience Uhthoff phenomenon, in which chronic neurologic symptoms become more prominent in the setting of elevated body temperature."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bcf9a1",
+"children":[
+"The most appropriate next step in management is to obtain a urinalysis and urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This patient has secondary progressive multiple sclerosis (MS) with worsening neurologic function, which suggests a potential MS relapse or disability progression. However, she also has urinary frequency and an elevated body temperature, which is suggestive of a urinary tract infection, possibly an upper tract infection. Many patients with multiple sclerosis experience Uhthoff phenomenon, in which chronic neurologic symptoms become more prominent in the setting of elevated body temperature (hot weather, physical exertion, or fever). Because this patient has pre-existing lower extremity weakness, she is likely experiencing Uhthoff phenomenon (or a “pseudorelapse”) caused by a urinary tract infection–associated fever and not a new inflammatory lesion in her brain or spinal cord."
+]
+},
+{
+"type":"p",
+"hlId":"01e03c",
+"children":[
+"Increasing this patient's solifenacin dose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not the most appropriate management at this time; her urinary frequency is likely being worsened by an underlying urinary tract infection."
+]
+},
+{
+"type":"p",
+"hlId":"0eec1f",
+"children":[
+"Initiating intravenous high-dose glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is appropriate therapy for an MS relapse. However, there is a higher likelihood that her worsening symptoms are caused by Uhthoff phenomenon, which is masquerading as a relapse. Diagnosing and treating the underlying cause of her fever is the most appropriate next step. Symptoms that persist despite treatment of the infection and fever may represent a relapse, and intravenous glucocorticoids would be a reasonable consideration."
+]
+},
+{
+"type":"p",
+"hlId":"36dc41",
+"children":[
+"The stimulant medications modafinil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), armodafinil, amantadine, and amphetamines may be helpful in managing chronic fatigue. Although this patient's fatigue may be improved by modafinil, it is likely caused by an underlying infection and may resolve with treatment of the infection."
+]
+},
+{
+"type":"p",
+"hlId":"222463",
+"children":[
+"An MRI of the cervical and thoracic spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") could potentially help determine if her worsened lower extremity weakness is caused by the formation of a new MS lesion. However, in the setting of a possible infection, evaluation and treatment of the infection has a higher utility and significantly lower cost than this imaging test."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_1",
+"objective":{
+"__html":"Manage a suspected pseudorelapse of multiple sclerosis."
+},
+"references":[
+[
+"Jain A, Rosso M, Santoro JD. Wilhelm Uhthoff and Uhthoff's phenomenon. Mult Scler. 2019:1352458519881950. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31621479",
+"target":"_blank"
+},
+"children":[
+"PMID: 31621479"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":0,
+"B":8,
+"C":3,
+"D":12,
+"E":77
+},
+"hlIds":[
+"d50f6f",
+"7257f5",
+"1a5dcc",
+"c5c33e",
+"bcf9a1",
+"01e03c",
+"0eec1f",
+"36dc41",
+"222463"
+]
+}

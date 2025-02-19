@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q119",
+"number":119,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 119",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9fa907",
+"children":[
+"A 50-year-old woman is evaluated for a 3-month history of progressive chest pain. The pain is worse with physical activity, radiates to the left arm, and is associated with diaphoresis. The pain is relieved by rest."
+]
+},
+{
+"type":"p",
+"hlId":"87de0d",
+"children":[
+"On physical examination, blood pressure is 167/98 mm Hg, and pulse rate is 58/min. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and no murmurs."
+]
+},
+{
+"type":"p",
+"hlId":"a5b62b",
+"children":[
+"ECG shows sinus rhythm and left ventricular hypertrophy with a strain pattern."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dobutamine echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dobutamine myocardial perfusion imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Exercise myocardial perfusion imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"67361a",
+"children":[
+"Stress testing to evaluate for coronary artery disease should always be performed with exercise, unless exercise is contraindicated or the patient is unable."
+]
+},
+{
+"type":"keypoint",
+"hlId":"be11ae",
+"children":[
+"Stress testing with imaging is indicated in patients with an inability to exercise, baseline ECG abnormalities that limit interpretation of the exercise ECG, or indeterminate findings on the exercise ECG."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2edea4",
+"children":[
+"The most appropriate diagnostic test is exercise myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient presents with chest pain that is concerning for ischemic heart disease, and cardiac stress testing is indicated. Stress testing to evaluate for coronary artery disease should always be performed with exercise, unless exercise is contraindicated or the patient is unable. Exercise capacity is a powerful predictor of outcomes; individuals unable to achieve 5 metabolic equivalents, or the first stage of a Bruce protocol, have higher all-cause mortality. In addition to its role as a first-line test for possible coronary artery disease, stress testing with imaging is indicated in patients with an inability to exercise, baseline ECG abnormalities that limit interpretation of the exercise ECG, or indeterminate findings on the exercise ECG. Exercise myocardial perfusion imaging provides a visual assessment of relative myocardial blood flow (using a radionuclide tracer) by comparing images in the resting and stressed states. This test is the most appropriate option for this patient with left ventricular hypertrophy with a strain pattern on baseline ECG that will impair the interpretation of an exercise ECG."
+]
+},
+{
+"type":"p",
+"hlId":"6ae95d",
+"children":[
+"Exercise is preferred over pharmacologic stressors. Dobutamine, like exercise, increases myocardial oxygen demand and elicits ischemia because of insufficient perfusion to the affected myocardium. Exercise myocardial perfusion imaging is preferred to a dobutamine-based stress test with either echocardiography or myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"90fe35",
+"children":[
+"Exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a reasonable option for patients undergoing initial evaluation for chest pain thought to be of cardiac origin, unless there are contraindications. Contraindications include an inability to exercise and baseline ECG abnormalities (e.g., ST-segment depression >1 mm, left bundle branch block, left ventricular hypertrophy, paced rhythm, or preexcitation). This patient's chest pain in the presence of left ventricular hypertrophy will be better assessed with exercise myocardial perfusion imaging because the ECG changes associated with left ventricular hypertrophy will obscure the presence of ECG ischemic changes."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_1",
+"objective":{
+"__html":"Evaluate a patient with chest pain and left ventricular hypertrophy with exercise myocardial perfusion imaging."
+},
+"references":[
+[
+"Fihn SD, Blankenship JC, Alexander KP, et al. 2014 ACC/AHA/AATS/PCNA/SCAI/STS focused update of the guideline for the diagnosis and management of patients with stable ischemic heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines, and the American Association for Thoracic Surgery, Preventive Cardiovascular Nurses Association, Society for Cardiovascular Angiography and Interventions, and Society of Thoracic Surgeons. Circulation. 2014;130:1749-67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25070666",
+"target":"_blank"
+},
+"children":[
+"PMID: 25070666"
+]
+},
+" doi:10.1161/CIR.0000000000000095"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":24,
+"C":22,
+"D":43,
+"E":0
+},
+"hlIds":[
+"9fa907",
+"87de0d",
+"a5b62b",
+"2eb226",
+"67361a",
+"be11ae",
+"2edea4",
+"6ae95d",
+"90fe35"
+]
+}

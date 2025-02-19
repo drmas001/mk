@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_on_q019",
+"number":19,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3f0a6d",
+"children":[
+"A 41-year-old woman is evaluated for a 3-month history of depressed mood nearly every day, low energy, loss of interest in nearly all activities, fatigue, and poor concentration. Medical history is significant for stage II, estrogen receptor–positive, human epidermal growth factor 2–negative breast cancer diagnosed 2 years ago. Her only medication is tamoxifen."
+]
+},
+{
+"type":"p",
+"hlId":"1af5c7",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"eefe0e",
+"children":[
+"Complete blood count, comprehensive metabolic panel, and thyroid-stimulating hormone level are all normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue tamoxifen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prescribe bupropion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prescribe fluoxetine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prescribe venlafaxine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9f3791",
+"children":[
+"Depression and anxiety are common in women with breast cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fe4841",
+"children":[
+"Antidepressants with strong CYP2D6 inhibition, such as bupropion or fluoxetine, may decrease tamoxifen activation and should be avoided."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6dfc16",
+"children":[
+"This patient is experiencing depression, and it would be appropriate to prescribe venlafaxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Depressive symptoms are frequently encountered in patients with chronic medical disease either as a result of the illness itself (such as hypothyroidism) or as a response to the disability caused by the illness. Depression commonly accompanies many medical conditions, including cancer, neurologic diseases (Parkinson disease), heart failure, and HIV infection. Medications, including tamoxifen, glucocorticoids, and interferon, may also trigger depressive symptoms. Some selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine and paroxetine, and other antidepressants such as bupropion, are strong inhibitors of CYP2D6 and may interact with tamoxifen, reducing tamoxifen activation. The impact of this interaction on long-term breast cancer outcomes is unknown, but use of strong CYP2D6 inhibitors is generally not recommended, and other SSRIs, such as sertraline or escitalopram, or venlafaxine, a serotonin-norepinephrine reuptake inhibitor, are felt to be safe and are preferred. Breast cancer survivors, particularly those diagnosed at young ages, are at increased risk of anxiety and depression, and evaluating and managing mood symptoms is an important aspect of survivorship care."
+]
+},
+{
+"type":"p",
+"hlId":"1909b6",
+"children":[
+"Tamoxifen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may cause mood symptoms such as depression, but given the associated improvement in breast cancer outcomes and survival, tamoxifen should not be discontinued in this patient. Mood symptoms could be managed with the addition of an antidepressant. If the patient has depression that persists despite incorporation of antidepressants and/or counseling, it would be reasonable to consider alternatives. In a premenopausal woman, this treatment would include use of ovarian suppression with an aromatase inhibitor, although these medications may also contribute to mood symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"436875",
+"children":[
+"Bupropion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is another antidepressant that is used for the treatment of depression and should also be avoided for patients on tamoxifen, given the possible decrease in tamoxifen activation due to CYP2D6 inhibition."
+]
+},
+{
+"type":"p",
+"hlId":"6de9ed",
+"children":[
+"Fluoxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is often used for the treatment of depression but is a strong CYP2D6 inhibitor and is therefore not recommended for patients on tamoxifen because it can decrease tamoxifen activation."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_8",
+"objective":{
+"__html":"Manage depression in a breast cancer survivor taking tamoxifen."
+},
+"references":[
+[
+"Hansten PD. The underrated risks of tamoxifen drug interactions. Eur J Drug Metab Pharmacokinet. 2018;43:495-508. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29637493",
+"target":"_blank"
+},
+"children":[
+"PMID: 29637493"
+]
+},
+" doi:10.1007/s13318-018-0475-9"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":14,
+"B":22,
+"C":34,
+"D":30,
+"E":0
+},
+"hlIds":[
+"3f0a6d",
+"1af5c7",
+"eefe0e",
+"1054f1",
+"9f3791",
+"fe4841",
+"6dfc16",
+"1909b6",
+"436875",
+"6de9ed"
+]
+}

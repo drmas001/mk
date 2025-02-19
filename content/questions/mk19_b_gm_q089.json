@@ -1,0 +1,224 @@
+{
+"id":"mk19_b_gm_q089",
+"number":89,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"986111",
+"children":[
+"A 19-year-old woman is evaluated in the emergency department for a 3-day history of progressively severe sore throat. She cannot swallow liquids due to pain and has drooling."
+]
+},
+{
+"type":"p",
+"hlId":"060e16",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F), blood pressure is 110/70 mm Hg, pulse rate is 110/min, and respiration rate is 25/min. There is no stridor. She is drooling. The oropharynx is hyperemic, and the patient has difficulty opening her mouth fully. The uvula is engorged."
+]
+},
+{
+"type":"p",
+"hlId":"925e2b",
+"children":[
+"Antibiotics are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ICU admission"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous methylprednisolone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neck CT with contrast"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rapid antigen detection test"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c9c3f7",
+"children":[
+"Patients with epiglottitis typically appear seriously ill, with excessive salivation and drooling, tachypnea, stridor, and severe pharyngitis and dysphagia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"763806",
+"children":[
+"If severe acute epiglottitis is suspected and airway obstruction seems imminent, airway control should precede diagnostic evaluation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cc66d6",
+"children":[
+"The most appropriate next step in management is admission to the ICU (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient likely has acute epiglottitis. Epiglottitis is a severe and rare inflammatory response to a respiratory infection that requires emergent identification and treatment, with close attention to airway management. Although viral causes are common, epiglottitis may also be caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" and other bacterial respiratory pathogens. Before universal vaccination, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+" type B accounted for most infections. Patients with epiglottitis may present with findings of sepsis, including fever, tachycardia, severe sore throat, drooling that suggests difficulty managing normal secretions, stridor, and inability to open the mouth. Although adults with acute epiglottitis are less likely than children to progress to airway obstruction, if acute epiglottitis is suspected and airway obstruction is a consideration, airway management is a priority. Patients rarely require intubation or tracheostomy; however, hospital admission is recommended, often to an ICU setting and with surgical consultation, to ensure close monitoring of the airway. Parenteral antibiotic therapy directed toward common respiratory pathogens is additionally indicated. Typical choices for empiric therapy include ceftriaxone or cefotaxime and vancomycin."
+]
+},
+{
+"type":"p",
+"hlId":"3a62ff",
+"children":[
+"Although parenteral glucocorticoids, such methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are sometimes used to minimize airway inflammation in acute epiglottis, there is little evidence supporting effectiveness. Other measures, including airway management and initiation of parenteral antibiotics, are of far greater urgency."
+]
+},
+{
+"type":"p",
+"hlId":"f5495d",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Fusobacterium necrophorum"
+]
+},
+" infection can cause Lemierre syndrome, a rare suppurative complication of pharyngitis caused by local spread of infection with resultant septic thrombosis of the internal jugular vein. Clinicians should suspect Lemierre syndrome in patients with severe pharyngitis and neck pain that do not respond to appropriate antibiotics. Diagnosis is made with neck CT with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). In patients with suspected epiglottitis, radiographic imaging with ultrasonography or plain radiography may be helpful in gauging the severity of neck tissue inflammation and predicting likelihood of progression. For this patient, CT of the neck is unwarranted and would delay her transfer to the ICU for careful airway monitoring and intervention if required."
+]
+},
+{
+"type":"p",
+"hlId":"2d9e94",
+"children":[
+"Although a rapid antigen detection test (RADT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a reasonable test for group A streptococcal pharyngitis, this patient has acute epiglottitis with possible airway compromise and there is no role for RADT."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s9_7",
+"objective":{
+"__html":"Manage a patient with suspected epiglottitis."
+},
+"references":[
+[
+"Klein MR. Infections of the oropharynx. Emerg Med Clin North Am. 2019;37:69-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30454781",
+"target":"_blank"
+},
+"children":[
+"PMID: 30454781"
+]
+},
+" doi:10.1016/j.emc.2018.09.002"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":29,
+"C":30,
+"D":5,
+"E":0
+},
+"hlIds":[
+"986111",
+"060e16",
+"925e2b",
+"1a5dcc",
+"c9c3f7",
+"763806",
+"cc66d6",
+"3a62ff",
+"f5495d",
+"2d9e94"
+]
+}

@@ -1,0 +1,163 @@
+{
+"id":"mk19_b_en_q018",
+"number":18,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"0d485b",
+"children":[
+"A 74-year-old woman is evaluated during a follow-up visit for osteoporosis. She sustained fractures in thoracic vertebra 11 and lumbar vertebra 1 without a fall 2 years earlier. Dual-energy x-ray absorptiometry scan at the time of injury showed left femur neck T-score of -2.9. Teriparatide was initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue teriparatide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue teriparatide, start alendronate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue teriparatide, start romosozumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue teriparatide, start abaloparatide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ebeae9",
+"hvc":true,
+"children":[
+"In patients receiving anabolic therapy for osteoporosis, an antiresorptive agent must be started within 1 month of completing the course of anabolic treatment to prevent the loss of newly formed bone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5ed247",
+"children":[
+"The most appropriate management is to discontinue teriparatide and start alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Although the choice of initial therapy for established postmenopausal osteoporosis always has implications for the disease course, this consideration is especially true when anabolic agents (e.g., teriparatide, abaloparatide) are used. The bone formative effect of anabolic agents rapidly declines with discontinuation of therapy whereas the increased bone resorption caused by these agents persists. Rapid loss of the newly formed bone gained during therapy ensues with discontinuation unless antiresorptive therapy, typically a bisphosphonate or denosumab, is initiated within 1 month of completing the course of anabolic treatment. Based on these limitations, discontinuation of teriparatide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") alone is inappropriate for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"d551b0",
+"children":[
+"Although the efficacy and safety of a 24-month course of teriparatide has been well established, the safety of longer duration of treatment is unknown. The most concerning adverse effect of teriparatide therapy is the theoretical increase in bone osteosarcoma. The risk may be minimal and a causal relationship may not exist, but data beyond 2 years of therapy are limited."
+]
+},
+{
+"type":"p",
+"hlId":"fe506c",
+"children":[
+"Transition to other anabolic or dual-action agents such as romosozumab or abaloparatide on discontinuation of teriparatide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") is also not recommended. In addition to safety concerns, transitions of therapy may result in unfavorable changes in bone turnover distinct from the response of bone turnover for a treatment-naïve patient. For example, discontinuation of romosozumab is associated with transiently increased (“rebound”) bone resorption, a phenomenon that teriparatide exacerbates when initiated during romosozumab withdrawal."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_6_4",
+"objective":{
+"__html":"Treat osteoporosis with alendronate following anabolic therapy."
+},
+"references":[
+[
+"Eastell R, Rosen CJ, Black DM, et al. Pharmacological management of osteoporosis in postmenopausal women: an Endocrine Society* clinical practice guideline. J Clin Endocrinol Metab. 2019;104:1595-1622. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30907953",
+"target":"_blank"
+},
+"children":[
+"PMID: 30907953"
+]
+},
+" doi:10.1210/jc.2019-00221"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":37,
+"C":10,
+"D":48,
+"E":0
+},
+"hlIds":[
+"91054a",
+"0d485b",
+"cb2b54",
+"ebeae9",
+"5ed247",
+"d551b0",
+"fe506c"
+]
+}

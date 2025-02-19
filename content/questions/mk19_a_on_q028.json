@@ -1,0 +1,239 @@
+{
+"id":"mk19_a_on_q028",
+"number":28,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8b7191",
+"children":[
+"A 65-year-old woman is evaluated for a lung nodule found on a preoperative chest radiograph for upcoming elective surgery. Medical history is significant for a malignant melanoma that was resected from the right chest wall 4 years ago. A right axillary sentinel lymph node was negative at that time. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1c0cb9",
+"children":[
+"On physical examination, vital signs are normal. There is a healed incision site from prior right chest wall melanoma resection. There is no evidence of local or in-transit recurrence and no axillary or other adenopathy."
+]
+},
+{
+"type":"p",
+"hlId":"96735e",
+"children":[
+"PET/CT scan shows uptake in the right lung nodule but no other evidence of disease. CT-guided biopsy of the right lung lesion shows ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" V600E–mutated malignant melanoma."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2f659f",
+"children":[
+"Which of the following is the most appropriate initial treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>BRAF</i> inhibitor"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>BRAF</i> inhibitor and a MEK inhibitor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Immunotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eb8d7c",
+"children":[
+"Surgical resection of solitary or oligometastatic disease followed by systemic therapy can be curative in many patients with melanoma."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"04f7e7",
+"children":[
+"The most appropriate treatment for this patient is surgical resection of the lung lesion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Metastasectomy can be the optimal therapy in appropriately selected patients with solitary or oligometastatic metastases in a variety of malignancies (mostly commonly melanoma, renal cell cancer, colorectal cancer, and sarcomas). Metastatic melanoma can be cured in some cases with metastasectomy. Melanoma may be more likely than some other more common cancers to manifest solitary or oligometastatic disease. The lung is the most common site of visceral metastasis for melanoma, although it has the potential to go anywhere and is more likely than other tumors to involve unusual sites such as the heart and small bowel. Although patients with fully resected metastatic melanoma are prone to develop other sites of disease, some do not. In some cases, repeated excisions of solitary metastases can lead to long-term remission. Solitary pulmonary metastases could also be addressed in some cases by radiosurgery or percutaneous radiofrequency. Positive prognostic factors for patients undergoing metastasectomy include longer disease-free intervals, fewer than three pulmonary nodules, the absence of extrathoracic and lymph node metastases, and a response to chemotherapy or immunotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"ad55ee",
+"children":[
+"Following metastasectomy, data would support the use of adjuvant systemic therapy to improve overall outcome. In this patient with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" V600E–mutated disease, either immunotherapy or targeted therapy with a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" or a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"/MEK inhibitor would be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"fdb2f4",
+"children":[
+"Although the use of immunotherapy with ipilimumab and nivolumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"/MEK inhibitor (if tumor is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+"-mutated) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") would be appropriate systemic therapy for patients with metastatic melanoma, and in some patients might be associated with durable complete responses, the patient likely has a higher probability of cure via surgical resection followed by adjuvant treatment."
+]
+}
+],
+"relatedSection":"mk19_a_on_s11_1",
+"objective":{
+"__html":"Treat melanoma with a solitary metastasis with surgical resection."
+},
+"references":[
+[
+"Bello DM. Indications for the surgical resection of stage IV disease. J Surg Oncol. 2019;119:249-61. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30561079",
+"target":"_blank"
+},
+"children":[
+"PMID: 30561079"
+]
+},
+" doi:10.1002/jso.25326"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":35,
+"C":14,
+"D":32,
+"E":0
+},
+"hlIds":[
+"8b7191",
+"1c0cb9",
+"96735e",
+"2f659f",
+"eb8d7c",
+"04f7e7",
+"ad55ee",
+"fdb2f4"
+]
+}

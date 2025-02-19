@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q042",
+"number":42,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c73f4e",
+"children":[
+"A 45-year-old woman is evaluated for pain and swelling of the left lower leg of 3 days' duration. She just returned from a trip to western Canada, where she hiked extensively in the Canadian Rocky Mountains. She has had no recent surgeries or immobilization, has no other medical problems, and takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"5f2813",
+"children":[
+"On physical examination, vital signs are normal. Swelling of the left lower extremity is present. The skin is slightly erythematous up to the knee but is not warm or painful to the touch. The left leg calf is 4 cm larger than the right, measured 10 cm below the tibial tuberosity."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cephalexin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Compression therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Deep venous thrombosis testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rest, ice, crutches, and elevation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f40b3d",
+"children":[
+"In the case of acute unilateral lower extremity edema, deep venous thrombosis must be considered."
+]
+},
+{
+"type":"keypoint",
+"hlId":"790602",
+"children":[
+"When there is a low or moderate pretest probability of deep venous thrombosis, D-dimer testing should be performed as initial diagnostic testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"33af1c",
+"children":[
+"The most appropriate management is testing for deep venous thrombosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). In the case of acute unilateral lower extremity edema, deep venous thrombosis (DVT) must be considered. The pretest probability of DVT is useful in determining the next steps for testing and treatment. The Wells score and modified Wells score are commonly used to determine pretest probability and are widely available. This patient has a moderate pretest probability of DVT based on the presence of calf swelling at least 3 cm greater than the opposite leg, and there is no alternative explanation for the symptoms that is more likely than DVT. If there is a high pretest probability of DVT, ultrasonography should be performed as the first step. When there is a low or moderate pretest probability, D-dimer testing should be performed. If the D-dimer result is negative, no further testing needs to be completed. If the result is positive or elevated, duplex ultrasonography to look for lower extremity DVT should be performed. If ultrasonography findings are positive, the patient should be treated for DVT."
+]
+},
+{
+"type":"p",
+"hlId":"4ec448",
+"children":[
+"Cellulitis is in the differential diagnosis of cutaneous erythema and leg swelling. However, cellulitis is painful and warm to the touch and commonly associated with fever and malaise, which are absent in this case. Treatment with an antibiotic, such as cephalexin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is not needed."
+]
+},
+{
+"type":"p",
+"hlId":"837990",
+"children":[
+"Compression therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the recommended treatment for edema associated with chronic venous insufficiency (CVI). However, edema due to CVI does not present acutely; is typically bilateral; and is often associated with other findings of CVI, such as varicose veins and hyperpigmentation, particularly on the medial aspect of the lower leg. This patient requires investigation for DVT rather than compression therapy for CVI."
+]
+},
+{
+"type":"p",
+"hlId":"339ea8",
+"children":[
+"Rest, ice, crutches, and elevation of the leg (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be helpful if the diagnosis were a pull or tear of the calf muscle. This cause of leg swelling is often associated with bruising around the ankle due to muscle bleeding. Calf muscle tear may be identified at the time of ultrasonography."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_7",
+"objective":{
+"__html":"Diagnose deep venous thrombosis."
+},
+"references":[
+[
+"Lim W, Le Gal G, Bates SM, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism. Blood Adv. 2018;2:3226-56. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482764",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482764"
+]
+},
+" doi:10.1182/bloodadvances.2018024828"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":3,
+"C":79,
+"D":13,
+"E":0
+},
+"hlIds":[
+"c73f4e",
+"5f2813",
+"cb2b54",
+"f40b3d",
+"790602",
+"33af1c",
+"4ec448",
+"837990",
+"339ea8"
+]
+}

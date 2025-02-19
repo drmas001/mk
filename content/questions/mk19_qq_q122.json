@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q122",
+"number":122,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 122",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1a6740",
+"children":[
+"A 45-year-old man is evaluated for minimally elevated aminotransferase levels. He is asymptomatic. He does not drink alcohol or take illicit drugs, medications, or supplements. Medical history is significant only for obesity."
+]
+},
+{
+"type":"p",
+"hlId":"2cecb3",
+"children":[
+"Other than a BMI of 30, physical examination is normal. Complete metabolic profile, hepatitis serology, and iron studies are normal. Antinuclear and anti–smooth muscle antibodies are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bariatric surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metformin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"66c856",
+"children":[
+"Abdominal ultrasonography is inexpensive and widely available, and it has a sensitivity of approximately 80% for detecting hepatic steatosis in patients with suspected nonalcoholic fatty liver disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f83cc1",
+"children":[
+"Nonalcoholic fatty liver disease (NAFLD) management focuses on weight loss through diet and lifestyle modification; there are no FDA-approved drugs for NAFLD."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bd445b",
+"children":[
+"This patient likely has nonalcoholic fatty liver disease (NAFLD), and abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be performed to confirm the diagnosis and to evaluate for fibrosis, cirrhosis, and hepatocellular carcinoma. NAFLD has reached epidemic proportions in Western societies and has become one of the leading indications for liver transplantation in the United States. Elevated liver enzyme levels support the diagnosis, but normal values do not rule it out. Depending on the patient's demographics and social history, investigations for viral hepatitis, hemochromatosis, and autoimmune hepatitis may be conducted. Abdominal ultrasonography is inexpensive and widely available, and it has a sensitivity of approximately 80% for detecting steatosis when hepatocytes contain more than 20% of histologically detected fat. Because complications of NAFLD include liver fibrosis, cirrhosis, and hepatocellular carcinoma, patients with NAFLD should have screening ultrasonography every 3 years. If fibrosis/cirrhosis is present, ultrasonographic screening should take place every 6 months. No specific treatment for NAFLD is available; therefore, weight reduction and moderation/cessation of alcohol use are strongly recommended. After the initial diagnosis of NAFLD, further evaluation for advanced fibrosis may be needed, particularly in patients with metabolic risk factors such as diabetes mellitus and hyperlipidemia."
+]
+},
+{
+"type":"p",
+"hlId":"f3c82c",
+"children":[
+"NAFLD management focuses on weight loss through diet and lifestyle modification. No specific diet for NAFLD is recommended, although carbohydrate-restricted diets may result in greater reduction in liver fat than other diets. Bariatric surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and concomitant weight loss exceeding 8% to 10% improve NAFLD-associated inflammation and fibrosis. However, this patient does not have an established diagnosis of NAFLD, and lifestyle modifications are first-line interventions for patients with obesity."
+]
+},
+{
+"type":"p",
+"hlId":"32ff91",
+"children":[
+"Liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the diagnostic gold standard for fibrosis and provides invaluable information in the assessment of advanced fibrosis; however, its invasiveness makes it a test rarely needed in the early evaluation stages of suspected NAFLD."
+]
+},
+{
+"type":"p",
+"hlId":"ef6f24",
+"children":[
+"There is no FDA-approved drug therapy for NAFLD. Clinical trials of metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in patients with NAFLD have focused on aminotransferases and/or liver histology in patients with steatohepatitis. Studies have demonstrated improvement in aminotransferase levels but not liver histology in NAFLD. Metformin is not recommended by current guidelines for treating NAFLD."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_7_1",
+"objective":{
+"__html":"Diagnose nonalcoholic fatty liver disease."
+},
+"references":[
+[
+"Chalasani N, Younossi Z, Lavine JE, et al. The diagnosis and management of nonalcoholic fatty liver disease: practice guidance from the American Association for the Study of Liver Diseases. Hepatology. 2018;67:328-357. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28714183",
+"target":"_blank"
+},
+"children":[
+"PMID: 28714183"
+]
+},
+" doi:10.1002/hep.29367"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"1a6740",
+"2cecb3",
+"cb2b54",
+"66c856",
+"f83cc1",
+"bd445b",
+"f3c82c",
+"32ff91",
+"ef6f24"
+]
+}

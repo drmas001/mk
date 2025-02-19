@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_nr_q056",
+"number":56,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6b90eb",
+"children":[
+"A 70-year-old man is evaluated for a 2-day history of agitation. He has not slept and has been rummaging about the house. He has dementia due to Alzheimer disease. His caregiver reports that he has not started any new medications and has not shown any obvious signs of infection or injury. He has not been constipated and has been able to urinate regularly. The patient is unable to give a symptom history. His only medication is donepezil."
+]
+},
+{
+"type":"p",
+"hlId":"1fb1d8",
+"children":[
+"On physical examination, vital signs are normal and other findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ad7ba2",
+"children":[
+"A complete blood count and measurement of ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"serum electrolytes"
+]
+},
+", ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+", and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"blood urea nitrogen"
+]
+},
+" will be obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9b6425",
+"children":[
+"Which of the following is the most appropriate additional diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Arterial blood gas analysis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Head CT scan"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lumbar puncture with cerebrospinal fluid analysis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urinalysis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"98f68c",
+"hvc":true,
+"children":[
+"The leading causes of delirium are fluid and electrolyte disturbances, infection, drug toxicity, metabolic disturbances, and sensory/environmental disturbances."
+]
+},
+{
+"type":"keypoint",
+"hlId":"596e3b",
+"hvc":true,
+"children":[
+"The top three classes of drugs most commonly implicated in precipitating delirium are opioids, benzodiazepines, and drugs with anticholinergic properties."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c18a1a",
+"children":[
+"Urinalysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate additional diagnostic test. The patient's sleeplessness and agitation suggest that he has developed a hyperactive delirium. His age and dementia diagnosis place him at increased risk for delirium; preexisting cognitive impairment is the major predisposing factor for delirium. The evaluation of delirium can be very difficult in patients who cannot provide a helpful history to focus the evaluation. A single cause of delirium is unusual, found in only about one-third of hospitalized patients; a mean of three causes of delirium is found in the balance of patients. The leading causes of delirium are fluid and electrolyte disturbances, infection (most commonly urinary tract and pneumonia), metabolic disturbances, sensory/environmental disturbances, and drug toxicity. The top three classes of drugs most commonly implicated in precipitating delirium are opioids, benzodiazepines, and drugs with anticholinergic properties. Intracerebral processes are uncommon causes of acute onset delirium and are usually clinically apparent. Based on these findings, a practical strategy can be developed for the evaluation of delirium in the absence of suggestive symptoms or findings. A careful review of medications should be the first step. Serum electrolytes, serum creatinine, and blood urea nitrogen levels may detect hyponatremia and suggest deficits in intravascular volume not detected on physical examination. The Infectious Disease Society of America recommends careful observation rather than antimicrobial treatment in older patients with functional and/or cognitive impairment with bacteriuria and delirium and without local genitourinary symptoms or other systemic signs of infection (strong recommendation, very low-quality evidence). In this patient who cannot give a symptom history, a urinalysis seems a reasonable initial management step. If the cause remains obscure, it is reasonable to consider chest radiography."
+]
+},
+{
+"type":"p",
+"hlId":"d38454",
+"children":[
+"Arterial blood gas analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be reserved for patients at risk for hypoxia or hypercarbia, such as patients with chronic cardiopulmonary diseases or findings that point toward an acute cardiopulmonary event."
+]
+},
+{
+"type":"p",
+"hlId":"e8a429",
+"children":[
+"A head CT scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or MRI of the brain should be reserved for patients with focal findings on the neurologic examination that suggest an intracerebral process for acute delirium, such as ischemic stroke or hemorrhage."
+]
+},
+{
+"type":"p",
+"hlId":"8fc74e",
+"children":[
+"Lumbar puncture with cerebrospinal fluid analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is essential for the evaluation of suspected central nervous system infection, particularly when directed by focal findings or meningismus. However, nothing suggests a central nervous infection in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_3_1",
+"objective":{
+"__html":"Diagnose the cause of delirium."
+},
+"references":[
+[
+"Setters B, Solberg LM. Delirium. Prim Care. 2017;44(3):541-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28797379",
+"target":"_blank"
+},
+"children":[
+"PMID: 28797379"
+]
+},
+" doi:10.1016/j.pop.2017.04.010"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":12,
+"C":4,
+"D":82,
+"E":0
+},
+"hlIds":[
+"6b90eb",
+"1fb1d8",
+"ad7ba2",
+"9b6425",
+"98f68c",
+"596e3b",
+"c18a1a",
+"d38454",
+"e8a429",
+"8fc74e"
+]
+}

@@ -1,0 +1,210 @@
+{
+"id":"mk19_b_rm_q028",
+"number":28,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7200c3",
+"children":[
+"A 52-year-old woman is evaluated at a follow-up visit. Dermatomyositis was diagnosed 4 weeks ago; she was positive for anti–Mi-2 antibodies. Prednisone has improved heliotrope and photosensitive rashes and proximal muscle weakness. She is currently asymptomatic. Current medication is prednisone, 60 mg/d. She is participating in physical therapy."
+]
+},
+{
+"type":"p",
+"hlId":"38b2f7",
+"children":[
+"On physical examination, vital signs are normal. There is no rash. Muscle strength is normal."
+]
+},
+{
+"type":"p",
+"hlId":"0b5b7c",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"Serum creatine kinase"
+]
+},
+" level is 200 U/L, decreased from 520 U/L 1 month ago."
+]
+},
+{
+"type":"p",
+"hlId":"ef3eb3",
+"children":[
+"Results of screening colonoscopy, mammography, and cervical cancer screening are all normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add hydroxychloroquine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add rituximab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Continue current therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"75123e",
+"children":[
+"In patients with dermatomyositis, initiation of methotrexate or azathioprine at diagnosis or after an early initial response to glucocorticoids is the most appropriate next step to achieve long-term disease control and to allow effective tapering of the prednisone dose."
+]
+},
+{
+"type":"keypoint",
+"hlId":"49627f",
+"children":[
+"Physical therapy may help maintain muscle function and should be used in all patients with inflammatory myopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6cd7da",
+"children":[
+"The most appropriate treatment is to add methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has classic clinical and laboratory features of dermatomyositis with myositis-associated autoantibodies and no evidence of associated malignancy or other complications. In particular, the presence of anti–Mi-2 antibodies predicts a good prognosis with a low risk for interstitial lung disease and cancer. Her symptoms have completely resolved with an initial course of oral prednisone, typically initiated at 1 mg/kg/d. Combination therapy with glucocorticoid-sparing agents is important for maintaining a clinical response and for minimizing glucocorticoid adverse effects in patients with dermatomyositis. Initiation of methotrexate or azathioprine at diagnosis or after an early initial response to glucocorticoids is the most appropriate next step to achieve long-term disease control and to allow effective tapering of the prednisone dose. Intravenous immune globulin can be added as first- or second-line treatment for patients with an inadequate response to initial combination therapy or with more severe disease. There is no guidance for optimal duration of therapy, but in the absence of flares, most patients can discontinue treatment in 9 to 12 months. Physical therapy may help maintain muscle function and should be used in all patients."
+]
+},
+{
+"type":"p",
+"hlId":"f20b24",
+"children":[
+"Hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be helpful as adjunct therapy for skin rashes in some patients with dermatomyositis who do not want, tolerate, or obtain adequate relief from topical agents and other systemic therapies. However, antimalarial agents do not impact muscle disease and are not sufficient as glucocorticoid-sparing therapy."
+]
+},
+{
+"type":"p",
+"hlId":"fa0c97",
+"children":[
+"Rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is sometimes used if the disease does not respond adequately to glucocorticoids plus either azathioprine or methotrexate, or if those agents are not tolerated. However, this patient should receive a trial of methotrexate or azathioprine and intravenous immune globulin before using rituximab."
+]
+},
+{
+"type":"p",
+"hlId":"773ab5",
+"children":[
+"Although this patient has had a good response to prednisone, symptoms are likely to recur if the glucocorticoid dose is tapered without glucocorticoid-sparing therapy. Long-term use of moderate or high doses of glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be avoided if possible because of cumulative adverse effects, including bone loss, weight gain, metabolic changes, and risk for cataracts and glaucoma."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s9_7",
+"objective":{
+"__html":"Treat dermatomyositis with the addition of a glucocorticoid-sparing agent."
+},
+"references":[
+[
+"Oddis CV, Aggarwal R. Treatment in myositis. Nat Rev Rheumatol. 2018;14:279-289. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29593343",
+"target":"_blank"
+},
+"children":[
+"PMID: 29593343"
+]
+},
+" doi:10.1038/nrrheum.2018.42"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":45,
+"C":9,
+"D":37,
+"E":0
+},
+"hlIds":[
+"7200c3",
+"38b2f7",
+"0b5b7c",
+"ef3eb3",
+"1054f1",
+"75123e",
+"49627f",
+"6cd7da",
+"f20b24",
+"fa0c97",
+"773ab5"
+]
+}

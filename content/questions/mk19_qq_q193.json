@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q193",
+"number":193,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 193",
+"stimulus":[
+{
+"type":"p",
+"hlId":"132719",
+"children":[
+"A 78-year-old woman is evaluated for apathy, difficulty with her memory, insomnia, fatigue, and constipation since her partner died 13 months ago. She also has diabetes mellitus, COPD, chronic stable angina, and narrow-angle glaucoma."
+]
+},
+{
+"type":"p",
+"hlId":"3fbc6e",
+"children":[
+"On physical examination, vital signs are normal. The patient appears uninterested during the examination. PHQ-9 score is 12. Mini-Cog assessment is normal, but answers are slow in coming."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Doxepin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Flurazepam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sertraline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivastigmine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d3b7ea",
+"children":[
+"Mild to moderate depression in elderly patients can be treated with psychotherapy or antidepressant medications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cd19fb",
+"children":[
+"Second-generation antidepressants, including selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors, are recommended as first-line pharmacologic therapy for depression; caution is advised for patients on multiple medications because medication interactions may occur."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9ebb49",
+"children":[
+"This patient should receive sertraline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Elderly patients with depression, such as this one, may have somatic and vegetative symptoms that are often misattributed to chronic illnesses or dementia. Evaluation for depression is recommended for all adults. The PHQ-9 is validated in elderly adults and has a sensitivity of 80% and a specificity of 92%, with a cutoff score of 10 or greater. The Geriatric Depression Scale has a sensitivity of 80% to 90% and a specificity of 70% to 85% and may be easier to use in patients with cognitive impairment. Mild to moderate depression in elderly patients can be treated with psychotherapy or antidepressant medications. Antidepressants are appropriate for more severe depression, as indicated by a PHQ-9 score of 12 or greater. Second-generation antidepressants, including selective serotonin reuptake inhibitors (such as sertraline) and selective serotonin-norepinephrine reuptake inhibitors, are recommended as first-line therapy, are generally well tolerated, and are effective. Caution is advised for patients on multiple medications because medication interactions may occur."
+]
+},
+{
+"type":"p",
+"hlId":"30c2de",
+"children":[
+"Doxepin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a tricyclic antidepressant (TCA). TCAs are associated with anticholinergic adverse effects, which might worsen this patient's constipation and narrow-angle glaucoma. Cardiac complications can also occur, making TCAs less appropriate for an elderly patient."
+]
+},
+{
+"type":"p",
+"hlId":"9f5b6f",
+"children":[
+"Flurazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a benzodiazepine that inhibits GABA-benzodiazepine receptors and has been used for the treatment of insomnia. Benzodiazepines are no longer recommended for insomnia because of their longer half-lives, addiction risk, and the availability of other safer options, such as cognitive behavioral therapy for insomnia and nonbenzodiazepine hypnotic/sedatives. In this patient, management of insomnia should focus on the treatment of depression."
+]
+},
+{
+"type":"p",
+"hlId":"d059b1",
+"children":[
+"Rivastigmine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an acetylcholinesterase inhibitor approved for the treatment of mild to moderate dementia. This patient has normal results on screening for cognitive function. Changes in cognitive function may be a symptom of depression in geriatric adults; thus, patients with these changes should also be evaluated for depression. If depression screening is positive, cognitive symptoms can be improved with depression treatment."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_1_4",
+"objective":{
+"__html":"Treat depression in an elderly patient."
+},
+"references":[
+[
+"Kok RM, Reynolds CF 3rd. Management of depression in older adults: a review. JAMA. 2017;317:2114-2122. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28535241",
+"target":"_blank"
+},
+"children":[
+"PMID: 28535241"
+]
+},
+" doi:10.1001/jama.2017.5706"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"132719",
+"3fbc6e",
+"1054f1",
+"d3b7ea",
+"cd19fb",
+"9ebb49",
+"30c2de",
+"9f5b6f",
+"d059b1"
+]
+}

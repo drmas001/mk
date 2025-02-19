@@ -1,0 +1,190 @@
+{
+"id":"mk19_b_hm_q037",
+"number":37,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2badc1",
+"children":[
+"A 68-year-old woman is seen in consultation 3 weeks following right hemicolectomy for stage III colon cancer. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a79cbd",
+"children":[
+"Physical examination is unremarkable, and the surgical site is healing well."
+]
+},
+{
+"type":"p",
+"hlId":"b76f13",
+"children":[
+"Chemotherapy with 5-fluorouracil, leucovorin, and oxaliplatin is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d4ebd7",
+"children":[
+"Which of the following is most appropriate venous thromboembolism risk management for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Calculate the Khorana score"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate apixaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate low-molecular-weight heparin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9717a0",
+"hvc":true,
+"children":[
+"In the absence of contraindications, outpatients with cancer at high risk of VTE (Khorana score of 2 or higher before starting a new systemic chemotherapy regimen) may be offered thromboprophylaxis with apixaban, rivaroxaban, or low-molecular-weight heparin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"db50fc",
+"children":[
+"Calculation of the Khorana score should be done as the initial step in managing venous thromboembolism (VTE) risk in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). According to the 2020 American Society of Clinical Oncology guideline on VTE prevention and treatment in patients with cancer, routine pharmacologic thromboprophylaxis should not be offered to all outpatients with cancer. Increased thrombotic risk in patients with cancer is measured using the Khorana score. The guideline recommends that high-risk outpatients with cancer (Khorana score of 2 or higher before starting a new systemic chemotherapy regimen) may be offered thromboprophylaxis with apixaban, rivaroxaban, or low-molecular-weight heparin (LMWH) provided no significant risk factors for bleeding and no drug interactions are identified. Consideration of such therapy should be accompanied by a discussion with the patient about the relative benefits and harms, drug cost, and duration of prophylaxis in this setting. The Khorana score places highest risk of VTE on gastric and pancreatic cancers (2 points), with lymphoma and lung, gynecologic, bladder, and testicular cancers also being high risk (1 point). An additional point is given for BMI greater than 35, platelet count greater than 350,000/μL (350 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), hemoglobin level less than 10 g/dL (100 g/L), and leukocyte count greater than 11,000/μL (11 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). During this patient's visit, data should be collected to calculate the score, and the results should be used to initiate a discussion regarding VTE prophylaxis benefits and harms."
+]
+},
+{
+"type":"p",
+"hlId":"2714fb",
+"children":[
+"Apixaban, rivaroxaban, and LMWH are recommended for VTE prophylaxis in patients with cancer at high risk for VTE who are about to start a new chemotherapeutic regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). However, before starting either of these agents, the patient's risk for VTE should be estimated by calculating the Khorana score."
+]
+},
+{
+"type":"p",
+"hlId":"a1cc22",
+"children":[
+"Even in patients with cancer at high risk for VTE, warfarin would not be the appropriate treatment choice (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Data do not support the use of warfarin in the primary prophylaxis of VTE in patients with cancer. In those with cancer and active VTE disease, LMWH compared with warfarin was associated with a reduction in the rate of recurrent VTE at 6 months (9% vs 17%) and was not associated with an increased rate of major bleeding (6% vs 4%) or overall mortality (39% vs 41%). In patients with cancer, warfarin is not generally recommended for either primary VTE prophylaxis or treatment, although its use may be considered in patients with multiple myeloma at high risk who are treated with thalidomide, lenalidomide, or pomalidomide combined with other agents such as glucocorticoids, doxorubicin, or erythropoietin. In these patients, LMWH may be preferred."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_3_2",
+"objective":{
+"__html":"Assess risk for venous thromboembolism before starting chemotherapy."
+},
+"references":[
+[
+"Key NS, Khorana AA, Kuderer NM, et al. Venous thromboembolism prophylaxis and treatment in patients with cancer: ASCO clinical practice guideline update. J Clin Oncol. 2020;38:496-520. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31381464",
+"target":"_blank"
+},
+"children":[
+"PMID: 31381464"
+]
+},
+" doi:10.1200/JCO.19.01461"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":61,
+"B":8,
+"C":29,
+"D":2,
+"E":0
+},
+"hlIds":[
+"2badc1",
+"a79cbd",
+"b76f13",
+"d4ebd7",
+"9717a0",
+"db50fc",
+"2714fb",
+"a1cc22"
+]
+}

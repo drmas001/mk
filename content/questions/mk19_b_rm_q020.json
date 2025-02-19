@@ -1,0 +1,214 @@
+{
+"id":"mk19_b_rm_q020",
+"number":20,
+"bookId":"rm",
+"correctAnswer":"E",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91b13c",
+"children":[
+"A 66-year-old man is evaluated for a 10-year history of pain affecting the fingers and bases of the thumbs, hips, and knees. Morning stiffness lasts less than 15 minutes, and pain is worse with activity."
+]
+},
+{
+"type":"p",
+"hlId":"6ed264",
+"children":[
+"Physical examination reveals bony hypertrophy of the distal and proximal interphalangeal joints of the hands and squaring of the thumb bases bilaterally. Both knees are tender to palpation medially and laterally. Bony enlargement of medial knees and crepitus on range of motion are noted. There is no soft-tissue swelling, warmth, or effusion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antinuclear antibodies"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Rheumatoid factor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serologic testing for <i>Borrelia burgdorferi</i>"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Synovial fluid analysis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional laboratory studies"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"191c7e",
+"hvc":true,
+"children":[
+"The cardinal signs of inflammation are pain, erythema, swelling, and warmth; with the exception of pain, noninflammatory conditions such as osteoarthritis usually lack these features."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1f1e64",
+"hvc":true,
+"children":[
+"Laboratory testing and imaging are usually not necessary to diagnose osteoarthritis but are helpful if other causes of arthritis are being considered or to help define the safety of potential therapies."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"31edd2",
+"children":[
+"No additional laboratory studies are needed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Osteoarthritis (OA) diagnosis is based on history and physical examination; radiography is confirmatory but may not be necessary. In early OA, clinical findings may not be accompanied by radiographic changes; conversely, some patients with prominent radiographic changes may have minimal or no symptoms. Patients with OA are typically older than 50 years of age; diagnosis at an earlier age should prompt inquiry into a history of previous joint damage, endocrine or metabolic disorders, or a genetic proclivity for early disease. Joints most commonly affected are the hands (first carpometacarpal joints, distal and proximal interphalangeal joints), feet (first metatarsophalangeal joint and mid foot), knees, hips, and spine, but the distribution varies. Localized OA, in which a single joint is affected, is more often a consequence of injury or joint asymmetry and often occurs in weight-bearing joints (hip or knee). Furthermore, this patient has noninflammatory arthritis, as evidenced by minimal morning stiffness and no evidence of warmth, soft-tissue swelling, or effusion; these findings further support the diagnosis of OA. Additional tests would be helpful if other causes of arthritis were being considered or would aid in decisions about therapeutic options. No additional tests are needed in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"c54044",
+"children":[
+"The cardinal signs of inflammation are pain, erythema, swelling, and warmth; with the exception of pain, noninflammatory conditions usually lack these features. This patient's history and clinical findings do not suggest inflammatory arthritis, in particular inflammatory autoimmune disorders (such as systemic lupus erythematosus or rheumatoid arthritis). Evaluation for these conditions with testing of antinuclear antibodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or rheumatoid factor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not needed."
+]
+},
+{
+"type":"p",
+"hlId":"6011e4",
+"children":[
+"Lyme arthritis is an infectious arthritis with an inflammatory synovial response. It is usually monoarticular and occasionally polyarticular. This patient has polyarticular arthritis and does not have findings suggestive of inflammatory arthritis; serologic testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"2392e9",
+"children":[
+"Synovial fluid analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is helpful if effusion is present and there is concern about other causes of arthritis, such as concurrent crystal arthritis, infections, or other inflammatory causes. This patient does not meet these criteria."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s4_4_1",
+"objective":{
+"__html":"Diagnose osteoarthritis with history and physical examination."
+},
+"references":[
+[
+"Martel-Pelletier J, Maheu E, Pelletier JP, et al. A new decision tree for diagnosis of osteoarthritis in primary care: international consensus of experts. Aging Clin Exp Res. 2019;31:19-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30539541",
+"target":"_blank"
+},
+"children":[
+"PMID: 30539541"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":7,
+"C":1,
+"D":3,
+"E":89
+},
+"hlIds":[
+"91b13c",
+"6ed264",
+"c5165c",
+"191c7e",
+"1f1e64",
+"31edd2",
+"c54044",
+"6011e4",
+"2392e9"
+]
+}

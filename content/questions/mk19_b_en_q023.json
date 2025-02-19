@@ -1,0 +1,204 @@
+{
+"id":"mk19_b_en_q023",
+"number":23,
+"bookId":"en",
+"correctAnswer":"E",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9a438f",
+"children":[
+"A 37-year-old woman is evaluated for secondary fracture prevention 3 months after surgery for a right distal radius fracture sustained from a fall. Family history is significant for low bone mass in her mother. Her only medication is an ethinyl estradiol and norgestimate oral contraceptive. Her medical history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"4c50eb",
+"children":[
+"Physical examination is normal. BMI is 22."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone mineral density measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Calcium supplementation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fracture Risk Assessment score calculation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral contraceptive discontinuation"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Therapeutic lifestyle interventions"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a0731b",
+"hvc":true,
+"children":[
+"In otherwise healthy young adults, a low-energy fracture is not an indication for bone mineral density measurement."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"954ca5",
+"children":[
+"The most appropriate management is therapeutic lifestyle interventions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), including maintenance of healthy body weight, balanced nutrition, physical fitness, abstinence from smoking, and moderation of alcohol intake. The incidence of distal radius fractures in the young adult population is significantly lower than that in other age groups, especially adolescents and those older than 50 years. Therapeutic lifestyle changes to maintain bone health and prevent bone loss, such as routine aerobic physical activity and weight-bearing exercises, are recommended for all patients, regardless of age, fracture history, or presence of osteoporosis."
+]
+},
+{
+"type":"p",
+"hlId":"dcdf89",
+"children":[
+"Bone mineral density (BMD) measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") by dual-energy x-ray absorptiometry identifies older individuals at increased risk for fracture. Normal BMD is associated with bone strength, thus resistance of bone to fracture. BMD testing is not indicated in young adults, with exceptions being recurrent low energy fractures or disorders known to cause metabolic bone disease, such as eating disorders, solid organ transplantation, or glucocorticoid therapy."
+]
+},
+{
+"type":"p",
+"hlId":"9c0683",
+"children":[
+"The role of calcium and calcium supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in management of postmenopausal osteoporosis is debatable, with no more than modest benefits in the absence of overt dietary deficiency or malabsorption of calcium. In absence of malabsorption or metabolic bone disease, calcium supplementation in a young adult with normal dietary calcium intake is not beneficial."
+]
+},
+{
+"type":"p",
+"hlId":"4aae48",
+"children":[
+"The Fracture Risk Assessment (FRAX) score (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a tool developed to evaluate fracture risk for patients by integrating clinical risk factors with BMD measurement. It is based on individual patient models and epidemiologic data sets in menopausal women and older men. In younger adults, the predictive relationship of the FRAX score to fracture risk is not clinically useful; thus, the FRAX score is not relevant to this patient's care."
+]
+},
+{
+"type":"p",
+"hlId":"933f60",
+"children":[
+"Exogenous progestin therapy for contraception results in suppression of the hypothalamic-pituitary-ovarian axis and bone loss in premenopausal women. However, the addition of estradiol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to progestin-based contraceptive agents provides adequate estrogen for most women to prevent bone loss and is not associated with an increased risk for fracture. The patient does not need to discontinue her oral contraceptive."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_5",
+"objective":{
+"__html":"Evaluate low-energy fracture in a premenopausal woman."
+},
+"references":[
+[
+"Curry SJ, Krist AH, Owens DK, et al; US Preventive Services Task Force. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force recommendation statement. JAMA. 2018;319:2521-2531. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29946735",
+"target":"_blank"
+},
+"children":[
+"PMID: 29946735"
+]
+},
+" doi:10.1001/jama.2018.7498"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":39,
+"B":6,
+"C":30,
+"D":3,
+"E":22
+},
+"hlIds":[
+"9a438f",
+"4c50eb",
+"cb2b54",
+"a0731b",
+"954ca5",
+"dcdf89",
+"9c0683",
+"4aae48",
+"933f60"
+]
+}

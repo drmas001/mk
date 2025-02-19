@@ -1,0 +1,248 @@
+{
+"id":"mk19_qq_q132",
+"number":132,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 132",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4f67f5",
+"children":[
+"A 77-year-old man is evaluated for mild fatigue of 3 years' duration. He is otherwise asymptomatic and takes no medications. Depression screening is negative."
+]
+},
+{
+"type":"p",
+"hlId":"aee821",
+"children":[
+"Physical examination findings are normal. Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level is 7.1 µU/mL (7.1 mU/L; unchanged from 6 months ago) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level is 1.3 ng/dL (16.8 pmol/L). Complete blood count, complete metabolic profile, and thyroid peroxidase antibody level are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Levothyroxine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat thyroid function testing in 6 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyrotropin receptor antibody measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Triiodothyronine measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e48fc9",
+"children":[
+"Subclinical hypothyroidism is diagnosed by thyroid-stimulating hormone suppression with normal thyroxine levels."
+]
+},
+{
+"type":"keypoint",
+"hlId":"341d6f",
+"children":[
+"Evidence is insufficient to conclude that treatment of subclinical hypothyroidism minimizes risk or improves outcomes when the serum thyroid-stimulating hormone level is 10 µU/mL (10 mU/L) or less (some guidelines suggest <20 µU/mL [20 mU/L])."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"033593",
+"children":[
+"This patient's thyroid function studies should be repeated in 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He has subclinical hypothyroidism, diagnosed by a thyroid-stimulating hormone (TSH) level higher than normal with a normal thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") level. Patients typically have mild or no symptoms of hypothyroidism. The causes of subclinical hypothyroidism are generally considered the same as for overt hypothyroidism. Patients with subclinical hypothyroidism may have mild elevations in serum total cholesterol, LDL cholesterol, and even C-reactive protein levels, and some meta-analyses have shown an increased risk for atherosclerosis and cardiac events. Two percent to 4% of patients with subclinical hypothyroidism progress to overt hypothyroidism yearly, whereas in one third of patients, thyroid function will spontaneously revert to normal. The normal range for TSH increases with age, and a TSH level of up to 7.9 µU/mL (7.9 mU/L) is within the normal range for persons 80 years of age and older. Thus, it is reasonable to repeat the thyroid function studies in 6 months."
+]
+},
+{
+"type":"p",
+"hlId":"88e756",
+"children":[
+"Evidence is insufficient to conclude that treatment with levothyroxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") minimizes risk or improves outcomes when the serum TSH level is 10 µU/mL (10 mU/L) or less (some guidelines suggest <20 µU/mL [20 mU/L]). Treatment is recommended when serum TSH levels are greater than 10 µU/mL (10 mU/L; or possibly ≥20 µU/mL [20 mU/L]). This recommendation does not apply to women who are pregnant, and it may not apply to younger patients (age <30 years). Levothyroxine also may be considered for patients who have marked symptoms, a goiter, or positive serum thyroid peroxidase antibody titers. This patient is asymptomatic (except for mild fatigue) and in good health. His clinical examination findings are normal and thus support the concept that he does not require exogenous levothyroxine."
+]
+},
+{
+"type":"p",
+"hlId":"f5630e",
+"children":[
+"Thyroid-stimulating immunoglobulin or thyrotropin receptor antibody (TRAb) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") measurements can identify Graves disease with high sensitivity and specificity. Third-generation TRAb measurement may provide a quicker and more cost-efficient diagnosis than a radioactive iodine uptake study. However, this patient's elevated TSH level excludes the diagnosis of Graves disease and the need for TRAb testing."
+]
+},
+{
+"type":"p",
+"hlId":"b0f732",
+"children":[
+"Measurement of triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in the setting of hypothyroidism is not necessary; normal levels are maintained unless hypothyroidism is severe. TSH increases first in hypothyroidism, followed by T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" decreases. Measurement of T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" in hyperthyroidism is recommended in three settings: (1) the evaluation of thyrotoxicosis to identify isolated T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" toxicosis, (2) the assessment of hyperthyroidism severity and therapeutic response, and (3) the differentiation of hyperthyroidism from destructive thyroiditis."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_4",
+"objective":{
+"__html":"Manage subclinical hypothyroidism."
+},
+"references":[
+[
+"Peeters RP. Subclinical hypothyroidism. N Engl J Med. 2017;376:2556-2565. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28657873",
+"target":"_blank"
+},
+"children":[
+"PMID: 28657873"
+]
+},
+" doi:10.1056/NEJMcp1611144"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"4f67f5",
+"aee821",
+"cb2b54",
+"e48fc9",
+"341d6f",
+"033593",
+"88e756",
+"f5630e",
+"b0f732"
+]
+}

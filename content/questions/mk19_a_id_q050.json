@@ -1,0 +1,261 @@
+{
+"id":"mk19_a_id_q050",
+"number":50,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"21b03e",
+"children":[
+"An 84-year-old woman is evaluated 2 days after hospitalization for pneumonia. Initial treatment included ceftriaxone and azithromycin, but azithromycin was stopped following a negative urine ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" antigen test. She is clinically improved and is able to eat and maintain oral hydration."
+]
+},
+{
+"type":"p",
+"hlId":"b3b8f3",
+"children":[
+"On physical examination, temperature is 37.7 °C (99.9 °F), blood pressure is 126/84 mm Hg, pulse rate is 82/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% breathing ambient air. Pulmonary examination reveals crackles in the right lower lung field."
+]
+},
+{
+"type":"p",
+"hlId":"d8b07a",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 9700/µL (9.7 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), improved from 15,400/µL (15.4 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"3321bf",
+"children":[
+"Admission chest radiograph showed a right lower lobe infiltrate without a pulmonary effusion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue ceftriaxone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure procalcitonin level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat chest radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to oral amoxicillin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cc5d83",
+"hvc":true,
+"children":[
+"Factors supporting readiness for conversion from intravenous to oral therapy include a temperature of 38 °C (100.4 °F) or less, improving leukocyte count, clinical improvement, ability to take oral medications, and no other indication for intravenous therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"328917",
+"hvc":true,
+"children":[
+"Repeat radiography of patients with pneumonia whose symptoms are improving is not recommended regardless of de-escalation from intravenous to oral antibiotics."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3a55bf",
+"children":[
+"This patient is ready to be changed from intravenous antibiotic therapy to oral antibiotic therapy to complete a 5- to 7-day antibiotic course (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Factors supporting readiness for conversion to oral therapy include a temperature of 38 °C (100.4 °F) or less, an improving leukocyte count, clinical stability and improvement of signs and symptoms related to infection, a functioning gastrointestinal tract, no indication for intravenous therapy (e.g., endocarditis, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" bacteremia), and availability of a suitable oral alternative with good oral bioavailability (e.g., amoxicillin or doxycycline)."
+]
+},
+{
+"type":"p",
+"hlId":"56007d",
+"children":[
+"Continuing intravenous therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would provide no further advantage for this patient and actually carries risks, including developing a venous catheter–associated bloodstream infection, which can occur even with a peripheral intravenous catheter."
+]
+},
+{
+"type":"p",
+"hlId":"039681",
+"children":[
+"Older studies demonstrated that serial procalcitonin measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") could decrease the duration of antibiotic therapy in hospitalized patients with community-acquired pneumonia. However, these studies were performed in patients who typically received antibiotic therapy for an extended period of time, exceeding the duration recommended by current guidelines. Serial procalcitonin measurements are unlikely to be helpful in guiding antibiotic therapy duration in patients expected to complete a 5- to 7-day course and will not influence decisions regarding when to convert from intravenous to oral therapy."
+]
+},
+{
+"type":"p",
+"hlId":"838705",
+"children":[
+"The possibility of a parapneumonic process should be considered in the differential diagnosis of nonresponsive pneumonia; a chest radiograph (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can reveal a pleural effusion that could represent a parapneumonic effusion, empyema, or a lung abscess that would require further investigation and treatment. Repeat radiography of patients whose symptoms are improving is not recommended regardless of de-escalation from intravenous to oral antibiotics."
+]
+}
+],
+"relatedSection":"mk19_a_id_s20_2",
+"objective":{
+"__html":"Convert intravenous antibiotic therapy to oral antibiotic therapy."
+},
+"references":[
+[
+"Barlam TF, Cosgrove SE, Abbo LM, et al. Implementing an antibiotic stewardship program: guidelines by the Infectious Diseases Society of America and the Society for Healthcare Epidemiology of America. Clin Infect Dis. 2016;62:e51-77. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27080992",
+"target":"_blank"
+},
+"children":[
+"PMID: 27080992"
+]
+},
+" doi:10.1093/cid/ciw118"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":28,
+"B":6,
+"C":1,
+"D":65,
+"E":0
+},
+"hlIds":[
+"21b03e",
+"b3b8f3",
+"d8b07a",
+"3321bf",
+"cb2b54",
+"cc5d83",
+"328917",
+"3a55bf",
+"56007d",
+"039681",
+"838705"
+]
+}

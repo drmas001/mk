@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gm_q030",
+"number":30,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b92fd9",
+"children":[
+"A 62-year-old woman is evaluated for slowly progressive swelling of the right posterior elbow of 3 days' duration. She works as a gardener. The patient has no chronic medical conditions. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"46c67c",
+"children":[
+"On physical examination, vital signs are normal. The posterior aspect of the right elbow is swollen and slightly tender to palpation. No warmth, drainage, or other skin changes are noted. Range of motion of the right elbow is normal. There are no other joint abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bursa aspiration"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glucocorticoid injection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Joint aspiration"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rest, ice, and protection"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Surgical drainage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a662c9",
+"children":[
+"In patients with local swelling of the elbow joint, the ability to extend the elbow without pain excludes joint infection and is compatible with olecranon bursitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f13b27",
+"children":[
+"Supportive care with joint rest, ice, elbow protection, and as-needed NSAID therapy provides the best clinical outcome for aseptic, mechanical olecranon bursitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8cf511",
+"children":[
+"The most appropriate management is rest, ice, and protection (elbow pads) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has olecranon bursitis, manifesting as an accumulation of fluid in the olecranon bursa. Common causes include trauma, intensive physical labor, infection (septic bursitis), crystal deposition (uric acid, calcium phosphate), and inflammation from rheumatologic disorders. In this patient without symptoms of infection (no erythema, warmth, or significant pain) or rheumatologic disease, bursitis was probably induced by repetitive stress due to gardening. Supportive care with joint rest, ice, elbow protection, and as-needed NSAID therapy provides the best clinical outcome for aseptic, mechanical olecranon bursitis."
+]
+},
+{
+"type":"p",
+"hlId":"8e909b",
+"children":[
+"In some patients with evidence of olecranon bursitis, needle aspiration of the bursa (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for fluid Gram stain, examination for crystals, and culture is indicated if the bursitis is associated with pain, erythema, and warmth. Infected superficial bursae, such as the olecranon and prepatellar, can lead to sepsis if not recognized and treated with needle drainage and antibiotics. In these cases, contiguous skin infection is commonly present. This patient has no evidence of concomitant skin infection or local signs of inflammation, and bursa aspiration is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"74611b",
+"children":[
+"Glucocorticoid injection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be avoided in patients with aseptic olecranon bursitis. In a systematic review, patients with aseptic bursitis treated with glucocorticoid injection had increased complications, including skin atrophy, without improved outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"ffee77",
+"children":[
+"Joint aspiration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") with Gram stain, microscopy for crystals, and culture should be performed when joint infection is suspected. Involvement of the joint is suggested by pain with elbow extension. In patients with fluid within the elbow joint, full extension decreases the volume of the joint capsule, thus distending the inflamed joint capsule and causing pain. This patient was able to extend the elbow joint without pain, ruling out joint infection and the need for joint aspiration."
+]
+},
+{
+"type":"p",
+"hlId":"4cfbd2",
+"children":[
+"Nonsurgical management of olecranon bursitis is significantly more effective than surgical management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), leading to higher rates of clinical resolution. In addition, surgical incision and drainage is associated with higher rates of complications, persistent drainage, and bursal infections. Surgery may be necessary for infectious or refractory bursitis. In some cases of chronic olecranon bursitis, arthroscopic bursectomy is required."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_4_3_4",
+"objective":{
+"__html":"Treat noninfectious olecranon bursitis."
+},
+"references":[
+[
+"Sayegh ET, Strauch RJ. Treatment of olecranon bursitis: a systematic review. Arch Orthop Trauma Surg. 2014;134:1517-36. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25234151",
+"target":"_blank"
+},
+"children":[
+"PMID: 25234151"
+]
+},
+" doi:10.1007/s00402-014-2088-3"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":23,
+"B":1,
+"C":5,
+"D":71,
+"E":0
+},
+"hlIds":[
+"b92fd9",
+"46c67c",
+"cb2b54",
+"a662c9",
+"f13b27",
+"8cf511",
+"8e909b",
+"74611b",
+"ffee77",
+"4cfbd2"
+]
+}

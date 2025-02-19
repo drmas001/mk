@@ -1,0 +1,189 @@
+{
+"id":"mk19_b_gm_q077",
+"number":77,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fb5439",
+"children":[
+"A 65-year-old man is evaluated during a follow-up visit for type 2 diabetes mellitus. He feels well. He reports no chest pain or shortness of breath. Medical history is also significant for atrial fibrillation, dyslipidemia, and hypertension. Medications are metformin, liraglutide, lisinopril, metoprolol, rivaroxaban, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"480fb2",
+"children":[
+"His 10-year atherosclerotic cardiovascular disease risk is 24% using the Pooled Cohort Equations."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"25d309",
+"children":[
+"Which of the following is the best advice regarding aspirin therapy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin, 81 mg/d"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aspirin, 81 mg/d, and omeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Aspirin, 325 mg/d"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No aspirin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"14d978",
+"hvc":true,
+"children":[
+"Aspirin should be used infrequently in primary prevention of atherosclerotic cardiovascular disease but should not be used in patients at increased risk for bleeding."
+]
+},
+{
+"type":"keypoint",
+"hlId":"186efb",
+"hvc":true,
+"children":[
+"Low-dose aspirin may be considered for primary prevention of atherosclerotic cardiovascular disease (ASCVD) in some individuals aged 40 to 70 years who are at high risk for ASCVD and do not have an increased bleeding risk."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ba1cfc",
+"children":[
+"Aspirin is not recommended (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for patients at higher risk for bleeding, such as this patient taking rivaroxaban. The U.S. Preventive Services Task Force recommends low-dose aspirin for the primary prevention of atherosclerotic cardiovascular disease (ASCVD) and colorectal cancer in willing adults aged 50 to 59 years with a 10-year ASCVD risk of 10% or higher, a life expectancy of at least 10 years, and no increased risk for bleeding. This patient has a 10-year ASCVD risk greater than 10% and may be considered for aspirin therapy for primary prevention of ASCVD. Tempering the recommendation for primary prevention of ASCVD with aspirin are multiple trials, including ASCEND, ARRIVE, and ASPREE, and a 2019 meta-analysis showing no net mortality benefit with aspirin; reductions in nonfatal myocardial infarction and ischemic stroke were offset by an increased risk for major bleeding, including intracranial hemorrhage. Factors that increase risk for bleeding include increasing age, male sex, concurrent anticoagulant or NSAID use, history of gastrointestinal bleeding, upper gastrointestinal pain, uncontrolled hypertension, chronic kidney disease, and thrombocytopenia. Because of these data, the American College of Cardiology and the American Heart Association recommended that aspirin should be used infrequently in primary prevention of ASCVD and that low-dose (81 mg/d) aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") might be considered for primary prevention of ASCVD only in some individuals aged 40 to 70 years who are at high risk for ASCVD but do not have an increased bleeding risk."
+]
+},
+{
+"type":"p",
+"hlId":"a6af96",
+"children":[
+"The addition of a proton pump inhibitor, such as omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is recommended by the American College of Cardiology for patients with established ASCVD disease who require treatment with two or more antithrombotic agents. These patients should also avoid NSAIDs. However, this patient should not take aspirin and therefore does not need to take a proton pump inhibitor."
+]
+},
+{
+"type":"p",
+"hlId":"491348",
+"children":[
+"Higher doses of aspirin, such as 325 mg (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), have not been shown to be more effective in primary prevention of ASCVD than low-dose aspirin and are associated with increased risk for bleeding. If aspirin were indicated as a primary prevention measure in this patient, low-dose aspirin would be appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_4",
+"objective":{
+"__html":"Avoid aspirin for primary prevention in patients on anticoagulation."
+},
+"references":[
+[
+"Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: a report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. Circulation. 2019;140:e596-646. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30879355",
+"target":"_blank"
+},
+"children":[
+"PMID: 30879355"
+]
+},
+" doi:10.1161/CIR.0000000000000678"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":38,
+"B":7,
+"C":2,
+"D":53,
+"E":0
+},
+"hlIds":[
+"fb5439",
+"f8786b",
+"480fb2",
+"25d309",
+"14d978",
+"186efb",
+"ba1cfc",
+"a6af96",
+"491348"
+]
+}

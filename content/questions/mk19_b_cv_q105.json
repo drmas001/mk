@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_cv_q105",
+"number":105,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 105",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d19cbb",
+"children":[
+"A 73-year-old woman is evaluated in the emergency department for a 1-day history of recurrent ischemic chest pain. The last episode began 30 minutes ago and is ongoing despite escalating doses of sublingual and parenteral nitroglycerin. History is significant for hypertension and dyslipidemia. Medications are enalapril and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"b1d956",
+"children":[
+"On physical examination, blood pressure is 119/84 mm Hg, and pulse rate is 104/min. Other than an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+", the cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"14bebf",
+"children":[
+"The first set of cardiac biomarker levels is normal."
+]
+},
+{
+"type":"p",
+"hlId":"3da82c",
+"children":[
+"ECG shows sinus tachycardia and new 2-mm ST-segment depressions in the inferior leads."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"06966b",
+"children":[
+"Which of the following is the most appropriate imaging test in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coronary artery calcium scoring"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary CT angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Invasive coronary angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5ceede",
+"children":[
+"Coronary angiography is indicated for patients with acute chest pain who are highly symptomatic with abnormal findings on stress testing, selected patients with acute coronary syndrome, and patients with ischemic symptoms that are refractory to medication."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0d4f03",
+"children":[
+"Invasive coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate imaging test to evaluate this patient's chest pain. This procedure is indicated for patients with acute chest pain who are highly symptomatic with abnormal findings on stress testing or for selected patients with an acute coronary syndrome. Coronary angiography should also be considered for patients with ischemic symptoms that are refractory to medication, such as this patient with unstable angina refractory to medical therapy. If culprit lesions amenable to intervention are identified during diagnostic coronary angiography, percutaneous revascularization can be performed."
+]
+},
+{
+"type":"p",
+"hlId":"826e2a",
+"children":[
+"Calcification of the coronary arteries indicates atherosclerosis and may be quantified with CT. Although coronary artery calcium (CAC) scoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") provides information regarding the burden of disease, it cannot determine the degree of obstruction. In addition, CAC scoring has no use in patients already receiving statin therapy. CAC scoring will provide no benefit to this patient with acute, refractory ischemia."
+]
+},
+{
+"type":"p",
+"hlId":"893e45",
+"children":[
+"This patient's chest pain warrants imaging of the coronary arteries, which could be accomplished by coronary CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). However, the acuity of this presentation indicates a high likelihood of requiring coronary intervention, which would be delayed by pursuing another imaging test beforehand. In addition, coronary CT angiography assessment of atherosclerotic occlusions may be limited by the presence of accompanying calcification."
+]
+},
+{
+"type":"p",
+"hlId":"3834f6",
+"children":[
+"Transthoracic echocardiography (TTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can evaluate right and left chamber size, thickness, and function, including wall motion. TTE also provides information on valvular pathology, diastolic function, hemodynamics, and the pericardium. New wall motion abnormalities might suggest the presence of ischemic disease, but coronary angiography can establish a precise anatomic diagnosis and has the potential to be followed immediately by revascularization."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_2",
+"objective":{
+"__html":"Evaluate refractory ischemic chest pain with invasive coronary angiography."
+},
+"references":[
+[
+"Amsterdam EA, Wenger NK, Brindis RG, et al. 2014 AHA/ACC guideline for the management of patients with non-ST-elevation acute coronary syndromes: a report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2014;64:e139-e228. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25260718",
+"target":"_blank"
+},
+"children":[
+"PMID: 25260718"
+]
+},
+" doi:10.1016/j.jacc.2014.09.017"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":9,
+"C":78,
+"D":10,
+"E":0
+},
+"hlIds":[
+"d19cbb",
+"b1d956",
+"14bebf",
+"3da82c",
+"06966b",
+"5ceede",
+"0d4f03",
+"826e2a",
+"893e45",
+"3834f6"
+]
+}

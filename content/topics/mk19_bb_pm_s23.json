@@ -1,0 +1,1070 @@
+{
+"id":"mk19_bb_pm_s23",
+"subspecialtyId":"pm",
+"title":"Sepsis",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_pm_s23",
+"title":{
+"__html":"Sepsis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"1d5f90",
+"children":[
+"Sepsis"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_pm_s23_1",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"948922",
+"children":[
+"Operationally, sepsis can be identified whenever infection is known or suspected and clinical criteria defining organ dysfunction are met."
+]
+},
+{
+"type":"p",
+"hlId":"b443c5",
+"children":[
+"Know the differential diagnosis of shock syndromes and their associated hemodynamic parameters."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_pm_s23_inline_t1"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_pm_s23_2",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_bb_pm_s23_inline_t2"
+],
+"forceOpen":true
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"ccf00e",
+"children":[
+"Do not perform cortisol stimulation testing."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"5d2332",
+"children":[
+"Do not use noninvasive ventilation."
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_pm_s23_inline_t1":{
+"id":"mk19_bb_pm_s23_inline_t1",
+"number":1,
+"bookId":"pm",
+"title":{
+"__html":"Study Table: Shock Syndromes"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"92f784",
+"children":[
+"Study Table: Shock Syndromes"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9e2941",
+"class":"col hd l",
+"children":[
+"Condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"93932b",
+"class":"col hd l",
+"children":[
+"Characteristics"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"109d5a",
+"class":"cell txt l",
+"children":[
+"Cardiogenic shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"870d19",
+"class":"cell txt l",
+"children":[
+"Low cardiac output, elevated ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"pulmonary capillary wedge pressure",
+"children":[
+"PCWP"
+]
+},
+","
+]
+},
+" and high SVR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d9761e",
+"class":"cell txt l",
+"children":[
+"Elevated ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"central venous pressure",
+"children":[
+"CVP"
+]
+},
+","
+]
+},
+" S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", pulmonary crackles, edema, and ",
+{
+"type":"abbreviation",
+"title":"cardiovascular disease",
+"children":[
+"CVD"
+]
+},
+" risk factors"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b26e20",
+"class":"cell txt l",
+"children":[
+"Hypovolemic shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ec14ba",
+"class":"cell txt l",
+"children":[
+"Low cardiac output, low PCWP, and high SVR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7f27c8",
+"class":"cell txt l",
+"children":[
+"Obvious source of volume loss (hemorrhage, dehydration, diarrhea, nausea/vomiting)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"242c8e",
+"class":"cell txt l",
+"children":[
+"Obstructive shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ccac85",
+"class":"cell txt l",
+"children":[
+"Low cardiac output, variable PCWP, and high SVR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"276715",
+"class":"cell txt l",
+"children":[
+"Consider cardiac tamponade, ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"pulmonary embolism",
+"children":[
+"PE"
+]
+},
+","
+]
+},
+" and tension pneumothorax"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8d280b",
+"class":"cell txt l",
+"children":[
+"Anaphylactic shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d85369",
+"class":"cell txt l",
+"children":[
+"High cardiac output, normal PCWP, and low SVR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d1e7c5",
+"class":"cell txt l",
+"children":[
+"Rash, urticaria, angioedema, and wheezing/stridor"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"440734",
+"class":"cell txt l",
+"children":[
+"Septic shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7edcf3",
+"class":"cell txt l",
+"children":[
+"High cardiac output (early) that can become depressed (late) and low SVR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"50ff01",
+"class":"cell txt l",
+"children":[
+"Known or suspected infection"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"SVR = systemic vascular resistance."
+]
+]
+},
+"mk19_bb_pm_s23_inline_t2":{
+"id":"mk19_bb_pm_s23_inline_t2",
+"number":2,
+"bookId":"pm",
+"title":{
+"__html":"Study Table: Treatment of Sepsis and Septic Shock"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"803776",
+"children":[
+"Study Table: Treatment of Sepsis and Septic Shock"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4c4ac0",
+"class":"col hd l",
+"children":[
+"Treatment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e49874",
+"class":"col hd l",
+"children":[
+"Application"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3f6962",
+"class":"cell txt l",
+"children":[
+"Fluid resuscitation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f50bfd",
+"class":"cell txt l",
+"children":[
+"Balanced crystalloids"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"db0917",
+"class":"cell txt l",
+"children":[
+"30 mL/kg within the first 3 hours"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d42e97",
+"class":"cell txt l",
+"children":[
+"Subsequent fluid based on clinical assessment"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d09464",
+"class":"cell txt l",
+"children":[
+"Vasopressors"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f7ac0c",
+"class":"cell txt l",
+"children":[
+"Norepinephrine"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5ec54b",
+"class":"cell txt l",
+"children":[
+"Vasopressin (norepinephrine-sparing agent)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"89427b",
+"class":"cell txt l",
+"children":[
+"Indicated for persistent hypotension unresponsive to fluids"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ac4ffa",
+"class":"cell txt l",
+"children":[
+"Source identification and control"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"063673",
+"class":"cell txt l",
+"children":[
+"Blood cultures, cultures of potential sites of infection, chest x-ray, urinalysis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf8abb",
+"class":"cell txt l",
+"children":[
+"Antibiotic therapy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e8f1fc",
+"class":"cell txt l",
+"children":[
+"Initiate within 1 h of diagnosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"c04c48",
+"class":"cell txt l",
+"children":[
+"Narrow coverage based on culture and sensitivity findings"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f78eb4",
+"class":"cell txt l",
+"children":[
+"Carbapenem or extended-range penicillin/β-lactamase inhibitor in most patients; in cases of septic shock (but not sepsis without shock), combination therapy with at least two antibiotics from different classes to cover the most likely bacterial pathogen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"071ea7",
+"class":"cell txt l",
+"children":[
+"Hydrocortisone"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d24ba8",
+"class":"cell txt l",
+"children":[
+"200-400 mg/d IV for persistent hypotension despite fluids and vasopressors"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6aed73",
+"class":"cell txt l",
+"children":[
+"Glucose control"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c9ae93",
+"class":"cell txt l",
+"children":[
+"Insulin therapy to maintain glucose between 140 and 180 mg/dL"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d6c524",
+"class":"cell txt l",
+"children":[
+"Mechanical ventilation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0fe406",
+"class":"cell txt l",
+"children":[
+"Tidal volume 4-8 mg/kg of ideal body weight if ",
+{
+"type":"abbreviation",
+"title":"acute respiratory distress syndrome",
+"children":[
+"ARDS"
+]
+},
+" present"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

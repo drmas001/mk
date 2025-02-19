@@ -1,0 +1,214 @@
+{
+"id":"mk19_b_rm_q055",
+"number":55,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"58ab40",
+"children":[
+"A 65-year-old man is evaluated for “pain everywhere.” Two months ago, he developed neck and upper back pain, fatigue, and malaise. Over the next few weeks, stiffness and achiness developed in the shoulders and upper arms. He has no headaches, visual changes, or jaw discomfort. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"745193",
+"children":[
+"On physical examination, vital signs are normal. There is no scalp tenderness. Temporal artery pulses are normal. There are no swollen or tender joints. Discomfort limits range of shoulder motion bilaterally and causes difficulty with standing from a seated position. Extremity strength and reflexes are normal."
+]
+},
+{
+"type":"p",
+"hlId":"4bf88f",
+"children":[
+"Laboratory evaluation shows a normal complete blood count, normal serum thyroid-stimulating hormone level, and blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"C-reactive protein, blood",
+"children":[
+"C-reactive protein"
+]
+},
+" level of 6.8 mg/dL (68 mg/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Measurement of rheumatoid factor, antinuclear antibodies, and ANCA"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prednisone, 15 mg/d"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone, 60 mg/d"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pregabalin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"94dffb",
+"children":[
+"Polymyalgia rheumatica is characterized by symmetric proximal myalgia and stiffness, accompanied by constitutional symptoms and elevated inflammatory markers."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2675a1",
+"children":[
+"For polymyalgia rheumatica, initiating prednisone at 12.5 to 20 mg/d is appropriate treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bff163",
+"children":[
+"The most appropriate management is prednisone, 15 mg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has polymyalgia rheumatica (PMR) characterized by symmetric proximal myalgia and stiffness, accompanied by constitutional symptoms and an elevated C-reactive protein level. Symptoms are most pronounced in the morning and improve after several hours. Although some patients also have peripheral arthritis (usually of the knees and wrists), most do not. Physical findings are usually limited to difficulty moving the affected areas (shoulders and hips). There is no diagnostic test specific for PMR. With a reasonable degree of suspicion for PMR, an empiric glucocorticoid trial is appropriate. Initiating prednisone at 12.5 to 20 mg/d is appropriate for this generally self-limited illness. Symptoms usually improve dramatically within 48 hours (diagnostically helpful), and tapering may begin after 2 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"c9bcf1",
+"children":[
+"This patient has a clear diagnosis of PMR, and there is no need to seek an alternative diagnosis that is not suggested by the clinical presentation. Testing for rheumatoid factor, antinuclear antibodies, and ANCA (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary because this patient shows no evidence of diseases such as rheumatoid arthritis, systemic lupus erythematosus (SLE), or granulomatosis with polyangiitis. Rheumatoid arthritis is characterized by a chronic inflammatory polyarthritis affecting large and small joints, with a predilection for the small joints of the hands and feet. SLE is a multisystem autoimmune disease affecting mainly women (90%), and skin rash and joint symptoms affect 90% of patients. Granulomatosis with polyangiitis affects the upper and lower airways, kidneys, eyes, and ears."
+]
+},
+{
+"type":"p",
+"hlId":"b78209",
+"children":[
+"A prednisone dosage of 60 mg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is much too high and unnecessary for PMR. This dosage is used to treat giant cell arteritis."
+]
+},
+{
+"type":"p",
+"hlId":"cc2514",
+"children":[
+"Although the patient's primary concern is “pain everywhere,” further questioning reveals that the patient has pain in distinct areas. It is crucial to pinpoint areas of discomfort via history because different disease processes result in distinct patterns of pain. Patients with chronic widespread pain syndromes, such as fibromyalgia, may indeed have diffuse pain. However, patients with other, more localized issues often report “pain everywhere,” and in the absence of a good history, premature closure may lead to an incorrect diagnosis. In this case, diagnosing fibromyalgia and prescribing pregabalin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be incorrect."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s14_2_2_3",
+"objective":{
+"__html":"Treat polymyalgia rheumatica."
+},
+"references":[
+[
+"Matteson EL, Dejaco C. Polymyalgia rheumatica. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201705020",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2017;166:ITC65-ITC80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28460395",
+"target":"_blank"
+},
+"children":[
+"PMID: 28460395"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":56,
+"C":19,
+"D":8,
+"E":0
+},
+"hlIds":[
+"58ab40",
+"745193",
+"4bf88f",
+"cb2b54",
+"94dffb",
+"2675a1",
+"bff163",
+"c9bcf1",
+"b78209",
+"cc2514"
+]
+}

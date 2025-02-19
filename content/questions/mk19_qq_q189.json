@@ -1,0 +1,209 @@
+{
+"id":"mk19_qq_q189",
+"number":189,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 189",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a5797e",
+"children":[
+"A 74-year-old woman has a 1-week history of melena and midepigastric pain. Today she developed sudden onset of diffuse abdominal pain. She has osteoarthritis of the hands and takes ibuprofen daily."
+]
+},
+{
+"type":"p",
+"hlId":"b613a1",
+"children":[
+"Blood pressure is 100/56 mm Hg, and pulse rate is 110/min. There is generalized abdominal distension, absent bowel sounds, and abdominal rigidity. An upright radiograph of the chest and abdomen shows no abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Catheter-based abdominal angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5fbd0d",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection and NSAID use account for most cases of peptic ulcer disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6f12dd",
+"children":[
+"If chronic NSAID therapy is needed, patients, including those taking a COX-2 inhibitor, should concomitantly take a proton pump inhibitor to reduce the risk for peptic ulcer disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fb05c1",
+"children":[
+"This patient likely has complicated peptic ulcer disease (PUD) and should undergo abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to evaluate for perforation, which carries a high mortality rate and requires immediate surgical treatment. A classic diagnostic triad of peptic ulcer perforation is sudden onset of abdominal pain, tachycardia, and abdominal rigidity. Although PUD may be an incidental endoscopic finding, some patients experience epigastric pain, nausea and vomiting, abdominal distension, and bleeding, manifested as melena or hematochezia. Possible causes of PUD include Zollinger-Ellison syndrome, glucocorticoids, and bisphosphonates, but ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection and NSAID use account for most cases. If chronic NSAID therapy is needed, patients, including those taking a COX-2 inhibitor, should concomitantly take a proton pump inhibitor (PPI). Aspirin may cause PUD but must be reintroduced as soon as possible in patients with atherosclerotic cardiovascular disease (ASCVD) to avoid the associated excess morbidity and mortality. Aspirin taken for primary prevention of ASCVD should be stopped permanently."
+]
+},
+{
+"type":"p",
+"hlId":"35147d",
+"children":[
+"Complications of PUD include perforation, gastric outlet obstruction, and penetration of adjacent organs, but upper gastrointestinal bleeding is the most common complication. Thermocoagulation, injection of sclerosing agents, and placement of clips are examples of endoscopic intervention, the treatment of choice in patients with PUD complicated by bleeding. PPIs should be used, as they facilitate healing by reducing the acid burden to which the ulcer is exposed."
+]
+},
+{
+"type":"p",
+"hlId":"40a99a",
+"children":[
+"Abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can detect small amounts of intraperitoneal air and support the diagnosis of peptic ulcer perforation. However, abdominal CT is more accurate and is the imaging test of choice for suspected perforation."
+]
+},
+{
+"type":"p",
+"hlId":"68da9a",
+"children":[
+"Catheter-based abdominal angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in a patient with suspected visceral perforation; this diagnostic modality and simultaneous embolization are usually reserved for patients with recurrent bleeding despite endoscopic treatment."
+]
+},
+{
+"type":"p",
+"hlId":"14fd44",
+"children":[
+"Upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the test of choice for patients with increased risk for malignancy or alarm symptoms, such as weight loss and iron deficiency, and for patients with upper gastrointestinal bleeding, but it should not be performed in those with confirmed or suspected perforation."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_2_1",
+"objective":{
+"__html":"Diagnose complicated peptic ulcer disease."
+},
+"references":[
+[
+"Kavitt RT, Lipowska AM, Anyane-Yeboa A, et al. Diagnosis and treatment of peptic ulcer disease. Am J Med. 2019;132:447-456. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30611829",
+"target":"_blank"
+},
+"children":[
+"PMID: 30611829"
+]
+},
+" doi:10.1016/j.amjmed.2018.12.009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"a5797e",
+"b613a1",
+"2eb226",
+"5fbd0d",
+"6f12dd",
+"fb05c1",
+"35147d",
+"40a99a",
+"68da9a",
+"14fd44"
+]
+}

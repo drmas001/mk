@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q013",
+"number":13,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"00720e",
+"children":[
+"A 59-year-old man undergoes follow-up evaluation for persistent major depressive disorder of several years' duration. He is currently being treated with venlafaxine; he previously took fluoxetine titrated to the maximum dosage before it was tapered off owing to lack of response and intolerable sexual side effects. He also takes aripiprazole and receives psychotherapy. He reports no improvement in his symptoms, which do not include mania or hypomania. He has not had suicidal ideation. He has no other medical conditions and takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"9c05be",
+"children":[
+"On physical examination, vital signs are normal. He appears tired, with a sad, blunted affect. Score on the PHQ-9 is 17, unchanged from his previous score."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add intranasal esketamine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add lithium"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue aripiprazole and initiate risperidone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue venlafaxine and initiate sertraline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"552c5d",
+"children":[
+"Intranasal esketamine can be added to oral antidepressant agents for treatment-resistant major depressive disorder."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7a9027",
+"children":[
+"Unlike most other antidepressant therapies, esketamine has an almost immediate effect on depression symptoms."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c758d6",
+"children":[
+"The most appropriate treatment is the addition of intranasal esketamine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient, who has severe major depressive disorder that is unresponsive to maximal combination oral therapy with a second-generation antidepressant (SGA) and an antipsychotic agent as well as psychotherapy, is a candidate for intranasal esketamine. Intranasal esketamine is approved as an adjunct to oral antidepressant agents for treatment-resistant major depressive disorder and major depressive disorder with suicidal ideation. Esketamine is a glutamate receptor modulator, which offers a novel mechanism of action for depression treatment. Unlike most other antidepressant therapies, treatment effect is almost immediate; however, there are several barriers to its use. Labeling indications restrict the drug to patients whose symptoms have failed to respond to two courses of appropriately prescribed antidepressant therapy, and patients cannot drive or operate machinery for 24 hours after administration. Esketamine must be administered intranasally in a physician's office under direct supervision, and physicians must be enrolled in an FDA-mandated Risk Evaluation and Mitigation Strategies (REMS) program. Esketamine carries a black box warning for dissociation, sedation, and suicidal thoughts. The cost of the month-long induction is very expensive."
+]
+},
+{
+"type":"p",
+"hlId":"13f820",
+"children":[
+"Lithium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated for the treatment of bipolar 1 disorder and schizoaffective disorder. It is not an approved therapy for major depressive disorder. This patient reports no symptoms of mania that would justify the use of this therapy."
+]
+},
+{
+"type":"p",
+"hlId":"1be2fa",
+"children":[
+"Risperidone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), an antipsychotic agent, is not indicated for the treatment of major depressive disorder. However, the addition of other antipsychotic medications to SGAs is an appropriate strategy for treatment failure. Approved regimens include olanzapine plus fluoxetine, and aripiprazole or quetiapine plus any SGA."
+]
+},
+{
+"type":"p",
+"hlId":"57dfe7",
+"children":[
+"Selective serotonin reuptake inhibitors (SSRIs) are one of four classes of SGAs considered first-line therapy for major depressive disorder. Other SGAs include serotonin-norepinephrine reuptake inhibitors, serotonin modulators, and atypical antidepressants. Sertraline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an SSRI. This patient's symptoms have already failed to respond to treatment with one SSRI (fluoxetine) at maximum doses. In addition, the sexual side effects he experienced can occur with all SSRIs and are likely to recur with sertraline; therefore, this drug is not a good option for the patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_1_1_2",
+"objective":{
+"__html":"Treat resistant depression with esketamine."
+},
+"references":[
+[
+"Daly EJ, Singh JB, Fedgchin M, et al. Efficacy and safety of intranasal esketamine adjunctive to oral antidepressant therapy in treatment-resistant depression: a randomized clinical trial. JAMA Psychiatry. 2018;75:139-48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29282469",
+"target":"_blank"
+},
+"children":[
+"PMID: 29282469"
+]
+},
+" doi:10.1001/jamapsychiatry.2017.3739"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":39,
+"B":13,
+"C":18,
+"D":31,
+"E":0
+},
+"hlIds":[
+"00720e",
+"9c05be",
+"1054f1",
+"552c5d",
+"7a9027",
+"c758d6",
+"13f820",
+"1be2fa",
+"57dfe7"
+]
+}

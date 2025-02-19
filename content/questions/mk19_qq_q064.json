@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q064",
+"number":64,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"14fca4",
+"children":[
+"A 78-year-old man is evaluated for bilateral exertional leg pain that resolves within 2 minutes after resting. He also has hypertension, hyperlipidemia, and type 2 diabetes mellitus. Medications are metformin, atorvastatin and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"022d48",
+"children":[
+"On physical examination, vital signs are normal. Diminished distal popliteal, ankle, and pedal pulses are present. There are no bruits. Resting ankle-brachial index measurements are 1.42 in both legs."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Exercise ankle-brachial index"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MR angiography of lower extremities"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Segmental pressure measurements of lower extremities"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Toe-brachial index"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6ee6ce",
+"children":[
+"In patients with an ABI greater than 1.40, a toe-brachial index is used for diagnosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c7531e",
+"children":[
+"Exercise ankle-brachial index testing can be useful if there is a high clinical suspicion for peripheral artery disease but normal resting ankle-brachial index measurements."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ab797f",
+"children":[
+"The most appropriate diagnostic test for this patient is a toe-brachial index (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Peripheral artery disease (PAD) is typically characterized by narrowing of the aortic bifurcation and arteries of the lower extremities, including the iliac, femoral, popliteal, and tibial arteries. Atherosclerosis is the most common cause. The most commonly used diagnostic modality to identify lower extremity PAD is measurement of the resting ankle-brachial index, the ratio of lower extremity to upper extremity systolic blood pressures. In healthy persons, the ankle pressure should be the same as or slightly higher than the brachial pressure; therefore, a normal resting ABI is between 1.00 and 1.40. In the presence of atherosclerotic narrowing of the limb arteries, the downstream blood pressure and concomitant ABI value is lower. A resting ABI of 0.90 or less is diagnostic for PAD and correlates with abnormalities seen on imaging of the arterial tree. A resting ABI greater than 1.40 indicates the presence of noncompressible, calcified arteries in the lower extremities and is considered uninterpretable. This is most commonly found in patients with diabetes mellitus and/or advanced chronic kidney disease. In patients with an ABI greater than 1.40, a toe-brachial index is used for diagnosis. A toe-brachial index less than 0.70 is diagnostic for PAD."
+]
+},
+{
+"type":"p",
+"hlId":"90708e",
+"children":[
+"Exercise ABI testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be useful if there is a high clinical suspicion for PAD but normal resting ABI test result. A decrease in the ABI to less than 0.90 or a relative decrease of greater than 20% measured immediately after symptom-limited exercise is diagnostic of PAD. This patient has an abnormally elevated ABI, and the most appropriate test is measurement of the toe-brachial index."
+]
+},
+{
+"type":"p",
+"hlId":"bf387a",
+"children":[
+"In patients with an established diagnosis of PAD and indications for revascularization, further vascular anatomic data can be obtained noninvasively by using gadolinium-enhanced MR angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or contrast-enhanced multidetector CT angiography. However, these tests should be reserved for patients who have not benefitted from medical therapy and should not be used to diagnose PAD."
+]
+},
+{
+"type":"p",
+"hlId":"af2099",
+"children":[
+"Segmental pressure measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in a vascular laboratory may be used to localize diseased vessels in the lower extremities. The procedure involves pulse volume recordings (measurement of the magnitude and contour of blood pulse volume in the lower extremities) and blood pressure measurements at several locations in the lower extremities (high thigh, low thigh, calf, posterior tibial artery, and dorsalis pedis artery). Segmental pressure measurements can be a useful noninvasive method to localize vascular obstruction, but a toe-brachial index is the initial test of choice in this patient with high probability of disease but normal resting ABI measurements."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_3_2",
+"objective":{
+"__html":"Diagnose peripheral artery disease with a toe-brachial index."
+},
+"references":[
+[
+"Polonsky TS, McDermott MM. Lower extremity peripheral artery disease without chronic limb-threatening ischemia: a review. JAMA. 2021;325:2188-2198. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34061140",
+"target":"_blank"
+},
+"children":[
+"PMID: 34061140"
+]
+},
+" doi:10.1001/jama.2021.2126"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"14fca4",
+"022d48",
+"2eb226",
+"6ee6ce",
+"c7531e",
+"ab797f",
+"90708e",
+"bf387a",
+"af2099"
+]
+}

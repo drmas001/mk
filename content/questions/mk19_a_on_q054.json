@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q054",
+"number":54,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"20f5b0",
+"children":[
+"A 61-year-old woman is evaluated following a diagnosis of colon cancer. A colonoscopy performed for iron deficiency anemia revealed an adenocarcinoma at the splenic flexure. The patient is asymptomatic and otherwise has no medical problems. Oral iron replacement therapy has been initiated."
+]
+},
+{
+"type":"p",
+"hlId":"776bb5",
+"children":[
+"On physical examination, vital signs are normal, and the remainder of the examination is noncontributory."
+]
+},
+{
+"type":"p",
+"hlId":"9ade6d",
+"children":[
+"Results of laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 9.9 g/dL (99 g/L). A comprehensive metabolic profile and carcinoembryonic antigen measurement are within normal limits."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"93c6e7",
+"children":[
+"Which of the following imaging studies should be performed next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Contrast-enhanced CT of the chest, abdomen, and pelvis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT colonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Whole-body PET/CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional imaging studies"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c9625",
+"children":[
+"Staging evaluation of newly diagnosed colon cancer includes measurement of serum carcinoembryonic antigen level and contrast-enhanced CT of the chest, abdomen, and pelvis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6f777a",
+"children":[
+"PET/CT is not recommended for either preoperative staging or for postoperative surveillance in patients with colon cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b83874",
+"children":[
+"A contrast-enhanced CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most accurate and useful imaging modality for staging of patients with a new diagnosis of colon cancer. Staging with the TNM cancer staging system is the first step in treatment planning. Preoperative clinical staging begins with a history to identify localizing symptoms that may represent metastatic disease and physical examination to detect ascites, hepatomegaly, and lymphadenopathy. Laboratory evaluation includes serum carcinoembryonic antigen (CEA) in addition to routine chemical and metabolic studies. An elevated CEA level indicates a worse prognosis for patients at any stage of colon cancer compared to patients with normal levels. In addition, failure of an elevated CEA level to normalize after resection suggests the continued presence of metastatic disease and need for additional evaluation. A rising CEA level during the surveillance period after surgical resection indicates recurrent disease and the need for diagnostic imaging. Additional staging evaluation includes a full colonoscopy (if possible) and contrast-enhanced CT of the abdomen and pelvis. In addition to imaging the abdomen and pelvis, the chest should be imaged to rule out pulmonary metastases and to establish a baseline for surveillance. This staging approach is endorsed by the National Comprehensive Cancer Network."
+]
+},
+{
+"type":"p",
+"hlId":"0ad63f",
+"children":[
+"CT colonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an alternative to colonoscopy for screening of average-risk persons without known or suspected cancer but would not add to the information that has already been obtained in this case from a standard colonoscopy."
+]
+},
+{
+"type":"p",
+"hlId":"8e1f68",
+"children":[
+"National guidelines specifically recommend against use of whole-body PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for either preoperative staging or for postoperative surveillance. They have a higher than often appreciated false-positive and false-negative rate and have not been shown to improve on the accuracy of preoperative staging. In some instances, PET/CT may be useful for evaluating an equivocal finding on a contrast-enhanced CT."
+]
+},
+{
+"type":"p",
+"hlId":"fbfac9",
+"children":[
+"Staging before definitive surgical resection is essential to preoperative planning and postoperative care, including the need for adjuvant therapy. Therefore, in nonemergent situations, staging is planned prior to surgery. To forgo staging before surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may result in suboptimal patient care."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1_1",
+"objective":{
+"__html":"Evaluate a patient with newly diagnosed colon cancer for metastatic disease."
+},
+"references":[
+[
+"Benson AB, Venook AP, Al-Hawary MM, et al. NCCN Guidelines Insights: Colon Cancer, Version 2.2018. J Natl Compr Canc Netw. 2018;16(4):359-69. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29632055",
+"target":"_blank"
+},
+"children":[
+"PMID: 29632055"
+]
+},
+" doi:10.6004/jnccn.2018.0021"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":71,
+"B":3,
+"C":15,
+"D":12,
+"E":0
+},
+"hlIds":[
+"20f5b0",
+"776bb5",
+"9ade6d",
+"93c6e7",
+"3c9625",
+"6f777a",
+"b83874",
+"0ad63f",
+"8e1f68",
+"fbfac9"
+]
+}

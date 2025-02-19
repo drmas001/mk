@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_gm_q040",
+"number":40,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3bd4d0",
+"children":[
+"An 88-year-old man is evaluated for incontinence. When he needs to urinate, he is very slow getting to the bathroom. He has dementia, and he uses a walker for ambulation. He lives with his daughter. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f51d34",
+"children":[
+"On physical examination, he is stooped and appears frail. He cannot stand from sitting without use of the armrests. The prostate is mildly enlarged."
+]
+},
+{
+"type":"p",
+"hlId":"87ffd1",
+"children":[
+"Urinalysis results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Finasteride"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oxybutynin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prompted voiding"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tamsulosin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4eadb4",
+"hvc":true,
+"children":[
+"Functional incontinence, or inability to reach the toilet in time, is related to dementia and mobility disorders."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b89297",
+"hvc":true,
+"children":[
+"In a patient with functional incontinence, behavioral therapy with prompted voiding is the appropriate management."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bd5cbd",
+"children":[
+"The most appropriate management is prompted voiding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient probably has functional incontinence due to dementia and decreased mobility. His dementia prevents him from understanding when he needs to urinate, and his mobility issues prevent him from reaching the toilet in time. In a patient with functional incontinence related to cognitive impairment, behavioral therapy with prompted voiding is the appropriate management. With prompted voiding, the patient is asked at regular intervals (every 2 to 4 hours) whether he needs to void, and assistance is provided in getting to the toilet, as is positive reinforcement for urinating in the toilet. Prompted voiding can promote improved bladder control. It reduces incontinence in older patients who have caregivers as well as in patients in assisted living or skilled nursing facilities."
+]
+},
+{
+"type":"p",
+"hlId":"9db5ca",
+"children":[
+"Patients with benign prostatic hyperplasia (BPH) may experience lower urinary tract symptoms (LUTS). LUTS can be divided into symptoms that are obstructive (hesitancy, weakened stream, straining, incomplete emptying, urinary retention, overflow incontinence) or irritative (frequency, urgency, nocturia). 5α-Reductase inhibitors (finasteride [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"] and dutasteride) block the conversion of testosterone to dihydrotestosterone; this leads to a reduction in prostate size and thus improvement in LUTS. Finasteride is initiated when symptoms fail to respond to first-line therapy with α-blockers (tamsulosin, terazosin, doxazosin, alfuzosin, silodosin) or the patient has a contraindication to α-blocker use. This patient with functional incontinence is unlikely to improve with the addition of finasteride."
+]
+},
+{
+"type":"p",
+"hlId":"0944e6",
+"children":[
+"Oxybutynin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a reasonable second-line therapy for urge incontinence after behavioral therapy has been attempted. This patient's urinary incontinence stems from his inability to understand the need to void and inability to maneuver to the bathroom. Oxybutynin and other anticholinergics can cause confusion and are not recommended in patients with cognitive impairment."
+]
+},
+{
+"type":"p",
+"hlId":"1d43cd",
+"children":[
+"Tamsulosin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and other α-blockers are first-line therapy for BPH. This patient's symptoms are not consistent with BPH. Furthermore, tamsulosin can cause weakness, low blood pressure, and blurry or hazy vision and would not be a good option for this frail elderly patient with dementia."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_6_3_4",
+"objective":{
+"__html":"Treat functional urinary incontinence."
+},
+"references":[
+[
+"Jachan DE, Müller-Werdan U, Lahmann NA. Impaired mobility and urinary incontinence in nursing home residents: a multicenter study. J Wound Ostomy Continence Nurs. 2019;46:524-9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31478987",
+"target":"_blank"
+},
+"children":[
+"PMID: 31478987"
+]
+},
+" doi:10.1097/WON.0000000000000580"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":6,
+"C":81,
+"D":10,
+"E":0
+},
+"hlIds":[
+"3bd4d0",
+"f51d34",
+"87ffd1",
+"cb2b54",
+"4eadb4",
+"b89297",
+"bd5cbd",
+"9db5ca",
+"0944e6",
+"1d43cd"
+]
+}

@@ -1,0 +1,210 @@
+{
+"id":"mk19_a_on_q003",
+"number":3,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"43f164",
+"children":[
+"A 52-year-old woman is evaluated in the office for a left breast lump that developed 3 months ago. She is asymptomatic. Medical history is unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"325341",
+"children":[
+"On physical examination, there is a 1.8-cm firm mass in the upper outer left breast. There is no axillary or supraclavicular adenopathy."
+]
+},
+{
+"type":"p",
+"hlId":"a389ba",
+"children":[
+"Complete blood count and comprehensive metabolic profile, including alkaline phosphatase level, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"c11337",
+"children":[
+"Mammogram and ultrasound confirm a 1.8-cm mass in the left upper outer breast."
+]
+},
+{
+"type":"p",
+"hlId":"9931a1",
+"children":[
+"Core biopsy of the left breast reveals estrogen receptor–negative, progesterone receptor–negative, and human epidermal growth factor receptor 2–negative invasive ductal carcinoma."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cff2d2",
+"children":[
+"Which of the following is the most appropriate pretreatment imaging for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiograph and bone scan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the chest, abdomen, and pelvis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT of the chest, abdomen, and pelvis and MRI of the brain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"78debe",
+"children":[
+"Imaging studies for staging are not recommended in asymptomatic patients with newly diagnosed stage 0 to II breast cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d9c0eb",
+"children":[
+"Brain metastasis occurs in only a small proportion of patients with metastatic breast cancer and generally later in the disease course."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8320ea",
+"children":[
+"Patients with newly diagnosed stage 0 to II breast cancer without symptoms suggestive of metastatic disease and normal comprehensive metabolic profile and alkaline phosphatase measurement should not undergo routine imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has stage I breast cancer. Consensus guidelines recommend against routine staging scans for asymptomatic patients with early-stage (0-II) breast cancer given the low incidence of asymptomatic metastases and the risk of false-positive findings on routine staging studies."
+]
+},
+{
+"type":"p",
+"hlId":"253c1b",
+"children":[
+"The prevalence of a positive bone scan for asymptomatic women with apparent stage I, II, and III breast cancer has been reported as 5%, 6%, and 14%, respectively. Chest radiography is rarely abnormal in asymptomatic patients with stage I or II breast cancer and positive in 7% of patients with stage III disease. Bone scans should be restricted to patients with either localized bone pain or elevation of alkaline phosphatase levels, and chest imaging should be restricted to patients with pulmonary symptoms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fdb38e",
+"children":[
+"CT of the chest, abdomen, and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for this patient given the small proportion of patients with stage I breast cancer and asymptomatic metastatic disease. Advanced imaging would be indicated in patients with abdominal or pelvic symptoms, abnormal physical examination, or unexplained elevation of aminotransferase or alkaline phosphatase levels. Patients with stage III breast cancer have an elevated risk of asymptomatic distant metastases (14% in one study) and are therefore recommended to undergo routine imaging. CT of the chest, abdomen, and pelvis is most commonly used as the approach to staging. The role of PET/CT is not as well defined in staging patients with breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"af9cdf",
+"children":[
+"MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not recommended for patients with newly diagnosed breast cancer in the absence of symptoms suggestive of central nervous system involvement (brain metastases or leptomeningeal disease). Brain metastasis occurs in only a small proportion of patients with metastatic breast cancer and generally later in the disease course."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_4",
+"objective":{
+"__html":"Avoid unnecessary imaging in a patient with stage 0 to II invasive breast cancer."
+},
+"references":[
+[
+"Bychkovsky BL, Guo H, Sutton J, et al. Use and yield of baseline imaging and laboratory testing in stage II breast cancer. Oncologist. 2016;21:1495-1501. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27551013",
+"target":"_blank"
+},
+"children":[
+"PMID: 27551013"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":20,
+"C":40,
+"D":36,
+"E":0
+},
+"hlIds":[
+"43f164",
+"325341",
+"a389ba",
+"c11337",
+"9931a1",
+"cff2d2",
+"78debe",
+"d9c0eb",
+"8320ea",
+"253c1b",
+"fdb38e",
+"af9cdf"
+]
+}

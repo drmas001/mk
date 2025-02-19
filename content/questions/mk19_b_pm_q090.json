@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_pm_q090",
+"number":90,
+"bookId":"pm",
+"correctAnswer":"E",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c6fb7f",
+"children":[
+"A 34-year-old man is evaluated in the emergency department after being found unresponsive in a homeless shelter with two empty bottles of hand sanitizer. The pertinent listed ingredients of the hand sanitizer are ethanol and isopropyl alcohol. The patient has a history of chronic alcoholism."
+]
+},
+{
+"type":"p",
+"hlId":"4f96a3",
+"children":[
+"On physical examination, temperature is normal, blood pressure is 112/68 mm Hg, pulse rate is 94/min, respiration rate is 14/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% breathing oxygen, 2 L/min by nasal cannula. He arouses to painful stimuli. His speech is slurred, and he shows psychomotor slowing. Neurologic examination is otherwise normal."
+]
+},
+{
+"type":"p",
+"hlId":"dc145f",
+"children":[
+"The calculated anion gap is normal; the osmolal gap is elevated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ethanol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Flumazenil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fomepizole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hemodialysis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Supportive care"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"17c5e2",
+"children":[
+"Ethanol and isopropyl alcohol intoxication are managed with supportive care."
+]
+},
+{
+"type":"keypoint",
+"hlId":"acb73c",
+"children":[
+"Patients with underlying chronic alcoholism and acute ethanol or isopropyl alcohol toxicity should be monitored for signs of alcohol withdrawal."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ebf13b",
+"children":[
+"The most appropriate management is supportive care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") and monitoring for signs of alcohol withdrawal. The patient is intoxicated by the high alcohol concentrations found in hand sanitizer. Most sanitizers contain ethanol or isopropyl alcohol in concentrations generally above 60%. Ethanol and other ingested alcohols activate the γ-aminobutyric acid receptor, which is the primary central nervous system inhibitor; this in turn leads to central nervous system depression, including loss of consciousness and suppression of respiratory drive at high doses, which can lead to respiratory failure or aspiration events. Alcohol intoxication due to ethanol and isopropyl alcohol is managed with supportive care. The patient has a history of chronic alcoholism, and once the acute intoxication subsides, he should be monitored for signs of alcohol withdrawal. Withdrawal can begin within hours to days of the last ingestion and can be fatal."
+]
+},
+{
+"type":"p",
+"hlId":"5bdf58",
+"children":[
+"Ethanol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been used historically as a competitive inhibitor of alcohol dehydrogenase in the setting of methanol or ethylene glycol poisoning. It should not be given in the setting of ethanol toxicity and also has no role in isopropyl alcohol ingestion. When either methanol or ethylene glycol has been ingested, there is an increased anion gap metabolic acidosis as well as an increased osmolal gap that provides an important clue to the correct diagnosis. In this case the presence of an osmolal gap and normal anion gap support the diagnosis of isopropyl alcohol poisoning."
+]
+},
+{
+"type":"p",
+"hlId":"2c138f",
+"children":[
+"Flumazenil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a γ-aminobutyric acid receptor antagonist, is the antidote for benzodiazepine toxicity. It would not be expected to have any effect on outcomes in ethanol or isopropyl alcohol intoxication. There is reluctance to use flumazenil even in benzodiazepine overdose. Administration of flumazenil for suspected benzodiazepine overdose can reverse the effect of benzodiazepines leading to life-threatening central nervous system activation, including seizures, which are most likely in patients taking benzodiazepines chronically."
+]
+},
+{
+"type":"p",
+"hlId":"794857",
+"children":[
+"Fomepizole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), an inhibitor of alcohol dehydrogenase, is used to slow the formation of toxic metabolites when methanol or ethylene glycol is ingested. It is the first-line agent for methanol or ethylene glycol ingestion. Intravenous ethanol is second-line treatment and also reduces toxic metabolite formation. Neither methanol nor ethylene glycol ingestion is suspected in this patient, so fomepizole is not appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"a1428b",
+"children":[
+"Hemodialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can remove alcohols from the blood; it is usually indicated in the setting of methanol or ethylene glycol poisoning. However, hemodialysis is invasive and resource intensive and is generally not necessary for ethanol or isopropyl alcohol ingestion."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_4_1",
+"objective":{
+"__html":"Treat alcohol intoxication."
+},
+"references":[
+[
+"Gallagher N, Edwards FJ. The diagnosis and management of toxic alcohol poisoning in the emergency department: A review article. Adv J Emerg Med. 2019;3:e28. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31410405",
+"target":"_blank"
+},
+"children":[
+"PMID: 31410405"
+]
+},
+" doi:10.22114/ajem.v0i0.153"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":3,
+"C":24,
+"D":13,
+"E":52
+},
+"hlIds":[
+"c6fb7f",
+"4f96a3",
+"dc145f",
+"cb2b54",
+"17c5e2",
+"acb73c",
+"ebf13b",
+"5bdf58",
+"2c138f",
+"794857",
+"a1428b"
+]
+}

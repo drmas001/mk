@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gm_q071",
+"number":71,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b6cef3",
+"children":[
+"A 34-year-old woman is evaluated for a 3-month history of dry cough. She does not use tobacco. A chest radiograph obtained 1 month ago was normal. The patient has a history of seasonal rhinitis. Since the onset of the cough, she has used fluticasone nasal spray daily without improvement. She has no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"2dc718",
+"children":[
+"Vital signs and physical examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ambulatory pH monitoring"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Omeprazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spirometry"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Sputum eosinophil evaluation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c73da2",
+"children":[
+"The initial management of chronic cough includes tobacco cessation and discontinuation of ACE inhibitor therapy, followed by chest radiography if cough persists."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3fd1dc",
+"children":[
+"In patients with negative findings on chest radiograph and persistence of cough after discontinuation of ACE inhibitor therapy and tobacco, additional evaluation proceeds in a stepwise fashion: (1) empiric treatment for upper airway cough syndrome; (2) spirometry or empiric treatment for asthma; (3) sputum analysis for eosinophils or empiric treatment with inhaled glucocorticoids; and (4) empiric treatment for gastroesophageal reflux disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f3ab9c",
+"children":[
+"Spirometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate next step in managing this patient's cough. Evaluation of chronic cough should be performed in a stepwise fashion, beginning with a thorough history, physical examination, and chest radiography, as well as cessation of ACE inhibitors and tobacco, if used. If the initial evaluation does not elicit the cause of cough, a stepwise approach to management should start with a trial of empiric treatment for upper airway cough syndrome (UACS). Intranasal glucocorticoid therapy is first-line treatment for allergic rhinitis–associated UACS; UACS caused by nonallergic rhinitis is treated with first-generation antihistamines and decongestants. Because this patient's cough did not respond to treatment with fluticasone nasal spray for UACS, the next step is evaluation for asthma with spirometry. Cough-variant asthma is diagnosed if spirometry and/or bronchial hyperresponsiveness testing results are abnormal, and symptoms should improve with standard therapy for asthma, including inhaled glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"70731b",
+"children":[
+"In patients with normal findings on evaluation and failed empiric treatment for UACS and asthma, the most reasonable next step is to exclude nonasthmatic eosinophilic bronchitis (NAEB) with sputum analysis for eosinophils (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") or exhaled nitric oxide testing. If test results are abnormal, therapy with inhaled glucocorticoids should be initiated."
+]
+},
+{
+"type":"p",
+"hlId":"0f5f3c",
+"children":[
+"Evaluation for gastroesophageal reflux disease (GERD) with an empiric trial of a proton pump inhibitor, such as omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is recommended for patients with persistent cough who have negative evaluation findings and have not responded to empiric treatment of UACS, asthma, and NAEB."
+]
+},
+{
+"type":"p",
+"hlId":"00724b",
+"children":[
+"Ambulatory pH monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used to measure acid exposure in the esophagus. It can be especially helpful in the diagnosis of GERD in patients unresponsive to acid-reducing therapy. In this patient, it should only be considered after more common causes of chronic cough, such as asthma, have been ruled out."
+]
+},
+{
+"type":"p",
+"hlId":"954721",
+"children":[
+"Chest CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") could be considered if evaluations for asthma, NAEB, and GERD are unremarkable and cough persists. However, CT should not be pursued now in the absence of “red flag” symptoms, such as unexplained weight loss, abnormal pulmonary examination, or abnormal findings on chest radiography."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_2",
+"objective":{
+"__html":"Evaluate chronic cough in a stepwise fashion."
+},
+"references":[
+[
+"Irwin RS, French CL, Chang AB, et al; CHEST Expert Cough Panel. Classification of cough as a symptom in adults and management algorithms: CHEST guideline and expert panel report. Chest. 2018;153:196-209. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29080708",
+"target":"_blank"
+},
+"children":[
+"PMID: 29080708"
+]
+},
+" doi:10.1016/j.chest.2017.10.016"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":1,
+"C":46,
+"D":37,
+"E":7
+},
+"hlIds":[
+"b6cef3",
+"2dc718",
+"1a5dcc",
+"c73da2",
+"3fd1dc",
+"f3ab9c",
+"70731b",
+"0f5f3c",
+"00724b",
+"954721"
+]
+}

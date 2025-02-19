@@ -1,0 +1,279 @@
+{
+"id":"mk19_b_cv_q083",
+"number":83,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4d7455",
+"children":[
+"A 76-year-old woman is evaluated during a wellness visit. She reports that she fatigues easily, and her husband notes that she snores loudly. Medical history is significant for hypertension. Her only medication is metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"a4bdda",
+"children":[
+"On physical examination, pulse rate is 75/min and irregular; other vital signs are normal. Cardiac examination reveals irregular heart sounds with no murmurs or gallops. No signs of heart failure are present."
+]
+},
+{
+"type":"p",
+"hlId":"87bcba",
+"children":[
+"An ECG shows atrial fibrillation at 75/min without ischemic changes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Emergent cardioversion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase metoprolol dosage"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate oral anticoagulation"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Reassurance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"63f409",
+"children":[
+"In stable patients with atrial fibrillation, the primary goals of therapy are to (1) prevent stroke, (2) control heart rate, (3) minimize or eliminate symptoms, and (4) modify underlying risk factors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a5e83",
+"children":[
+"Anticoagulation is indicated for stroke prevention in patients with nonvalvular atrial fibrillation who have a CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score of 2 or greater in men or 3 or greater in women."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c3caa2",
+"children":[
+"The most appropriate management is to initiate oral anticoagulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient likely has persistent, and possibly symptomatic, atrial fibrillation (AF). AF is usually the result of long-standing risk factors, such as diabetes mellitus, obesity, hypertension, coronary artery disease, heart failure, and obstructive sleep apnea. In stable patients with AF, the primary goals of therapy are to (1) prevent stroke, (2) control heart rate, (3) minimize or eliminate symptoms, and (4) modify underlying risk factors. The 2019 American College of Cardiology/American Heart Association/Heart Rhythm Society focused update on AF recommends anticoagulation to prevent stroke in patients with nonvalvular AF who have a CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score of 2 or greater in men or 3 or greater in women. In this patient with a CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score of 4 (age ≥75 years [2 points], female [1 point], hypertension [1 point]), consideration of oral anticoagulation for stroke prevention is warranted. Aspirin alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is insufficient for stroke prevention in this patient at high risk for stroke."
+]
+},
+{
+"type":"p",
+"hlId":"14e125",
+"children":[
+"In addition, given this patient's exertional limitation, her AF may be symptomatic, and rhythm control, with appropriate stroke prevention, should be considered as a means of improving her fatigue. Lastly, her loud snoring may suggest underlying obstructive sleep apnea, which may be driving the AF, and she should be asked about symptoms of excessive daytime sleepiness."
+]
+},
+{
+"type":"p",
+"hlId":"314ec7",
+"children":[
+"This patient does not require emergent cardioversion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), as she is not hemodynamically unstable, has a well-controlled heart rate, and has no signs of heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"8ba7c2",
+"children":[
+"Increasing the metoprolol dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in this patient with a well-controlled heart rate and normal blood pressure. Increasing the metoprolol dosage also may worsen her fatigue."
+]
+},
+{
+"type":"p",
+"hlId":"c2fbbe",
+"children":[
+"Reassurance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not appropriate management because this patient's stroke risk, possible symptoms of AF, and possible sleep apnea should be addressed."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6_3_1_1",
+"objective":{
+"__html":"Prevent stroke in a patient with incidentally diagnosed atrial fibrillation."
+},
+"references":[
+[
+"January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2019;74:104-132. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30703431",
+"target":"_blank"
+},
+"children":[
+"PMID: 30703431"
+]
+},
+" doi:10.1016/j.jacc.2019.01.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":1,
+"C":3,
+"D":86,
+"E":5
+},
+"hlIds":[
+"4d7455",
+"a4bdda",
+"87bcba",
+"cb2b54",
+"63f409",
+"0a5e83",
+"c3caa2",
+"14e125",
+"314ec7",
+"8ba7c2",
+"c2fbbe"
+]
+}

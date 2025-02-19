@@ -1,0 +1,186 @@
+{
+"id":"mk19_a_nr_q024",
+"number":24,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1c5857",
+"children":[
+"A 55-year-old man is evaluated in the hospital for paralysis present on awakening from anesthesia after surgical repair of an aortic dissection. He reports midthoracic back pain. He had been well without evidence of infection before surgery. Other medical problems include hypertension and dyslipidemia. Current medications are atorvastatin, hydrochlorothiazide, and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"bdeb28",
+"children":[
+"On physical examination, vital signs are normal. Muscle tone is flaccid in the legs and normal in the arms. Muscle strength is normal in both arms and no movement in both legs. Reflexes are 2+ in arms and 0 in legs. Sensation to pinprick is mildly impaired in the legs, and vibratory and position sensation are intact."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Guillain-Barré syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Idiopathic transverse myelitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lumbar disk herniation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spinal cord infarction"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bee514",
+"children":[
+"Spinal cord infarction can occur as a consequence of hypotension during cardiovascular or aortic surgery."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c50e06",
+"children":[
+"Anterior infarction of the spinal cord typically results in acute, bilateral, flaccid paralysis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d4fbe1",
+"children":[
+"The most likely diagnosis is spinal cord infarction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The most common clinical presentation of a spinal cord infarction involves the anterior spinal artery. Prolonged hypotension during cardiovascular or aortic surgery can result in lack of perfusion to watershed regions of the spinal cord. In this patient, the infarction likely occurred as a consequence of hypoperfusion to the spinal cord vasculature in the anterior arterial vascular distribution in the setting of repair of an aortic dissection. The midportion of the thoracic spinal cord is especially prone to hypoperfusion infarction where the anterior spinal artery from above meets the radicular artery of Adamkiewicz from below. Hypoperfusion in the anterior arterial vascular distribution of the cord typically interrupts both descending motor pathways and the anterior horn cells in the gray matter of the cord, resulting in acute, bilateral, flaccid (low tone, hyporeflexia) paralysis. If sensation is impaired, it will not involve the posterior columns (vibration, position) because of separate vascular supply to the posterior cord."
+]
+},
+{
+"type":"p",
+"hlId":"3c6848",
+"children":[
+"Guillain-Barré syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not a likely diagnosis. This inflammatory polyradiculopathy is typified by a subacute onset with progressive ascending paralysis. This patient's acute onset of symptoms is not consistent with the subacute ascending paralysis typical of Guillain-Barré syndrome. Guillain-Barré syndrome also typically occurs as a postinfectious syndrome, and this patient did not experience a preceding infection."
+]
+},
+{
+"type":"p",
+"hlId":"a38672",
+"children":[
+"Idiopathic transverse myelitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an unlikely explanation for the patient's symptoms. Although this entity could potentially result in a similar set of findings on examination, the time course of an acute onset and the association of the patient's symptoms with concurrent aortic surgery make a vascular cause far more likely than an inflammatory myelitis, which would have a more subacute onset and is typically a postinfectious phenomenon."
+]
+},
+{
+"type":"p",
+"hlId":"850a18",
+"children":[
+"Lumbar disk herniation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an unlikely cause for this patient's weakness. Lumbar disk herniations typically result in radiculopathy or cauda equina syndrome, neither of which would result in complete plegia of all muscles in both lower extremities. Further, such pathology would also likely result in sensory deficits, which this patient is not experiencing."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s8_3_3",
+"objective":{
+"__html":"Diagnose spinal cord infarction."
+},
+"references":[
+[
+"Romi F, Naess H. Spinal cord infarction in clinical neurology: a review of characteristics and long-term prognosis in comparison to cerebral infarction. Eur Neurol. 2016;76:95-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27487411",
+"target":"_blank"
+},
+"children":[
+"PMID: 27487411"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":6,
+"C":2,
+"D":89,
+"E":0
+},
+"hlIds":[
+"1c5857",
+"bdeb28",
+"413696",
+"bee514",
+"c50e06",
+"d4fbe1",
+"3c6848",
+"a38672",
+"850a18"
+]
+}

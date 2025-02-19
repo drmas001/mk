@@ -1,0 +1,478 @@
+{
+"id":"mk19_b_pm_q095",
+"number":95,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8a198d",
+"children":[
+"A 33-year-old woman is evaluated in the emergency department for respiratory failure. She has a 1-week history of ascending lower-extremity weakness and paresthesia. She has developed progressive dyspnea over the past 48 hours."
+]
+},
+{
+"type":"p",
+"hlId":"90aef7",
+"children":[
+"On physical examination, the patient is alert and cooperative. Blood pressure is 150/90 mm Hg, pulse rate is 100/min, and respiration rate is 26/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. Cardiopulmonary examination is normal. Neurologic examination shows moderate weakness of her feet, legs, hands, and arms. Diffuse areflexia is present but sensation is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"cfb74a",
+"children":[
+"Arterial blood gas studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2a71c0",
+"class":"cell text l",
+"children":[
+"7.34"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f61854",
+"class":"cell text l",
+"children":[
+"49 mm Hg (6.5 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c07a19",
+"class":"cell text l",
+"children":[
+"80 mm Hg (10.6 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e8ad4b",
+"class":"cell text l",
+"children":[
+"Alveolar-arterial oxygen gradient"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"9965af",
+"children":[
+"Chest radiograph is normal."
+]
+},
+{
+"type":"p",
+"hlId":"bc49aa",
+"children":[
+"There is a 22% decrement in forced vital capacity while supine compared with the upright position. Maximal inspiratory pressure and maximal expiratory pressure are both less than 50% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d3dbcb",
+"children":[
+"Which of the following is the most likely cause of this patient's respiratory failure?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Decreased ventilatory drive"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypoxemic respiratory failure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neuromuscular weakness"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3758ea",
+"children":[
+"A greater than 20% decrement in forced vital capacity from the sitting to the supine position and maximal inspiratory and/or expiratory force less than 50% of predicted support the diagnosis of neuromuscular weakness–associated respiratory failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"db17f1",
+"children":[
+"The most likely cause of this patient's respiratory failure is neuromuscular weakness (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") due to Guillain-Barré syndrome (GBS). Patients with GBS generally present with rapid onset of ascending, symmetric paralysis, and areflexia occurring over the course of 2 to 4 weeks, which may lead to respiratory failure. Specific components of pulmonary function testing can be helpful in the diagnosis of respiratory failure due to neuromuscular weakness. A greater than 20% decrement in forced vital capacity from the sitting to the supine position and maximal inspiratory and/or expiratory force less than 50% of predicted support the diagnosis of neuromuscular weakness–associated respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"8b9ca6",
+"children":[
+"Decreased respiratory drive (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") leads to diminished alveolar CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" clearance. Patients often present with somnolence and difficulty protecting their airway. Sedating drugs (illicit or prescribed), anesthetics, and severe alcohol intoxication can lead to depressed central respiratory drive. Although this patient has hypercapnia, she is alert and cooperative and has no evidence of decreased respiratory drive."
+]
+},
+{
+"type":"p",
+"hlId":"fc0b26",
+"children":[
+"Hypoxemic respiratory failure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is caused by inadequate oxygenation of hemoglobin. The most common causes of hypoxemic respiratory failure in the ICU are ventilation/perfusion mismatch and shunt, which occur when perfused areas of the lung are not ventilated, whether because of alveolar collapse (atelectasis) or filling of alveoli with blood, pus, protein, or water. An increased alveolar-arterial oxygen gradient is the key feature of ventilation/perfusion mismatch and shunt but is normal in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"7b98d3",
+"children":[
+"Pulmonary embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") causes respiratory failure, primarily through ventilation/perfusion mismatch and to a less common extent through shunting or low mixed venous oxygen saturation. With shunting significant enough to cause hypoxemia, the alveolar-arterial gradient will be abnormal. Considering this patient's rapidly ascending paralysis, abnormal spirometry measures, and normal alveolar-arterial oxygen gradient, neuromuscular weakness is a more likely cause of her respiratory failure."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_1_10_2_1",
+"objective":{
+"__html":"Diagnose neuromuscular weakness as the cause of respiratory failure."
+},
+"references":[
+[
+"Newitt J, Strollo P. Breathing problems in adults with neuromuscular weakness. Am J Respir Crit Care Med. 2020;202:P31-P32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33258682",
+"target":"_blank"
+},
+"children":[
+"PMID: 33258682"
+]
+},
+" doi:10.1164/rccm.20211P31"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":94,
+"D":1,
+"E":0
+},
+"hlIds":[
+"8a198d",
+"90aef7",
+"cfb74a",
+"397dff",
+"2a71c0",
+"dd372e",
+"f61854",
+"acab5a",
+"c07a19",
+"e8ad4b",
+"960b44",
+"9965af",
+"bc49aa",
+"d3dbcb",
+"3758ea",
+"db17f1",
+"8b9ca6",
+"fc0b26",
+"7b98d3"
+]
+}

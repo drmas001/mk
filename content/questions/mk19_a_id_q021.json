@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_id_q021",
+"number":21,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c51c02",
+"children":[
+"A 35-year-old man undergoes follow-up evaluation for a positive HIV screening test obtained 3 days ago. He is ready to start treatment. HIV testing 1 year ago was negative. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"fbea7f",
+"children":[
+"The physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8c1761",
+"children":[
+"The fourth generation HIV-1/2 antigen/antibody combination immunoassay is positive, with the differentiation assay positive for HIV-1 antibody. HIV-1 quantitative RNA is 25,640 copies/mL, and the CD4 cell count is 540/µL."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antiretroviral therapy initiation now"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Antiretroviral therapy initiation when CD4 cell count drops to less than 350/µL"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Confirmatory HIV Western blot testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat HIV-1/2 antigen/antibody combination immunoassay and HIV quantitative RNA"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"52afd0",
+"hvc":true,
+"children":[
+"A fourth generation HIV-1/2 antigen/antibody combination immunoassay test followed by a confirmatory antibody differentiation assay is the recommended two-step screening test for HIV infection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2ab07c",
+"hvc":true,
+"children":[
+"All persons with HIV infection should begin antiretroviral therapy as soon as they are ready, regardless of CD4 cell count."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ddfed7",
+"children":[
+"Antiretroviral therapy (ART) should be initiated immediately (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). All persons with HIV infection should begin ART as soon as they are ready, regardless of CD4 cell count. A large prospective, randomized clinical trial has resolved controversy over whether to start ART in asymptomatic patients with normal CD4 cell counts, demonstrating clear clinical benefit. Waiting for the CD4 cell count to drop below 350/µL was shown to put patients at risk for harm from AIDS and non–AIDS-related complications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). HIV treatment guidelines recommend immediate ART initiation (either the same day as or within 2 weeks of diagnosis) if no medical contraindications (concomitant opportunistic infection in which immediate ART may be harmful) or structural barriers (staffing and linkage to care service availability) prevent doing so. The World Health Organization also endorses ART initiation within 7 days of new diagnosis (including same day), citing improved viral suppression. Transmitted drug resistance mutations have been a concern, and standard practice was to initiate ART only after genotyping data were available. However, this is changing as the rate of transmitted drug resistance mutations continues to fall. Many experts recommend initiating three-drug ART without waiting for genotyping results, especially if no barriers prevent immediate initiation. Updated guidelines have added select two-drug ART as a potential option for initial treatment of HIV infection; however, this should only be considered for individuals with HIV RNA less than 500,000 copies/mL, no hepatitis B co-infection, and available HIV reverse transcriptase genotypic resistance testing results. With immediate or rapid start, when genotype data are unavailable, a three-drug ART regimen is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"cf07f4",
+"children":[
+"The fourth generation HIV-1/2 antigen/antibody combination immunoassay followed by a confirmatory antibody differentiation assay is the recommended two-step screening test. Western blot testing for HIV is no longer performed as part of the laboratory protocol for diagnosing HIV infection because of problems with sensitivity in acute infection, problems with interpretation of indeterminate results, and wider availability of quantitative assays with faster turnaround time (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The current protocol demonstrates an enhanced ability to detect acute HIV infection."
+]
+},
+{
+"type":"p",
+"hlId":"e943c9",
+"children":[
+"Laboratory testing clearly shows that this patient has HIV-1 infection. Repeating HIV testing will not provide additional information for management and would increase costs and delay treatment initiation unnecessarily (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_6",
+"objective":{
+"__html":"Manage newly diagnosed HIV infection."
+},
+"references":[
+[
+"Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in adults and adolescents with HIV. Department of Health and Human Services. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv/0",
+"target":"_blank"
+},
+"children":[
+"https://aidsinfo.nih.gov/guidelines/html/1/adult-and-adolescent-arv/0"
+]
+},
+". Accessed June 17, 2021."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":90,
+"B":3,
+"C":5,
+"D":1,
+"E":0
+},
+"hlIds":[
+"c51c02",
+"fbea7f",
+"8c1761",
+"cb2b54",
+"52afd0",
+"2ab07c",
+"ddfed7",
+"cf07f4",
+"e943c9"
+]
+}

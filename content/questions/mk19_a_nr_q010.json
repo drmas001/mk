@@ -1,0 +1,209 @@
+{
+"id":"mk19_a_nr_q010",
+"number":10,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ea3f2",
+"children":[
+"A 35-year-old woman is evaluated for a 5-year history of right- or occasionally left-sided throbbing headache with photophobia, phonophobia, and nausea. Recently, her headaches have been associated with right-arm tingling lasting 30 minutes. The headaches occur twice a month and last 6 to 8 hours each. The patient is otherwise asymptomatic, and she has had no other neurologic symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"b06b1f",
+"children":[
+"MRI of the brain with contrast shows a homogenously enhancing, dural-based lesion that has well-demarcated borders and appears to be outside the brain parenchyma in the right hemisphere. No mass effect, hemorrhage, or cerebral edema is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dexamethasone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Levetiracetam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serial brain MRI"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bba3de",
+"hvc":true,
+"children":[
+"Meningiomas are benign dural-based tumors that require no management in asymptomatic patients and are usually followed clinically."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0130bf",
+"hvc":true,
+"children":[
+"In patients with asymptomatic meningioma, prophylactic administration of antiepileptic drugs is generally not indicated in the absence of seizures."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a53ead",
+"children":[
+"The most appropriate management is serial brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient most likely has a meningioma, a benign tumor that is outside of the brain tissue (extra-axial) but inside the skull (intradural), arising from the dura (meninges). On noncontrast images, meningiomas may be hypointense or isointense and thus not readily seen. The term benign is used with caution in neurology because a histologically benign tumor may still be neurologically morbid because of location and size. No acute treatment is necessary in this case because the patient does not have a history of worrisome focal neurologic symptoms, has a normal neurologic examination, and shows a clear and stable pattern of migraine headaches (throbbing headache with photophobia, phonophobia, and nausea lasting 6 to 8 hours) that are unrelated to the tumor. Because the patient's throbbing headache can occur on either side of her head, and the tingling is on the incorrect side of the body in relationship to the meningioma, the meningioma is most likely an incidental finding in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"d18171",
+"children":[
+"Brain biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated based on the classic imaging characteristics of a meningioma. Repeat imaging in 3 to 6 months, or at any time if the patient's symptoms or examination findings change, could be considered. If the MRI appearance is changing or becomes atypical, biopsy could be considered."
+]
+},
+{
+"type":"p",
+"hlId":"18ed86",
+"children":[
+"Dexamethasone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated for this patient. There is no evidence of mass effect or cerebral edema on brain MRI. There is no herniation on neurologic examination."
+]
+},
+{
+"type":"p",
+"hlId":"57a9f1",
+"children":[
+"Prophylactic administration of antiepileptic drugs is generally not indicated in patients with meningioma in the absence of seizures. Therefore, starting levetiracetam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"408f07",
+"children":[
+"Surgical resection of the lesion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated for this patient given the absence of a history of neurologic deterioration (e.g., symptoms, focal findings, drug-resistant seizures), a normal neurologic examination, and brain MRI results that show a typical meningioma appearance without edema or mass effect."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s10_3_1",
+"objective":{
+"__html":"Manage asymptomatic meningioma."
+},
+"references":[
+[
+"Strowd RE 3rd, Blakeley JO. Common histologically benign tumors of the brain. Continuum (Minneap Minn). 2017 Dec 1;23(6, Neuro-oncology):1680-708."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":9,
+"D":38,
+"E":45
+},
+"hlIds":[
+"7ea3f2",
+"a4ff4d",
+"b06b1f",
+"1a5dcc",
+"bba3de",
+"0130bf",
+"a53ead",
+"d18171",
+"18ed86",
+"57a9f1",
+"408f07"
+]
+}

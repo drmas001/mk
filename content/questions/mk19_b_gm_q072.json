@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_gm_q072",
+"number":72,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6bf106",
+"children":[
+"A 68-year-old man is seen for a preoperative medical evaluation before elective cervical laminectomy for chronic radicular pain without neurologic deficits. Medical history is significant for hyperlipidemia and hypertension. He had a cerebrovascular accident 3 weeks ago due to small-vessel atherosclerosis. Medications are rosuvastatin, lisinopril, atenolol, aspirin, and dipyridamole."
+]
+},
+{
+"type":"p",
+"hlId":"afde34",
+"children":[
+"On physical examination, vital signs are normal. BMI is 31. Neurologic examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a6b297",
+"children":[
+"Which of the following is the most appropriate recommendation regarding surgery?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Avoid surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Delay surgery for 1 month"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Delay surgery for 9 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Proceed with surgery now"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f7ec25",
+"children":[
+"Patients at the highest risk for perioperative stroke include those with a history of prior stroke or transient ischemic attack."
+]
+},
+{
+"type":"keypoint",
+"hlId":"787894",
+"children":[
+"Elective surgery should ideally be delayed at least 6 months after a prior stroke, and possibly as long as 9 months following stroke or transient ischemic attack."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"797629",
+"children":[
+"The most appropriate recommendation is to delay surgery for at least 9 months following this patient's stroke (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Prior stroke or transient ischemic attack (TIA) is a significant risk factor for recurrent stroke in general and during the perioperative period and also increases the risk for a major adverse cardiac event. Historically, it has been recommended to delay elective noncardiac surgery for a minimum of 3 months following stroke or TIA owing to unacceptably high risk for recurrent stroke and impaired cerebral autoregulation during that time frame. However, more recent data show that this exceedingly high risk for recurrent stroke persists longer than 3 months, gradually returning to a new baseline 9 to 12 months after the event, at which point it still remains elevated compared with persons who never had a stroke or TIA. Although surgeries deemed more time sensitive or urgent may proceed after 3 months, it is most prudent to wait at least 6 months after a prior stroke, and possibly as long as 9 months prior to elective procedures. It is also important to note that secondary stroke prophylaxis with antiplatelet agents is often held for prolonged periods before and after spine surgery owing to bleeding risks, rendering the patient at even greater risk for recurrent stroke."
+]
+},
+{
+"type":"p",
+"hlId":"ca4444",
+"children":[
+"Waiting 9 to 12 months for the risk for perioperative stroke to reduce to baseline is ideal, although the risk for recurrent stroke remains elevated. Avoiding surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not absolutely necessary, and after the benefits and risks have been weighed, surgery can be planned with appropriate risk mitigation after an appropriate interval after stroke or TIA."
+]
+},
+{
+"type":"p",
+"hlId":"bedb5d",
+"children":[
+"Stroke or TIA within 30 days of planned surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, D"
+]
+},
+") significantly increases the risk for perioperative stroke; during this period, elective surgeries should be avoided. Patients with stroke involving a large brain volume or with a recent hemorrhagic stroke also are at risk for cerebral hemorrhage if placed on cardiopulmonary bypass and/or anticoagulation. If possible, nonemergency major cardiac procedures should be avoided."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_8",
+"objective":{
+"__html":"Recommend timing of surgery following a stroke."
+},
+"references":[
+[
+"Benesch C, Glance LG, Derdeyn CP, et al; American Heart Association Stroke Council; Council on Arteriosclerosis, Thrombosis and Vascular Biology; Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology; Council on Epidemiology and Prevention. Perioperative neurological evaluation and management to lower the risk of acute stroke in patients undergoing noncardiac, nonneurological surgery: a scientific statement from the American Heart Association/American Stroke Association. Circulation. 2021:CIR0000000000000968. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33827230",
+"target":"_blank"
+},
+"children":[
+"PMID: 33827230"
+]
+},
+" doi:10.1161/CIR.0000000000000968"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":29,
+"C":46,
+"D":12,
+"E":0
+},
+"hlIds":[
+"6bf106",
+"afde34",
+"a6b297",
+"f7ec25",
+"787894",
+"797629",
+"ca4444",
+"bedb5d"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_hm_q043",
+"number":43,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7c7e01",
+"children":[
+"A 48-year-old woman is evaluated in the emergency department for right leg swelling and pain of 1 week's duration. She reports no recent surgery, injuries, periods of immobility, or long airplane flights. Medical history is unremarkable. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ae8e91",
+"children":[
+"On physical examination, vital signs are normal. BMI is 20. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 99% breathing ambient air. Pitting edema extends to the knee on the right leg, and the right calf is 4 cm larger than the left calf. Pulses are intact, and capillary refill is normal."
+]
+},
+{
+"type":"p",
+"hlId":"53c968",
+"children":[
+"Duplex ultrasound shows an acute thrombosis of the right femoral vein."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anticoagulation for 3 months"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Anticoagulation for 3 months plus inferior vena cava filter"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Extended anticoagulation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thrombolytic therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dbd95e",
+"children":[
+"In patients with an unprovoked proximal deep venous thrombosis, extended anticoagulation should be prescribed, with periodic reevaluation of the benefits and harms of long-term therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"75dec8",
+"children":[
+"The most appropriate management for this patient is extended anticoagulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). She is a young, otherwise healthy woman with no history of thrombosis and no known risk factors for thrombosis (injury, recent surgery, periods of immobility, airplane travel, smoking, history of cancer, contraceptive use). Without known provoking or reversible risk factors, anticoagulation should be prescribed for an extended period, with plans for yearly evaluation to discuss the risks and benefits of continued anticoagulation. Additionally, if the patient is being treated with a direct oral anticoagulant such as rivaroxaban or apixaban, the dose can potentially be reduced after 6 months of therapy."
+]
+},
+{
+"type":"p",
+"hlId":"540a38",
+"children":[
+"In the setting of a provoked proximal deep venous thrombosis (DVT), the recommended treatment would be anticoagulation for 3 to 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Anticoagulation could be stopped after this limited period of treatment with removable or reversible risk factors. This patient has an unprovoked DVT, and consideration for extended anticoagulation is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"20ef14",
+"children":[
+"In patients with significant preexisting cardiopulmonary disease, the 2020 American Society of Hematology (ASH) guideline suggests anticoagulation alone rather than anticoagulation plus insertion of an inferior vena cava (IVC) filter for primary treatment of patients with DVT and/or pulmonary embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). An IVC filter might be considered for a patient with an absolute contraindication to anticoagulation but is not appropriate in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"bb3106",
+"children":[
+"According to the 2020 ASH guideline, thrombolysis is a reasonable consideration in patients with limb-threatening DVT and for selected younger patients at low risk for bleeding with symptomatic DVT involving the iliac and common femoral veins. Extensive thrombosis of these proximal veins is associated with higher risk for more severe postthrombotic syndrome. This patient does not have an indication for thrombolytic therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_3",
+"objective":{
+"__html":"Treat an unprovoked deep venous thrombosis."
+},
+"references":[
+[
+"Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: Treatment of deep vein thrombosis and pulmonary embolism. Blood Adv. 2020;4:4693-4738. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33007077",
+"target":"_blank"
+},
+"children":[
+"PMID: 33007077"
+]
+},
+" doi:10.1182/bloodadvances.2020001830"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":44,
+"B":3,
+"C":51,
+"D":3,
+"E":0
+},
+"hlIds":[
+"7c7e01",
+"ae8e91",
+"53c968",
+"cb2b54",
+"dbd95e",
+"75dec8",
+"540a38",
+"20ef14",
+"bb3106"
+]
+}

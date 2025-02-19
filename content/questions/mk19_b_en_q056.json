@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_en_q056",
+"number":56,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e1c76d",
+"children":[
+"A 73-year-old woman is seen during a routine evaluation. She has been taking amiodarone for atrial fibrillation for 1 year with good control until a recurrence 1 week ago. Thyroid function tests were normal before starting amiodarone. She has no history of iodinated contrast use. She is otherwise well and takes no additional medications."
+]
+},
+{
+"type":"p",
+"hlId":"b4ea0f",
+"children":[
+"On physical examination, pulse rate is 110/min and irregular; remaining vital signs are normal. Other than an irregular tachycardia, the thyroid and remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"8b56c7",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of less than 0.01 μU/mL (0.01 mU/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 3.5 ng/dL (45.0 pmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"98c2ad",
+"children":[
+"ECG shows atrial fibrillation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Serum thyroglobulin measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Thyroid peroxidase antibody titer"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid scintigraphy with radioactive iodine uptake"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid ultrasonography with Doppler studies"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"15fe16",
+"children":[
+"Type 1 amiodarone-induced thyrotoxicosis (AIT) (hyperthyroidism) occurs in patients with Graves disease or thyroid nodules; type 2 AIT (destructive thyroiditis) occurs in patients without underlying thyroid disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"918ca3",
+"children":[
+"Thyroid ultrasonography with Doppler studies can help distinguish type 1 amiodarone-induced thyrotoxicosis (increased vascularity) from type 2 (decreased vascularity)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6c7b46",
+"children":[
+"The most appropriate diagnostic test to perform next is thyroid ultrasonography with Doppler studies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has developed thyrotoxicosis while taking amiodarone. Amiodarone has a high iodine content (37%) and prolonged half-life of approximately 60 days or longer. Thyrotoxicosis affects 5% of patients treated with amiodarone. Type 1 amiodarone-induced thyrotoxicosis (AIT) (hyperthyroidism) occurs in patients with Graves disease or thyroid nodules. This form of iodine-induced hyperthyroidism (Jod-Basedow phenomenon) is typically treated with methimazole. Type 2 AIT (destructive thyroiditis) is more common and occurs in patients without underlying thyroid disease. Type 2 AIT is usually self-limiting but sometimes requires treatment with glucocorticoids. Thyroid ultrasonography with Doppler studies, in addition to identifying thyroid nodules, allows assessment of the gland vascularity. Increased vascularity suggests type 1 AIT as the cause, whereas decreased vascularity suggests type 2 AIT. The decision to discontinue amiodarone depends on the patient's cardiac condition and type of thyrotoxicosis and should be done in consultation with a cardiologist."
+]
+},
+{
+"type":"p",
+"hlId":"15d6db",
+"children":[
+"Serum thyroglobulin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is useful in distinguishing endogenous thyrotoxicosis from exogenous thyrotoxicosis, with the former leading to increased or normal levels and the latter leading to low levels. This test would be useful for patients who may be surreptitiously taking thyroid hormone. This patient has no history to suggest exogenous intake of thyroid hormone. Thyroid-stimulating immunoglobulins or thyroid-stimulating hormone receptor antibodies may be useful in identifying Graves disease as a potential cause of the thyrotoxicosis."
+]
+},
+{
+"type":"p",
+"hlId":"199c8c",
+"children":[
+"Thyroid peroxidase (TPO) antibodies are present in most patients with Hashimoto thyroiditis that is a cause of hypothyroidism; however, this patient has hyperthyroidism. Additionally, in evaluation of hypothyroidism, assessment of the TPO antibody titer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is unnecessary unless the diagnosis is unclear."
+]
+},
+{
+"type":"p",
+"hlId":"ae533a",
+"children":[
+"Typically, the evaluation of thyrotoxicosis is aided by thyroid scintigraphy with radioactive iodine uptake (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which differentiates hyperthyroidism (Graves disease and toxic multinodular goiter) from destructive thyroiditis. The evaluation of AIT with thyroid scintigraphy is difficult and unreliable, however, because the high iodine load from amiodarone impairs thyroid uptake of iodine."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_3",
+"objective":{
+"__html":"Diagnose amiodarone-induced thyrotoxicosis."
+},
+"references":[
+[
+"Burch HB. Drug effects on the thyroid. N Engl J Med. 2019;381:749-761. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31433922",
+"target":"_blank"
+},
+"children":[
+"PMID: 31433922"
+]
+},
+" doi:10.1056/NEJMra1901214"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":18,
+"C":49,
+"D":12,
+"E":0
+},
+"hlIds":[
+"e1c76d",
+"b4ea0f",
+"8b56c7",
+"98c2ad",
+"2eb226",
+"15fe16",
+"918ca3",
+"6c7b46",
+"15d6db",
+"199c8c",
+"ae533a"
+]
+}

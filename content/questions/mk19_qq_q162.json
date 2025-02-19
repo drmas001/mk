@@ -1,0 +1,192 @@
+{
+"id":"mk19_qq_q162",
+"number":162,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 162",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f2dd7",
+"children":[
+"A 52-year-old man is evaluated in the emergency department for acute chest pain that radiates to his back. He has a history of hypertension and hyperlipidemia. Current medications are losartan and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"40c808",
+"children":[
+"Blood pressure is 198/120 mm Hg, and pulse rate is 90/min. Cardiopulmonary examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and clear lungs; peripheral pulses are intact. Chest CT scan shows aortic dissection extending from the subclavian artery into the left renal artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78e525",
+"children":[
+"Which of the following is the most appropriate initial intravenous treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Esmolol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hydralazine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Phentolamine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Verapamil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"81251b",
+"children":[
+"Patients with hypertensive emergency and a compelling indication (aortic dissection, severe preeclampsia or eclampsia, pheochromocytoma) require urgent blood pressure reduction to less than 140 mm Hg during the first hour and to less than 120 mm Hg in aortic dissection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"10a87b",
+"children":[
+"In hypertensive emergency complicated by aortic dissection, intravenous β-blockers are the initial drugs of choice owing to their antihypertensive and negative chronotropic effects, which lead to reduced shear stress on the aortic wall."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4501d4",
+"children":[
+"The most appropriate treatment is to start an esmolol infusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in this patient with a hypertensive emergency. Hypertensive emergencies are defined as severe elevations in blood pressure (BP) (for example, higher than 180/120 mm Hg) associated with evidence of new or worsening end-organ damage. Patients with a compelling indication require urgent BP reduction. Compelling indications include aortic dissection, severe preeclampsia or eclampsia, and pheochromocytoma. In patients with a compelling indication, systolic BP should be reduced to less than 140 mm Hg during the first hour and to less than 120 mm Hg in aortic dissection. In aortic dissection, intravenous β-blockers are the initial drugs of choice owing to their antihypertensive and negative chronotropic effects, which lead to reduced shear stress on the aortic wall. Options include labetalol and esmolol. Esmolol is a very short-acting agent that allows careful titration of BP and heart rate."
+]
+},
+{
+"type":"p",
+"hlId":"038bef",
+"children":[
+"Direct vasodilators, such as hydralazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), increase heart rate and aortic wall shear stress and are more difficult to use in predictably controlling BP. They are therefore not used in treating acute aortic dissection."
+]
+},
+{
+"type":"p",
+"hlId":"3f21bb",
+"children":[
+"Phentolamine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a nonselective α-adrenergic blocker used in hypertensive emergencies induced by catecholamine excess such as pheochromocytoma, interactions between monoamine oxidase inhibitors and other drugs or food, cocaine toxicity, amphetamine overdose, or clonidine withdrawal. Phentolamine does not have the beneficial effects of reducing heart rate and myocardial contractility."
+]
+},
+{
+"type":"p",
+"hlId":"53df26",
+"children":[
+"Nondihydropyridine calcium channel blockers, such as verapamil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), are preferred second-line agents in patients who are unable to tolerate β-blockade. Nitroprusside can be added following β-blockade if BP remains elevated above target."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_13",
+"objective":{
+"__html":"Treat hypertensive emergency complicated by a dissecting aortic aneurysm."
+},
+"references":[
+[
+"Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018;71:e127-e248. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29146535",
+"target":"_blank"
+},
+"children":[
+"PMID: 29146535"
+]
+},
+" doi:10.1016/j.jacc.2017.11.006"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5f2dd7",
+"40c808",
+"78e525",
+"81251b",
+"10a87b",
+"4501d4",
+"038bef",
+"3f21bb",
+"53df26"
+]
+}

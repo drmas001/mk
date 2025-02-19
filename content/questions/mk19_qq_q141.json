@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q141",
+"number":141,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 141",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b2653d",
+"children":[
+"A 72-year-old woman is evaluated for short episodes of vertigo. The most severe episodes last less than 1 minute and primarily occur when turning over in bed."
+]
+},
+{
+"type":"p",
+"hlId":"7859fe",
+"children":[
+"On physical examination, vital signs are normal. Horizontal nystagmus is observed following the Dix-Hallpike maneuver after a 3-second latency that resolves in 30 seconds. With repeated maneuvers, the nystagmus is more difficult to elicit."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benign paroxysmal positional vertigo"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cerebellar infarction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meniere disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vestibular neuronitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"65b549",
+"children":[
+"The Dix-Hallpike maneuver indicates a peripheral vertigo when there is a latency period of 2 to 20 seconds before the onset of the positional nystagmus, the duration of nystagmus is less than 1 minute, and the nystagmus is fatigable with repeated Dix-Hallpike maneuvers."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ee40f4",
+"children":[
+"Common causes of peripheral vertigo include benign paroxysmal positional vertigo, vestibular neuronitis, labyrinthitis, and Meniere disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a54fad",
+"children":[
+"This patient has benign paroxysmal positional vertigo (BPPV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The first step in the evaluation of a patient with dizziness is to distinguish between its major causes: vertigo, presyncope, or disequilibrium. This patient describes vertigo, which is the sensation that her stationary environment is spinning around her (or that one is spinning around in one's environment). There are two major categories of vertigo: peripheral and central. In addition to history and risk factors, the Dix-Hallpike maneuver is very helpful in distinguishing peripheral from central vertigo. The Dix-Hallpike maneuver indicates a peripheral vertigo when there is a latency period of 2 to 20 seconds before the onset of the positional nystagmus, the duration of nystagmus is less than 1 minute, and the nystagmus is fatigable with repeated Dix-Hallpike maneuvers. This patient has typical symptoms of BPPV, including episodes of vertigo lasting less than 1 minute and provocation by rapid changes in head movement, and the Dix-Hallpike maneuver confirms the peripheral nature of her vertigo. Other common causes of peripheral vertigo include vestibular neuronitis, labyrinthitis, and Meniere disease."
+]
+},
+{
+"type":"p",
+"hlId":"f1018b",
+"children":[
+"Cerebellar infarction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a cause of central vertigo and would cause a different pattern with Dix-Hallpike testing. When performed with a central disorder, the Dix-Hallpike maneuver provokes nystagmus with no latency, the nystagmus usually lasts more than 1 minute, and the nystagmus is not fatigable with repeated testing. In addition, cerebellar infarction usually leads to persistent symptoms (not episodic, like in this patient) and is often accompanied by gait impairment."
+]
+},
+{
+"type":"p",
+"hlId":"ea7899",
+"children":[
+"Meniere disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a cause of peripheral vertigo and can result in recurrent vertigo episodes; however, it is usually accompanied by unilateral hearing loss and tinnitus, which is not seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"840ccb",
+"children":[
+"Vestibular neuronitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a peripheral cause of vertigo, most often preceded by a viral infection affecting the vestibular portion of cranial nerve VIII. Patients experience rapid onset of severe vertigo commonly associated with nausea, vomiting, and gait instability. Symptoms tend to last longer than those associated with BPPV and are more persistent."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_3_2_1",
+"objective":{
+"__html":"Diagnose benign paroxysmal positional vertigo."
+},
+"references":[
+[
+"Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical practice guideline: benign paroxysmal positional vertigo (update). Otolaryngol Head Neck Surg. 2017;156:S1-S47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28248609",
+"target":"_blank"
+},
+"children":[
+"PMID: 28248609"
+]
+},
+" doi:10.1177/0194599816689667"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b2653d",
+"7859fe",
+"413696",
+"65b549",
+"ee40f4",
+"a54fad",
+"f1018b",
+"ea7899",
+"840ccb"
+]
+}

@@ -1,0 +1,220 @@
+{
+"id":"mk19_qq_q016",
+"number":16,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"55b693",
+"children":[
+"A 79-year-old man is evaluated in the hospital for an increase in ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level from 1.1 mg/dL (97.2 µmol/L) to 1.9 mg/dL (168 µmol/L). He was diagnosed with community-acquired pneumonia 4 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"b58097",
+"children":[
+"On physical examination, vital signs are stable. There are crackles noted in the left lower lung field. The bladder is not palpable. Urine output was 300 mL in the past 24 hours. Urinalysis findings, including microscopic examination, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b0882f",
+"children":[
+"Which of the following is the most appropriate initial diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bladder ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of abdomen and pelvis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fractional excretion of sodium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Kidney and bladder ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9e48f4",
+"children":[
+"Relief of urinary obstruction can reverse acute kidney injury and prevent chronic damage; therefore, timely diagnosis is essential."
+]
+},
+{
+"type":"keypoint",
+"hlId":"72903c",
+"children":[
+"Because of the lack of definitive symptoms on presentation, kidney imaging, typically ultrasonography of the kidney and bladder, should be considered for all patients with acute kidney injury to exclude obstruction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"688f25",
+"children":[
+"Kidney and bladder ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated for this patient with acute kidney injury (AKI). Kidney and bladder ultrasonography is helpful in patients with a high pretest probability of urinary tract obstruction and in patients with AKI of unknown etiology. Because relief of obstruction can reverse kidney injury and prevent chronic damage, timely diagnosis is essential. Urinary obstruction can be asymptomatic and can be associated with no noted change in urine output. Because of the lack of definitive symptoms on presentation, kidney imaging, typically ultrasonography, should be considered for all patients with AKI, but most particularly when risk factors for obstruction are present. Medical history findings (including pelvic tumors or irradiation, congenital urinary tract abnormalities, kidney stones, genitourinary infections, various procedures or surgeries, and prostatic enlargement) should increase suspicion for obstruction."
+]
+},
+{
+"type":"p",
+"hlId":"439237",
+"children":[
+"Bladder ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), rather than kidney ultrasonography, can be done as a quick bedside procedure and may also diagnose bladder obstruction; however, it will not reveal hydronephrosis or kidney anatomy."
+]
+},
+{
+"type":"p",
+"hlId":"dff476",
+"children":[
+"If the pretest probability of nephrolithiasis or malignancy is high, CT of the abdomen and pelvis would be the preferred test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). However, the normal urinalysis and lack of pain make nephrolithiasis an unlikely possibility."
+]
+},
+{
+"type":"p",
+"hlId":"80d9d8",
+"children":[
+"In obstruction, urine electrolytes are variable. In early obstruction, the urine sodium concentration and fractional excretion of sodium (FE",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+") may be low, but in late obstruction, the urine sodium concentration and FE",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+" may be high, indicative of tubular damage. Therefore, the FE",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not helpful in evaluating for possible obstruction. Because of impaired kidney excretion of potassium, acid, and water, hyperkalemic metabolic acidosis and hyponatremia may also be present."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_4",
+"objective":{
+"__html":"Diagnose obstructive acute kidney injury."
+},
+"references":[
+[
+"Ronco C, Bellomo R, Kellum JA. Acute kidney injury. Lancet. 2019;394:1949-1964. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31777389",
+"target":"_blank"
+},
+"children":[
+"PMID: 31777389"
+]
+},
+" doi:10.1016/S0140-6736(19)32563-2"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"55b693",
+"b58097",
+"b0882f",
+"9e48f4",
+"72903c",
+"688f25",
+"439237",
+"dff476",
+"80d9d8"
+]
+}

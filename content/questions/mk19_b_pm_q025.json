@@ -1,0 +1,288 @@
+{
+"id":"mk19_b_pm_q025",
+"number":25,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"20cfd7",
+"children":[
+"A 46-year-old woman is evaluated for cough, shortness of breath, wheezing, and chest tightness of 3 weeks' duration. The patient is a janitor in a hospital, and her symptoms started after she mopped up a spill in the cleaning supplies cabinet. Medical history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"2fd10b",
+"children":[
+"On physical examination, respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. There is diffuse expiratory wheezing over both lung fields."
+]
+},
+{
+"type":"p",
+"hlId":"535cdb",
+"children":[
+"Spirometry reveals an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 88% of predicted, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 55% of predicted, and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.6. Postbronchodilator testing reveals significant bronchodilator responsiveness."
+]
+},
+{
+"type":"p",
+"hlId":"9965af",
+"children":[
+"Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ecb9ce",
+"children":[
+"Which of the following is the most appropriate next diagnostic step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allergy testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bronchoscopy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methacholine challenge test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Review Safety Data Sheet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d29ae3",
+"children":[
+"When an occupational lung disease is suspected, clinicians should request a Safety Data Sheet (SDS) from the patient's employer; the SDS details chemical properties and known health risks associated with substances at the workplace."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d206a5",
+"children":[
+"The most appropriate next diagnostic step is review of the Safety Data Sheet (SDS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient's history suggests a discrete temporal relationship to an accidental irritant exposure and onset of respiratory symptoms consistent with a diagnosis of reactive airways dysfunction syndrome. Reactive airways dysfunction syndrome is a well-described subset of irritant-induced occupational asthma. This syndrome occurs in patients without preexisting asthma following a single, high-level exposure to fumes, gases, or vapors. The diagnosis requires evidence of asthmatic symptoms for at least 3 months after the exposure and is confirmed by airway obstruction or bronchial hyperreactivity. The SDS includes information on the properties of each chemical on site, along with the physical, health, and environmental health hazards; protective measures; and safety precautions for handling, storing, and transporting the chemical. In the United States, the Occupational Safety and Health Administration requires employers to make this information available upon request for employees who work with potentially harmful chemicals. Cleaning products contain volatile chemicals, and acute and chronic inhalation exposures pose respiratory health risks, including asthma. A list of agents that can cause occupational asthma is available at: ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.cdc.gov/niosh/topics/asthma/exposures.html",
+"target":"_blank"
+},
+"children":[
+"www.cdc.gov/niosh/topics/asthma/exposures.html"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"2b6996",
+"children":[
+"If the patient's symptoms become chronic and occupational asthma is strongly suspected, a combination of objective evidence of asthma with specific immunologic or skin prick testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for the suspected agent, when available, has a high predictive value for diagnosis. Additional tests to evaluate for occupational respiratory illnesses may include bronchoprovocation testing and, in select patients, specific inhalational challenges."
+]
+},
+{
+"type":"p",
+"hlId":"ed074c",
+"children":[
+"Bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") does not have a role in the diagnosis of reactive airways dysfunction syndrome. It may be considered if the clinical picture is atypical with concerns for pneumonia or alveolitis. However, it would not precede a review of the SDS whenever an occupational lung disease is suspected."
+]
+},
+{
+"type":"p",
+"hlId":"dd3f12",
+"children":[
+"In patients with clinical symptoms suggestive of bronchospastic disease but with normal spirometry, bronchoprovocation with a methacholine challenge test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used to identify bronchial hyperresponsiveness. Bronchial challenge testing uses a controlled inhaled stimulus to induce bronchospasm in association with spirometry; a positive test is indicated by a drop in the measured FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+". Due to the risk of an exaggerated response as well as difficulties with interpretation, methacholine challenge testing is contraindicated in patients with airflow limitation (FEV<60% of predicted or FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" <1.5 L in adults). In this patient with an FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" of 55% of predicted, methacholine challenge testing would be inappropriate."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s4_2",
+"objective":{
+"__html":"Evaluate occupational lung disease using the employer Safety Data Sheet."
+},
+"references":[
+[
+"Rosenman K, Reilly MJ, Pechter E, et al. Cleaning products and work-related asthma, 10 year update. J Occup Environ Med. 2020;62:130-137. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31895737",
+"target":"_blank"
+},
+"children":[
+"PMID: 31895737"
+]
+},
+" doi:10.1097/JOM.0000000000001771"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":4,
+"C":4,
+"D":81,
+"E":0
+},
+"hlIds":[
+"20cfd7",
+"2fd10b",
+"535cdb",
+"9965af",
+"ecb9ce",
+"d29ae3",
+"d206a5",
+"2b6996",
+"ed074c",
+"dd3f12"
+]
+}

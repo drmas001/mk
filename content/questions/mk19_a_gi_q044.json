@@ -1,0 +1,229 @@
+{
+"id":"mk19_a_gi_q044",
+"number":44,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"11e559",
+"children":[
+"A 40-year-old man is evaluated following discharge 6 weeks after hospitalization for an episode of upper gastrointestinal bleeding. During hospitalization, a proton pump inhibitor was initiated and subsequent upper endoscopy showed a healing Mallory-Weiss tear. He is currently asymptomatic. His only medication is omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"a4c6da",
+"children":[
+"Physical examination findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Barium esophagography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinuation of omeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Helicobacter pylori</i> testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3bf485",
+"hvc":true,
+"children":[
+"Unnecessary continuation of proton pump inhibitors (PPIs) after hospital discharge is a cause of PPI overuse."
+]
+},
+{
+"type":"keypoint",
+"hlId":"858091",
+"hvc":true,
+"children":[
+"PPI therapy should be used at the lowest dose to control symptoms and discontinued if there is no appropriate indication."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"521487",
+"children":[
+"The most appropriate management is discontinuation of omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient had upper gastrointestinal bleeding secondary to a Mallory-Weiss tear. This small mucosal defect may occur after repeated vomiting and may cause bleeding, often self-limited. In this patient, a proton pump inhibitor (PPI), omeprazole, was started during hospitalization for gastrointestinal bleeding, before endoscopy and the diagnosis of Mallory-Weiss tear, and the drug was never discontinued. PPI therapy is given to all patients suspected of having clinically significant upper gastrointestinal bleeding before endoscopy as part of their initial management and is continued following hospital discharge in patients with bleeding due to peptic ulcer disease. In patients with Mallory-Weiss tear, PPI therapy to prevent recurrent bleeding is less well studied but is not commonly used. This patient does not have a guideline-recommended indication for continued PPI use, and it would be appropriate to discontinue the omeprazole. Unnecessary continuation of PPIs after hospital discharge is a cause of PPI overuse. The goal should be to use the lowest dose to control symptoms and discontinue therapy if there is no appropriate indication. Adverse effects of PPI may include headache and gastrointestinal distress. Vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency, hypomagnesemia, and subsequent hypocalcemia and hypokalemia may also be associated with PPI use. Risk for community-acquired pneumonia or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection also may be increased. Additional concerns have been raised regarding hip fracture, kidney injury, and dementia, but causal relationships are unproven. Because this patient has no indication for PPI use, continuing this therapy would be unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"12c8a0",
+"children":[
+"Barium esophagography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is useful in the evaluation of esophageal dysphagia, especially when there is a suspicion for motility disorders or proximal lesions (e.g., Zenker diverticulum). This test would be of little yield in this patient without dysphagia whose endoscopy showed no other structural issues."
+]
+},
+{
+"type":"p",
+"hlId":"f8e3c7",
+"children":[
+"Testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be warranted for peptic ulcer disease or gastritis. Because this patient had an identified cause of his upper gastrointestinal bleeding and has no additional pathology or risk factors, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" testing is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"e3c566",
+"children":[
+"In the absence of recurrent bleeding, repeat upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to assess for healing in patients with Mallory-Weiss tear is not indicated. Repeat upper endoscopy in upper gastrointestinal bleeding is reserved for select patients with peptic ulcer disease (persistent symptoms after 8 to 12 weeks of therapy, ulcers of unknown cause, or no gastric ulcer biopsy during initial endoscopy), patients with severe erosive esophagitis, and patients with esophageal varices."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s1_2_1_2_2",
+"objective":{
+"__html":"Avoid overuse of proton pump inhibitor therapy."
+},
+"references":[
+[
+"Heidelbaugh JJ, Kim AH, Chang R, et al. Overutilization of proton-pump inhibitors: what the clinician needs to know. Therap Adv Gastroenterol. 2012;5:219-32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/22778788",
+"target":"_blank"
+},
+"children":[
+"PMID: 22778788"
+]
+},
+" doi:10.1177/1756283X12437358"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":78,
+"C":8,
+"D":12,
+"E":0
+},
+"hlIds":[
+"11e559",
+"a4c6da",
+"cb2b54",
+"3bf485",
+"858091",
+"521487",
+"12c8a0",
+"f8e3c7",
+"e3c566"
+]
+}

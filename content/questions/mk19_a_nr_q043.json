@@ -1,0 +1,218 @@
+{
+"id":"mk19_a_nr_q043",
+"number":43,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"06fdc6",
+"children":[
+"An 82-year-old woman is evaluated for an 18-month history of progressively worsening repetitive questioning, one episode of getting lost while driving on a familiar route, and repeated instances of losing her cell phone. She lives alone and is independent in all of her basic activities of daily living, except that her daughter has automated her finances because of some errors."
+]
+},
+{
+"type":"p",
+"hlId":"a4ab7d",
+"children":[
+"On physical examination, vital signs are normal and other findings are unremarkable. The Mini–Mental State Examination score is 23."
+]
+},
+{
+"type":"p",
+"hlId":"a030fc",
+"children":[
+"An MRI of the brain shows significant hippocampal atrophy bilaterally with minimal white matter hyperintensities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Donepezil"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ginkgo biloba"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"High-dose vitamin E"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Memantine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9bbbd6",
+"children":[
+"The acetylcholinesterase inhibitors donepezil, rivastigmine, and galantamine are approved for treating mild to moderate dementia in patients with Alzheimer disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"049d3d",
+"children":[
+"Memantine is used as an adjunct to an acetylcholinesterase inhibitor in the moderate to severe stage of Alzheimer disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7089ee",
+"children":[
+"The most appropriate treatment is an acetylcholinesterase inhibitor, such as donepezil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). One tool used to categorize dementia into levels of severity is the Mini-Mental State Examination (MMSE) score. Mild dementia is often associated with a MMSE score of 20 to 23, moderate dementia a score of 10 to 19, and severe dementia a score <10. This patient is in a mild stage of dementia due to Alzheimer disease (AD), given her abnormal test score and her functional dependence with her finances. AD is the most common memory-predominant dementia and is also the most common cause of dementia. The typical presentation of AD is that of an insidious worsening of memory, language, and visuospatial abilities. Manifestations include forgetfulness, frequent repetition of questions or statements, word-finding difficulties, hesitation in speech, and navigational problems. The acetylcholinesterase inhibitors donepezil, rivastigmine, and galantamine are approved for treating mild-to-moderate dementia in patients with AD and have demonstrated modest benefits in cognitive performance, stabilizing progression of symptoms, and functional loss. Because of their possible adverse effects on conduction, acetylcholinesterase inhibitors should be used with caution or avoided in patients with bradycardia or other conduction abnormalities. The most common adverse effects are gastrointestinal issues, which result in discontinuation of the medication in nearly 20% of patients. Additional adverse effects include syncope, agitation, nocturnal cramps, and vivid dreams. Donepezil should be used with caution in patients with a history of seizures."
+]
+},
+{
+"type":"p",
+"hlId":"a807f2",
+"children":[
+"Supplements such as Ginkgo biloba (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and high-dose vitamin E (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") have not shown clinical benefit in studies. Therapy with Ginkgo biloba is also limited because there is no standardization of dose or regulation of content by the FDA. High-dose vitamin E has been associated with an increase in all-cause mortality and heart failure in some studies."
+]
+},
+{
+"type":"p",
+"hlId":"3936b6",
+"children":[
+"Memantine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-methyl-",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+"-aspartate receptor antagonist that is FDA-approved for use in AD as an adjunct to an acetylcholinesterase inhibitor in the moderate to severe stage of dementia due to AD. There is no evidence of benefit in the mild stage of AD dementia. Memantine has fewer adverse effects than acetylcholinesterase inhibitors and is not associated with adverse cardiovascular effects. The most commonly reported side effect is dizziness."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_1_1_2",
+"objective":{
+"__html":"Treat Alzheimer disease."
+},
+"references":[
+[
+"Oh ES, Rabins PV. Dementia. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201909030",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31476229",
+"target":"_blank"
+},
+"children":[
+"PMID: 31476229"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":82,
+"B":0,
+"C":0,
+"D":18,
+"E":0
+},
+"hlIds":[
+"06fdc6",
+"a4ab7d",
+"a030fc",
+"1054f1",
+"9bbbd6",
+"049d3d",
+"7089ee",
+"a807f2",
+"3936b6"
+]
+}

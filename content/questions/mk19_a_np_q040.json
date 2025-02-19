@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_np_q040",
+"number":40,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d7158d",
+"children":[
+"A 38-year-old woman seeks treatment for polyuria and nocturia that began 6 weeks ago after starting lithium for bipolar disorder. Medical history is otherwise unremarkable. Her only other medication is olanzapine."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"64a270",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level of 145 mEq/L (145 mmol/L) and a urine osmolality of 200 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add amiloride"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add furosemide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Decrease water intake"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Increase protein intake"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"047c5d",
+"children":[
+"Treatment of lithium-induced nephrogenic diabetes insipidus is best accomplished with amiloride, as it blocks the epithelial sodium channel in the collecting tubule and prevents the uptake of lithium by these cells."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c9ea0d",
+"children":[
+"If amiloride is ineffective in treating lithium-induced nephrogenic diabetes insipidus and lithium must be continued, treatment is aimed at limiting solute intake and causing mild volume depletion with the use of a thiazide diuretic."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c08770",
+"children":[
+"The most appropriate management is to add amiloride (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has polyuria, a serum sodium concentration at the upper limit of normal, and dilute urine, which establish the diagnosis of diabetes insipidus (DI). DI may be secondary to either an inadequate release of antidiuretic hormone (ADH) (central DI) or inadequate action of ADH (nephrogenic DI). Central DI can result from tumors that invade the hypothalamus, infiltrating diseases such as sarcoidosis, or surgical destruction. Nephrogenic DI is often caused by drugs such as lithium. The temporal association with the initiation of lithium in this patient establishes the diagnosis of lithium-induced nephrogenic DI. Up to 40% of patients treated with lithium will develop polydipsia secondary to lithium interfering with the action of ADH. Amiloride is the most appropriate management in this case, as it blocks the epithelial sodium channel in the collecting tubule and prevents the uptake of lithium by these cells. Intracellular lithium appears to decrease the number of aquaporin water channels inserted in the membrane, thereby decreasing water reabsorption causing increased excretion of dilute urine. If amiloride is ineffective and lithium must be continued, the treatment of nephrogenic DI is aimed at decreasing the amount of urine excreted and is best accomplished by limiting solute intake and causing mild volume depletion with the use of a thiazide diuretic. Because the amount of urine excreted daily is dependent on solute intake and minimum urine osmolality, decreasing solute will limit urine volume. By causing mild volume depletion with a thiazide diuretic, more salt and water will be reabsorbed in the proximal tubule and loop of Henle, further decreasing urine output."
+]
+},
+{
+"type":"p",
+"hlId":"0e4f8f",
+"children":[
+"Although furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") will produce volume depletion, it is not helpful in the treatment of nephrogenic DI. Furosemide blocks the ability to concentrate the urine at the loop of Henle, creating a state of antidiuretic hormone resistance."
+]
+},
+{
+"type":"p",
+"hlId":"9374ce",
+"children":[
+"Patients with nephrogenic DI will develop increased thirst as their serum sodium increases. Water intake should never be restricted (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with nephrogenic DI because it can lead to severe hypernatremia."
+]
+},
+{
+"type":"p",
+"hlId":"4aa4b6",
+"children":[
+"Because the treatment of nephrogenic DI is aimed at decreasing solute intake, increasing protein intake (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate management."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_2_2_2",
+"objective":{
+"__html":"Manage nephrogenic diabetes insipidus."
+},
+"references":[
+[
+"Bockenhauer D, Bichet DG. Pathophysiology, diagnosis and management of nephrogenic diabetes insipidus. Nat Rev Nephrol. 2015;11:576-588. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26077742",
+"target":"_blank"
+},
+"children":[
+"PMID: 26077742"
+]
+},
+" doi:10.1038/nrneph.2015.89"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":59,
+"B":7,
+"C":30,
+"D":4,
+"E":0
+},
+"hlIds":[
+"d7158d",
+"f8786b",
+"64a270",
+"cb2b54",
+"047c5d",
+"c9ea0d",
+"c08770",
+"0e4f8f",
+"9374ce",
+"4aa4b6"
+]
+}

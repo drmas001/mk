@@ -1,0 +1,543 @@
+{
+"id":"mk19_b_hm_q055",
+"number":55,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c9e7fa",
+"children":[
+"A 21-year-old woman is evaluated for fatigue and dyspnea on exertion progressing over the past 4 days along with dark urine. One week ago, she completed a 5-day course of azithromycin for cough and fever, which resolved with the medication."
+]
+},
+{
+"type":"p",
+"hlId":"3e3158",
+"children":[
+"On physical examination, vital signs are normal. Conjunctival icterus is noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2f2316",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Haptoglobin, serum",
+"children":[
+"Haptoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bda484",
+"class":"cell text l",
+"children":[
+"<10 mg/dL (100 mg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"963115",
+"class":"cell text l",
+"children":[
+"10.7 g/dL (107 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"49ca9e",
+"class":"cell text l",
+"children":[
+"8500/μL (8.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b969d7",
+"class":"cell text l",
+"children":[
+"225,000/μL (225 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7d8e6e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Reticulocyte count",
+"children":[
+"Reticulocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3ad45c",
+"class":"cell text l",
+"children":[
+"9% of erythrocytes"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"17aac3",
+"children":[
+"Direct antiglobulin test is negative for anti-IgG and strongly reactive for anticomplement."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cold agglutinin titer"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eculizumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripheral blood flow cytometry for CD55 and CD59"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7c8e26",
+"children":[
+"In patients with hemolytic anemia and a positive direct antiglobulin test to anticomplement (C3) but not IgG, the diagnosis of cold agglutinin disease can by confirmed by a cold agglutinin titer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ee48c5",
+"children":[
+"Cold agglutinin hemolytic anemia can arise as a primary process or secondary to an underlying condition such as infection, lymphoproliferative disorders, or autoimmune disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"022366",
+"children":[
+"The most appropriate management is to obtain cold agglutinin titers (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's laboratory findings are consistent with cold agglutinin hemolytic anemia. Cold agglutinins are IgM antibodies that can cause erythrocyte agglutination and hemolytic anemia, with extravascular hemolysis driven by complement fixation. In cold agglutinin disease, the direct antiglobulin test result is positive for anticomplement (C3) and negative for anti-IgG. Cold agglutinin hemolytic anemia can arise as a primary process or secondary to an underlying condition such as infection, lymphoproliferative disorders, or autoimmune disease. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma pneumoniae"
+]
+},
+" is a common infectious issue associated with development of cold agglutinins. This may arise because the organism causes alterations in antigens on the erythrocyte membrane to which IgM autoantibodies are directed. The hemolysis associated with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"M. pneumoniae"
+]
+},
+" is often mild and self-limited. Based on her symptoms of cough and fever and their resolution with a macrolide, this patient may have had preceding ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"M. pneumoniae"
+]
+},
+" infection. The presence of a cold agglutinin can be confirmed by checking a titer, whereby the ability of the patient's serum to agglutinate erythrocytes is evaluated through serial dilutions."
+]
+},
+{
+"type":"p",
+"hlId":"95a8d8",
+"children":[
+"Some interest exists in developing anticomplement therapies for cold agglutinin disease, with promising agents directed at C1 and C3. Eculizumab is an anticomplement drug that targets C5, so it would not be as useful in cold agglutinin disease because the hemolysis occurs from earlier components in the complement pathway (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Eculizumab is approved for use in paroxysmal nocturnal hemoglobinuria (PNH) and atypical hemolytic uremic syndrome but not in cold agglutinin disease."
+]
+},
+{
+"type":"p",
+"hlId":"cfa313",
+"children":[
+"Detection of CD55 and CD59 by flow cytometry would be appropriate if PNH were a concern, but that is not the case with this patient whose direct antiglobulin test results are consistent with a cold agglutinin process (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"5b95e8",
+"children":[
+"If treatment for primary cold agglutinin hemolytic anemia is needed, a rituximab-based regimen is preferred. Treatment with glucocorticoids, intravenous immune globulin, or splenectomy is seldom effective in cold agglutinin hemolytic anemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_3_2_1",
+"objective":{
+"__html":"Manage cold agglutinin disease."
+},
+"references":[
+[
+"Berentsen S. How I manage patients with cold agglutinin disease. Br J Haematol. 2018;181:320-330. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29363757",
+"target":"_blank"
+},
+"children":[
+"PMID: 29363757"
+]
+},
+" doi:10.1111/bjh.15109"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":11,
+"C":22,
+"D":25,
+"E":0
+},
+"hlIds":[
+"c9e7fa",
+"3e3158",
+"a462a3",
+"2f2316",
+"bda484",
+"f9867c",
+"963115",
+"2989c0",
+"49ca9e",
+"fcac73",
+"b969d7",
+"7d8e6e",
+"3ad45c",
+"17aac3",
+"cb2b54",
+"7c8e26",
+"ee48c5",
+"022366",
+"95a8d8",
+"cfa313",
+"5b95e8"
+]
+}

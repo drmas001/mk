@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q042",
+"number":42,
+"bookId":"vdx_cv",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f948cf",
+"children":[
+"A 79-year-old woman is evaluated for fatigue and bradycardia."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f042",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f042"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b1916c",
+"children":[
+"Which of the following abnormalities is seen on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Idioventricular rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mobitz type 2 second-degree heart block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sinus bradycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Third-degree heart block"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a750f7",
+"children":[
+"This ECG demonstrates third-degree heart block, which is characterized electrocardiographically by dissociation between the P waves and the QRS complexes. P waves discharge at their inherent rate but cannot be conducted to the ventricles. If the QRS complexes are narrow, the heart block is usually at the level of the His bundle. If the QRS complexes are wide, the heart block is lower (below the His bundle), and the rate will be between 30/min and 40/min."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Identify ECG features of third-degree heart block."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f042":{
+"id":"vdx4_cv_mcq_f042",
+"number":42,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"ebdcddf554291a4ff817e657039de34f",
+"height":322,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f948cf",
+"4a9f79",
+"b1916c",
+"a750f7"
+]
+}

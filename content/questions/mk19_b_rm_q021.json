@@ -1,0 +1,257 @@
+{
+"id":"mk19_b_rm_q021",
+"number":21,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ef3e17",
+"children":[
+"A 56-year-old woman is evaluated at a follow-up visit. She has polyarticular tophaceous gout affecting her hands, feet, and knees bilaterally. She is receiving a tapering dose of prednisone following an acute gout flare. She had previously received allopurinol but discontinued it after developing a rash. She has hypertension and chronic kidney disease. Current medications are losartan and prednisone, 5 mg/d."
+]
+},
+{
+"type":"p",
+"hlId":"5ad559",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.8 mg/dL (159.1 μmol/L), a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"serum urate"
+]
+},
+" level of 10.1 mg/dL (0.60 mmol/L), and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 31 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Febuxostat"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pegloticase"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Probenecid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d23123",
+"children":[
+"Febuxostat is recommended for patients with indications for urate-lowering therapy who have contraindications to allopurinol therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"67d57b",
+"children":[
+"Allopurinol and febuxostat are both strongly recommended over probenecid as urate-lowering therapies in patients with moderate-to-severe chronic kidney disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ff41c8",
+"children":[
+"The most appropriate additional treatment is febuxostat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has tophaceous gout, which is an indication for urate-lowering therapy. The American College of Rheumatology (ACR) strongly recommends treatment with allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") as the preferred first-line agent over all other urate-lowering therapies, including in patients with moderate-to-severe chronic kidney disease (CKD) (stage ≥3), with appropriate dose adjustment. However, she cannot take allopurinol because of a history of a rash with previous use. An uncommon but serious complication of allopurinol is a hypersensitivity reaction, which may lead to organ dysfunction and death. Therefore, allopurinol is not appropriate, and therapy with febuxostat, a nonpurine, noncompetitive xanthine oxidase inhibitor, is indicated. Because only 3% of febuxostat is renally cleared, it may be used in patients with CKD without dose adjustment if the estimated glomerular filtration rate is 30 to 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". The starting febuxostat dosage is 40 mg/d, which may be increased to up to 80 mg/d if needed on the basis of serum urate level. Achieving and maintaining a serum urate target of less than 6.0 mg/dL (0.35 mmol/L) are strongly recommended for all patients receiving urate-lowering therapy. Prophylaxis with prednisone should be continued along with febuxostat for 3 to 6 months or until the serum urate level is at target."
+]
+},
+{
+"type":"p",
+"hlId":"8c22c1",
+"children":[
+"Colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used for treating acute gout flares and for long-term prevention of flares while urate-lowering therapy is begun. Colchicine does not affect serum urate concentrations. Colchicine requires dose adjustment for kidney disease and when it is taken concurrently with drugs that affect its metabolism."
+]
+},
+{
+"type":"p",
+"hlId":"58bf2e",
+"children":[
+"The ACR strongly recommends against pegloticase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") as a first-line urate-lowering therapy. Pegloticase is indicated in patients in whom allopurinol and febuxostat have failed or cannot be tolerated. It is intravenously administered and expensive and thus should be reserved for an appropriate clinical setting. Febuxostat has not failed in this patient; thus, pegloticase is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"b39328",
+"children":[
+"Probenecid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") lowers serum urate by blocking uric acid reabsorption in the kidney proximal tubule. The ACR strongly recommends allopurinol or febuxostat over probenecid for urate-lowering therapy in patients with moderate-to-severe CKD. Probenecid is not effective in patients with CKD (estimated glomerular filtration rate <50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and is contraindicated in patients with nephrolithiasis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_2_1",
+"objective":{
+"__html":"Treat tophaceous gout in a patient with contraindications to allopurinol."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":5,
+"C":64,
+"D":21,
+"E":5
+},
+"hlIds":[
+"ef3e17",
+"5ad559",
+"78ff87",
+"d23123",
+"67d57b",
+"ff41c8",
+"8c22c1",
+"58bf2e",
+"b39328"
+]
+}

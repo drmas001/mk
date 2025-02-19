@@ -1,0 +1,214 @@
+{
+"id":"mk19_b_en_q004",
+"number":4,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"319fbd",
+"children":[
+"A 52-year-old man with type 2 diabetes mellitus is evaluated after hospitalization for a non-ST-elevation myocardial infarction. He is currently asymptomatic. Medications are metformin, aspirin, ticagrelor, atorvastatin, metoprolol, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"6a5430",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. The general physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"806e50",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 7.0%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Empagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glipizide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pramlintide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sitagliptin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"452834",
+"children":[
+"Among patients with type 2 diabetes mellitus who have established atherosclerotic cardiovascular disease or established kidney disease, a sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist with demonstrated cardiovascular disease benefit is recommended as part of the glucose-lowering regimen."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e5c6d9",
+"children":[
+"The most appropriate treatment is empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This drug has proven benefit for patients with type 2 diabetes mellitus who have atherosclerotic cardiovascular disease (ASCVD), which is a major cause of morbidity and mortality in this population. The American Diabetes Association recommends dual antiplatelet therapy with low-dose aspirin and a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor (clopidogrel, ticagrelor) for 1 year after an acute coronary syndrome not treated with percutaneous coronary intervention. Patients should also receive high-intensity statin therapy (atorvastatin, rosuvastatin), an ACE inhibitor or angiotensin receptor blocker, and a β-blocker (metoprolol, carvedilol). For patients with type 2 diabetes who have established ASCVD or established kidney disease, a sodium-glucose cotransporter 2 (SGLT2) inhibitor or glucagon-like peptide 1 receptor agonist (GLP-1 RA) with demonstrated cardiovascular disease benefit is recommended as part of the glucose-lowering regimen. SGLT2 inhibitors with established cardiovascular disease benefit include empagliflozin, canagliflozin, and dapagliflozin; corresponding GLP-1 RAs include albiglutide, dulaglutide, liraglutide, and injectable semaglutide. The Empagliflozin Cardiovascular Outcome Event Trial in Type 2 Diabetes Mellitus Patients demonstrated a reduction in the primary composite outcome (cardiovascular-related death, nonfatal myocardial infarction, nonfatal stroke) and all-cause mortality when empagliflozin was added to standard care versus placebo. SGLT2 inhibitors should be used with caution in patients with previous amputation, severe peripheral neuropathy, severe peripheral vascular disease, or active diabetic foot ulcers or soft tissue infections. Patients should be monitored for genital fungal infection, urinary tract infection, euglycemic diabetic acidosis, and lower limb ulcerations and soft tissue infections. The presence of any of these conditions should prompt consideration of an alternative drug to reduce cardiovascular complications."
+]
+},
+{
+"type":"p",
+"hlId":"10ba70",
+"children":[
+"Based on randomized controlled trials, the risk for cardiovascular events does not appear to be increased with second-generation sulfonylureas such as glipizide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Also, no evidence shows that second-generation sulfonylureas reduce cardiovascular events in patients at high risk, such as this patient. In patients with ASCVD or multiple ASCVD risk factors, an SGLT2 inhibitor or GLP-1 RA is preferred to sulfonylureas."
+]
+},
+{
+"type":"p",
+"hlId":"0bac0b",
+"children":[
+"Pramlintide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an amylin mimetic that slows gastric emptying, suppresses glucagon secretion, and increases satiety. No long-term studies have shown a decrease in adverse cardiovascular outcomes with pramlintide use."
+]
+},
+{
+"type":"p",
+"hlId":"af2bf0",
+"children":[
+"Sitagliptin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a dipeptidyl peptidase-4 inhibitor, may improve the patient's glycemic control; however, this drug class has no proven ASCVD benefit."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_5",
+"objective":{
+"__html":"Treat type 2 diabetes mellitus in a patient with cardiovascular disease."
+},
+"references":[
+[
+"American Diabetes Association. 10. Cardiovascular disease and risk management: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S125-S150. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298421",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298421"
+]
+},
+" doi:10.2337/dc21-S010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":87,
+"B":3,
+"C":3,
+"D":7,
+"E":0
+},
+"hlIds":[
+"319fbd",
+"6a5430",
+"806e50",
+"1054f1",
+"452834",
+"e5c6d9",
+"10ba70",
+"0bac0b",
+"af2bf0"
+]
+}

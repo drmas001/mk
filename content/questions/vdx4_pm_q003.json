@@ -1,0 +1,170 @@
+{
+"id":"vdx4_pm_q003",
+"number":3,
+"bookId":"vdx_pm",
+"correctAnswer":"A",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e5a665",
+"children":[
+"A 38-year-old woman is evaluated for a 10-week history of fever and dyspnea and infiltrates on chest radiography. She has received two courses of antibiotics with no improvement. She does not smoke cigarettes."
+]
+},
+{
+"type":"p",
+"hlId":"89d1ae",
+"children":[
+"CT scan of the chest is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f003a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f003a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cryptogenic organizing pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Idiopathic pulmonary fibrosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sarcoidosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"SARS-CoV-2 infection"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"973dab",
+"children":[
+"The most likely diagnosis is cryptogenic organizing pneumonia (COP). Patients with COP typically present with a 6- to 8-week history of cough, fever, and malaise. Initial chest radiographs will demonstrate patchy opacities that mimic pneumonia and, as a result, patients are often initially misdiagnosed with community-acquired pneumonia and treated with standard antibiotics. However, nonresolving symptoms and failure to respond to antibiotics should raise suspicion for organizing pneumonia or COP. High-resolution CT imaging will ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f003b",
+"wrapId":"2",
+"children":[
+"demonstrate"
+]
+},
+" ground-glass opacities (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrow"
+]
+},
+") or areas of alveolar consolidation (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+") resembling an infectious pneumonia, but findings can include peripheral nodules and nodules along the bronchovascular bundle. A nodular area of consolidation surrounded by a ground-glass appearance may be present and is referred to as the reverse halo or Atoll sign (not seen on this study)."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f003b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_4_3",
+"objective":{
+"__html":"Diagnose cryptogenic organizing pneumonia."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f003a":{
+"id":"vdx4_pm_mcq_f003a",
+"number":3,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"e55c5899a79dbc25418a9a8490f0dd6a",
+"height":449,
+"width":402,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f003b":{
+"id":"vdx4_pm_mcq_f003b",
+"number":3,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"98f28fbba4bb20b82742bd4e082fc6e2",
+"height":449,
+"width":402,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e5a665",
+"89d1ae",
+"413696",
+"973dab"
+]
+}

@@ -1,0 +1,5935 @@
+{
+"id":"mk19_a_id_s3",
+"subspecialtyId":"id",
+"title":"Community-Acquired Pneumonia",
+"jsonContent":{
+"type":"section",
+"id":"mk19_a_id_s3",
+"title":{
+"__html":"Community-Acquired Pneumonia"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"271735",
+"children":[
+"Community-Acquired Pneumonia"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_id_s3_1",
+"title":{
+"__html":"Epidemiology"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7113ad",
+"children":[
+"Epidemiology"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"64e813",
+"children":[
+"Community-acquired pneumonia (CAP) is a leading cause of infection and hospitalization in the United States. The spectrum of illness due to CAP ranges from mild disease, with approximately 50% of patients managed in the ambulatory setting, to fatal infections. Rates of infection, hospitalization, and death increase with advanced age; the incidence of hospitalization for CAP among adults 80 years or older is 25 times higher than in adults younger than 50 years."
+]
+},
+{
+"type":"p",
+"hlId":"80d066",
+"children":[
+"Health care–associated pneumonia (HCAP), previously considered a distinct entity, has been recategorized as CAP after studies confirmed that patients residing in long-term care facilities or who were hospitalized in the preceding 3 months do not differ substantially from community-dwelling patients with similar comorbidities. In contrast, hospital-acquired pneumonia (HAP) remains a distinct syndrome, with unique microbiology, antibiotic treatments, and outcomes (see ",
+{
+"type":"cross-reference",
+"target":"mk19_a_id_s17_7",
+"children":[
+"Health Care–Associated Infections"
+]
+},
+" for HAP discussion)."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_2",
+"title":{
+"__html":"Microbiology"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"674e10",
+"children":[
+"Microbiology"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"70d9c6",
+"children":[
+"CAP is usually caused by infection with a viral or bacterial pathogen; fungal or mycobacterial infections occur much less frequently. The probability of infection with a specific organism varies based on age, comorbidities, seasonality, and geography. Epidemiologic risk factors or conditions associated with specific pathogens are listed in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t08",
+"wrapId":"1",
+"children":[
+"Table 8"
+]
+}
+]
+},
+". Severity of illness, which influences site of care, is used to guide empiric antibiotic therapy ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t09",
+"wrapId":"1",
+"children":[
+"Table 9"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_t08",
+"mk19_a_id_t09"
+]
+},
+{
+"type":"p",
+"hlId":"738923",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae,"
+]
+},
+" the leading bacterial cause of CAP, has decreased in incidence and accounts for only 5% to 15% of hospitalized cases in recent studies. This at least partially results from the success of vaccination strategies. Rates of CAP caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (including methicillin-resistant strains), ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", and Enterobacteriaceae, however, are rising, even among patients without identifiable health care exposure. The CDC-EPIC trial, a multicenter study that performed prospective microbiologic and molecular testing on patients hospitalized with CAP, more frequently identified a viral rather than a bacterial pathogen in this population ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_a_id_f09",
+"wrapId":"2",
+"children":[
+"Figure 9"
+]
+}
+]
+},
+")"
+]
+},
+". ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" was the most common bacterial cause, although rhinovirus (9%) and influenza virus (6%) were higher in incidence. The significance of viral detection in CAP is unclear; an antecedent mild upper respiratory viral infection may increase the risk for a secondary bacterial pneumonia. This phenomenon is well documented for postinfluenza CAP caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes"
+]
+},
+". Despite extensive laboratory investigation, no causative organism was identified in 62% of patients in the CDC-EPIC trial."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_a_id_f09"
+]
+},
+{
+"type":"p",
+"hlId":"dbd7a0",
+"children":[
+"Atypical pneumonia refers to CAP caused by organisms not culturable on standard bacterial media, including viruses and fastidious bacteria such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" species, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma pneumoniae"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila pneumoniae"
+]
+},
+". Respiratory viruses account for nearly all viral pneumonias, but less common pathogens include varicella-zoster virus or Hantavirus. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella pneumophila"
+]
+},
+" is a recognized cause of severe disease. Legionellosis is associated with water exposure, including hot tubs and air conditioning units; however, infection may occur without an obvious source. A history of recent travel has been reported in approximately 10% of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" cases reported to the CDC."
+]
+},
+{
+"type":"p",
+"hlId":"d31110",
+"children":[
+"CAP caused by anaerobic bacteria is uncommon. Historically, anaerobes have been thought to be important pathogens in aspiration pneumonia. Recent studies have questioned this, with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+" isolated much more commonly than anaerobes in patients with community-acquired aspiration pneumonia. Risk factors for aspiration pneumonia include dysphagia, decreased consciousness (alcohol or substance use, seizures, stroke), poor dentition, gastroesophageal reflux, and vomiting. Anaerobes remain important pathogens in patients with lung abscess or empyema. Zoonotic causes of CAP include ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coxiella burnetii"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Francisella tularensis"
+]
+},
+". Mycobacterial or fungal causes should be considered in patients with immunocompromising conditions, epidemiologic risk factors for infection (such as incarceration, certain hobbies or occupations, and pertinent regional or foreign travel), or subacute presentations and in those who do not respond to conventional antibacterial treatment."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"bdb2fb",
+"children":[
+"The definition of community-acquired pneumonia has expanded to include some patients previously categorized as having health care–associated pneumonia because the microbiology and treatment of patients in long-term care facilities or who were hospitalized in the preceding 3 months do not differ substantially from that of community-dwelling patients with similar comorbidities."
+]
+},
+{
+"type":"keypoint",
+"hlId":"030445",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" accounts for only 5% to 15% of community-acquired pneumonia (CAP) infections requiring hospitalization, whereas rates of CAP caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus, Pseudomonas aeruginosa,"
+]
+},
+" and Enterobacteriaceae are rising, even among patients without identifiable health care exposure."
+]
+},
+{
+"type":"keypoint",
+"hlId":"89f55d",
+"children":[
+"The significance of viral detection in community-acquired pneumonia is unclear; however, an antecedent mild respiratory viral infection may increase the risk for a secondary bacterial infection."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_3",
+"title":{
+"__html":"Diagnostic Evaluation"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"08b6da",
+"children":[
+"Diagnostic Evaluation"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"12648f",
+"children":[
+"CAP should be suspected and chest imaging performed in any patient presenting with fever associated with cough, dyspnea, or chest pain. Symptoms may be subtle or absent in older adults or immunosuppressed patients, and clinicians should maintain a low threshold for pursuing radiographic studies in these populations. Posteroanterior and lateral chest radiography is recommended, acknowledging that, compared with chest CT, the sensitivity is less than 50%. In addition to confirming the diagnosis, radiographic patterns may provide clues to particular causes ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t10",
+"wrapId":"3",
+"children":[
+"Table 10"
+]
+}
+]
+},
+")"
+]
+},
+", guide clinical decisions regarding appropriate site of care, and inform need for thoracentesis. When plain radiographs are normal but suspicion for CAP remains high, chest radiography may be repeated after 24 hours; for patients at high risk (febrile neutropenia, risk for anthrax, or acute respiratory distress syndrome requiring intervention) with normal radiographs, chest CT should be pursued."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"3",
+"contentIds":[
+"mk19_a_id_t10"
+]
+},
+{
+"type":"p",
+"hlId":"e3e12a",
+"children":[
+"Routine laboratory studies are indicated to ascertain the severity of infection, determine the optimal site of care, and ensure appropriate antimicrobial dosing. HIV testing should be performed if indicated; a positive result expands the spectrum of potentially causative organisms. Procalcitonin level is insufficiently sensitive or specific to guide decision making regarding initiation of antimicrobial therapy. Rapid testing for influenza virus during influenza activity may assist in identifying patients who would benefit from oseltamivir and who require droplet precautions at hospital admission, but a positive test result does not exclude a concomitant bacterial pathogen."
+]
+},
+{
+"type":"p",
+"hlId":"457d1c",
+"children":[
+"Diagnostic studies to identify a causative organism are not routinely indicated in outpatients with CAP but should be considered in hospitalized patients, particularly when they are at risk for infection with methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MRSA) or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+". All patients with CAP who require admission to the ICU should undergo diagnostic evaluation in an attempt to confirm a microbial cause. Interpretation of sputum Gram stain and culture is hampered by the presence of oropharyngeal colonization, and growth may reflect nonpathogenic organisms. A good-quality sputum culture obtained before antibiotic initiation is suggestive or diagnostic in up to 80% of pneumococcal infections; sensitivity decreases after antibiotic therapy. Sputum Gram stain and culture are appropriate for patients admitted to the ICU (ideally an endotracheal aspirate in intubated patients), patients who did not respond to outpatient antibiotic therapy, patients with cavitary lung lesions, and patients with underlying structural lung disease. In these cases, consideration of mycobacterial or fungal causes may also be necessary."
+]
+},
+{
+"type":"p",
+"hlId":"093e3c",
+"children":[
+"Blood culture results are positive in 20% to 25% of patients with pneumococcal pneumonia, although cultures offer lower yield in patients with other bacterial causes. Blood cultures should routinely be obtained in patients with severe pneumonia and those treated empirically for MRSA or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+", because a negative result may allow de-escalation of antibiotic therapy (see Antimicrobial Therapy). Pneumococcal urinary antigen testing is more than 70% sensitive, and results are not affected by antibiotic administration. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" urinary antigen test results are positive in most patients with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"L. pneumophila"
+]
+},
+" serotype 1 infection. However, the test does not detect other strains, and results can remain positive for prolonged periods after infection. Urinary antigen tests should be reserved for use in patients with severe CAP or with exposure to a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" outbreak."
+]
+},
+{
+"type":"p",
+"hlId":"7b7c7a",
+"children":[
+"To improve detection of influenza, rapid nucleic acid amplification tests should be used instead of rapid influenza diagnostic tests. Respiratory viral panel results using nucleic acid amplification are positive in up to 40% of patients hospitalized with CAP; however, a positive result may reflect viral coinfection or antecedent predisposing infection rather than current clinical illness. Although these panels are less helpful in guiding decisions about discontinuing antibiotic therapy, a positive respiratory viral panel might have significant infection control implications among patients admitted to the hospital."
+]
+},
+{
+"type":"p",
+"hlId":"e25767",
+"children":[
+"Additional testing is indicated in select patients based on epidemiologic risk factors (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t08",
+"wrapId":"4",
+"children":[
+"Table 8"
+]
+}
+]
+},
+")"
+]
+},
+" or clinical or radiographic findings (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t10",
+"wrapId":"4",
+"children":[
+"Table 10"
+]
+}
+]
+},
+")"
+]
+},
+". Fungal and acid-fast bacilli stains of sputum or fungal antigen testing can be performed. Serology for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. burnetii"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"F. tularensis, Legionella"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila"
+]
+},
+", using acute and convalescent sera, can document seroconversion or a fourfold increase in titers."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"4",
+"contentIds":[
+"mk19_a_id_t08",
+"mk19_a_id_t10"
+]
+},
+{
+"type":"p",
+"hlId":"bffaff",
+"children":[
+"Diagnostic thoracentesis of parapneumonic effusions should be considered to exclude concomitant empyema requiring drainage (see ",
+{
+"type":"cross-reference",
+"target":"mk19_b_pm_s5_1",
+"children":[
+"MKSAP 19 Pulmonary and Critical Care Medicine"
+]
+},
+"). Bronchoscopy with transbronchial biopsy should be considered in patients who do not respond to empiric therapy."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"6685e3",
+"hvc":true,
+"children":[
+"Diagnostic studies to identify a causative organism are not routinely indicated in outpatients with community-acquired pneumonia (CAP) but should be considered in non-ICU hospitalized patients when this information would change management; diagnostic studies should be performed in all patients admitted to the ICU with CAP."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1ded4f",
+"children":[
+"For patients with pneumococcal pneumonia, a good-quality sputum culture obtained before antibiotic initiation is suggestive or diagnostic in up to 80% of patients; pneumococcal urinary antigen testing is more than 70% sensitive, and results are not affected by antibiotic administration."
+]
+},
+{
+"type":"keypoint",
+"hlId":"43f12b",
+"children":[
+"Blood cultures should routinely be obtained in patients with severe pneumonia and those treated empirically for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+"."
+]
+},
+{
+"type":"keypoint",
+"hlId":"32d894",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" urinary antigen test results are positive in most patients with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"L. pneumophila"
+]
+},
+" serotype 1 infection, but it does not detect other strains, and results can remain positive for prolonged periods after infection."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_4",
+"title":{
+"__html":"Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"fe4dbc",
+"children":[
+"Management"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_id_s3_4_1",
+"title":{
+"__html":"Site of Care"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"04ba8f",
+"children":[
+"Site of Care"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"79f3c2",
+"children":[
+"Ambulatory management is adequate for many patients with CAP. Clinical prediction models are available to identify patients who can be safely managed in the outpatient setting. The Pneumonia Severity Index (PSI) is a validated predictor of all-cause mortality at 30 days. The initial assessment determines the presence of 11 variables associated with adverse outcomes ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t11",
+"wrapId":"5",
+"children":[
+"Table 11"
+]
+}
+]
+},
+")"
+]
+},
+". Patients with no risk factors (severity risk class I) can typically be managed as outpatients. Although the PSI may aid in site-of-care decisions, it should not supersede clinical judgment. The use of the PSI is preferred over the use of the CURB-65 as it identifies a larger proportion of patients at low risk and has greater discriminative power in predicting mortality."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"5",
+"contentIds":[
+"mk19_a_id_t11"
+]
+},
+{
+"type":"p",
+"hlId":"dd0281",
+"children":[
+"Consensus guidelines by the Infectious Diseases Society of American and the American Thoracic Society (IDSA/ATS) provide criteria to identify patients with severe pneumonia who are best managed in the ICU (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t11",
+"wrapId":"6",
+"children":[
+"Table 11"
+]
+}
+]
+},
+")"
+]
+},
+". In addition to the need for mechanical ventilation or vasopressor support to maintain blood pressure, the presence of three or more minor criteria suggests a higher mortality rate for which ICU care is recommended."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"6",
+"contentIds":[
+"mk19_a_id_t11"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"9fceb4",
+"children":[
+"A clinical prediction model (the Pneumonia Severity Index or Infectious Diseases Society of America/American Thoracic Society criteria) can be used to identify patients with community-acquired pneumonia who may require hospital or ICU admission."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_4_2",
+"title":{
+"__html":"Antimicrobial Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a87269",
+"children":[
+"Antimicrobial Therapy"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f64aec",
+"children":[
+"IDSA/ATS guidelines for the management of CAP were updated in 2019 to address the challenges of increasingly resistant organisms causing CAP. These recommendations balance the need to effectively treat infection, often in the absence of an identified pathogen, with the competing imperative for judicious antibiotic use. Treatment recommendations are stratified by site of care which in turn is determined by infection severity and comorbidities (see ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t09",
+"wrapId":"7",
+"children":[
+"Table 9"
+]
+}
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t11",
+"wrapId":"7",
+"children":[
+"Table 11"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"7",
+"contentIds":[
+"mk19_a_id_t09",
+"mk19_a_id_t11"
+]
+},
+{
+"type":"p",
+"hlId":"2dc600",
+"children":[
+"In otherwise healthy patients who do not require hospitalization, recommended regimens include monotherapy with doxycycline or amoxicillin (1 g three times per day). Compared with previous IDSA CAP guidelines, macrolides (azithromycin and clarithromycin) are only recommended if the regional prevalence of pneumococcal resistance to this class is known to be less than 25%."
+]
+},
+{
+"type":"p",
+"hlId":"ae9212",
+"children":[
+"For patients with significant comorbidities treated as outpatients, a respiratory fluoroquinolone alone or a β-lactam plus either a macrolide or doxycycline is recommended. Options for oral β-lactams include amoxicillin-clavulanate or a second-generation cephalosporin. Macrolides and quinolones may prolong the QTc interval, and alternative agents should be considered in patients at risk for torsades de pointes, including those with a history of a long QT interval, taking other medications that can prolong the QT interval, and electrolyte abnormalities. Patients who have not responded to a previous CAP regimen who still meet criteria for outpatient therapy should be retreated with an agent from an alternative class."
+]
+},
+{
+"type":"p",
+"hlId":"32a363",
+"children":[
+"Patients with more severe infections requiring hospitalization may be infected with a broader spectrum of bacterial pathogens, reflecting host susceptibility and organism virulence. Hospitalized patients with CAP are most commonly infected with the organisms shown in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_a_id_f09",
+"wrapId":"8",
+"children":[
+"Figure 9"
+]
+}
+]
+},
+". Recommended empiric regimens are shown in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t09",
+"wrapId":"8",
+"children":[
+"Table 9"
+]
+}
+]
+},
+". Patients with previously isolated respiratory MRSA or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" are at risk for recurrent infections with these organisms; therefore, an antibiotic active against the previously cultured pathogens should be included."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"8",
+"contentIds":[
+"mk19_a_id_f09",
+"mk19_a_id_t09"
+]
+},
+{
+"type":"p",
+"hlId":"3b0b7b",
+"children":[
+"The microbiology and suggested treatment regimens among patients with CAP requiring ICU care are shown in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t09",
+"wrapId":"9",
+"children":[
+"Table 9"
+]
+}
+]
+},
+". In this population, combination therapy with a macrolide has shown a survival benefit compared with combination therapy with a respiratory fluoroquinolone, making the former the preferred treatment."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"9",
+"contentIds":[
+"mk19_a_id_t09"
+]
+},
+{
+"type":"p",
+"hlId":"d0f77d",
+"children":[
+"Methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MRSA) is not adequately treated by the previously discussed empiric regimens, yet it is increasingly recognized as causing CAP, particularly in critically ill patients. CAP caused by MRSA is associated with preceding influenza infection, hospitalization or parenteral antibiotics in the last 90 days, and injection drug use, although it may present in patients without any identifiable risk factors. Empiric therapy for MRSA should be considered in patients with one of these risk factors, MRSA growth on a previous respiratory culture, a suspicious Gram stain (gram-positive cocci in clusters), conventional therapy failure, pleural-based lung nodules (suggesting septic pulmonary emboli), or cavitary lung lesions. Optimal treatment for MRSA CAP has not been defined, but options include vancomycin and linezolid; ceftaroline is FDA approved for CAP treatment and has activity against MRSA, but it has not been specifically approved for treatment of MRSA CAP. Notably, daptomycin binds to surfactant, resulting in negligible alveolar levels, and is therefore not effective in pulmonary infections. In patients with blood cultures and respiratory cultures negative for MRSA, antibiotic therapy can be de-escalated."
+]
+},
+{
+"type":"p",
+"hlId":"16c872",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" is another pathogen not adequately treated by standard empiric regimens. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" should be considered in immunocompromised patients and in patients with underlying structural lung disease (bronchiectasis or cystic fibrosis) or medical conditions requiring repeated courses of antibiotics. Infection with this bacterium in the preceding year or previous hospitalization or parenteral antibiotic administration in the preceding 90 days are also recognized risk factors for infection. When clinical concern for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" is present, treatment should include an antipseudomonal β-lactam (piperacillin-tazobactam, cefepime, ceftazidime, aztreonam, imipenem, or meropenem) in conjunction with an agent active against atypical organisms (either a macrolide or a respiratory fluoroquinolone). Treatment with a quinolone in the empiric regimen is relatively contraindicated in patients who did not respond to a previous course of a drug in this class."
+]
+},
+{
+"type":"p",
+"hlId":"324d03",
+"children":[
+"Patients with CAP who test positive for influenza should also be treated with an antiviral agent regardless of duration of illness before diagnosis. Although respiratory viruses may cause severe CAP, identification of a viral organism does not exclude a bacterial coinfection. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes"
+]
+},
+" have all been associated with postinfluenza necrotizing CAP. Therefore, the IDSA/ATS guidelines recommend prescribing antibiotics for CAP even when a viral pathogen is identified."
+]
+},
+{
+"type":"p",
+"hlId":"64970e",
+"children":[
+"Anaerobic infections are uncommon causes of CAP. For patients in whom a concern exists for anaerobic infection who can be treated in the ambulatory setting, amoxicillin or amoxicillin-clavulanate are active against more common oral anaerobic bacteria. In hospitalized patients with CAP, the addition of anaerobic coverage is only recommended if lung abscess or empyema is present."
+]
+},
+{
+"type":"p",
+"hlId":"81a784",
+"children":[
+"For patients with severe pneumonia in the ICU who are responding to empiric therapy without culture evidence of MRSA or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" at 48 hours, the likelihood of infection with one of these agents is low, and antibiotics can be de-escalated to a standard regimen for nonsevere CAP in hospitalized patients. For patients with uncomplicated CAP who demonstrate rapid defervescence and clinical improvement over the first 3 days, a 5-day course of therapy is adequate for cure. Exceptions include patients with cavitary disease or lung abscess, empyema, concomitant bacteremia, extrapulmonary infection, or ongoing instability, defined as persistent fever, abnormal vital signs, or hypoxia. Many authorities also recommend prolonged duration of antibiotics (at least 14 days) for CAP caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+"; fungal or mycobacterial lung infections require an extended course of treatment."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"7930fc",
+"children":[
+"Outpatient empiric therapy for community-acquired pneumonia in otherwise healthy patients includes monotherapy with doxycycline or amoxicillin."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0224d0",
+"children":[
+"Recommended empiric regimens for hospitalized non-ICU patients include a parenteral β-lactam agent (a third-generation cephalosporin or ampicillin-sulbactam) plus a macrolide or monotherapy with a respiratory fluoroquinolone."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4fbf9b",
+"children":[
+"Treatment regimens for patients with community-acquired pneumonia requiring ICU care include coadministration of a parenteral β-lactam active against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" and a second agent active against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" species."
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_5",
+"title":{
+"__html":"Complications"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"e24890",
+"children":[
+"Complications"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"5577cb",
+"children":[
+"CAP has a mortality rate of 10% to 12% among hospitalized patients. Survivors may experience significant morbidity, including prolonged hospitalization, protracted convalescence, and high rates of hospital readmission. Related complications include localized lung inflammation, secondary spread of infection, and toxicity related to treatment ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t12",
+"wrapId":"10",
+"children":[
+"Table 12"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"10",
+"contentIds":[
+"mk19_a_id_t12"
+]
+},
+{
+"type":"p",
+"hlId":"f8bf94",
+"children":[
+"Lack of response to antimicrobials raises consideration of a resistant or atypical organism, loculated infection (such as empyema), or an infection mimic (tumor, vasculitis, congestive heart failure, pulmonary embolism). Patients with significant pleural fluid collections should undergo diagnostic thoracentesis; chest tube drainage is indicated for empyema."
+]
+},
+{
+"type":"p",
+"hlId":"8e510a",
+"children":[
+"Glucocorticoids are not routinely recommended and should be reserved for patients with documented adrenal insufficiency or refractory septic shock."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"2ea75d",
+"children":[
+"Lack of response to antimicrobials in patients with community-acquired pneumonia raises consideration of a resistant or atypical organism, loculated infection, or an infection mimic."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1401fb",
+"children":[
+"Patients hospitalized with community-acquired pneumonia experience significant morbidity and are at high risk for readmission."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_6",
+"title":{
+"__html":"Follow-up"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"b9c20d",
+"children":[
+"Follow-up"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"7eb24d",
+"children":[
+"In adults with CAP whose symptoms have resolved within 5 to 7 days, routine follow-up chest imaging is typically not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"e8b6b7",
+"children":[
+"Readmission rates among hospitalized patients approach 20%. This population should have close outpatient follow-up to ensure clinical stability after therapy completion."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"165214",
+"hvc":true,
+"children":[
+"In adults with community-acquired pneumonia whose symptoms have resolved within 5 to 7 days, routine follow-up chest imaging is usually not necessary."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s3_7",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Jain S, Self WH, Wunderink RG, et al; CDC EPIC Study Team. Community-acquired pneumonia requiring hospitalization among U.S. adults. N Engl J Med. 2015;373:415-27. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26172429",
+"target":"_blank"
+},
+"children":[
+"PMID: 26172429"
+]
+},
+" doi:10.1056/NEJMoa1500245"
+]
+},
+{
+"type":"reference",
+"children":[
+"Kamat IS, Ramachandran V, Eswaran H, et al. Procalcitonin to distinguish viral from bacterial pneumonia: A systematic review and meta-analysis. Clin Infect Dis. 2020;70:538-542. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31241140",
+"target":"_blank"
+},
+"children":[
+"PMID: 31241140"
+]
+},
+" doi:10.1093/cid/ciz545"
+]
+},
+{
+"type":"reference",
+"children":[
+"Lee JS, Giesler DL, Gellad WF, Fine MJ. Antibiotic therapy for adults hospitalized with community-acquired pneumonia: a systematic review. JAMA. 2016;315:593-602. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26864413",
+"target":"_blank"
+},
+"children":[
+"PMID: 26864413"
+]
+},
+" doi:10.1001/jama.2016.0115"
+]
+},
+{
+"type":"reference",
+"children":[
+"Mandell LA, Niederman MS. Aspiration pneumonia. N Engl J Med. 2019;380:651-663. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30763196",
+"target":"_blank"
+},
+"children":[
+"PMID: 30763196"
+]
+},
+" doi:10.1056/NEJMra1714562"
+]
+},
+{
+"type":"reference",
+"children":[
+"Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired pneumonia. an official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31573350",
+"target":"_blank"
+},
+"children":[
+"PMID: 31573350"
+]
+},
+" doi:10.1164/rccm.201908-1581ST"
+]
+},
+{
+"type":"reference",
+"children":[
+"Uranga A, España PP, Bilbao A, et al. Duration of antibiotic treatment in community-acquired pneumonia: A multicenter randomized clinical trial. JAMA Intern Med. 2016;176:1257-65. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27455166",
+"target":"_blank"
+},
+"children":[
+"PMID: 27455166"
+]
+},
+" doi:10.1001/jamainternmed.2016.3633"
+]
+},
+{
+"type":"reference",
+"children":[
+"Vaughn VM, Flanders SA, Snyder A, et al. Excess antibiotic treatment duration and adverse events in patients hospitalized with pneumonia: A multihospital cohort study. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-3640",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:153-163. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31284301",
+"target":"_blank"
+},
+"children":[
+"PMID: 31284301"
+]
+}
+]
+},
+{
+"type":"reference",
+"children":[
+"Wunderink RG, Waterer G. Advances in the causes and management of community acquired pneumonia in adults. BMJ. 2017;358:j2471. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28694251",
+"target":"_blank"
+},
+"children":[
+"PMID: 28694251"
+]
+},
+" doi:10.1136/bmj.j2471"
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_a_id_t08":{
+"id":"mk19_a_id_t08",
+"number":8,
+"bookId":"id",
+"title":{
+"__html":"Risk Factors for Pathogens Causing Community-Acquired Pneumonia"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"6dd26d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 8. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t08"
+}
+]
+},
+"Risk Factors for Pathogens Causing Community-Acquired Pneumonia"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8a7945",
+"class":"col hd l",
+"children":[
+"Risk Factor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7bbfd5",
+"class":"col hd l",
+"children":[
+"Common Pathogens"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b46aa1",
+"class":"cell txt l",
+"children":[
+"Heavy alcohol use"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a57717",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+", Enterobacteriaceae, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella pneumoniae"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b576de",
+"class":"cell txt l",
+"children":[
+"COPD"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f3aeaa",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. influenzae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Moraxella catarrhalis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella pneumophila"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"aefd81",
+"class":"cell txt l",
+"children":[
+"Structural lung disease (bronchiectasis, cystic fibrosis)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"79695f",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Burkholderia cepacia"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Stenotrophomonas maltophilia"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", atypical mycobacteria"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fad293",
+"class":"cell txt l",
+"children":[
+"Aspiration (seizures, neurologic impairment, loss of consciousness)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7febe9",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. influenzae"
+]
+},
+", Enterobacteriaceae"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"497cb4",
+"class":"cell txt l",
+"children":[
+"Age >65 years"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a78f0d",
+"class":"cell txt l",
+"children":[
+"Influenza virus, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+", rhinovirus"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7f9760",
+"class":"cell txt l",
+"children":[
+"Post-viral illness"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"973129",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes, S. pneumoniae"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fa5a15",
+"class":"cell txt l",
+"children":[
+"Animal exposure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8587a7",
+"class":"cell txt li",
+"children":[
+"Birds"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a47272",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila psittaci"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cryptococcus neoformans"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1ec0ae",
+"class":"cell txt li",
+"children":[
+"Dogs"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c6b838",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Bordetella bronchiseptica"
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6839d6",
+"class":"cell txt li",
+"children":[
+"Cats"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6bcfe4",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pasteurella multocida"
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9462cf",
+"class":"cell txt li",
+"children":[
+"Farm animals or domesticated pregnant animals"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e4f5f5",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coxiella burnetii, Brucella"
+]
+},
+" species"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3c8d2f",
+"class":"cell txt li",
+"children":[
+"Horses"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f94bb6",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Rhodococcus equi"
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d46ee6",
+"class":"cell txt li",
+"children":[
+"Rodent droppings"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e9cb13",
+"class":"cell txt l",
+"children":[
+"Hantavirus"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"24addf",
+"class":"cell txt li",
+"children":[
+"Rabbits"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fb4047",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Francisella tularensis"
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2f1b3c",
+"class":"cell txt l",
+"children":[
+"Hot tub exposure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ce76e3",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella pneumoniae"
+]
+},
+", atypical mycobacteria (causing a hypersensitivity pneumonitis)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2cd633",
+"class":"cell txt l",
+"children":[
+"Geographic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"97bea0",
+"class":"cell txt li",
+"children":[
+"Eastern United States"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9fe07c",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Blastomyces dermatitidis"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"42e201",
+"class":"cell txt li",
+"children":[
+"Southwest United States"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b21578",
+"class":"cell txt l",
+"children":[
+"Coccidioides"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ef005a",
+"class":"cell txt li",
+"children":[
+"Southeast Asia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4f4901",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Burkholderia pseudomallei"
+]
+},
+", SARS, avian influenza"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"158b06",
+"class":"cell txt li",
+"children":[
+"Middle East"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3a02e7",
+"class":"cell txt l",
+"children":[
+"MERS"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-10 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"445b41",
+"class":"cell txt l",
+"children":[
+"Late fall, winter, early spring (Western hemisphere)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"52b8e4",
+"class":"cell txt l",
+"children":[
+"Influenza virus, parainfluenza virus, rhinovirus"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"MERS = Middle East respiratory syndrome; SARS = severe acute respiratory syndrome."
+]
+]
+},
+"mk19_a_id_t09":{
+"id":"mk19_a_id_t09",
+"number":9,
+"bookId":"id",
+"title":{
+"__html":"IDSA/ATS Recommendations for Empiric Antibiotics in Community-Acquired Pneumonia"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a53efc",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 9. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t09"
+}
+]
+},
+"IDSA/ATS Recommendations for Empiric Antibiotics in Community-Acquired Pneumonia"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fba74c",
+"class":"col hd l",
+"children":[
+"Site of Treatment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4bf882",
+"class":"col hd l",
+"children":[
+"Patient or Epidemiologic Considerations"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"942fe5",
+"class":"col hd l",
+"children":[
+"Most Common Organisms"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"675285",
+"class":"col hd l",
+"children":[
+"Regimens(s)"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fef8ae",
+"class":"cell txt l",
+"children":[
+"Outpatient"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9738a4",
+"class":"cell txt l",
+"children":[
+"Healthy patient without risk factors for MRSA or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3ca864",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d30131",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f22ef9",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"97e86b",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"6948a3",
+"class":"cell txt l",
+"children":[
+"Respiratory viruses"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"25a01f",
+"class":"cell txt l",
+"children":[
+"Amoxicillin"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1d00e7",
+"class":"cell txt l",
+"children":[
+"OR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e923ca",
+"class":"cell txt l",
+"children":[
+"Doxycycline"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1d00e7",
+"class":"cell txt l",
+"children":[
+"OR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5a620d",
+"class":"cell txt l",
+"children":[
+"Macrolide (if local pneumococcal resistance <25%)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fdec6d",
+"class":"cell txt l",
+"children":[
+"Comorbidities",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"95b197",
+"class":"cell txt l",
+"children":[
+"Same as above"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f2c494",
+"class":"cell txt l",
+"children":[
+"Respiratory fluoroquinolone",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1d00e7",
+"class":"cell txt l",
+"children":[
+"OR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"789534",
+"class":"cell txt l",
+"children":[
+"Oral β-lactam",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"c"
+]
+},
+" plus either a macrolide or doxycycline"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5f3c06",
+"class":"cell txt l",
+"children":[
+"Inpatient, non-ICU",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"c"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"81d1c8",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d30131",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f22ef9",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3e3a93",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. influenzae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fe9ab5",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"6948a3",
+"class":"cell txt l",
+"children":[
+"Respiratory viruses"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d2dedf",
+"class":"cell txt l",
+"children":[
+"Intravenous β-lactam",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"d"
+]
+},
+" plus a macrolide"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1d00e7",
+"class":"cell txt l",
+"children":[
+"OR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b4aa24",
+"class":"cell txt l",
+"children":[
+"Respiratory fluoroquinolone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"88b672",
+"class":"cell txt l",
+"children":[
+"ICU treatment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"81d1c8",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"619828",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3e3a93",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. influenzae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fe9ab5",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1f0f1b",
+"class":"cell txt l",
+"children":[
+"Gram-negative bacilli"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9a8b5c",
+"class":"cell txt l",
+"children":[
+"Intravenous β-lactam",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"d"
+]
+},
+" plus a macrolide; if contraindicated, β-lactam plus respiratory fluoroquinolone is an acceptable alternative"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ed36a1",
+"class":"cell txt l",
+"children":[
+"Any"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9cc7ac",
+"class":"cell txt l",
+"children":[
+"Risk factor for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" (see text)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"620fea",
+"class":"cell txt l",
+"children":[
+"Antipseudomonal β-lactam plus either a macrolide or an antipseudomonal quinolone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ed36a1",
+"class":"cell txt l",
+"children":[
+"Any"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d350e3",
+"class":"cell txt l",
+"children":[
+"Risk factor for CA-MRSA (see text)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1003ea",
+"class":"cell txt l",
+"children":[
+"Standard therapy PLUS vancomycin"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1d00e7",
+"class":"cell txt l",
+"children":[
+"OR"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"c87574",
+"class":"cell txt l",
+"children":[
+"linezolid"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ATS = American Thoracic Society; CA-MRSA = community-acquired methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+"; IDSA = Infectious Diseases Society of America."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"Comorbidities include chronic heart, lung, liver, or kidney disease; diabetes mellitus; alcoholism; asplenia; malignancies; and immunosuppression."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+},
+"Respiratory fluoroquinolones include levofloxacin and moxifloxacin; ciprofloxacin is not a respiratory quinolone because its activity against streptococcal species is limited."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"c"
+]
+},
+"Recommended oral β-lactams include amoxicillin-clavulanate, cefuroxime, or cefpodoxime."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"d"
+]
+},
+"Recommended parenteral β-lactams include ampicillin-sulbactam, ceftriaxone, or ceftaroline."
+],
+[
+"Data from Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31573350",
+"target":"_blank"
+},
+"children":[
+"PMID: 31573350"
+]
+},
+" doi:10.1164/rccm.201908-1581ST"
+]
+]
+},
+"mk19_a_id_t10":{
+"id":"mk19_a_id_t10",
+"number":10,
+"bookId":"id",
+"title":{
+"__html":"Radiographic Patterns Associated with Specific Causes of Community-Acquired Pneumonia"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"fbc8fd",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 10. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t10"
+}
+]
+},
+"Radiographic Patterns Associated with Specific Causes of Community-Acquired Pneumonia"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f07a11",
+"class":"col hd l",
+"children":[
+"Radiographic Appearance"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7bbfd5",
+"class":"col hd l",
+"children":[
+"Common Pathogens"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4f8ec8",
+"class":"cell txt l",
+"children":[
+"Lobar pneumonia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3ca864",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f56f60",
+"class":"cell txt l",
+"children":[
+"Legionella (multilobar)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1ff6ee",
+"class":"cell txt l",
+"children":[
+"Lung abscess/cavitary lesion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3a5928",
+"class":"cell txt l",
+"children":[
+"Oral anaerobes, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Nocardia, Actinomyces, Rhodococcus"
+]
+},
+", mycobacteria, endemic fungi"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e82773",
+"class":"cell txt l",
+"children":[
+"Interstitial infiltrate"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fd12aa",
+"class":"cell txt l",
+"children":[
+"Atypical pathogens (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella, Mycoplasma, Chlamydophila"
+]
+},
+"), viruses"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5b70da",
+"class":"cell txt l",
+"children":[
+"Pleural effusion/empyema"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"203f7c",
+"class":"cell txt l",
+"children":[
+"Oral anaerobes, anginosus-constellatus group streptococci, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus, S. pneumoniae"
+]
+}
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_a_id_t11":{
+"id":"mk19_a_id_t11",
+"number":11,
+"bookId":"id",
+"title":{
+"__html":"Community-Acquired Pneumonia Clinical Decision Support Scoring Systems for Site of Care"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"262cf5",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 11. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t11"
+}
+]
+},
+"Community-Acquired Pneumonia Clinical Decision Support Scoring Systems for Site of Care"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6e3f79",
+"class":"col hd l",
+"children":[
+"PSI",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3ef41f",
+"class":"col hd l",
+"children":[
+"IDSA/ATS",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+}
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"355085",
+"class":"cell txt l",
+"children":[
+"Age >50 years"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"228bd0",
+"class":"cell txt l",
+"children":[
+"Comorbidities"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"986a4f",
+"class":"cell txt li",
+"children":[
+"Malignancy"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"198fa1",
+"class":"cell txt li",
+"children":[
+"Congestive heart failure"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9fdb23",
+"class":"cell txt li",
+"children":[
+"Cerebrovascular disease"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"bad2e0",
+"class":"cell txt li",
+"children":[
+"Kidney disease"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"21be40",
+"class":"cell txt li",
+"children":[
+"Liver disease"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"09b735",
+"class":"cell txt l",
+"children":[
+"Vital signs"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"47fef1",
+"class":"cell txt li",
+"children":[
+"Pulse rate ≥125/min"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e8a174",
+"class":"cell txt li",
+"children":[
+"Respiration rate ≥30/min"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"efbd7c",
+"class":"cell txt li",
+"children":[
+"Temperature <35 °C (95 °F) or ≥40 °C (104 °F)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"903edb",
+"class":"cell txt li",
+"children":[
+"SBP <90 mm Hg"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"709f49",
+"class":"cell txt l",
+"children":[
+"Physical examination"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"476778",
+"class":"cell txt li",
+"children":[
+"Altered mentation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c171ea",
+"class":"cell txt l",
+"children":[
+"Major Criteria"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ea89c9",
+"class":"cell txt li",
+"children":[
+"Need for mechanical ventilation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"bd56b8",
+"class":"cell txt li",
+"children":[
+"Septic shock requiring vasopressors"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"8a5855",
+"class":"cell txt l",
+"children":[
+"Minor Criteria"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e8a174",
+"class":"cell txt li",
+"children":[
+"Respiration rate ≥30/min"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9c542c",
+"class":"cell txt li",
+"children":[
+"Temperature <36.8 °C (98.2 °F)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"848f6d",
+"class":"cell txt li",
+"children":[
+"Hypotension requiring aggressive fluid resuscitation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"39deef",
+"class":"cell txt li",
+"children":[
+"Confusion or disorientation"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"4b9a89",
+"class":"cell txt li",
+"children":[
+"BUN ≥20 mg/dL (≥7.1 mmol/L)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"44377a",
+"class":"cell txt li",
+"children":[
+"Leukocyte count <4000/µL (4 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"db297a",
+"class":"cell txt li",
+"children":[
+"Platelet count <100,000/µL (100 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a2282e",
+"class":"cell txt li",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"/F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" ratio ≤250"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a62b96",
+"class":"cell txt li",
+"children":[
+"Multilobar infiltrates"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ATS = American Thoracic Society; BUN = blood urea nitrogen; IDSA = Infectious Diseases Society of America; PSI = Pneumonia Severity Index; SBP = systolic blood pressure."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"PSI Step 1 Screen: If no factors are present, patient is assigned risk class I and can likely be managed as an outpatient. Patients with at least one risk factor are stratified by a more complex Step 2 scale (not shown) into risk class II-V."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+},
+"IDSA/ATS Criteria for Defining Severe CAP: Patients with one major criterion have severe CAP and are best managed in the ICU. Consideration of minor criteria plus clinical judgment are recommended to guide the need for higher levels of care."
+]
+]
+},
+"mk19_a_id_t12":{
+"id":"mk19_a_id_t12",
+"number":12,
+"bookId":"id",
+"title":{
+"__html":"Complications of Community-Acquired Pneumonia"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"8a531d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 12. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t12"
+}
+]
+},
+"Complications of Community-Acquired Pneumonia"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"93da7a",
+"class":"col hd l",
+"children":[
+"Organ System"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"48d8d6",
+"class":"col hd l",
+"children":[
+"Syndrome"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8413c6",
+"class":"col hd l",
+"children":[
+"Comments"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a36efb",
+"class":"cell txt l",
+"children":[
+"Pulmonary"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6a0e0e",
+"class":"cell txt l",
+"children":[
+"Nonresolving pneumonia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0a1650",
+"class":"cell txt l",
+"children":[
+"Consider resistant infections, noninfectious causes"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d085a2",
+"class":"cell txt l",
+"children":[
+"Lung abscess"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f2b77d",
+"class":"cell txt l",
+"children":[
+"Prolonged course of antimicrobial treatment"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"17c432",
+"class":"cell txt l",
+"children":[
+"Empyema"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"812719",
+"class":"cell txt l",
+"children":[
+"Chest tube drainage of infected pleural fluid"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b20dfb",
+"class":"cell txt l",
+"children":[
+"ARDS"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a51c3c",
+"class":"cell txt l",
+"children":[
+"Lung protective ventilation strategy indicated; glucocorticoids may decrease this complication"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2bd728",
+"class":"cell txt l",
+"children":[
+"Neurologic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e555ca",
+"class":"cell txt l",
+"children":[
+"Delirium"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ee607e",
+"class":"cell txt l",
+"children":[
+"May reflect hypoxemia, hypercarbia, or ICU stay"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"20042c",
+"class":"cell txt l",
+"children":[
+"Hematologic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c7d909",
+"class":"cell txt l",
+"children":[
+"Leukopenia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f4b084",
+"class":"cell txt l",
+"children":[
+"May be related to sepsis, medication effect"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"78f621",
+"class":"cell txt l",
+"children":[
+"Thrombocytopenia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f4b084",
+"class":"cell txt l",
+"children":[
+"May be related to sepsis, medication effect"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9d521f",
+"class":"cell txt l",
+"children":[
+"Cardiac"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a4739e",
+"class":"cell txt l",
+"children":[
+"Acute coronary syndrome"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"350198",
+"class":"cell txt l",
+"children":[
+"Seen in 5%-10% of hospitalized patients"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3ec084",
+"class":"cell txt l",
+"children":[
+"Cardiac arrhythmias"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8a0abd",
+"class":"cell txt l",
+"children":[
+"Most commonly atrial fibrillation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4ff2bb",
+"class":"cell txt l",
+"children":[
+"Kidney"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1482a5",
+"class":"cell txt l",
+"children":[
+"Acute kidney injury"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a39ae3",
+"class":"cell txt l",
+"children":[
+"May be related to hypoperfusion or medication effect"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"327a97",
+"class":"cell txt l",
+"children":[
+"Endocrine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"223a45",
+"class":"cell txt l",
+"children":[
+"Adrenal insufficiency"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ed8fa0",
+"class":"cell txt l",
+"children":[
+"Waterhouse-Friderichsen syndrome (acute adrenal necrosis), occurring in the setting of overwhelming bacterial infection/septic shock"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ARDS = acute respiratory distress syndrome."
+]
+]
+}
+}
+}

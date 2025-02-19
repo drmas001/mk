@@ -1,0 +1,129 @@
+{
+"id":"vdx4_id_q060",
+"number":60,
+"bookId":"vdx_id",
+"correctAnswer":"D",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"672274",
+"children":[
+"A 59-year-old man is admitted to the ICU with respiratory failure caused by severe community-acquired pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"51ab3c",
+"children":[
+"A sputum specimen Gram stain is ",
+{
+"type":"figure-link",
+"target":"vdx4_id_mcq_f060",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_id_mcq_f060"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5712aa",
+"children":[
+"Which of the following is the most likely organism responsible for this patient's community-acquired pneumonia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Moraxella catarrhalis</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Pseudomonas aeruginosa</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Staphylococcus aureus</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Streptococcus pneumoniae</i>\n        "
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c492e7",
+"children":[
+"The sputum Gram stain specimen demonstrates gram-positive, lancet-shaped diplococci, a finding characteristic of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" (pneumococcus). Diagnostic studies to identify a causative organism are not routinely indicated in outpatients with community-acquired pneumonia (CAP) but should be considered in non-ICU hospitalized patients when this information would alter therapy or allow treatment de-escalation. All patients with CAP who require admission to the ICU should undergo diagnostic evaluation to confirm a microbial cause. Interpretation of sputum Gram stain and culture is hampered by the presence of oropharyngeal colonization, and growth may reflect nonpathogenic organisms. A good-quality sputum culture obtained before antibiotic initiation is suggestive or diagnostic in up to 80% of cases of pneumococcal pneumonia; sensitivity decreases after antibiotic therapy."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_7_1",
+"objective":{
+"__html":"Diagnose <i>Streptococcus pneumoniae</i> on a sputum specimen Gram stain."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_id_mcq_f060":{
+"id":"vdx4_id_mcq_f060",
+"number":60,
+"bookId":"vdx_id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"9ef8445a689e5f9105fdf6235f355d1f",
+"height":538,
+"width":800,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"672274",
+"51ab3c",
+"5712aa",
+"c492e7"
+]
+}

@@ -1,0 +1,580 @@
+{
+"id":"mk19_a_np_q016",
+"number":16,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d3ef12",
+"children":[
+"A 77-year-old woman is evaluated in the ICU for acute kidney injury after being hospitalized 2 days ago for septic shock and acute respiratory distress syndrome secondary to community-acquired pneumonia. She was intubated and vasopressor support was initiated. Over the first 18 hours of hospitalization, she received 3600 mL of Ringer's lactate solution. Current medications are norepinephrine, ceftaroline, levofloxacin, and dexmedetomidine."
+]
+},
+{
+"type":"p",
+"hlId":"987c37",
+"children":[
+"On physical examination, the patient is mechanically ventilated. Temperature is 38.4 °C (101.1 °F), blood pressure is 88/52 mm Hg, pulse rate is 105/min, respiration rate is 16/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 90% with the patient breathing 50% F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Diffusely coarse breath sounds are heard on pulmonary examination. A central venous catheter is in place; central venous pressure measurement is 14 mm Hg."
+]
+},
+{
+"type":"p",
+"hlId":"0dfa01",
+"children":[
+"Urine output is 30 mL/h and unresponsive to escalating doses of intravenous furosemide."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"d12432",
+"children":[
+"Current laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ea504e",
+"class":"cell text l",
+"children":[
+"3.4 mg/dL (300.6 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"89662a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"Electrolytes"
+]
+},
+":"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dbbe15",
+"class":"cell text l",
+"children":[
+"134 mEq/L (134 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"444712",
+"class":"cell text l",
+"children":[
+"6.4 mEq/L (6.4 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"658b18",
+"class":"cell text l",
+"children":[
+"100 mEq/L (100 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"20d759",
+"class":"cell text l",
+"children":[
+"12 mEq/L (12 mmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"52e55d",
+"children":[
+"Chest radiograph shows diffuse bilateral infiltrates and vascular cephalization."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fff861",
+"children":[
+"Which of the following is the most appropriate therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin continuous renal replacement therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin peritoneal dialysis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Continue current management"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to intravenous bumetanide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bb5108",
+"children":[
+"Continuous renal replacement therapy is a preferred modality of renal replacement therapy in patients with acute kidney injury and hemodynamic instability."
+]
+},
+{
+"type":"keypoint",
+"hlId":"481fad",
+"children":[
+"Randomized clinical trials have not shown a survival benefit of continuous renal replacement therapy over intermittent hemodialysis or prolonged intermittent renal replacement therapy for critically ill patients with acute kidney injury."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"92cce4",
+"children":[
+"The most appropriate renal replacement therapy (RRT) is continuous RRT (CRRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). RRT is used to manage the urgent complications of severe acute kidney injury (AKI), including hyperkalemia, metabolic acidosis, volume overload refractory to diuretics, uremic manifestations, and dialyzable toxins. In patients with AKI, RRT options include intermittent hemodialysis (IHD); CRRT; “hybrid” therapies such as prolonged intermittent RRT (PIRRT); and peritoneal dialysis. This patient has AKI, metabolic acidosis, hyperkalemia, and volume overload. In patients who are hemodynamically unstable, CRRT is preferred because it is administered 24 hours per day, removing solutes and fluid much more slowly than IHD and resulting in better hemodynamic tolerance. However, randomized clinical trials have not shown a survival benefit of CRRT over IHD or PIRRT for critically ill patients with AKI."
+]
+},
+{
+"type":"p",
+"hlId":"9575b8",
+"children":[
+"Peritoneal dialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not as effective as the other types of RRT but may be useful when other types are unavailable or vascular access cannot be obtained."
+]
+},
+{
+"type":"p",
+"hlId":"489f08",
+"children":[
+"This patient has life-threatening electrolyte abnormalities and no immediate prospect of kidney function recovery. Therefore, continuation of current management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unacceptable."
+]
+},
+{
+"type":"p",
+"hlId":"e3025d",
+"children":[
+"All of the loop diuretics produce the same diuresis when given at equipotent doses. The patient has been unresponsive to escalating doses of furosemide; therefore, switching to another loop diuretic such as intravenous bumetanide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unlikely to result in a significant diuresis and will not address this patient's acidemia."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_7_2",
+"objective":{
+"__html":"Treat acute kidney injury with renal replacement therapy."
+},
+"references":[
+[
+"Gaudry S, Hajage D, Dreyfuss D. Initiation of renal-replacement therapy in the intensive care unit. N Engl J Med. 2016;375:1901-1902. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27959653",
+"target":"_blank"
+},
+"children":[
+"PMID: 27959653"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":84,
+"B":8,
+"C":1,
+"D":7,
+"E":0
+},
+"hlIds":[
+"d3ef12",
+"987c37",
+"0dfa01",
+"d12432",
+"f461b2",
+"ea504e",
+"89662a",
+"d41d8c",
+"b99276",
+"dbbe15",
+"e92687",
+"444712",
+"a207b1",
+"658b18",
+"6827e3",
+"20d759",
+"52e55d",
+"fff861",
+"bb5108",
+"481fad",
+"92cce4",
+"9575b8",
+"489f08",
+"e3025d"
+]
+}

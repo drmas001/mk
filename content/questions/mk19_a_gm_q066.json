@@ -1,0 +1,182 @@
+{
+"id":"mk19_a_gm_q066",
+"number":66,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4c4c01",
+"children":[
+"An 80-year-old man is brought to the emergency department with fever, confusion, and productive cough. He has COPD. A chest radiograph shows left lower lobe consolidation. The emergency department has been simultaneously involved in caring for several patients critically injured in a motor vehicle accident. The emergency department team provides nebulizer treatment and intravenous glucocorticoids to the patient. Admission to the hospital for COPD exacerbation is recommended. The hospitalist team is notified of the admission but is interrupted by the activation of a rapid response team for another patient. The inpatient nurse team is not notified of this patient admission. Several hours later, the patient is found in his hospital room unresponsive with agonal breathing and hypotension."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e35ee1",
+"children":[
+"Which of the following is the fundamental basis for this diagnostic error?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypothetico-deductive reasoning"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Incorrect estimation of pretest probability"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Poor time management"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systems factors"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"636fcb",
+"children":[
+"Diagnostic errors are usually multifactorial in cause, with flaws in the individual clinician's cognitive processes and systems-level issues contributing to most errors."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1d6ff1",
+"children":[
+"The fundamental basis for this diagnostic error is related to systems factors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Diagnostic error is often defined as diagnoses that are delayed, wrong, or missed. Diagnostic errors are usually multifactorial in cause; flaws in the individual clinician's cognitive processes and systems-level issues contribute to most errors. Systems factors that contribute to diagnostic error include communication policies and practices, resource availability, and practice structure. Productivity pressures and administrative burden and their effect on clinician time with patients may also contribute to diagnostic errors. Chaos in a medical practice is associated with an increased risk for error and missed opportunities to provide appropriate care. In this case, the patient has COPD and pneumonia, but he did not receive treatment for his pneumonia, which resulted in an adverse outcome. Cognitive error, multiple competing demands with insufficient resources to accommodate need, possible lack of communication during transitions of care, and chaos may have all contributed to this diagnostic error."
+]
+},
+{
+"type":"p",
+"hlId":"897c4f",
+"children":[
+"An analytical, rule-based approach, such as hypothetico-deductive reasoning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is characterized by specific analysis of each diagnostic possibility, including the concordant and discordant aspects of the clinical presentation. In this case, hypothetico-deductive reasoning probably did not occur; this reasoning process would probably have considered pneumonia as a cause of the patient's finding of fever, cough, and confusion."
+]
+},
+{
+"type":"p",
+"hlId":"daeb49",
+"children":[
+"Pretest probability is the probability of a patient having a specific condition before diagnostic testing is performed. Estimating pretest probability is useful in deciding whether to obtain a test, selecting among different tests, or deciding to start or withhold treatment with or without testing. Incorrect estimation of the pretest probability (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") had little or nothing to do with this patient's diagnostic error. An underlying premise of estimating pretest probability is that the correct diagnosis has been established, a condition that was not met in this case."
+]
+},
+{
+"type":"p",
+"hlId":"86730b",
+"children":[
+"Time management is the process of organizing and planning how to divide time between specific activities according to a system of priorities. Prioritizing the care of sicker patients should be a tenet of good time management, but this can take place only within a system that minimizes chaos, maximizes communication, and provides adequate resources to manage multiple competing priorities simultaneously (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_2_1",
+"objective":{
+"__html":"Identify systems factors as a cause of diagnostic error."
+},
+"references":[
+[
+"McDonald KM, Matesic B, Contopoulos-Ioannidis DG, et al. Patient safety strategies targeted at diagnostic errors: a systematic review. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/0003-4819-158-5-201303051-00004",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2013;158:381-9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23460094",
+"target":"_blank"
+},
+"children":[
+"PMID: 23460094"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":6,
+"C":5,
+"D":85,
+"E":0
+},
+"hlIds":[
+"4c4c01",
+"e35ee1",
+"636fcb",
+"1d6ff1",
+"897c4f",
+"daeb49",
+"86730b"
+]
+}

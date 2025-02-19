@@ -1,0 +1,293 @@
+{
+"id":"mk19_a_id_q028",
+"number":28,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b40196",
+"children":[
+"A 62-year-old man is evaluated in the emergency department for progressively worsening lower back pain of 3 weeks' duration. He reports no extremity numbness, weakness, or radicular pain. Medical history is notable for hypertension, type 2 diabetes mellitus, and hemodialysis for end-stage kidney disease. Medications are amlodipine, metoprolol, basal and prandial insulin, sevelamer, and a multivitamin."
+]
+},
+{
+"type":"p",
+"hlId":"9b2c1f",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.1 °F), blood pressure is 150/90 mm Hg, pulse rate is 72/min, and respiration rate is 16/min. Neurologic examination is normal. A functioning right arm fistula is present. Point tenderness is noted over the lower lumbar spine."
+]
+},
+{
+"type":"p",
+"hlId":"0bc9f9",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 14,200/µL (14.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Two sets of blood cultures obtained yesterday are positive for gram-positive cocci in clusters; preliminary identification is coagulase-positive staphylococci."
+]
+},
+{
+"type":"p",
+"hlId":"96b004",
+"children":[
+"MRI of the thoracic and lumbar spine is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f028",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f028"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cefazolin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Vancomycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vancomycin and cefepime"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dfba8c",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" is the most likely pathogen in adults with vertebral osteomyelitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8b6ead",
+"children":[
+"In patients with vertebral osteomyelitis and positive blood cultures for a typical pathogen, bone biopsy is generally not indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e232e7",
+"children":[
+"Vancomycin is the most appropriate initial management for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). He has MRI evidence of discitis (increased signal intensity, disk space narrowing at the L3-L4 disk space) with vertebral osteomyelitis (loss of endplate definition) and positive blood cultures. Although he is hemodynamically stable, antibiotic therapy should be started promptly based on the blood culture results. Patients receiving hemodialysis are at increased risk for vertebral osteomyelitis because of an increased risk of bacteremia from their dialysis access. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" is the most likely pathogen in adults with vertebral osteomyelitis, and the preliminary identification of the organism as coagulase-positive staphylococci supports this diagnosis",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+". S. aureus"
+]
+},
+" infections in patients receiving hemodialysis are health care–associated infections, so the risk of methicillin-resistant isolates is increased; vancomycin is appropriate empiric therapy pending additional susceptibility testing of the blood culture isolate."
+]
+},
+{
+"type":"p",
+"hlId":"679259",
+"children":[
+"In patients with vertebral osteomyelitis and positive blood cultures for a typical pathogen, bone biopsy is generally not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Bone biopsy may still be recommended in persons who inject drugs, even with positive blood cultures; these persons have frequent bacteremias, so the pathogen isolated in the blood stream may be different from that isolated from the vertebral infection."
+]
+},
+{
+"type":"p",
+"hlId":"bb831f",
+"children":[
+"Cefazolin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an appropriate antibiotic if the isolate is determined to be methicillin-susceptible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", but it should not be used as empiric therapy in this setting."
+]
+},
+{
+"type":"p",
+"hlId":"06e20a",
+"children":[
+"Vertebral osteomyelitis can be caused by gram-negative organisms. A broad-spectrum, gram-negative agent such as cefepime can be added to vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") as empiric therapy for vertebral osteomyelitis in patients with signs of sepsis pending further microbiologic data, but this patient has multiple blood cultures growing only gram-positive organisms, so gram-negative coverage is unnecessary."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_5",
+"objective":{
+"__html":"Treat vertebral osteomyelitis with a positive blood culture."
+},
+"references":[
+[
+"Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 Infectious Diseases Society of America (IDSA) clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. Clin Infect Dis. 2015;61:e26-46. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26229122",
+"target":"_blank"
+},
+"children":[
+"PMID: 26229122"
+]
+},
+" doi:10.1093/cid/civ482"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":2,
+"C":44,
+"D":34,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f028":{
+"id":"mk19_a_id_mcq_f028",
+"number":28,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"394776063de3c7ed0d6422d9c93f5203",
+"height":336,
+"width":433,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"b40196",
+"9b2c1f",
+"0bc9f9",
+"96b004",
+"e15e9d",
+"dfba8c",
+"8b6ead",
+"e232e7",
+"679259",
+"bb831f",
+"06e20a"
+]
+}

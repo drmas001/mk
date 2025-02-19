@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q074",
+"number":74,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"aabb3d",
+"children":[
+"A 72-year-old man is evaluated in the hospital for urosepsis. In the first hour of management, blood cultures were drawn, serum lactate measurement was obtained, empiric antibiotics were initiated, and fluid resuscitation was begun. In the first 3 hours of hospitalization, he received 3 L of 0.9% saline."
+]
+},
+{
+"type":"p",
+"hlId":"a8b3fd",
+"children":[
+"Blood pressure is 80/45 mm Hg, and pulse rate is 112/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 11 g/dL (110 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dopamine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythrocyte transfusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Norepinephrine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Phenylephrine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1ffa23",
+"children":[
+"In patients with septic shock, an initial bolus of 30 mL/kg of crystalloid fluid should be given in the first 3 hours of presentation when hypotension or a lactate of 4 mEq/L (4 mmol/L) or more is present."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7e2ee0",
+"children":[
+"Norepinephrine is the initial vasopressor of choice for shock due to sepsis refractory to fluid resuscitation; vasopressin can be added to norepinephrine to further raise blood pressure or reduce the dose of norepinephrine."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d3645b",
+"children":[
+"The most appropriate next step in management is to start vasopressor therapy with norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The goals of sepsis management are to treat infection and optimize tissue perfusion. This is accomplished by starting early and appropriate antibiotic therapy and using 0.9% saline or lactated Ringer solution (preferred) to maintain an adequate preload. An initial bolus of 30 mL/kg of crystalloid fluid should be given in the first 3 hours of presentation when hypotension is present. When lactate levels are elevated more than 2 mEq/L (2 mmol/L), they should be rechecked within 2 to 4 hours to ensure improvement. If a fluid challenge does not achieve an adequate blood pressure (defined as a mean arterial pressure ≥65 mm Hg), initiation of a vasoactive agent is indicated to ensure that tissue perfusion is maintained."
+]
+},
+{
+"type":"p",
+"hlId":"f7313e",
+"children":[
+"Despite adequate fluid resuscitation, this patient's mean arterial pressure remains less than 65 mm Hg, and a vasopressor is indicated. Norepinephrine is the initial vasopressor of choice for shock due to sepsis. Vasopressin can be added to norepinephrine to further raise blood pressure or reduce the dose of norepinephrine."
+]
+},
+{
+"type":"p",
+"hlId":"f9491c",
+"children":[
+"Dopamine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended for use in septic shock except in select patients with clinically significant bradycardia, given its association with increased tachyarrhythmia and death compared with norepinephrine."
+]
+},
+{
+"type":"p",
+"hlId":"ffe48f",
+"children":[
+"Erythrocyte transfusions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") act as colloidal fluids and may be useful in resuscitation when oxygen-carrying capacity is impaired (such as with acute blood loss), but this patient's measured hemoglobin level appears adequate to maintain tissue oxygenation without erythrocyte transfusion. Transfusion threshold for packed red blood cells is usually a hemoglobin level of less than 7.0 g/dL (70 g/L). Transfusion for volume expansion in the absence of another clear indication is not appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"3b30ad",
+"children":[
+"Phenylephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can lead to decreased stroke volumes despite improvement in mean arterial pressure. For adults with septic shock, norepinephrine is recommended as the first-line agent over other vasopressors."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3_1",
+"objective":{
+"__html":"Manage septic shock."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"aabb3d",
+"a8b3fd",
+"1a5dcc",
+"1ffa23",
+"7e2ee0",
+"d3645b",
+"f7313e",
+"f9491c",
+"ffe48f",
+"3b30ad"
+]
+}

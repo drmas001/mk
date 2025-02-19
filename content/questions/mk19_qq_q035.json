@@ -1,0 +1,212 @@
+{
+"id":"mk19_qq_q035",
+"number":35,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"740498",
+"children":[
+"A 66-year-old man is evaluated for 90 minutes of crushing anterior chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"c611f6",
+"children":[
+"On physical examination, blood pressure is 93/65 mm Hg and pulse rate is 112/min. The patient is diaphoretic. Pulsus paradoxus is absent. Jugular venous distension is present. Lungs are clear. Heart sounds are distant without murmur. ECG shows 2-mm ST-segment elevations in leads II, III, and aVF and 0.5-mm ST-segment elevation in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac tamponade"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pulmonary embolism"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right ventricular infarction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular septal rupture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4b0ddb",
+"children":[
+"In the setting of an inferior wall ST-elevation myocardial infarction, the triad of hypotension, clear lung fields, and jugular venous distention suggests a right ventricular infarction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"144982",
+"children":[
+"Treatment of right ventricular infarction consists of aggressive volume resuscitation to optimize right ventricular filling (preload), intravenous vasopressors if hypotension persists, and urgent coronary revascularization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2148f4",
+"children":[
+"In the setting of an inferior wall ST-elevation myocardial infarction, the triad of hypotension, clear lung fields, and jugular venous distention suggests a right ventricular (RV) infarction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). RV infarction occurs in approximately 20% of patients with an inferior wall ST-elevation myocardial infarction. The diagnosis can be made by right-sided ECG, on which ST-segment elevation will be seen in leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+"R. Treatment consists of aggressive volume resuscitation to optimize RV filling (preload), intravenous vasopressors if hypotension persists, and urgent coronary revascularization."
+]
+},
+{
+"type":"p",
+"hlId":"6f7ba4",
+"children":[
+"Cardiac tamponade (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") occurs when fluid accumulation within the pericardial space compresses the heart and impedes diastolic filling. Clinical signs of tamponade include tachycardia, hypotension, muffled heart sounds, and elevation of the jugular venous pulse. Pulsus paradoxus represents exaggerated ventricular interdependence and is a key clinical feature of cardiac tamponade. The ECG may demonstrate electrical alternans (related to a swinging motion of the heart within the pericardial fluid) or low voltage. Some patients may also have ST elevations in many leads, including RV leads. The absence of a paradoxical pulse and ST changes in the inferior leads is not compatible with cardiac tamponade."
+]
+},
+{
+"type":"p",
+"hlId":"62012a",
+"children":[
+"Pulmonary embolism (PE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can also present with chest pain, ECG changes, and hypotension. The chest pain of PE may be pleuritic. PE can also cause strain on the right ventricle with ST elevations in right-sided leads, and if the PE is sufficiently large, cardiac output may be impaired with resultant hypotension. However, PE is rarely associated with ST-segment elevations localized to the inferior leads. If the diagnosis remains in doubt, bedside echocardiography can often distinguish between RV infarction and PE; infarction will be associated with RV dysfunction, including hypokinesis or akinesis, and reduced RV ejection, among other findings."
+]
+},
+{
+"type":"p",
+"hlId":"4d37b9",
+"children":[
+"A ventricular septal rupture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") manifests as a new, harsh, holosystolic murmur; palpable thrill; and respiratory distress due to acute left-to-right shunting, pulmonary overcirculation, and biventricular failure 1 to 3 days after myocardial infarction onset. It would be exceedingly uncommon for a patient to initially have a ventricular septal defect unless symptoms of chest pain were present for 1 to 3 days prior to presentation. In addition, the clear lungs on physical examination do not support the presence of pulmonary edema, which would likely be present with acute ventricular septal rupture."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_2_3",
+"objective":{
+"__html":"Diagnose acute right ventricular infarction."
+},
+"references":[
+[
+"Durko AP, Budde RPJ, Geleijnse ML, et al. Recognition, assessment and management of the mechanical complications of acute myocardial infarction. Heart. 2018;104:1216-1223. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29146624",
+"target":"_blank"
+},
+"children":[
+"PMID: 29146624"
+]
+},
+" doi:10.1136/heartjnl-2017-311473"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"740498",
+"c611f6",
+"413696",
+"4b0ddb",
+"144982",
+"2148f4",
+"6f7ba4",
+"62012a",
+"4d37b9"
+]
+}

@@ -1,0 +1,272 @@
+{
+"id":"mk19_b_pm_q033",
+"number":33,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f0f321",
+"children":[
+"A 66-year-old man is evaluated for gradually progressive dyspnea and dry cough over the past 6 months. He has a 30-pack-year history of smoking; he stopped 10 years ago. Medical history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"354d44",
+"children":[
+"On physical examination, respiration rate is 22/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. Auscultation of the lungs reveals fine end-inspiratory Velcro-like crackles at both lung bases. Clubbing is present."
+]
+},
+{
+"type":"p",
+"hlId":"e733e6",
+"children":[
+"Spirometry shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 55% of predicted, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.91, and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 42% of predicted."
+]
+},
+{
+"type":"p",
+"hlId":"0dce81",
+"children":[
+"A high-resolution CT scan of the chest is ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f033",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f033"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cryptogenic organizing pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Idiopathic pulmonary fibrosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nonspecific interstitial pneumonia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Respiratory bronchiolitis-associated interstitial lung disease"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d12f22",
+"children":[
+"Idiopathic pulmonary fibrosis presents in patients between 50 and 70 years of age, greater than 6 months' duration of a dry cough and dyspnea on exertion, Velcro-like crackles, clubbing (50%), and honeycomb changes on HRCT scans."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f94d27",
+"children":[
+"The most likely diagnosis is idiopathic pulmonary fibrosis (IPF) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). IPF is associated with the histopathologic appearance of usual interstitial pneumonia, the most common idiopathic form of diffuse parenchymal lung disease (DPLD). It typically presents in patients between 50 and 70 years of age who have a greater than 6-month duration of a dry cough and dyspnea on exertion. History will reveal no potential cause for the development of fibrosis, and lung examination is notable for Velcro-like inspiratory crackles that are predominant at the bases. Clubbing is present in up to 50% of patients. The best diagnostic test is high-resolution CT (HRCT) of the chest, which may show abnormalities such as bilateral, peripheral, and basal predominant septal line thickening with honeycomb changes. The most appropriate next step in this patient's management is to discuss the patient's diagnosis in a multidisciplinary meeting involving a thoracic radiologist, a pathologist, and a pulmonologist; a multidisciplinary discussion may yield a confident diagnosis of IPF, without the need for a lung biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"a93e0f",
+"children":[
+"Patients with cryptogenic organizing pneumonia (COP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") typically present with cough, fever, and malaise for 6 to 8 weeks. Initial chest radiographs will demonstrate patchy opacities that mimic pneumonia, and as a result, patients are often initially misdiagnosed with community-acquired pneumonia and treated with standard antibiotics. HRCT scans will demonstrate ground-glass opacities or areas of alveolar consolidation resembling an infectious pneumonia, but findings can include peripheral nodules and nodules along the bronchovascular bundle. This patient's age, long duration of symptoms, and honeycomb changes on HRCT scan do not fit the clinical picture of COP."
+]
+},
+{
+"type":"p",
+"hlId":"806aee",
+"children":[
+"Nonspecific interstitial pneumonia (NSIP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most common DPLD associated with autoimmune disorders, but it can occasionally be idiopathic. NSIP affects a younger population than IPF. HRCT scans will demonstrate bilateral lower-lobe reticular changes and an absence of honeycombing, but they can also demonstrate areas of ground-glass opacification. In this patient, the lack of an underlying autoimmune disease, older age, and HRCT findings are not consistent with NSIP."
+]
+},
+{
+"type":"p",
+"hlId":"08c4c2",
+"children":[
+"Respiratory bronchiolitis-associated interstitial lung disease (RB-ILD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the histopathologic diagnosis associated with the HRCT finding of centrilobular micronodular disease in current smokers. On physiologic testing, RB-ILD may have combined restriction and obstruction. The patient is not an active smoker, which argues against RB-ILD."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_4_1",
+"objective":{
+"__html":"Diagnose idiopathic pulmonary fibrosis."
+},
+"references":[
+[
+"Lederer DJ, Martinez FJ. Idiopathic pulmonary fibrosis. N Engl J Med. 2018;378:1811-1823. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29742380",
+"target":"_blank"
+},
+"children":[
+"PMID: 29742380"
+]
+},
+" doi:10.1056/NEJMra1705751"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":53,
+"C":10,
+"D":29,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f033":{
+"id":"mk19_b_pm_mcq_f033",
+"number":33,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"4559b107eccc1df3943fd41e2d0a8f1b",
+"height":384,
+"width":465,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f0f321",
+"354d44",
+"e733e6",
+"0dce81",
+"413696",
+"d12f22",
+"f94d27",
+"a93e0f",
+"806aee",
+"08c4c2"
+]
+}

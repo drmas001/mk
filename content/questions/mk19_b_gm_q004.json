@@ -1,0 +1,199 @@
+{
+"id":"mk19_b_gm_q004",
+"number":4,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1af7f0",
+"children":[
+"A 62-year-old woman is seen for a preoperative evaluation before total knee arthroplasty. Her only medical problem is rheumatoid arthritis treated with etanercept; methotrexate; and prednisone, 6 mg/d, for the past 12 months. During a hip replacement 8 months ago, she experienced signs and symptoms of adrenal insufficiency."
+]
+},
+{
+"type":"p",
+"hlId":"0bec2d",
+"children":[
+"On physical examination, vital signs are normal. BMI is 19. Other than changes associated with rheumatoid arthritis, the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9a0c54",
+"children":[
+"Which of the following is the most appropriate preoperative glucocorticoid management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue prednisone and administer an increased dose on the day of surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue prednisone without a dose increase on the day of surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measure 8:00 <small>AM</small> serum cortisol level"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Withhold prednisone on the day of surgery"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"23e5d5",
+"children":[
+"Perioperative glucocorticoid stress dosing may not be required in many patients receiving low-dose and short-course glucocorticoid therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"637a78",
+"children":[
+"Patients at moderate risk for adrenal insufficiency may require testing to determine perioperative management, although treating empirically with stress doses of glucocorticoids may be reasonable."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2c19bb",
+"children":[
+"The most appropriate preoperative glucocorticoid management is to plan for administration of stress-dose glucocorticoids perioperatively (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to avoid an adrenal crisis. Patients receiving long-term glucocorticoid therapy may be at risk for secondary adrenal insufficiency (AI) and perioperative adrenal crisis. Historically, increased glucocorticoid doses (stress dosing) were administered liberally in the perioperative period to mimic the natural response of the adrenal glands to physiologic stress. However, studies have shown that stress dosing may not be required in many patients receiving low-dose and short-course glucocorticoid therapy. When managing a patient with glucocorticoid exposure within the past year, considerations include the type of surgery (low, intermediate, or high risk) and the dose and duration of glucocorticoid therapy. Patients on high doses of glucocorticoids for extended periods (equivalent of >20 mg/d prednisone for >3 weeks) are at high risk for AI and should receive stress dosing when undergoing intermediate- to high-risk surgery. These patients may not need glucocorticoid support for a low-risk procedure, such as cataract surgery. Patients at low risk for AI (those taking low doses of glucocorticoids for shorter periods) can generally proceed to surgery of any risk level without stress-dose glucocorticoids. Patients at moderate risk for AI may require testing to assess for the presence of adrenal insufficiency before determining best perioperative management, although newer guidelines suggest treating empirically with stress-dose glucocorticoids for a large proportion of this intermediate-risk group. This patient is at moderate risk for AI because she received more than 5 mg/d of prednisone during the past year; previously required supplemental glucocorticoids during another major operation; and is undergoing total knee arthroplasty, which is an intermediate-risk procedure. Continuing her baseline glucocorticoids alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be sufficient to avoid a potential adrenal crisis."
+]
+},
+{
+"type":"p",
+"hlId":"ba6d8c",
+"children":[
+"Morning measurement of serum cortisol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used to screen for adrenal suppression in patients with less clear risk. If the 8:00 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" morning cortisol level is less than 3 µg/dL (82.8 nmol/L) in the absence of glucocorticoid replacement for 24 hours, the adrenal gland is suppressed and perioperative glucocorticoid stress dosing is indicated. An 8:00 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" cortisol level greater than 15 µg/dL (414 nmol/L) indicates normal adrenal function and no need for stress dosing. Values of 3 to 14 µg/dL (83-386 nmol/L) require additional evaluation, such as a corticotropin (ACTH) stimulation test or glucocorticoid stress dosing, according the physician's best judgment. Prior evidence of adrenal insufficiency and glucocorticoid use of greater than 5 mg/d make adrenal axis testing unnecessary in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"362902",
+"children":[
+"Because of the risk for adrenal suppression and disease flare, prednisone should not be withheld (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Studies demonstrate that only glucocorticoid doses greater than 15 mg/d are associated with significant increases in the risk for post-arthroplasty infection in patients with rheumatoid arthritis. Continuing low daily glucocorticoid doses throughout the perioperative period is unlikely to result in complications in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_5_3",
+"objective":{
+"__html":"Manage perioperative glucocorticoids."
+},
+"references":[
+[
+"Woodcock T, Barker P, Daniel S, et al. Guidelines for the management of glucocorticoids during the peri-operative period for patients with adrenal insufficiency: Guidelines from the Association of Anaesthetists, the Royal College of Physicians and the Society for Endocrinology UK. Anaesthesia. 2020;75:654-63. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32017012",
+"target":"_blank"
+},
+"children":[
+"PMID: 32017012"
+]
+},
+" doi:10.1111/anae.14963"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":87,
+"B":9,
+"C":4,
+"D":1,
+"E":0
+},
+"hlIds":[
+"1af7f0",
+"0bec2d",
+"9a0c54",
+"23e5d5",
+"637a78",
+"2c19bb",
+"ba6d8c",
+"362902"
+]
+}

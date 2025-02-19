@@ -1,0 +1,214 @@
+{
+"id":"mk19_a_nr_q042",
+"number":42,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"406ac3",
+"children":[
+"A 48-year-old man is taken to the emergency department with a 3-month history of progressive headaches, double vision, and slurred speech. On arrival, he has a sudden decline in mentation, becomes comatose, and is emergently intubated."
+]
+},
+{
+"type":"p",
+"hlId":"977b8e",
+"children":[
+"On physical examination, blood pressure is 188/96 mm Hg, pulse rate is 48/min, and respiration rate is 10/min. The patient is comatose, with large unreactive pupils bilaterally, has no spontaneous movements, and withdraws his upper and lower limbs from noxious stimuli."
+]
+},
+{
+"type":"p",
+"hlId":"813412",
+"children":[
+"Head CT shows a midline thalamic mass extending downward into the upper brainstem with associated parenchymal and intraventricular hemorrhage. There is associated edema and mass effect on the brainstem, leading to compression of brainstem and crowding of the foramen magnum."
+]
+},
+{
+"type":"p",
+"hlId":"666d57",
+"children":[
+"The patient's head of the bed is elevated to 30 degrees, hyperventilation with mechanical ventilation in initiated, and intravenous dexamethasone is administered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1c1d37",
+"children":[
+"Which of the following is the most appropriate additional emergent management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bevacizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Decompressive craniotomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous mannitol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intravenous 0.9% saline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e2e097",
+"children":[
+"Emergency treatment of increased intracranial pressure with impending herniation and death include elevation of the head of the bed, hyperventilation, dexamethasone (for patients with peritumoral edema), and osmotic diuresis with hypertonic saline or mannitol."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49f0be",
+"children":[
+"The patient has a brainstem tumor with associated acute hemorrhage and edema, leading to herniation. Brain herniation inevitably leads to death if unrecognized or not properly treated. It manifests as an abrupt decline in mental status, unreactive dilated pupils, and motor weakness with flexor or extensor posturing. This patient also demonstrates the Cushing response (bradycardia and hypertension), a sign of elevated intracranial pressure (ICP). Emergent treatment includes elevation of the head of the bed to 30 degrees, hyperventilation (usually with mechanical ventilation) to an arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 20 to 25 mm Hg (2.7-3.3 kPa), infusion of either hypertonic saline or mannitol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and administration of dexamethasone (for patients with peritumoral edema). Mannitol is a diuretic that reduces brain edema by osmotically transferring water from brain tissue into the circulation, where it is renally excreted. The impact of mannitol on ICP is evident within minutes and peaks in 1 hour. These treatments can be life-saving and often are used as a bridge to emergent surgery."
+]
+},
+{
+"type":"p",
+"hlId":"22d346",
+"children":[
+"Bevacizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an antiangiogenic agent that is used in the treatment of a variety of tumors, including tumors metastatic to the brain. Antiangiogenic agents may reduce ICP by a number of mechanisms including inhibiting angiogenesis and minimizing vasogenic edema. However, these agents take weeks or months to have an effect and are not a good option in an emergency situation."
+]
+},
+{
+"type":"p",
+"hlId":"73b7ea",
+"children":[
+"Decompressive craniotomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be considered in this setting, and it would certainly be a more definitive measure. However, the other acute measures are a necessary bridge to emergent surgery. These measures are temporizing but can be life-saving."
+]
+},
+{
+"type":"p",
+"hlId":"d26c7e",
+"children":[
+"Intravenous 0.9% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is likely to increase ICP and should not be used."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s10_4_2",
+"objective":{
+"__html":"Treat brain edema and herniation."
+},
+"references":[
+[
+"Phillips KA, Fadul CE, Schiff D. Neurologic and medical management of brain tumors. Neurol Clin. 2018;36(3):449-466. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30072065",
+"target":"_blank"
+},
+"children":[
+"PMID: 30072065"
+]
+},
+" doi:10.1016/j.ncl.2018.04.004"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":53,
+"C":47,
+"D":0,
+"E":0
+},
+"hlIds":[
+"406ac3",
+"977b8e",
+"813412",
+"666d57",
+"1c1d37",
+"e2e097",
+"49f0be",
+"22d346",
+"73b7ea",
+"d26c7e"
+]
+}

@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q247",
+"number":247,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 247",
+"stimulus":[
+{
+"type":"p",
+"hlId":"67e7ce",
+"children":[
+"A 44-year-old woman is evaluated because of a 3-week history of nonradiating low back pain that worsens with activity. She reports no fever, trauma, morning stiffness, weakness, or paresthesia. She has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"6b107f",
+"children":[
+"She is afebrile. Lumbar spine range of motion is limited due to pain. There is no spine or sacroiliac joint tenderness. Straight leg raise test is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"C-reactive protein measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of lumbar spine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lumbar spine radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing or imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"62be04",
+"children":[
+"In patients in whom low back pain cannot be attributed to a specific disease or spinal abnormality (nonspecific low back pain), routine imaging or other diagnostic testing is not recommended."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bbdced",
+"children":[
+"In patients with back pain, immediate MRI should be obtained when there are risk factors for spinal infection or concern for cord compression or cauda equina syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8f0a55",
+"children":[
+"This patient with acute nonspecific low back pain does not require additional testing or imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In patients with low back pain, the history and physical examination should focus on determining the likelihood of a specific cause of pain and identifying neurologic involvement. In patients in whom low back pain cannot be attributed to a specific disease or spinal abnormality (defined as nonspecific low back pain), routine imaging or other diagnostic testing is not recommended. Such testing should be reserved for patients in whom a serious underlying condition is suspected, those with severe or progressive neurologic deficits, or patients without symptom improvement after 4 to 6 weeks of conservative management. As this patient's pain meets the definition of nonspecific low back pain, no additional imaging or testing is indicated before initiating therapy."
+]
+},
+{
+"type":"p",
+"hlId":"be3bb4",
+"children":[
+"An elevated C-reactive protein (CRP) level is a marker of inflammation, and CRP measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated only if a systemic inflammatory process or infectious cause of low back pain is suspected, neither of which is suggested in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"87cfae",
+"children":[
+"When malignancy is suspected as the cause of back pain, guidelines recommend plain radiography in addition to measuring the erythrocyte sedimentation rate or CRP. If results of these initial tests are negative and significant concern remains, MRI should then be obtained (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Immediate MRI should be obtained when there are risk factors for spinal infection or concern for cord compression or cauda equina syndrome. In patients with persistent pain despite conservative measures, symptoms/signs of radiculopathy, or spinal stenosis, MRI may be considered only if the patient is a potential candidate for surgical intervention."
+]
+},
+{
+"type":"p",
+"hlId":"407305",
+"children":[
+"Radiography of the lumbar spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated only if fracture, degenerative arthritis, or an inflammatory process such as ankylosing spondylitis is suspected, none of which are likely diagnostic considerations in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_1_2",
+"objective":{
+"__html":"Evaluate acute nonspecific low back pain."
+},
+"references":[
+[
+"Popescu A, Lee H. Neck pain and lower back pain. Med Clin North Am. 2020;104:279-292. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32035569",
+"target":"_blank"
+},
+"children":[
+"PMID: 32035569"
+]
+},
+" doi:10.1016/j.mcna.2019.11.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"67e7ce",
+"6b107f",
+"cb2b54",
+"62be04",
+"bbdced",
+"8f0a55",
+"be3bb4",
+"87cfae",
+"407305"
+]
+}

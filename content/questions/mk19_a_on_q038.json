@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_on_q038",
+"number":38,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9da7be",
+"children":[
+"A 70-year-old man undergoes routine follow-up evaluation of low-risk prostate cancer diagnosed 3 years ago. He reports no symptoms. He has been managed with active surveillance. His last biopsy was 18 months ago. His ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prostate-specific antigen, serum",
+"children":[
+"prostate-specific antigen"
+]
+},
+" (PSA) level was 4.5 ng/mL (4.5 µg/L) 1 year ago and is now 9.2 ng/mL (9.2 µg/L). He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"26ace1",
+"children":[
+"On physical examination, vital signs and all examination findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone scan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Free PSA measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat prostate biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat PSA measurement in 6 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dcdc2c",
+"hvc":true,
+"children":[
+"In men with low-risk prostate cancer, active surveillance is a reasonable strategy because some men will never require treatment, and outcomes are no worse if men with low-grade cancer are treated at the time of progression rather than when first diagnosed."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1cc442",
+"hvc":true,
+"children":[
+"In men undergoing active surveillance for prostate cancer, a doubling time of less than 3 years is grounds for reassessment with a repeat biopsy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e108ec",
+"children":[
+"This patient should have a repeat prostate biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Active surveillance is a management option that consists of planned monitoring and deferred therapy for patients with low-grade prostate cancer. Monitoring during active surveillance consists of a repeat biopsy done approximately 1 year from the original diagnosis and, assuming no high-grade tumor has developed, less often thereafter; annual digital rectal examination should be done yearly, and serial prostate-specific antigen (PSA) measurements should be done every 6 to 12 months. Sustained rise in PSA or new abnormalities on digital rectal examination warrant an additional prostate biopsy, perhaps guided by MRI imaging. The goal of active surveillance is to more promptly identify men with evidence of cancer progression that requires treatment while also avoiding treatment in men who do not have progressive cancer. In men with low-risk prostate cancer, active surveillance is a reasonable strategy because some men will never require treatment, and outcomes are no worse if men with low-grade cancer are treated at the time of progression rather than when first diagnosed. This patient has experienced a doubling of PSA in just 1 year. Although PSA alone cannot definitely identify men who require treatment, a doubling time of less than 3 years is grounds for reassessment with a repeat biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"30529b",
+"children":[
+"At this time, the patient does not require a bone scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). A bone scan might be warranted if there is documentation of disease progression, such as the assignment to a different risk group based on the results of the prostate biopsy. Until that time, imaging is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"fe4819",
+"children":[
+"Measurement of free PSA (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may increase the sensitivity of PSA screening for prostate cancer and can be helpful in cases of borderline elevated PSA measurements due to its greater specificity. Measurement of free PSA does not play a role in the management of men who are being managed with active surveillance, however, and is not indicated in this man who already has an indication for repeat biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"bd8e51",
+"children":[
+"Rechecking PSA in 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated because this man already meets criteria for repeat biopsy."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_1_3",
+"objective":{
+"__html":"Manage progressing prostate cancer in a man on active surveillance."
+},
+"references":[
+[
+"Chen RC, Rumble RB, Loblaw DA, et al. Active surveillance for the management of localized prostate cancer (Cancer Care Ontario Guideline): American Society of Clinical Oncology Clinical Practice Guideline Endorsement. J Clin Oncol. 2016;34:2182-90. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26884580",
+"target":"_blank"
+},
+"children":[
+"PMID: 26884580"
+]
+},
+" doi:10.1200/JCO.2015.65.7759"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":22,
+"B":10,
+"C":37,
+"D":31,
+"E":0
+},
+"hlIds":[
+"9da7be",
+"26ace1",
+"cb2b54",
+"dcdc2c",
+"1cc442",
+"e108ec",
+"30529b",
+"fe4819",
+"bd8e51"
+]
+}

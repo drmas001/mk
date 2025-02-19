@@ -1,0 +1,191 @@
+{
+"id":"mk19_a_np_q039",
+"number":39,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f49a29",
+"children":[
+"A 39-year-old woman is evaluated during a follow-up visit for recently diagnosed stage 2 hypertension confirmed with home blood pressure monitoring measurements taken over the past month. She also has a 12-year history of type 2 diabetes mellitus. Medications are metformin and empagliflozin."
+]
+},
+{
+"type":"p",
+"hlId":"d37cd6",
+"children":[
+"On physical examination, blood pressure is 144/92 mm Hg, pulse rate is 88/min, and respiration rate is 18/min. BMI is 28. The remainder of the examination unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"9cd1da",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.9 mg/dL (79.6 µmol/L), normal electrolyte levels, and a urine ",
+{
+"type":"reference-range-link",
+"referenceRange":"Albumin-creatinine ratio, urine",
+"children":[
+"albumin-creatinine ratio"
+]
+},
+" of 330 mg/g."
+]
+},
+{
+"type":"p",
+"hlId":"2fb268",
+"children":[
+"The patient is instructed in lifestyle modifications to control hypertension."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6a41fc",
+"children":[
+"Which of the following is the most appropriate initial therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Felodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hydrochlorothiazide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hydrochlorothiazide and amlodipine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lisinopril"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bac06f",
+"children":[
+"An ACE inhibitor or angiotensin receptor blocker is the initial treatment of choice for hypertension in patients with diabetes mellitus and albuminuria."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b02f3f",
+"children":[
+"Use of an ACE inhibitor or angiotensin receptor blocker can result in decreased progression of albuminuria and chronic kidney disease in patients with diabetes mellitus and albuminuria."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"73886b",
+"children":[
+"The most appropriate initial therapy is lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), an ACE inhibitor, to treat hypertension in this patient with type 2 diabetes mellitus and albuminuria. Although this patient's serum creatinine level is normal, she has evidence of chronic kidney disease (CKD) based on the presence of albuminuria (urine albumin-creatinine ratio ≥30 mg/g). Albuminuria and uncontrolled blood pressure increase her risk for progression of CKD. Several large randomized controlled trials showed that use of an ACE inhibitor or angiotensin receptor blocker (ARB) can result in decreased progression of albuminuria and CKD, which may include doubling of serum creatinine or progression to end-stage kidney disease, in patients with diabetes and albuminuria."
+]
+},
+{
+"type":"p",
+"hlId":"5bde24",
+"children":[
+"The American Diabetes Association (ADA) recommends an ACE inhibitor or ARB at the maximum tolerated dose as first-line treatment for hypertension in patients with diabetes and urine albumin-creatinine ratio >300 mg/g; treatment with these drugs should be initiated when the urine albumin-creatinine ratio is ≥30 to 300 mg/g. For this reason, felodipine (a CCB) and hydrochlorothiazide (a thiazide diuretic) are not the most appropriate initial therapies for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A-C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"7a1c25",
+"children":[
+"Initial treatment with two antihypertensive drugs is recommended for patients with stage 2 hypertension and who are >20/10 mm Hg above their target blood pressure. According to the ADA, this patient's target blood pressure is <140/90 mm Hg or <130/80 mm Hg in the presence of atherosclerotic cardiovascular disease or if her 10-year atherosclerotic cardiovascular disease event risk is >15%. Regardless, the patient is not >20/10 mm Hg above her blood pressure target, and the initiation of two antihypertensive drugs is not indicated. However, if this patient's blood pressure is still not controlled to target while receiving the maximum dose of lisinopril, then another class of first-line antihypertensive agents, such as a thiazide diuretic or CCB, should be added."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_14_2",
+"objective":{
+"__html":"Treat hypertension in a patient with type 2 diabetes mellitus and albuminuria."
+},
+"references":[
+[
+"American Diabetes Association. 10. Cardiovascular disease and risk management: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S125-S150. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298421",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298421"
+]
+},
+" doi:10.2337/dc21-S010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":4,
+"C":1,
+"D":94,
+"E":0
+},
+"hlIds":[
+"f49a29",
+"d37cd6",
+"9cd1da",
+"2fb268",
+"6a41fc",
+"bac06f",
+"b02f3f",
+"73886b",
+"5bde24",
+"7a1c25"
+]
+}

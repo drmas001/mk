@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q095",
+"number":95,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b4d5ff",
+"children":[
+"A 32-year-old woman is seen following evaluation for a single episode of painless hematuria that she noted last week. She has chronic kidney disease secondary to chronic tubulointerstitial nephritis confirmed by biopsy. She took Chinese herbal weight loss pills daily for 3 years. She took acetaminophen or ibuprofen for arthralgia three or four times monthly for 5 years. Since the kidney biopsy, she has discontinued all drugs and supplements. She has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"9ce0f2",
+"children":[
+"The physical examination, including vital signs, is normal."
+]
+},
+{
+"type":"p",
+"hlId":"02af44",
+"children":[
+"Urinalysis shows a specific gravity of 1.012, 3+ blood, 1+ protein, 1+ leukocytes, 25-50 nondysmorphic erythrocytes/hpf, 3-5 leukocytes/hpf, and no casts; urine culture is negative."
+]
+},
+{
+"type":"p",
+"hlId":"018af4",
+"children":[
+"CT scan of the abdomen and pelvis shows normal kidneys and collecting system."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cystoscopy with retrograde pyelography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the kidneys"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Renal angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dba376",
+"children":[
+"Certain Chinese herbal medications have been associated with aristolochic acid nephropathy, which can cause chronic tubulointerstitial disease and is associated with urothelial cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"631cbd",
+"children":[
+"CT urography and cystoscopy with retrograde pyelography are the most appropriate tests for a patient with hematuria and risk factors for urothelial cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"eb2952",
+"children":[
+"Cystoscopy with retrograde pyelography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate management for this patient to assess for evidence of urothelial tumor. Chronic tubulointerstitial nephritis (CTIN) in the setting of protracted use of herbal medications, particularly those of Chinese origin, suggests the possibility of aristolochic acid nephropathy. Consequently, this patient may be at increased risk for urothelial cancer despite her young age. CT of the abdomen and pelvis is not sufficiently sensitive to rule out neoplasia of the ureters or bladder."
+]
+},
+{
+"type":"p",
+"hlId":"8fd0c5",
+"children":[
+"MRI of the kidneys (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not the most appropriate test for evaluating the lower urinary tract. Although an MRI may be ordered as an alternative imaging modality in evaluating for renal masses, CT remains the gold standard."
+]
+},
+{
+"type":"p",
+"hlId":"718bfc",
+"children":[
+"Renal angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be considered for persistent gross hematuria of uncertain etiology when all other lower urinary tract imaging modalities have failed to identify a cause, but it would not be the most appropriate management in this case."
+]
+},
+{
+"type":"p",
+"hlId":"4ca44f",
+"children":[
+"In a young patient without risk factors for urothelial cancer (such as smoking, occupational exposure, use of Chinese herbal medications), exclusion of stone, renal mass, and active urinary tract infections followed by expectant observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is appropriate for a single episode of gross hematuria. This patient's analgesic use is relatively low to ascribe the CTIN to this etiology with confidence. There is no history of occupational or other environmental exposure, and there is no test available to identify aristolochic acid as the cause of this patient's CTIN. However, given the patient's history of protracted use of herbal medications, it would be prudent to rule out the associated risks of herbal medication use, such as urothelial tumor."
+]
+}
+],
+"relatedSection":"mk19_a_np_s5_3_8",
+"objective":{
+"__html":"Screen for urothelial cancer in a patient with hematuria and aristolochic acid nephropathy."
+},
+"references":[
+[
+"Jelakovic B, Dika Ž, Arlt VM, et al. Balkan endemic nephropathy and the causative role of aristolochic acid. Semin Nephrol. 2019;39:284-296. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31054628",
+"target":"_blank"
+},
+"children":[
+"PMID: 31054628"
+]
+},
+" doi:10.1016/j.semnephrol.2019.02.007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":49,
+"B":2,
+"C":1,
+"D":48,
+"E":0
+},
+"hlIds":[
+"b4d5ff",
+"9ce0f2",
+"02af44",
+"018af4",
+"cb2b54",
+"dba376",
+"631cbd",
+"eb2952",
+"8fd0c5",
+"718bfc",
+"4ca44f"
+]
+}

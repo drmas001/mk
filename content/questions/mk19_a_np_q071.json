@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_np_q071",
+"number":71,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a6a54e",
+"children":[
+"A 24-year-old man is evaluated in the emergency department for a 3-hour history of right flank pain that radiates to the groin. He reports nausea and dysuria but no fever or chills. Medical history is otherwise unremarkable. He takes no medications. Intravenous ketorolac is initiated for pain."
+]
+},
+{
+"type":"p",
+"hlId":"3a49e8",
+"children":[
+"On physical examination, pulse rate is 104/min; other vital signs are normal. The patient appears uncomfortable. Abdominal examination reveals right costovertebral tenderness. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"9acf9f",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, Serum",
+"children":[
+"serum calcium"
+]
+},
+" level of 9.8 mg/dL (2.5 mmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.8 mg/dL (70.7 µmol/L). Urinalysis shows a specific gravity of 1.020; a pH of 5.0; 1+ blood; no leukocyte esterase; no nitrites; 20-30 erythrocytes/hpf; and 0-1 leukocytes/hpf."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e7f11",
+"children":[
+"Which of the following is the most sensitive imaging test to perform?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous pyelography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Kidney and bladder ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney, ureter, and bladder radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Noncontrast helical abdomen and pelvis CT"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"01881d",
+"children":[
+"Noncontrast helical CT of the abdomen and pelvis is the gold standard for diagnosis of kidney stones because of its high sensitivity and specificity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1be9c5",
+"children":[
+"Ultrasonography is the preferred imaging test for suspected nephrolithiasis in pregnant women and when CT imaging is not available."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1c9746",
+"children":[
+"The most sensitive imaging test to perform is a noncontrast helical abdomen and pelvis CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), which has the highest sensitivity and specificity of all imaging options used in evaluating nephrolithiasis. The sensitivity of noncontrast helical abdominal CT for the diagnosis of nephrolithiasis is greater than 95%. Noncontrast helical CT can also detect stones independent of their composition, with the exception of stones composed of indinavir crystals. Furthermore, noncontrast helical CT may be able to predict the composition of the stone based on the Hounsfield units. However, this should not preempt stone analysis. Finally, noncontrast helical CT potentially provides alternative diagnoses if nephrolithiasis is not detected."
+]
+},
+{
+"type":"p",
+"hlId":"631f20",
+"children":[
+"There is no role for the use of intravenous pyelography (IVP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in the evaluation of kidney stones. IVP has high sensitivity for the diagnosis of hydronephrosis that might be caused by a stone but lacks the sensitivity and specificity of noncontrast helical CT in the diagnosis of nephrolithiasis and potential diagnosis of stone type. When noncontrast helical CT is unavailable or contraindicated, kidney ultrasonography is preferred to IVP. Finally, IVP requires the use of intravenous contrast."
+]
+},
+{
+"type":"p",
+"hlId":"18d262",
+"children":[
+"Kidney and bladder ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is less accurate than noncontrast helical CT in the diagnosis of nephrolithiasis. Sensitivity ranges from 50% to 90%. Small stones and stones within the ureter are frequently not detected on ultrasonography. Ultrasonography is also less able to determine stone size or location within the ureter. However, if noncontrast CT is unavailable or if the patient is pregnant, ultrasonography is the preferred method of evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"c433cc",
+"children":[
+"Radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has little role in the evaluation of kidney stones due to poor sensitivity and specificity. This modality will not detect radiolucent uric acid stones and often cannot determine if the calcification visualized is within or external to the urinary system. Because of low cost and low amount of radiation, radiography is useful for following the movement and growth of a stone as well as monitoring total stone burden."
+]
+}
+],
+"relatedSection":"mk19_a_np_s10_3",
+"objective":{
+"__html":"Diagnose nephrolithiasis with noncontrast helical CT."
+},
+"references":[
+[
+"Mayans L. Nephrolithiasis. Prim Care. 2019;46:203-212. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31030821",
+"target":"_blank"
+},
+"children":[
+"PMID: 31030821"
+]
+},
+" doi:10.1016/j.pop.2019.02.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":5,
+"C":4,
+"D":85,
+"E":0
+},
+"hlIds":[
+"a6a54e",
+"3a49e8",
+"9acf9f",
+"8e7f11",
+"01881d",
+"1be9c5",
+"1c9746",
+"631f20",
+"18d262",
+"c433cc"
+]
+}

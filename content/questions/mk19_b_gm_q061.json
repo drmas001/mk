@@ -1,0 +1,272 @@
+{
+"id":"mk19_b_gm_q061",
+"number":61,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"58a79e",
+"children":[
+"A 29-year-old woman is evaluated for a 6-month history of acne that worsens during menses. She has been using topical benzoyl peroxide wash and topical tretinoin cream, but there has been no improvement. She reports no hirsutism or virilization symptoms. Menses are regular. She has no other medical problems and takes no additional medications."
+]
+},
+{
+"type":"p",
+"hlId":"59eab7",
+"children":[
+"Skin findings are ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f061",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_gm_mcq_f061"
+]
+},
+{
+"type":"p",
+"hlId":"ad309b",
+"children":[
+"No features of hyperandrogenism are noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hormone measurements"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pelvic ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Progesterone-eluting intrauterine device"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spironolactone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Topical metronidazole cream"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a0cacd",
+"children":[
+"Spironolactone and combined oral contraceptives can be used for adult female acne in patients in whom topical therapies have failed."
+]
+},
+{
+"type":"keypoint",
+"hlId":"23edb7",
+"children":[
+"Topical antibiotics are helpful in inflammatory acne because they target ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cutibacterium acnes"
+]
+},
+" and have anti-inflammatory effects; they should be combined with topical benzoyl peroxide."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"35f717",
+"children":[
+"The most appropriate management is to start spironolactone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has adult female–type acne, characterized by papules and nodules on the lower half of the face with marked presence on the jawline. Adult acne is more common in women and, when present, results from an abnormal response to physiologic levels of androgens. It typically presents along the jawline and often flares with the menstrual cycle. Although considered second-line therapy, oral contraceptives or spironolactone (aldosterone receptor blocker with antiandrogen activity) can be added to other treatments in women with moderate to severe acne. Spironolactone is an excellent choice for adult female acne for which topical therapies have failed. Spironolactone is a pregnancy category C (risk cannot be ruled out), and contraception is recommended when used in premenopausal women for the treatment of conditions such as hirsutism and acne."
+]
+},
+{
+"type":"p",
+"hlId":"b2f266",
+"children":[
+"Obtaining hormone measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), such as follicle-stimulating hormone, luteinizing hormone, and free testosterone levels, is not indicated. The patient has no features that suggest hyperandrogenism, such as hirsutism, muscle mass gain, deepening of the voice, or clitoromegaly. Rapid onset of acne combined with other signs of hyperandrogenism warrants consideration of polycystic ovary syndrome, congenital adrenal hyperplasia, or an underlying adrenal or ovarian tumor."
+]
+},
+{
+"type":"p",
+"hlId":"f9748f",
+"children":[
+"Pelvic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") might be indicated in patients with findings suspicious for polycystic ovary syndrome. However, this patient has no features of polycystic ovary syndrome, such as hirsutism or oligo-/anovulation, and pelvic ultrasonography is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"db0213",
+"children":[
+"Progesterone-eluting intrauterine devices (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), as well as any other progesterone-based hormonal contraception, can exacerbate acne and would not be recommended. Combined estrogen and progesterone oral contraceptives are effective treatments for inflammatory acne in women without evidence of hyperandrogenism and would be an option for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"4e1148",
+"children":[
+"Topical antibiotics are helpful in inflammatory acne because they target ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cutibacterium acnes"
+]
+},
+" and have anti-inflammatory effects. It is recommended that topical antibiotics be combined with topical benzoyl peroxide in treatment for mild, moderate, or severe acne to avoid antibiotic resistance. The common topical antibiotics clindamycin and erythromycin are pregnancy category B, whereas topical benzoyl peroxide is pregnancy category C. Topical metronidazole cream (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a first-line treatment for rosacea but not for acne."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_7_1",
+"objective":{
+"__html":"Manage acne in an adult woman."
+},
+"references":[
+[
+"Zaenglein AL. Acne vulgaris. N Engl J Med. 2018;379:1343-52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30281982",
+"target":"_blank"
+},
+"children":[
+"PMID: 30281982"
+]
+},
+" doi:10.1056/NEJMcp1702493"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":5,
+"C":13,
+"D":35,
+"E":32
+},
+"figuresContent":{
+"mk19_b_gm_mcq_f061":{
+"id":"mk19_b_gm_mcq_f061",
+"number":61,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"eb17fe835a49b7f7b9467df7c617235c",
+"height":630,
+"width":650,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"58a79e",
+"59eab7",
+"ad309b",
+"cb2b54",
+"a0cacd",
+"23edb7",
+"35f717",
+"b2f266",
+"f9748f",
+"db0213",
+"4e1148"
+]
+}

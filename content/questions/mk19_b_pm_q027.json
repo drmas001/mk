@@ -1,0 +1,209 @@
+{
+"id":"mk19_b_pm_q027",
+"number":27,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4d4676",
+"children":[
+"A 24-year-old woman is evaluated in the emergency department for acute onset of dyspnea and pleuritic chest pain. She is 10 weeks pregnant. She is otherwise well, and her only medication is folic acid."
+]
+},
+{
+"type":"p",
+"hlId":"755f5c",
+"children":[
+"On physical examination, temperature is 37.7 °C (99.9 °F), blood pressure is 140/78 mm Hg, pulse rate is 90/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% with the patient breathing ambient air. Cardiopulmonary examination is normal. There is no evidence of deep venous thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"f3dc2a",
+"children":[
+"A chest radiograph is normal. A ventilation/perfusion lung scan is interpreted as high probability for pulmonary embolism."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dabigatran"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fondaparinux"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Low-molecular-weight heparin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivaroxaban"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Unfractionated heparin followed by warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bb08ac",
+"children":[
+"In pregnant patients, low-molecular-weight heparin is the preferred treatment for venous thromboembolism disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"af7dd0",
+"children":[
+"Because there are limited data on the safety of direct oral anticoagulants and fondaparinux in pregnancy, they are not recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"30a7c8",
+"children":[
+"The most appropriate treatment is low-molecular-weight heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The American Society of Hematology (ASH) 2018 guidelines for management of venous thromboembolism in the context of pregnancy recommend low-molecular-weight heparin (LMWH). LMWH is strongly recommended over unfractionated heparin (UFH). Antithrombotic therapy markedly reduces mortality in nonpregnant and pregnant patients with acute venous thromboembolism (VTE). LMWH is at least as effective as UFH in the treatment of VTE in pregnant patients, and the risks of bleeding are similar with the two agents. Extended use of UFH during pregnancy is associated with a risk of osteoporotic fracture of 2.2%. There is limited data on bone health in pregnant women receiving LMWH, but in nonpregnant women the risk of fracture appears to be higher in women receiving UFH compared with LMWH. In addition, the risk of heparin-induced thrombocytopenia is higher in nonpregnant women treated with UFH compared with LMWH (2.7% versus 0%). Finally, the ASH guideline notes that the dosing of LMWH is more predictable than UFH, and laboratory testing is generally unnecessary, making treatment more convenient."
+]
+},
+{
+"type":"p",
+"hlId":"68b0b3",
+"children":[
+"There is limited data on the safety of the direct oral anticoagulants (dabigatran, apixaban, edoxaban, and rivaroxaban) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, D"
+]
+},
+") in pregnant women. Since they are likely to cross the placenta and their reproductive effects in humans are unknown, the ASH guideline does not recommend them for pregnant women. Finally, dabigatran is not approved as monotherapy for VTE; it must be preceded by heparin therapy."
+]
+},
+{
+"type":"p",
+"hlId":"8c84c7",
+"children":[
+"Fondaparinux (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for first-line therapy of VTE in pregnancy because this drug has been reported to cross the placenta in small amounts, and experience with fondaparinux in pregnancy is very limited (especially during the first trimester)."
+]
+},
+{
+"type":"p",
+"hlId":"24370a",
+"children":[
+"Vitamin K antagonists such as warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") are not considered acceptable therapy for pregnancy-associated VTE. Warfarin crosses the placenta and has the potential to cause teratogenicity, pregnancy loss, fetal bleeding, and neurodevelopmental deficits. In pregnant patients with VTE, acceptable alternatives are available. Warfarin is recommended in pregnant women with mechanical heart valves if the dose is less than 5 mg daily."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_7",
+"objective":{
+"__html":"Treat pulmonary embolism in a pregnant woman."
+},
+"references":[
+[
+"Bates SM, Rajasekhar A, Middeldorp S, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy. Blood Adv. 2018;2:3317-3359. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482767",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482767"
+]
+},
+" doi:10.1182/bloodadvances.2018024802"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":85,
+"D":2,
+"E":10
+},
+"hlIds":[
+"4d4676",
+"755f5c",
+"f3dc2a",
+"1054f1",
+"bb08ac",
+"af7dd0",
+"30a7c8",
+"68b0b3",
+"8c84c7",
+"24370a"
+]
+}

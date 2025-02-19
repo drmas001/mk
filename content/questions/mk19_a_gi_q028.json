@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_gi_q028",
+"number":28,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f2036d",
+"children":[
+"A 33-year-old woman is evaluated during her annual follow-up visit. She is asymptomatic. She has a 2-year history of left-sided ulcerative colitis, now in remission. Current medications are an oral 5-aminosalicylate and azathioprine. All immunizations are up to date, and depression and anxiety screening results are negative. Skin cancer screening was performed 6 months ago. Her last cervical cancer screening was 1 year ago."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2e6440",
+"children":[
+"Which of the following is the most appropriate health maintenance screening test to perform?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anal cancer screening"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cervical cancer screening"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Dual-energy x-ray absorptiometry"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"feda4a",
+"children":[
+"Women with inflammatory bowel disease receiving immunosuppressive therapy should undergo Pap testing annually."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c93522",
+"children":[
+"The most appropriate health maintenance screening to perform is cervical cancer screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients with inflammatory bowel disease (IBD) have increased risk for colorectal, cervical, and skin cancers. The U.S. Preventive Services Task Force recommends screening women aged 21 to 65 years every 3 years with cytology (Pap test). In women aged 30 to 65 years who want to extend the screening interval, high-risk human papillomavirus (HPV) testing (preferred) or cytology combined with high-risk HPV testing can be performed every 5 years. However, women with IBD have increased risk for cervical dysplasia; this risk is greater in women using immunosuppressive therapy. Women with IBD receiving immunosuppressive therapy should undergo Pap testing annually. Patients with IBD also have increased risk for vaccine-preventable illnesses. Inactivated vaccines can be safely administered to all patients with IBD, regardless of immunosuppression. Depression and anxiety are more common in patients with IBD than in the general population, and screening is recommended. Patients with ulcerative colitis and Crohn disease should undergo yearly melanoma screening, and those receiving immunomodulators should be screened for nonmelanoma squamous cell cancer while using these agents."
+]
+},
+{
+"type":"p",
+"hlId":"a89fc1",
+"children":[
+"Evidence is insufficient to recommend routine anal cancer screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in average-risk populations, but such screening may be considered in high-risk populations. The Infectious Diseases Society of America suggests screening patients with genital warts, men who have sex with men, and women who have a history of abnormal cervical cytology results or participate in receptive anal intercourse. The presence of IBD is not an indication to routinely screen for anal cancer."
+]
+},
+{
+"type":"p",
+"hlId":"337947",
+"children":[
+"Patients with IBD are at increased risk for colorectal cancer through longstanding colorectal inflammation. The American Gastroenterological Association recommends an initial colonoscopy screening for dysplasia at 8 to 10 years after disease diagnosis in all patients with colonic IBD, and immediately on diagnosis of primary sclerosing cholangitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). After a negative screening colonoscopy, surveillance colonoscopy should be performed every 1 to 5 years based on risk factors for colorectal cancer, considering current and previous burden of colonic inflammation, family history of colorectal cancer, primary sclerosing cholangitis, history of colorectal dysplasia, and frequency and quality of previous surveillance examinations. Because this patient has had IBD for only 2 years, surveillance colonoscopy is not yet necessary."
+]
+},
+{
+"type":"p",
+"hlId":"dfd593",
+"children":[
+"Patients with IBD also have elevated risk for metabolic bone disease through use of glucocorticoids and diminished vitamin D and calcium absorption. Bone mineral density testing with dual-energy x-ray absorptiometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended in all patients starting oral glucocorticoid therapy. Otherwise, patients with IBD should be screened for osteoporosis on the basis of established guidelines for the general population. Performing dual-energy x-ray absorptiometry in this patient is not indicated because she is not starting glucocorticoid therapy and has no conventional risk factors for osteoporosis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_6",
+"objective":{
+"__html":"Provide appropriate health care maintenance in a patient with inflammatory bowel disease."
+},
+"references":[
+[
+"Murthy SK, Feuerstein JD, Nguyen GC, et al. AGA clinical practice update on endoscopic surveillance and management of colorectal dysplasia in inflammatory bowel diseases: expert review. Gastroenterology. 2021;161:1043-1051.e4. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34416977",
+"target":"_blank"
+},
+"children":[
+"PMID: 34416977"
+]
+},
+" doi:10.1053/j.gastro.2021.05.063"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":18,
+"C":60,
+"D":17,
+"E":0
+},
+"hlIds":[
+"f2036d",
+"2e6440",
+"feda4a",
+"c93522",
+"a89fc1",
+"337947",
+"dfd593"
+]
+}

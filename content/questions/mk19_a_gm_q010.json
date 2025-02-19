@@ -1,0 +1,246 @@
+{
+"id":"mk19_a_gm_q010",
+"number":10,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d5dcac",
+"children":[
+"A 36-year-old woman is evaluated for a 10-year history of fluctuating, migratory burning pain and paresthesia involving multiple parts of her body. Her symptoms are stable but disruptive. She has previously undergone extensive evaluation, with normal results. She has tried nortriptyline, gabapentin, pregabalin, and topical lidocaine without benefit. Medical history is significant for migraine, temporomandibular joint dysfunction, and irritable bowel syndrome. Results of recent screening for depression and generalized anxiety disorder were negative. Current medications are duloxetine, propranolol, and sumatriptan."
+]
+},
+{
+"type":"p",
+"hlId":"c6953f",
+"children":[
+"Vital signs and findings on general and neurologic examinations are normal."
+]
+},
+{
+"type":"p",
+"hlId":"40da96",
+"children":[
+"Review of the electronic health record documents normal complete blood count, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"electrolytes"
+]
+},
+", liver enzymes, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Vitamin B12, serum",
+"children":[
+"vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+}
+]
+},
+", ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+", fasting ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+", and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, serum",
+"children":[
+"serum protein"
+]
+},
+" electrophoresis."
+]
+},
+{
+"type":"p",
+"hlId":"b19b44",
+"children":[
+"Results of electromyography and skin biopsy for small nerve fiber neuropathy are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cognitive behavioral therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the spine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxycodone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine and plasma porphyrin measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"af1605",
+"hvc":true,
+"children":[
+"A therapeutic alliance and a mutually respectful physician-patient relationship are key features in the successful management of the patient with medically unexplained symptoms."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0da158",
+"hvc":true,
+"children":[
+"Nonpharmacologic interventions for medically unexplained symptoms include cognitive behavioral therapy, among many other options."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"159496",
+"children":[
+"The most appropriate management for this patient with medically unexplained symptoms (MUS) is cognitive behavioral therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). MUS are symptoms that cannot be attributed to a specific medical cause after a thorough medical evaluation. Common symptoms in patients with MUS include fatigue, headache, abdominal pain, musculoskeletal pain (back pain, myalgia, arthralgia), dizziness, paresthesia, generalized weakness, transient edema, insomnia, dyspnea, chest pain, chronic facial pain, chronic pelvic pain, and chemical sensitivities. The management of MUS focuses on restoring function, decreasing symptom focus, and acquiring coping mechanisms rather than abating symptoms. It should be made clear to patients that treatment of MUS will probably not be curative and that symptoms may persist. A therapeutic alliance and a mutually respectful physician-patient relationship are key features in the successful management of the patient with MUS. In keeping with a patient-centered approach, the patient should be engaged fully in the plan, focusing on physical, psychological, and social aspects of health. Nonpharmacologic interventions, including cognitive behavioral therapy, physical therapy, occupational therapy, individual or group psychotherapy, social support, biofeedback therapy, graded exercise therapy, stress management activities, and training in coping mechanisms, are the cornerstone of treatment."
+]
+},
+{
+"type":"p",
+"hlId":"94487f",
+"children":[
+"Rather than pursuing further costly, low-value diagnostic evaluations, it may be more beneficial and value-driven to assess and treat any potential underlying psychological symptoms and to educate patients with MUS on successful coping skills based on the personal impact of their symptoms. As such, ordering more advanced imaging, such as MRI of the spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), or adding new tests, such as urine and plasma porphyrin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), is unlikely to be helpful and may perpetuate the symptom complex."
+]
+},
+{
+"type":"p",
+"hlId":"1e0faf",
+"children":[
+"Oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an inappropriate intervention for this patient. Opioids introduce the potential of harm without corresponding benefit. Opioids are not well suited for the management of neuropathic pain syndromes and are associated with the potential for overuse, overdose, and addiction."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_8_2",
+"objective":{
+"__html":"Treat medically unexplained symptoms with cognitive behavioral therapy."
+},
+"references":[
+[
+"Olde Hartman TC, Rosendal M, Aamland A, et al. What do guidelines and systematic reviews tell us about the management of medically unexplained symptoms in primary care? BJGP Open. 2017;1:bjgpopen17X101061. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30564678",
+"target":"_blank"
+},
+"children":[
+"PMID: 30564678"
+]
+},
+" doi:10.3399/bjgpopen17X101061"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":86,
+"B":3,
+"C":0,
+"D":12,
+"E":0
+},
+"hlIds":[
+"d5dcac",
+"c6953f",
+"40da96",
+"b19b44",
+"cb2b54",
+"af1605",
+"0da158",
+"159496",
+"94487f",
+"1e0faf"
+]
+}

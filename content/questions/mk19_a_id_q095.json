@@ -1,0 +1,309 @@
+{
+"id":"mk19_a_id_q095",
+"number":95,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"99c2d3",
+"children":[
+"A 40-year-old man presents to the emergency department with a 2-day history of diarrhea occurring six times daily that developed 1 week after completing a course of amoxicillin-clavulanate for diverticulitis. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"423984",
+"children":[
+"On physical examination, temperature is 38.3 °C (100.9 °F); other vital signs are normal. Bowel sounds are present; palpation elicits tenderness but no guarding."
+]
+},
+{
+"type":"p",
+"hlId":"152c7c",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 17,000/µL (17 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.6 mg/dL (141 µmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"b90f74",
+"children":[
+"Stool testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous metronidazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral fidaxomicin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral vancomycin and rectal vancomycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tapered and pulsed vancomycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"42b35c",
+"children":[
+"Severe CDI is defined by a leukocyte count of 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater or a serum creatinine level of 1.5 mg/dL (133 µmol/L) or greater."
+]
+},
+{
+"type":"keypoint",
+"hlId":"51548e",
+"children":[
+"Oral fidaxomicin or vancomycin is recommended to treat an initial episode of nonsevere or severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8d0dcd",
+"children":[
+"This patient has an initial episode of severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection (CDI), which should be treated with oral fidaxomicin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Antibiotic use is the strongest risk factor for CDI. It is most highly associated with antimicrobial agents that have activity against anaerobic colonic flora but are not effective against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" (such as clindamycin). Antibiotic-associated diarrhea in these cases is thought to occur by suppression of the intestinal microbiota, with resultant overgrowth of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" organisms and production of toxin (toxins A and B). In all cases of CDI, the culprit antibiotic should be stopped if possible. All patients with confirmed CDI require antimicrobial treatment, but optimal management depends on whether the episode represents an initial infection or first or second recurrence and on the severity of disease (nonsevere, severe, fulminant). Severe CDI is defined by a leukocyte count of 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater or a serum creatinine level of 1.5 mg/dL (133 µmol/L) or greater. The 2021 Infectious Diseases Society of America and Society for Healthcare Epidemiology of America clinical practice guideline for CDI recommends either oral fidaxomicin (preferred) or oral vancomycin (alternative) for patients with nonsevere or severe CDI."
+]
+},
+{
+"type":"p",
+"hlId":"a8ce84",
+"children":[
+"Intravenous metronidazole monotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not an indicated treatment for any degree of CDI severity or initial or recurrent disease status. Intravenous metronidazole therapy combined with oral vancomycin is an indicated regimen for fulminant CDI which is associated with hypotension, shock, ileus, or megacolon. Patients with fulminant disease also warrant surgical evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"35211c",
+"children":[
+"Another option for fulminant CDI infection is combined oral vancomycin, intravenous metronidazole, and rectal vancomycin when ileus is present (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient does not have fulminant CDI; therefore, this combination therapy is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"158f0c",
+"children":[
+"Tapered and pulsed vancomycin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") consists of oral vancomycin, 125 mg four times daily for 10-14 days, then 125 mg twice daily for 7 days, then 125 mg once daily for 7 days, then 125 mg every 2 or 3 days for 2 to 8 weeks. Tapered and pulsed vancomycin therapy is an indicated therapeutic option for first and subsequent CDI recurrences if the initial episode was treated with standard therapy consisting of vancomycin or fidaxomicin."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_8",
+"objective":{
+"__html":"Treat a first episode of severe <i>Clostridioides difficile</i> infection."
+},
+"references":[
+[
+"Johnson S, Lavergne V, Skinner AM, et al. Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection in adults. Clin Infect Dis. 2021;73:755-757. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34492699",
+"target":"_blank"
+},
+"children":[
+"PMID: 34492699"
+]
+},
+" doi:10.1093/cid/ciab718"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":52,
+"C":27,
+"D":12,
+"E":0
+},
+"hlIds":[
+"99c2d3",
+"423984",
+"152c7c",
+"b90f74",
+"1054f1",
+"42b35c",
+"51548e",
+"8d0dcd",
+"a8ce84",
+"35211c",
+"158f0c"
+]
+}

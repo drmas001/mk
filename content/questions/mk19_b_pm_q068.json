@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_pm_q068",
+"number":68,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc8109",
+"children":[
+"An 84-year-old man is evaluated in the emergency department for presumed sepsis. He lives in a nursing home, and nurses noted that he was febrile and lethargic. Medical history and medications are not immediately available."
+]
+},
+{
+"type":"p",
+"hlId":"130ab7",
+"children":[
+"On physical examination, temperature is 39.3 °C (102.7 °F), blood pressure is 88/50 mm Hg, pulse rate is 116/min, and respiration rate is 26/min. Oxygen saturation is 95% breathing oxygen, 3 L/min by nasal cannula. The patient is confused but responds to voice commands. Cardiopulmonary examination reveals tachycardia and normal heart sounds. Rhonchi are auscultated over the left lower lobe."
+]
+},
+{
+"type":"p",
+"hlId":"b2ab33",
+"children":[
+"Crystalloid fluid resuscitation is initiated with a target of 30 mL/kg."
+]
+},
+{
+"type":"p",
+"hlId":"828b6e",
+"children":[
+"Complete blood count, metabolic panel, lactate, and coagulation studies are pending."
+]
+},
+{
+"type":"p",
+"hlId":"84d28b",
+"children":[
+"Blood cultures are obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b0475f",
+"children":[
+"Which of the following is the most appropriate immediate next management step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antibiotics"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intubation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Norepinephrine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ca2cc0",
+"children":[
+"Initiating fluid resuscitation, obtaining blood cultures, checking serum lactate level, and administering appropriate antibiotics is recommended within 1 hour of sepsis recognition."
+]
+},
+{
+"type":"keypoint",
+"hlId":"33b9c5",
+"children":[
+"In patients with sepsis, delays in administration of empiric antibiotics are associated with reduced patient survival."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"601822",
+"children":[
+"The most appropriate management for this patient is to start antibiotic therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient may have sepsis based on tachycardia, fever, and hypotension in the setting of a known or suspected infection. The diagnosis of septic shock may be confirmed by the results of laboratory studies and response to fluid resuscitation. In 2018 the Surviving Sepsis Campaign supported the development of separately created time-based performance improvement metrics to be achieved in the form of a sepsis “bundle” to be administered within 1 hour of sepsis recognition. The hour-1 bundle includes initiating fluid resuscitation, obtaining blood cultures, checking serum lactate level, and administering appropriate antibiotics. In this patient, fluid resuscitation has been initiated, blood cultures have been obtained, and serum lactate level is pending; the only other item in the bundle that needs to be addressed is the immediate administration of appropriate antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"4182eb",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is often indicated to identify the source of sepsis. This patient has rhonchi on examination, raising the possibility that pneumonia is the source of infection. However, obtaining a chest radiograph should not take priority over administering empiric antibiotics in this patient with presumed sepsis, because delays in administration reduce patient survival."
+]
+},
+{
+"type":"p",
+"hlId":"5ca8dd",
+"children":[
+"Indications for intubation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") include significant hypoxia, inability to ventilate properly, and airway compromise. Although this patient's respiration rate is elevated, he is not hypoxic and he has no indication of impending airway compromise or ventilatory failure. Therefore, intubation is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"ab5cb3",
+"children":[
+"In patients with suspected sepsis and hypotension, early resuscitation with 30 mL/kg of crystalloid solution is indicated and should be initiated as part of the hour-1 bundle. Vasopressor support is indicated if hypotension or organ perfusion persists following adequate fluid resuscitation. Norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the preferred vasopressor because of its ability to improve both vascular tone and myocardial performance without significantly increasing the risk of arrhythmias. In this patient, response to crystalloid resuscitation should be assessed before vasopressor support is provided."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3",
+"objective":{
+"__html":"Manage newly recognized sepsis with the hour-1 care bundle."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":14,
+"C":3,
+"D":3,
+"E":0
+},
+"hlIds":[
+"bc8109",
+"130ab7",
+"b2ab33",
+"828b6e",
+"84d28b",
+"b0475f",
+"ca2cc0",
+"33b9c5",
+"601822",
+"4182eb",
+"5ca8dd",
+"ab5cb3"
+]
+}

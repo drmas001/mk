@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_gm_q063",
+"number":63,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bd652e",
+"children":[
+"A 37-year-old man is evaluated during a pre-employment examination. He is starting a new job as a medical assistant in a primary care office. Within the past 2 years, he completed his hepatitis B vaccination and the measles, mumps, and rubella vaccine series and received the tetanus and diphtheria toxoids and COVID-19 vaccines. He received the influenza vaccine during the most recent influenza season. He has no medical conditions and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d70f08",
+"children":[
+"Laboratory studies are positive for the hepatitis B surface antibody and rubella and varicella IgG antibody."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"3dcf69",
+"children":[
+"Which of the following is the most appropriate vaccine to administer to this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis A vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Quadrivalent meningococcal conjugate vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No vaccines are indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"249273",
+"children":[
+"Health care workers are at increased risk for pertussis and should receive the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine regardless of when they received their last tetanus and diphtheria toxoids vaccine."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9c8c6e",
+"children":[
+"In addition to pertussis, health care workers are also at increased risk for influenza, hepatitis B, measles, mumps, rubella, and varicella viruses and should receive the appropriate vaccinations."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"24e5dc",
+"children":[
+"The most appropriate vaccine to administer to this health care worker is the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Health care workers are at increased risk for acquiring and transmitting pertussis and should receive a dose of the Tdap vaccine regardless of when they received their last tetanus and diphtheria toxoids (Td) vaccine. Because this patient received only a Td vaccine, a Tdap vaccine is required at this time. Health care workers are also at increased risk for infection with influenza, hepatitis B, measles, mumps, rubella, and varicella viruses; this patient was previously vaccinated for these viruses and has documented immunity to hepatitis B, rubella, and varicella."
+]
+},
+{
+"type":"p",
+"hlId":"6293f3",
+"children":[
+"Hepatitis A vaccination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated for this patient because health care workers are not considered to be at increased risk for hepatitis A virus infection unless working in high-risk venues. Hepatitis A vaccination is recommended for adults who request it or those at increased risk for infection or complications of infections, including travelers to endemic areas, individuals with chronic liver disease, men who have sex with men, users of illicit drugs, homeless persons, persons who conduct hepatitis A–related research, household or close contacts of children adopted from endemic areas, and those who work in settings of possible exposure (group homes, nonresidential day-care facilities for developmentally disabled persons, and health care programs serving patients with unhealthy drug use)."
+]
+},
+{
+"type":"p",
+"hlId":"44ad05",
+"children":[
+"Health care workers are not considered to be at increased risk for meningococcal disease, and thus the quadrivalent meningococcal conjugate vaccine (MenACWY) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated for this patient. The MenACWY vaccine is recommended for adults considered to be at increased risk, including first-year college students living in dormitories; travelers to endemic areas; microbiologists with ongoing exposure to ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria meningitidis"
+]
+},
+"; military recruits; those at increased risk because of an outbreak; and patients with anatomic or functional asplenia, complement deficiencies, or HIV infection."
+]
+},
+{
+"type":"p",
+"hlId":"a84b16",
+"children":[
+"Because health care workers are considered at increased risk for pertussis, not offering this the Tdap vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), regardless of when he received his last Td vaccine, is not the best strategy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_3",
+"objective":{
+"__html":"Manage vaccination of a health care worker."
+},
+"references":[
+[
+"Freedman MS, Bernstein H, Ault KA; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M20-8080",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:374-384. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33571011",
+"target":"_blank"
+},
+"children":[
+"PMID: 33571011"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":8,
+"C":14,
+"D":63,
+"E":0
+},
+"hlIds":[
+"bd652e",
+"d70f08",
+"3dcf69",
+"249273",
+"9c8c6e",
+"24e5dc",
+"6293f3",
+"44ad05",
+"a84b16"
+]
+}

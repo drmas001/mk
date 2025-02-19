@@ -1,0 +1,185 @@
+{
+"id":"mk19_qq_q194",
+"number":194,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 194",
+"stimulus":[
+{
+"type":"p",
+"hlId":"65bd39",
+"children":[
+"A 67-year-old postmenopausal woman is evaluated after routine screening for osteoporosis with dual-energy x-ray absorptiometry. The femur neck T-score was −2.9. On further questioning, the patient reports an unintentional 2.7-kg (6-lb) weight loss over the past year and heat intolerance but no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"32a068",
+"children":[
+"Physical examination is unremarkable. BMI is 29. Complete blood count, metabolic profile, and serum calcium and 25-hydroxyvitamin D levels are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8362a2",
+"children":[
+"Which of the following tests is indicated?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone-specific alkaline phosphatase and N-terminal telopeptide of type I collagen testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Serum parathyroid hormone level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serum protein electrophoresis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum thyroid-stimulating hormone level"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fb1dc6",
+"children":[
+"Appropriate laboratory testing for most patients with newly diagnosed osteoporosis includes complete blood count; metabolic profile; and 25-hydroxyvitamin D, thyroid-stimulating hormone, and urine calcium levels."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"92e12e",
+"children":[
+"Measuring this patient's serum thyroid-stimulating hormone (TSH) level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate next step before initiating pharmacologic therapy for osteoporosis. Although osteoporosis in postmenopausal women is most commonly associated with nonmodifiable risk factors (age, sex, menopausal status, height, and build), it is always important to assess for possible secondary causes of bone loss that might be amenable to treatment, particularly if there is clinical suspicion in a specific patient. Appropriate laboratory testing for most patients with newly diagnosed osteoporosis includes complete blood count (to evaluate for malignancy, including multiple myeloma); metabolic profile (calcium levels, liver and kidney function); and 25-hydroxyvitamin D, TSH, and urine calcium (hypercalciuria) levels. This patient's unintentional weight loss and heat intolerance may be symptoms of hyperthyroidism, which might contribute to her osteoporosis and should be treated along with therapy for her osteoporosis."
+]
+},
+{
+"type":"p",
+"hlId":"3549f2",
+"children":[
+"Both serum and urine markers of bone turnover, such as bone-specific alkaline phosphatase and N-terminal telopeptide of type I collagen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are released from osteoclasts and osteoblasts as part of bone metabolism. However, they are not used for clinical decision making in most patients with osteoporosis, primarily because of the significant variability in the different measures within individual patients or among different patients, which makes standardization of results difficult. Therefore, use of bone turnover markers is typically limited to research settings or the management of specific patients who have not responded to usual therapy for osteoporosis."
+]
+},
+{
+"type":"p",
+"hlId":"0051e3",
+"children":[
+"Hyperparathyroidism should always be considered as a possible secondary cause of bone loss. However, this patient's serum calcium and 25-hydroxyvitamin D levels are normal. Therefore, hyperparathyroidism would be highly unlikely, and checking her parathyroid hormone level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"397943",
+"children":[
+"Serum protein electrophoresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be obtained in patients with osteoporosis if multiple myeloma is suspected. Multiple myeloma should be considered in patients with suggestive findings, such as hypercalcemia, unexplained elevation of serum creatinine, anemia, or elevated serum protein level. There is no indication that this patient has multiple myeloma, and serum protein electrophoresis is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1",
+"objective":{
+"__html":"Identify secondary causes of osteoporosis."
+},
+"references":[
+[
+"Ensrud KE, Crandall CJ. Osteoporosis. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201708010",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2017;167:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28761958",
+"target":"_blank"
+},
+"children":[
+"PMID: 28761958"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"65bd39",
+"32a068",
+"8362a2",
+"fb1dc6",
+"92e12e",
+"3549f2",
+"0051e3",
+"397943"
+]
+}

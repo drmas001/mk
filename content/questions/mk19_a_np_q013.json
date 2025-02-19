@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_np_q013",
+"number":13,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d024ac",
+"children":[
+"A 32-year-old woman is referred by the public health department for elevated blood pressure measurements during pregnancy. She is at 24 weeks' gestation of her first pregnancy. Records document blood pressure measurements averaging 140/90 mm Hg before pregnancy. She did not have routine medical care before her pregnancy. Her only medication is a prenatal vitamin."
+]
+},
+{
+"type":"p",
+"hlId":"8b9cef",
+"children":[
+"On physical examination, blood pressure is 154/92 mm Hg; other vital signs are normal. The patient has a gravid uterus consistent with her stage of pregnancy. There is trace ankle edema bilaterally. Funduscopic, cardiac, and neurologic examinations are normal."
+]
+},
+{
+"type":"p",
+"hlId":"607fa2",
+"children":[
+"Laboratory studies are normal; urinalysis shows no proteinuria."
+]
+},
+{
+"type":"p",
+"hlId":"96ef5f",
+"children":[
+"ECG is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"19a609",
+"children":[
+"Which of the following is the most appropriate management for this patient's hypertension?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Early delivery of the fetus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start hydrochlorothiazide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start labetalol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clinical monitoring"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d641cd",
+"hvc":true,
+"children":[
+"For pregnant women with chronic hypertension, guidelines recommend only treating persistent systolic ≥160 mm Hg or diastolic ≥110 mm Hg blood pressure in the absence of end-organ damage to avoid overtreatment of hypertension and associated fetal risk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"954697",
+"hvc":true,
+"children":[
+"Treatment of chronic hypertension (<160/110 mm Hg) during pregnancy is not associated with improved fetal outcomes."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"119522",
+"children":[
+"No further management other than clinical monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is needed for this pregnant patient with chronic hypertension. Chronic hypertension is defined as hypertension starting before pregnancy or before 20 weeks of gestation. According to the American College of Cardiology/American Heart Association guidelines, and adopted by the American College of Obstetricians and Gynecologists (ACOG), the diagnosis of hypertension before pregnancy is based on systolic blood pressure >130 mm Hg and diastolic blood pressure >80 mm Hg. This patient is at 24 weeks' gestation and has no proteinuria or other evidence of end-organ damage; the diagnosis is most consistent with chronic hypertension. A 2014 Cochrane systematic review of 49 trials (4723 women) concluded that treatment of mild-to-moderate hypertension reduced the risk for developing severe hypertension but had no effect on the incidence of preeclampsia, preterm birth, fetal death, fetal growth restriction, or any other measured outcome. Antihypertensive treatment is not necessary at this time. For pregnant women with chronic hypertension, the 2019 ACOG Taskforce on Hypertension in Pregnancy recommends only treating persistent systolic blood pressure ≥160 mm Hg or diastolic ≥110 mm Hg to avoid overtreatment of hypertension and associated fetal risk. In the setting of comorbidities or underlying impaired kidney function, treating at lower blood pressure thresholds may be appropriate. Blood pressure goals with medications are 120-159/80-109 mm Hg. First-line agents are labetalol, nifedipine, and methyldopa."
+]
+},
+{
+"type":"p",
+"hlId":"d732bb",
+"children":[
+"Early delivery of the fetus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be recommended if the patient had preeclampsia, which is defined by new-onset hypertension that occurs after 20 weeks' gestation associated proteinuria or end-organ damage. The absence of proteinuria and end-organ involvement in this patient is not consistent with preeclampsia."
+]
+},
+{
+"type":"p",
+"hlId":"8b3c32",
+"children":[
+"Although thiazide diuretics such as hydrochlorothiazide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used in pregnancy, this patient's blood pressure does not warrant treatment at this time. Furthermore, diuretics are considered second-line antihypertensive agents during pregnancy and should be used with caution in pregnant patients, as they may induce oligohydramnios."
+]
+},
+{
+"type":"p",
+"hlId":"40531c",
+"children":[
+"Labetalol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and other antihypertensive agents are not indicated, as treatment of chronic hypertension in pregnancy is not needed if the patient's blood pressure is <160/110 mm Hg and there is no evidence of end-organ damage, as seen in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_np_s11_2_1",
+"objective":{
+"__html":"Manage chronic hypertension in a pregnant patient."
+},
+"references":[
+[
+"ACOG practice bulletin no. 203: chronic hypertension in pregnancy. Obstet Gynecol. 2019;133:e26-e50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30575676",
+"target":"_blank"
+},
+"children":[
+"PMID: 30575676"
+]
+},
+" doi:10.1097/AOG.0000000000003020"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":4,
+"C":67,
+"D":28,
+"E":0
+},
+"hlIds":[
+"d024ac",
+"8b9cef",
+"607fa2",
+"96ef5f",
+"19a609",
+"d641cd",
+"954697",
+"119522",
+"d732bb",
+"8b3c32",
+"40531c"
+]
+}

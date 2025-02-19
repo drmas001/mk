@@ -1,0 +1,223 @@
+{
+"id":"mk19_a_np_q030",
+"number":30,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b97562",
+"children":[
+"A 62-year-old man is evaluated in the emergency department for abrupt onset of sharp chest pain radiating to his upper back that started 90 minutes ago. Medical history includes difficult-to-control hypertension, hyperlipidemia, and type 2 diabetes mellitus. Medications are metformin, empagliflozin, rosuvastatin, amlodipine, hydrochlorothiazide, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"0acd43",
+"children":[
+"On physical examination, blood pressure is 210/120 mm Hg in the right arm and 180/100 mm Hg in the left arm, pulse rate is 118/min, respiration rate is 20/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. The patient is diaphoretic and in distress. Cardiac examination reveals tachycardia with a 3/6 diastolic murmur heard along the upper left sternal border. Lungs are clear to auscultation. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"493c87",
+"children":[
+"Emergency CT imaging confirms the diagnosis of ascending aortic dissection."
+]
+},
+{
+"type":"p",
+"hlId":"9d63eb",
+"children":[
+"Referral for emergency surgical consultation is obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78e525",
+"children":[
+"Which of the following is the most appropriate initial intravenous treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Esmolol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hydralazine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nicardipine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nitroprusside"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"95cffd",
+"children":[
+"Intravenous short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-selective adrenergic receptor blockers are an initial first-line treatment to rapidly lower blood pressure in patients with hypertensive emergency and aortic dissection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b7ca86",
+"children":[
+"In adults with a compelling condition (such as aortic dissection, severe preeclampsia or eclampsia, or pheochromocytoma crisis), systolic blood pressure should be reduced to <140 mm Hg during the first hour and to <120 mm Hg in aortic dissection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a5e9f4",
+"children":[
+"The most appropriate initial treatment is to administer intravenous (IV) esmolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a hypertensive emergency with a type A aortic dissection involving the ascending aorta. For hypertensive emergency with evidence of end-organ damage, blood pressure (BP) should be rapidly lowered using IV short-acting agents. Esmolol is a β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-selective adrenergic receptor blocker with a 1- to 2-minute onset of action. Esmolol can rapidly reduce heart rate and BP, thereby reducing aortic wall sheer stress and limiting the propagation of the dissection. The 2017 American College of Cardiology/American Heart Association BP guideline recommends that for adults with a compelling condition (such as aortic dissection, severe preeclampsia or eclampsia, or pheochromocytoma crisis), systolic BP should be reduced to <140 mm Hg during the first hour and to <120 mm Hg in aortic dissection. Referral for emergency surgery should be considered in all patients with type A aortic dissection given the very high mortality rate associated with this condition."
+]
+},
+{
+"type":"p",
+"hlId":"c5894e",
+"children":[
+"Hydralazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can increase myocardial contractility and is not the first-line treatment in this case."
+]
+},
+{
+"type":"p",
+"hlId":"28a066",
+"children":[
+"Treatment with an IV rapidly acting calcium channel blocker such as nicardipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or with a vasodilator such as nitroprusside (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be initiated before β-blockade. In the absence of β–blockade, vasodilator therapy induces reflex activation of the sympathetic nervous system, resulting in tachycardia and enhanced ventricular contraction, which increases aortic wall sheer stress. Following effective β-blockade, vasodilator therapy can be initiated to reduce the systolic BP to <120 mm Hg."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_13",
+"objective":{
+"__html":"Treat a hypertensive emergency with aortic dissection."
+},
+"references":[
+[
+"Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2018;71:e127-e248. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29146535",
+"target":"_blank"
+},
+"children":[
+"PMID: 29146535"
+]
+},
+" doi:10.1016/j.jacc.2017.11.006."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":67,
+"B":1,
+"C":11,
+"D":20,
+"E":0
+},
+"hlIds":[
+"b97562",
+"0acd43",
+"493c87",
+"9d63eb",
+"78e525",
+"95cffd",
+"b7ca86",
+"a5e9f4",
+"c5894e",
+"28a066"
+]
+}

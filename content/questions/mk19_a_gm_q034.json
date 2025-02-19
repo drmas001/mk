@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_gm_q034",
+"number":34,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"145d08",
+"children":[
+"A 68-year-old man is evaluated for an episode of syncope and repeated episodes of near-fainting when standing and working on his tractor. Current medical problems are hypertension and dyslipidemia. Medications are chlorthalidone, lisinopril, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"ecdc2e",
+"children":[
+"On physical examination, vital signs are normal. Supine blood pressure is 124/78 mm Hg, and pulse rate is 76/min. After the patient stands for 3 minutes, standing blood pressure is 88/68 mm Hg, and pulse rate is 94/min. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adjust dosage of antihypertensive medications"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Midodrine administration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thigh-high compression garments"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tilt-table testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"51f987",
+"hvc":true,
+"children":[
+"The most common causes of orthostatic hypotension are autonomic failure, hypovolemia, medications, and aging."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cffd73",
+"hvc":true,
+"children":[
+"Treatment of medication-induced orthostatic syncope entails decreasing or stopping the offending agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d82816",
+"children":[
+"The most appropriate management is adjusting the antihypertensive medication dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in this patient with orthostatic syncope. The most common causes of orthostatic syncope are autonomic failure, hypovolemia, medications, and aging. The American Heart Association (AHA)/American College of Cardiology (ACC)/Heart Rhythm Society (HRS) syncope guideline recommends assessment for orthostatic hypotension in all patients with syncope. Orthostatic hypotension is defined as a drop in systolic blood pressure of 20 mm Hg or greater or a drop in diastolic blood pressure of 10 mm Hg or greater upon assuming an upright posture. Immediate orthostatic hypotension is a transient blood pressure decrease within 15 seconds after standing. Classic orthostatic hypotension, as manifested by this patient, is characterized by a sustained reduction of systolic blood pressure of 20 mm Hg or greater or diastolic blood pressure of 10 mm Hg or greater within 3 minutes of standing. Delayed orthostatic hypotension occurs after 3 minutes of standing with a more gradual drop in blood pressure until the threshold for orthostatic hypotension is reached. The risk for medication-related syncope increases with age. Several drug classes are implicated, including diuretics, vasodilators, venodilators, negative chronotropes, and sedatives. The AHA/ACC/HRS syncope guideline recommends reducing or withdrawing medications that may cause hypotension. Careful monitoring following medication adjustment is important because supine hypertension may result from antihypertensive medication reduction or withdrawal."
+]
+},
+{
+"type":"p",
+"hlId":"0acc18",
+"children":[
+"Midodrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a vasoactive drug, improves symptoms of neurogenic orthostatic hypotension, but its effectiveness may be limited by supine hypertension and urinary retention. This patient most likely has medication-related orthostatic hypotension, and reducing or withdrawing his antihypertensive medications will be the best initial management step."
+]
+},
+{
+"type":"p",
+"hlId":"863332",
+"children":[
+"Neurogenic orthostatic hypotension is a subtype of orthostatic hypotension caused by dysfunction of the autonomic nervous system (central or peripheral). Parkinson disease and Lewy body dementia are common causes of central neurogenic orthostatic syncope, whereas peripheral autonomic neuropathies due to diabetes mellitus and amyloidosis are the more common causes of peripheral neurogenic orthostatic syncope. Compressive garments, such as thigh-high compression hose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or garments that also bind the lower abdomen, are recommended for some patients with neurogenic orthostatic hypotension. Adjustment of antihypertensive medications is the preferred initial management step for this patient with orthostatic hypotension."
+]
+},
+{
+"type":"p",
+"hlId":"dd4bae",
+"children":[
+"Tilt-table testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended for patients suspected of having delayed orthostatic hypotension when the initial evaluation is not diagnostic. The diagnosis of orthostatic hypotension is confirmed in this patient, and tilt-table testing is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9_4",
+"objective":{
+"__html":"Treat medication-related orthostatic syncope."
+},
+"references":[
+[
+"Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2017;136:e25-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28280232",
+"target":"_blank"
+},
+"children":[
+"PMID: 28280232"
+]
+},
+" doi:10.1161/CIR.0000000000000498"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":79,
+"B":3,
+"C":13,
+"D":5,
+"E":0
+},
+"hlIds":[
+"145d08",
+"ecdc2e",
+"cb2b54",
+"51f987",
+"cffd73",
+"d82816",
+"0acc18",
+"863332",
+"dd4bae"
+]
+}

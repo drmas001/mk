@@ -1,0 +1,182 @@
+{
+"id":"mk19_a_gm_q006",
+"number":6,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9c00a2",
+"children":[
+"A retrospective case-control study at a single rheumatology center analyzed a new treatment for catastrophic antiphospholipid syndrome. The study included 50 women who received the new treatment and were matched against 50 women who received usual care. The patients receiving the new treatment were twice as likely to survive (OR, 0.51; 95% CI, 0.42-0.67). The statistical analysis controlled for insurance status and age group."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"77c666",
+"children":[
+"Which of the following is the most important threat to the validity of this study's conclusions?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Confounding bias"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lack of statistical power"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Patients lost to follow-up"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rarity of catastrophic antiphospholipid syndrome"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"83e6cd",
+"children":[
+"All observational studies are subject to confounding, which occurs when factors other than the treatments being studied are independently associated with the end point being assessed."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6169b7",
+"children":[
+"The most important threat to the validity of this study's conclusions is confounding by factors not included in the analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Confounding occurs when factors other than the treatments being studied are independently associated with the participants being studied and the end point being assessed. For example, in this study, confounding could have been introduced if another condition likely to influence survival, such as the presence of kidney disease, determined whether patients received the new treatment or usual care. Although design strategies, such as matching, and statistical techniques, such as stratified analyses or regression techniques, can account for known or anticipated confounders, no design strategy or analysis technique can remove the effect of unanticipated or unknown confounders. All observational study designs are thus vulnerable to this threat to validity. Only random assignment of the intervention being studied (i.e., a randomized controlled study design) protects against both known and unknown confounders."
+]
+},
+{
+"type":"p",
+"hlId":"1046e4",
+"children":[
+"Statistical power (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") refers to the ability of a particular study to detect a difference if one exists. Power depends on the size of the difference to be detected and the sample size, or number of participants being studied. Lack of statistical power is a concern when the results fail to achieve statistical significance. This was not the case in this study."
+]
+},
+{
+"type":"p",
+"hlId":"5f8242",
+"children":[
+"Loss to follow-up (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a threat to the validity of prospective study designs, particularly those with long follow-up times or long time to the outcome produced by the treatment or exposure to the studied risk factor. For observational study designs, the prospective cohort study with long follow-up time is most vulnerable to this threat. A retrospective study design would not be vulnerable because all patients receiving the treatment or exposed to the risk are identified and included in the study."
+]
+},
+{
+"type":"p",
+"hlId":"2acbe3",
+"children":[
+"The case-control study is an observational study in which participants are initially classified or enrolled according to the presence of the condition being studied—in this case, a treatment. Those with the condition are compared against participants who do not have the condition or, in this case, the treatment. Because sample size is a critical determinant of study power, or the ability to detect differences between groups, a case-control study design is an optimal way to collect enough cases of a rare disorder to enable adequate power to allow meaningful conclusions to be drawn (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_3_2",
+"objective":{
+"__html":"Recognize confounding bias in a case-control study design."
+},
+"references":[
+[
+"Metlay JP, Armstrong KA. Annals clinical decision making: weighing evidence to inform clinical decisions. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-1941",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:599-603. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32311735",
+"target":"_blank"
+},
+"children":[
+"PMID: 32311735"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":36,
+"B":36,
+"C":3,
+"D":25,
+"E":0
+},
+"hlIds":[
+"9c00a2",
+"77c666",
+"83e6cd",
+"6169b7",
+"1046e4",
+"5f8242",
+"2acbe3"
+]
+}

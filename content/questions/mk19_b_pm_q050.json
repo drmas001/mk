@@ -1,0 +1,528 @@
+{
+"id":"mk19_b_pm_q050",
+"number":50,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"49b386",
+"children":[
+"A 58-year-old man hospitalized 5 days ago for a COPD exacerbation is now evaluated for discharge. He required bilevel positive airway pressure for 1 day because of acute hypercapnic and hypoxic respiratory failure. He was treated with prednisone and levofloxacin. This is his second hospitalization for a COPD exacerbation in the past 6 months and the fourth course of prednisone for his COPD in that time. Before hospitalization, his baseline function was limiting dyspnea after walking a few minutes. Medications are inhaled fluticasone furoate-umeclidinium-vilanterol."
+]
+},
+{
+"type":"p",
+"hlId":"701dbe",
+"children":[
+"On physical examination, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. BMI is 29. He coughs frequently during examination, and faint expiratory wheezing is present in the upper lobes of the lungs. Cardiac examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ad001",
+"children":[
+"Arterial blood gas studies (at time of discharge):"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8cf049",
+"class":"cell text l",
+"children":[
+"7.39"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bac772",
+"class":"cell text l",
+"children":[
+"43 mm Hg (5.7 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"eb52ac",
+"class":"cell text l",
+"children":[
+"75 mm Hg (10.0 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"f3748d",
+"children":[
+"Prehospitalization spirometry showed a postbronchodilator reduced FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 42% of predicted."
+]
+},
+{
+"type":"p",
+"hlId":"65edde",
+"children":[
+"Inhaler technique is reviewed. He is enrolled in a supervised pulmonary rehabilitation program. Immunizations are up to date."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Nocturnal noninvasive bilevel positive airway pressure ventilation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Roflumilast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Supplemental oxygen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f0d5e3",
+"children":[
+"Roflumilast, a selective phosphodiesterase-4 inhibitor, can reduce symptoms and exacerbations in patients with severe COPD who have a chronic bronchitis phenotype or frequent exacerbations."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6836a0",
+"children":[
+"The most appropriate treatment is roflumilast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has COPD with Global Initiative for Chronic Obstructive Lung Disease (GOLD) class D severity based on his high symptom burden and exacerbations. He is already receiving combination inhaled therapy with a long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist, long-acting muscarinic antagonist, and inhaled glucocorticoid. Roflumilast, a selective phosphodiesterase-4 inhibitor, can reduce symptoms and exacerbations in patients with severe COPD who have a chronic bronchitis phenotype or frequent exacerbations. Given this patient's clinical picture, he would likely benefit from the addition of roflumilast. Azithromycin, a macrolide antibiotic, can also be used for patients with COPD and persistent exacerbations, especially in those who are current nonsmokers. There are no head-to-head comparisons of roflumilast with azithromycin. The choice of medication is determined by the medication's side effects, drug interactions, and contraindications."
+]
+},
+{
+"type":"p",
+"hlId":"956a03",
+"children":[
+"Nocturnal noninvasive ventilation with bilevel positive airway pressure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be prescribed for patients with concomitant obstructive sleep apnea or chronic hypercapnic respiratory failure (P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 52 mm Hg [6.9 kPa] or higher). In select populations, it may improve hospital-free survival. This patient does not meet the criteria for nocturnal noninvasive ventilation."
+]
+},
+{
+"type":"p",
+"hlId":"2f6c23",
+"children":[
+"For patients with COPD, supplemental oxygen therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") improves quality of life and decreases mortality in patients with an arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 55 mm Hg (7.3 kPa) or less or an oxygen saturation as measured by pulse oximetry of 88% or less. For patients with COPD who also have cor pulmonale, heart failure, or erythrocytosis, these thresholds are lowered to a P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 59 mm Hg (7.8 kPa) or less or oxygen saturation of 89% or less. However, this patient does not meet these criteria."
+]
+},
+{
+"type":"p",
+"hlId":"48007b",
+"children":[
+"Because this patient will likely benefit from the addition of roflumilast, discharging him with no additions to his treatment regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_9_2_5",
+"objective":{
+"__html":"Treat severe COPD with roflumilast."
+},
+"references":[
+[
+"Labaki WW, Rosenberg SR. Chronic obstructive pulmonary disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC202008040",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;173:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32745458",
+"target":"_blank"
+},
+"children":[
+"PMID: 32745458"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":66,
+"C":6,
+"D":15,
+"E":0
+},
+"hlIds":[
+"49b386",
+"701dbe",
+"4ad001",
+"397dff",
+"8cf049",
+"dd372e",
+"bac772",
+"acab5a",
+"eb52ac",
+"f3748d",
+"65edde",
+"78ff87",
+"f0d5e3",
+"6836a0",
+"956a03",
+"2f6c23",
+"48007b"
+]
+}

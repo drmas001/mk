@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q121",
+"number":121,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 121",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4a89a1",
+"children":[
+"A 52-year-old man is evaluated for 3 days of fever, headache, myalgia, dry cough, and pharyngitis. He has no other medical problems and takes no medications. Influenza A is prevalent. He is up to date on all vaccinations, including influenza."
+]
+},
+{
+"type":"p",
+"hlId":"e12651",
+"children":[
+"He does not appear significantly ill. Temperature is 38.2 °C (100.8 °F). All other physical examination findings, including vital signs, are normal. Testing for SARS-CoV-2 is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Baloxavir"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Influenza polymerase chain reaction testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oseltamivir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c8dcd3",
+"children":[
+"Guidelines recommend initiating antiviral treatment as soon as possible for adults with documented or suspected influenza who are hospitalized and for outpatients with severe or progressive illness regardless of illness duration."
+]
+},
+{
+"type":"keypoint",
+"hlId":"558bec",
+"children":[
+"Influenza treatment may also be considered for otherwise healthy outpatients if started within 48 hours, household contacts of severely immunosuppressed patients, and health care workers who care for patients at high risk for developing complications from influenza."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6d7e72",
+"children":[
+"No testing or treatment is necessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). During seasonal influenza activity, testing for influenza should occur in patients at high risk who present with influenza-like illness, pneumonia, or nonspecific respiratory illness if the testing result will influence clinical management. Other outpatient candidates for testing include those who present with acute onset of respiratory symptoms and either exacerbation of chronic medical conditions or known complications of influenza, such as pneumonia, if the testing result will influence clinical management. During times of influenza activity, testing for influenza at hospital admission is recommended for all patients with acute respiratory infection and in patients with acute worsening of chronic cardiopulmonary disease. In all cases, treatment decisions should not be delayed pending confirmatory results. When influenza is prevalent, influenza testing is not needed for otherwise healthy outpatients with compatible findings."
+]
+},
+{
+"type":"p",
+"hlId":"60b523",
+"children":[
+"The Infectious Diseases Society of America guidelines recommend initiating antiviral treatment as soon as possible for adults with documented or suspected influenza who are hospitalized and for outpatients with severe or progressive illness regardless of illness duration. Treatment should also be initiated as soon as possible for all other patients at high risk for influenza-related complications. Treatment may also be considered for otherwise healthy outpatients if started within 48 hours, household contacts of severely immunosuppressed patients, and health care workers who care for patients at high risk for developing complications from influenza."
+]
+},
+{
+"type":"p",
+"hlId":"b12c5b",
+"children":[
+"Baloxavir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a polymerase acidic endonuclease inhibitor that may be given as single-dose therapy for uncomplicated influenza. It must be started within 48 hours of symptom onset and seems to be as effective as a 5-day course of oseltamivir. In 2019, baloxavir was FDA approved for the treatment of patients at high risk for influenza complications. This patient is presenting 3 days into his illness, 24 hours beyond the time frame in which treatment might be considered for an otherwise healthy person with mild disease."
+]
+},
+{
+"type":"p",
+"hlId":"5e371d",
+"children":[
+"This patient has classic symptoms of influenza. He has mild illness and is otherwise healthy. Therefore, testing for influenza (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") will not alter his management, and treatment with either oseltamivir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or zanamivir is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_1_3",
+"objective":{
+"__html":"Manage influenza virus infection in a healthy patient."
+},
+"references":[
+[
+"Uyeki TM, Bernstein HH, Bradley JS, et al. Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenza. Clin Infect Dis. 2019;68:895-902. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30834445",
+"target":"_blank"
+},
+"children":[
+"PMID: 30834445"
+]
+},
+" doi:10.1093/cid/ciy874"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"4a89a1",
+"e12651",
+"cb2b54",
+"c8dcd3",
+"558bec",
+"6d7e72",
+"60b523",
+"b12c5b",
+"5e371d"
+]
+}

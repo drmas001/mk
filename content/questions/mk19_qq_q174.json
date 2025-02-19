@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q174",
+"number":174,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 174",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8300a8",
+"children":[
+"A 58-year-old man is hospitalized for recent-onset, severe, nontraumatic low back pain. He had localized prostate cancer treated with radiation 6 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"5b4944",
+"children":[
+"On physical examination, vital signs are normal. There is lower spine point tenderness approximately at the level of the iliac crests. There is no saddle anesthesia; lower extremity muscle strength and deep tendon reflexes are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prostate-specific antigen, serum",
+"children":[
+"Prostate-specific antigen"
+]
+},
+" level is 50 ng/mL (50 µg/L). Spine radiograph shows an osteoblastic metastasis at L4. Bone scan and CT scan of the chest, abdomen, and pelvis show no other metastases."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abiraterone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Androgen deprivation therapy and enzalutamide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Docetaxel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Finasteride"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"70d007",
+"children":[
+"In castrate-sensitive metastatic prostate cancer, androgen deprivation therapy is used in combination with docetaxel, abiraterone/prednisone, enzalutamide, or apalutamide depending on the volume of disease and prior treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"86ebd0",
+"children":[
+"The most appropriate treatment is androgen deprivation therapy (ADT) in combination with enzalutamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has recurrent prostate cancer after treatment for localized prostate cancer. The mainstay of treatment for metastatic prostate cancer is ADT, provided by orchiectomy (surgical castration) or chemical castration. Surgical castration ADT provides cost-effective and rapid results and is widely used internationally. Chemical castration ADT is as effective as bilateral orchiectomy in treating patients with metastatic disease but is often preferred by patients in the United States. However, it requires repeated intramuscular or subcutaneous administration of hormonal agents. Chemical castration may be accomplished with a GnRH receptor agonist (leuprolide, goserelin, triptorelin, histrelin) or antagonist (degarelix). GnRH receptor agonists often initially trigger a surge of testosterone that can cause transient tumor growth; thereafter, the pituitary–testes axis is disrupted, which decreases testosterone levels and reduces the size of the tumor. The GnRH receptor antagonist degarelix lowers testosterone quickly and does not cause tumor flare. Oral antiandrogens, such as bicalutamide and flutamide, directly block androgen receptors on cancer cells and are provided in combination with a GnRH agonist or antagonist. When used with a GnRH agonist, antiandrogens should be initiated first to protect against the transient testosterone surge caused by initiation of GnRH agonist therapy. In this patient with a lumbar spinal metastasis, ADT is indicated with surgical castration or a GnRH agonist or GnRH antagonist combined with an antiandrogen. Men with clinical metastatic disease who respond to ADT are considered to have castrate-sensitive prostate cancer. In this population, ADT can be combined with docetaxel, abiraterone/prednisone, enzalutamide, or apalutamide to improve survival. The choice of which specific agent to add to ADT is dependent on the volume of disease and prior treatment regimens. In a patient with metastatic disease following local therapy, such as radiation therapy, enzalutamide or apalutamide is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"41a568",
+"children":[
+"The CYP17 inhibitor abiraterone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used in castrate (ADT)-sensitive prostate cancer. It is not given before ADT. Abiraterone blocks androgen synthesis, not only in the testes but also in tumor tissue and the adrenal glands. It is indicated as an option in combination with ADT in de novo metastatic androgen-sensitive prostate cancer but not as monotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"6bddae",
+"children":[
+"Chemotherapy with docetaxel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in addition to ADT increases overall survival in patients with de novo metastatic disease and those with high-volume disease (visceral metastases and/or four or more bone metastases). It is not indicated as initial therapy, however, in patients with low-volume metastatic disease, such as this one."
+]
+},
+{
+"type":"p",
+"hlId":"e33b07",
+"children":[
+"5α-Reductase inhibitors, such as finasteride (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), or dutasteride are primarily used to treat benign prostatic hyperplasia. They have no role in the treatment of metastatic prostate cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_1_4",
+"objective":{
+"__html":"Treat metastatic prostate cancer to bone."
+},
+"references":[
+[
+"Virgo KS, Rumble RB, de Wit R, et al. Initial management of noncastrate advanced, recurrent, or metastatic prostate cancer: ASCO guideline update. J Clin Oncol. 2021;39:1274-1305. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33497248",
+"target":"_blank"
+},
+"children":[
+"PMID: 33497248"
+]
+},
+" doi:10.1200/JCO.20.03256"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"8300a8",
+"5b4944",
+"473b62",
+"70d007",
+"86ebd0",
+"41a568",
+"6bddae",
+"e33b07"
+]
+}

@@ -1,0 +1,209 @@
+{
+"id":"mk19_a_id_q096",
+"number":96,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"45c6c2",
+"children":[
+"A 45-year-old woman is evaluated in the emergency department for a bite on her hand sustained several hours earlier; the bite is from a toddler in her day care class. Medical history is significant for type 2 diabetes and anaphylactic reaction to penicillin. She received the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (Tdap) 1 year ago. Medications are metformin and empagliflozin."
+]
+},
+{
+"type":"p",
+"hlId":"3d1cb2",
+"children":[
+"On physical examination, vital signs are normal. A few tiny puncture wounds with minimal erythema are noted over the dorsum of the left hand."
+]
+},
+{
+"type":"p",
+"hlId":"064463",
+"children":[
+"Radiographs of the left hand reveal no evidence of a foreign body, gas, or bone involvement. The wound is irrigated and evaluated by a surgical hand expert, and no surgical intervention is required."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin-clavulanate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Levofloxacin and metronidazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tetanus vaccination"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e0c7ac",
+"children":[
+"Antibiotic prophylaxis is indicated following a human bite involving the hand or in immunocompromised patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"90bfc3",
+"children":[
+"In patients not allergic to penicillin requiring antibiotic prophylaxis following a human bite, amoxicillin-clavulanate is preferred."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f42d5c",
+"children":[
+"This patient has diabetes mellitus and is immunocompromised, so she should receive antibiotic prophylaxis with levofloxacin and metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") following a human bite to the hand. Oral amoxicillin-clavulanate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), the preferred agent, is contraindicated because of her history of anaphylaxis following penicillin use. The microbiology associated with the human mouth and skin includes aerobic bacteria such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Eikenella corrodens"
+]
+},
+", streptococci, and staphylococci as well as anaerobic bacteria, including Fusobacterium, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Peptostreptococcus"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Prevotella"
+]
+},
+" species. Alternative regimens with similar coverage to amoxicillin-clavulanate include trimethoprim-sulfamethoxazole, a fluoroquinolone like ciprofloxacin or levofloxacin, or doxycycline plus clindamycin or metronidazole. Monotherapy with moxifloxacin, which has anaerobic activity, can be considered as well. Although antibiotic prophylaxis is not routinely recommended (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") after a human bite, this patient's immunocompromised state and the involvement of the hand increase the risk of infection and warrant antibiotic prophylaxis. In addition to immunocompromise and hand involvement, other factors that increase the risk of infection include wounds with associated edema or lymphatic or venous insufficiency; crush injury; wounds involving a joint or bone; deep puncture wounds; or wounds involving the face or genitalia. A 3- to 5-day course of antibiotic prophylaxis is recommended. Surgical evaluation for possible debridement and removal of foreign bodies is particularly important with hand bites. Radiographs may demonstrate fracture, other bony involvement, or foreign bodies."
+]
+},
+{
+"type":"p",
+"hlId":"e4f32d",
+"children":[
+"Human bite wounds are prone to tetanus infection, but this patient received the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine (Tdap) 1 year ago and does not require repeat immunization now. In addition to assessment for tetanus prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), evaluation of human bites for potential exposure to hepatitis B and C viruses, HIV, and other bodily fluid–transmitted pathogens is warranted."
+]
+}
+],
+"relatedSection":"mk19_a_id_s2_6",
+"objective":{
+"__html":"Treat a human bite in a patient who is allergic to penicillin."
+},
+"references":[
+[
+"Stevens DL, Bisno AL, Chambers HF, et al; Infectious Diseases Society of America. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59:e10-52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24973422",
+"target":"_blank"
+},
+"children":[
+"PMID: 24973422"
+]
+},
+" doi:10.1093/cid/ciu444"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":25,
+"C":2,
+"D":30,
+"E":0
+},
+"hlIds":[
+"45c6c2",
+"3d1cb2",
+"064463",
+"1054f1",
+"e0c7ac",
+"90bfc3",
+"f42d5c",
+"e4f32d"
+]
+}

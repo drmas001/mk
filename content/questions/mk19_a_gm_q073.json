@@ -1,0 +1,269 @@
+{
+"id":"mk19_a_gm_q073",
+"number":73,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 73",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0d0535",
+"children":[
+"A 29-year-old woman requests advice after receipt of a direct-to-consumer genetic test result that included ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" gene analysis. She has no breast symptoms and has not undergone any previous breast cancer screening. Her mother was diagnosed with breast cancer at age 48 years and ovarian cancer at age 60 years; she died at age 62 years. The patient's sister was recently diagnosed with breast cancer at age 41 years and is still living. The genetic test report is negative for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+" variants. Family members have not undergone genetic testing."
+]
+},
+{
+"type":"p",
+"hlId":"90475d",
+"children":[
+"On physical examination, vital signs, breast examination, and other findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clinical <i>BRCA</i> genetic test"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Genetic counseling"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the breast"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reassurance and no further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"821c9c",
+"hvc":true,
+"children":[
+"Positive results on direct-to-consumer genetic tests should be confirmed with a clinical test before being used for medical decision making."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6c8c35",
+"hvc":true,
+"children":[
+"Clinical genetic testing is indicated for patients with a personal or family history suggesting inherited cancer susceptibility."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7b9cca",
+"children":[
+"The most appropriate management of this patient's breast cancer risk is genetic counseling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Direct-to-consumer (DTC) genomic testing is a commercial service that allows patients to obtain genetic information without a physician order or prescription. DTC tests are not diagnostic tests. The FDA recommends confirmation with clinical testing before DTC test results are used in patient care. Clinical genetic testing is indicated for patients with a personal or family history suggesting inherited cancer susceptibility; however, patients should undergo genetic counseling first to guide decision making. The basic components of genetic counseling are education on the condition being tested, including the natural history, possible treatments, and preventive measures; the risks and benefits of testing; alternatives to testing, including the option to forgo testing; the implications for the patient and family members; and costs, including the possibility of denial of coverage for disability, long-term care, and life insurance."
+]
+},
+{
+"type":"p",
+"hlId":"7d3bff",
+"children":[
+"This patient's family history strongly suggests a hereditary breast cancer syndrome, such as a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" mutation, but clinical practice guidelines recommend that genetic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") begin with a relative affected by a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+"-associated cancer. In this case, testing would ideally begin with the patient's sister. In addition, this patient should undergo genetic counseling before testing is pursued."
+]
+},
+{
+"type":"p",
+"hlId":"6d9164",
+"children":[
+"MRI of the breast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be a reasonable screening modality in selected patients with a high lifetime risk for breast cancer, such as those with known ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" mutations, starting at age 25 years. It is not a substitute for genetic counseling and, potentially, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" gene testing."
+]
+},
+{
+"type":"p",
+"hlId":"fd22fb",
+"children":[
+"Some commercially available DTCs examine for only 3 of more than 1000 known ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" variants. Results on DTCs should be confirmed with a clinical test before being used for medical decision making. In this case, relying on a negative DTC result to conclude that no further testing is needed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be inappropriate."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s11_3_2",
+"objective":{
+"__html":"Obtain genetic counseling for a patient who is at high risk for breast cancer."
+},
+"references":[
+[
+"Owens DK, Davidson KW, Krist AH, et al; US Preventive Services Task Force. Risk assessment, genetic counseling, and genetic testing for BRCA-related cancer: US Preventive Services Task Force recommendation statement. JAMA. 2019;322:652-65. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31429903",
+"target":"_blank"
+},
+"children":[
+"PMID: 31429903"
+]
+},
+" doi:10.1001/jama.2019.10987"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":15,
+"B":65,
+"C":5,
+"D":15,
+"E":0
+},
+"hlIds":[
+"0d0535",
+"90475d",
+"cb2b54",
+"821c9c",
+"6c8c35",
+"7b9cca",
+"7d3bff",
+"6d9164",
+"fd22fb"
+]
+}

@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_nr_q044",
+"number":44,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dfd370",
+"children":[
+"A 66-year-old man is evaluated for abnormal behavior during sleep. His wife reports he has a prolonged history of nocturnal flailing and jerking movements and of shouting, punching, and jumping out of bed. The patient does not recall these movements and reports no discomfort. He also has a history of urinary incontinence and falls. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c1e057",
+"children":[
+"On physical examination, vital signs are normal. He has reduced facial expression and bilateral rigidity. His gait is unsteady, with postural imbalance during turns, and he cannot walk in tandem. Other neurologic examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"bdb630",
+"children":[
+"A polysomnogram reveals complex movements associated with preserved muscle tone during rapid-eye-movement sleep."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypnic myoclonus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Periodic limb movement disorder"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rapid eye movement sleep behavior disorder"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Restless legs syndrome"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vivid dreams"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"80e2c6",
+"children":[
+"Rapid eye movement sleep behavior disorder is caused by loss of normal paralysis during the rapid eye movement phase of sleep, leading to violent movements and shouting."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7676e1",
+"children":[
+"RBD has a strong association with neurodegenerative disorders including Parkinson disease, multiple system atrophy, and dementia with Lewy bodies and may precede these disorders by decades."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8ba422",
+"children":[
+"The most likely diagnosis is rapid eye movement sleep behavior disorder (RBD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This movement disorder is caused by loss of normal paralysis during the rapid eye movement phase of sleep, leading to violent movements and shouting as patients respond to their dreams. Patients are often unaware of the movements; these are typically reported by their bed partners. RBD is sometimes brought to attention as a result of injuries sustained by patients or their bed partners during sleep. RBD has a strong association with neurodegenerative disorders caused by synuclein accumulation, including Parkinson disease, multiple system atrophy, and dementia with Lewy bodies, and may precede these disorders by decades. In this patient, the report by his wife, sleep study findings, and clinical evidence of a parkinsonian disorder (likely multiple system atrophy given the associated ataxia and dysautonomia) suggest RBD."
+]
+},
+{
+"type":"p",
+"hlId":"572908",
+"children":[
+"Hypnic myoclonus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or sleep starts are physiologic rapid jerky movements experienced at sleep onset. Movements consist of simple jerks and may be associated with a subjective sense of falling from a height."
+]
+},
+{
+"type":"p",
+"hlId":"f076d1",
+"children":[
+"Periodic limb movement disorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a common movement disorder characterized by brief triple flexion movements of the legs that repeat in 20-second periods during sleep. This disorder is not associated with vocalization or complex behavior, such as punching or jumping out of bed, and thus is not a likely diagnosis in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"ea5209",
+"children":[
+"Restless legs syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unlikely because the patient reports no subjective discomfort or making voluntary movements to relieve an urge. In addition, restless leg symptoms occur at night and with rest but when patients are awake."
+]
+},
+{
+"type":"p",
+"hlId":"263304",
+"children":[
+"Vivid dreams (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") are not associated with involuntary movements (acting out) during sleep. Vivid dreams are experienced sporadically by most people. In a patient with RBD, vivid dreams may trigger a pronounced or violent reaction as patients act out an escape or fight."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_3_6",
+"objective":{
+"__html":"Diagnose rapid eye movement sleep behavior disorder."
+},
+"references":[
+[
+"Dauvilliers Y, Schenck CH, Postuma RB, et al. REM sleep behaviour disorder. Nat Rev Dis Primers. 2018;4:19. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30166532",
+"target":"_blank"
+},
+"children":[
+"PMID: 30166532"
+]
+},
+" doi:10.1038/s41572-018-0016-5"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":14,
+"C":61,
+"D":3,
+"E":3
+},
+"hlIds":[
+"dfd370",
+"c1e057",
+"bdb630",
+"413696",
+"80e2c6",
+"7676e1",
+"8ba422",
+"572908",
+"f076d1",
+"ea5209",
+"263304"
+]
+}

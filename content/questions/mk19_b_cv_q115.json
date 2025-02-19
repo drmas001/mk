@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q115",
+"number":115,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 115",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b4f535",
+"children":[
+"A 57-year-old man is evaluated in the emergency department for sudden-onset anterior chest pain. He has hypertension, hyperlipidemia, and coronary artery disease. Medications are hydrochlorothiazide, aspirin, amlodipine, olmesartan, labetalol, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"b960b8",
+"children":[
+"On physical examination, blood pressure is 172/64 mm Hg in the right arm and 135/63 mm Hg in the left arm, pulse rate is 110/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" with the patient breathing ambient air is 96%. Cardiac examination reveals a grade 3/6 decrescendo diastolic murmur heard at the left sternal border."
+]
+},
+{
+"type":"p",
+"hlId":"dea972",
+"children":[
+"A serum high-sensitivity cardiac troponin measurement is indeterminate."
+]
+},
+{
+"type":"p",
+"hlId":"08712d",
+"children":[
+"An ECG shows sinus tachycardia and lateral ST-segment depressions. Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"576331",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coronary artery catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Invasive aortography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography and CT angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"258076",
+"children":[
+"Echocardiography and CT angiography of the aorta are indicated in patients with suspected aortic dissection associated with acute aortic regurgitation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c94950",
+"children":[
+"Aortic dissection with aortic root involvement, including acute aortic regurgitation, constitutes a surgical emergency."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3bedef",
+"children":[
+"The most appropriate diagnostic tests are transthoracic echocardiography and CT angiography of the aorta (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient's presenting symptom of acute anterior chest pain suggests acute coronary syndrome, pulmonary embolism, or aortic dissection. In this patient, aortic dissection is most likely because of the significant differences in systolic blood pressures between the right and left arms. In addition, the grade 3/6 decrescendo diastolic murmur at the left sternal border indicates the presence of aortic regurgitation (AR). In the setting of suspected aortic dissection, the presence of new or worsened AR suggests aortic root involvement, which constitutes a surgical emergency. Transthoracic echocardiography or transesophageal echocardiography (TEE) is indicated to confirm the presence, severity, and etiology of acute AR. CT angiography is indicated in patients with acute aortic dissection because it is highly accurate and rapidly available. TEE may be used when CT imaging is unavailable and is helpful in assessment of aortic valve function before and after the surgical intervention."
+]
+},
+{
+"type":"p",
+"hlId":"09390f",
+"children":[
+"Acute coronary syndrome, particularly ST-elevation myocardial infarction and high-risk non–ST-elevation myocardial infarction, may be managed with cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). However, aortic dissection is a much more likely diagnosis based on the presence of blood pressure discrepancy in the arms, AR murmur, nondiagnostic ECG findings, and indeterminate troponin measurement. Cardiac catheterization is relatively contraindicated in acute aortic dissection because of the possibility of propagating the dissection. Furthermore, coronary artery catheterization will not address aortic dissection. Thus, if aortic dissection is being considered, CT angiography is preferred to coronary artery catheterization."
+]
+},
+{
+"type":"p",
+"hlId":"8a7219",
+"children":[
+"In patients in whom aortic dissection is suspected, CT angiography is preferred to invasive aortography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Aortography is less sensitive than either TEE or CT angiography in the diagnosis of aortic dissection. Invasive aortography should be considered only when the diagnosis cannot be determined by noninvasive imaging."
+]
+},
+{
+"type":"p",
+"hlId":"6e4eb4",
+"children":[
+"Magnetic resonance angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is rarely used in the acute setting to diagnose aortic dissection because of patient instability and the need for prolonged scanning times. Limited availability on an emergency basis also makes it less desirable than CT angiography."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_3_1",
+"objective":{
+"__html":"Diagnose acute aortic regurgitation complicating ascending aortic dissection."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":8,
+"C":7,
+"D":64,
+"E":0
+},
+"hlIds":[
+"b4f535",
+"b960b8",
+"dea972",
+"08712d",
+"576331",
+"258076",
+"c94950",
+"3bedef",
+"09390f",
+"8a7219",
+"6e4eb4"
+]
+}

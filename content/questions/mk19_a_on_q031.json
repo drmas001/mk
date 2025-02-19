@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_on_q031",
+"number":31,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cec74f",
+"children":[
+"A 37-year-old woman is evaluated during a routine examination. Medical history is significant for Hodgkin lymphoma, diagnosed at age 29 years and treated with combination chemotherapy and mantle irradiation. There have been no recurrences of the Hodgkin lymphoma. Two years ago, she developed hypothyroidism. Her only medication is levothyroxine."
+]
+},
+{
+"type":"p",
+"hlId":"138e72",
+"children":[
+"On physical examination, vital signs are normal. There are no breast masses or nodules and no axillary adenopathy. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c42541",
+"children":[
+"Which of the following screening tests should be done now?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Mammography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mammography and MRI of the breast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the breast"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ultrasonography of the breast"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ac3dd",
+"children":[
+"For women survivors of Hodgkin lymphoma who received chest irradiation, annual breast cancer screening is recommended to begin 8 to 10 years posttherapy or at age 40 years, whichever comes first."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0de616",
+"children":[
+"Breast MRI is recommended as an adjunct to mammography for breast cancer screening in Hodgkin lymphoma survivors who were treated with chest irradiation between ages 10 and 30 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"91a8a3",
+"children":[
+"This patient had previous mantle irradiation treatment for Hodgkin lymphoma (HL), and she should have both mammography and breast MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The second leading cause of death for survivors of HL are second cancers. Most second cancers are solid tumors, and among those, the most frequent are breast, lung, and colon cancers. The increased risk begins about 5 to 8 years posttreatment but continues to increase for at least 20 years. Secondary malignancies may develop in cancer survivors either from previous carcinogen exposure or late effects of previous cancer treatments. Women receiving chest irradiation for HL have a markedly increased risk of breast cancer, especially if they received treatment when younger than 35 years, with an increased risk beginning within 8 years of treatment. Annual breast cancer screening is recommended to begin 8 to 10 years post-therapy or at age 40 years, whichever comes first. The National Comprehensive Cancer Network (NCCN) guideline recommends breast MRI in addition to mammography for women who received irradiation to the chest between the ages of 10 and 30 years. The NCCN also recommends consideration of referral to a breast specialist."
+]
+},
+{
+"type":"p",
+"hlId":"c8bc61",
+"children":[
+"Screening mammography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is necessary for early detection of breast cancer in patients treated for HL with mantle irradiation, but a prospective trial demonstrated that the use of MRI, in addition to screening mammograms, identified additional breast cancers when compared with mammography alone in these high-risk patients."
+]
+},
+{
+"type":"p",
+"hlId":"32eb95",
+"children":[
+"Breast MRI alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), like mammography alone, is insufficient in a patient with previous mantle irradiation for HL. Studies have shown that mammography and MRI complement each other and provide superior early detection of such disease."
+]
+},
+{
+"type":"p",
+"hlId":"b3c2a2",
+"children":[
+"Ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the preferred method of evaluation of a breast mass in women younger than 30 years, in whom mammography has low sensitivity due to dense breast tissue. This patient, who is over 30 years of age, does not have a breast mass, so ultrasonography would not be appropriate. Ultrasonography is not recommended as the breast cancer screening strategy after chest irradiation."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_2",
+"objective":{
+"__html":"Screen for breast cancer in a patient with previous chest irradiation."
+},
+"references":[
+[
+"Eichenauer DA, Aleman BMP, André M, et al; ESMO Guidelines Committee. Hodgkin lymphoma: ESMO clinical practice guidelines for diagnosis, treatment and follow-up. Ann Oncol. 2018;29:iv19-iv29. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29796651",
+"target":"_blank"
+},
+"children":[
+"PMID: 29796651"
+]
+},
+" doi:10.1093/annonc/mdy080"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":45,
+"B":31,
+"C":16,
+"D":8,
+"E":0
+},
+"hlIds":[
+"cec74f",
+"138e72",
+"c42541",
+"2ac3dd",
+"0de616",
+"91a8a3",
+"c8bc61",
+"32eb95",
+"b3c2a2"
+]
+}

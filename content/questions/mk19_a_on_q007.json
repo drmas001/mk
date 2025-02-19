@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_on_q007",
+"number":7,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cea668",
+"children":[
+"A 54-year-old woman is evaluated for a several-month history of increasing abdominal girth. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"9f6b3d",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals ascites. Pelvic examination and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"91f1a2",
+"children":[
+"Complete blood count and comprehensive metabolic profile are normal."
+]
+},
+{
+"type":"p",
+"hlId":"49aec8",
+"children":[
+"Contrast-enhanced CT scan of the chest, abdomen, and pelvis reveals ascites with areas of peritoneal and omental thickening consistent with metastatic cancer. No abnormalities of the liver are noted, and the adnexa appear normal."
+]
+},
+{
+"type":"p",
+"hlId":"329de2",
+"children":[
+"Paracentesis is performed, and cytology reveals adenocarcinoma."
+]
+},
+{
+"type":"p",
+"hlId":"72e0b6",
+"children":[
+"Surgical debulking of the peritoneal tumor is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"36ebca",
+"children":[
+"Which of the following is the most appropriate adjuvant management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemotherapy with a gastrointestinal cancer regimen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chemotherapy with ovarian cancer regimen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Immunotherapy with a programmed death receptor 1 inhibitor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Total abdominal irradiation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fbf6c0",
+"children":[
+"In women with metastatic cancer of unknown primary, breast examination and mammography should be done to search for breast cancer, and a gynecologic evaluation should be performed to look for ovarian cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0de792",
+"children":[
+"Women who have adenocarcinoma with abdominal carcinomatosis and ascites should be presumptively treated for ovarian cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cfcd58",
+"children":[
+"Chemotherapy with an ovarian cancer regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate adjuvant management for this patient. The source of cancer in some patients presenting with metastatic cancer is never identified. This group of patients is classified as having cancer of unknown primary (CUP). On identification of metastatic cancer, a full medical history and physical examination should be obtained. In female patients, breast examination and mammography should be done to search for a breast primary cancer, and a gynecologic evaluation should be performed to look for an ovarian primary. Imaging studies typically include contrast-enhanced CT of the chest, abdomen, and pelvis. For patients with CUP, the identification of a favorable prognostic subgroup allows selection of specific surgical, radiation, or chemotherapy to which patients are more likely to respond. The patient is a woman with CUP who presents with ascites and abdominal carcinomatosis. Although this patient does not have visible abnormalities in her ovaries on CT and no indication of a primary tumor site, she should be presumptively treated for ovarian cancer, which includes debulking the peritoneal tumor followed by chemotherapy, usually with a platinum-based agent and a taxane."
+]
+},
+{
+"type":"p",
+"hlId":"3be6df",
+"children":[
+"For a patient with substantial evidence of gastrointestinal tract involvement, such as anemia and blood in the stools, endoscopic search for a gastrointestinal primary would be appropriate, and a gastrointestinal cancer regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be appropriate for palliation."
+]
+},
+{
+"type":"p",
+"hlId":"d89dc6",
+"children":[
+"Immune checkpoint inhibitors, such as programmed death receptor 1 inhibitors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are active in certain types of cancers, such as melanoma, kidney, and lung cancers, but are not part of the routine management of CUP site."
+]
+},
+{
+"type":"p",
+"hlId":"7d27cf",
+"children":[
+"Total abdominal irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for adenocarcinoma is not a reasonable option because the radiation tolerance of the small intestines and kidneys is low, and such treatment would therefore cause unacceptable toxicity."
+]
+}
+],
+"relatedSection":"mk19_a_on_s10_3_3",
+"objective":{
+"__html":"Treat cancer of unknown origin with features suggesting an ovarian primary."
+},
+"references":[
+[
+"Qaseem A, Usman N, Jayaraj JS, et al. Cancer of unknown primary: a review on clinical guidelines in the development and targeted management of patients with the unknown primary site. Cureus. 2019;11:e5552. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31695975",
+"target":"_blank"
+},
+"children":[
+"PMID: 31695975"
+]
+},
+" doi:10.7759/cureus.5552"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":69,
+"C":14,
+"D":3,
+"E":0
+},
+"hlIds":[
+"cea668",
+"9f6b3d",
+"91f1a2",
+"49aec8",
+"329de2",
+"72e0b6",
+"36ebca",
+"fbf6c0",
+"0de792",
+"cfcd58",
+"3be6df",
+"d89dc6",
+"7d27cf"
+]
+}

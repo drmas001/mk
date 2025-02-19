@@ -1,0 +1,260 @@
+{
+"id":"mk19_b_en_q084",
+"number":84,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f7dfd",
+"children":[
+"A 48-year-old woman is evaluated during routine follow-up examination. She has type 2 diabetes mellitus and obesity. She reports hypoglycemia occurring approximately twice per week before lunch. The patient is motivated to lose weight. She has started a morning exercise program and is now walking 3 miles daily. Medications are empagliflozin, glipizide, liraglutide, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"ce6987",
+"children":[
+"On physical examination, vital signs are normal. BMI is 32."
+]
+},
+{
+"type":"p",
+"hlId":"db2c25",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 6.3% and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of higher than 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"39154a",
+"children":[
+"Which of the following medications should be discontinued?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Empagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glipizide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liraglutide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metformin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cc54c8",
+"children":[
+"Clinicians should consider de-intensifying pharmacologic therapy in patients with type 2 diabetes mellitus who achieve hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" levels lower than 6.5%."
+]
+},
+{
+"type":"keypoint",
+"hlId":"38f711",
+"children":[
+"Sulfonylureas stimulate insulin secretion regardless of glycemic status and commonly cause hypoglycemia and are associated with weight gain."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"666c4d",
+"children":[
+"The most appropriate management of hypoglycemia for this patient is to stop glipizide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The American Diabetes Association recommends a patient-centered approach to guide the choice of pharmacologic agents. In patients without cardiovascular disease or at high risk for cardiovascular disease, heart failure, or chronic kidney disease, the choice of a second or third agent to add to metformin is not evidence-based. Instead, drug choice is based on avoidance of adverse effects, particularly hypoglycemia and weight gain, cost, and patient preferences. Treatment regimens must be continuously reviewed for efficacy, adverse effects, and patient burden. Sulfonylureas stimulate insulin secretion regardless of glycemic status, and they often cause hypoglycemia and are associated with weight gain. Also, because this patient is motivated to exercise and lose weight and her hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" is at target, the need for four-drug therapy for type 2 diabetes mellitus is unlikely. Clinicians should consider de-intensifying pharmacologic therapy in patients with type 2 diabetes who achieve hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" levels lower than 6.5%. In this patient, stopping glipizide is the best option to prevent recurrence of hypoglycemia and to facilitate weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"679430",
+"children":[
+"Empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a sodium-glucose cotransporter 2 inhibitor. It is an effective treatment for type 2 diabetes and carries a low risk of hypoglycemia because of its insulin-independent mechanism of action. The medication also leads to modest weight reduction. Discontinuing glipizide is a better choice to reduce both weight and risk of hypoglycemia; however, cost and insurance formulary restrictions can be barriers."
+]
+},
+{
+"type":"p",
+"hlId":"a049ff",
+"children":[
+"Liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a glucagon-like peptide receptor agonist, is effective in the treatment of type 2 diabetes, has a low risk of hypoglycemia, and is associated with weight loss. For this patient, however, it is preferable to discontinue glyburide rather than liraglutide. Cost and insurance formulary restrictions can be barriers to use of liraglutide."
+]
+},
+{
+"type":"p",
+"hlId":"dcb836",
+"children":[
+"Metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is first-line treatment for type 2 diabetes, whereas sulfonylureas such as glipizide have largely fallen from favor with preference instead for other agents that result in improved clinical outcomes. Furthermore, metformin is weight neutral and does not cause hypoglycemia."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_7_1",
+"objective":{
+"__html":"Manage medication-related hypoglycemia."
+},
+"references":[
+[
+"American Diabetes Association. 9. Pharmacologic approaches to glycemic treatment: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S111-S124. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298420",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298420"
+]
+},
+" doi:10.2337/dc21-S009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":85,
+"C":9,
+"D":3,
+"E":0
+},
+"hlIds":[
+"5f7dfd",
+"ce6987",
+"db2c25",
+"39154a",
+"cc54c8",
+"38f711",
+"666c4d",
+"679430",
+"a049ff",
+"dcb836"
+]
+}

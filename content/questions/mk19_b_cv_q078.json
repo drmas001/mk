@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_cv_q078",
+"number":78,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"129a19",
+"children":[
+"A 72-year-old man is evaluated in the emergency department for sudden-onset anterior chest pain radiating to his back. He has no history of heart murmur or aortic disease. He has hypertension treated with chlorthalidone and valsartan."
+]
+},
+{
+"type":"p",
+"hlId":"95c879",
+"children":[
+"On physical examination, blood pressure is 182/54 mm Hg in the right arm and 125/63 mm Hg in the left arm. There is a grade 2/6 decrescendo diastolic murmur heard at the left sternal border. Central venous pressure is elevated, and there are crackles at the lung bases."
+]
+},
+{
+"type":"p",
+"hlId":"cc6332",
+"children":[
+"Chest radiograph shows pulmonary edema and a widened mediastinum. A CT angiogram shows an ascending aortic dissection extending into the aortic arch. An echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 55% and moderate aortic regurgitation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Emergent surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intra-aortic balloon counterpulsation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"22aeb5",
+"children":[
+"In patients with acute aortic regurgitation due to aortic dissection, emergent surgery, including aortic valve replacement or repair and aortic dissection repair, is indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e91691",
+"children":[
+"The most appropriate next step in management is emergent surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), including surgical aortic dissection repair and aortic valve replacement. Causes of acute aortic regurgitation include endocarditis, blunt trauma to the chest, iatrogenic causes (such as complications of balloon aortic valvuloplasty), and aortic dissection. Patients with acute aortic dissection without evidence of cardiogenic shock or acute aortic regurgitation should be treated with medical therapy to control heart rate and reduce blood pressure. Current guidelines recommend reducing systolic blood pressure to 120 mm Hg or less in the first hour in patients with aortic dissection. Pain control is often necessary and is best accomplished with intravenous opioids. Acute aortic regurgitation due to aortic dissection is a surgical emergency and is especially urgent in the presence of hypotension, pulmonary edema, or cardiogenic shock; it generally requires aortic valve repair or replacement, even for moderate aortic regurgitation."
+]
+},
+{
+"type":"p",
+"hlId":"a58e87",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be used to quantitate the degree of aortic regurgitation and to diagnose aortic dissection; however, in this case, further quantitation of aortic regurgitation and diagnosis of aortic dissection are unnecessary because the CT angiogram and echocardiogram have already established type A dissection with involvement of the aortic valve (aortic regurgitation)."
+]
+},
+{
+"type":"p",
+"hlId":"8bfd38",
+"children":[
+"Intra-aortic balloon counterpulsation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is contraindicated in patients with acute severe aortic regurgitation because inflation of the balloon in diastole would worsen the regurgitation severity."
+]
+},
+{
+"type":"p",
+"hlId":"4a4571",
+"children":[
+"Transesophageal echocardiography (TEE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") also may be used to qualitatively and quantitatively evaluate aortic regurgitation, but in cases of native valve aortic regurgitation, it typically does not provide additional information beyond that provided by transthoracic echocardiography. TEE would be useful if CT angiography were unavailable. In that case, TEE could provide information on both the aortic valve and the ascending aorta. TEE is also useful in intraoperative assessment of aortic valve function before and after the surgical intervention."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_3_2",
+"objective":{
+"__html":"Treat aortic dissection with emergent surgery."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":88,
+"C":5,
+"D":4,
+"E":0
+},
+"hlIds":[
+"129a19",
+"95c879",
+"cc6332",
+"cb2b54",
+"22aeb5",
+"e91691",
+"a58e87",
+"8bfd38",
+"4a4571"
+]
+}

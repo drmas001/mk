@@ -1,0 +1,320 @@
+{
+"id":"mk19_b_pm_q014",
+"number":14,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"18c2e2",
+"children":[
+"A 57-year-old woman is evaluated at a follow-up visit after discharge from the hospital for a COPD exacerbation. This was her third hospitalization for a COPD exacerbation in the past 6 months. She no longer smokes cigarettes. Medications are fluticasone-umeclidinium-vilanterol and albuterol inhalers. She has been adherent with her medication, has excellent inhaler technique, and continues to use home oxygen. Between exacerbations she has a cough productive of thin, colorless sputum."
+]
+},
+{
+"type":"p",
+"hlId":"254c31",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% breathing oxygen, 2 L/min by nasal cannula. Scattered expiratory wheezing is heard. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"b7a2b0",
+"children":[
+"Spirometry shows postbronchodilator reduced FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC ratio and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 45% of predicted."
+]
+},
+{
+"type":"p",
+"hlId":"56008f",
+"children":[
+"Influenza, COVID-19, and pneumococcal pneumonia vaccinations are brought up to date. The patient is enrolled in a pulmonary rehabilitation program. α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-Antitrypsin level is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6fda05",
+"children":[
+"Which of the following additional long-term treatments is most appropriate?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"α<sub>1</sub>-Antitrypsin augmentation therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metoprolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral <i>N</i>-acetylcysteine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3de309",
+"children":[
+"Long-term macrolide therapy reduces the frequency of exacerbations in patients with severe COPD and a history of frequent exacerbations."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"31b022",
+"children":[
+"Addition of azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may help decrease the frequency of this patient's COPD exacerbations. The patient's medications are a combination inhaled glucocorticoid, a long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist, and a long-acting antimuscarinic agent, as well as albuterol as needed. Macrolide antibiotics (e.g., azithromycin) have both inflammatory and antimicrobial effects. Long-term macrolide therapy reduces the frequency of exacerbations in patients with severe COPD and a history of frequent exacerbations. The major concern regarding long-term macrolide therapy is QT prolongation, but the risk for cardiovascular death associated with long-term azithromycin therapy is low (1 in 20,000) for patients without cardiac disease. Other standard interventions to reduce COPD exacerbations include smoking cessation, proper immunizations, and pulmonary rehabilitation programs. Roflumilast, a selective phosphodiesterase-4 inhibitor, can also be used for patients with COPD and frequent exacerbations. There are no head-to-head comparisons of roflumilast with azithromycin. The choice of medication is determined by the medication's side effects, drug interactions, and contraindications."
+]
+},
+{
+"type":"p",
+"hlId":"1e1664",
+"children":[
+"Antiproteases, including α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), typically inactivate proteases that may lead to permanent lung injury. In patients with α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin deficiency, replacing this enzyme with augmentation therapy may slow the progression of related emphysema. However, it is costly, does not decrease exacerbations or the rate of FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" decline, and is not effective for treatment of patients whose COPD is not caused by α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin deficiency."
+]
+},
+{
+"type":"p",
+"hlId":"3538e4",
+"children":[
+"Early observational studies suggested that metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") used by patients with COPD and cardiovascular disease might be responsible for a reduction in COPD exacerbations. A randomized study showed the reverse, with more patients in the metoprolol arm hospitalized for acute COPD exacerbation. There were no between-group differences in forced expiratory volume in 1 second (FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"), and the cause of the increased rate of COPD exacerbations remains unknown."
+]
+},
+{
+"type":"p",
+"hlId":"c2572e",
+"children":[
+"Mucolytic agents such as oral ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may relieve symptoms in patients who produce large volumes of sputum but have not been shown to decrease the frequency of COPD exacerbations. This patient has thin secretions and will not benefit from ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_9_2_7",
+"objective":{
+"__html":"Prevent COPD exacerbations with long-term azithromycin therapy."
+},
+"references":[
+[
+"Vermeersch K, Gabrovska M, Aumann J, et al. Azithromycin during acute chronic obstructive pulmonary disease exacerbations requiring hospitalization (BACE). A multicenter, randomized, double-blind, placebo-controlled trial. Am J Respir Crit Care Med. 2019;200:857-868. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31046405",
+"target":"_blank"
+},
+"children":[
+"PMID: 31046405"
+]
+},
+" doi:10.1164/rccm.201901-0094OC"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":77,
+"C":3,
+"D":12,
+"E":0
+},
+"hlIds":[
+"18c2e2",
+"254c31",
+"b7a2b0",
+"56008f",
+"6fda05",
+"3de309",
+"31b022",
+"1e1664",
+"3538e4",
+"c2572e"
+]
+}

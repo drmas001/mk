@@ -1,0 +1,215 @@
+{
+"id":"mk19_qq_q220",
+"number":220,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 220",
+"stimulus":[
+{
+"type":"p",
+"hlId":"36fde5",
+"children":[
+"A 75-year-old man is evaluated for a slowly growing tumor beneath his right eye that he first noticed 1 year ago. He is a retired postal worker and has had a walking route for 30 years. He typically wore a hat, a long-sleeved shirt, and trousers but did not use sunscreen protection."
+]
+},
+{
+"type":"p",
+"hlId":"9edab6",
+"children":[
+"The tumor is ",
+{
+"type":"figure-link",
+"target":"mk19_qq_mcq_f220",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_qq_mcq_f220"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Basal cell carcinoma, nodular type"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Basal cell carcinoma, superficial type"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Melanoma"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Squamous cell carcinoma"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"41abc6",
+"children":[
+"Nodular basal cell carcinoma classically presents as a pink, pearly, or translucent dome-shaped papule with telangiectatic vessels; as the lesion grows, the central area often ulcerates, creating the characteristic rolled edge."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6e2956",
+"children":[
+"Superficial basal cell carcinoma appears as a pink-red patch with or without scale; it may have a slight threadlike pearly rolled border."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2da28c",
+"children":[
+"This lesion is most consistent with basal cell carcinoma (BCC), nodular type (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), which classically presents as a pink, pearly, or translucent dome-shaped papule with telangiectatic vessels. As the lesion grows, the central area often ulcerates, creating the characteristic rolled edge. An important clue to the diagnosis of BCC is a changing skin lesion, including ulceration or erosion, that spontaneously bleeds. Flecks of melanin pigment are commonly present. A biopsy is necessary to confirm the diagnosis. BCC rarely metastasizes, but it can cause significant local tissue destruction."
+]
+},
+{
+"type":"p",
+"hlId":"ae3fb3",
+"children":[
+"BCC, superficial type (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), appears as a pink-red patch with or without scale. It may have a slight threadlike pearly rolled border. It can be confused for an actinic keratosis, squamous cell carcinoma in situ, or a patch of dermatitis such as psoriasis or nummular dermatitis. Superficial BCC tends to be a persistent solitary patch that does not respond to topical glucocorticoids. Biopsy provides definitive diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"a1e288",
+"children":[
+"Melanoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is classically a pigmented macule or plaque that is asymmetric and has irregular, notched, scalloped, or poorly defined borders. The lesion usually has shades of brown, tan, red, white, and blue-black, which makes it less likely as a diagnosis in this patient. Rarely, melanomas are not pigmented (amelanotic) and can mimic BCC, which is why a biopsy is necessary to confirm the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"97fcde",
+"children":[
+"Squamous cell carcinomas (SCCs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are hyperkeratotic, often ulcerated macules, papules, or nodules that commonly appear in areas of significant sun damage, such as the scalp, neck, and pinnae. SCCs tend to be scalier and grow more rapidly than BCCs and are occasionally tender. They lack the pearliness and telangiectasias seen in BCCs, making SCC unlikely in this patient. They are particularly common in the setting of immunosuppression. SCCs are more aggressive than BCCs and have a much higher tendency to metastasize."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_17_3",
+"objective":{
+"__html":"Diagnose basal cell carcinoma."
+},
+"references":[
+[
+"Kim DP, Kus KJB, Ruiz E. Basal cell carcinoma review. Hematol Oncol Clin North Am. 2019;33:13-24. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30497670",
+"target":"_blank"
+},
+"children":[
+"PMID: 30497670"
+]
+},
+" doi:10.1016/j.hoc.2018.09.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"mk19_qq_mcq_f220":{
+"id":"mk19_qq_mcq_f220",
+"number":220,
+"bookId":"qq",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d3c5a41fb19127a8118b3375b2d5d2da",
+"height":550,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"36fde5",
+"9edab6",
+"413696",
+"41abc6",
+"6e2956",
+"2da28c",
+"ae3fb3",
+"a1e288",
+"97fcde"
+]
+}

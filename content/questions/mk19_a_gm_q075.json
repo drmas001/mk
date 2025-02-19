@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gm_q075",
+"number":75,
+"bookId":"gm",
+"correctAnswer":"E",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"74697f",
+"children":[
+"A 60-year-old man is evaluated for a 3-week history of dry cough. The cough occurs intermittently during the day and seems to be more prominent in the evening. He has no other symptoms. Medical history is otherwise significant for hypertension, for which he takes chlorthalidone and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"5d7efa",
+"children":[
+"On physical examination, vital signs and other findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Guaifenesin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spirometry"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Stop lisinopril and begin amlodipine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c67d7",
+"children":[
+"Up to 20% of patients who take an ACE inhibitor develop a dry cough, and stopping the offending medication usually relieves the cough within days."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4d6248",
+"children":[
+"Substituting amlodipine for lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is the most appropriate next step in management for this patient with subacute cough (3-8 weeks' duration). Subacute cough is most often postinfectious after acute respiratory tract infection, particularly viral or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" infection. It is usually caused by postnasal drip or airway hyperreactivity. If infectious causes of subacute cough are excluded, the evaluation shifts to consideration of the causes of chronic cough. In the absence of additional respiratory or constitutional symptoms, this patient's cough is probably a side effect of the ACE inhibitor lisinopril. Up to 20% of patients who take an ACE inhibitor develop a dry cough. Cough onset is usually within 2 weeks of ACE inhibitor initiation, but onset can occur later in some patients. Cessation of lisinopril should relieve this patient's cough within days, although the cough can continue for weeks after the medication is stopped in a small number of patients. For patients who should continue therapy with a renin-angiotensin system inhibitor, an angiotensin receptor blocker (ARB), such as losartan, can be substituted. Even in patients who have previously developed cough due to ACE inhibitor therapy, the use of an ARB is not associated with an increased incidence of cough."
+]
+},
+{
+"type":"p",
+"hlId":"f95197",
+"children":[
+"Azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and erythromycin have antineutrophil and antimicrobial effects. These agents have been tested in patients with chronic productive cough with purulent sputum but are ineffective in treatment of subacute cough unrelated to bacterial infection."
+]
+},
+{
+"type":"p",
+"hlId":"a1c581",
+"children":[
+"For subacute cough, chest imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be reasonable if the cough continues for a few weeks after lisinopril is stopped. In patients with acute cough (<3 weeks' duration), accompanying symptoms that are mostly respiratory and constitutional suggest a lower respiratory tract infection, and chest radiography may be warranted. Pneumonia is an unlikely cause of subacute cough, and chest radiography is not indicated in the absence of abnormal vital signs or lung examination findings."
+]
+},
+{
+"type":"p",
+"hlId":"2fd56c",
+"children":[
+"Protussives, such as guaifenesin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), may enhance mucus clearance in some patients experiencing productive cough but would be unlikely to improve a dry cough associated with an ACE inhibitor."
+]
+},
+{
+"type":"p",
+"hlId":"f582f7",
+"children":[
+"Spirometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is useful for diagnosis of chronic cough (>8 weeks' duration) as part of a stepped approach to diagnosis. Spirometry could be considered if the cough persists after discontinuation of lisinopril."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_1",
+"objective":{
+"__html":"Treat cough secondary to ACE inhibitor therapy."
+},
+"references":[
+[
+"Irwin RS, French CL, Chang AB, et al; CHEST Expert Cough Panel. Classification of cough as a symptom in adults and management algorithms: CHEST guideline and expert panel report. Chest. 2018;153:196-209. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29080708",
+"target":"_blank"
+},
+"children":[
+"PMID: 29080708"
+]
+},
+" doi:10.1016/j.chest.2017.10.016"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":7,
+"C":1,
+"D":2,
+"E":89
+},
+"hlIds":[
+"74697f",
+"5d7efa",
+"1a5dcc",
+"3c67d7",
+"4d6248",
+"f95197",
+"a1c581",
+"2fd56c",
+"f582f7"
+]
+}

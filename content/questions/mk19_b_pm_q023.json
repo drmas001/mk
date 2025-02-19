@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q023",
+"number":23,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4691d3",
+"children":[
+"A 77-year-old man is evaluated in the hospital for shortness of breath, dry cough, pleuritic chest pain, and unintentional 9-kg (20-lb) weight loss over the past 6 months."
+]
+},
+{
+"type":"p",
+"hlId":"fa8535",
+"children":[
+"On physical examination, the patient appears chronically ill. Vital signs are normal. BMI is 19. There are decreased breath sounds at the right base."
+]
+},
+{
+"type":"p",
+"hlId":"13b574",
+"children":[
+"Chest radiograph demonstrates an apparent pleural effusion on the right side, but CT scan reveals a nodular pleura-based mass on the right side."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a80415",
+"children":[
+"Which of the following is the most likely occupational exposure?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Asbestos"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coal"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cobalt"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Silica"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"764dba",
+"children":[
+"Malignant mesothelioma is associated with occupational asbestos exposure in up to 70% of cases; the radiographic manifestation is usually a unilateral pleural effusion or pleural thickening."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9f54ea",
+"children":[
+"Mesothelioma can have a long latent period, extending into decades after asbestos exposure; therefore, it is essential to obtain a thorough employment history."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"905c2b",
+"children":[
+"The most likely occupational exposure is asbestos (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The most likely diagnosis in this patient is malignant mesothelioma, an aggressive tumor arising from mesothelial cells. Malignant mesothelioma is associated with occupational asbestos exposure in up to 70% of cases. Patients can have a long latent period, extending into decades, before manifesting the disease. Therefore, it is essential to obtain a thorough employment history, including the use of respiratory protective equipment at the workplace. Patients usually present with chest pain, dyspnea, cough, and restrictive gas exchange abnormality. The radiographic manifestation is usually a unilateral pleural effusion or pleural thickening. CT is the primary modality for the diagnosis and staging of malignant mesothelioma. Prognosis is poor, with most patients dying of local extension of the disease and respiratory failure within 12 to 18 months of diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"b89cfe",
+"children":[
+"Inhalation of coal dust (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may result in coal worker's pneumoconiosis. Coal dust may contain high concentrations of silica and silicates, which can result in a rapidly progressive lung disease with imaging characteristics that include honeycombing and ground-glass opacification. Inhalation of coal dust without substantial amounts of silica can result in nodular opacities and eventually massive pulmonary fibrosis. These findings are currently less common because of improved mine safety standards. Pleural effusions are not commonly seen."
+]
+},
+{
+"type":"p",
+"hlId":"7677f8",
+"children":[
+"Inhalation of hard metal dusts can result in pneumoconiosis. Exposure to the hard metal cobalt (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may occur during the processing of cobalt or the use of cobalt by diamond polishers. Cobalt exposure can result in accumulation of alveolar macrophages and multinucleated giant cells in the alveolar space, known as giant cell pneumonia. Chest imaging may show nodular and reticular opacities and small cystic spaces. Pleural effusions are uncommon."
+]
+},
+{
+"type":"p",
+"hlId":"593fca",
+"children":[
+"Silicosis describes a spectrum of fibrotic lung disease that results from exposure to silica dust (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Any occupation that disturbs the earth's crust involves potential risk. Workers in industries that cut or grind silica-containing materials, perform sandblasting, or conduct hydraulic fracking for natural gas are at risk. On chest imaging, the disease presents with ground-glass, nodular, interstitial, or fibrotic infiltrates. Pleural effusions are uncommon with silicosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s4_2",
+"objective":{
+"__html":"Diagnose asbestos-related lung disease."
+},
+"references":[
+[
+"Solbes E, Harper RW. Biological responses to asbestos inhalation and pathogenesis of asbestos-related benign and malignant disease. J Investig Med. 2018;66:721-727. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29306869",
+"target":"_blank"
+},
+"children":[
+"PMID: 29306869"
+]
+},
+" doi:10.1136/jim-2017-000628"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":94,
+"B":1,
+"C":2,
+"D":4,
+"E":0
+},
+"hlIds":[
+"4691d3",
+"fa8535",
+"13b574",
+"a80415",
+"764dba",
+"9f54ea",
+"905c2b",
+"b89cfe",
+"7677f8",
+"593fca"
+]
+}

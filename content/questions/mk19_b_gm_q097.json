@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_gm_q097",
+"number":97,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 97",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5370c9",
+"children":[
+"A 65-year old man is evaluated during a wellness visit. He has a 50–pack-year smoking history but quit smoking 7 years ago. He is up to date on colorectal and lung cancer screening. He prefers not to be screened for prostate cancer. He has not been screened for abdominal aortic aneurysm."
+]
+},
+{
+"type":"p",
+"hlId":"a0934e",
+"children":[
+"On physical examination, vital signs are normal. BMI is 35."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"73e94c",
+"children":[
+"Which of the following is the most appropriate screening test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal auscultation and palpation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Abdominal CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Magnetic resonance angiography of the abdomen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7f46fe",
+"children":[
+"According to the U.S. Preventive Services Task Force, one-time abdominal ultrasonography is the preferred screening modality for abdominal aortic aneurysm in men aged 65 to 75 years who have smoked at least five packs of cigarettes in their lifetime."
+]
+},
+{
+"type":"keypoint",
+"hlId":"90a84b",
+"children":[
+"The U.S. Preventive Services Task Force specifically recommends against routine screening for abdominal aortic aneurysm (AAA) in women who have never smoked and who have no family history of AAA."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4bb3a4",
+"children":[
+"The most appropriate screening test is abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has a 50–pack-year smoking history. According to the U.S. Preventive Services Task Force (USPSTF), one-time abdominal ultrasonography is the preferred screening modality for abdominal aortic aneurysm (AAA) in men aged 65 to 75 years who have smoked at least five packs of cigarettes in their lifetime (grade B). Screening with ultrasonography is noninvasive, is simple to perform, has high sensitivity (94%-100%) and specificity (98%-100%) for detecting AAA, and does not expose patients to radiation. Abdominal ultrasonography screening can also be performed selectively in men in the same age range who have not smoked but are at increased risk for peripheral vascular disease or who have a first-degree relative who had an AAA (grade C). The USPSTF assessed the benefits of screening for AAA in women aged 65 to 75 years who have ever smoked as uncertain and makes no recommendation regarding screening in this population (I statement). The USPSTF specifically recommends against routine screening in women who have never smoked and who have no family history of AAA (grade D). Smoking cessation and treatment of hypertension can prevent the development of aneurysmal disease."
+]
+},
+{
+"type":"p",
+"hlId":"2deca8",
+"children":[
+"Auscultation of the abdomen for bruits and palpation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to detect pulsatile enlargement of the aorta have low sensitivity (39%-68%) and specificity (75%) for AAA and are not recommended for screening, especially in patients with obesity, such as this patient with a BMI of 35."
+]
+},
+{
+"type":"p",
+"hlId":"586f1b",
+"children":[
+"Abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an accurate tool for identifying AAA; however, it is not recommended as a screening method because of the expense and potential for harms from radiation exposure. Once an AAA is identified, CT can provide precise information on its size and location, which is needed to plan surgery."
+]
+},
+{
+"type":"p",
+"hlId":"beb7aa",
+"children":[
+"Although magnetic resonance angiography (MRA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of the abdomen would detect an AAA, it is expensive and time consuming compared with ultrasonography. Like CT, MRA is typically reserved for surgical planning, if indicated."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_1_1",
+"objective":{
+"__html":"Screen for abdominal aortic aneurysm."
+},
+"references":[
+[
+"Owens DK, Davidson KW, Krist AH, et al; US Preventive Services Task Force. Screening for abdominal aortic aneurysm: US Preventive Services Task Force recommendation statement. JAMA. 2019;322:2211-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31821437",
+"target":"_blank"
+},
+"children":[
+"PMID: 31821437"
+]
+},
+" doi:10.1001/jama.2019.18928"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":7,
+"C":85,
+"D":1,
+"E":0
+},
+"hlIds":[
+"5370c9",
+"a0934e",
+"73e94c",
+"7f46fe",
+"90a84b",
+"4bb3a4",
+"2deca8",
+"586f1b",
+"beb7aa"
+]
+}

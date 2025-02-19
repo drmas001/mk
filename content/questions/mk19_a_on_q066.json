@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_on_q066",
+"number":66,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"088ff1",
+"children":[
+"A 48-year-old man is evaluated for an asymptomatic neck mass that developed 3 weeks ago. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4bb1ab",
+"children":[
+"On physical examination, vital signs are normal. There is a 2-cm firm, fixed, and nontender mass on the right side of his neck."
+]
+},
+{
+"type":"p",
+"hlId":"ef73cd",
+"children":[
+"Results of laboratory studies are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"03f1a5",
+"children":[
+"CT of the neck reveals a 2-cm partially cystic neck mass on the right side with suggestion of invasion into surrounding tissue."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fine-needle aspiration"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Observation for 1 month"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET/CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Removal of the mass"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"905b7f",
+"children":[
+"Fine-needle aspiration is the initial step in evaluating a neck mass suspicious for head and neck cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"52c5a4",
+"children":[
+"The most appropriate management at this time is fine-needle aspiration (FNA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient, who presents with a painless, rapidly developing, partially cystic neck mass, should be considered to have squamous cell carcinoma until proven otherwise. Based on this patient's presentation, the most appropriate initial management is FNA. FNA is very accurate for diagnosis of squamous cell carcinoma and is preferred over more invasive biopsy techniques. It has a diagnostic accuracy of 88% to 89% and can be done rapidly in the office with limited or no morbidity. A more invasive form of biopsy would only be needed if FNA results were nondiagnostic. If found to be squamous cell carcinoma, this cancer should also be evaluated for human papilloma virus (HPV) infection, as this patient is in the appropriate age range for HPV-related squamous cell carcinoma, and a largely cystic mass on CT imaging is characteristic for this infection-related cancer. HPV-related cancers occur most commonly between ages 40 to 59 years. Although HPV status does not have an impact on treatment decisions, it is associated with an improved prognosis."
+]
+},
+{
+"type":"p",
+"hlId":"98cf63",
+"children":[
+"Observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be appropriate in this case. This patient has a clearly abnormal neck mass based on imaging. Prompt evaluation with FNA is necessary based on the high likelihood of cancer."
+]
+},
+{
+"type":"p",
+"hlId":"ae1ae3",
+"children":[
+"PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be indicated for staging once head and neck cancer is diagnosed. However, this patient has not yet been diagnosed with head and neck cancer. PET/CT is not indicated before a diagnosis of cancer, and the results of a PET/CT scan would not change the need to biopsy this mass. Although this mass would be expected to have increased fluorodeoxyglucose uptake, some largely cystic metastatic nodes are not very avid on PET/CT, raising risk of a false-negative finding."
+]
+},
+{
+"type":"p",
+"hlId":"316f71",
+"children":[
+"Surgical removal (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") might be indicated for this patient as a component of treatment for head and neck cancer. However, FNA is a much more efficient and less morbid diagnostic test. Surgery is not needed for diagnostic purposes, as squamous cell carcinoma can easily be diagnosed based on FNA results."
+]
+}
+],
+"relatedSection":"mk19_a_on_s7_3",
+"objective":{
+"__html":"Manage a patient presenting with a neck mass."
+},
+"references":[
+[
+"Pynnonen MA, Gillespie MB, Roman B, et al. Clinical practice guideline: evaluation of the neck mass in adults executive summary. Otolaryngol Head Neck Surg. 2017;157:355-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28891424",
+"target":"_blank"
+},
+"children":[
+"PMID: 28891424"
+]
+},
+" doi:10.1177/0194599817723609"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":56,
+"B":2,
+"C":14,
+"D":28,
+"E":0
+},
+"hlIds":[
+"088ff1",
+"4bb1ab",
+"ef73cd",
+"03f1a5",
+"e15e9d",
+"905b7f",
+"52c5a4",
+"98cf63",
+"ae1ae3",
+"316f71"
+]
+}

@@ -1,0 +1,160 @@
+{
+"id":"vdx4_hm_q032",
+"number":32,
+"bookId":"vdx_hm",
+"correctAnswer":"C",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e3b2b2",
+"children":[
+"A 40-year-old woman is evaluated for an episode of dyspnea and syncope."
+]
+},
+{
+"type":"p",
+"hlId":"093c47",
+"children":[
+"CT angiogram is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f032a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f032a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic dissection"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Myocardial infarction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary thromboembolism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tension pneumothorax"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e897f8",
+"children":[
+"This contrast-enhanced CT angiogram ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f032b",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" multiple intraluminal filling defects (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrows"
+]
+},
+"), consistent with a diagnosis of pulmonary thromboembolism."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_hm_mcq_f032b"
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_2",
+"objective":{
+"__html":"Diagnose pulmonary embolism on a CT angiogram."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f032a":{
+"id":"vdx4_hm_mcq_f032a",
+"number":32,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3163d52a2da20efc4a46d3b72e9e4513",
+"height":512,
+"width":512,
+"extension":"jpg"
+}
+},
+"vdx4_hm_mcq_f032b":{
+"id":"vdx4_hm_mcq_f032b",
+"number":32,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"fd23b526c8b926edf7b5ee0e7b5f1101",
+"height":688,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e3b2b2",
+"093c47",
+"413696",
+"e897f8"
+]
+}

@@ -1,0 +1,215 @@
+{
+"id":"mk19_b_hm_q051",
+"number":51,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7518e9",
+"children":[
+"A 61-year-old woman is seen in consultation regarding a recently identified monoclonal protein. Medical history is notable for rheumatoid arthritis that has been stable for several years. Her only medication is methotrexate."
+]
+},
+{
+"type":"p",
+"hlId":"7e22f9",
+"children":[
+"On physical examination, vital signs and other examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"1a0ed6",
+"children":[
+"Complete blood counts, serum calcium level, and serum creatinine level are normal."
+]
+},
+{
+"type":"p",
+"hlId":"cb8623",
+"children":[
+"Serum protein electrophoresis and immunofixation show an IgG κ monoclonal protein spike of 0.8 g/dL. Serum free light chain and 24-hour urine protein electrophoresis are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Kidney biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the cervical, lumbar, and thoracic spine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serum β<sub>2</sub>-microglobulin measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8eec63",
+"hvc":true,
+"children":[
+"Monoclonal gammopathy of underdetermined significance is characterized by an M protein level less than 3 g/dL (or less than 500 mg/24 h of urinary monoclonal free light chains), clonal plasma cells comprising less than 10% of the bone marrow cellularity, and the absence of related signs and symptoms of end-organ damage."
+]
+},
+{
+"type":"keypoint",
+"hlId":"760c94",
+"hvc":true,
+"children":[
+"Patients with low-risk monoclonal gammopathy of undetermined significance can be clinically observed and do not require follow-up testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c94118",
+"children":[
+"This patient has been found to have a low-risk monoclonal gammopathy of underdetermined significance (MGUS), and clinical observation alone is recommended (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). No further testing is necessary at this time. MGUS is characterized by an M protein level less than 3 g/dL (or less than 500 mg/24 h of urinary monoclonal free light chains [FLCs]), clonal plasma cells comprising less than 10% of the bone marrow cellularity, and the absence of related signs and symptoms of end-organ damage. The patient's serum hemoglobin, calcium, and creatinine levels are normal, and she has no skeletal lesions. The chance of progression to multiple myeloma or a lymphoproliferative disorder depends on risk factors. Because her monoclonal protein spike is less than 1.5 g/dL, and the serum FLCs are normal, her risk of progression is low (5% over 20 years). Patients with MGUS commonly undergo follow-up for signs and symptoms of progression, initially at 6 months and then yearly if stable."
+]
+},
+{
+"type":"p",
+"hlId":"2389c5",
+"children":[
+"A small subgroup of patients with MGUS may also have kidney disease (monoclonal gammopathy of renal significance). However, this patient's kidney function is normal, and she has no concerning features of a plasma cell dyscrasia, so kidney biopsy is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"d8abe3",
+"children":[
+"MRI of the spine is not necessary in patients with low-risk MGUS (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). MRI imaging can detect bony lesions earlier than skeletal survey. MRI and CT can be used to risk stratify patients with smoldering myeloma and may also be important in assessing spinal cord compression in multiple myeloma requiring therapy."
+]
+},
+{
+"type":"p",
+"hlId":"48789d",
+"children":[
+"Measurement of serum β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-microglobulin is part of risk stratification after a diagnosis of multiple myeloma is established (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). It is not necessary in patients with MGUS."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_3",
+"objective":{
+"__html":"Evaluate a patient with low-risk monoclonal gammopathy of undetermined significance."
+},
+"references":[
+[
+"Kyle RA, Larson DR, Therneau TM, et al. Long-term follow-up of monoclonal gammopathy of undetermined significance. N Engl J Med. 2018;378:241-249. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29342381",
+"target":"_blank"
+},
+"children":[
+"PMID: 29342381"
+]
+},
+" doi:10.1056/NEJMoa1709974"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":9,
+"C":15,
+"D":73,
+"E":0
+},
+"hlIds":[
+"7518e9",
+"7e22f9",
+"1a0ed6",
+"cb8623",
+"cb2b54",
+"8eec63",
+"760c94",
+"c94118",
+"2389c5",
+"d8abe3",
+"48789d"
+]
+}

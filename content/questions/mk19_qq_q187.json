@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q187",
+"number":187,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 187",
+"stimulus":[
+{
+"type":"p",
+"hlId":"333f9f",
+"children":[
+"A 74-year-old woman is evaluated for progressive mouth swelling and hoarseness over the past 15 hours. She was started on valsartan-sacubitril 2 days ago for heart failure with reduced ejection fraction. Other medications include metoprolol and furosemide."
+]
+},
+{
+"type":"p",
+"hlId":"a29708",
+"children":[
+"Respiration rate is 28/min with inspiratory stridor;",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+" oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. Lungs are clear. Lips and tongue are edematous."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Endotracheal intubation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intramuscular epinephrine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous C1 inhibitor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intravenous methylprednisolone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"23fafd",
+"children":[
+"Angioedema (localized subcutaneous or submucosal swelling of face, lips, or upper respiratory or gastrointestinal tract) can be mast cell mediated (i.e., histaminergic), as in allergic IgE-mediated reactions to foods, drugs, and insect stings."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5f417c",
+"children":[
+"Angioedema due to an ACE inhibitor or angiotensin receptor–neprilysin inhibitor is mediated largely by bradykinin, and acute treatment involves discontinuing the drug and carefully monitoring the airway until the episode is clearly resolving."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"27dadc",
+"children":[
+"The most appropriate next step in management is endotracheal intubation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is experiencing angioedema, likely triggered by use of the angiotensin receptor–neprilysin inhibitor (ARNI) valsartan-sacubitril, and should be intubated immediately because she is at high risk of asphyxiation from upper airway edema. Angioedema (localized subcutaneous or submucosal swelling of face, lips, or upper respiratory or gastrointestinal tract) can be mast cell mediated (i.e., histaminergic), as in allergic IgE-mediated reactions to foods, drugs, and insect stings. The absence of signs and symptoms of allergic reaction, such as urticaria, pruritus, bronchospasm, and hypotension, is more typical of bradykinin-mediated angioedema, which can be seen with hereditary angioedema, acquired C1-inhibitor deficiency, and ARNI or ACE inhibitor use. Although angioedema is most often reported early after starting or increasing the dose of an ARNI or ACE inhibitor, it can occur years later. The risk for recurrence with continued exposure to an ARNI or ACE inhibitor is substantial, and patients should be switched to an alternative medication. Angioedema typically resolves within 2 to 3 days of discontinuation."
+]
+},
+{
+"type":"p",
+"hlId":"876236",
+"children":[
+"Epinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful in the treatment of upper airway obstruction triggered by anaphylactic reactions, and methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be useful in patients with cutaneous allergic reactions. However, these agents have no clear role in the treatment of bradykinin-mediated angioedema associated with ARNI or ACE inhibitors. This patient's airway is severely compromised, and there is insufficient time to delay intubation in order to allow a trial of therapy. Patients with severe angioedema may require nasotracheal intubation."
+]
+},
+{
+"type":"p",
+"hlId":"14c1c8",
+"children":[
+"Angioedema due to an ARNI or ACE inhibitor is mediated largely by bradykinin, and acute treatment involves discontinuing the drug and carefully monitoring the airway (if that is the affected area) until the episode is clearly resolving. There are no pharmacologic therapies with proven efficacy in ARNI- or ACE inhibitor–induced angioedema, although some treatments for other bradykinin-mediated forms of angioedema, such as intravenous C1 inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for hereditary angioedema, may be used in severe cases. The data on C1 inhibitor therapy for ARNI or ACE inhibitor angioedema are mixed, but even if therapy were effective, the first order of medical care is to intubate and protect this patient's airway."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_1",
+"objective":{
+"__html":"Treat angioedema."
+},
+"references":[
+[
+"Rosenbaum S, Wilkerson RG, Winters ME, et al. Clinical practice statement: what is the emergency department management of patients with angioedema secondary to an ACE-inhibitor? J Emerg Med. 2021;61:105-112. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34006418",
+"target":"_blank"
+},
+"children":[
+"PMID: 34006418"
+]
+},
+" doi:10.1016/j.jemermed.2021.02.038"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"333f9f",
+"a29708",
+"1a5dcc",
+"23fafd",
+"5f417c",
+"27dadc",
+"876236",
+"14c1c8"
+]
+}

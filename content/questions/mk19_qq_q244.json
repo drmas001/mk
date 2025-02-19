@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q244",
+"number":244,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 244",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5850aa",
+"children":[
+"A 36-year-old woman has a 3-year history of irritable bowel syndrome-diarrhea predominant subtype. She has pain and loose bowel movements at least three times weekly. Her original evaluation included negative results on fecal calprotectin testing and on testing for giardiasis and celiac disease. She has had no improvement in abdominal pain despite a diet low in FODMAPs (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) and treatment with rifaximin, eluxadoline, alosetron, and loperamide."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fecal microbial transplant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Gluten-free diet"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Probiotics"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tricyclic antidepressant"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"32a474",
+"children":[
+"FDA-approved drugs for the treatment of irritable bowel syndrome-diarrhea include rifaximin, eluxadoline, and alosetron; other drugs with clinical evidence include loperamide, antispasmodics, and tricyclic antidepressants."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b27d28",
+"children":[
+"There is little or no evidence of effectiveness of probiotics or fecal microbial transplant in patients with irritable bowel syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ff1428",
+"children":[
+"The most appropriate treatment is a tricyclic antidepressant (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Irritable bowel syndrome (IBS) is the most common functional gastrointestinal disorder, with a prevalence of 10% to 15% in the general U.S. population. The Rome IV criteria for diagnosis of IBS require symptoms of recurrent abdominal pain at least 1 day per week for a period of 3 months, along with at least two of the following three criteria: pain related to defecation, change in stool frequency, or change in stool consistency. Although multiple supplements and prescription medications have been used to treat IBS, the body of evidence in favor of some of those treatments is, at best, modest. Patients with IBS-D may benefit from dietary restrictions, including a low-FODMAP (fermentable oligosaccharides, disaccharides, monosaccharides, and polyols) diet. Prescription medications with FDA approval for treatment of IBS-D include rifaximin, eluxadoline, and alosetron. Other medications with clinical evidence for the treatment of IBS-D include loperamide, antispasmodics, and tricyclic antidepressants (TCAs). This patient has tried all the aforementioned interventions except for a TCA. Based on data from several randomized trials, TCAs offer modest relief of the abdominal pain and global symptoms of IBS-D. The American Gastroenterological Association has given a conditional recommendation based on low-quality evidence for the use of TCAs in the treatment of IBS-D."
+]
+},
+{
+"type":"p",
+"hlId":"53c405",
+"children":[
+"A systematic review and meta-analysis concluded that fecal microbial transplant (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") was no more effective than placebo in the treatment of IBS. Results remained disappointing whether the transplant was administered by capsule, colonoscopy, or nasojejunal tube."
+]
+},
+{
+"type":"p",
+"hlId":"15e530",
+"children":[
+"A gluten-free diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is recommended for patients with celiac disease. This patient tested negative for celiac disease. Although a gluten-free diet has been empirically tried and studied for IBS, evidence for its use has been inconclusive."
+]
+},
+{
+"type":"p",
+"hlId":"b0f461",
+"children":[
+"Routine administration of probiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not recommended. Some studies have reported improvement in diarrhea; however, the results are inconsistent, and the improvement is modest. A systematic review and meta-analysis of probiotics in IBS found that although specific combinations of probiotics (bacteria and yeasts) with prebiotics (fiber meant to promote colonic bacterial growth), synbiotics (combination of probiotics and prebiotics), and antibiotics may possibly be beneficial, conclusive evidence was lacking."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_6_2_2",
+"objective":{
+"__html":"Treat irritable bowel syndrome-diarrhea predominant subtype."
+},
+"references":[
+[
+"Camilleri M. Diagnosis and treatment of irritable bowel syndrome: a review. JAMA. 2021;325:865-877. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33651094",
+"target":"_blank"
+},
+"children":[
+"PMID: 33651094"
+]
+},
+" doi:10.1001/jama.2020.22532"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5850aa",
+"1054f1",
+"32a474",
+"b27d28",
+"ff1428",
+"53c405",
+"15e530",
+"b0f461"
+]
+}

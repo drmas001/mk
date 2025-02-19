@@ -1,0 +1,185 @@
+{
+"id":"mk19_a_on_q058",
+"number":58,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7defe2",
+"children":[
+"A 51-year-old man is evaluated for intermittent, bright red blood per rectum of 10 weeks' duration. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"0ba7af",
+"children":[
+"On physical examination, vital signs are normal. Digital rectal examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"3647bc",
+"children":[
+"Stool is positive for fecal occult blood."
+]
+},
+{
+"type":"p",
+"hlId":"f3e284",
+"children":[
+"A colonoscopy is performed, and a nonobstructing lesion is noted at 10 cm from the anal verge. Examination of the rest of the colon is unremarkable. An MRI scan of the rectum shows the lesion to be invading into but not through the full thickness of the muscularis. No abnormal lymph nodes are seen on MRI. Contrast-enhanced CT scan of the chest and abdomen does not show evidence of metastases."
+]
+},
+{
+"type":"p",
+"hlId":"319115",
+"children":[
+"Biopsy of the mass shows adenocarcinoma."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Irradiation plus chemotherapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Irradiation, chemotherapy, and surgery"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgery"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"af5f1c",
+"children":[
+"Rectal cancers that do not penetrate the full thickness of the bowel wall and do not involve regional lymph nodes are stage I and are treated with surgical resection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4f9fed",
+"children":[
+"Patients with treated rectal cancer are evaluated at 6-month intervals with a history, physical examination, and serum carcinoembryonic antigen level assessment and annual contrast-enhanced CTs of the chest, abdomen, and pelvis; surveillance is continued for 5 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9e7598",
+"children":[
+"The most appropriate treatment is surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Based on the results of clinical staging, this patient has a T2N0, stage I cancer of the upper third of the rectum. If pathology following surgery confirms these preoperative findings, then no further therapy would be warranted. Therefore, for stage I rectal cancer, surgery alone is the preferred initial management. With the tumor located 10 cm from the anal verge, the surgical procedure of choice would be a low anterior resection, performed with the total mesorectal excision technique, with either a direct anastomosis, or, more likely, a temporary diverting ileostomy, which would be reversed after 2 to 3 months. Such a resection would be anticipated to be sphincter-sparing, and so the patient should not require a permanent colostomy. After therapy, patients with rectal cancer should be evaluated at approximately 6-month intervals for up to 5 years with a history, physical examination, and serum carcinoembryonic antigen level assessment. Contrast-enhanced CTs of the chest, abdomen, and pelvis are typically obtained annually for 5 years."
+]
+},
+{
+"type":"p",
+"hlId":"37da81",
+"children":[
+"If postoperative findings upstage the tumor to stage II or III, then there may be a need to consider further interventions such as irradiation and/or chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+"). Evidence is insufficient to define an optimal sequencing of the three treatment modalities, although total neoadjuvant therapy in which all planned chemotherapy and irradiation is given before surgery, is becoming a more widespread practice. Capecitabine, an oral prodrug that is converted into 5-fluorouracil (5-FU), or, less commonly, intravenous 5-FU, is given concurrently with radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, data do not support a role for adding either chemotherapy or radiation therapy to the management of surgically confirmed stage I rectal cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1_2_1",
+"objective":{
+"__html":"Treat stage I rectal cancer."
+},
+"references":[
+[
+"Roxburgh CSD, Strombom P, Lynn P, et al. Changes in the multidisciplinary management of rectal cancer from 2009 to 2015 and associated improvements in short-term outcomes. Colorectal Dis. 2019;21:1140-50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31108012",
+"target":"_blank"
+},
+"children":[
+"PMID: 31108012"
+]
+},
+" doi:10.1111/codi.14713"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":19,
+"C":26,
+"D":53,
+"E":0
+},
+"hlIds":[
+"7defe2",
+"0ba7af",
+"3647bc",
+"f3e284",
+"319115",
+"1054f1",
+"af5f1c",
+"4f9fed",
+"9e7598",
+"37da81"
+]
+}

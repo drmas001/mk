@@ -1,0 +1,305 @@
+{
+"id":"mk19_b_cv_q037",
+"number":37,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4e2b99",
+"children":[
+"A 61-year-old man is evaluated in the emergency department for palpitations that began this morning. He has a history of coronary artery disease treated with coronary artery stenting 18 months ago and left ventricular dysfunction. Medications are aspirin, metoprolol, spironolactone, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"f9ccff",
+"children":[
+"On physical examination, blood pressure is 100/65 mm Hg and pulse rate is 130/min; other vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. Intermittent cannon ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" waves are noted on neck examination. Other than tachycardia, cardiac examination is normal. Breath sounds are clear."
+]
+},
+{
+"type":"p",
+"hlId":"b65405",
+"children":[
+"ECG with rhythm strips is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f037a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f037a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Monomorphic ventricular tachycardia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Preexcited tachycardia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Supraventricular tachycardia with aberrancy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Torsades de pointes"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"867fad",
+"children":[
+"In adult patients with structural heart disease, 95% of wide-complex tachycardias are ventricular tachycardia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"001fb0",
+"children":[
+"The most likely diagnosis for this wide-complex tachycardia is ventricular tachycardia (VT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). A wide-complex tachycardia is any tachycardia with a QRS complex of 120 ms or longer. Differential diagnoses include supraventricular tachycardia (SVT) with aberrancy, preexcited tachycardia (antidromic tachycardia), ventricular paced rhythm, and VT. In adult patients with structural heart disease, 95% of wide-complex tachycardias are VT. Several important clinical and ECG features can distinguish VT from other conditions. The presence of irregular jugular venous pulsations of greater amplitude than normal venous waves (cannon waves) signal the presence of atrioventricular dissociation and support the diagnosis of VT. Wide-complex tachycardias that are positive in lead aVR, have a QRS morphology that is concordant (all predominantly positive or negative) in the precordial leads, have QRS morphology other than typical right or left bundle branch block, and exhibit extreme axis deviation (“northwest” axis) are usually VT. Fusion beats (supraventricular and ventricular impulses coinciding to produce a hybrid complex) ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f037b",
+"wrapId":"2",
+"children":[
+"arrows"
+]
+}
+]
+}
+]
+},
+" in the ECG shown below) and capture beats (a sinus conducted beat producing a normal QRS) are all highly suggestive of VT. Of importance, the fact that the patient is awake, alert, and interactive and/or has a measurable blood pressure does not exclude VT."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_cv_mcq_f037b"
+]
+},
+{
+"type":"p",
+"hlId":"c2aabf",
+"children":[
+"If the origin of a wide-complex tachycardia cannot be determined, VT should be assumed until expert consultation can be obtained. This patient with structural heart disease (in the form of ischemic heart disease) has ECG findings characteristic of VT. It is monomorphic VT because consecutive beats have a uniform and stable QRS morphology."
+]
+},
+{
+"type":"p",
+"hlId":"7b5fa0",
+"children":[
+"Antidromic atrioventricular reciprocating tachycardia is a preexcited tachycardia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") that is characterized by a wide, slurred QRS complex resulting from conduction over the bypass tract and activation of the ventricle without use of the specialized conduction system. It may be very difficult to distinguish from VT on a single ECG tracing. However, this tachycardia tends to occur in younger people, and it is not associated with cannon ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" waves, fusion beats, or capture beats. Antidromic atrioventricular reciprocating tachycardia is much less likely than VT in this patient with structural heart disease."
+]
+},
+{
+"type":"p",
+"hlId":"e4719c",
+"children":[
+"SVT associated with a bundle branch block or a nonspecific intraventricular conduction delay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") will present as a wide-complex tachycardia (SVT with aberrancy). However, the same reasons that make antidromic atrioventricular reciprocating tachycardia unlikely apply to SVT with aberrancy."
+]
+},
+{
+"type":"p",
+"hlId":"f0b776",
+"children":[
+"Torsades de pointes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a polymorphic VT with ventricular rates from 160/min to 250/min. The torsades de pointes pattern is associated with QT interval prolongation and is characterized by changing of the QRS axis by 180 degrees every few beats. This pattern is not present, and torsades de pointes is an unlikely diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_2_1",
+"objective":{
+"__html":"Diagnose ventricular tachycardia."
+},
+"references":[
+[
+"Katritsis DG, Brugada J. Differential diagnosis of wide QRS tachycardias. Arrhythm Electrophysiol Rev. 2020;9:155-160. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33240511",
+"target":"_blank"
+},
+"children":[
+"PMID: 33240511"
+]
+},
+" doi:10.15420/aer.2020.20"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":39,
+"B":9,
+"C":45,
+"D":8,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f037a":{
+"id":"mk19_b_cv_mcq_f037a",
+"number":37,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"5da0430097249115e319a27d58c8dff6",
+"height":358,
+"width":660,
+"extension":"jpg"
+}
+},
+"mk19_b_cv_mcq_f037b":{
+"id":"mk19_b_cv_mcq_f037b",
+"number":37,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"56cf3cd94811bf3e29bf5ad85c7230a8",
+"height":118,
+"width":660,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"4e2b99",
+"f9ccff",
+"b65405",
+"413696",
+"867fad",
+"001fb0",
+"c2aabf",
+"7b5fa0",
+"e4719c",
+"f0b776"
+]
+}

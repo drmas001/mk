@@ -1,0 +1,245 @@
+{
+"id":"mk19_a_gi_q054",
+"number":54,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"72af6d",
+"children":[
+"A 64-year-old man is evaluated in the emergency department for ascites. He has diabetes mellitus and cirrhosis associated with hemochromatosis, as well as a history of hepatic encephalopathy. Current medications are metformin, canagliflozin, lactulose, and rifaximin."
+]
+},
+{
+"type":"p",
+"hlId":"541189",
+"children":[
+"On physical examination, blood pressure is 106/76 mm Hg and pulse rate is 60/min; other vital signs are normal. The patient is alert. Jaundice, spider telangiectasia, and palmar erythema are present. Jugular venous distension and peripheral edema are present. Cardiac sounds are indistinct and lung sounds are diminished. Ascites is present."
+]
+},
+{
+"type":"p",
+"hlId":"ac2352",
+"children":[
+"Abdominal ultrasound shows a cirrhotic liver, splenomegaly, and abdominal ascites."
+]
+},
+{
+"type":"p",
+"hlId":"9ac7bf",
+"children":[
+"Paracentesis with analysis of ascitic fluid shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 100/μL (100 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"albumin"
+]
+},
+" level of 2.2 g/dL (22 g/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Total, serum",
+"children":[
+"total protein"
+]
+},
+" level of 2.6 g/dL (26 g/L). ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Serum albumin"
+]
+},
+" level is 3.5 g/dL (35 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ascitic fluid cytology"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ascitic fluid triglyceride measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Liver biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3f0e27",
+"children":[
+"The differential diagnosis for ascitic fluid with a high serum–ascites albumin gradient includes cirrhosis and noncirrhotic causes (e.g., heart failure)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f661d2",
+"children":[
+"The total protein level is low in cirrhotic ascites (<2.5 g/dL [25 g/L]) and high in cardiac ascites (≥2.5 g/dL [25 g/L])."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2efc4e",
+"children":[
+"The most appropriate management is echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Ascites in a patient with liver disease is most likely to be due to cirrhosis. Portal hypertensive ascites is defined as a serum–ascites albumin gradient (SAAG) greater than or equal to 1.1 (calculated as serum albumin – ascites albumin). The differential diagnosis for high-SAAG ascites includes cirrhosis and noncirrhotic causes (e.g., heart failure). The total protein level can help differentiate cirrhotic ascites from cardiac ascites: The total protein level is low in cirrhotic ascites (<2.5 g/dL [25 g/L]) and high in cardiac ascites (≥2.5 g/dL [25 g/L]). This patient has elevated jugular venous pressure, a high SAAG, and high ascitic level of protein, suggesting a cardiac cause of ascites. Therefore, echocardiography should be performed."
+]
+},
+{
+"type":"p",
+"hlId":"a62d4a",
+"children":[
+"The ascitic fluid cytologic finding is positive only in the setting of peritoneal carcinomatosis, and the sensitivity approaches 94% if up to three samples are submitted from three different paracenteses. In patients with peritoneal carcinomatosis, the SAAG is low and the total protein is high; therefore, ascitic fluid cytology (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"16c475",
+"children":[
+"The measurement of ascitic triglyceride level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is helpful in the diagnosis of chylous ascites. Chylous ascites may be the result of portal hypertension (high SAAG) or lymphatic obstruction (low SAAG) and high total protein level. In this patient with hemochromatosis and findings of jugular venous distention on examination, echocardiography is much more likely to establish the diagnosis than is measurement of ascitic triglyceride levels."
+]
+},
+{
+"type":"p",
+"hlId":"83491f",
+"children":[
+"The American Association for the Study of Liver Disease recommends liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for specific clinical situations, including diagnostic evaluation of focal or diffuse lesions on imaging studies, parenchymal liver diseases, chronically elevated liver test results of unknown cause, fever of unknown origin, and therapeutic planning and staging of parenchymal liver diseases. Liver biopsy is of little use in a patient with known cirrhosis and clinical evidence of portal hypertension."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_4",
+"objective":{
+"__html":"Evaluate cause of ascites."
+},
+"references":[
+[
+"Biggins SW, Angeli P, Garcia-Tsao G, et al. Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74:1014-1048. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33942342",
+"target":"_blank"
+},
+"children":[
+"PMID: 33942342"
+]
+},
+" doi:10.1002/hep.31884"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":3,
+"C":72,
+"D":3,
+"E":0
+},
+"hlIds":[
+"72af6d",
+"541189",
+"ac2352",
+"9ac7bf",
+"cb2b54",
+"3f0e27",
+"f661d2",
+"2efc4e",
+"a62d4a",
+"16c475",
+"83491f"
+]
+}

@@ -1,0 +1,268 @@
+{
+"id":"mk19_a_gi_q019",
+"number":19,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1edb02",
+"children":[
+"A 68-year-old woman is evaluated in the emergency department for sudden-onset, crampy, left-lower-quadrant abdominal pain followed several hours later by passage of bright red blood per rectum. She has hypertension and hyperlipidemia. Current medications are lisinopril and simvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"ac55dc",
+"children":[
+"On physical examination, vital signs are normal. Abdomen is soft and nondistended, with left-lower-quadrant tenderness and no rebound or guarding. Anorectal examination shows scant bright red blood in the rectal vault."
+]
+},
+{
+"type":"p",
+"hlId":"70d220",
+"children":[
+"Laboratory testing shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 12,000/μL (12 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"blood urea nitrogen"
+]
+},
+" level of 24 mg/dL (8.5 mmol/L); other routine laboratory results are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ea330f",
+"children":[
+"Abdominal and pelvic CT scan shows only segmental thickening of the descending and sigmoid colon."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute diverticulitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>Clostridioides difficile</i> infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Colonic ischemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ulcerative colitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7f474e",
+"children":[
+"Colonic ischemia is the most common form of ischemic bowel disease and usually results from a nonocclusive low-flow state in microvessels."
+]
+},
+{
+"type":"keypoint",
+"hlId":"29b2ad",
+"children":[
+"Colonic ischemia presents with abrupt-onset lower abdominal discomfort and cramping, followed within 24 hours by hematochezia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bc25f6",
+"children":[
+"The most likely diagnosis is colonic ischemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This form of ischemic bowel disease is the most common and usually results from a nonocclusive low-flow state in microvessels. The term ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"colonic ischemia"
+]
+},
+" is preferred to ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ischemic colitis"
+]
+},
+" because some patients do not have a documented inflammatory phase of disease. Risk factors for colonic ischemia include age (>60 years), female sex, vasoconstrictive and antihypertension medications, constipation, and thrombophilia. Colonic ischemia presents with abrupt onset of lower abdominal discomfort that is mild to moderate and cramping, followed within 24 hours by hematochezia (passage of fresh blood or clots from the colon). Physical examination usually reveals lower abdominal tenderness over the involved colonic segment without peritoneal signs. Leukocyte count and blood urea nitrogen may be mildly elevated. Abdominal CT is indicated to assess the severity, phase, and distribution of colonic ischemia. CT findings are nonspecific, including segmental bowel wall thickening and pericolonic fat stranding, often in the distribution of the “watershed” areas of the colon (splenic flexure and rectosigmoid junction). Colonoscopy is the primary method to diagnose colonic ischemia, usually after CT has shown a thickened segment of colon."
+]
+},
+{
+"type":"p",
+"hlId":"6eaab7",
+"children":[
+"Acute diverticulitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") often presents with colicky lower abdominal pain and left-lower-quadrant abdominal tenderness on physical examination. However, acute diverticulitis does not present with rectal bleeding, making this diagnosis unlikely. In addition, CT scans in acute diverticulitis typically show pericolonic fat stranding of the sigmoid colon with associated diverticulosis, which is not seen on this patient's CT scan."
+]
+},
+{
+"type":"p",
+"hlId":"5f61f6",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can mimic the presentation of colonic ischemia and must be excluded by stool tests. However, bloody diarrhea is uncommon in ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" colitis, and the infection often involves the colon in a diffuse fashion rather than the segmental pattern seen on this patient's CT scan."
+]
+},
+{
+"type":"p",
+"hlId":"e721c1",
+"children":[
+"Ulcerative colitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can present with abdominal pain and bloody stools. However, it usually involves the rectum and extends proximally in a continuous and symmetric pattern. This patient's CT scan, showing segmental thickening of the descending and sigmoid colon with sparing of the rectum, makes ulcerative colitis unlikely, as do the abrupt symptom onset and older patient age."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_9_3_1",
+"objective":{
+"__html":"Diagnose colonic ischemia."
+},
+"references":[
+[
+"Brandt LJ, Feuerstadt P, Longstreth GF, et al; American College of Gastroenterology. ACG clinical guideline: epidemiology, risk factors, patterns of presentation, diagnosis, and management of colon ischemia (CI). Am J Gastroenterol. 2015;110:18-44; quiz 45. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25559486",
+"target":"_blank"
+},
+"children":[
+"PMID: 25559486"
+]
+},
+" doi:10.1038/ajg.2014.395"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":2,
+"C":68,
+"D":8,
+"E":0
+},
+"hlIds":[
+"1edb02",
+"ac55dc",
+"70d220",
+"ea330f",
+"413696",
+"7f474e",
+"29b2ad",
+"bc25f6",
+"6eaab7",
+"5f61f6",
+"e721c1"
+]
+}

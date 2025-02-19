@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_on_q013",
+"number":13,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c6a45f",
+"children":[
+"A 71-year-old woman is evaluated for metastatic colon cancer. Stage III colon cancer was diagnosed and treated with surgery and adjuvant chemotherapy 3 years ago. The tumor was found to be mismatch repair–deficient. Evaluation for a germline mismatch repair protein deficiency (Lynch syndrome) was negative. Six months ago, she was found to have numerous hepatic metastases and involvement of multiple retroperitoneal lymph nodes. She was treated with a standard chemotherapy regimen and was stable for 4 months. Current CT imaging shows tumor growth in the liver and retroperitoneal lymph nodes. The patient remains asymptomatic with good performance status."
+]
+},
+{
+"type":"p",
+"hlId":"7e22f9",
+"children":[
+"On physical examination, vital signs and other examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"447ba8",
+"children":[
+"The patient's carcinoembryonic antigen level has increased to 33.5 µg/L (normal, <5.0 µg/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Comfort-oriented care and hospice management"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Programmed death receptor 1 inhibitor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stereotactic radiation therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tyrosine kinase inhibitor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"162bf3",
+"children":[
+"Immune checkpoint inhibitors, specifically programmed death receptor 1 inhibitors, are indicated for otherwise treatment-refractory metastatic mismatch repair–deficient colon cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d1400c",
+"children":[
+"This patient now has treatment-refractory metastatic colorectal cancer with a mismatch repair–deficient tumor that should be treated with immunotherapy with a programmed death receptor 1 (PD-1) inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Tumors may be mismatch repair–deficient either due to a germline mutation, a condition known as Lynch syndrome, or a somatic mutation (or epigenetic silencing) that is limited to the tumor. Because mismatch repair–deficient tumors carry a better prognosis than the more common mismatch repair–proficient tumors, mismatch repair–deficient tumors rarely become metastatic and comprise only 3% to 4% of all metastatic colorectal cancer cases. Patients in this rare subset, however, have shown substantial benefit from treatment with immune checkpoint inhibitors, specifically PD-1 inhibitors. Unfortunately for most patients with metastatic colorectal cancer (>95%) whose tumors are mismatch repair–proficient, PD-1 inhibitors and other immune checkpoint inhibitors have thus far been essentially inactive."
+]
+},
+{
+"type":"p",
+"hlId":"643dad",
+"children":[
+"Supportive comfort care and hospice management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an important consideration in patients who are too sick for treatment or who have exhausted all reasonable treatment options. Such a course of action would not be the most appropriate consideration in a fully functional patient with a meaningful treatment option available."
+]
+},
+{
+"type":"p",
+"hlId":"c77979",
+"children":[
+"Stereotactic radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used for ablation of a limited number of lesions but would not be a reasonable consideration in the patient described who has innumerable lesions in the liver and retroperitoneum."
+]
+},
+{
+"type":"p",
+"hlId":"e12fd7",
+"children":[
+"Tyrosine kinase inhibitors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), such oral regorafenib, have very limited antitumor activity in patients such as this but may be a reasonable consideration when all other effective therapies have been exhausted."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1_2_2",
+"objective":{
+"__html":"Treat metastatic mismatch repair–deficient colon cancer."
+},
+"references":[
+[
+"Le DT, Kim TW, Van Cutsem E, et al. Phase II open-label study of pembrolizumab in treatment-refractory, microsatellite instability-high/mismatch repair-deficient metastatic colorectal cancer: KEYNOTE-164. J Clin Oncol. 2020;38:11-19. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31725351",
+"target":"_blank"
+},
+"children":[
+"PMID: 31725351"
+]
+},
+" doi:10.1200/JCO.19.02107"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":56,
+"C":5,
+"D":23,
+"E":0
+},
+"hlIds":[
+"c6a45f",
+"7e22f9",
+"447ba8",
+"cb2b54",
+"162bf3",
+"d1400c",
+"643dad",
+"c77979",
+"e12fd7"
+]
+}

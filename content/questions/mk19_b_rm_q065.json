@@ -1,0 +1,228 @@
+{
+"id":"mk19_b_rm_q065",
+"number":65,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6a5b36",
+"children":[
+"An 82-year-old man is seen in follow-up for inclusion body myositis. A prednisone taper over the past 4 months was completed without clinical improvement."
+]
+},
+{
+"type":"p",
+"hlId":"922b06",
+"children":[
+"On physical examination, vital signs are normal. There is weakness in the shoulders, forearms, hand grip, hip girdle, and knee extensors that is unchanged from previous examinations."
+]
+},
+{
+"type":"p",
+"hlId":"fd1746",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"Serum creatine kinase"
+]
+},
+" level is 370 U/L, minimally decreased from 4 months ago."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add cyclophosphamide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add intravenous immune globulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add methotrexate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate physical therapy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Restart prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0878b6",
+"hvc":true,
+"children":[
+"Patients with inclusion body myositis often have little improvement while receiving immunosuppressive therapies; these therapies should be discontinued if they are not effective."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a66fdc",
+"hvc":true,
+"children":[
+"Physical therapy may help patients with inclusion body myositis to maintain muscle function for activities of daily living."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"56c0bb",
+"children":[
+"The most appropriate treatment is to initiate physical therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Inclusion body myositis is an insidious condition affecting older adults. It is distinguishable from other forms of myositis by its slow progression and different pattern of muscle involvement. Both proximal and distal muscle involvement occur; finger and forearm flexor involvement is nearly pathognomonic. Up to half of patients with inclusion body myositis have cricopharyngeal muscle involvement, leading to dysphagia and increased risk for aspiration. Serum creatine kinase levels are elevated to a lesser extent than seen in other forms of idiopathic inflammatory myopathies. Autoantibodies are less often present, but anti-NT5c1A autoantibodies are found in up to half of patients and rarely in healthy persons. Patients with inclusion body myositis, unlike those with other forms of idiopathic myositis, often have little improvement while receiving immunosuppressive therapies. Therapeutic trials should not be continued if they are not effective. Physical therapy may help patients to maintain muscle function for activities of daily living."
+]
+},
+{
+"type":"p",
+"hlId":"ef55c1",
+"children":[
+"Cyclophosphamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be considered as salvage therapy for patients with severe inflammatory myositis refractory to other therapies but is not considered first- or second-line treatment. The potential for harm outweighs the expected benefit in patients with inclusion body myositis, and cyclophosphamide should not be initiated."
+]
+},
+{
+"type":"p",
+"hlId":"666911",
+"children":[
+"Intravenous immune globulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used in patients with polymyositis or dermatomyositis who have an inadequate response to initial combination therapy with glucocorticoids and traditional immunosuppressive agents, such as methotrexate or azathioprine. However, it would not be likely to add benefit in patients with inclusion body myositis without a glucocorticoid response."
+]
+},
+{
+"type":"p",
+"hlId":"126f27",
+"children":[
+"For patients with most forms of idiopathic inflammatory myopathies, adding methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to glucocorticoids for combination therapy is a good initial practice that can reduce the total amount and duration of glucocorticoid use. However, there is little evidence for methotrexate or other glucocorticoid-sparing therapy in patients with inclusion body myositis, especially if they have no meaningful clinical response to high-dose glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"484e5b",
+"children":[
+"Restarting prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") in this case is unlikely to benefit the patient because he had little to no meaningful response to prednisone when initially instituted. Adverse effects associated with long-term glucocorticoid use, including glucocorticoid myopathy, could exacerbate his reduced muscle function."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s9_7",
+"objective":{
+"__html":"Treat inclusion body myositis."
+},
+"references":[
+[
+"Greenberg SA. Inclusion body myositis: clinical features and pathogenesis. Nat Rev Rheumatol. 2019 May;15(5):257-272. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30837708",
+"target":"_blank"
+},
+"children":[
+"PMID: 30837708"
+]
+},
+" doi:10.1038/s41584-019-0186-x"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":21,
+"B":11,
+"C":17,
+"D":46,
+"E":4
+},
+"hlIds":[
+"6a5b36",
+"922b06",
+"fd1746",
+"1054f1",
+"0878b6",
+"a66fdc",
+"56c0bb",
+"ef55c1",
+"666911",
+"126f27",
+"484e5b"
+]
+}

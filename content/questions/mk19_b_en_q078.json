@@ -1,0 +1,258 @@
+{
+"id":"mk19_b_en_q078",
+"number":78,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cee570",
+"children":[
+"A 45-year-old man is evaluated for follow-up management of type 2 diabetes mellitus. He reports intermittent hypoglycemia. Fasting ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" values range from 120 to 160 mg/dL (6.7-8.9 mmol/L); daily ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" levels range from 140 to 180 mg/dL (7.8-9.9 mmol/L), with symptomatic values as low as 60 mg/dL (3.3 mmol/L) at various times. Medications are metformin, insulin glargine, insulin lispro, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"c31f6b",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 8.5% and a serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" level of 0.9 mg/dL (79.6 μmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e8332d",
+"children":[
+"Which of the following is the most appropriate management to improve glucose control?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue metformin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase insulin glargine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate continuous glucose monitoring"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reduce insulin glargine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"83d599",
+"children":[
+"In adult patients with type 2 diabetes mellitus using basal insulin or multiple daily insulin injections, continuous glucose monitoring can inform changes in insulin doses and reduce the hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" level."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f41556",
+"children":[
+"In adult patients with type 2 diabetes mellitus, continuous glucose monitoring devices should be used as close to daily as possible to maximize benefit."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0970f4",
+"children":[
+"The most appropriate management is to initiate continuous glucose monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient is experiencing glycemic variability, and his hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" is not at goal. Continuous glucose monitoring in conjunction with multiple daily insulin injections or continuous subcutaneous insulin infusion can be useful and may lower A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1C"
+]
+},
+" levels and/or reduce hypoglycemia in adults with diabetes mellitus. A 2020 systematic review and meta-analysis concluded that the benefits exerted by continuous glucose monitoring on parameters of glucose control were mainly evident in individuals with type 1 diabetes and that the data are less clear in type 2 diabetes. Continuous glucose monitoring devices should be used as close to daily as possible to maximize benefit. Time in the therapeutic range is associated with reduced risk of microvascular complications. Continuous glucose monitoring devices provide data regarding the time in range, as well as the times below and above target, which are useful parameters for reevaluation of the treatment regimen."
+]
+},
+{
+"type":"p",
+"hlId":"41c946",
+"children":[
+"Metformin should not be discontinued (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") because it is appropriate therapy for type 2 diabetes. This patient has a normal creatinine level and no adverse effects such as diarrhea or abdominal discomfort. Metformin is not the cause of his glycemic variability."
+]
+},
+{
+"type":"p",
+"hlId":"bdc746",
+"children":[
+"Increasing this patient's insulin glargine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may worsen his hypoglycemia. It is important to determine why he is having hypoglycemia (e.g., hyperglycemia after dinner, snacking at night) before increasing his insulin glargine. Although his fasting glucose levels are not consistently at goal, he occasionally reaches the 120 mg/dL (6.7 mmol/L) range."
+]
+},
+{
+"type":"p",
+"hlId":"5f8460",
+"children":[
+"Insulin glargine dosage should not be reduced (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Although the patient is experiencing intermittent hypoglycemia, he is not experiencing fasting hypoglycemia. Hypoglycemia during the day can be related to increased activity, a mismatch of insulin lispro with carbohydrate intake, or the result of excess basal insulin. More information is needed to establish a pattern for this patient and make an appropriate adjustment."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_2",
+"objective":{
+"__html":"Manage type 2 diabetes mellitus with continuous glucose monitoring."
+},
+"references":[
+[
+"American Diabetes Association. 7. Diabetes technology: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S85-S99. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298418",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298418"
+]
+},
+" doi:10.2337/dc21-S007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":7,
+"C":69,
+"D":19,
+"E":0
+},
+"hlIds":[
+"cee570",
+"c31f6b",
+"e8332d",
+"83d599",
+"f41556",
+"0970f4",
+"41c946",
+"bdc746",
+"5f8460"
+]
+}

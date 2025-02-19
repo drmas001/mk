@@ -1,0 +1,215 @@
+{
+"id":"mk19_a_id_q077",
+"number":77,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4df52e",
+"children":[
+"A 45-year-old man is evaluated in the emergency department for new-onset seizures; he also reports a 2-week history of headaches and right ear drainage. Medical history is noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"efdd1a",
+"children":[
+"On physical examination, vital signs are normal. Purulent drainage is seen from the right external ear canal. The right mastoid is tender."
+]
+},
+{
+"type":"p",
+"hlId":"69aa5c",
+"children":[
+"CT scan of the head with and without contrast shows a 3-cm right temporal ring-enhancing lesion and a right otomastoiditis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous penicillin and metronidazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous vancomycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lumbar puncture and culture of cerebrospinal fluid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stereotactic needle aspiration of brain lesion"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"59d04f",
+"children":[
+"Brain abscesses in immunocompetent patients are mainly caused by bacteria that enter the brain through contiguous spread (e.g., following otitis, mastoiditis, sinusitis, neurosurgical procedures, or cranial trauma) or hematogenous dissemination (e.g., infective endocarditis, bacteremia from a dental source)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8187d5",
+"children":[
+"Empiric antibiotic therapy for brain abscess should be guided by the source of infection and Gram stain, and directed therapy should be guided by culture results whenever possible."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9e5f6c",
+"children":[
+"The most appropriate next step for this patient is to perform a stereotactic brain aspiration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for a culture to guide antibiotic therapy. This patient has a brain abscess. Brain abscesses in immunocompetent patients are mainly caused by bacteria that enter the brain through contiguous spread (e.g., following otitis, mastoiditis, sinusitis, neurosurgical procedures, or cranial trauma) or hematogenous dissemination (e.g., infective endocarditis, bacteremia from a dental source). Headache is the most common presenting symptom, with the classic triad (fever, headache, focal neurologic deficit) seen in only approximately 20% of patients. The most common bacteria causing brain abscesses are streptococci (e.g., ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus milleri"
+]
+},
+"), ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", Enterobacteriaceae, and anaerobes. The diagnosis is usually made by CT or MRI with contrast. Aspiration is especially recommended if the brain abscess is larger than 2.5 cm. The yield of blood cultures is low (around 25%); even with a positive blood culture, aspiration should be performed for a large abscess."
+]
+},
+{
+"type":"p",
+"hlId":"62e849",
+"children":[
+"Treatment with intravenous penicillin and metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an appropriate empiric antibiotic selection for brain abscess secondary to an odontogenic infection. However, the source of this patient's infection is most likely mastoiditis, and empiric antibiotic treatment with metronidazole plus a third-generation cephalosporin following abscess aspiration and Gram stain, while waiting for culture results, would be more appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"194b3c",
+"children":[
+"Intravenous vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be an appropriate empiric antibiotic selection for a patient with a brain abscess and evidence of endocarditis or intravenous drug use. However, these predisposing factors are not present and the best first management step is abscess aspiration, Gram stain, and culture."
+]
+},
+{
+"type":"p",
+"hlId":"b54746",
+"children":[
+"Performing a lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated because it could place the patient at risk for herniation; additionally, the yield of a cerebrospinal fluid (CSF) culture is low. The CSF culture can be positive if the abscess ruptures into the ventricles; this would be an indication for an emergent craniotomy and ventricular lavage."
+]
+}
+],
+"relatedSection":"mk19_a_id_s1_2_1",
+"objective":{
+"__html":"Manage a brain abscess."
+},
+"references":[
+[
+"Sonneville R, Ruimy R, Benzonana N, et al; ESCMID Study Group for Infectious Diseases of the Brain (ESGIB). An update on bacterial brain abscess in immunocompetent patients. Clin Microbiol Infect. 2017;23:614-620. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28501669",
+"target":"_blank"
+},
+"children":[
+"PMID: 28501669"
+]
+},
+" doi:10.1016/j.cmi.2017.05.004"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":7,
+"C":21,
+"D":40,
+"E":0
+},
+"hlIds":[
+"4df52e",
+"efdd1a",
+"69aa5c",
+"1a5dcc",
+"59d04f",
+"8187d5",
+"9e5f6c",
+"62e849",
+"194b3c",
+"b54746"
+]
+}

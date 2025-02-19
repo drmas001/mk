@@ -1,0 +1,815 @@
+{
+"id":"mk19_b_hm_q026",
+"number":26,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2055e9",
+"children":[
+"A 32-year-old man is evaluated in the emergency department for a 1-week history of fatigue, low-grade fever, bruising, and epistaxis. He has no other medical problems, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"bb7a3d",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.0 °F), blood pressure is 120/65 mm Hg, pulse rate is 108/min, and respiration rate is 22/min. Pallor is noted. Dried blood is present in the nares. Multiple bruises are seen on his extremities, and he has petechiae at his ankles."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"08837d",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Activated partial thromboplastin time",
+"children":[
+"Activated partial thromboplastin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bf6801",
+"class":"cell text l",
+"children":[
+"38 s"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ad4b32",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"D-Dimer",
+"children":[
+"D-dimer"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6ff38e",
+"class":"cell text l",
+"children":[
+"2.5 μg/mL (2.5 mg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1fae6",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"Hematocrit"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8760c4",
+"class":"cell text l",
+"children":[
+"22%"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2358e5",
+"class":"cell text l",
+"children":[
+"2300/μL (2.3 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"72b682",
+"class":"cell text l",
+"children":[
+"22,000/μL (22 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93eab9",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"Prothrombin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8544f2",
+"class":"cell text l",
+"children":[
+"25 s"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1f0320",
+"class":"cell text l",
+"children":[
+"3.5 g/dL (35 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"830b1f",
+"class":"cell text l",
+"children":[
+"30 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a1a39e",
+"class":"cell text l",
+"children":[
+"35 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-10 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2c1b03",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Bilirubin, total"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b1c009",
+"class":"cell text l",
+"children":[
+"0.9 mg/dL (15.4 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-11 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d905c8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Fibrinogen, plasma",
+"children":[
+"Fibrinogen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"45796d",
+"class":"cell text l",
+"children":[
+"60 mg/dL (0.6 g/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aplastic anemia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coagulopathy of liver disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Disseminated intravascular coagulation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thrombotic thrombocytopenic purpura"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5ed7ce",
+"children":[
+"Typical findings of disseminated intravascular coagulation include thrombocytopenia, prolonged coagulation measures, hypofibrinogenemia, and elevated D-dimer level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"13bdc2",
+"children":[
+"The most likely diagnosis is disseminated intravascular coagulation (DIC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). DIC results from the simultaneous activation of coagulation and fibrinolysis. It is associated with severe sepsis, usually with septic shock; with disseminated malignancy, most classically with mucin-secreting pancreatic adenocarcinoma; and in pregnancy, with complications of placental abruption and eclampsia. The initial pathogenesis involves widespread endothelial injury and circulating procoagulants that lead to disseminated microvascular thrombi, with consumption of platelets and clotting factors, and erythrocyte shearing injury leading to hemolysis. Fibrinolysis is accelerated, resulting in dissolution of the microvascular thrombus, usually before thrombotic complications are noted. Classic laboratory findings include thrombocytopenia, prolonged activated partial thromboplastin and prothrombin times (aPTT, PT), elevated INR, hypofibrinogenemia, and elevated D-dimer level. Management is directed primarily at the inciting cause of DIC and supported with platelet transfusions, cryoprecipitate, and fresh frozen plasma as needed. In this previously well, young patient with DIC associated with pancytopenia, an underlying leukemia should be suspected. A characteristic feature of acute promyelocytic leukemia is presentation with DIC at the time of diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"f16902",
+"children":[
+"Aplastic anemia can explain the patient's pancytopenia but does not account for other aspects of the coagulopathy that are present (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fb0197",
+"children":[
+"Liver disease results in procoagulant and anticoagulant factor reduction and in mild to moderate thrombocytopenia. Reduced procoagulant factors can result in prolongation of PT and aPTT; however, these results do not correlate with bleeding risk because they do not reflect the parallel reduction in anticoagulant factors. Distinguishing between liver disease and DIC may be challenging because patients, not uncommonly, have components of both disorders. However, this previously well patient with normal liver function tests and severe pancytopenia is not likely to have coagulopathy of liver disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"69086e",
+"children":[
+"Thrombocytopenia and microangiopathic hemolysis are the hallmarks of thrombotic thrombocytopenic purpura (TTP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). However, TTP is not associated with coagulation abnormalities or severe hypofibrinogenemia as seen in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s7_4_2",
+"objective":{
+"__html":"Diagnose disseminated intravascular coagulation."
+},
+"references":[
+[
+"Levi M, Sivapalaratnam S. Disseminated intravascular coagulation: An update on pathogenesis and diagnosis. Expert Rev Hematol. 2018;11:663-672. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29999440",
+"target":"_blank"
+},
+"children":[
+"PMID: 29999440"
+]
+},
+" doi:10.1080/17474086.2018.1500173"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":27,
+"B":7,
+"C":45,
+"D":21,
+"E":0
+},
+"hlIds":[
+"2055e9",
+"bb7a3d",
+"a462a3",
+"08837d",
+"bf6801",
+"ad4b32",
+"6ff38e",
+"f1fae6",
+"8760c4",
+"2989c0",
+"2358e5",
+"fcac73",
+"72b682",
+"93eab9",
+"8544f2",
+"4590ed",
+"1f0320",
+"62ea29",
+"830b1f",
+"c7d329",
+"a1a39e",
+"2c1b03",
+"b1c009",
+"d905c8",
+"45796d",
+"413696",
+"5ed7ce",
+"13bdc2",
+"f16902",
+"fb0197",
+"69086e"
+]
+}

@@ -1,0 +1,193 @@
+{
+"id":"mk19_b_pm_s10",
+"subspecialtyId":"pm",
+"title":"Critical Care Medicine: ICU Utilization",
+"jsonContent":{
+"type":"section",
+"id":"mk19_b_pm_s10",
+"title":{
+"__html":"Critical Care Medicine: ICU Utilization"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a61b69",
+"children":[
+"Critical Care Medicine: ICU Utilization"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_b_pm_s10_1",
+"title":{
+"__html":"Recognizing the Critically Ill Patient"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"ddc51f",
+"children":[
+"Recognizing the Critically Ill Patient"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"aea456",
+"children":[
+"There are no commonly accepted criteria for admission to an ICU. Signs and symptoms of clinical instability, including hypotension, hypoxemia, arrhythmias, and changes in mental status, may be useful in identifying patients who require intense resources or may be at risk for deterioration. Several scoring systems, such as the Acute Physiology and Chronic Health Evaluation, the Sequential Organ Failure Assessment, and the Simplified Acute Physiology Score, have been designed to help classify the severity of disease of patients admitted to the ICU. These scoring systems use vital signs and risk factors such as chronic disease, emergent surgery, and immunosuppression to calculate risk for mortality. Although they are rarely, if ever, used as ICU admission criteria, they are used to compare disease severity, progression, and outcomes. Disease-specific scoring systems can also be used to triage patients on the basis of risk for deterioration or death. Examples include the simplified Pulmonary Embolism Severity Index, the quick Sequential Organ Failure Assessment for sepsis, and the Pneumonia Severity Index or the CURB-65 for predicting mortality in community-acquired pneumonia. The electronic medical record databases are being harnessed to provide warning and predictive systems based on usually collected data (vital signs, age, and current or trending clinical information) to identify at-risk patients. Predictive models are evolving with the application of machine learning and artificial intelligence, yet their application remains at local levels and is not widespread."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s10_2",
+"title":{
+"__html":"Organization of Critical Care"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"f7aac8",
+"children":[
+"Organization of Critical Care"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f3a6ac",
+"children":[
+"To improve early management and resuscitation of patients who are at risk or deteriorating, many health care systems have developed rapid response teams or medical emergency response teams, with the aim of recognizing patients promptly, triggering early evaluation and management, and moving the patient to a higher level of care. A key element of this system is the ability for any member of the health care team or family member to trigger the rapid response team. Systematic reviews and meta-analyses of the effectiveness of these teams demonstrate a variable decrease in cardiac and respiratory arrests, unexpected deterioration, and mortality in adults."
+]
+},
+{
+"type":"p",
+"hlId":"5a9e36",
+"children":[
+"Determining admission to a critical care bed is more complicated than simply assessing the level of patient illness. It is determined in a significant way by hospital and unit policies and resources unique to each institution. No standard admission model exists, although international societies have published guidelines. Hospitals have developed institution-specific protocols to better manage patients who require life-support technology."
+]
+},
+{
+"type":"p",
+"hlId":"2ee254",
+"children":[
+"An ICU is equipped with technology that allows continuous patient monitoring and delivery of life-sustaining interventions such as mechanical ventilation and emergency extracorporeal organ support. Hospital units designated as ICUs typically have the sickest patients and require nurse-to-patient ratios of 1:1 or 1:2, whereas a progressive care unit (also called an intermediate, transitional, or step-down unit) may have a nurse-to-patient ratio as high as 1:5, reflecting patients with lower acuity."
+]
+},
+{
+"type":"p",
+"hlId":"d32d94",
+"children":[
+"Critical care is generally defined as open unit versus closed unit and low-intensity versus high-intensity. In an open unit, patients are managed by their primary hospital team, which may or may not include a critical care consultant. Patients in a closed unit are managed primarily by the critical care team. Low-intensity units are open units. Although high-intensity units can be open or closed units, the critical care team is present throughout the day, providing consultation. Data supporting high-intensity and closed models with continuous staffing of ICUs by intensivists have been conflicting; recent data, however, show a mortality benefit with the closed ICU."
+]
+},
+{
+"type":"p",
+"hlId":"979eb9",
+"children":[
+"The nature of the intensive care unit requires an interprofessional and multidisciplinary team. Key features that allow the best team dynamics are the explicit recognition of the roles and responsibilities of the team members, the use of shared communication models, and an environment of psychological safety."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"2c3246",
+"children":[
+"Rapid response teams have been shown to decrease the incidence of cardiac and respiratory arrests as well as hospital mortality in adults."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6bd621",
+"hvc":true,
+"children":[
+"Data supporting high-intensity and closed models of critical care with continuous staffing of ICUs by intensivists have been conflicting; recent data, however, show a mortality benefit with the closed ICU."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_b_pm_s10_3",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Hall KK, Lim A, Gale B. The use of rapid response teams to reduce failure to rescue events: A systematic review. J Patient Saf. 2020;16:S3-S7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32809994",
+"target":"_blank"
+},
+"children":[
+"PMID: 32809994"
+]
+},
+" doi:10.1097/PTS.0000000000000748"
+]
+},
+{
+"type":"reference",
+"children":[
+"Nates JL, Nunnally M, Kleinpell R, et al. ICU admission, discharge, and triage guidelines: A framework to enhance clinical operations, development of institutional policies, and further research. Crit Care Med. 2016;44:1553-602. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27428118",
+"target":"_blank"
+},
+"children":[
+"PMID: 27428118"
+]
+},
+" doi:10.1097/CCM.0000000000001856"
+]
+},
+{
+"type":"reference",
+"children":[
+"Zampieri FG, Salluh JIF, Azevedo LCP, et al; ORCHESTRA Study Investigators. ICU staffing feature phenotypes and their relationship with patients' outcomes: an unsupervised machine learning analysis. Intensive Care Med. 2019;45:1599-1607. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31595349",
+"target":"_blank"
+},
+"children":[
+"PMID: 31595349"
+]
+},
+" doi:10.1007/s00134-019-05790-z"
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+}
+}

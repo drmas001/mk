@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_np_q019",
+"number":19,
+"bookId":"np",
+"correctAnswer":"E",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4d9167",
+"children":[
+"A 46-year-old woman is evaluated for a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 2.6 mg/dL (229.8 µmol/L). Her baseline ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level 3 months ago was 0.9 mg/dL (79.6 µmol/L). She has no symptoms. Two years ago, she started losartan and amlodipine for hypertension. One year ago, she started omeprazole for gastroesophageal reflux disease and naproxen for knee osteoarthritis. Eight months ago, she began atorvastatin for hyperlipidemia."
+]
+},
+{
+"type":"p",
+"hlId":"32322e",
+"children":[
+"On physical examination, temperature is 37.0 °C (98.6 °F), and blood pressure is 138/86 mm Hg. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"a6bf5c",
+"children":[
+"Urinalysis shows the following: specific gravity 1.015; pH 5.5; 1+ erythrocytes; 3+ leukocytes; 1+ leukocyte esterase; no nitrates; and >100 leukocytes/hpf with leukocyte and granular casts."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b16968",
+"children":[
+"Which of the following drugs should be discontinued in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atorvastatin and amlodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Losartan and amlodipine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Losartan and omeprazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Naproxen and atorvastatin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Naproxen and omeprazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"00fc2d",
+"children":[
+"Medications, especially antibiotics, are the most common cause of acute interstitial nephritis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"321171",
+"children":[
+"Acute interstitial nephritis can be caused by NSAIDs and proton pump inhibitors in the absence of fever, rash, or eosinophilia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"86b8ed",
+"children":[
+"Naproxen and omeprazole should be discontinued (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Acute interstitial nephritis (AIN) is a common cause of acute kidney injury (AKI) and is characterized by inflammation and edema of the interstitium. The classic clinical presentation of fever, rash, and peripheral eosinophilia occurs in only 10% to 30% of patients with AIN. Urinary findings can include eosinophiluria, leukocytes, erythrocytes, and leukocyte casts. Urine eosinophils are neither sensitive nor specific for AIN. Drug-induced AIN, especially due to antibiotics, is the most common cause of AIN. Other causes include infection, systemic disease, and autoimmune disorders. Typically, the serum creatinine level gradually increases 7 to 10 days after drug exposure. Drug-induced AIN from NSAIDs, including selective cyclooxygenase-2 inhibitors, is usually not associated with fever, rash, or eosinophilia and develops 6 to 18 months after drug exposure. AIN from NSAIDs can be associated with the nephrotic syndrome due to minimal change glomerulopathy or membranous nephropathy. Proton pump inhibitors are also associated with AIN without fever, rash, and eosinophilia. The onset of AIN with proton pump inhibitors is variable but typically occurs 10 to 11 weeks after exposure. Proton pump inhibitors are believed to be a risk factor for the development of chronic kidney disease."
+]
+},
+{
+"type":"p",
+"hlId":"cf03b9",
+"children":[
+"Kidney recovery from drug-induced AIN is usually complete if the drug is discontinued immediately after the onset of kidney injury; however, recovery may take weeks to several months. Kidney biopsy should be considered if there is no improvement in kidney function after 5 to 7 days of drug discontinuation. Early glucocorticoid administration may limit damage associated with drug-induced AIN. When there are no obvious signs and symptoms of infection or toxic exposures, the most appropriate management is to discontinue high-probability medications and consider initiating a course of oral glucocorticoids. In patients taking multiple medications, it is reasonable to selectively discontinue the medications most likely causative of AIN. In this patient, the most appropriate course is to discontinue the naproxen and omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"552d6b",
+"children":[
+"Calcium channel blockers (amlodipine), statins (atorvastatin), and angiotensin receptor blockers (losartan) are rarely associated with AIN (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A-D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_2_2",
+"objective":{
+"__html":"Manage acute interstitial nephritis in a patient taking multiple medications."
+},
+"references":[
+[
+"Perazella MA. Clinical approach to diagnosing acute and chronic tubulointerstitial disease. Adv Chronic Kidney Dis. 2017;24:57-63. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28284380",
+"target":"_blank"
+},
+"children":[
+"PMID: 28284380"
+]
+},
+" doi:10.1053/j.ackd.2016.08.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":0,
+"C":5,
+"D":6,
+"E":88
+},
+"hlIds":[
+"4d9167",
+"32322e",
+"a6bf5c",
+"b16968",
+"00fc2d",
+"321171",
+"86b8ed",
+"cf03b9",
+"552d6b"
+]
+}

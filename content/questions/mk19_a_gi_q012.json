@@ -1,0 +1,510 @@
+{
+"id":"mk19_a_gi_q012",
+"number":12,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d37c89",
+"children":[
+"A 40-year-old man is evaluated in the emergency department for severe epigastric abdominal pain radiating to the back that has worsened in the past 12 hours."
+]
+},
+{
+"type":"p",
+"hlId":"ba5e51",
+"children":[
+"On physical examination, temperature is 39.4 °C (102.9 °F), blood pressure is 100/60 mm Hg, pulse rate is 110/min, and respiration rate is 28/min. Palpation of abdomen elicits epigastric pain without guarding."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6bb450",
+"class":"cell text l",
+"children":[
+"18,000/μL (18 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"26d008",
+"class":"cell text l",
+"children":[
+"178 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d54b39",
+"class":"cell text l",
+"children":[
+"145 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2b62f4",
+"class":"cell text l",
+"children":[
+"1.1 mg/dL (18.8 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d89619",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Lipase, serum",
+"children":[
+"Lipase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7940c4",
+"class":"cell text l",
+"children":[
+"100 U/L"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"e905db",
+"children":[
+"Blood and urine cultures are pending."
+]
+},
+{
+"type":"p",
+"hlId":"d993f2",
+"children":[
+"Fluid resuscitation with lactated Ringer solution is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Contrast-enhanced CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Empiric antibiotics"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Endoscopic ultrasonography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Triglyceride measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1baa7e",
+"children":[
+"The diagnosis of acute pancreatitis requires at least two of the following: (1) acute-onset abdominal pain characteristic of pancreatitis, (2) elevation in pancreatic enzymes at least three times the upper limit of normal, and (3) findings on cross-sectional imaging characteristic of acute pancreatitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b346d5",
+"children":[
+"Routine use of antibiotics is not warranted in acute pancreatitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7995ae",
+"children":[
+"The most appropriate management is contrast-enhanced CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient probably has acute pancreatitis, the diagnosis of which requires at least two of the following: (1) acute-onset abdominal pain characteristic of pancreatitis (severe, persistent for hours to days, and epigastric in location, often radiating to the back); (2) elevation in pancreatic enzymes (typically lipase) three times the upper limit of normal or higher; and (3) imaging findings characteristic of acute pancreatitis, including peripancreatic fat stranding and inflammation as well as peripancreatic edema. Serum amylase and lipase levels may be elevated in nonpancreatic conditions (e.g., kidney disease, acute appendicitis) and therefore are not specific for acute pancreatitis. This patient has typical symptoms, but his lipase levels do not meet the threshold for diagnosis. Therefore, cross-sectional imaging is recommended to confirm the diagnosis. Cross-sectional imaging is also helpful to assess patients for other conditions that might mimic acute pancreatitis and to evaluate patients with atypical symptoms. Preferred imaging modalities include contrast-enhanced CT and MRI."
+]
+},
+{
+"type":"p",
+"hlId":"ba125b",
+"children":[
+"Routine use of antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not warranted in acute pancreatitis unless there is evidence of extrapancreatic infection, such as ascending cholangitis, bacteremia, urinary tract infection, or pneumonia. Prophylactic antibiotics do not affect the rates of important outcomes, such as organ failure and hospital length of stay."
+]
+},
+{
+"type":"p",
+"hlId":"19856c",
+"children":[
+"Endoscopic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), in which an ultrasound probe is placed in the stomach and small intestine to better visualize the pancreas and biliary system, is not typically used in the initial diagnosis of pancreatitis because of its invasive nature."
+]
+},
+{
+"type":"p",
+"hlId":"e8a695",
+"children":[
+"Once a diagnosis of pancreatitis is confirmed, patients should undergo an assessment for the cause of acute pancreatitis. Biliary disease and alcohol are the most common causes of acute pancreatitis. Transabdominal ultrasonography is the preferred imaging modality to assess for a biliary cause of acute pancreatitis. Triglyceride levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be measured in patients without a biliary cause of acute pancreatitis; a triglyceride level exceeding 1000 mg/dL (11.3 mmol/L) can be considered the cause of the acute pancreatitis. Because the diagnosis of acute pancreatitis has not been established and the biliary tree has not been evaluated, measurement of triglyceride levels is premature."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_1",
+"objective":{
+"__html":"Diagnose acute pancreatitis."
+},
+"references":[
+[
+"Forsmark CE, Vege SS, Wilcox CM. Acute pancreatitis. N Engl J Med. 2016;375:1972-1981. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27959604",
+"target":"_blank"
+},
+"children":[
+"PMID: 27959604"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":52,
+"B":33,
+"C":5,
+"D":10,
+"E":0
+},
+"hlIds":[
+"d37c89",
+"ba5e51",
+"a462a3",
+"2989c0",
+"6bb450",
+"62ea29",
+"26d008",
+"c7d329",
+"d54b39",
+"c6e520",
+"2b62f4",
+"d89619",
+"7940c4",
+"e905db",
+"d993f2",
+"e15e9d",
+"1baa7e",
+"b346d5",
+"7995ae",
+"ba125b",
+"19856c",
+"e8a695"
+]
+}

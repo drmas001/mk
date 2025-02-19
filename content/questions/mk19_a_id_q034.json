@@ -1,0 +1,249 @@
+{
+"id":"mk19_a_id_q034",
+"number":34,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5a1e6a",
+"children":[
+"A 78-year-old man was hospitalized 2 days ago for management of lower back pain that has been worsening over the past 4 weeks and remained uncontrolled with oral pain medications. He reports no radicular symptoms, weakness, or bladder or bowel incontinence. Medical history is notable for benign prostatic hyperplasia treated with tamsulosin."
+]
+},
+{
+"type":"p",
+"hlId":"a0bb25",
+"children":[
+"On physical examination, the patient appears in distress from pain. Temperature is 37.9 °C (100.2 °F), blood pressure is 155/85 mm Hg, pulse rate is 82/min, and respiration rate is 18/min. Tenderness to palpation is elicited over the lower lumbar spine. Lower extremity strength is normal, with intact sensation and normal reflexes."
+]
+},
+{
+"type":"p",
+"hlId":"075732",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 12.2 g/dL (122 g/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 15,600/µL (15.6 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"p",
+"hlId":"532af3",
+"children":[
+"MRI with contrast reveals evidence of L3-L4 discitis with osteomyelitis involving the contiguous vertebral body end plates at L3 and L4, without evidence of epidural abscess."
+]
+},
+{
+"type":"p",
+"hlId":"21128d",
+"children":[
+"Blood and urine cultures are negative at 48 hours."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Disk space aspiration/biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Open bone biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Vancomycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vancomycin and ceftriaxone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"19e2d6",
+"children":[
+"Initiation of antibiotic therapy for uncomplicated vertebral osteomyelitis is based on culture results."
+]
+},
+{
+"type":"keypoint",
+"hlId":"41f28d",
+"children":[
+"Image-guided biopsy has a diagnostic yield of approximately 60% for vertebral osteomyelitis and should be used in patients with negative blood culture results."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dfcfd5",
+"children":[
+"Disk space aspiration and biopsy is the most appropriate next step in the management of this patient with evidence of discitis and osteomyelitis involving the spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Although mildly febrile with leukocytosis, he is hemodynamically stable, so antibiotic therapy may be safely withheld until a specimen is obtained for culture. Because the treatment duration is long, generally 6 weeks, and the risk of adverse events is high, especially in older patients, every effort should be made to ensure that the antibiotic selected is optimal for the organism causing the infection. If blood cultures return positive for a typical pathogen, the need for biopsy could be reassessed. If neurologic compromise or radiographic evidence of spinal instability were present, urgent surgical intervention may be needed."
+]
+},
+{
+"type":"p",
+"hlId":"06be72",
+"children":[
+"The yield of percutaneous biopsy in this setting is around 60%. If the first biopsy is negative, a second attempt at percutaneous biopsy can be made before considering open biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"36d1d5",
+"children":[
+"Indications to begin empiric antibiotic therapy include hemodynamic instability, epidural abscess, signs of spinal instability, and progressive neurologic deficit, none of which are present in this patient. The most likely microbial cause of vertebral osteomyelitis in adults is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+"; streptococcal species, Enterobacteriaceae, and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" species can also be seen. However, this older man with benign prostatic hyperplasia and risk for urinary tract infections could be infected with gram-negative pathogens, so empiric antibiotics with broad coverage for gram-positive and gram-negative pathogens, such as vancomycin and ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), would be more appropriate than vancomycin alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") if empiric antibiotics were indicated."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_5",
+"objective":{
+"__html":"Evaluate vertebral osteomyelitis with needle biopsy."
+},
+"references":[
+[
+"Berbari EF, Kanj SS, Kowalski TJ, et al. 2015 Infectious Diseases Society of America (IDSA) clinical practice guidelines for the diagnosis and treatment of native vertebral osteomyelitis in adults. Clin Infect Dis. 2015;61:e26-46. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26229122",
+"target":"_blank"
+},
+"children":[
+"PMID: 26229122"
+]
+},
+" doi:10.1093/cid/civ482"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":60,
+"B":16,
+"C":3,
+"D":20,
+"E":0
+},
+"hlIds":[
+"5a1e6a",
+"a0bb25",
+"075732",
+"532af3",
+"21128d",
+"cb2b54",
+"19e2d6",
+"41f28d",
+"dfcfd5",
+"06be72",
+"36d1d5"
+]
+}

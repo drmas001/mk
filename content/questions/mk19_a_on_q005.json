@@ -1,0 +1,226 @@
+{
+"id":"mk19_a_on_q005",
+"number":5,
+"bookId":"on",
+"correctAnswer":"E",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f49c4e",
+"children":[
+"A 68-year-old man is evaluated for early satiety and right upper quadrant discomfort. He is otherwise well. He reports that he is still working full time and walks about a half mile to and from work each day."
+]
+},
+{
+"type":"p",
+"hlId":"3db30f",
+"children":[
+"On physical examination, vital signs are normal. Examination is notable for hepatomegaly."
+]
+},
+{
+"type":"p",
+"hlId":"251647",
+"children":[
+"Complete blood count is normal. On serum chemistry testing, alkaline phosphatase and aminotransferase levels are elevated; bilirubin and creatinine levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"d0d156",
+"children":[
+"CT scan of the chest, abdomen, and pelvis shows hepatomegaly with multiple metastatic lesions and abdominal carcinomatosis with a small amount of ascites. No other abnormalities are noted. Liver biopsy reveals adenocarcinoma."
+]
+},
+{
+"type":"p",
+"hlId":"b40c02",
+"children":[
+"The patient is diagnosed with metastatic cancer from an unknown primary."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Measure serum CA-19-9, CA-15-3, and CA-125 antigens"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obtain a gene expression array"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy, wireless capsule endoscopy, and colonoscopy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional testing; initiate combination chemotherapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"598035",
+"children":[
+"In patients with cancer of unknown primary, diagnostic efforts should focus on identifying a limited number of more treatable subtypes of cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a3cbe6",
+"children":[
+"The most appropriate management is no additional testing and to initiate combination chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This patient has advanced metastatic adenocarcinoma from a cancer of unknown primary (CUP). Diagnostic efforts should focus on identifying whether a patient is among the approximately 20% of patients with CUP who have a more favorable prognosis and who can benefit from a specific treatment strategy. A biopsy obtained from the site that can be sampled in the safest, least invasive manner is performed, and specimens are evaluated by immunohistochemical stains consistent with the tumor's pattern of presentation to attempt to establish a diagnosis of a more treatable subtype of CUP (for example, germ cell tumor or lymphoma). The clinical evaluation should not involve an exhaustive search for a primary site because detection of an asymptomatic and occult primary tumor does not improve outcome. Physicians should discuss with patients and their families that focusing on identification of the primary tumor can distract from the more important issue of managing the metastatic cancer. Efforts to identify primary tumors should focus only on tumors that are suggested by the clinical presentation or could be managed with a specific, effective therapy. In this case, metastatic disease located below the diaphragm is best managed as gastrointestinal cancer without additional testing for a primary cancer."
+]
+},
+{
+"type":"p",
+"hlId":"f5e1e7",
+"children":[
+"Nonspecific tumor markers, such as serum carcinoembryonic antigen, CA-19-9, CA-15-3, or CA-125 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are not definitive for identifying a specific site of origin and are not routinely recommended in patients with CUP."
+]
+},
+{
+"type":"p",
+"hlId":"6d6626",
+"children":[
+"The use of gene expression arrays (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been commercially promoted, but the clinical utility of these tests to identify more effective therapy has not been established, and their routine use in the evaluation of CUP is not recommended. More importantly, identifying the primary source of this patient's metastatic adenocarcinoma will not change the outcome in this case."
+]
+},
+{
+"type":"p",
+"hlId":"a7e5d8",
+"children":[
+"In some patients, PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may suggest the possible primary location, but false-positive results are significant, and PET scan findings are not apt to change the treatment plan in a patient with metastatic adenocarcinoma located primarily below the diaphragm."
+]
+},
+{
+"type":"p",
+"hlId":"615f20",
+"children":[
+"In the evaluation of CUP, specific symptoms may be pursued, such as upper endoscopy and colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in patients with symptoms or evidence of gastrointestinal bleeding. This patient has no evidence of gastrointestinal bleeding or gastrointestinal symptoms, and extensive evaluation of the gastrointestinal tract is not warranted."
+]
+}
+],
+"relatedSection":"mk19_a_on_s1_3",
+"objective":{
+"__html":"Evaluate cancer of unknown primary."
+},
+"references":[
+[
+"Tomuleasa C, Zaharie F, Muresan MS, et al. How to diagnose and treat a cancer of unknown primary site. J Gastrointestin Liver Dis. 2017;26:69-79. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28338116",
+"target":"_blank"
+},
+"children":[
+"PMID: 28338116"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":12,
+"C":12,
+"D":39,
+"E":26
+},
+"hlIds":[
+"f49c4e",
+"3db30f",
+"251647",
+"d0d156",
+"b40c02",
+"cb2b54",
+"598035",
+"a3cbe6",
+"f5e1e7",
+"6d6626",
+"a7e5d8",
+"615f20"
+]
+}

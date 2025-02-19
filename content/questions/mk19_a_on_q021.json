@@ -1,0 +1,218 @@
+{
+"id":"mk19_a_on_q021",
+"number":21,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"17d799",
+"children":[
+"A 45-year-old woman is evaluated for headaches and nausea that started 2 weeks ago. Her headaches are worse in the morning and have been associated with vomiting."
+]
+},
+{
+"type":"p",
+"hlId":"a7132e",
+"children":[
+"Medical history is significant for metastatic breast cancer diagnosed 4 years ago. She is currently receiving treatment with capecitabine and trastuzumab. Additional medications are ondansetron and prochlorperazine."
+]
+},
+{
+"type":"p",
+"hlId":"29bf39",
+"children":[
+"On physical examination, vital signs are normal. Funduscopic examination findings are ",
+{
+"type":"figure-link",
+"target":"mk19_a_on_mcq_f021",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_on_mcq_f021"
+]
+},
+{
+"type":"p",
+"hlId":"6c4667",
+"children":[
+"MRI of the brain reveals a 4-cm rim-enhancing lesion in the left frontal lobe with surrounding vasogenic edema. There is no midline shift or evidence of herniation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dexamethasone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Stereotactic radiation therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical resection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Whole brain radiation therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24b2c5",
+"children":[
+"Symptoms of increased intracranial pressure include headache, depressed global consciousness, and vomiting, and may include signs and symptoms of herniation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b02432",
+"children":[
+"Glucocorticoids reduce tumor-related vasogenic edema in patients with brain metastases and often provide rapid symptom improvement."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9c2f46",
+"children":[
+"This patient has elevated intracranial pressure from a newly diagnosed brain metastasis and should receive initial treatment with dexamethasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Elevated intracranial pressure can result from primary brain malignancies or from brain metastases, which occur in 10% to 20% of adult cancer patients. The most common types of primary cancer that cause brain metastases are lung cancer, breast cancer, and melanoma. Median survival after diagnosis of brain metastases varies from less than 3 months to more than 25 months. Symptoms of increased intracranial pressure include headache, depressed global consciousness, and vomiting, and may include signs and symptoms of herniation. In this patient, morning nausea and headache are symptoms that should prompt concern for increased intracranial pressure, which is confirmed by the funduscopic examination showing papilledema. The characteristic findings of late papilledema as shown in the image include elevation of the optic disc with blurring of the margins and loss of the optic cup. Blood vessels are buried as they course the disc. Multiple flame hemorrhages and cotton wool spots, resulting from nerve fiber infarction, are present. Glucocorticoids reduce tumor-related vasogenic edema in 75% of patients and often provide rapid symptom improvement. Although this patient will require irradiation, surgery, or both to directly address the new brain metastasis, glucocorticoids should be initiated upon diagnosis of increased intracranial pressure and should not be withheld for a therapeutic plan to be established."
+]
+},
+{
+"type":"p",
+"hlId":"9a8560",
+"children":[
+"For the patient with an isolated brain metastasis, the decision to perform surgical resection or stereotactic radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+") may depend on the size and location of the lesion, symptom burden, performance status, and comorbidities and is best made through multidisciplinary discussion."
+]
+},
+{
+"type":"p",
+"hlId":"83cbaf",
+"children":[
+"Whole brain radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not ideal for this patient who has an isolated brain metastasis, which could be addressed through surgery or stereotactic radiation therapy. Whole brain radiation therapy is associated with a greater burden of symptoms including fatigue and cognitive impairment. Whole brain radiation therapy is generally used for patients presenting with multiple brain metastases."
+]
+}
+],
+"relatedSection":"mk19_a_on_s12_1_3_1",
+"objective":{
+"__html":"Treat a patient with brain metastases and elevated intracranial pressure."
+},
+"references":[
+[
+"Achrol AS, Rennert RC, Anders C, et al. Brain metastases. Nat Rev Dis Primers. 2019;5:5. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30655533",
+"target":"_blank"
+},
+"children":[
+"PMID: 30655533"
+]
+},
+" doi:10.1038/s41572-018-0055-y"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":82,
+"B":8,
+"C":4,
+"D":6,
+"E":0
+},
+"figuresContent":{
+"mk19_a_on_mcq_f021":{
+"id":"mk19_a_on_mcq_f021",
+"number":21,
+"bookId":"on",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"1fe1ea579a1666a57870aad63684de89",
+"height":786,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"17d799",
+"a7132e",
+"29bf39",
+"6c4667",
+"473b62",
+"24b2c5",
+"b02432",
+"9c2f46",
+"9a8560",
+"83cbaf"
+]
+}

@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_cv_q081",
+"number":81,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 81",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3ae297",
+"children":[
+"A 53-year-old woman is evaluated in the coronary care unit. She underwent successful primary percutaneous coronary intervention with drug-eluting stent placement in the mid right coronary artery for an inferior ST-elevation myocardial infarction. In the catheterization laboratory, she had several episodes of symptomatic 2:1 atrioventricular block with sinus bradycardia. After returning to the coronary care unit, she has symptomatic intermittent 2:1 atrioventricular block and several episodes of complete heart block with a narrow-complex escape rhythm (heart rate at 58/min). Medications are atorvastatin, aspirin, and clopidogrel."
+]
+},
+{
+"type":"p",
+"hlId":"d5d0e2",
+"children":[
+"On physical examination, blood pressure is 118/82 mm Hg, pulse rate is 68/min, respiration rate is 18/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. Cardiac examination reveals a regularly irregular rhythm. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atropine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous unfractionated heparin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Temporary pacing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent dual-chamber pacemaker"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7a682",
+"children":[
+"Symptomatic patients with transient heart block, including Mobitz type 1 heart block and complete heart block, after inferior myocardial infarction may be treated with temporary pacing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3c8e10",
+"children":[
+"The most appropriate treatment for this patient is temporary pacing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Conduction abnormalities are commonly identified in the setting of acute myocardial infarction (MI) and are managed on the basis of the type of block and the location of myocardial injury. Symptomatic patients with inferior MI and transient heart block may be treated with temporary pacing because conduction block in this setting, including Mobitz type 1 and complete heart block, is caused by high vagal tone affecting the atrioventricular (AV) node, is generally transient, and is accompanied by an adequate escape rhythm. Whereas temporary pacing support may occasionally be necessary, permanent pacing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is rarely indicated. Vagally mediated heart block occurring at the AV node must be distinguished from the less benign and potentially lethal Mobitz type 2 second-degree AV block, which occurs more frequently in the setting of extensive anterior MI and damage to the conduction system below the AV node. Although Mobitz type 1 block occurs at the AV node and is identified by cyclical, repetitive prolongation of the PR interval leading to a “dropped beat” and a regularly irregular rhythm, Mobitz type 2 block is typified by block conduction without associated PR prolongation and may predispose to extended periods of asystole, requiring permanent pacemaker support."
+]
+},
+{
+"type":"p",
+"hlId":"91cbce",
+"children":[
+"Atropine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may improve AV nodal conduction and increase the sinus rate through vagolytic activity. However, it provides only temporary benefit and is neither necessary nor sufficient as treatment for asymptomatic heart block in this setting."
+]
+},
+{
+"type":"p",
+"hlId":"9a96e5",
+"children":[
+"Although unfractionated heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and other intravenous antithrombin therapy would be indicated in the presence of thrombotic complications or atrial fibrillation, it is not indicated routinely after successful primary percutaneous coronary intervention or for treatment of irregular rhythms associated with heart block. However, dual antiplatelet therapy is indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_2_3",
+"objective":{
+"__html":"Treat a symptomatic patient with transient heart block following an inferior myocardial infarction."
+},
+"references":[
+[
+"O'Gara PT, Kushner FG, Ascheim DD, et al. 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2013;61:e78-e140. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23256914",
+"target":"_blank"
+},
+"children":[
+"PMID: 23256914"
+]
+},
+" doi:10.1016/j.jacc.2012.11.019"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":10,
+"C":65,
+"D":17,
+"E":0
+},
+"hlIds":[
+"3ae297",
+"d5d0e2",
+"1054f1",
+"b7a682",
+"3c8e10",
+"91cbce",
+"9a96e5"
+]
+}

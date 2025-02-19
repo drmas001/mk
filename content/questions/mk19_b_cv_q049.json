@@ -1,0 +1,225 @@
+{
+"id":"mk19_b_cv_q049",
+"number":49,
+"bookId":"cv",
+"correctAnswer":"E",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"93517c",
+"children":[
+"A 49-year-old woman is evaluated during a new patient visit. She has no medical problems or concerning symptoms and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"b530bd",
+"children":[
+"On physical examination, vital signs are normal. The S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" is diminished, and there is an aortic ejection click shortly after the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+". The S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is normal. There is a grade 2/6, high-pitched, decrescendo early diastolic murmur heard best at the left sternal border. The murmur is accentuated when the patient leans forward."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stress echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a6f6e6",
+"children":[
+"Transthoracic echocardiography is the mainstay of noninvasive imaging to detect structural heart abnormalities and to evaluate new or worsening cardiac murmurs."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"056b60",
+"children":[
+"The most appropriate diagnostic test is transthoracic echocardiography (TTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") in this patient with physical examination findings suggestive of structural heart disease, specifically aortic regurgitation. TTE is the mainstay of noninvasive imaging to detect structural heart abnormalities and to evaluate new or worsening murmurs. This patient's murmur suggests aortic regurgitation, which should initially be evaluated with TTE. TTE also allows for evaluation of hemodynamic and functional consequences of valvular heart disease, which will assist in managing this patient."
+]
+},
+{
+"type":"p",
+"hlId":"cb9165",
+"children":[
+"In patients with moderate or severe aortic regurgitation and suboptimal TTE images or a discrepancy between clinical and TTE findings, transesophageal echocardiography (TEE), cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), or cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated for the assessment of left ventricular systolic function, systolic and diastolic volumes, aortic size, and aortic regurgitation severity. However, before consideration of any of these tests, initial evaluation with TTE should be performed."
+]
+},
+{
+"type":"p",
+"hlId":"e31458",
+"children":[
+"In patients with suspected low-flow, low-gradient severe aortic stenosis with reduced left ventricular ejection fraction, low-dose dobutamine stress testing with echocardiographic (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or invasive hemodynamic measurements is reasonable to further define severity and assess contractile reserve. However, this patient's auscultation findings are most consistent with aortic regurgitation. Even if this patient had aortic stenosis, the initial diagnostic test remains TTE."
+]
+},
+{
+"type":"p",
+"hlId":"540c93",
+"children":[
+"TEE (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not the most appropriate next step for this patient because it is unnecessarily invasive at this point in her evaluation. TEE is usually performed if TTE image quality is low; it also can be particularly helpful if an evaluation of left atrial appendage thrombus or a cardioembolic source is indicated or when there is suspicion of endocarditis, prosthetic valve dysfunction, or aortic disease. TEE is also useful in patients with moderate or severe aortic regurgitation and suboptimal TTE images or a discrepancy between clinical and TTE findings."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_3",
+"objective":{
+"__html":"Evaluate a cardiac murmur with transthoracic echocardiography."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":5,
+"D":10,
+"E":83
+},
+"hlIds":[
+"93517c",
+"b530bd",
+"2eb226",
+"a6f6e6",
+"056b60",
+"cb9165",
+"e31458",
+"540c93"
+]
+}

@@ -1,0 +1,166 @@
+{
+"id":"mk19_qq_q160",
+"number":160,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 160",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c6179d",
+"children":[
+"A 53-year-old woman is evaluated during a wellness visit. She is asymptomatic. All immunizations are up to date. Colonoscopy for colorectal cancer screening and primary high-risk human papillomavirus testing for cervical cancer screening were completed 3 years ago, and mammography for breast cancer screening was completed 1 year ago. All results were negative. She has a 20-pack-year smoking history but quit 5 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"bedc10",
+"children":[
+"Physical examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"427850",
+"children":[
+"Which of the following is the most appropriate screening test to perform?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-dose chest CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sputum cytology"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional cancer screening"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f55830",
+"children":[
+"The U.S. Preventive Services Task Force recommends annual screening for lung cancer with low-dose CT in adults aged 50 to 80 years who have a 20-pack-year smoking history and currently smoke or have quit within the past 15 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"137d68",
+"children":[
+"Low-dose chest CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate screening test for this patient. Seventy-five percent of patients with lung cancer present with metastatic or advanced local disease and have a poor prognosis. At the earliest stage, the median 5-year survival for non–small cell lung cancer is 77%. Therefore, patients with earlier detection and treatment have the greatest chance for cure. The U.S. Preventive Services Task Force (USPSTF) recommends annual screening for lung cancer with low-dose CT in adults aged 50 to 80 years who have a 20-pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery. This recommendation is based on results from a series of randomized controlled trials. In the largest trial, the National Lung Screening Trial (NLST), low-dose CT had a sensitivity of 93.8% and specificity of 73.4% for the detection of lung cancer. The NLST demonstrated a 16% reduction in lung cancer mortality with low-dose CT. All persons enrolled in a screening program who are current smokers should receive smoking cessation interventions."
+]
+},
+{
+"type":"p",
+"hlId":"f092dd",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") had a sensitivity of 73.5% and specificity of 91.3% for the detection of lung cancer in the NLST. In addition, a series of studies on chest radiography and/or sputum cytology (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") since 1960 have shown no benefits in lung cancer mortality."
+]
+},
+{
+"type":"p",
+"hlId":"8f5025",
+"children":[
+"The 2021 USPSTF recommendation for lung cancer screening replaces the 2013 USPSTF recommendation for lung cancer screening. In 2013, the USPSTF recommended annual screening for lung cancer with low-dose CT in adults aged 55 to 80 years who have a 30-pack-year smoking history and currently smoke or have quit within the past 15 years. The change in the recommendation is based on several lines of evidence suggesting that screening for lung cancer in persons with fewer pack-years of smoking (fewer than the 30-pack-year eligibility criterion of the 2013 USPSTF recommendation) and at an earlier age (50 years) can increase the benefits of screening. Screening the patient for lung cancer now, at age 53 years and with a 20-pack-year history of cigarette smoking, is consistent with the most recent guidelines; no additional screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not in the best interest of this patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_5",
+"objective":{
+"__html":"Screen for lung cancer."
+},
+"references":[
+[
+"Krist AH, Davidson KW, Mangione CM, et al; US Preventive Services Task Force. Screening for lung cancer: US Preventive Services Task Force recommendation statement. JAMA. 2021;325:962-970. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33687470",
+"target":"_blank"
+},
+"children":[
+"PMID: 33687470"
+]
+},
+" doi:10.1001/jama.2021.1117"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c6179d",
+"bedc10",
+"427850",
+"f55830",
+"137d68",
+"f092dd",
+"8f5025"
+]
+}

@@ -1,0 +1,214 @@
+{
+"id":"mk19_a_gm_q049",
+"number":49,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e2c4f2",
+"children":[
+"A 76-year-old woman is evaluated in the emergency department for presumed community-acquired pneumonia. She lives with her daughter and cares for her grandchildren when they return from school."
+]
+},
+{
+"type":"p",
+"hlId":"574bba",
+"children":[
+"On physical examination, temperature is 38.1 °C (100.5 °F), blood pressure is normal, pulse rate is 110/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 86% with the patient breathing ambient air and increases to 91% on 3 L/min of oxygen by nasal cannula. Crackles are auscultated at the right lung base."
+]
+},
+{
+"type":"p",
+"hlId":"55fe77",
+"children":[
+"Chest radiograph demonstrates a right lower lobe infiltrate."
+]
+},
+{
+"type":"p",
+"hlId":"f8683f",
+"children":[
+"She is offered admission for treatment, which she accepts. She is deemed to have decision-making capacity. A nurse reports hearing the patient's daughter tell her mother, “If you cannot take care of my kids, I am going to put you in a nursing home.” After this exchange, the patient insists that she must leave the hospital. She will not explain the reason for the change in her decision."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Consult with the hospital ethics committee"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discharge the patient home with oral antibiotics"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hospitalize the patient"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain psychiatric assessment of capacity"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a1a1f5",
+"children":[
+"Informed consent or refusal requires that the patient have decision-making capacity and be free from coercion."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c16dd1",
+"children":[
+"The most appropriate next step in management is consultation with the hospital ethics committee (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In most situations, adults with decision-making capacity have the legal and ethical right to accept or refuse medical treatments. This right is based on respect for the patient's autonomy, right to self-determination, and liberty. A patient's refusal of care should be explored thoughtfully and with empathy, with attention to the spectrum of reasonable choices. However, for informed refusal to be considered valid, the patient must be able to make her own decisions and be free from coercion. In this case, the care team has evidence that the patient may be being coerced to return home. The ethics committee should be consulted to determine the appropriate course of action."
+]
+},
+{
+"type":"p",
+"hlId":"6239e5",
+"children":[
+"Discharging the patient home on oral antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate given her tachycardia and hypoxia, as well as the report of potential coercion."
+]
+},
+{
+"type":"p",
+"hlId":"d780fa",
+"children":[
+"It is inappropriate, and in opposition to the principles of autonomy and liberty, to hospitalize a patient with capacity against her will (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Engaging the hospital ethics committee to determine whether coercion is preventing the patient from making a freely informed choice is the best next step."
+]
+},
+{
+"type":"p",
+"hlId":"6658c2",
+"children":[
+"Physicians, in the course of routine clinical care, are able to evaluate decision-making capacity based on the patient's ability to understand information, appreciate the risks and benefits of treatment options, and communicate a consistent choice in line with their stated values. A psychiatric evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not needed."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s3_3_3",
+"objective":{
+"__html":"Evaluate the validity of a patient's refusal of care."
+},
+"references":[
+[
+"Sulmasy LS, Bledsoe TA; ACP Ethics, Professionalism and Human Rights Committee. American College of Physicians Ethics Manual: seventh edition. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-2160",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:S1-32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30641552",
+"target":"_blank"
+},
+"children":[
+"PMID: 30641552"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":50,
+"B":23,
+"C":20,
+"D":7,
+"E":0
+},
+"hlIds":[
+"e2c4f2",
+"574bba",
+"55fe77",
+"f8683f",
+"1a5dcc",
+"a1a1f5",
+"c16dd1",
+"6239e5",
+"d780fa",
+"6658c2"
+]
+}

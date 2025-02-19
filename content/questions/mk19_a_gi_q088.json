@@ -1,0 +1,206 @@
+{
+"id":"mk19_a_gi_q088",
+"number":88,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 88",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"647386",
+"children":[
+"A 58-year-old man is hospitalized after having three black, loose stools in 1 day. He has no other medical conditions, takes no medications, and does not drink alcohol."
+]
+},
+{
+"type":"p",
+"hlId":"36f766",
+"children":[
+"On physical examination, vital signs are normal. The patient appears comfortable, with a normal abdominal examination. Anorectal examination shows a small amount of black tarry stool in the rectal vault. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"d8ba65",
+"children":[
+"Upper endoscopy reveals a 1.5-cm gastric ulcer with a nonbleeding visible vessel, which is treated with endoscopic clips. Biopsy of the ulcer is performed, and results of testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c4ff97",
+"children":[
+"Which of the following is the most appropriate immediate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Standard-dose esomeprazole and broad-spectrum antibiotics"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-dose esomeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"High-dose esomeprazole and octreotide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Standard-dose esomeprazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"40f373",
+"children":[
+"Patients with ulcers at high risk for rebleeding (active bleeding, active oozing, or nonbleeding visible vessel) receiving endoscopic therapy should receive high-dose proton pump inhibitor (PPI) therapy for 72 hours while hospitalized, followed by an oral PPI twice daily for a total of 2 weeks following the therapeutic endoscopy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a21420",
+"children":[
+"The most appropriate treatment is high-dose esomeprazole, a proton pump inhibitor (PPI), for 72 hours following endoscopic therapy of a bleeding ulcer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). High-dose therapy is defined as ≥80 mg daily. Upper endoscopy should be performed within 24 hours in patients with acute upper gastrointestinal bleeding (UGIB). In this patient, endoscopy revealed a nonbleeding visible vessel within the ulcer base, which is classified as an ulcer with high risk for rebleeding (high-risk findings include active bleeding, active oozing, and nonbleeding visible vessels). Endoscopic therapy was appropriately performed to reduce the risk of rebleeding and mortality. To further reduce the risk of rebleeding and mortality following endoscopic therapy, high-dose PPI therapy should be provided either via continuous infusion or intermittently for 72 hours while the patient is hospitalized. Suggested continuous PPI therapy should consist of 80-mg bolus followed by 8-mg/hr infusion. Alternatively, intermittent oral or intravenous therapy should consist of an 80-mg bolus followed by a 40-mg bolus two to four times daily. The risk of rebleeding is further reduced by continuing the patient on twice-daily PPI therapy for a total of 2 weeks following the endoscopy (i.e., days 4 to 14 post therapeutic endoscopy)."
+]
+},
+{
+"type":"p",
+"hlId":"fb553f",
+"children":[
+"Initiation of broad-spectrum antibiotics for 7 days is recommended in all patients with cirrhosis and gastrointestinal bleeding even in the absence of ascites. This patient does not have cirrhosis; therefore, treatment with broad-spectrum antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"02bb2b",
+"children":[
+"Octreotide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an analogue of somatostatin that decreases splanchnic blood flow and lowers portal pressure; it should be initiated before endoscopic evaluation and continuously infused for 3 to 5 days after variceal hemorrhage. Octreotide is not routinely used in nonvariceal UGIB."
+]
+},
+{
+"type":"p",
+"hlId":"8f1bed",
+"children":[
+"Patients with low-risk stigmata following recent UGIB (i.e., flat pigmented spot, clean-based ulcer) not requiring further endoscopic therapy should receive once-daily oral PPI therapy, such as omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), for 8 weeks. Following endoscopy, these patients can be fed within 24 hours and discharged from the hospital. This patient has a high-risk ulcer that should be treated with high dose PPI as already discussed above."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_2_3_3",
+"objective":{
+"__html":"Manage high-risk upper gastrointestinal bleeding."
+},
+"references":[
+[
+"Laine L, Barkun AN, Saltzman JR, et al. ACG clinical guideline: upper gastrointestinal and ulcer bleeding. Am J Gastroenterol. 2021;116:899-917. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33929377",
+"target":"_blank"
+},
+"children":[
+"PMID: 33929377"
+]
+},
+" doi:10.14309/ajg.0000000000001245"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":54,
+"C":4,
+"D":41,
+"E":0
+},
+"hlIds":[
+"91054a",
+"647386",
+"36f766",
+"d8ba65",
+"c4ff97",
+"40f373",
+"a21420",
+"fb553f",
+"02bb2b",
+"8f1bed"
+]
+}

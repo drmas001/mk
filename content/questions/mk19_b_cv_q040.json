@@ -1,0 +1,215 @@
+{
+"id":"mk19_b_cv_q040",
+"number":40,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c905d5",
+"children":[
+"A 56-year-old woman is evaluated before starting treatment with trastuzumab for early-stage ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+"-positive breast cancer. She has no cardiovascular symptoms and has no exercise-related limitations. She has hypertension and hyperlipidemia. Medications are losartan and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"47928e",
+"children":[
+"On physical examination, vital signs and other findings are normal. The breast surgery site has healed."
+]
+},
+{
+"type":"p",
+"hlId":"437d2b",
+"children":[
+"Results of routine laboratory studies are normal."
+]
+},
+{
+"type":"p",
+"hlId":"9aacd3",
+"children":[
+"Findings on echocardiogram are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"Left ventricular ejection fraction"
+]
+},
+" is 55%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9526b9",
+"children":[
+"Which of the following is the most appropriate cardiac surveillance for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Multigated acquisition (MUGA) scan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No surveillance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5cc842",
+"children":[
+"In patients receiving trastuzumab therapy at high risk for cardiac dysfunction, periodic echocardiographic surveillance is recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bf8a95",
+"children":[
+"This patient should undergo surveillance with echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Trastuzumab is an anti-",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HER2"
+]
+},
+" monoclonal antibody that decreases the risk for breast cancer recurrence and breast cancer–related death. It may result in reversible cardiotoxicity that manifests as left ventricular systolic dysfunction, causing symptoms of heart failure in 3% to 7% of patients. Routine surveillance imaging with echocardiography may be offered during treatment in asymptomatic patients at increased risk for cardiac dysfunction. The 2017 American Society of Clinical Oncology (ASCO) practice guideline recommends echocardiography as the surveillance imaging modality of choice. ASCO identifies patients receiving trastuzumab as having increased risk for cardiac dysfunction if any of the following are present: two or more traditional cardiovascular risk factors (smoking, hypertension, diabetes mellitus, dyslipidemia, and obesity), older age (≥60 years) at cancer treatment, borderline left ventricular ejection fraction (50% to 55%), history of myocardial infarction, moderate or greater valvular heart disease, and treatment combined with lower-dose anthracycline. This patient has three risk factors (hypertension, hyperlipidemia, and borderline ejection fraction) and should undergo echocardiographic surveillance. ASCO recommends that the frequency of cardiac imaging for each patient be determined by the patient's physician on the basis of clinical judgment and patient circumstances. Common practice includes a baseline evaluation and repeat imaging at 3, 6, 9, and 12 months after trastuzumab initiation. ASCO suggests that an echocardiogram be obtained between 6 and 12 months after completion of cancer-directed therapy in asymptomatic patients considered to be at increased risk."
+]
+},
+{
+"type":"p",
+"hlId":"cd5a9e",
+"children":[
+"ASCO recommends echocardiography in patients who develop heart failure symptoms. Cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or multigated acquisition (MUGA) scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended if echocardiography is not available or has resulted in poor image quality, with preference given to CMR imaging. Neither CMR imaging nor MUGA scan is recommended for routine surveillance."
+]
+},
+{
+"type":"p",
+"hlId":"d76d61",
+"children":[
+"Performing no surveillance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not in the best interest of this patient. The incidence of significant left ventricular ejection fraction decline in trials has ranged from 7.1% to 18.6%, with a rate of New York Heart Association functional class III or IV heart failure ranging from 0.4% to 4.1%. Early intervention in asymptomatic patients, including cessation of trastuzumab and consideration of cardioprotective medications, may help reduce this risk. The decision to discontinue trastuzumab is made by the oncologist in consultation with a cardiologist."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s12_2",
+"objective":{
+"__html":"Screen for myocardial dysfunction with echocardiography during trastuzumab therapy."
+},
+"references":[
+[
+"Armenian SH, Lacchetti C, Lenihan D. Prevention and monitoring of cardiac dysfunction in survivors of adult cancers: American Society of Clinical Oncology clinical practice guideline summary. J Oncol Pract. 2017;13:270-5. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27922796",
+"target":"_blank"
+},
+"children":[
+"PMID: 27922796"
+]
+},
+" doi:10.1200/JOP.2016.018770"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":63,
+"C":17,
+"D":19,
+"E":0
+},
+"hlIds":[
+"c905d5",
+"47928e",
+"437d2b",
+"9aacd3",
+"9526b9",
+"5cc842",
+"bf8a95",
+"cd5a9e",
+"d76d61"
+]
+}

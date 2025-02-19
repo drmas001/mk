@@ -1,0 +1,279 @@
+{
+"id":"mk19_a_on_q057",
+"number":57,
+"bookId":"on",
+"correctAnswer":"E",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b1497d",
+"children":[
+"A 53-year-old man is evaluated in the office following hemicolectomy for adenocarcinoma of the colon. He is otherwise healthy, has no symptoms, and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ec3d39",
+"children":[
+"Physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"2a718b",
+"children":[
+"Presurgical contrast-enhanced CT scan of the chest, abdomen, and pelvis was negative for metastases."
+]
+},
+{
+"type":"p",
+"hlId":"d562db",
+"children":[
+"Pathology revealed a 4-cm adenocarcinoma that was poorly differentiated and invading into the submucosa but not into the muscularis. All 17 lymph nodes sampled were negative for tumor. The tumor is staged as T2N0 (stage I). The tumor is negative for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"KRAS"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"NRAS"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" mutations."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"098d52",
+"children":[
+"Which of the following is the most important prognostic factor?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Degree of tumor differentiation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>KRAS</i>, <i>NRAS</i>, and <i>BRAF</i> tumor mutational status"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Performance status of patient"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Size of the tumor"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Stage of the tumor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1ed460",
+"children":[
+"Staging is generally the most accurate prognostic indicator and largely dictates the therapeutic strategy for patients with cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d2cde9",
+"children":[
+"Tumor stage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is usually the most important prognostic factor in determining a patient's outcome. All tumors are staged using the American Joint Commission on Cancer staging system. This involves the TNM system, in which the extent of the tumor (size and/or depth of penetration), nodes (number of local-regional nodes that contain cancer), and metastases (present or absent) are considered. TNM scorings are placed on a scale of stage I though IV, with stage I having the best prognosis and stage IV the worst."
+]
+},
+{
+"type":"p",
+"hlId":"921fcd",
+"children":[
+"Poorly differentiated tumors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") have, in general, a worse prognosis than well-differentiated tumors; however, this too is a modest prognostic factor compared with staging."
+]
+},
+{
+"type":"p",
+"hlId":"d842ae",
+"children":[
+"Although molecular profiling for driver mutations in genes such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"KRAS"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"NRAS"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may influence prognosis and may have implications for chemotherapy selections in advanced disease, they have far less influence on outcome than tumor stage. In addition, they are not relevant in the management of stage I colon cancer, which has a very favorable prognosis and would not require further therapy after surgery."
+]
+},
+{
+"type":"p",
+"hlId":"e353dd",
+"children":[
+"Performance status (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which is a designation of the overall medical wellness, or lack thereof, of the patient may have important prognostic implications within a particular stage of disease but is far less significant prognostically than the staging itself. It is important to differentiate patients with a poor performance status who are debilitated due to chronic comorbidities from patients who would otherwise be medically fit but are acutely debilitated by their cancer. The latter situation may warrant an attempt at aggressive treatment because reversing the cancer process is the only option that will improve the patient's overall condition, whereas the former may need to be treated with less aggressive treatment or possibly no specific anticancer treatment."
+]
+},
+{
+"type":"p",
+"hlId":"f33db6",
+"children":[
+"Tumor size (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be a component of the “T” stage, but by itself, it has only modest prognostic significance relative to overall stage."
+]
+}
+],
+"relatedSection":"mk19_a_on_s1_2",
+"objective":{
+"__html":"Evaluate cancer prognosis."
+},
+"references":[
+[
+"Daly MC, Paquette IM. Surveillance, epidemiology, and end results (SEER) and SEER-medicare databases: use in clinical research for improving colorectal cancer outcomes. Clin Colon Rectal Surg. 2019;32:61-68. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30647547",
+"target":"_blank"
+},
+"children":[
+"PMID: 30647547"
+]
+},
+" doi:10.1055/s-0038-1673355"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":5,
+"C":17,
+"D":2,
+"E":65
+},
+"hlIds":[
+"b1497d",
+"ec3d39",
+"2a718b",
+"d562db",
+"098d52",
+"1ed460",
+"d2cde9",
+"921fcd",
+"d842ae",
+"e353dd",
+"f33db6"
+]
+}

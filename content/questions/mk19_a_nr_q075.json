@@ -1,0 +1,236 @@
+{
+"id":"mk19_a_nr_q075",
+"number":75,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d48f20",
+"children":[
+"A 58-year-old man is evaluated for left lower extremity weakness. Three months ago, severe pain in the left buttock developed. The pain has since diminished, but progressive left-thigh weakness and muscle wasting are now present. He has hypothyroidism, type 2 diabetes, and alcohol use disorder. Current medications are levothyroxine, metformin, and canagliflozin."
+]
+},
+{
+"type":"p",
+"hlId":"d0a07e",
+"children":[
+"On physical examination, vital signs are normal. BMI is 20. There is tenderness to touch over the left buttock and inner thigh. Sensory perception to light touch and pinprick is diminished over the left medial thigh and dorsum of the left foot. Left anterior thigh muscles are weak and wasted. Fasciculation is noted in left quadriceps and lumbar paraspinal muscles. Examination of the toes reveals a flexor plantar response. Patellar and Achilles reflexes are absent on the left side and diminished on the right side. The rest of the neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"f3e333",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 6.9% and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of 5.2 μU/mL (5.2 mU/L)."
+]
+},
+{
+"type":"p",
+"hlId":"a31e04",
+"children":[
+"Electromyogram reveals multifocal sensorimotor axon loss and denervation affecting the proximal more than the distal left lower extremity."
+]
+},
+{
+"type":"p",
+"hlId":"0d9b7d",
+"children":[
+"MRI of lumbar spine and CT scan of abdomen and pelvis are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alcoholic polyneuropathy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Autoimmune ganglionopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Diabetic amyotrophy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hypothyroid plexopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"145c70",
+"children":[
+"Diabetic amyotrophy can occur in patients with well-controlled diabetes."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2e4d4a",
+"children":[
+"Onset of diabetic amyotrophy is often acute or subacute, with asymmetric prominent pain followed by proximal weakness and muscle loss."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"90f626",
+"children":[
+"The most likely diagnosis is diabetic amyotrophy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a subacute lumbosacral plexopathy that can present in patients with well-controlled type 2 diabetes mellitus. Diabetes often causes a distal symmetric sensorimotor polyneuropathy, but other neuromuscular manifestations, including mononeuropathy, radiculopathy, small-fiber and autonomic neuropathies, and plexopathies are also possible. Onset of diabetic amyotrophy is often acute or subacute, with asymmetric prominent pain followed by proximal weakness and muscle loss. Sensory loss may occur to a variable degree. Electromyography often reveals diffuse denervation and axon loss. MRI of the lumbar spine and CT of the abdomen and pelvis are indicated to rule out alternative causes, such as cauda equina syndrome and retroperitoneal hematoma. Management consists of supportive measures, physical therapy, and pain control; despite sporadic reports of benefit from immunomodulatory therapies, the benefit of these therapies remains unproven."
+]
+},
+{
+"type":"p",
+"hlId":"f24f3a",
+"children":[
+"Alcohol misuse often causes a toxic neuropathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") characterized by symmetric distal sensory or sensorimotor involvement. Plexopathy is not a typical presentation of alcohol-related neuropathy. Plexopathies originate at the level of the brachial or lumbosacral plexus and involve multiple sensory and motor nerves simultaneously."
+]
+},
+{
+"type":"p",
+"hlId":"22215d",
+"children":[
+"Autoimmune ganglionopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is characterized by severe loss of vibration and joint position sense in a single limb without motor deficits. This phenotype should prompt a search for possible underlying malignancy. This diagnosis is not consistent with this patient's symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"5f880f",
+"children":[
+"Hypothyroidism often presents with proximal myopathy or distal sensorimotor axonal neuropathy but not a lumbosacral plexopathy. Compressive brachial plexopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") caused by encroachment from an enlarged thyroid gland or mass has been reported rarely."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_2_3_1",
+"objective":{
+"__html":"Diagnose diabetic amyotrophy."
+},
+"references":[
+[
+"Li Y. Axonal sensorimotor polyneuropathies. Continuum (Minneap Minn). 2017;23:1378-93. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28968367",
+"target":"_blank"
+},
+"children":[
+"PMID: 28968367"
+]
+},
+" doi:10.1212/CON.0000000000000514"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":23,
+"B":16,
+"C":55,
+"D":6,
+"E":0
+},
+"hlIds":[
+"d48f20",
+"d0a07e",
+"f3e333",
+"a31e04",
+"0d9b7d",
+"413696",
+"145c70",
+"2e4d4a",
+"90f626",
+"f24f3a",
+"22215d",
+"5f880f"
+]
+}

@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gm_q105",
+"number":105,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 105",
+"stimulus":[
+{
+"type":"p",
+"hlId":"70acc4",
+"children":[
+"A 39-year-old woman is evaluated for dizziness. For the past week, upon awakening, she has experienced a spinning sensation for 20 to 60 seconds with associated nausea. She has had intermittent lightheadedness at various times during the day since symptom onset. She reports no hearing loss or tinnitus. She recovered from a viral upper respiratory tract illness 3 weeks ago. The patient is otherwise healthy and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"64612e",
+"children":[
+"On physical examination, vital signs are normal. The Dix-Hallpike maneuver on the right side shows delayed unidirectional nystagmus associated with vertigo and nausea. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Canalith repositioning maneuver"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Meclizine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the brain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vestibular and balance rehabilitation therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a6877e",
+"hvc":true,
+"children":[
+"Benign paroxysmal positional vertigo is characterized by sudden-onset, recurrent, and brief vertiginous symptoms that occur with positional changes of the head."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a1fc18",
+"hvc":true,
+"children":[
+"Benign paroxysmal positional vertigo is treated with the canalith repositioning maneuver."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"32198f",
+"children":[
+"The canalith repositioning maneuver (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate next step in management. This patient has symptoms and examination findings (positive Dix-Hallpike maneuver) consistent with benign paroxysmal positional vertigo (BPPV). BPPV, the most common form of vertigo, is characterized by dizziness, imbalance, nausea, and vomiting that occur with positional changes of the head. The vertiginous symptoms are sudden in onset, recurrent, and brief (usually <1 minute), with no focal neurologic findings. BPPV is caused by otoconia (calcium carbonate crystals) coming loose and moving within the fluid-filled semicircular canals. The canalith repositioning (Epley) maneuver will move otoconia from the semicircular canals back to the utricle, resolving symptoms in up to 85% of patients with BPPV."
+]
+},
+{
+"type":"p",
+"hlId":"0b9b3e",
+"children":[
+"Antihistamines, such as meclizine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), can assist with symptom management in the setting of motion sickness or Meniere disease. This patient's vertigo is most likely caused by canalith displacement, so the repositioning maneuver is a more appropriate treatment than medication."
+]
+},
+{
+"type":"p",
+"hlId":"fb59c1",
+"children":[
+"MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be appropriate if the examination findings raised concern for central vertigo. In that case, examination would show a negative Dix-Hallpike maneuver, and HINTS (Head Impulse, Nystagmus, and Test of Skew) examination for central vertigo would show absence of catch-up saccades, bidirectional nystagmus, and vertical skew. An abnormal result on any one of the three HINTS components suggests a central rather than peripheral cause of acute vertigo. The HINTS examination is most applicable in patients with persistent rather than episodic vertigo."
+]
+},
+{
+"type":"p",
+"hlId":"734574",
+"children":[
+"Labyrinthitis can cause peripheral vertigo and hearing loss, typically after a viral infection; it would typically cause constant dizziness instead of episodic dizziness, as seen in this patient. Prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would treat labyrinthitis, but it has no role in the treatment of BPPV."
+]
+},
+{
+"type":"p",
+"hlId":"4fb494",
+"children":[
+"Vestibular and balance rehabilitation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be an option for vertiginous symptoms that persist after appropriate treatment of the underlying cause."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_3_2_1",
+"objective":{
+"__html":"Treat benign paroxysmal positional vertigo."
+},
+"references":[
+[
+"Bhattacharyya N, Gubbels SP, Schwartz SR, et al. Clinical practice guideline: benign paroxysmal positional vertigo (update). Otolaryngol Head Neck Surg. 2017;156:S1-47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28248609",
+"target":"_blank"
+},
+"children":[
+"PMID: 28248609"
+]
+},
+" doi:10.1177/0194599816689667"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":49,
+"B":12,
+"C":2,
+"D":11,
+"E":25
+},
+"hlIds":[
+"70acc4",
+"64612e",
+"1a5dcc",
+"a6877e",
+"a1fc18",
+"32198f",
+"0b9b3e",
+"fb59c1",
+"734574",
+"4fb494"
+]
+}

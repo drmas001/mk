@@ -1,0 +1,239 @@
+{
+"id":"mk19_b_gm_q111",
+"number":111,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 111",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7f262a",
+"children":[
+"A 64-year-old man is seen for a preoperative evaluation before a complex open ventral hernia repair. Medical history is significant for COPD. He stopped smoking 9 months ago. He has dyspnea when walking rapidly on a flat surface. His symptoms are currently stable, with minimal cough and sputum production. Medications include inhaled tiotropium and as-needed albuterol. Spirometry results from 4 months ago show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+"/",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" ratio of 0.5 and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 60% of predicted. Screening for obstructive sleep apnea is negative."
+]
+},
+{
+"type":"p",
+"hlId":"edee0c",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 94% breathing ambient air. Chest shows diminished breath sounds without wheezes. Other than a large ventral hernia, the remainder of the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c58781",
+"children":[
+"Which of the following is mostly likely to reduce postoperative pulmonary complications in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Perioperative prophylactic respiratory physiotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Postoperative incentive spirometry"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Postoperative nasogastric tube decompression"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Preoperative chlorhexidine oral washes"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7f74bb",
+"hvc":true,
+"children":[
+"Perioperative prophylactic respiratory physiotherapy that includes increased mobility, sputum clearance, deep breathing exercise, and inspiratory muscle training reduces the incidence of postoperative pulmonary complications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e66b7d",
+"hvc":true,
+"children":[
+"There is no benefit of incentive spirometry, with or without deep breathing exercises, in preventing postoperative pulmonary complications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6374dd",
+"children":[
+"Perioperative prophylactic respiratory physiotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") that includes increased mobility, sputum clearance, deep breathing exercise, and inspiratory muscle training is consistently shown to reduce pulmonary complications after surgery. A 2020 systematic review and meta-analysis evaluated interventions to reduce the incidence of postoperative pulmonary complications in patients undergoing noncardiac surgery. Postoperative pulmonary complications were defined as a composite of respiratory infection, respiratory failure, pleural effusion, atelectasis, or pneumothorax. Perioperative (either before or after surgery, or both) prophylactic respiratory physiotherapy showed an overall benefit (risk ratio, 0.55; 95% CI, 0.32-0.93) in reducing the development of postoperative pulmonary complications. Other interventions associated with a reduced risk for postoperative pulmonary complications included lung-protective intraoperative ventilation, goal-directed hemodynamic therapies, epidural analgesia (replacing opioid analgesia), prophylactic mucolytics, and postoperative continuous positive pressure ventilation. All interventions showing benefit were associated with low-quality evidence."
+]
+},
+{
+"type":"p",
+"hlId":"0ba8b7",
+"children":[
+"Although incentive spirometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is often included in postoperative management, moderate-quality evidence shows no benefit in preventing postoperative pulmonary complications (risk ratio, 1.06; 95% CI, 0.85-1.34). Other recent systematic reviews concur with this finding."
+]
+},
+{
+"type":"p",
+"hlId":"39b045",
+"children":[
+"Routine use of nasogastric tubes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not recommended for the prevention of postoperative pulmonary complications. Systematic reviews and meta-analysis have concluded that the routine use of a nasogastric tube to decompress the stomach following abdominal surgery is associated with an increased risk for pulmonary complications, including pneumonia and atelectasis. Nasogastric tubes do have a role in patients with postoperative gastric distention or in the treatment of nausea and vomiting, but routine use following abdominal surgery is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"d0a49f",
+"children":[
+"Maximizing oral hygiene with preoperative use of chlorhexidine mouthwash (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") reduces the risk for postoperative pneumonia in patients undergoing cardiac surgery; the efficacy in patients undergoing noncardiac thoracic surgery or abdominal surgery is less clear."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_3_2",
+"objective":{
+"__html":"Prevent postoperative pulmonary complications."
+},
+"references":[
+[
+"Odor PM, Bampoe S, Gilhooly D, et al. Perioperative interventions for prevention of postoperative pulmonary complications: systematic review and meta-analysis. BMJ. 2020;368:m540. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32161042",
+"target":"_blank"
+},
+"children":[
+"PMID: 32161042"
+]
+},
+" doi:10.1136/bmj.m540"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":28,
+"B":68,
+"C":3,
+"D":1,
+"E":0
+},
+"hlIds":[
+"7f262a",
+"edee0c",
+"c58781",
+"7f74bb",
+"e66b7d",
+"6374dd",
+"0ba8b7",
+"39b045",
+"d0a49f"
+]
+}

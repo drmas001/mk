@@ -1,0 +1,217 @@
+{
+"id":"mk19_b_cv_q058",
+"number":58,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1f8275",
+"children":[
+"A 74-year-old man is evaluated in the hospital for a 6-month history of progressive fatigue and exertional dyspnea, along with increasing peripheral edema and abdominal girth over the past 3 months. He also has coronary artery disease, for which he had a coronary artery bypass graft at age 62 years. Medications are metoprolol, low-dose aspirin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"23b342",
+"children":[
+"On physical examination, vital signs are normal. Jugular venous distention with prominent waveforms is noted. There is no discernable fall in the central venous pressure during inspiration. An early diastolic sound is present. The liver is enlarged and pulsatile. Ascites is present, and peripheral edema extends to the knees bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"5852a8",
+"children":[
+"On chest radiograph, sternotomy wires and vascular clips are seen, and small bilateral pleural effusions are present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac tamponade"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chronic liver disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Constrictive pericarditis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Restrictive cardiomyopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2020db",
+"children":[
+"Kussmaul sign and pericardial knock, if present, are helpful clues to the presence of constrictive pericarditis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9bd4d9",
+"children":[
+"The diagnostic findings are consistent with constrictive pericarditis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which typically presents with indolent, progressive signs and symptoms of right heart failure, including fatigue and exertional dyspnea. On physical examination, the central venous pressure is elevated in nearly all patients, with prominent ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"x"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"y"
+]
+},
+" descents. The height of the waveform does not fall or may increase during inspiration (Kussmaul sign), reflecting the fixed diastolic volume of the right heart. Early diastolic filling is unimpaired or even accentuated and is followed by sudden cessation when total acceptable volume is met, resulting in a high-frequency early diastolic sound (pericardial knock, heard in <50% of patients). Pulsus paradoxus is less frequent (<20% of patients) in constrictive pericarditis than in cardiac tamponade. Peripheral edema, ascites, hepatomegaly, and pleural effusions are common. Diagnosis of constrictive pericarditis is made with imaging studies and hemodynamic evaluation. Transthoracic echocardiography reveals normal right and left ventricular size and systolic function despite prominent symptoms and findings suggestive of heart failure. Dilatation of the inferior vena cava reflects elevated right-sided filling (right atrial) pressure. Doppler echocardiography and tissue Doppler velocity are required to differentiate constrictive pericarditis from restrictive cardiomyopathy. Although an underlying cause of constrictive pericarditis is not always identified, previous pericarditis, cardiac surgery, chest irradiation, connective tissue disorders, and uremia are common precipitants."
+]
+},
+{
+"type":"p",
+"hlId":"5ea848",
+"children":[
+"Cardiac tamponade (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can easily be confused with constrictive pericarditis. However, cardiac tamponade is typically associated with pulsus paradoxus and not associated with Kussmaul sign."
+]
+},
+{
+"type":"p",
+"hlId":"d44147",
+"children":[
+"A not uncommon misdiagnosis in patients with constrictive pericarditis is cirrhosis. Like patients with constrictive pericarditis, those with cirrhosis may have a palpable liver, ascites, pleural effusions, and peripheral edema. Patients with chronic liver disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") do not have jugular venous distention, Kussmaul sign, or a pericardial knock, as detected in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"a1779d",
+"children":[
+"In most cases, clinically differentiating restrictive cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") from constrictive pericarditis is impossible. Restrictive cardiomyopathy is more likely in a patient with a predisposing systemic disease, such as diabetes mellitus or amyloidosis. In this case, constrictive pericarditis is suggested by the previous coronary artery bypass surgery. Restrictive cardiomyopathy is not associated with a pericardial knock, but this finding is sometimes difficult to distinguish from an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_3_1",
+"objective":{
+"__html":"Diagnose constrictive pericarditis."
+},
+"references":[
+[
+"Geske JB, Anavekar NS, Nishimura RA, et al. Differentiation of constriction and restriction: complex cardiovascular hemodynamics. J Am Coll Cardiol. 2016;68:2329-47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27884252",
+"target":"_blank"
+},
+"children":[
+"PMID: 27884252"
+]
+},
+" doi:10.1016/j.jacc.2016.08.050"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":10,
+"C":59,
+"D":27,
+"E":0
+},
+"hlIds":[
+"1f8275",
+"23b342",
+"5852a8",
+"413696",
+"2020db",
+"9bd4d9",
+"5ea848",
+"d44147",
+"a1779d"
+]
+}

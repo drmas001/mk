@@ -1,0 +1,192 @@
+{
+"id":"mk19_qq_q011",
+"number":11,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"26486c",
+"children":[
+"A 32-year-old woman is evaluated for urinary frequency and dysuria followed shortly thereafter by fever and back pain. She can manage oral intake, has no other medical problems, and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"fc7c46",
+"children":[
+"Blood pressure is 130/76 mm Hg, temperature is 38.7 °C (101.7 °F), and pulse rate is 98/min. Right-sided costovertebral angle tenderness is present. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" is 24,000/μL (24 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level is 1.1 mg/dL (97.2 µmol/L). Urinalysis shows 220 leukocytes/hpf and many bacteria. Urine culture is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"26765a",
+"children":[
+"Which of the following is the most appropriate empiric antibiotic treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ampicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cephalexin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0576d4",
+"children":[
+"Fluoroquinolones (ciprofloxacin for 7 days or levofloxacin for 5 days for uncomplicated infections, 10-14 days in complicated infections) are the only oral agents recommended for empiric outpatient treatment of pyelonephritis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bfa60a",
+"children":[
+"Patients with pyelonephritis who are acutely ill, hypotensive, nauseated, or vomiting should be hospitalized to receive intravenous fluids and empiric therapy with a fluoroquinolone, an extended-spectrum cephalosporin or penicillin, or an aminoglycoside."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8dfb94",
+"children":[
+"Oral ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate treatment for this patient who has acute pyelonephritis. Pyelonephritis is associated with abrupt onset of fever, chills, sweats, nausea, vomiting, diarrhea, myalgia, and flank or abdominal pain. Hypotension and septic shock may occur in severe cases. Urinary frequency and dysuria may precede pyelonephritis. Urine culture with susceptibility testing is required before initiation of empiric therapy. Outpatient management can be considered for patients with pyelonephritis who are medically stable and able to take oral medication. Fluoroquinolones (ciprofloxacin for 7 days or levofloxacin for 5 days for uncomplicated infections, 10-14 days in complicated infections) are the only oral agents recommended for empiric outpatient treatment (except in pregnancy) because of the higher urine drug concentrations achieved compared with trimethoprim-sulfamethoxazole. Patients with pyelonephritis who are acutely ill, hypotensive, nauseated, or vomiting should be hospitalized to receive intravenous fluids and parenteral antibiotics. Empiric therapy for hospitalized patients is begun with a fluoroquinolone, an extended-spectrum cephalosporin or penicillin, or an aminoglycoside, and treatment is continued for 7 to 14 days with adjustments to the antibiotic regimen based on results of urine and blood cultures. Therapy can be completed with active oral agents if an adequate clinical response has been observed. Patients with bacteremia do not require longer treatment courses and may be converted to appropriate oral therapy when clinically stable. Persistent fever and unilateral flank pain despite adequate treatment suggest perinephric or intrarenal abscess and the need for imaging with kidney CT."
+]
+},
+{
+"type":"p",
+"hlId":"675aa6",
+"children":[
+"Ampicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"); first-generation cephalosporins, such as cephalexin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"); and trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are no longer used for empiric therapy because of unacceptably high rates of resistance."
+]
+}
+],
+"relatedSection":"mk19_a_id_s5_3_3",
+"objective":{
+"__html":"Treat pyelonephritis."
+},
+"references":[
+[
+"Johnson JR, Russo TA. Acute pyelonephritis in adults. N Engl J Med. 2018;378:48-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29298155",
+"target":"_blank"
+},
+"children":[
+"PMID: 29298155"
+]
+},
+" doi:10.1056/NEJMcp1702758"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"26486c",
+"fc7c46",
+"26765a",
+"0576d4",
+"bfa60a",
+"8dfb94",
+"675aa6"
+]
+}

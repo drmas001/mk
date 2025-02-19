@@ -1,0 +1,209 @@
+{
+"id":"mk19_b_hm_q018",
+"number":18,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"99ac36",
+"children":[
+"A 19-year-old woman is evaluated following a recent diagnosis of hereditary spherocytosis. She is asymptomatic. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c82d68",
+"children":[
+"On physical examination, vital signs are normal. The spleen tip is palpable."
+]
+},
+{
+"type":"p",
+"hlId":"67f229",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 11.7 g/dL (117 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular hemoglobin concentration",
+"children":[
+"mean corpuscular hemoglobin concentration"
+]
+},
+" of 40 g/dL (400 g/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Reticulocyte count",
+"children":[
+"reticulocyte count"
+]
+},
+" of 6% of erythrocytes."
+]
+},
+{
+"type":"p",
+"hlId":"f71145",
+"children":[
+"Peripheral blood smear shows frequent spherocytes and polychromasia of the erythrocytes and reticulocytosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Folate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rituximab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Splenectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bef316",
+"children":[
+"Patients with mild forms of hereditary spherocytosis can be monitored and should receive supplemental folate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0cbdc4",
+"children":[
+"Splenectomy is an effective treatment for severe hereditary spherocytosis (transfusion dependence, symptomatic anemia, massive splenomegaly)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"17181f",
+"children":[
+"The most appropriate treatment is folic acid supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Most forms of hereditary spherocytosis (HS) are autosomal dominant, resulting in deficiencies of the erythrocyte membrane proteins that anchor the cytoskeleton to the plasma membrane. Membrane loss causes a decreased surface-to-volume ratio and loss of the biconcave shape, resulting in a more spherical erythrocyte shape (spherocytes). The structural erythrocyte changes lead to less deformability in the microcirculation and increase phagocytosis by macrophages, mainly in the spleen, resulting in hemolysis. Splenomegaly is common. Laboratory findings include anemia, reticulocytosis, signs of hemolysis, and an increased mean corpuscular hemoglobin concentration. The clinical severity of HS varies considerably. Mild forms are common, with normal or near-normal hemoglobin levels, and patients can compensate for the hemolysis. Those with severe forms have more brisk hemolysis and a greater degree of anemia, which often worsens at times of oxidative stress, such as viral infections; pigmented gallstones and aplastic crises from parvovirus infections can also be seen. Treatment depends on disease severity. Mild forms can be monitored. Patients with HS, as with other hemolytic states, have increased folate requirements and should receive supplemental folate. A typical dose for moderate to severe hemolysis is 1 to 2 mg/day."
+]
+},
+{
+"type":"p",
+"hlId":"f159bf",
+"children":[
+"In warm autoimmune hemolytic anemia, pathogenic IgG antibodies are directed against Rh-type antigens on the erythrocyte surface. IgG-coated erythrocytes can be completely phagocytized by splenic macrophages via the Fc receptor and are cleared from the circulation. The basic principle of therapy is alleviating immune destruction of erythrocytes by halting antibody production using glucocorticoids or rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). Intravenous immune globulin may be used as adjunctive therapy by blocking macrophage Fc receptors and preventing erythrocyte destruction in the spleen. Because HS is the result of deficiencies of the erythrocyte membrane proteins and not autoantibodies, prednisone or rituximab is not helpful."
+]
+},
+{
+"type":"p",
+"hlId":"dbb778",
+"children":[
+"Splenectomy is considered in patients with HS and more significant anemia because the spleen is the primary location for erythrocyte destruction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Most patients who undergo splenectomy experience an improved hemoglobin level and reduced degree of hemolysis. Typical indications for splenectomy include transfusion dependence or severe symptoms related to anemia. Other considerations may include abdominal symptoms related to splenomegaly."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_3_1_1",
+"objective":{
+"__html":"Treat hereditary spherocytosis."
+},
+"references":[
+[
+"Rothman JA, Stevens JL, Gray FL, Kalfa TA. How I approach hereditary hemolytic anemia and splenectomy. Pediatr Blood Cancer. 2020;67:e28337. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391969",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391969"
+]
+},
+" doi:10.1002/pbc.28337"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":54,
+"B":8,
+"C":5,
+"D":34,
+"E":0
+},
+"hlIds":[
+"99ac36",
+"c82d68",
+"67f229",
+"f71145",
+"1054f1",
+"bef316",
+"0cbdc4",
+"17181f",
+"f159bf",
+"dbb778"
+]
+}

@@ -1,0 +1,160 @@
+{
+"id":"vdx4_en_q014",
+"number":14,
+"bookId":"vdx_en",
+"correctAnswer":"D",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"95edfd",
+"children":[
+"A 42-year-old woman is evaluated for galactorrhea."
+]
+},
+{
+"type":"p",
+"hlId":"284b4d",
+"children":[
+"Gadolinium-enhanced MRI of the brain is ",
+{
+"type":"figure-link",
+"target":"vdx4_en_mcq_f014a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_en_mcq_f014a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Craniopharyngioma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Empty sella syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Multiple sclerosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pituitary adenoma"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"82ac8d",
+"children":[
+"A pituitary tumor is ",
+{
+"type":"figure-link",
+"target":"vdx4_en_mcq_f014b",
+"wrapId":"2",
+"children":[
+"seen "
+]
+},
+"on the patient's gadolinium-enhanced brain MRI (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrow"
+]
+},
+"). On unenhanced MRI, normal pituitary tissue, most sellar lesions, pituitary adenomas, and other pituitary tumors have a signal of similar or slightly greater intensity compared with that of central nervous system tissue; hemorrhage into the pituitary gland results in a high-intensity signal. On gadolinium-enhanced MRI, normal pituitary tissue is of higher intensity than surrounding central nervous system tissue. Because pituitary micro- and macroadenomas usually have less gadolinium uptake than surrounding normal pituitary tissue, they appear hypodense, as in this patient's image."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_en_mcq_f014b"
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_3_3",
+"objective":{
+"__html":"Diagnose a pituitary adenoma."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_en_mcq_f014a":{
+"id":"vdx4_en_mcq_f014a",
+"number":14,
+"bookId":"vdx_en",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"12787ab9890da72043361b8cd8fd82f1",
+"height":504,
+"width":503,
+"extension":"jpg"
+}
+},
+"vdx4_en_mcq_f014b":{
+"id":"vdx4_en_mcq_f014b",
+"number":14,
+"bookId":"vdx_en",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"4c11e71f05fb49ddf8250aeb430bd6ac",
+"height":504,
+"width":503,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"95edfd",
+"284b4d",
+"413696",
+"82ac8d"
+]
+}

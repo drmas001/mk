@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_gm_q071",
+"number":71,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"be64ab",
+"children":[
+"An 18-year-old man is evaluated in the emergency department for severe right-sided scrotal pain that started suddenly 4 hours ago and has progressed. He is nauseated but reports no other symptoms. He has no history of trauma. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d6c412",
+"children":[
+"On physical examination, the patient is in distress. Temperature is 36.9 °C (98.4 °F), blood pressure is 146/92 mm Hg, pulse rate is 102/min, and respiration rate is 16/min. The right testis is elevated, and the overlying scrotal skin is erythematous and warm. The epididymis cannot be distinguished from the testis owing to severe scrotal swelling and pain. Cremasteric reflex is absent on the right and intact on the left."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Immediate surgical exploration"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intramuscular ceftriaxone and oral doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Scrotal elevation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ultrasonography of the scrotum"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6d9b5d",
+"children":[
+"Testicular torsion, a surgical emergency, presents with acute onset of moderate to severe testicular pain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ea9ee6",
+"children":[
+"Patients with testicular torsion have profound testicular tenderness and swelling, elevation of the involved testicle, and an absent cremasteric reflex."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b51408",
+"children":[
+"The most appropriate management is immediate surgical exploration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a classic presentation of testicular torsion, a twisting of the spermatic cord contents resulting in testicular ischemia. Testicular torsion is most common in children and young adults and presents as acute unilateral scrotal pain and swelling. Examination reveals elevation of the involved scrotum and an absent cremasteric reflex (failure of the testis to elevate when the ipsilateral inner thigh is stroked). Decreased blood flow seen on Doppler ultrasound is typical. Testicular torsion is a surgical emergency, and this patient should undergo immediate surgical exploration. The time from symptom onset to surgical exploration is the most important determining factor of testicular viability. If surgical exploration is performed within 6 hours of symptom onset, the testis remains viable in 90% to 100% of cases. Testicular viability drops to 50% if surgery is not performed until 12 hours after presentation and to less than 10% if performed 24 hours or more after presentation. If surgery is not readily available, an attempt to untwist the testicle manually is warranted. Even if successful, follow-up surgery is typically required."
+]
+},
+{
+"type":"p",
+"hlId":"64e035",
+"children":[
+"Empiric antimicrobial therapy with intramuscular ceftriaxone and oral doxycycline and scrotal elevation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+") are both appropriate management for epididymitis and epididymo-orchitis in men younger than 35 years, but not for a patient with suspected testicular torsion. Epididymitis and epididymo-orchitis typically have a slower onset and cause less severe pain; on physical examination, there is an intact cremasteric reflex and the involved testicle is not elevated."
+]
+},
+{
+"type":"p",
+"hlId":"c312bd",
+"children":[
+"Because of the very high likelihood of testicular torsion and the urgency for surgical exploration in testicular torsion, surgery should not be delayed to obtain imaging studies. Although ultrasonography of the scrotum (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is highly sensitive (89%) and highly specific (99%) and has a false-negative rate of approximately 1% for diagnosing testicular torsion, it is not mandatory or necessary in patients with a supportive history and unequivocal physical examination findings, as exemplified by this patient. Scrotal ultrasonography is of most value when the diagnosis is in doubt owing to equivocal physical examination findings."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_5",
+"objective":{
+"__html":"Treat testicular torsion."
+},
+"references":[
+[
+"Bourke MM, Silverberg JZ. Acute scrotal emergencies. Emerg Med Clin North Am. 2019;37:593-610. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31563197",
+"target":"_blank"
+},
+"children":[
+"PMID: 31563197"
+]
+},
+" doi:10.1016/j.emc.2019.07.002"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":60,
+"B":3,
+"C":2,
+"D":35,
+"E":0
+},
+"hlIds":[
+"be64ab",
+"d6c412",
+"cb2b54",
+"6d9b5d",
+"ea9ee6",
+"b51408",
+"64e035",
+"c312bd"
+]
+}

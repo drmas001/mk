@@ -1,0 +1,218 @@
+{
+"id":"mk19_a_gi_q023",
+"number":23,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dc3cfc",
+"children":[
+"A 70-year-old man is hospitalized for a 12-hour history of painless intermittent maroon stools (four episodes). One hour ago he evacuated a large maroon stool. He has hypertension, coronary artery disease, and osteoarthritis. Current medications are metoprolol, atorvastatin, aspirin, acetaminophen, naproxen as needed, and omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"89607b",
+"children":[
+"On physical examination, blood pressure is 90/50 mm Hg and pulse rate is 100/min. The abdomen is soft and nontender. Maroon stool is present around the anus."
+]
+},
+{
+"type":"p",
+"hlId":"c925f1",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 11 g/dL (110 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"f32f90",
+"children":[
+"After a 500-mL infusion of 0.9% saline, blood pressure is 96/65 mm Hg and pulse rate is 105/min."
+]
+},
+{
+"type":"p",
+"hlId":"909e28",
+"children":[
+"Bilious return is noted on gastric lavage after placement of a nasogastric tube."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a3643d",
+"children":[
+"Which of the following is the most appropriate next diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ee350b",
+"children":[
+"For active lower gastrointestinal bleeding with associated hemodynamic instability, CT angiography is the study of choice."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f1fb5a",
+"children":[
+"For active lower gastrointestinal bleeding, catheter angiography and possible embolization should be performed as soon as possible after positive results on CT angiography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b8a655",
+"children":[
+"The most appropriate next diagnostic test is CT angiography (CTA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has active lower gastrointestinal bleeding with associated hemodynamic instability. In addition to continued intravenous fluid resuscitation, rapid identification of the bleeding source is essential. CTA is the study of choice in this setting because it can be performed quickly and has the greatest likelihood of localizing the site of bleeding (with an accuracy of nearly 100%). CTA can detect bleeding at a rate of 0.3 mL/min."
+]
+},
+{
+"type":"p",
+"hlId":"ab3ae6",
+"children":[
+"Although conventional angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") allows transarterial embolization at time of diagnosis, it is limited by the need for a higher rate of bleeding (0.5-1.0 mL/min) than that for CTA to identify a bleeding source. Complications of conventional angiography, including acute kidney injury and thromboembolic events, have been reported in up to 10% of case series. Catheter angiography and possible embolization should be performed as soon as possible after a positive CTA finding."
+]
+},
+{
+"type":"p",
+"hlId":"80a64c",
+"children":[
+"In hemodynamically stable patients without evidence of rapid bleeding, colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the first study of choice in patients with lower gastrointestinal bleeding. It should be performed within 24 hours of presentation after adequate colon preparation. Colonoscopy identifies a source of bleeding in two thirds of patients."
+]
+},
+{
+"type":"p",
+"hlId":"25d257",
+"children":[
+"Upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be performed immediately if no bleeding source is identified by initial CTA. Upper endoscopy may be the first procedure performed if suspicion for upper gastrointestinal bleeding is high. Upper gastrointestinal bleeding is a consideration in this patient taking aspirin and an NSAID. However, the presence of bilious fluid without blood following nasogastric tube lavage suggests that the pylorus is open and there is no active upper gastrointestinal bleeding proximal to the ligament of Treitz. In this patient, CTA is the preferred initial diagnostic test."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_3_3",
+"objective":{
+"__html":"Evaluate unstable lower gastrointestinal bleeding."
+},
+"references":[
+[
+"Gralnek IM, Neeman Z, Strate LL. Acute lower gastrointestinal bleeding. N Engl J Med. 2017;376:1054-1063. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28296600",
+"target":"_blank"
+},
+"children":[
+"PMID: 28296600"
+]
+},
+" doi:10.1056/NEJMcp1603455"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":24,
+"C":34,
+"D":34,
+"E":0
+},
+"hlIds":[
+"dc3cfc",
+"89607b",
+"c925f1",
+"f32f90",
+"909e28",
+"a3643d",
+"ee350b",
+"f1fb5a",
+"b8a655",
+"ab3ae6",
+"80a64c",
+"25d257"
+]
+}

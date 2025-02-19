@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_cv_q108",
+"number":108,
+"bookId":"cv",
+"correctAnswer":"E",
+"title":"Question 108",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3f4dba",
+"children":[
+"A 35-year-old man is evaluated during a routine office visit. He underwent atrial septal defect closure with a transcatheter device 1 year ago. His past medical history is otherwise unremarkable, and he has no other medical problems. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"418244",
+"children":[
+"On physical examination, vital signs and the remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"601336",
+"children":[
+"The patient will have periodontal cleaning next week."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ba49fc",
+"children":[
+"Which of the following is the most appropriate endocarditis prophylaxis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ceftriaxone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clindamycin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No endocarditis prophylaxis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e96ded",
+"hvc":true,
+"children":[
+"Endocarditis prophylaxis is indicated only for patients at high risk for infective endocarditis who are about to undergo gingival manipulation or other procedures that break the oral mucosa."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7585cd",
+"hvc":true,
+"children":[
+"The highest risk for infective endocarditis (IE) is in patients with a prosthetic valve, previous IE, or congenital heart disease (repaired or unrepaired) with residual flow disturbances; other indications include cardiac transplantation valvulopathy, prosthetic material used for cardiac valve repair, and a cardiac defect that has been repaired with prosthetic material within the previous 6 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e57492",
+"children":[
+"This patient requires no endocarditis prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Endocarditis prophylaxis is recommended for a specific group of patients before dental procedures that involve manipulation of gingival tissue or the periapical region of the teeth, or perforation of the oral mucosa. The highest risk for infective endocarditis (IE) is in patients with a prosthetic valve, previous IE, or congenital heart disease with residual flow disturbances. Current indications for endocarditis prophylaxis include (1) a history of IE; (2) cardiac transplantation with valve regurgitation due to a structurally abnormal valve; (3) a prosthetic valve; (4) prosthetic material used for cardiac valve repair, including annuloplasty rings and clips; (5) left ventricular assist device; (6) unrepaired cyanotic congenital heart disease; (7) repaired congenital cyanotic heart disease with residual defects at the site or adjacent to the site of a prosthetic patch or device; (8) a defect that has been repaired (surgical or catheter based) with prosthetic material within the previous 6 months; and (9) surgical or transcatheter pulmonary artery valve or conduit placement, such as Melody valve and Contegra conduit. None of these indications is present in this patient, and antibiotic prophylaxis is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"dfd69e",
+"children":[
+"In patients with valvular heart disease who are at high risk for IE, antibiotic prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A-D"
+]
+},
+") is not recommended for nondental procedures, such as transesophageal echocardiography, esophagogastroduodenoscopy, colonoscopy, or cystoscopy, in the absence of active infection. Drug-resistant organisms, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" colitis, unnecessary expense, and drug toxicity may result from indiscriminate antibiotic prescribing."
+]
+},
+{
+"type":"p",
+"hlId":"b8d153",
+"children":[
+"If the patient had an indication for endocarditis prophylaxis, amoxicillin (2 g once orally 60 minutes before the cleaning) would be the most appropriate therapy. Azithromycin should be reserved for patients able to take oral antibiotics who have a penicillin allergy. Clindamycin is associated with more adverse outcomes, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection, compared with the other options and is no longer recommended for endocarditis prophylaxis. Intravenous ceftriaxone should be used for endocarditis prophylaxis only in patients unable to take oral antibiotics."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_9_2",
+"objective":{
+"__html":"Avoid inappropriate endocarditis prophylaxis."
+},
+"references":[
+[
+"Wilson WR, Gewitz M, Lockhart PB, et al; American Heart Association Young Hearts Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular and Stroke Nursing; and the Council on Quality of Care and Outcomes Research. Prevention of Viridans group streptococcal infective endocarditis: a scientific statement from the American Heart Association. Circulation. 2021;143:e963-e978. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33853363",
+"target":"_blank"
+},
+"children":[
+"PMID: 33853363"
+]
+},
+" doi:10.1161/CIR.0000000000000969"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":24,
+"B":1,
+"C":3,
+"D":2,
+"E":71
+},
+"hlIds":[
+"3f4dba",
+"418244",
+"601336",
+"ba49fc",
+"e96ded",
+"7585cd",
+"e57492",
+"dfd69e",
+"b8d153"
+]
+}

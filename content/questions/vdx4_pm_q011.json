@@ -1,0 +1,162 @@
+{
+"id":"vdx4_pm_q011",
+"number":11,
+"bookId":"vdx_pm",
+"correctAnswer":"C",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cf1104",
+"children":[
+"A 27-year-old asymptomatic woman is evaluated for incidentally discovered hilar enlargement on chest radiography. ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f011a",
+"wrapId":"1",
+"children":[
+"CT"
+]
+},
+" of the chest is performed."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f011a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hodgkin lymphoma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Small cell lung cancer"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stage I pulmonary sarcoidosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thymoma"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1034be",
+"children":[
+"The most likely diagnosis is stage I pulmonary sarcoidosis (hilar lymphadenopathy with normal lung parenchyma). This chest CT scan ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f011b",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" lymphadenopathy. The scan is at a level just below the carina. It shows marked enlargement of lymph nodes in both hila (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrows"
+]
+},
+") and enlargement of a subcarinal lymph node (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+"). Stage I pulmonary sarcoidosis is generally asymptomatic. Approximately 50% of all patients with pulmonary sarcoidosis show symptoms. (AAo = ascending aorta; DAo = descending aorta; LMB = left mainstem bronchus; RMB = right mainstem bronchus; RPA = right pulmonary artery.)"
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f011b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_5",
+"objective":{
+"__html":"Diagnose sarcoidosis-related hilar lymphadenopathy on a chest CT scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f011a":{
+"id":"vdx4_pm_mcq_f011a",
+"number":11,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"2788dc71482e09481771ae707fd10727",
+"height":512,
+"width":512,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f011b":{
+"id":"vdx4_pm_mcq_f011b",
+"number":11,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"e5642ae7707b96ca12732f418b055efa",
+"height":724,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"cf1104",
+"413696",
+"1034be"
+]
+}

@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_on_q070",
+"number":70,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 70",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1e2b10",
+"children":[
+"A 54-year-old postmenopausal woman had an abnormal screening mammogram that revealed new calcifications in multiple areas of her right breast. A biopsy showed estrogen receptor–positive ductal carcinoma in situ with high nuclear grade. She underwent a bilateral mastectomy and a right sentinel node biopsy, which revealed ductal carcinoma in situ of the right breast and two negative sentinel nodes."
+]
+},
+{
+"type":"p",
+"hlId":"78c644",
+"children":[
+"On physical examination, there are healing bilateral mastectomy incisions with tissue expanders in place."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"47d2f6",
+"children":[
+"Which of the following is the most appropriate next treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anastrozole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Radiation therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tamoxifen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No adjuvant treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9a5b9c",
+"hvc":true,
+"children":[
+"Neither radiation therapy nor hormonal therapy provides benefit after bilateral mastectomy for patients with ductal carcinoma in situ."
+]
+},
+{
+"type":"keypoint",
+"hlId":"23ca42",
+"hvc":true,
+"children":[
+"After lumpectomy, adjuvant hormone therapy is offered to patients with estrogen receptor–positive ductal carcinoma in situ to reduce the risk of local recurrence; however, endocrine therapy has no impact on overall survival in this setting."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0e0650",
+"children":[
+"No adjuvant treatment is recommended following bilateral mastectomy as treatment for ductal carcinoma in situ (DCIS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). After bilateral mastectomy for DCIS, neither radiation therapy nor hormonal therapy provides benefit. DCIS is a preinvasive proliferative growth and does not have the ability to metastasize outside of the breast. Treatment is aimed at reducing the risk of local recurrences, of which half are DCIS and half are invasive cancers, the latter of which have the ability to metastasize. Surgical excision is the primary treatment for patients with DCIS and may include either mastectomy, in which the tumor along with essentially all of the normal breast tissue are removed, or lumpectomy, in which just the tumor itself is removed, ensuring a negative margin. There is no difference in long-term survival between the two operative approaches."
+]
+},
+{
+"type":"p",
+"hlId":"7d9846",
+"children":[
+"Irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended in the setting of DCIS following mastectomy because the risk of local recurrence is so low. After lumpectomy, some women may benefit from adjuvant radiation therapy to decrease the risk of local recurrence."
+]
+},
+{
+"type":"p",
+"hlId":"1bf40b",
+"children":[
+"Following lumpectomy, adjuvant hormone therapy is offered to patients with estrogen receptor–positive DCIS to reduce the risk of local recurrence; however, endocrine therapy has no impact on overall survival in this setting. After mastectomy for DCIS, adjuvant hormone therapy reduces the risk of a new primary breast cancer in the contralateral breast, and benefits should be weighed against the potential drug-related adverse effects. Tamoxifen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is effective in both pre- and postmenopausal women. The aromatase inhibitors letrozole and anastrozole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are not effective in premenopausal women. For postmenopausal women, aromatase inhibitor therapy provides superior results as an alternative to using tamoxifen alone."
+]
+},
+{
+"type":"p",
+"hlId":"ec4591",
+"children":[
+"Some patients with DCIS choose prophylactic bilateral mastectomy rather than hormone therapy to prevent a future primary breast cancer despite a documented lack of a survival benefit. There is no role for adjuvant hormone therapy in patients with DCIS after bilateral mastectomy."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_5_1",
+"objective":{
+"__html":"Treat a patient with ductal carcinoma in situ following bilateral mastectomy."
+},
+"references":[
+[
+"Hong YK, McMasters KM, Egger ME, et al. Ductal carcinoma in situ current trends, controversies, and review of literature. Am J Surg. 2018;216:998-1003. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30244816",
+"target":"_blank"
+},
+"children":[
+"PMID: 30244816"
+]
+},
+" doi:10.1016/j.amjsurg.2018.06.013"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":39,
+"B":17,
+"C":27,
+"D":17,
+"E":0
+},
+"hlIds":[
+"1e2b10",
+"78c644",
+"47d2f6",
+"9a5b9c",
+"23ca42",
+"0e0650",
+"7d9846",
+"1bf40b",
+"ec4591"
+]
+}

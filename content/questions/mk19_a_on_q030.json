@@ -1,0 +1,257 @@
+{
+"id":"mk19_a_on_q030",
+"number":30,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"197503",
+"children":[
+"A 51-year-old man is evaluated following biopsy of the prostate gland. His father died of prostate cancer at the age of 60 years, and his mother was diagnosed with breast cancer at the age of 45 years."
+]
+},
+{
+"type":"p",
+"hlId":"1607e8",
+"children":[
+"Biopsy of the prostate revealed adenocarcinoma with bilateral gland involvement; his Gleason score was 9. Bone scan confirmed multiple osseous metastatic lesions."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cystoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"PET/CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prostate-specific antigen density measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Referral to a genetic counselor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5d16aa",
+"children":[
+"Patients with high-risk prostate cancers (high Gleason score, lymph node metastases, or distant metastatic disease) should be referred for genetic counseling, as the risk of a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" mutation is approximately 12%."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3ef164",
+"children":[
+"In men with prostate cancer, a family history of breast cancer in a first-degree relative diagnosed before the age of 50 years is also an indication for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+"-related genetic counseling."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fbcc25",
+"children":[
+"This patient should be referred to a genetic counselor to discuss genetic testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+" mutations (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). He has been diagnosed with metastatic prostate cancer. His biopsy revealed high-risk disease based on a Gleason score of 9. Genetic testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" gene mutation should be done in all men with high-risk disease, including patients with a Gleason score >7, positive lymph nodes, or metastatic disease. The risk of an underlying mutation in patients with metastatic disease is 11.8%. A family history of breast cancer in a first-degree relative diagnosed before the age of 50 years is also an indication for genetic counseling and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" testing. Therefore, based on both personal and family history, this patient is clearly a candidate for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" testing."
+]
+},
+{
+"type":"p",
+"hlId":"94906b",
+"children":[
+"Cystoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used to evaluate patients suspected of having bladder cancer or symptoms, such as hematuria, that might indicate bladder wall involvement by an adjacent neoplasm. Cystoscopy would not be done to evaluate otherwise asymptomatic prostate cancer."
+]
+},
+{
+"type":"p",
+"hlId":"fcf23a",
+"children":[
+"PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated for this patient, as he already has evidence of metastatic disease. PET/CT will not change his management and is not a standard test in this setting."
+]
+},
+{
+"type":"p",
+"hlId":"029d94",
+"children":[
+"Prostate-specific antigen (PSA) density (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the PSA divided by prostate volume. This is calculated to correct the PSA for differences in prostate volume between different patients. After definitive treatment for localized prostate cancer, PSA density is used to help with decision-making regarding active surveillance and treatment. This is especially true for asymptomatic men with PSA-only recurrence, as it can take several years for clinical metastatic disease to develop in that setting. PSA density measurement has no role in the evaluation of men with clinical metastatic disease."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_1_2",
+"objective":{
+"__html":"Screen for <i>BRCA</i> mutation in a patient with high-risk prostate cancer."
+},
+"references":[
+[
+"Das S, Salami SS, Spratt DE, et al. Bringing prostate cancer germline genetics into clinical practice. J Urol. 2019;202:223-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30730411",
+"target":"_blank"
+},
+"children":[
+"PMID: 30730411"
+]
+},
+" doi:10.1097/JU.0000000000000137"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":34,
+"C":23,
+"D":43,
+"E":0
+},
+"hlIds":[
+"197503",
+"1607e8",
+"cb2b54",
+"5d16aa",
+"3ef164",
+"fbcc25",
+"94906b",
+"fcf23a",
+"029d94"
+]
+}

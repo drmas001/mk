@@ -1,0 +1,201 @@
+{
+"id":"mk19_a_gi_q025",
+"number":25,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"20cc9f",
+"children":[
+"A 21-year-old woman is evaluated at follow-up after upper endoscopy and colonoscopy, which were performed because of iron deficiency anemia unresponsive to oral iron therapy. Upper endoscopy revealed fundic gland polyps carpeting the stomach and multiple small adenomatous polyps in the duodenum. Colonoscopy demonstrated more than 100 polyps throughout the colon, with 2 polyps in the rectum. Biopsy of a 3-cm polyp in the sigmoid colon revealed moderately differentiated adenocarcinoma. The patient has no family history of colorectal cancer."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic removal of the adenocarcinoma"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Left hemicolectomy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sulindac"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"26dcf0",
+"children":[
+"The treatment of choice in familial adenomatous polyposis is colectomy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"85b929",
+"children":[
+"The most appropriate treatment is colectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient likely has a de novo mutation in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"APC"
+]
+},
+" gene causing familial adenomatous polyposis (FAP). Classic FAP is characterized by more than 100 adenomatous polyps in the colon, and lifetime risk for colon cancer approaches 100%. Other intestinal manifestations of FAP include benign fundic gland polyps of the stomach, duodenal adenomas, and ampullary adenomas. Extracolonic manifestations include desmoid tumors, papillary thyroid cancer, extra teeth, cysts, osteomas, and congenital hypertrophy of the retinal pigmented epithelium. De novo mutations are found in up to 25% of FAP cases. The patient should undergo genetic counseling and germline genetic testing, which would confirm a diagnosis of FAP. Her unaffected parents should also undergo genetic testing to confirm that this finding is a de novo mutation. If her parents have FAP, they should undergo upper endoscopy with a side-viewing endoscope (duodenoscope), colonoscopy, and thyroid ultrasonography. Because mutations in ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"APC"
+]
+},
+" behave in an autosomal dominant fashion, each child of an affected individual should be counseled that they have a 50% chance of inheriting the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"APC"
+]
+},
+" mutation. The timing of genetic testing for offspring can be discussed with providers, but sigmoidoscopy or colonoscopy should begin at ages 10 to 12 years. If adenomas are detected, even children who have not had genetic testing should be screened as if they have a confirmed mutation. The treatment of choice in FAP is colectomy. The surgical approach depends on the rectal polyp burden. In this patient, the rectum is relatively spared, and the patient may be a candidate for a subtotal colectomy with sparing of the rectum. Following colectomy, she should have annual sigmoidoscopy, as well as surveillance of her upper gastrointestinal tract and thyroid."
+]
+},
+{
+"type":"p",
+"hlId":"9fc8cc",
+"children":[
+"Endoscopic removal of the adenocarcinoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended because it would not provide adequate lymph node sampling and would leave the remaining colon at risk for future cancers."
+]
+},
+{
+"type":"p",
+"hlId":"2e7cfc",
+"children":[
+"Left hemicolectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be considered for sporadic colon cancer but not for FAP because of the increased cancer risk in the remaining colon."
+]
+},
+{
+"type":"p",
+"hlId":"e87519",
+"children":[
+"Sulindac (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an NSAID that may be considered to reduce rectal polyp burden after surgery or as chemoprevention in addition to endoscopic management of colon polyps. It is not appropriate therapy for colon cancer."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s5_9_2_1",
+"objective":{
+"__html":"Treat colon cancer in patient with familial adenomatous polyposis."
+},
+"references":[
+[
+"Kidambi TD, Kohli DR, Samadder NJ, et al. Hereditary polyposis syndromes. Curr Treat Options Gastroenterol. 2019;17:650-665. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31705372",
+"target":"_blank"
+},
+"children":[
+"PMID: 31705372"
+]
+},
+" doi:10.1007/s11938-019-00251-4"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":85,
+"B":4,
+"C":9,
+"D":2,
+"E":0
+},
+"hlIds":[
+"20cc9f",
+"1054f1",
+"26dcf0",
+"85b929",
+"9fc8cc",
+"2e7cfc",
+"e87519"
+]
+}

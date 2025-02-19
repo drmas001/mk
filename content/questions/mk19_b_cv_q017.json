@@ -1,0 +1,206 @@
+{
+"id":"mk19_b_cv_q017",
+"number":17,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3cf9ad",
+"children":[
+"A 72-year-old man is evaluated during a routine physical examination. He feels well and reports no exertional limitations. He has no pertinent personal or family history. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"354811",
+"children":[
+"On physical examination, pulse rate is 72/min with occasional irregularity; other vital signs are normal. On cardiac examination, heart sounds are regular, with occasional premature beats associated with cannon ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" waves on neck examination. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"39c677",
+"children":[
+"Laboratory studies, including complete blood count and thyroid-stimulating hormone level, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"1fbbb6",
+"children":[
+"ECG shows one premature ventricular contraction and is otherwise normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metoprolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reassurance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"537018",
+"hvc":true,
+"children":[
+"For patients with asymptomatic premature ventricular contractions, reassurance is appropriate; medical therapy is unnecessary in the absence of high-risk features (syncope, family history of premature sudden cardiac death, structural heart disease)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e5de42",
+"children":[
+"Reassurance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate management for this patient with asymptomatic premature ventricular contractions (PVCs). He has no signs or symptoms of heart failure or exertional limitations. No additional evaluation is necessary because this patient's PVCs are asymptomatic and not accompanied by other signs or symptoms of cardiopulmonary disease. Ambulatory ECG monitoring for assessment of PVC burden may be performed, but in an asymptomatic patient, results are unlikely to affect management. Asymptomatic PVCs, even at higher burden, are common in the general population and may vary dramatically throughout the day and/or from day to day. They may be influenced by stress, alcohol or caffeine intake, sleep disturbances, and comorbid conditions, such as thyroid disorders or anemia. In the absence of a significant comorbid condition and/or symptoms, reassurance is appropriate. Among patients with a consistently very high burden of PVCs (≥15%-20%) that are asymptomatic, periodic echocardiographic monitoring for PVC-induced cardiomyopathy may be considered, but there is no consensus on this surveillance."
+]
+},
+{
+"type":"p",
+"hlId":"cbab06",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") of the chest is recommended for cardiac sarcoidosis, which may present with ventricular arrhythmias. However, this patient has no findings that suggest sarcoidosis (such as pulmonary disease or ECG findings demonstrating conduction disease [abnormal PR, QRS, QT intervals]). Thus, it would be premature and of low yield to screen for cardiac sarcoidosis in this asymptomatic patient."
+]
+},
+{
+"type":"p",
+"hlId":"e0a979",
+"children":[
+"This patient has no exertional symptoms or signs consistent with coronary ischemia. Exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not needed, and intervention on any positive findings is of debatable net clinical benefit."
+]
+},
+{
+"type":"p",
+"hlId":"c2b43a",
+"children":[
+"In the absence of high-risk features (syncope, family history of premature sudden cardiac death, structural heart disease), medical therapy is often unnecessary. However, PVCs require treatment when symptoms are bothersome or frequent (>10% of all beats or 10,000 PVCs per day). First-line therapy for these patients is a β-blocker, such as metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), or calcium channel blocker."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_1",
+"objective":{
+"__html":"Manage asymptomatic premature ventricular contractions."
+},
+"references":[
+[
+"Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018;72:e91-e220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29097296",
+"target":"_blank"
+},
+"children":[
+"PMID: 29097296"
+]
+},
+" doi:10.1016/j.jacc.2017.10.054"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":13,
+"C":7,
+"D":75,
+"E":0
+},
+"hlIds":[
+"3cf9ad",
+"354811",
+"39c677",
+"1fbbb6",
+"cb2b54",
+"537018",
+"e5de42",
+"cbab06",
+"e0a979",
+"c2b43a"
+]
+}

@@ -1,0 +1,178 @@
+{
+"id":"mk19_b_pm_q096",
+"number":96,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"adb810",
+"children":[
+"An 84-year-old man is evaluated 3 days after he was admitted to the ICU with a right lower lobe infiltrate and presumed sepsis. Prior to admission, the patient had vomited, aspirated, and developed respiratory distress. In the emergency department, temperature was 38.3 °C (100.9 °F); tachypnea, tachycardia, hypoxemia, and hypotension were also present. Chest radiograph on admission showed an infiltrate in the right lower lobe. Intravenous fluids, supplemental oxygen by nasal cannula, and broad-spectrum antibiotics were given. Over the next 24 hours, the patient improved rapidly."
+]
+},
+{
+"type":"p",
+"hlId":"3da769",
+"children":[
+"On today's physical examination, temperature is 37.1 °C (98.8 °F), blood pressure is 138/80 mm Hg, pulse rate is 66/min, and respiration rate is 16/min. Oxygen saturation is 95% with the patient breathing ambient air."
+]
+},
+{
+"type":"p",
+"hlId":"c8e331",
+"children":[
+"The patient's leukocyte count is 6,000/μL (6 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with a normal differential."
+]
+},
+{
+"type":"p",
+"hlId":"55abcd",
+"children":[
+"Sputum and blood cultures are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0d2ee1",
+"children":[
+"Which of the following is the most appropriate antibiotic management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue antibiotics for 4 additional days"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue antibiotics for 7 additional days"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Continue antibiotics for 10 additional days"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue antibiotics"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8cab2a",
+"hvc":true,
+"children":[
+"Discontinuing antibiotic therapy is appropriate in patients who initially were thought to have sepsis but do not."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"44ab76",
+"children":[
+"The most appropriate management is to discontinue antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In patients admitted to the ICU with acute respiratory failure and lower respiratory tract infiltrate, it is often difficult to determine whether the cause of the infiltrates is a bacterial infection or another source such as a viral infection or aspiration pneumonitis. Ultimately, the diagnosis of aspiration pneumonitis is clinical. Indicators include abrupt onset of respiratory symptoms following aspiration of gastric contents, low-grade fever, and infiltrates on chest imaging. The 2019 community-acquired pneumonia (CAP) guideline from the American Thoracic Society and the Infectious Diseases Society of America recommends standard empiric treatment for CAP in patients with suspected aspiration pneumonia. Many patients with aspiration pneumonitis experience rapid resolution of symptoms within 24 to 48 hours. In these patients, removal of antibiotics and supportive care alone is preferred. Because this patient improved clinically within 24 hours of admission, aspiration pneumonitis is likely and it is safe to discontinue therapy."
+]
+},
+{
+"type":"p",
+"hlId":"8397fa",
+"children":[
+"The 2016 Surviving Sepsis guidelines suggest that antimicrobial treatment duration of 7 to 10 days is adequate for most serious infections associated with sepsis and septic shock but that shorter courses of antibiotics are reasonable in patients with rapid resolution of symptoms following sepsis and in patients who initially were thought to have sepsis but do not. An additional 4-, 7-, or 10-day course of antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A-C"
+]
+},
+") is not needed in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3_2",
+"objective":{
+"__html":"Manage the discontinuation of antibiotic therapy in a patient with aspiration pneumonitis."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":52,
+"B":8,
+"C":5,
+"D":35,
+"E":0
+},
+"hlIds":[
+"91054a",
+"adb810",
+"3da769",
+"c8e331",
+"55abcd",
+"0d2ee1",
+"8cab2a",
+"44ab76",
+"8397fa"
+]
+}

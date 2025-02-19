@@ -1,0 +1,283 @@
+{
+"id":"mk19_b_pm_q070",
+"number":70,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 70",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fd0925",
+"children":[
+"A 55-year-old man is evaluated in the hospital for fever, dry cough, and shortness of breath of 3 days' duration. He has advanced squamous cell lung cancer, for which he recently started treatment with pembroluzimab. The patient received thoracic radiation to the right hilum 2 months ago."
+]
+},
+{
+"type":"p",
+"hlId":"3c71ed",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.0 °F), blood pressure is 110/70 mm Hg, pulse rate is 102/min, and respiration rate is 22/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% with the patient breathing ambient air. BMI is 17. Crackles are present in the right infrascapular region. Cardiovascular examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"89d1ae",
+"children":[
+"CT scan of the chest is ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f070a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f070a"
+]
+},
+{
+"type":"p",
+"hlId":"a05416",
+"children":[
+"Bronchoscopy is unremarkable; bronchoalveolar lavage fluid cultures are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hospital-acquired pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypersensitivity pneumonitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary edema"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiation pneumonitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3ef39f",
+"children":[
+"Patients with radiation pneumonitis typically develop cough, shortness of breath, and radiographic infiltrates 4 to 12 weeks after radiation exposure."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9fb67d",
+"children":[
+"Pulmonary toxicity of immune checkpoint inhibitors may also manifest as radiation recall pneumonitis, a variant of radiation pneumonitis, in areas of previous radiation exposure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"25a5a4",
+"children":[
+"The most likely diagnosis, based on the patient's clinical and radiologic picture, is radiation pneumonitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Typically developing 4 to 12 weeks after completion of radiotherapy, the ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f070b",
+"wrapId":"2",
+"children":[
+"lung opacities"
+]
+},
+" can cross multiple lobes (as shown; red arrows point to the major fissure separating the right middle and lower lobes) and appear delineated by “straight lines” corresponding to the radiation field (as shown, bordered by green lines)."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_pm_mcq_f070b"
+]
+},
+{
+"type":"p",
+"hlId":"649987",
+"children":[
+"The classic symptoms are dyspnea on exertion, nonproductive cough, and hypoxemia; low-grade fevers are also common. A subset of patients develop radiation fibrosis 6 to 12 months after treatment. Immune checkpoint inhibitors such as pembroluzimab are immunomodulatory drugs that are widely used in the management of advanced malignancies, including non–small cell lung cancer. Although they have significant clinical benefits, these drugs are also associated with significant adverse effects, including pneumonitis. In contrast to radiation pneumonitis, immune checkpoint inhibitor–related pneumonitis usually does not cross lung fissures. Pulmonary toxicity of immune checkpoint inhibitors may also manifest as radiation recall pneumonitis, a variant of radiation pneumonitis, which manifests in areas of previous radiation exposure. Radiation recall pneumonitis can occur with multiple other chemotherapeutic agents, even years after radiation therapy."
+]
+},
+{
+"type":"p",
+"hlId":"1f4b76",
+"children":[
+"Hospital-acquired pneumonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an important consideration in any immune-compromised patient with new symptoms and radiographic infiltrates. In this patient, however, the absence of any identifiable pathogen on bronchoalveolar lavage cultures as well as localization of infiltrates to the radiation field rule out this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"5fcd17",
+"children":[
+"Hypersensitivity pneumonitis (HP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") results from exposure to a wide variety of antigens that provoke an exaggerated immune response in susceptible persons. High-resolution CT scan will show micronodules and ground-glass opacities. However, the absence of a discrete exposure and radiologic findings confined to the previous radiation field do not fit the clinical picture of HP."
+]
+},
+{
+"type":"p",
+"hlId":"5e92b2",
+"children":[
+"There is no clinical suggestion of volume overload in this patient; hence, pulmonary edema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the likely cause. In addition, pulmonary edema typically results in bilateral symmetric radiographic infiltrates."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_3_5",
+"objective":{
+"__html":"Diagnose radiation pneumonitis."
+},
+"references":[
+[
+"Jain V, Berman AT. Radiation pneumonitis: old problem, new tricks. Cancers (Basel). 2018;10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29970850",
+"target":"_blank"
+},
+"children":[
+"PMID: 29970850"
+]
+},
+" doi:10.3390/cancers10070222"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":15,
+"C":2,
+"D":79,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f070a":{
+"id":"mk19_b_pm_mcq_f070a",
+"number":70,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"8d63efe5ac578f87517228e22468cd14",
+"height":488,
+"width":488,
+"extension":"jpg"
+}
+},
+"mk19_b_pm_mcq_f070b":{
+"id":"mk19_b_pm_mcq_f070b",
+"number":70,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"71493b71c0860bde05c7878a043d4903",
+"height":488,
+"width":488,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"fd0925",
+"3c71ed",
+"89d1ae",
+"a05416",
+"413696",
+"3ef39f",
+"9fb67d",
+"25a5a4",
+"649987",
+"1f4b76",
+"5fcd17",
+"5e92b2"
+]
+}

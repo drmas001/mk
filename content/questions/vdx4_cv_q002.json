@@ -1,0 +1,155 @@
+{
+"id":"vdx4_cv_q002",
+"number":2,
+"bookId":"vdx_cv",
+"correctAnswer":"A",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6924c0",
+"children":[
+"A patient evaluated for cough is found to have an enlarged cardiac silhouette on chest radiography. He is suspected of having pericardial effusion. Ultrasonography is performed with the probe placed in the subxiphoid area."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for ",
+{
+"type":"video-link",
+"target":"vdx4_cv_mcq_v002",
+"wrapId":"1",
+"children":[
+"this video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_v002"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1698a3",
+"children":[
+"Which of the following is the most likely interpretation of this study?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Large pericardial effusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"No pericardial effusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Small pericardial effusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Indeterminate study"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9acbcc",
+"children":[
+"This patient's ultrasound ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f002",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" a large, circumferential pericardial effusion (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"arrows"
+]
+},
+") with evidence of cardiac tamponade. An anechoic space is seen between the liver in the near field and the myocardium of the heart and also surrounds the entire heart, indicating a large effusion. Cardiac tamponade is typically seen as collapse of the right atrium or the right ventricle during the diastolic phase of the cardiac cycle. In this study, although the right ventricular free wall appears to “wiggle,” this is caused by inward diastolic movement typical in tamponade."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_cv_mcq_f002"
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_2_1",
+"objective":{
+"__html":"Diagnose pericardial effusion using point-of-care ultrasonography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f002":{
+"id":"vdx4_cv_mcq_f002",
+"number":2,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"6a88c15835d0f3315f036c7cf6ec0aef",
+"height":476,
+"width":678,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"6924c0",
+"497ecd",
+"1698a3",
+"9acbcc"
+]
+}

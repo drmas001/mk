@@ -1,0 +1,300 @@
+{
+"id":"mk19_a_on_q056",
+"number":56,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"14bbb4",
+"children":[
+"A 53-year-old man is evaluated after recent surgery for colon cancer. Family history is significant for a paternal uncle with colon cancer at age 47 years and a paternal aunt with a history of uterine cancer."
+]
+},
+{
+"type":"p",
+"hlId":"63cf8e",
+"children":[
+"Postsurgical pathology results show poorly differentiated T3N1 (stage IIIB) colon cancer."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>BRAF</i> mutational analysis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epidermal growth factor receptor mutational analysis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>KRAS</i> mutational analysis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mismatch repair protein expression"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"de2086",
+"children":[
+"All patients with a new diagnosis of colon cancer require evaluation of mismatch repair protein expression status."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"83bdcc",
+"children":[
+"All patients with a new diagnosis of colon cancer require evaluation of mismatch repair protein expression status (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Loss of expression of mismatch repair proteins would be expected in approximately 15% of patients with colorectal cancer. Of these 15% with mismatch repair protein deficiency, approximately one in five will have a germline mismatch repair deficiency, which is known as Lynch syndrome. Patients with Lynch syndrome require more extensive surveillance for additional colorectal cancers and other malignancies. Lynch syndrome is autosomal dominant, and so identification also has important implications for family screening and surveillance. The most common cancers in Lynch syndrome are colorectal and uterine, so this patient's family history is concerning for Lynch syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"522adb",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"KRAS"
+]
+},
+" mutational status (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, C"
+]
+},
+") are important for treatment planning in patients with metastatic colorectal cancer but have no role in the treatment decisions or management of stage I, II, or III colorectal cancer. Colon cancers harboring mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"KRAS, NRAF,"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF"
+]
+},
+" gene do not respond to the monoclonal antibodies cetuximab and panitumumab, and in fact, the growth of the RAS-mutated tumors may even be accelerated by these agents. Therefore, all metastatic colorectal cancers now require tumor genotyping for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"KRAS"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRAF,"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"NRAS"
+]
+},
+" mutations, and only tumors lacking all three of these mutations are appropriate for treatment with cetuximab or panitumumab."
+]
+},
+{
+"type":"p",
+"hlId":"981f9e",
+"children":[
+"Epidermal growth factor receptor (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"EGFR"
+]
+},
+") mutational status (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is important for the management of patients with metastatic non–small cell lung cancer but is not relevant in the management of colorectal cancer. For patients with non-small cell lung cancer who have non-squamous histology (particularly adenocarcinoma), testing for molecular alterations is mandatory. At present, it is considered standard care to test non–small cell lung cancers for mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"EGFR"
+]
+},
+" gene and for translocations involving ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ROS1"
+]
+},
+". If an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"EGFR"
+]
+},
+" mutation is identified, initial treatment with erlotinib or osimertinib is recommended. If an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ROS1"
+]
+},
+" translocation is identified, initial treatment with alectinib is recommended. These agents are small-molecule tyrosine kinase inhibitors that are specific for those genetic alterations."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1",
+"objective":{
+"__html":"Screen for Lynch syndrome."
+},
+"references":[
+[
+"Kang YJ, Killen J, Caruana M, et al. The predicted impact and cost-effectiveness of systematic testing of people with incident colorectal cancer for Lynch syndrome. Med J Aust. 2020;212:72-81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31595523",
+"target":"_blank"
+},
+"children":[
+"PMID: 31595523"
+]
+},
+" doi:10.5694/mja2.50356"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":9,
+"C":17,
+"D":62,
+"E":0
+},
+"hlIds":[
+"14bbb4",
+"63cf8e",
+"983777",
+"de2086",
+"83bdcc",
+"522adb",
+"981f9e"
+]
+}

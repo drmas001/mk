@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gi_q084",
+"number":84,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c4fca7",
+"children":[
+"A 67-year-old man is evaluated for a 1-year history of vague, periodic epigastric pain. He reports no other symptoms. A trial of proton pump inhibitor therapy has not relieved symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"ca09e7",
+"children":[
+"Vital signs and other physical examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"f9ab55",
+"children":[
+"An abdominal ultrasound reveals a 1.5-cm polyp in the gallbladder, with no gallbladder wall thickening, fluid, stones, or sludge. No common bile duct dilation is seen."
+]
+},
+{
+"type":"p",
+"hlId":"bcab00",
+"children":[
+"Findings on upper endoscopy with gastric biopsy are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cholecystectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hepatobiliary iminodiacetic acid scanning"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ultrasonography in 6 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e7fc24",
+"children":[
+"Gallbladder polyp size greater than 1 cm is a risk factor for malignancy; treatment for such polyps should be cholecystectomy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"26e565",
+"children":[
+"Gallbladder polyps associated with gallbladder stones or primary sclerosing cholangitis are more likely to be neoplastic regardless of the polyp size."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"57c961",
+"children":[
+"The most appropriate management is cholecystectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a gallbladder polyp. Incidental findings, including gallbladder polyps, are usually seen on 1% to 5% of gallbladder ultrasounds, as well as in resected gallbladders. Neoplastic adenomas are rare, representing less than 0.5% of polyps. The best predictor of a malignant or premalignant lesion is size; polyps greater than 1 cm are more likely to be neoplastic and should be treated with cholecystectomy if possible. Gallbladder polyps associated with gallbladder stones or primary sclerosing cholangitis are also more likely to be neoplastic. This patient has a polyp larger than 1 cm and therefore should be offered cholecystectomy."
+]
+},
+{
+"type":"p",
+"hlId":"131d34",
+"children":[
+"If common bile duct dilation had been present on ultrasonography, two options could be considered: (1) endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for patients with cholelithiasis and therefore a high likelihood of choledocholithiasis, and (2) magnetic resonance cholangiopancreatography for diagnostic evaluation if ultrasonography findings are indeterminate. Urgent ERCP is indicated for acute cholangitis, signaled by fever, right-upper-quadrant abdominal pain, and jaundice. This patient does not have a dilated common bile duct or ascending cholangitis, and ERCP would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"11ce95",
+"children":[
+"When cholecystitis is suspected and the ultrasound is not conclusive, hepatobiliary iminodiacetic acid scanning with ejection fraction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may help determine gallbladder function in symptomatic patients without evidence of larger stones. However, the issue in this case is not the function of the gallbladder but rather the risk for neoplasm of the gallbladder polyp."
+]
+},
+{
+"type":"p",
+"hlId":"6c2d6b",
+"children":[
+"Gallbladder polyps that are 5 mm or less may be monitored with repeat ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in 12 months. If they have increased in size, cholecystectomy may be offered. Gallbladder polyps that are 6 to 9 mm may be monitored with ultrasonography in 6 months and then yearly thereafter. Cholecystectomy may also be offered if the polyp size has increased. Because this patient has a 1.5-cm polyp, follow-up ultrasonography would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s7_7",
+"objective":{
+"__html":"Treat a large gallbladder polyp."
+},
+"references":[
+[
+"Wiles R, Thoeni RF, Barbu ST, et al. Management and follow-up of gallbladder polyps: joint guidelines between the European Society of Gastrointestinal and Abdominal Radiology (ESGAR), European Association for Endoscopic Surgery and Other Interventional Techniques (EAES), International Society of Digestive Surgery–European Federation (EFISDS) and European Society of Gastrointestinal Endoscopy (ESGE). Eur Radiol. 2017;27:3856-3866. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28185005",
+"target":"_blank"
+},
+"children":[
+"PMID: 28185005"
+]
+},
+" doi:10.1007/s00330-017-4742-y"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":50,
+"B":5,
+"C":18,
+"D":27,
+"E":0
+},
+"hlIds":[
+"c4fca7",
+"ca09e7",
+"f9ab55",
+"bcab00",
+"cb2b54",
+"e7fc24",
+"26e565",
+"57c961",
+"131d34",
+"11ce95",
+"6c2d6b"
+]
+}

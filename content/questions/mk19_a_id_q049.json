@@ -1,0 +1,231 @@
+{
+"id":"mk19_a_id_q049",
+"number":49,
+"bookId":"id",
+"correctAnswer":"E",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1df99b",
+"children":[
+"A 62-year-old woman undergoes preoperative evaluation for total hip arthroplasty. Medical history is notable for diabetes mellitus, osteoarthritis, and liver transplantation 7 years ago for hepatitis C–related cirrhosis. Medications are tacrolimus, mycophenolate, metformin, and acetaminophen."
+]
+},
+{
+"type":"p",
+"hlId":"7a3b8e",
+"children":[
+"On physical examination, vital signs are normal. She has limited active right hip range of motion, but physical examination findings are otherwise normal."
+]
+},
+{
+"type":"p",
+"hlId":"8a6dde",
+"children":[
+"Microscopic urinalysis results show 5-10 erythrocytes/hpf, 10-20 leukocytes/hpf, and 3+ bacteria."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"403b56",
+"children":[
+"Which of the following is the most appropriate management of this patient's bacteriuria?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cancelation of surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Extended surgical antibiotic prophylaxis postoperatively"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Presurgical trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine culture and sensitivity"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0a0dc9",
+"hvc":true,
+"children":[
+"Screening for and treating asymptomatic bacteriuria before nonurologic surgical procedures is not recommended."
+]
+},
+{
+"type":"keypoint",
+"hlId":"162943",
+"hvc":true,
+"children":[
+"Screening for and treating asymptomatic bacteriuria is recommended in pregnant women and before an invasive urologic procedure that may lead to mucosal bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"96a872",
+"children":[
+"No further management is needed for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Screening for and treating asymptomatic bacteriuria before nonurologic surgical procedures, including prosthetic joint arthroplasty, has not proven beneficial in preventing postoperative surgical site infections. This applies to patients with diabetes, those with known immune disorders, and those receiving immunosuppressive medications. Antibiotic treatment of asymptomatic bacteriuria (defined as the presence of at least 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"5"
+]
+},
+" cfu/mL of one or more bacteria, without local or systemic signs or symptoms of active infection) has few recommended indications. Pyuria accompanying asymptomatic bacteriuria detected by a positive leukocyte esterase urine dipstick test or microscopic analysis is not an indication for antimicrobial treatment, and its presence often leads to unnecessary and potentially harmful antibiotic prescribing. Although women with asymptomatic bacteriuria are at increased risk of symptomatic urinary tract infections, antibiotic treatment offers no beneficial health outcome, and the risk of future symptomatic infections is not decreased. Additionally, this practice may be harmful, resulting in increased symptomatic infections with bacteria that have increased antibiotic resistance. Screening for and treating asymptomatic bacteriuria in pregnant women is recommended, as is screening before a planned invasive urologic procedure that may lead to mucosal bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"7b4d2f",
+"children":[
+"Asymptomatic bacteriuria does not increase the risk of postsurgical joint infections following joint arthroplasty. Canceling this patient's hip arthroplasty is not necessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"66b3c1",
+"children":[
+"If antibiotic prophylaxis is indicated for a surgical procedure, effectiveness will depend on the selection of the correct agent, dose, and time for administration (60 minutes before incision, 2 hours before incision for vancomycin or fluoroquinolones) and redosing during surgery based on surgery duration and antibiotic half-life. Continuing antibiotics postoperatively (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") does not decrease surgical site infection incidence. Patients with asymptomatic bacteriuria do not require prolonged surgical antibiotic prophylaxis."
+]
+},
+{
+"type":"p",
+"hlId":"49fb14",
+"children":[
+"Trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") given for 3 days is acceptable when treating symptomatic cystitis unless local resistance rates are known to be greater than 20%. However, this patient does not have symptomatic infection."
+]
+},
+{
+"type":"p",
+"hlId":"11e6f6",
+"children":[
+"Routine or reflexive urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") based solely on an abnormal urinalysis in otherwise asymptomatic persons often leads to unwarranted antimicrobial therapy and should be avoided."
+]
+}
+],
+"relatedSection":"mk19_a_id_s5_3_1",
+"objective":{
+"__html":"Manage asymptomatic bacteriuria in an immunosuppressed patient."
+},
+"references":[
+[
+"Nicolle LE, Gupta K, Bradley SF, et al. Clinical practice guideline for the management of asymptomatic bacteriuria: 2019 update by the Infectious Diseases Society of America. Clin Infect Dis. 2019;68:e83-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30895288",
+"target":"_blank"
+},
+"children":[
+"PMID: 30895288"
+]
+},
+" doi:10.1093/cid/ciy1121"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":1,
+"C":12,
+"D":29,
+"E":54
+},
+"hlIds":[
+"1df99b",
+"7a3b8e",
+"8a6dde",
+"403b56",
+"0a0dc9",
+"162943",
+"96a872",
+"7b4d2f",
+"66b3c1",
+"49fb14",
+"11e6f6"
+]
+}

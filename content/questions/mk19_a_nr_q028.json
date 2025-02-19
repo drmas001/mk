@@ -1,0 +1,216 @@
+{
+"id":"mk19_a_nr_q028",
+"number":28,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6c9d79",
+"children":[
+"A 78-year-old woman is evaluated for a 1-year history of progressively worsening memory impairment. She can no longer handle her finances, as she doesn't remember how to fill out checks properly. She lives with her spouse and is independent in all other basic activities of daily living."
+]
+},
+{
+"type":"p",
+"hlId":"56e40c",
+"children":[
+"On physical examination, vital signs are normal. Montreal Cognitive Assessment score is 21/30, with difficulty copying the cube, recalling the five words, and naming the day, date, and month noted."
+]
+},
+{
+"type":"p",
+"hlId":"fffd94",
+"children":[
+"Results of laboratory evaluation are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"00d86f",
+"children":[
+"Which of the following is the most appropriate imaging test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amyloid PET scan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluorodeoxyglucose PET scan"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Head CT with contrast"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI of the brain without contrast"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1c1d0c",
+"children":[
+"Patients with evidence of dementia symptoms for less than 3 years should have advanced neuroimaging with noncontrast CT or MRI."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d370a7",
+"children":[
+"MRI of the brain supports the diagnosis of Alzheimer disease when it shows evidence of decreased volume of the hippocampi out of proportion to rest of the brain."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e921e1",
+"children":[
+"Either a brain MRI or a head CT without contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be done in the evaluation of dementia. Guidelines recommend that patients with evidence of dementia symptoms for less than 3 years should have advanced neuroimaging with noncontrast CT or MRI. Neuroimaging can identify conditions that may be remediable or modifiable, such as cerebrovascular disease, hemorrhage, tumor, and abscess. Neuroimaging can also support the diagnoses of specific dementias, such as Alzheimer disease, Creutzfeldt-Jakob disease, and hydrocephalus. MRI of the brain supports the diagnosis of Alzheimer disease when it shows evidence of decreased volume of the hippocampi out of proportion to rest of the brain. This patient likely has Alzheimer disease, and although a head CT is acceptable, brain MRI would be better to define the level of atrophy in the hippocampi for this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"5311be",
+"children":[
+"An amyloid-specific PET scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") uses ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"18"
+]
+},
+"F-fluorodeoxyglucose (FDG) to detect amyloid plaques. Amyloid PET scanning is not routinely recommended in the evaluation of dementia. However, this imaging modality can help differentiate frontotemporal dementia from Alzheimer disease when the correct diagnosis is not clinically apparent. An amyloid PET scan, although FDA-approved, is not covered by insurance."
+]
+},
+{
+"type":"p",
+"hlId":"52e901",
+"children":[
+"When the MRI is normal and the diagnosis is in question or a non–Alzheimer disease process is being considered, a functional fluorodeoxyglucose PET scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used to look for the Alzheimer disease pattern of decreased brain function in the bilateral parietal and temporal regions. However, it is typically not an appropriate assessment until structural lesions in the brain are assessed by either MRI of the brain or head CT."
+]
+},
+{
+"type":"p",
+"hlId":"171b7e",
+"children":[
+"A head CT with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not necessary unless there is concern for infection, inflammation, or neoplasm, which would typically be accompanied by focal neurologic findings on examination."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_1_1_1",
+"objective":{
+"__html":"Evaluate dementia with neuroimaging."
+},
+"references":[
+[
+"Oh ES, Rabins PV. Dementia. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201909030",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31476229",
+"target":"_blank"
+},
+"children":[
+"PMID: 31476229"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":5,
+"C":11,
+"D":65,
+"E":0
+},
+"hlIds":[
+"6c9d79",
+"56e40c",
+"fffd94",
+"00d86f",
+"1c1d0c",
+"d370a7",
+"e921e1",
+"5311be",
+"52e901",
+"171b7e"
+]
+}

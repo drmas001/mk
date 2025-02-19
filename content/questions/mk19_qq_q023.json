@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q023",
+"number":23,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d59d63",
+"children":[
+"An 84-year-old man is evaluated because of dizziness and confusion 2 weeks after his furosemide dosage was increased. He has atrial fibrillation, chronic kidney disease, and postherpetic neuralgia. His other medications are rivaroxaban, benazepril, gabapentin, and metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"573785",
+"children":[
+"On physical examination, vital signs are normal without orthostasis. There is an irregular rhythm. The patient appears weak but has no localizing findings. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level has risen from 1.2 mg/dL (106.1 µmol/L) to 1.8 mg/dL (159.1 µmol/L); laboratory evaluation is otherwise unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"64aa29",
+"children":[
+"Which of the following most likely caused this patient's symptoms?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Heart failure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intracerebral hemorrhage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Medication effect"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pneumonia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f0790",
+"children":[
+"Twelve percent of patients in the United States older than 65 years take 10 or more medications each week, and adverse drug reactions in this population account for 10% of emergency department visits and up to 17% of acute hospitalizations."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"30073c",
+"children":[
+"This clinical presentation is likely the result of overmedication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in this patient with significant medical comorbidities and numerous medications. His diuretic dosage was recently increased, which likely led to volume depletion and in turn may have changed his kidneys' ability to metabolize renally cleared drugs, as suggested by the increase in serum creatinine concentration."
+]
+},
+{
+"type":"p",
+"hlId":"378f60",
+"children":[
+"Polypharmacy is common in older patients. Although no consistent definition exists, the presence of more than five prescribed medications is commonly used. Twelve percent of patients in the United States older than 65 years take 10 or more medications each week, and adverse drug reactions in this population account for 10% of emergency department visits and up to 17% of acute hospitalizations. In addition, transitions of care, such as hospital discharge, are associated with an increase in the number of prescribed medications and medication reconciliation errors, leading to inappropriate discontinuation of essential medications."
+]
+},
+{
+"type":"p",
+"hlId":"a79b8a",
+"children":[
+"Many medications on this patient's list could cause adverse reactions. Gabapentin can cause dizziness and weakness and needs to be dose-adjusted in the setting of kidney disease. A review of every patient's medications, particularly patients older than 65 years, should be a part of routine care to avoid polypharmacy and potential medication-related adverse events."
+]
+},
+{
+"type":"p",
+"hlId":"d29dcc",
+"children":[
+"The absence of clinical findings of heart failure (lung crackles, edema) argues against acute heart failure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") as the cause of this patient's recent symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"853afb",
+"children":[
+"Because this patient is elderly and taking an anticoagulant, he has an increased risk for intracerebral hemorrhage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), but his symptoms and normal examination do not support this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"55d301",
+"children":[
+"Infection, especially pneumonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should always be a primary consideration in patients older than 65 years with mental status changes and failure to thrive. However, in this patient with recent aggressive diuresis and no reported fever or focal infectious symptoms, a medication effect is a more likely cause."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_4_1",
+"objective":{
+"__html":"Diagnose a medication-related adverse effect in an elderly patient."
+},
+"references":[
+[
+"Levy HB. Polypharmacy reduction strategies: tips on incorporating American Geriatrics Society Beers and screening tool of older people's prescriptions criteria. Clin Geriatr Med. 2017;33:177-187. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28364990",
+"target":"_blank"
+},
+"children":[
+"PMID: 28364990"
+]
+},
+" doi:10.1016/j.cger.2017.01.007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d59d63",
+"573785",
+"64aa29",
+"6f0790",
+"30073c",
+"378f60",
+"a79b8a",
+"d29dcc",
+"853afb",
+"55d301"
+]
+}

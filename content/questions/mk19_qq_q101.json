@@ -1,0 +1,539 @@
+{
+"id":"mk19_qq_q101",
+"number":101,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d1939e",
+"children":[
+"A 59-year-old woman undergoes follow-up evaluation for hypertension, hyperlipidemia, and type 2 diabetes mellitus. Medications are losartan, atorvastatin, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"ec4c01",
+"children":[
+"On physical examination, blood pressure is 128/76 mm Hg; the remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9e5404",
+"class":"cell text l",
+"children":[
+"11.1 g/dL (111 g/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d20cae",
+"class":"cell text l",
+"children":[
+"L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"075484",
+"class":"cell text l",
+"children":[
+"24 mEq/L (24 mmol/L)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b521b8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Albumin-creatinine ratio, urine",
+"children":[
+"Albumin-creatinine ratio"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b5217d",
+"class":"cell text l",
+"children":[
+"400 mg/g"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c1d9f5",
+"class":"cell text l",
+"children":[
+"H"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"77db81",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"Estimated glomerular filtration rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"80c113",
+"class":"cell text l",
+"children":[
+"35 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"53502f",
+"children":[
+"Which of the following treatments is most appropriate to slow the progression of chronic kidney disease in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Canagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epoetin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lisinopril"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sodium bicarbonate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ade1ae",
+"children":[
+"In patients with diabetic kidney disease, guidelines recommend considering the use of a sodium-glucose cotransporter-2 inhibitor in those with an estimated glomerular filtration rate >30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and a urine albumin-creatinine ratio >30 mg/g (particularly >300 mg/g) to reduce the risk for chronic kidney disease progression and cardiovascular events."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2a4046",
+"children":[
+"Glucagon-like peptide-1 receptor agonists, such as liraglutide, reduce the risk for chronic kidney disease progression and cardiovascular events."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b13ded",
+"children":[
+"This patient with diabetic kidney disease should be started on a sodium-glucose cotransporter-2 (SGLT2) inhibitor such as canagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Diabetic kidney disease, defined as clinical evidence of kidney injury in response to chronic, long-standing hyperglycemia, has a 10% incidence over 25 years among patients with type 1 diabetes mellitus (DM) and a 12% incidence over 25 years among patients with type 2 DM. In patients with diabetic kidney disease, guidelines recommend considering the use of an SGLT2 inhibitor in those with an estimated glomerular filtration rate >30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and a urine albumin-creatinine ratio >30 mg/g (particularly >300 mg/g) to reduce the risk for chronic kidney disease (CKD) progression and cardiovascular events. SGLT2 inhibitors reduce renal tubular glucose reabsorption, weight, systemic blood pressure, intraglomerular pressure, and albuminuria as well as slow CKD progression through mechanisms that appear independent of glycemic control. A glucagon-like peptide-1 receptor agonist, such as liraglutide, will also reduce the risk for CKD progression and cardiovascular events."
+]
+},
+{
+"type":"p",
+"hlId":"f1c8cb",
+"children":[
+"Erythropoiesis-stimulating agents (ESAs), such as epoetin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), should not be used for most patients with chronic kidney disease and a hemoglobin level higher than 11 g/dL (110 g/L) because of an increased risk for serious cardiovascular events and strokes. In appropriately selected patients, ESAs result in modest improvements in fatigue but not slowing of CKD progression."
+]
+},
+{
+"type":"p",
+"hlId":"5bb62f",
+"children":[
+"This patient does not require any modifications to her blood pressure regimen, such as with lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Guidelines recommend that patients with hypertension and diabetic kidney disease, particularly with proteinuria, be treated with either an ACE inhibitor or angiotensin receptor blocker (ARB) to a goal blood pressure of <130/80 mm Hg, which this patient is achieving with losartan (an ARB). Furthermore, combining any two renin-angiotensin system drug classes (ACE inhibitor, ARB, or direct renin inhibitors) is not recommended, as adverse effects have been shown to be increased, including hyperkalemia and elevated serum creatinine; there is no evidence of additional clinical benefit from this combination strategy."
+]
+},
+{
+"type":"p",
+"hlId":"dd5897",
+"children":[
+"Large observational studies have shown a strong association between lower serum bicarbonate levels and increased progression of CKD and mortality. Meta-analysis of randomized trials of alkali therapy, most commonly sodium bicarbonate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or sodium citrate, support delayed progression of CKD. This patient has a normal serum bicarbonate level and treatment with sodium bicarbonate is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_np_s6_3_1_4",
+"objective":{
+"__html":"Treat diabetic kidney disease with sodium-glucose cotransporter-2 inhibitor."
+},
+"references":[
+[
+"Draznin B, Aroda VR, Bakris G, et al; American Diabetes Association Professional Practice Committee. 11. ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"C"
+]
+},
+"hronic kidney disease and risk management: standards of medical care in diabetes-2022. Diabetes Care. 2022;45:S175-S184. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34964873",
+"target":"_blank"
+},
+"children":[
+"PMID: 34964873"
+]
+},
+" doi:10.2337/dc22-S011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d1939e",
+"ec4c01",
+"a462a3",
+"f9867c",
+"9e5404",
+"d20cae",
+"6827e3",
+"075484",
+"d41d8c",
+"b521b8",
+"b5217d",
+"c1d9f5",
+"77db81",
+"80c113",
+"d41d8c",
+"53502f",
+"ade1ae",
+"2a4046",
+"b13ded",
+"f1c8cb",
+"5bb62f",
+"dd5897"
+]
+}

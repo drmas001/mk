@@ -1,0 +1,252 @@
+{
+"id":"mk19_a_nr_q089",
+"number":89,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"62b334",
+"children":[
+"An 82-year-old man is seen for presyncope symptoms and a recent fall. He has never fallen before, and the fall was not associated with injury. He was diagnosed with moderate Alzheimer disease two weeks ago, and drug therapy was initiated. His other medical conditions are hypertension and osteoarthritis of the knees. His current medications are hydrochlorothiazide, topical diclofenac, and donepezil."
+]
+},
+{
+"type":"p",
+"hlId":"4ebba5",
+"children":[
+"On physical examination, blood pressure is 125/74 mm Hg and pulse rate is 42/min; other vital signs and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"e0e8ce",
+"children":[
+"ECG reveals sinus bradycardia without other abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"24-Hour ambulatory electrocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pacemaker insertion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stopping donepezil"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Stopping hydrochlorothiazide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fc4942",
+"hvc":true,
+"children":[
+"The acetylcholinesterase inhibitors donepezil, rivastigmine, and galantamine can be associated with bradycardia, heart block, and syncope."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3e3d38",
+"hvc":true,
+"children":[
+"Acetylcholinesterase inhibitors should be avoided in patients with pre-existing bradycardia or documented conduction disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1e1f47",
+"children":[
+"The most appropriate next step in management for this patient with symptomatic bradycardia is to stop the donepezil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Sinus bradycardia is the presence of sinus rhythm with a heart rate of less than 60/min. Pathologic sinus bradycardia is most commonly caused by sinus node dysfunction due to age-related myocardial fibrosis. The most common extrinsic cause is medication use. The acetylcholinesterase inhibitors donepezil, rivastigmine, and galantamine modestly improve cognitive performance in patients with mild or moderate Alzheimer disease. However, these drugs can be associated with bradycardia, heart block, and syncope due to drug-related enhanced vagal tone. Acetylcholinesterase inhibitors should be avoided in patients with pre-existing bradycardia or documented conduction disease and should be stopped in patients who develop symptomatic bradycardia or hypotension. The ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-methyl-",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+"-aspartate receptor antagonist memantine is approved for moderate to severe Alzheimer disease associated with significant functional impairment and might be considered as a substitute for donepezil in this case. Memantine is not associated with adverse cardiovascular effects."
+]
+},
+{
+"type":"p",
+"hlId":"cc1b6f",
+"children":[
+"In patients with syncope or near syncope, echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated to detect suspected valvular heart disease, hypertrophic cardiomyopathy, and reduced left ventricular function. This patient has documented bradycardia related to the initiation of donepezil, and echocardiography will provide no additional diagnostic information."
+]
+},
+{
+"type":"p",
+"hlId":"9ab005",
+"children":[
+"The intermittent and fleeting nature of arrhythmias can make diagnosis difficult. If symptoms occur daily, a 24-hour ambulatory ECG monitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used. However, this patient's arrhythmia is evident on physical examination and ECG, and a medication cause is evident. 24-Hour ambulatory ECG monitoring is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"34c496",
+"children":[
+"In hemodynamically stable patients, reversible and extrinsic causes of bradycardia should always be addressed before more invasive measures, such as permanent pacing, are considered. This patient has a reversible cause of bradycardia and pacemaker insertion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the first management option."
+]
+},
+{
+"type":"p",
+"hlId":"3ab402",
+"children":[
+"Thiazide diuretics are associated with many metabolic side effects, sleep disturbance, and sexual dysfunction but not presyncope, syncope, or falls (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_1_1_2",
+"objective":{
+"__html":"Diagnose acetylcholinesterase inhibitor–related bradycardia."
+},
+"references":[
+[
+"Oh ES, Rabins PV. Dementia. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201909030",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31476229",
+"target":"_blank"
+},
+"children":[
+"PMID: 31476229"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":23,
+"C":3,
+"D":62,
+"E":10
+},
+"hlIds":[
+"62b334",
+"4ebba5",
+"e0e8ce",
+"1a5dcc",
+"fc4942",
+"3e3d38",
+"1e1f47",
+"cc1b6f",
+"9ab005",
+"34c496",
+"3ab402"
+]
+}

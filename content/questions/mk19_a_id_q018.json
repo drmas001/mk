@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_id_q018",
+"number":18,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d75109",
+"children":[
+"A 62-year-old man is evaluated for a fever. An indwelling urinary catheter was inserted during coronary artery bypass surgery 12 hours ago. Nurses obtained a urinalysis."
+]
+},
+{
+"type":"p",
+"hlId":"89ffb6",
+"children":[
+"On physical examination, temperature is 38.1 °C (100.6 °F); the remainder of the vital signs and physical examination are noncontributory. The urinary catheter is removed."
+]
+},
+{
+"type":"p",
+"hlId":"651d10",
+"children":[
+"Urinalysis shows 20 leukocytes/hpf."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Obtain urine culture"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat urinalysis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start empiric antibiotics"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6ee87a",
+"children":[
+"Postoperative fever reaches a peak at 11 hours following surgery, and half of patients have a temperature exceeding 38 °C (100.4 °F)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"97f996",
+"children":[
+"The presence of pyuria is a nonspecific finding, is not a symptom of catheter-associated urinary tract infection, and should not be interpreted as an indication for antibiotic treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9efe49",
+"children":[
+"Clinical observation is the most appropriate management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient's new onset fever suggested the possibility of an infection. In the course of evaluating the infection, a urinalysis was obtained, which revealed pyuria. However, the presence of pyuria is a nonspecific finding, is not a symptom of catheter-associated urinary tract infection (CAUTI), and should not be interpreted as an indication for antibiotic treatment. The next step should be to determine if the patient has any additional evidence-based symptoms of CAUTI such as hematuria, rigors, flank pain, pelvic discomfort, or suprapubic pain; after removal of the urinary catheter, the presence of urgency, frequency, or dysuria should be determined as well. This patient had no symptoms of CAUTI other than fever. The next question should be whether the patient had any other diagnosis that could account for the fever. In this case, the normal physical examination and stability of the vital signs other than temperature suggest that the fever could be a postoperative fever. Postoperative fever is mediated by cytokines, tumor necrosis factor, and interferon-γ released following surgical stress. The median time to peak temperature is 11 hours, and half of patients have a temperature exceeding 38 °C (100.4 °F). Most fevers resulting from surgical stress resolve spontaneously after several hours; those related to surgery for severe trauma may persist for days."
+]
+},
+{
+"type":"p",
+"hlId":"fd41ed",
+"children":[
+"In the absence of any sign other than fever and a reasonable explanation for the patient's temperature elevation, obtaining a urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated. A positive urine culture would signify asymptomatic bacteriuria for which antibiotics should not be prescribed."
+]
+},
+{
+"type":"p",
+"hlId":"4bbb6e",
+"children":[
+"Repeating the urinalysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and urine culture after catheter removal is unnecessary unless the patient develops signs or symptoms of a UTI."
+]
+},
+{
+"type":"p",
+"hlId":"cfe441",
+"children":[
+"Inappropriate antibiotic therapy for asymptomatic bacteriuria can lead to development of antibiotic resistance and increases the risk of experiencing an adverse effect related to the antibiotic. This patient has no need for empiric antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_3_1",
+"objective":{
+"__html":"Evaluate a postoperative patient for a catheter-associated urinary tract infection."
+},
+"references":[
+[
+"Naik AD, Skelton F, Amspoker AB, et al. A fast and frugal algorithm to strengthen diagnosis and treatment decisions for catheter-associated bacteriuria. PLoS One. 2017;12:e0174415. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28350833",
+"target":"_blank"
+},
+"children":[
+"PMID: 28350833"
+]
+},
+" doi:10.1371/journal.pone.0174415"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":10,
+"C":17,
+"D":47,
+"E":0
+},
+"hlIds":[
+"d75109",
+"89ffb6",
+"651d10",
+"cb2b54",
+"6ee87a",
+"97f996",
+"9efe49",
+"fd41ed",
+"4bbb6e",
+"cfe441"
+]
+}

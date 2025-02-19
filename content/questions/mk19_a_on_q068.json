@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q068",
+"number":68,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f8b094",
+"children":[
+"A 72-year-old man was diagnosed 9 years ago with prostate cancer. After radiation treatment, his ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prostate-specific antigen, serum",
+"children":[
+"prostate-specific antigen"
+]
+},
+" (PSA) level dropped to a nadir of 1.5 ng/mL (1.5 µg/L); it had remained stable until it rose to 2 ng/mL (2 µg/L) 1 year ago and is currently 3.2 ng/mL (3.2 µg/L). He has no symptoms. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d9b49c",
+"children":[
+"Vital signs and all other physical examination findings are normal. Results of all other laboratory studies are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"2844e0",
+"children":[
+"Biopsy of the prostate is negative. CT of the chest, abdomen, and pelvis and bone scan are negative for metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Androgen deprivation therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chemotherapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cryotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Monitor PSA level without treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"988f32",
+"children":[
+"Patients with prostate-specific antigen (PSA)–only recurrence of prostate cancer and a slow PSA doubling time do not require immediate treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9f334c",
+"children":[
+"Many patients with PSA-only recurrent prostate cancer can be monitored with serial PSA assessment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b658ff",
+"children":[
+"This patient has a prostate-specific antigen (PSA)–only recurrence of prostate cancer, and the most appropriate management is to monitor PSA level without treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Men treated with radiation therapy rarely achieve an undetectable PSA, as is commonly seen after surgery. Rather, the PSA will fall with treatment and reach a nadir. PSA-only recurrence is defined as an increase in the PSA level by at least 2 ng/mL (2 µg/L) above the postradiation therapy nadir. This patient had a nadir PSA of approximately 1 ng/mL (1 µg/L) and now has a PSA of 3.2 ng/mL (3.2 µg/L) 9 years after treatment. Imaging studies did not reveal any evidence of metastatic disease. Therefore, he has a PSA-only recurrence. Treatment for patients with PSA-only recurrence is informed by the degree of PSA elevation and the rate of rise in the PSA level. For men with a rapid doubling time, defined as 10 months or less, treatment is generally recommended. Standard treatment in this setting is an androgen receptor blocker (such as enzalutamide). Men with a slow PSA doubling time (for example, more than 10 months) do not require immediate treatment, however, as it can take years for them to develop clinical metastatic disease. They can be monitored with serial PSA assessment, and treatment can be deferred."
+]
+},
+{
+"type":"p",
+"hlId":"b2069e",
+"children":[
+"Androgen deprivation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated in this case, given the slow PSA doubling time and the absence of biopsy-positive recurrent or metastatic disease."
+]
+},
+{
+"type":"p",
+"hlId":"9a1d16",
+"children":[
+"Chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") with docetaxel is reserved for treatment of men with symptomatic metastatic disease. This patient does not have metastatic disease and has no symptoms. There is no reason to subject him to the toxicity of chemotherapy when he does not require treatment."
+]
+},
+{
+"type":"p",
+"hlId":"8ef2bf",
+"children":[
+"Cryotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in this case. This patient underwent transrectal ultrasound-guided biopsy to assess for focal lesions in the prostate amenable to local therapy. Given that biopsy result was negative, there is no role for cryotherapy or other local treatment to the prostate."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_1_3",
+"objective":{
+"__html":"Manage prostate-specific antigen–only recurrent prostate cancer."
+},
+"references":[
+[
+"Van den Broeck T, van den Bergh RCN, Briers E, et al. Biochemical recurrence in prostate cancer: the European Association of Urology Prostate Cancer Guidelines Panel Recommendations. Eur Urol Focus. 2020;6:231-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31248850",
+"target":"_blank"
+},
+"children":[
+"PMID: 31248850"
+]
+},
+" doi:10.1016/j.euf.2019.06.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":2,
+"C":1,
+"D":65,
+"E":0
+},
+"hlIds":[
+"f8b094",
+"d9b49c",
+"2844e0",
+"cb2b54",
+"988f32",
+"9f334c",
+"b658ff",
+"b2069e",
+"9a1d16",
+"8ef2bf"
+]
+}

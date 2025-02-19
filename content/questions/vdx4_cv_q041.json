@@ -1,0 +1,127 @@
+{
+"id":"vdx4_cv_q041",
+"number":41,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"152925",
+"children":[
+"A 23-year-old woman is evaluated for recurrent episodes of syncope. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f041",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f041"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brugada syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypertrophic cardiomyopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Long QT syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Neurocardiogenic syncope"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"408cf0",
+"children":[
+"This ECG demonstrates long QT syndrome. A quick way to assess whether the QT interval is prolonged is to note whether the QT interval exceeds half of the R-R interval, as is evident in this patient's ECG. The QT interval depends on heart rate; if the heart rate is between 60/min and 100/min, the corrected QT interval (QTc) is determined by dividing the actual QT interval by the square root of the R-R interval (in seconds). QTc intervals of 450 ms or less in men and 460 ms or less in women are considered normal."
+]
+},
+{
+"type":"p",
+"hlId":"f64706",
+"children":[
+"Long QT syndrome can be acquired or congenital. In adults, the most common causes are drugs, including methadone, fluoroquinolones, antiarrhythmics, and psychotropics."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_9",
+"objective":{
+"__html":"Identify long QT syndrome on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f041":{
+"id":"vdx4_cv_mcq_f041",
+"number":41,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"46916ae74ad0e2466199a6f9e58a1c79",
+"height":416,
+"width":750,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"152925",
+"4a9f79",
+"413696",
+"408cf0",
+"f64706"
+]
+}

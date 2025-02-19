@@ -1,0 +1,171 @@
+{
+"id":"mk19_b_pm_q058",
+"number":58,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"68b8a5",
+"children":[
+"A 25-year-old man is seen in follow-up examination for asthma diagnosed 2 months ago. He reports that his symptoms are now well controlled without use of his rescue inhaler, and results of the Asthma Control Test confirm well-controlled asthma. During the visit, he describes feeling down on many days, with difficulty falling asleep and early morning awakening. Depression screening with the Patient Health Questionnaire-2 is positive. Medications are beclomethasone, montelukast, and albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"75e53d",
+"children":[
+"On physical examination, vital signs and pulmonary examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin escitalopram"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin salmeterol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop beclomethasone; begin budesonide-formoterol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop montelukast"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eacf92",
+"hvc":true,
+"children":[
+"After initiation of asthma therapies, patients should be reassessed for symptom control and medication tolerance."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aaa8c3",
+"hvc":true,
+"children":[
+"Montelukast should be discontinued in patients with symptoms suggestive of depression."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"37bc32",
+"children":[
+"The most appropriate treatment is to stop montelukast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). After initiation of asthma therapies, patients should be reassessed for symptom control and medication tolerance. Montelukast has been associated with significant adverse mental health effects and may be the cause of the patient's depression. Depressive symptoms can occur in patients with and without a previous history of depression or other neuropsychiatric disorders. In March 2020 the FDA added a boxed warning to montelukast, strengthening previous warnings about behavior and mood-related changes, including suicides, associated with this medication. The FDA also advised against using montelukast for allergic rhinitis because other first-line medications, such as intranasal glucocorticoids, are widely available and more efficacious and because many physicians are unaware of montelukast's potential adverse mental health effects. This patient's asthma symptoms are well controlled, and he has new symptoms and a positive Patient Health Questionnaire-2 result suggesting depression; therefore, montelukast should be discontinued, and the patient should be monitored for improvement in his depressive symptoms, which typically resolve if medication related. Other adverse effects include anaphylaxis, angioedema, dizziness, dyspepsia, muscle weakness, and elevated transaminases occurring in less than 2% of all patients. The occurrence of eosinophilic granulomatosis with polyangiitis has been described in patients taking antileukotriene agents, but most cases occur following discontinuation of glucocorticoids for severe asthma and may simply represent an uncovering of a previously undiagnosed condition. It remains unclear if this adverse event is caused by the drug."
+]
+},
+{
+"type":"p",
+"hlId":"d3508c",
+"children":[
+"Escitalopram (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a selective serotonin reuptake inhibitor used to treat depression and anxiety in adults. Adding an antidepressant to this patient's regimen is not necessary because the montelukast may be the cause of the patient's depression and discontinuation of the medication may resolve his symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"504009",
+"children":[
+"Controller medications such as salmeterol or budesonide-formoterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+") can be stepped up or down with the goal of maintaining symptom control and minimizing medication exposure. Stepping up this patient's treatment regimen with additional controller medications is not indicated because his asthma symptoms are well controlled. Instead, his therapy should be stepped down, and the first drug to be discontinued is montelukast."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6_2",
+"objective":{
+"__html":"Treat depression associated with montelukast."
+},
+"references":[
+[
+"Voelker R. Boxed warning for allergy drug. JAMA. 2020;323:1236. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32259219",
+"target":"_blank"
+},
+"children":[
+"PMID: 32259219"
+]
+},
+" doi:10.1001/jama.2020.4040"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":27,
+"B":3,
+"C":23,
+"D":47,
+"E":0
+},
+"hlIds":[
+"68b8a5",
+"75e53d",
+"1054f1",
+"eacf92",
+"aaa8c3",
+"37bc32",
+"d3508c",
+"504009"
+]
+}

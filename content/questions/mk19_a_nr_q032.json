@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q032",
+"number":32,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"925597",
+"children":[
+"A 76-year-old woman is evaluated in the emergency department for a stroke. She is given intravenous alteplase within 3 hours of onset. She also has hypertension. Her only outpatient medication is amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"c520de",
+"children":[
+"On physical examination, temperature is 37.6 °C (99.7 °F), blood pressure is 160/76 mm Hg, pulse rate is 68/min and irregular, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. She has global aphasia with no speech production, right facial weakness, and lack of movement in right arm and leg. National Institutes of Health Stroke Scale score is 18."
+]
+},
+{
+"type":"p",
+"hlId":"98c2ad",
+"children":[
+"ECG shows atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"8f43e5",
+"children":[
+"CT of the head shows no acute findings."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f71f97",
+"children":[
+"Which of the following is the most appropriate next step management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography of the brain"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous heparin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous labetalol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional intervention or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"06cf99",
+"children":[
+"Patients eligible for alteplase should receive alteplase even if mechanical thrombectomy is being considered."
+]
+},
+{
+"type":"keypoint",
+"hlId":"25c6ca",
+"children":[
+"In patients who meet eligibility requirements, thrombectomy after thrombolysis is associated with improved neurologic outcomes."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"373fd3",
+"children":[
+"The most appropriate management is CT angiography of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient is seen because of an acute ischemic stroke within 3 hours of onset and was appropriately treated with intravenous alteplase. Patients eligible for alteplase should receive alteplase even if mechanical thrombectomy is being considered. She has had a large stroke, with a National Institutes of Health Stroke Scale score of 18, and has examination findings consistent with a large-vessel (middle cerebral or intracranial carotid artery) occlusion, including aphasia. A large-vessel occlusion is associated with lower rates of neurologic improvement and recanalization with alteplase; treatment with thrombectomy after thrombolysis is indicated and associated with improved neurologic outcomes. In patients with a large-vessel occlusion, thrombectomy should be considered within 6 hours after symptom onset if noncontrast CT of the head shows no extensive infarction. Thrombectomy can be considered in select patients not treated with thrombolysis in a 6- to 24-hour time-of-onset window. A large-vessel occlusion can be identified only with vascular imaging; CT angiography is indicated in patients with a suspicion of a large-vessel occlusion on the basis of examination."
+]
+},
+{
+"type":"p",
+"hlId":"a44d1a",
+"children":[
+"Intravenous heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate because the patient has received intravenous thrombolysis, and any antithrombotic agent should be held within the first 24 hours in order to reduce hemorrhagic complications. The patient likely has new-onset atrial fibrillation and in the long term should receive anticoagulation for stroke prevention; in the acute setting, however, anticoagulation is not associated with a reduced risk for stroke and is associated with a higher risk for hemorrhagic transformation of ischemic stroke."
+]
+},
+{
+"type":"p",
+"hlId":"0c8c3c",
+"children":[
+"Intravenous labetalol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be administered because the patient's blood pressure is less than the recommended threshold of 180/105 mm Hg following thrombolytic therapy. Acute treatment to lower it is therefore not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"c869d2",
+"children":[
+"Providing no additional therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for this patient is not the best option because thrombectomy may result in improved neurologic outcomes."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_1_1",
+"objective":{
+"__html":"Evaluate a patient with acute ischemic stroke for thrombectomy."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":22,
+"C":11,
+"D":33,
+"E":0
+},
+"hlIds":[
+"925597",
+"c520de",
+"98c2ad",
+"8f43e5",
+"f71f97",
+"06cf99",
+"25c6ca",
+"373fd3",
+"a44d1a",
+"0c8c3c",
+"c869d2"
+]
+}

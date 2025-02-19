@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gi_q077",
+"number":77,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"03ae2e",
+"children":[
+"A 64-year-old man is evaluated in the hospital 2 hours after diagnosis of a bleeding gastric ulcer and treatment with endoscopic clips. He also has atrial fibrillation, hypertension, and hyperlipidemia. Outpatient medications are warfarin, rosuvastatin, losartan, and hydrochlorothiazide. On hospitalization, intravenous omeprazole was initiated and warfarin was withheld."
+]
+},
+{
+"type":"p",
+"hlId":"0169da",
+"children":[
+"On physical examination, vital signs are stable. Heart rhythm is irregularly irregular. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"e184a5",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 8 g/dL (80 g/L) and an INR of 2.2."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin intravenous heparin bridging therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue warfarin permanently"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Reinitiate warfarin after 30 days"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reinitiate warfarin within 7 days"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e9cc00",
+"children":[
+"In a patient with gastrointestinal bleeding, resuming anticoagulation within the first week after discontinuation minimizes risk for 90-day thrombosis, without increasing risk for 90-day recurrent gastrointestinal bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dcdd5e",
+"children":[
+"The most appropriate management is reinitiating warfarin within 7 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient had significant upper gastrointestinal hemorrhage related to peptic ulcer disease. He was appropriately initiated on an intravenous proton pump inhibitor, anticoagulation with warfarin was withheld, and endoscopic therapy was performed. In patients with significant bleeding and an INR less than 2.5, guidelines recommend not delaying endoscopy. Few prospective data are available to guide optimal timing of resuming anticoagulation after gastrointestinal bleeding. In general, if hemostasis is certain, anticoagulants should be restarted as soon as possible because the outcome of a thrombotic event is usually far worse than recurrent gastrointestinal bleeding. Retrospective data suggest that resuming anticoagulation (warfarin or direct oral anticoagulants) within the first week minimizes risk for 90-day thrombosis, without increasing risk for 90-day recurrent gastrointestinal bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"6f6b52",
+"children":[
+"In patients with atrial fibrillation for whom warfarin was discontinued, re-anticoagulation with low-molecular-weight heparin or unfractionated heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be considered within 48 hours in patients at high thrombotic risk, such as those with a mechanical prosthetic heart valve in the mitral position, atrial fibrillation with prosthetic heart valve, or mitral stenosis. This patient has no indication for heparin bridging before reinitiation of warfarin therapy."
+]
+},
+{
+"type":"p",
+"hlId":"16c899",
+"children":[
+"Resuming anticoagulation after 30 days would be associated with increased risk for thrombosis and death without a significant increase in risk for recurrent gastrointestinal bleeding. Therefore, permanently discontinuing warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or delaying reinitiation of warfarin beyond 7 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_2_3_3",
+"objective":{
+"__html":"Manage upper gastrointestinal bleeding in a patient taking anticoagulant therapy for atrial fibrillation."
+},
+"references":[
+[
+"Acosta RD, Abraham NS, Chandrasekhara V, et al; ASGE Standards of Practice Committee. The management of antithrombotic agents for patients undergoing GI endoscopy. Gastrointest Endosc. 2016;83:3-16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26621548",
+"target":"_blank"
+},
+"children":[
+"PMID: 26621548"
+]
+},
+" doi:10.1016/j.gie.2015.09.035"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":9,
+"C":10,
+"D":64,
+"E":0
+},
+"hlIds":[
+"03ae2e",
+"0169da",
+"e184a5",
+"cb2b54",
+"e9cc00",
+"dcdd5e",
+"6f6b52",
+"16c899"
+]
+}

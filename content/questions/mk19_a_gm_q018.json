@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_gm_q018",
+"number":18,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ad7420",
+"children":[
+"A 49-year-old man is evaluated for increasing abdominal pain in the right upper quadrant and epigastrium. He was diagnosed 6 weeks ago with metastatic cholangiocarcinoma. He rates his pain intensity as 7 out of 10 and reports that it is now interfering with sleep. After his diagnosis, he was started on immediate-release morphine sulfate and noted an initial reduction in his pain. Over the past 2 weeks, he reports taking an average of five to six doses per day, waking up from sleep with pain, and noticing significant escalation of his pain 3 hours after a dose. He also takes polyethylene glycol."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"aa619b",
+"children":[
+"Which of the following is the most appropriate adjustment to this patient's pain treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add duloxetine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add tramadol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Change morphine sulfate to oxycodone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start sustained-release morphine sulfate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"85ff3c",
+"children":[
+"In a patient taking an immediate-release opioid for severe cancer pain, escalating pain should prompt the addition of a sustained-release formulation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b9ffe1",
+"children":[
+"The most appropriate treatment for this patient's pain is to start sustained-release morphine sulfate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient is experiencing escalating pain in the setting of known metastatic cholangiocarcinoma. He was started on appropriate immediate-release opioid therapy for severe cancer-associated pain and is now experiencing end-dose failure, which should prompt the initiation of a sustained-release opioid while continuing the short-acting opioid for breakthrough pain flares. Because the patient is currently tolerating morphine, there is no reason to change to an alternative opioid. In addition, nonopioid adjuvant therapies should be considered for this patient; he would benefit from an evaluation for targeted interventional options by a pain medicine specialist."
+]
+},
+{
+"type":"p",
+"hlId":"688db9",
+"children":[
+"Duloxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is commonly used as an adjuvant in the treatment of bony cancer–associated pain and neuropathic pain. The primary analgesic mode of action may be modulation of the descending pain pathway through inhibition of norepinephrine reuptake, as well as serotonergic and dopaminergic effects. However, the onset to efficacy is at least 1 week, and the best next step in the setting of metastatic cancer is to increase the patient's current opioid regimen with a basal analgesic agent."
+]
+},
+{
+"type":"p",
+"hlId":"59a099",
+"children":[
+"Tramadol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a weak opioid agonist, making it a less effective analgesic in the treatment of cancer-related pain than agents such as morphine. Its use should be avoided in patients with kidney and/or liver failure because of accumulation of active metabolites. In addition, tramadol carries risk for significant drug-drug interactions."
+]
+},
+{
+"type":"p",
+"hlId":"6e5409",
+"children":[
+"Changing the opioid agent to oral oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would not solve the end-dose failure this patient is experiencing. He is tolerating immediate-release morphine sulfate with improvement in his pain, but the improvement is not sustained, making a long-acting formulation a more appropriate treatment in this situation."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_3",
+"objective":{
+"__html":"Treat escalating pain in a patient with advanced cancer."
+},
+"references":[
+[
+"Scarborough BM, Smith CB. Optimal pain management for patients with cancer in the modern era. CA Cancer J Clin. 2018;68:182-96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29603142",
+"target":"_blank"
+},
+"children":[
+"PMID: 29603142"
+]
+},
+" doi:10.3322/caac.21453"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":0,
+"C":3,
+"D":94,
+"E":0
+},
+"hlIds":[
+"ad7420",
+"aa619b",
+"85ff3c",
+"b9ffe1",
+"688db9",
+"59a099",
+"6e5409"
+]
+}

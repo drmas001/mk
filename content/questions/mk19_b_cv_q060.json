@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_cv_q060",
+"number":60,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1250d2",
+"children":[
+"A 26-year-old woman is evaluated for palpitations that began 2 months ago. The palpitations begin with no specific inciting factors, last 5 to 15 minutes, and are alleviated by rest or deep breathing. They occur a few times per week. Between events, she engages in usual daily activities with no limitations. She has no other pertinent history and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"86dabf",
+"children":[
+"Resting 12-lead ECG shows sinus rhythm and no abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d6610f",
+"children":[
+"Which of the following is the most appropriate diagnostic testing option?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Implantable loop recorder"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mobile cardiac telemetry"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"30-Day event monitor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8c766d",
+"children":[
+"A 30-day event monitor is most appropriate for evaluating patients with palpitations who have symptoms that occur less than daily but frequently over the course of a month."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6eece2",
+"children":[
+"An implantable looping event recorder is most appropriate for infrequent or highly symptomatic arrhythmias in which the symptoms might preclude a patient from activating the device, such as syncope."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"77910a",
+"children":[
+"A 30-day event monitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate diagnostic testing option for this patient with palpitations. Event monitors are patient-triggered devices that are ideally suited to capture symptomatic arrhythmias. The choice of ambulatory cardiac rhythm monitor depends on the frequency and duration of the symptoms as well as any other associated symptoms, signs, or findings. For patients such as this one, with symptoms that occur frequently over the course of a month but not daily, a 30-day event monitor is most appropriate. The patient can activate the monitor when symptoms occur, provided that the symptoms last long enough to be captured by the device's active and retrospective capture. Symptoms that last longer than 1 to 2 minutes are ideally suited for event monitors."
+]
+},
+{
+"type":"p",
+"hlId":"1df0c1",
+"children":[
+"An exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") allows diagnosis of exercise-related arrhythmias and also allows for assessment of the effect of exercise on blood pressure and symptoms. Most arrhythmias are not exercise induced, and this patient clearly indicated that there were no triggering events for her palpations; therefore, exercise ECG is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"fb744e",
+"children":[
+"An implantable loop recorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is most appropriate for infrequent or highly symptomatic arrhythmias in which the symptoms, such as syncope, might preclude a patient from activating the device. These monitors are implanted under the skin and can be used for months to years. This patient's symptoms occur weekly and are not associated with syncope; thus, an implantable loop recorder is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"cc2796",
+"children":[
+"Mobile cardiac telemetry (MCT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") provides continuous ambulatory ECG recording for precise quantification or capture of rare arrhythmias. MCT is not indicated for this patient whose symptoms have not yet been correlated to any specific arrhythmia; thus, quantification of arrhythmia burden is unnecessary at this time. MCT is often used to capture arrhythmias that may not be associated with symptoms (e.g., occult atrial fibrillation), but this patient's symptom complex seems fairly reproducible. Furthermore, her symptoms occur frequently enough that an event monitor would be the most resource-appropriate test to order at this time."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_4",
+"objective":{
+"__html":"Evaluate a patient with palpitations using a 30-day event monitor."
+},
+"references":[
+[
+"Steinberg JS, Varma N, Cygankiewicz I, et al. 2017 ISHNE-HRS expert consensus statement on ambulatory ECG and external cardiac monitoring/telemetry. Heart Rhythm. 2017;14:e55-e96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28495301",
+"target":"_blank"
+},
+"children":[
+"PMID: 28495301"
+]
+},
+" doi:10.1016/j.hrthm.2017.03.038"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":7,
+"C":18,
+"D":73,
+"E":0
+},
+"hlIds":[
+"1250d2",
+"f8786b",
+"86dabf",
+"d6610f",
+"8c766d",
+"6eece2",
+"77910a",
+"1df0c1",
+"fb744e",
+"cc2796"
+]
+}

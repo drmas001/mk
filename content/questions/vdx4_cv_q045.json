@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q045",
+"number":45,
+"bookId":"vdx_cv",
+"correctAnswer":"D",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e2bcbc",
+"children":[
+"An 81-year-old man is evaluated in the emergency department for chest pain. During the evaluation, he becomes unresponsive."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f045",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f045"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Accelerated junctional rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Monomorphic ventricular tachycardia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Polymorphic ventricular tachycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular fibrillation"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a796bc",
+"children":[
+"This patient's ECG demonstrates ventricular fibrillation. The ECG has no identifiable organized ventricular waveforms but instead shows bizarre, irregular, and random waves. Although polymorphic ventricular tachycardia (e.g., torsades de pointes) can show highly variable QRS complexes as the axis of the rhythm rotates, there is still recognizable ventricular activity."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_10",
+"objective":{
+"__html":"Diagnose ventricular fibrillation."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f045":{
+"id":"vdx4_cv_mcq_f045",
+"number":45,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"8cd0b0e23ae6acf5a8aa5cfa7f1eb820",
+"height":419,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e2bcbc",
+"4a9f79",
+"413696",
+"a796bc"
+]
+}

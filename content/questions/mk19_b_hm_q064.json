@@ -1,0 +1,177 @@
+{
+"id":"mk19_b_hm_q064",
+"number":64,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ec8f76",
+"children":[
+"A 45-year-old woman is evaluated in the emergency department for a 2-day history of right lower extremity swelling. Her only medication is a combination oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"1a70db",
+"children":[
+"On physical examination, vital signs are normal. Right lower extremity swelling is present to the knee with associated pitting edema."
+]
+},
+{
+"type":"p",
+"hlId":"5f2e08",
+"children":[
+"Duplex ultrasound demonstrates an acute deep venous thrombosis of the right femoral vein."
+]
+},
+{
+"type":"p",
+"hlId":"ddab23",
+"children":[
+"The combination oral contraceptive is stopped, and alternative means of birth control are discussed. The patient expresses a preference to be treated at home."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dabigatran"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Edoxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"451386",
+"children":[
+"The direct oral anticoagulants apixaban and rivaroxaban are approved for treatment of acute venous thromboembolism as monotherapy without initial parenteral therapy with heparin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ee31fb",
+"children":[
+"The most appropriate treatment is apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). For patients with uncomplicated deep venous thrombosis (DVT), the American Society of Hematology (ASH) guideline suggests offering home treatment over hospital treatment. For patients with venous thromboembolism (VTE), ASH suggests using direct oral anticoagulants (DOACs), such as apixaban, rivaroxaban, dabigatran, or edoxaban, over vitamin K antagonists (VKAs), such as warfarin. However, this recommendation may not apply to certain subgroups of patients, such as those with kidney disease (creatinine clearance less than 30 mL/min, except for apixaban), moderate to severe liver disease, or antiphospholipid antibody syndrome. In some of these patients, warfarin will be preferred. Apixaban is a factor Xa inhibitor. It is approved for treatment of VTE as monotherapy, without the need for initial parenteral anticoagulation. For an acute VTE, initial dosing is 10 mg twice daily for 1 week and then 5 mg twice daily thereafter. Rivaroxaban, another factor Xa inhibitor, can also be initiated without initial parenteral therapy. Both apixaban and rivaroxaban allow for discharge directly to home with oral therapy. In some instances, the cost of DOACs and the lack of insurance coverage may lead patients who do not otherwise require hospitalization to choose low-molecular-weight heparin for the acute home-based management of VTE."
+]
+},
+{
+"type":"p",
+"hlId":"3fd3bb",
+"children":[
+"Dabigatran and edoxaban are also approved for VTE treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). However, initial therapy with low-molecular-weight heparin or unfractionated heparin for at least 5 days is required with both of these agents. Therefore, because initial parenteral treatment is necessary when using dabigatran or edoxaban, these would not be the best choices for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"255a6a",
+"children":[
+"Warfarin is a VKA that also inhibits proteins C and S (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Warfarin initially lowers protein C levels and may cause a transient increase in coagulability. Therefore, patients initiating warfarin for a newly diagnosed VTE require concomitant initial treatment with parenteral heparin for at least 5 days and until the INR is at least 2 for 24 hours."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_5_2_2",
+"objective":{
+"__html":"Treat venous thromboembolism with a direct oral anticoagulant."
+},
+"references":[
+[
+"Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: Treatment of deep vein thrombosis and pulmonary embolism. Blood Adv. 2020;4:4693-4738. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33007077",
+"target":"_blank"
+},
+"children":[
+"PMID: 33007077"
+]
+},
+" doi:10.1182/bloodadvances.2020001830"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":8,
+"C":4,
+"D":8,
+"E":0
+},
+"hlIds":[
+"ec8f76",
+"1a70db",
+"5f2e08",
+"ddab23",
+"1054f1",
+"451386",
+"ee31fb",
+"3fd3bb",
+"255a6a"
+]
+}

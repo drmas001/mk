@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_hm_q058",
+"number":58,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ef38d4",
+"children":[
+"A 65-year-old woman is evaluated in the emergency department for a 2-day history of left arm swelling and moderate pain. She was recently diagnosed with osteomyelitis of the first metatarsal on the right foot, and a left peripherally inserted central catheter (PICC) was placed 2 weeks ago. Six weeks of intravenous antibiotic therapy is planned. She takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"1f11f8",
+"children":[
+"On physical examination, vital signs are normal. She has left upper extremity edema. Pulses are normal in the upper extremities, and no facial swelling is noted. The foot ulcer is clean, and granulation tissue is present."
+]
+},
+{
+"type":"p",
+"hlId":"1d4048",
+"children":[
+"Duplex ultrasonography is performed on the left upper extremity and demonstrates an acute deep venous thrombosis in the brachial and axillary veins."
+]
+},
+{
+"type":"p",
+"hlId":"b2cacf",
+"children":[
+"The PICC is functioning, well positioned, and not infected."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anticoagulation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"PICC removal"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PICC removal and anticoagulation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thrombolytic therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cbf171",
+"hvc":true,
+"children":[
+"In patients who have upper extremity thrombosis associated with a central venous catheter that is removed, guidelines recommend 3 months of anticoagulation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b709d7",
+"hvc":true,
+"children":[
+"In patients who have upper extremity thrombosis that is associated with a central venous catheter that is not removed, guidelines recommend that anticoagulation be continued as long as the central venous catheter remains in place."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"64356e",
+"children":[
+"The most appropriate management is anticoagulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Evidence regarding the proper management of catheter-related thrombosis is sparse and weak. Many of the recommendations focus on patients with cancer. In general, central venous catheters (CVCs) that are associated with upper extremity thrombosis can remain in place as long as the catheter is functioning, remains well positioned, and is not infected. In patients who have upper extremity thrombosis associated with a CVC that is removed, guidelines recommend 3 months of anticoagulation over a longer duration of therapy. In patients who have upper extremity thrombosis that is associated with a CVC that is not removed, guidelines recommend that anticoagulation be continued as long as the CVC remains in place. This patient will require anticoagulation while the catheter is in place for the next 4 weeks to complete 6 weeks of antibiotic therapy. After the catheter is removed, anticoagulation should be provided for an additional 2 months to complete a total of 3 months of anticoagulation."
+]
+},
+{
+"type":"p",
+"hlId":"52804b",
+"children":[
+"This patient has a functioning, well-positioned, and noninfected CVC. She requires an additional 4 weeks of antibiotic therapy. Unless circumstances change, this patient does not require removal of the catheter but does require anticoagulation while the catheter is in place (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"d07c2a",
+"children":[
+"If the decision were made to remove the catheter, the patient should receive 3 months of anticoagulation. However, catheter removal is not indicated, and the catheter is required to deliver extended antibiotic therapy. Therefore, removing the catheter and providing anticoagulation is not the best option (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"063a66",
+"children":[
+"Thrombolytic therapy should not be considered in this patient, although it may be appropriate in patients with thoracic outlet syndrome, severe symptoms, or concern for limb ischemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). None of these conditions are present."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_4_3",
+"objective":{
+"__html":"Treat an upper extremity deep venous thrombosis with anticoagulation."
+},
+"references":[
+[
+"Debourdeau P, Farge D, Beckers M, et al. International clinical practice guidelines for the treatment and prophylaxis of thrombosis associated with central venous catheters in patients with cancer. J Thromb Haemost. 2013;11:71-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23217208",
+"target":"_blank"
+},
+"children":[
+"PMID: 23217208"
+]
+},
+" doi:10.1111/jth.12071"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":41,
+"B":15,
+"C":42,
+"D":3,
+"E":0
+},
+"hlIds":[
+"ef38d4",
+"1f11f8",
+"1d4048",
+"b2cacf",
+"cb2b54",
+"cbf171",
+"b709d7",
+"64356e",
+"52804b",
+"d07c2a",
+"063a66"
+]
+}

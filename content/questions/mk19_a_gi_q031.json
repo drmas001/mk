@@ -1,0 +1,188 @@
+{
+"id":"mk19_a_gi_q031",
+"number":31,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"72f18e",
+"children":[
+"A 57-year-old woman is evaluated in the emergency department for a 9-month history of increasing abdominal pain that has worsened in the past week. After a total knee replacement 9 months ago, postoperative pain was managed with oxycodone. During this time she developed bilateral lower abdominal pain and constipation. Her constipation has improved with polyethylene glycol, but the abdominal pain continued to increase and is now diffuse and near-constant. Three days ago, she increased the frequency of oxycodone from three times daily to four times daily, and the abdominal pain intensified in frequency and severity. Despite this current level of pain, the patient is adamant that the only thing that helps her pain is oxycodone."
+]
+},
+{
+"type":"p",
+"hlId":"263d5e",
+"children":[
+"On physical examination, vital signs are normal. Diffuse abdominal tenderness without guarding is noted. Bowel sounds are hypoactive."
+]
+},
+{
+"type":"p",
+"hlId":"ac4a93",
+"children":[
+"Findings on colonoscopy 6 months ago were normal. A CT scan obtained in the emergency department with oral and intravenous contrast shows moderate stool throughout the colon but no other abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add lubiprostone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add methadone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Colonoscopy with biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Opioid discontinuation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3fcab4",
+"hvc":true,
+"children":[
+"Narcotic bowel syndrome is characterized by paradoxical worsening of abdominal pain despite dose escalation; complete cessation of narcotic use is the only effective treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"10b665",
+"children":[
+"The most appropriate management is opioid discontinuation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient has progressively severe abdominal pain that requires escalating narcotic doses. The paradoxical worsening of her pain despite dose escalation is consistent with narcotic bowel syndrome, also known as opiate-induced gastrointestinal hyperalgesia. The proposed cause of narcotic bowel syndrome is centrally mediated opioid-induced hyperalgesia, but the pathophysiological mechanism is not well defined. The condition is characterized by a patient's fear of tapering narcotics; however, the only effective treatment is complete cessation of narcotic use, which is most successfully achieved in a supervised detoxification program. During the detoxification process, nonpharmacologic therapies, such as stress reduction and exercise, are introduced and adjuvant treatments with nonopioid analgesics, such as antidepressants, are added. Psychotherapy may be beneficial."
+]
+},
+{
+"type":"p",
+"hlId":"2b323b",
+"children":[
+"Lubiprostone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") activates type 2 chloride channels on enterocytes lining the gut lumen, causing chloride ions to move into the colonic lumen with sodium and water following the ionic gradient. It is used to treat constipation-predominant irritable bowel syndrome and chronic idiopathic constipation. Lubiprostone is not indicated because this patient's constipation is controlled with polyethylene glycol and her symptoms are not likely related to irritable bowel syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"2e10a2",
+"children":[
+"Methadone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an opiate with a long half-life, is used for management of chronic pain or maintenance therapy for opiate abuse. Because pain in narcotic bowel syndrome worsens with continued or escalating opiate dosing and can be treated only by discontinuing opiate use, methadone is not an effective treatment in this condition."
+]
+},
+{
+"type":"p",
+"hlId":"8d06ff",
+"children":[
+"Colonoscopy with biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") of the right and left colon is performed to assess for microscopic colitis, a form of inflammatory bowel disease that causes watery diarrhea. Although abdominal pain can be present in patients with microscopic colitis, this patient's history of constipation treated with polyethylene glycol make this diagnosis unlikely."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_7",
+"objective":{
+"__html":"Manage narcotic bowel syndrome."
+},
+"references":[
+[
+"Farmer AD, Gallagher J, Bruckner-Holt C, et al. Narcotic bowel syndrome. Lancet Gastroenterol Hepatol. 2017;2:361-368. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28397700",
+"target":"_blank"
+},
+"children":[
+"PMID: 28397700"
+]
+},
+" doi:10.1016/S2468-1253(16)30217-5"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":19,
+"B":4,
+"C":0,
+"D":76,
+"E":0
+},
+"hlIds":[
+"72f18e",
+"263d5e",
+"ac4a93",
+"cb2b54",
+"3fcab4",
+"10b665",
+"2b323b",
+"2e10a2",
+"8d06ff"
+]
+}

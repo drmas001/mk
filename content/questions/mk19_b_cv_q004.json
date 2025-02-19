@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_cv_q004",
+"number":4,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"159603",
+"children":[
+"A 62-year-old woman is evaluated in the emergency department for acute chest pain that began 90 minutes ago. The chest pain lasted for 45 minutes and then subsided spontaneously. The pain was located across the front of the chest, did not radiate, and was described as a dull ache. It was associated with nausea, diaphoresis, and shortness of breath. Medical history is notable only for asthma treated with inhaled mometasone furoate."
+]
+},
+{
+"type":"p",
+"hlId":"fafd4e",
+"children":[
+"On physical examination, blood pressure is 174/84 mm Hg in both arms, pulse rate is 98/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% with the patient breathing ambient air. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" but is otherwise normal. Wheezing is present on pulmonary auscultation."
+]
+},
+{
+"type":"p",
+"hlId":"0b7b2a",
+"children":[
+"An initial high-sensitivity cardiac troponin level is equivocal. D-dimer measurement is normal."
+]
+},
+{
+"type":"p",
+"hlId":"43acce",
+"children":[
+"ECG shows sinus tachycardia with nonspecific ST-T–wave changes."
+]
+},
+{
+"type":"p",
+"hlId":"f47f30",
+"children":[
+"The estimated pretest probability of coronary artery disease is 9%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adenosine myocardial perfusion imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Coronary CT angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1427fa",
+"children":[
+"Coronary CT angiography, by allowing visualization of coronary and other thoracic pathology, plays an important role in the evaluation of acute chest pain in the emergency department."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e699d7",
+"children":[
+"Coronary CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), by allowing visualization of coronary and other thoracic pathology, is the most appropriate diagnostic test to perform next in this patient with acute chest pain. Coronary CT angiography plays an important role in the evaluation of acute chest pain in the emergency department. This patient presents with signs and symptoms that could indicate an acute coronary syndrome, aortic syndrome, pulmonary embolism, or other acute chest pain etiology. For patients with chest pain, coronary CT angiography also may be useful in patients with a possible diagnosis of non–ST-elevation acute coronary syndrome who have equivocal initial troponin levels or a single troponin elevation without further symptoms of acute coronary syndrome, or in patients who have ischemic symptoms that resolved hours before undergoing testing."
+]
+},
+{
+"type":"p",
+"hlId":"014368",
+"children":[
+"Cardiac stress testing is a reasonable approach for this patient; however, adenosine myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not an appropriate option for this patient because she has reactive airways disease. Bronchospastic reactive airways disease is a contraindication to adenosine-based vasodilatory agents for stress testing."
+]
+},
+{
+"type":"p",
+"hlId":"9c0f70",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used with dobutamine to assess wall motion abnormalities or with vasodilators to assess perfusion. It is commonly performed to evaluate the degree of infarction. Viability can be determined by evaluating the extent of myocardial fibrosis within the left ventricle. Cardiac magnetic resonance imaging is not a helpful test in assessing acute chest pain in the emergency department because of the relatively longer time for image acquisition compared with other modalities."
+]
+},
+{
+"type":"p",
+"hlId":"c21f87",
+"children":[
+"This patient's presentation does not indicate a specific cardiac structural or functional cause that would make transthoracic echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") useful at this point. Transthoracic echocardiography is the mainstay of noninvasive cardiovascular imaging for structural abnormalities. The patient's presentation potentially indicates other causes of the chest pain that are better evaluated with coronary CT angiography."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_2",
+"objective":{
+"__html":"Evaluate acute chest pain using coronary CT angiography."
+},
+"references":[
+[
+"Rybicki FJ, Udelson JE, Peacock WF, et al. 2015 ACR/ACC/AHA/AATS/ACEP/ASNC/NASCI/SAEM/SCCT/SCMR/SCPC/SNMMI/STR/STS appropriate utilization of cardiovascular imaging in emergency department patients with chest pain: a joint document of the American College of Radiology Appropriateness Criteria Committee and the American College of Cardiology Appropriate Use Criteria Task Force. J Am Coll Cardiol. 2016;67:853-79. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26809772",
+"target":"_blank"
+},
+"children":[
+"PMID: 26809772"
+]
+},
+" doi:10.1016/j.jacc.2015.09.011"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":7,
+"C":39,
+"D":22,
+"E":0
+},
+"hlIds":[
+"159603",
+"fafd4e",
+"0b7b2a",
+"43acce",
+"f47f30",
+"2eb226",
+"1427fa",
+"e699d7",
+"014368",
+"9c0f70",
+"c21f87"
+]
+}

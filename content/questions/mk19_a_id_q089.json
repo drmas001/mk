@@ -1,0 +1,261 @@
+{
+"id":"mk19_a_id_q089",
+"number":89,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"69042f",
+"children":[
+"A 36-year-old woman was hospitalized 3 days ago with fever of 4 days' duration. Medical history is significant for injection drug use. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"bb1b97",
+"children":[
+"On initial physical examination, temperature was 38.9 °C (102.1 °F), blood pressure was 108/70 mm Hg, pulse rate was 100/min, and respiration rate was 20/min."
+]
+},
+{
+"type":"p",
+"hlId":"a4d4ec",
+"children":[
+"Empiric vancomycin and ceftazidime treatment was initiated."
+]
+},
+{
+"type":"p",
+"hlId":"18cee5",
+"children":[
+"Today, the patient is improved. Temperature is 38.1 °C (100.5 °F); all other vital signs are normal. Blood cultures are positive for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (vancomycin minimum inhibitory concentration 1 µg/mL). Vancomycin trough level is 18 µg/mL. Ceftazidime is discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"9e9f12",
+"children":[
+"Transthoracic echocardiogram shows a vegetation on the tricuspid valve."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add gentamicin and rifampin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Area under the curve vancomycin-guided dosing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch to daptomycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to telavancin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dfad2c",
+"children":[
+"When treating methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" bacteremia with vancomycin, area under the curve guided dosing and monitoring should be used to achieve clinical efficacy and decrease risk of nephrotoxicity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4bd750",
+"children":[
+"Daptomycin should be considered for the treatment of methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" when the isolate's vancomycin minimum inhibitory concentration (MIC) is greater than 2 µg/mL or when the vancomycin MIC is close to 2 µg/mL and clinical response is poor."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"16f660",
+"children":[
+"Area under the curve (AUC) vancomycin-guided dosing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is now recommended when treating severe methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MRSA) infections, particularly complicated bloodstream infections. Dosing is done in consultation with the pharmacy. When treating MRSA endocarditis, the AUC to minimum inhibitory concentration (MIC) ratio (AUC/MIC) should be used for dosing vancomycin. The target AUC/MIC is 400 to 600 mg*hour/L to maximize clinical efficacy and minimize nephrotoxicity. For empiric therapy, the AUC/MIC calculation assumes the vancomycin MIC to be 1 µg/mL or less. The appropriate AUC/MIC ratio should be achieved early, preferably within the first 24 to 48 hours of treatment. AUC-guided dosing requires collecting several vancomycin concentrations, the timing of which should be determined by the pharmacy. Vancomycin is the preferred antimicrobial agent for this patient with MRSA tricuspid valve endocarditis. Blood cultures should be repeated until sustained clearance of bacteremia is demonstrated. Monitoring kidney function during treatment is also important."
+]
+},
+{
+"type":"p",
+"hlId":"4d5f5c",
+"children":[
+"Combination antibiotic treatment for MRSA endocarditis (vancomycin, gentamicin, and rifampin) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used in cases of prosthetic valve endocarditis. Combination treatment has no role in MRSA native valve endocarditis or bacteremia without endocarditis and should be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"9375ac",
+"children":[
+"Daptomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be considered for the treatment of MRSA infections when the isolate's vancomycin MIC is greater than 2 µg/mL or when the vancomycin MIC is close to 2 µg/mL and clinical response is poor (e.g., persistent bacteremia beyond the expected period for endocarditis). The isolate should first be tested to ensure it is susceptible to daptomycin."
+]
+},
+{
+"type":"p",
+"hlId":"fcb9ca",
+"children":[
+"Telavancin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a lipoglycopeptide derivative of vancomycin and can be administered with once-daily dosing. It appears to be as effective as vancomycin in treating MRSA infections but is associated with more adverse effects, including kidney injury. This patient has no indications to switch from vancomycin to telavancin, a more toxic drug."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_6",
+"objective":{
+"__html":"Monitor vancomycin therapy."
+},
+"references":[
+[
+"Rybak MJ, Le J, Lodise TP, et al. Therapeutic monitoring of vancomycin for serious methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" infections: A revised consensus guideline and review by the American Society of Health-System Pharmacists, the Infectious Diseases Society of America, the Pediatric Infectious Diseases Society, and the Society of Infectious Diseases Pharmacists. Clin Infect Dis. 2020;71:1361-1364. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32658968",
+"target":"_blank"
+},
+"children":[
+"PMID: 32658968"
+]
+},
+" doi:10.1093/cid/ciaa303"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":61,
+"C":15,
+"D":2,
+"E":0
+},
+"hlIds":[
+"69042f",
+"bb1b97",
+"a4d4ec",
+"18cee5",
+"9e9f12",
+"cb2b54",
+"dfad2c",
+"4bd750",
+"16f660",
+"4d5f5c",
+"9375ac",
+"fcb9ca"
+]
+}

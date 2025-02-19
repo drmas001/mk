@@ -1,0 +1,233 @@
+{
+"id":"mk19_b_cv_q027",
+"number":27,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"481323",
+"children":[
+"A 42-year-old man is evaluated during a follow-up visit for a patent ductus arteriosus (PDA) identified early in life. He had regular follow-up visits through adolescence but has not had a medical evaluation recently. He is asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"b95a0c",
+"children":[
+"On physical examination, blood pressure is 120/70 mm Hg. Apical impulse is displaced laterally. A continuous murmur that envelops the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is heard beneath the left clavicle. The remainder of the cardiac examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"dbccef",
+"children":[
+"Echocardiogram demonstrates a PDA with left-to-right shunt. The left atrium and left ventricle are moderately enlarged, and the ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" is 63%. The right heart chambers are normal in size. The estimated right ventricular systolic pressure is 30 mm Hg."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Indomethacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PDA device closure"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serial echocardiographic monitoring"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"311f95",
+"children":[
+"The typical murmur of a patent ductus arteriosus is a continuous “machinery” murmur that envelops the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", making it inaudible; the murmur is heard beneath the left clavicle."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fa3355",
+"children":[
+"Patent ductus arteriosus closure is indicated in patients with left-sided cardiac chamber enlargement even in the absence of symptoms, as long as pulmonary artery systolic pressure is less than 50% systemic."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"168017",
+"children":[
+"The most appropriate management is patent ductus arteriosus (PDA) device closure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). A PDA is a persistent fetal connection between the aorta and the left pulmonary artery that leads to volume overload of the left-sided chambers, manifested by left atrial and left ventricular enlargement. The typical murmur of a PDA is a continuous “machinery” murmur that envelops the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", making it inaudible; the murmur is heard beneath the left clavicle. A tiny PDA is generally asymptomatic and inaudible. Closure of the PDA is indicated in patients with left-sided cardiac chamber enlargement as long as pulmonary artery systolic pressure is less than 50% systemic, even in the absence of symptoms. Closure may be considered in patients with some degree of pulmonary hypertension in selected cases (pulmonary artery pressure 50%-66% systemic). Percutaneous closure is usually performed; referral to a congenital cardiac center for consideration of closure options is recommended. PDA closure should be avoided in patients with irreversible pulmonary vascular disease. PDA closure in patients with severe pulmonary hypertension (pulmonary artery systolic pressure >66% systemic) is associated with greater risk compared with PDA closure in those without pulmonary hypertension and is not associated with improved survival. In patients with pulmonary hypertension, the existence of right-to-left ductal shunting may be necessary to maintain cardiac output, and closure may result in clinical worsening."
+]
+},
+{
+"type":"p",
+"hlId":"3e19ab",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will further delineate cardiac chamber size and function and demonstrate the dimension and length of the PDA. However, adequate data are available from the echocardiogram to confirm that PDA closure is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"f7bb88",
+"children":[
+"Indomethacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an inhibitor of prostaglandin synthesis, is used to promote closure of a PDA in preterm infants. However, indomethacin has no impact on closure rates in full-term infants and older patients with a PDA and is not indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"0075a1",
+"children":[
+"Serial echocardiographic monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended in patients with a PDA and left-to-right shunt large enough to have caused left heart enlargement. Device closure should be pursued in this patient before irreversible pulmonary hypertension develops."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s9_5_4",
+"objective":{
+"__html":"Treat patent ductus arteriosus."
+},
+"references":[
+[
+"Stout KK, Daniels CJ, Aboulhosn JA, et al. 2018 AHA/ACC guideline for the management of adults with congenital heart disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2019;73:e81-e192. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30121239",
+"target":"_blank"
+},
+"children":[
+"PMID: 30121239"
+]
+},
+" doi:10.1016/j.jacc.2018.08.1029"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":5,
+"C":58,
+"D":35,
+"E":0
+},
+"hlIds":[
+"481323",
+"b95a0c",
+"dbccef",
+"cb2b54",
+"311f95",
+"fa3355",
+"168017",
+"3e19ab",
+"f7bb88",
+"0075a1"
+]
+}

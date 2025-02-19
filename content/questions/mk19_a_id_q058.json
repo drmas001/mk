@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_id_q058",
+"number":58,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"aebcb7",
+"children":[
+"A 35-year-old man is evaluated in the emergency department for a 3-day history of fever, abdominal pain, and bloody diarrhea but no nausea or vomiting. Medical history is significant for end-stage liver disease secondary to nonalcoholic steatohepatitis for which he received a liver transplant 4 months ago. Medications are mycophenolate, prednisone, and tacrolimus."
+]
+},
+{
+"type":"p",
+"hlId":"a086e0",
+"children":[
+"On physical examination, temperature is 38.6 °C (101.5 °F), blood pressure is 98/64 mm Hg, pulse rate is 122/min, and respiration rate is 17/min. The lungs are clear. The abdomen is distended with diffuse tenderness but no guarding or hepatosplenomegaly. The remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e0422f",
+"children":[
+"Which of the following viruses is the most likely cause of the patient's illness?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cytomegalovirus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epstein-Barr virus"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Herpes simplex virus type 2"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Polyoma BK virus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0ef5eb",
+"children":[
+"Cytomegalovirus is a significant pathogen in solid organ transplant recipients and can cause retinitis, pneumonitis, hepatitis, bone marrow suppression, colitis with bloody diarrhea, esophagitis, and adrenalitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a64b78",
+"children":[
+"Cytomegalovirus is most likely responsible for this patient's illness (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Approximately 60% to 90% of adults have latent cytomegalovirus infection, with reactivation of disease common in persons who are immunosuppressed (e.g., patients with AIDS, transplant recipients, patients taking glucocorticoids). Cytomegalovirus is a significant pathogen in solid organ transplant recipients. The risk of cytomegalovirus infection is highest when a seronegative recipient (one who has never had a cytomegalovirus infection) receives a solid organ from a seropositive donor. Cytomegalovirus can cause retinitis (especially in persons with AIDS), pneumonitis, hepatitis, bone marrow suppression, colitis with bloody diarrhea (such as in this patient), esophagitis, and adrenalitis. This patient underwent liver transplantation and has bloody diarrhea consistent with cytomegalovirus reactivation. Diagnosis relies on isolation of the virus from bodily fluids, such as serum; detection of cytomegalovirus p65 antigen in leukocytes; cytopathic demonstration of “owl's eye” intracellular inclusions from tissue biopsy; polymerase chain reaction; and serologic assays."
+]
+},
+{
+"type":"p",
+"hlId":"b803c7",
+"children":[
+"Epstein-Barr virus (EBV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") causes posttransplant lymphoproliferative disorder (PTLD). Patients can have fever, pancytopenia, generalized lymphadenopathy, and hepatosplenomegaly. PTLD risk is higher in patients with a history of pre-existing EBV infection treated with lymphocyte-depleting agents and in those receiving sirolimus and tacrolimus compared with those receiving mycophenolate and cyclosporine. This patient has no generalized lymphadenopathy or hepatosplenomegaly, and bloody diarrhea is not a common presentation of PTLD."
+]
+},
+{
+"type":"p",
+"hlId":"d2ef12",
+"children":[
+"Herpes simplex virus type 1 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can reactivate after solid organ transplantation, but the most common manifestation is oral ulcers and, occasionally, tracheobronchitis or esophagitis. Herpes simplex virus does not cause bloody diarrhea."
+]
+},
+{
+"type":"p",
+"hlId":"a83e67",
+"children":[
+"Polyoma BK virus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") reactivation occurs in approximately 5% of kidney transplant recipients and can cause kidney allograft dysfunction or loss. It would be unusual to see BK nephropathy in liver transplant recipients. It can present with a gradual, asymptomatic increase in the serum creatinine level with tubulointerstitial nephritis or, less commonly, ureteral stenosis. Patients may have polyoma BK virus on polymerase chain reaction of the urine or serum or may have polyoma BK virus inclusion-bearing epithelial cells called “decoy cells” on urine microscopy. Polyoma BK virus does not cause bloody diarrhea as in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_3_4",
+"objective":{
+"__html":"Diagnose cytomegalovirus colitis."
+},
+"references":[
+[
+"Kumar R, Ison MG. Opportunistic infections in transplant patients. Infect Dis Clin North Am. 2019;33:1143-1157. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31668195",
+"target":"_blank"
+},
+"children":[
+"PMID: 31668195"
+]
+},
+" doi:10.1016/j.idc.2019.05.008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":1,
+"C":2,
+"D":17,
+"E":0
+},
+"hlIds":[
+"aebcb7",
+"a086e0",
+"e0422f",
+"0ef5eb",
+"a64b78",
+"b803c7",
+"d2ef12",
+"a83e67"
+]
+}

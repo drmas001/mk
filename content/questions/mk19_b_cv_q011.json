@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q011",
+"number":11,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e33f3a",
+"children":[
+"A 70-year-old man is evaluated for recently diagnosed paroxysmal atrial fibrillation that is mildly symptomatic. Medical history is significant for hypertension and previous stroke. Medications are rivaroxaban and metoprolol. He has experienced no episodes of bleeding on anticoagulation therapy."
+]
+},
+{
+"type":"p",
+"hlId":"5c192f",
+"children":[
+"On physical examination, blood pressure is 128/74 mm Hg and pulse rate is 72/min and regular. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"d51fea",
+"children":[
+"An echocardiogram reveals an enlarged left atrium and normal left ventricle. Forty-eight–hour ambulatory ECG monitoring shows atrial fibrillation prevalence of 10% with a controlled ventricular rate less than 90/min and no other abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Left atrial appendage occlusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pacemaker implantation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rhythm control"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch rivaroxaban to warfarin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"478ddc",
+"children":[
+"In patients with recently diagnosed atrial fibrillation and concomitant cardiovascular conditions, early rhythm control (antiarrhythmic drugs or ablation) reduces the primary composite end point of cardiovascular death, stroke, or hospitalization for heart failure or acute coronary syndrome compared with usual care."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b0ad00",
+"children":[
+"Rhythm control (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate treatment for this patient who presents with paroxysmal atrial fibrillation. This patient is reflective of those included in the EAST-AFNET 4 randomized clinical trial, which evaluated a rhythm control strategy versus usual care (typically including rate control) in patients with a recent diagnosis (within 12 months) of atrial fibrillation and coexisting cardiovascular conditions. The inclusion criteria were age older than 75 years or previous transient ischemic attack or stroke, or two of the following: age older than 65 years, female sex, heart failure, hypertension, diabetes mellitus, severe coronary artery disease, chronic kidney disease, and left ventricular hypertrophy. The trial demonstrated improved clinical outcomes, including a reduction in the primary composite end point of cardiovascular death, stroke, or hospitalization for heart failure or acute coronary syndrome, among patients randomly assigned to an early rhythm control strategy, including asymptomatic patients. The intervention included either antiarrhythmic drugs or catheter ablation, but importantly, it included aggressive concomitant medical therapy (e.g., oral anticoagulation when indicated, hypertension treatment) in both the intervention and the control groups. Based on the trial results, this patient is mostly likely to benefit from early rhythm control for atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"0631ad",
+"children":[
+"This patient is appropriately receiving stroke prevention therapy with a direct oral anticoagulant (DOAC), and he has had no recurrent stroke or significant bleeding episodes on the current therapy. Therefore, left atrial appendage occlusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"bbbd8a",
+"children":[
+"Among the common indications for permanent pacemaker implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are symptomatic bradycardia without reversible cause; permanent atrial fibrillation with symptomatic bradycardia; alternating bundle branch block; and complete heart block, high-degree atrioventricular (AV) block, or Mobitz type 2 second-degree AV block, irrespective of symptoms. This patient has no indications for pacemaker implantation."
+]
+},
+{
+"type":"p",
+"hlId":"73345c",
+"children":[
+"Oral anticoagulation in patients with atrial fibrillation can be accomplished with a vitamin K antagonist (warfarin) or DOAC, such as rivaroxaban. Rivaroxaban is noninferior to warfarin in the prevention of stroke or systemic embolism and is associated with less intracranial and fatal bleeding. The 2019 American College of Cardiology/American Heart Association atrial fibrillation guideline recommends DOACs in preference to warfarin in DOAC-eligible patients. Thus, there is no suggestion that switching to warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would improve outcomes in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"a5b8c0",
+"children":[
+"Offering no additional therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be inappropriate because early rhythm control is associated with improved clinical outcomes in patients such as this one."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6_3_2",
+"objective":{
+"__html":"Manage atrial fibrillation with early rhythm control."
+},
+"references":[
+[
+"Kirchhof P, Camm AJ, Goette A, et al; EAST-AFNET 4 Trial Investigators. Early rhythm-control therapy in patients with atrial fibrillation. N Engl J Med. 2020;383:1305-1316. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32865375",
+"target":"_blank"
+},
+"children":[
+"PMID: 32865375"
+]
+},
+" doi:10.1056/NEJMoa2019422"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":1,
+"C":11,
+"D":1,
+"E":74
+},
+"hlIds":[
+"e33f3a",
+"5c192f",
+"d51fea",
+"1054f1",
+"478ddc",
+"b0ad00",
+"0631ad",
+"bbbd8a",
+"73345c",
+"a5b8c0"
+]
+}

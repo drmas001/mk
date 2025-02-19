@@ -1,0 +1,194 @@
+{
+"id":"mk19_b_rm_q045",
+"number":45,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7fdce2",
+"children":[
+"A 73-year-old man is evaluated for a 3-year history of progressive weakness. He has a 7-year history of hyperlipidemia and hypertension treated with atorvastatin and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"08654b",
+"children":[
+"On physical examination, vital signs are normal. Symmetric proximal and distal weakness in both arms is noted. Hip flexor strength is diminished, and he has a waddling gait. Otherwise, lower extremity strength is normal. Upper extremity examination is notable for atrophy of the forearm muscles and a weak grip. No muscle tenderness, joint swelling, edema, or rash is observed."
+]
+},
+{
+"type":"p",
+"hlId":"901768",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"Serum creatine kinase"
+]
+},
+" level is 310 U/L. Erythrocyte sedimentation rate, serum aminotransferase levels, and thyroid-stimulating hormone level are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Inclusion body myositis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Polymyositis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Statin myopathy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic lupus erythematosus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b9b4a2",
+"children":[
+"Inclusion body myositis can be distinguished from other forms of idiopathic inflammatory myopathy by an insidious onset, slower progression, and involvement of distal muscle groups as well as proximal muscles."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"779105",
+"children":[
+"The most likely diagnosis is inclusion body myositis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Inclusion body myositis is an uncommon cause of weakness generally seen in older adults, characterized by a slow, insidious onset. It can be distinguished clinically from polymyositis by the involvement of distal muscle groups in addition to proximal muscle groups. Weakness in finger flexors and atrophy of forearm muscles are characteristic features. Muscle distribution is usually but not always symmetric. Up to half of patients with inclusion body myositis have cricopharyngeal muscle involvement, leading to dysphagia and increased risk for aspiration. Patients with inclusion body myositis can have elevated serum creatine kinase levels, but elevations are usually more modest, less than 10 times the upper limit of normal, as compared with other forms of idiopathic inflammatory myopathies in which serum creatine kinase levels are generally higher. A muscle biopsy can help to confirm the diagnosis but is not needed when clinical features are characteristic."
+]
+},
+{
+"type":"p",
+"hlId":"b112ff",
+"children":[
+"Polymyositis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can also present with progressive muscle weakness. However, it generally progresses more rapidly over weeks or months and involves only the proximal muscles. Activities such as arising from a chair, climbing stairs, and lifting objects above shoulder height are typically affected. Onset over several years with a more modest degree of weakness, as seen in this patient, would be unusual in polymyositis. In addition, polymyositis would not be expected to cause weakness of the hands or the distal arm muscles."
+]
+},
+{
+"type":"p",
+"hlId":"cf1c2f",
+"children":[
+"Statins are generally safe and well tolerated. They can cause asymptomatic, dose-related elevations in aminotransferase levels in approximately 1% of patients, but liver injury occurs in less than 0.001% of patients. The incidence of statin-associated muscle symptoms is no greater than 1%, and the incidence of myopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and rhabdomyolysis is less than 0.1%. However, some patients can have muscle symptoms from statin therapy without an elevation in serum creatine kinase levels, and it can then be difficult to be certain whether muscle symptoms are due to statin therapy. The patient's prolonged course, minor serum creatine kinase elevation, and muscle weakness distribution are more characteristic of inclusion body myositis than statin myopathy."
+]
+},
+{
+"type":"p",
+"hlId":"c39efc",
+"children":[
+"Other autoimmune disorders, such as systemic lupus erythematosus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), can cause myositis. However, they generally have other characteristic features, such as arthralgia and skin rashes, that are not seen in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s9_5_5",
+"objective":{
+"__html":"Diagnose inclusion body myositis."
+},
+"references":[
+[
+"Lundberg IE, de Visser M, Werth VP. Classification of myositis. Nat Rev Rheumatol. 2018;14:269-278. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29651121",
+"target":"_blank"
+},
+"children":[
+"PMID: 29651121"
+]
+},
+" doi:10.1038/nrrheum.2018.41"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":59,
+"B":13,
+"C":27,
+"D":1,
+"E":0
+},
+"hlIds":[
+"7fdce2",
+"08654b",
+"901768",
+"413696",
+"b9b4a2",
+"779105",
+"b112ff",
+"cf1c2f",
+"c39efc"
+]
+}

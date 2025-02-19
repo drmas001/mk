@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_hm_q016",
+"number":16,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8d9deb",
+"children":[
+"A 45-year-old man is evaluated for an acute stroke. He was hospitalized 48 hours ago following a motor vehicle accident in which he sustained several fractures requiring internal fixation. Further surgery is scheduled. Twenty-four hours ago, he was diagnosed with a pulmonary embolism, and full-dose unfractionated heparin was started. Neurologic symptoms have developed over the past 30 minutes. Before hospitalization, he was taking no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1d0733",
+"children":[
+"On physical examination, temperature is normal, blood pressure is 110/60 mm Hg, pulse rate is 100/min, and respiration rate is 16/min. Oxygen saturation is 94% breathing oxygen, 2 L/min. The patient is awake with normal language function. No papilledema is present. Pupils are equal and reactive. Left facial weakness, dysarthria, and flaccid paralysis in the left arm are noted."
+]
+},
+{
+"type":"p",
+"hlId":"f811ab",
+"children":[
+"Noncontrast CT scan shows an acute intracerebral hemorrhage, 1 cm in diameter, in the right basal ganglia without intraventricular hemorrhage or midline shift."
+]
+},
+{
+"type":"p",
+"hlId":"cf3353",
+"children":[
+"Unfractionated heparin is discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cryoprecipitate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Idarucizumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Protamine sulfate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin K"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d81b0f",
+"children":[
+"In patients experiencing life-threatening bleeding while taking unfractionated heparin, the heparin infusion should be stopped immediately, followed by protamine sulfate administration."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"549d81",
+"children":[
+"The most appropriate treatment for this patient is protamine sulfate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). He has developed a potentially life-threatening intracerebral hemorrhage requiring cessation and reversal of the unfractionated heparin. Unfractionated heparin binds to antithrombin and inactivates thrombin and factor Xa. Dosing is based on the activated partial thromboplastin time. Bioavailability varies and reaching a therapeutic level can take time, so unfractionated heparin is not the best option for most hospitalized patients with an acute thrombosis; however, because of its short half-life, it remains the ideal treatment for those patients with an acute thrombosis in whom low-molecular-weight-heparin (half-life 4.5-7 hours) is contraindicated, such as those at increased risk of bleeding or patients with planned surgical intervention. Major bleeding occurs in 3% of patients taking heparin. In a patient with life-threatening bleeding, the heparin infusion should be stopped immediately, followed by protamine sulfate administration at a dose of 1 mg per 100 units of heparin administered in the previous 2 hours."
+]
+},
+{
+"type":"p",
+"hlId":"95979d",
+"children":[
+"Cryoprecipitate is not indicated in the management of bleeding related to unfractionated heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It is used to replace fibrinogen in the treatment of patients with disseminated intravascular coagulation."
+]
+},
+{
+"type":"p",
+"hlId":"ced5cf",
+"children":[
+"Idarucizumab is an FDA-approved monoclonal antibody fragment that binds free and thrombin-bound dabigatran and neutralizes its activity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). It would not be appropriate for reversal of unfractionated heparin."
+]
+},
+{
+"type":"p",
+"hlId":"2d1462",
+"children":[
+"Vitamin K is used to reverse warfarin, a vitamin K antagonist, which inhibits vitamin K epoxide reductase and therefore inhibits factors II, VII, IX, and X, as well as proteins C and S (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Bleeding risk with warfarin increases with age and with INR elevation. Vitamin K should be given to patients taking warfarin with an INR greater than 10 without bleeding. Vitamin K is also given in addition to 4-factor prothrombin complex concentrate if a patient taking warfarin develops life-threatening bleeding. Vitamin K is not used to reverse unfractionated heparin."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_5_1_1",
+"objective":{
+"__html":"Treat life-threatening bleeding in a patient taking unfractionated heparin."
+},
+"references":[
+[
+"Witt DM, Nieuwlaat R, Clark NP, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Optimal management of anticoagulation therapy. Blood Adv. 2018;2:3257-3291. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482765",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482765"
+]
+},
+" doi:10.1182/bloodadvances.2018024893"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":4,
+"C":82,
+"D":4,
+"E":0
+},
+"hlIds":[
+"8d9deb",
+"1d0733",
+"f811ab",
+"cf3353",
+"78ff87",
+"d81b0f",
+"549d81",
+"95979d",
+"ced5cf",
+"2d1462"
+]
+}

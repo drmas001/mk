@@ -1,0 +1,303 @@
+{
+"id":"mk19_a_on_q046",
+"number":46,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8680ee",
+"children":[
+"A 42-year-old man is evaluated for a 3-month history of worsening fatigue, weight loss, back pain, cough, and hemoptysis. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f9b9cd",
+"children":[
+"On physical examination, vital signs are normal. Pulmonary examination reveals decreased breath sounds in the left lung base."
+]
+},
+{
+"type":"p",
+"hlId":"39cb1f",
+"children":[
+"Chest radiograph reveals a moderate-sized left pleural effusion. CT scan of the chest shows left-sided pleural effusion and a large medial lung mass. Multiple osseous metastatic lesions and bilateral adrenal metastases are also identified. Brain MRI is negative for metastatic disease."
+]
+},
+{
+"type":"p",
+"hlId":"6be5be",
+"children":[
+"Thoracentesis is positive for adenocarcinoma. Molecular testing is positive only for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alectinib"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combined chemotherapy and pembrolizumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Platinum-based chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stereotactic radiation therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"edeeeb",
+"children":[
+"Testing for molecular alterations (epidermal growth factor receptor",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+", ALK, ROS1"
+]
+},
+") is a routine component of the evaluation of any patient with metastatic non–small cell lung cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"83130d",
+"children":[
+"For metastatic non–small cell lung cancer with an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation, initial treatment should be with alectinib."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"820d10",
+"children":[
+"This patient has non–small cell lung cancer with an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation and should be treated with alectinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Molecular alterations are playing an increasingly important role in the evaluation and treatment of patients with metastatic non–small cell lung cancer. Current evidence supports use of specific targeted agents based on identification of certain molecular alterations in tumor tissue. Such testing is a routine component of the evaluation of any patient with metastatic non–small cell lung cancer. Treatment is selected as appropriate based on the presence or absence of alterations. The patient in this case underwent such testing and was found to have a translocation involving the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" gene, resulting in constitutive activation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" tyrosine kinase. Alectinib is a tyrosine kinase inhibitor with specific activity against the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" gene and has been shown to be very active in this patient population. It is a standard treatment and is recommended as front-line treatment for a patient found to have an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation."
+]
+},
+{
+"type":"p",
+"hlId":"576d21",
+"children":[
+"The combination of chemotherapy and pembrolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used as initial treatment regardless of programmed death ligand-1 expression level. However, it is indicated only in patients who do not have a driver mutation for which there is an applicable targeted therapy available. Because this patient does have a driver mutation, treatment with this combination is not recommended as first-line treatment."
+]
+},
+{
+"type":"p",
+"hlId":"c419ec",
+"children":[
+"Although platinum-based chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is sometimes used as initial therapy before the results of mutation testing are available, this patient is already known to have an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation. Alectinib has been shown to improve survival compared with chemotherapy in patients with an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" translocation and is the preferred therapy."
+]
+},
+{
+"type":"p",
+"hlId":"87899a",
+"children":[
+"Stereotactic radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an effective treatment for patients with stage I non–small cell lung cancer who cannot tolerate surgery. Stereotactic radiation therapy is not indicated in the treatment of metastatic lung cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_1_3",
+"objective":{
+"__html":"Treat metastatic non–small cell lung cancer with an <i>ALK</i> translocation with alectinib."
+},
+"references":[
+[
+"Herbst RS, Morgensztern D, Boshoff C. The biology and management of non-small cell lung cancer. Nature. 2018;553:446-54. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29364287",
+"target":"_blank"
+},
+"children":[
+"PMID: 29364287"
+]
+},
+" doi:10.1038/nature25183"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":47,
+"C":13,
+"D":2,
+"E":0
+},
+"hlIds":[
+"8680ee",
+"f9b9cd",
+"39cb1f",
+"6be5be",
+"1054f1",
+"edeeeb",
+"83130d",
+"820d10",
+"576d21",
+"c419ec",
+"87899a"
+]
+}

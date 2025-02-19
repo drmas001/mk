@@ -1,0 +1,194 @@
+{
+"id":"mk19_a_gm_q113",
+"number":113,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 113",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7f800f",
+"children":[
+"A 54-year-old man is evaluated after his second episode of synovial fluid–confirmed gout in the past year. Urate-lowering therapy is being considered. He takes no other medications. He is of Korean descent."
+]
+},
+{
+"type":"p",
+"hlId":"e78656",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"Serum urate"
+]
+},
+" level is 8.4 mg/dL (0.5 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" level is 0.9 mg/dL (79.6 μmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ac3a51",
+"children":[
+"Which of the following is most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol plus colchicine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Allopurinol plus prednisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"HLA-B*58:01 genotyping"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thiopurine methyltransferase enzyme activity measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"246ea2",
+"children":[
+"Allopurinol is associated with severe cutaneous adverse reactions; the risk for hypersensitivity is significantly increased in patients with the HLA-B*58:01 haplotype."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5d648a",
+"children":[
+"Genetic testing for the HLA-B*58:01 haplotype is recommended before prescribing allopurinol in patients of Han Chinese, Korean, Thai, or African descent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c4fc5f",
+"children":[
+"The most appropriate initial management is HLA-B*58:01 genotyping (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Allopurinol is associated with severe cutaneous adverse reactions, including toxic epidermal necrolysis and Stevens-Johnson syndrome. Allopurinol-related severe cutaneous adverse reactions are rare, usually occur in the presence of chronic kidney disease and diuretic use, and have a high mortality rate. The risk for severe cutaneous adverse reactions is significantly increased in patients with the HLA-B*58:01 haplotype, but these reactions still occur infrequently. The use of allopurinol is contraindicated in patients with HLA-B*58:01 positivity. HLA-B*58:01 prevalence varies by race and ethnicity; rates are higher in Asian (5.3%) and African (3.8%) persons than in White and Hispanic persons (<1%). The 2020 American College of Rheumatology Guideline for the Management of Gout conditionally recommends genetic testing before prescribing allopurinol for patients of Han Chinese, Korean, Thai, or African descent."
+]
+},
+{
+"type":"p",
+"hlId":"636730",
+"children":[
+"Urate-lowering therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") is recommended for patients with gout plus any of the following: (1) stage 2 or greater chronic kidney disease; (2) two or more acute attacks per year; (3) one or more tophi; or (4) uric acid nephrolithiasis. Allopurinol is the recommended first-line choice for urate-lowering therapy. During initiation of urate-lowering therapy, mobilization of uric acid crystals from the joints and soft tissues can provoke acute attacks. Accordingly, patients starting urate-lowering therapy should receive anti-inflammatory prophylaxis to prevent flares. Choices include colchicine, low-dose NSAIDs, or low-dose glucocorticoids. In this patient, initiation of urate-lowering therapy (allopurinol with colchicine or prednisone) is not appropriate until the results of genetic testing are known."
+]
+},
+{
+"type":"p",
+"hlId":"379ae7",
+"children":[
+"Thiopurine methyltransferase (TPMT), a key enzyme involved in the metabolism of azathioprine and 6-mercaptopurine (6-MP), exhibits a population polymorphism that greatly increases the risk for bone marrow toxicity with use of these agents. Therefore, before initiation of thiopurine therapy, testing for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"TPMT"
+]
+},
+" genotype or phenotype (enzyme activity) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended to help prevent toxicity by identifying individuals with low or absent TPMT enzyme activity. Allopurinol can inhibit TPMT activity and is contraindicated in patients taking azathioprine or 6-MP. Low or absent TPMT activity will not increase the risk for adverse reactions in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s11_3_1",
+"objective":{
+"__html":"Screen for HLA-B*58:01 in a patient of Asian descent before initiating allopurinol therapy."
+},
+"references":[
+[
+"Saito Y, Stamp LK, Caudle KE, et al; Clinical Pharmacogenetics Implementation Consortium. Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for human leukocyte antigen B (HLA-B) genotype and allopurinol dosing: 2015 update. Clin Pharmacol Ther. 2016;99:36-7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26094938",
+"target":"_blank"
+},
+"children":[
+"PMID: 26094938"
+]
+},
+" doi:10.1002/cpt.161"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":6,
+"C":37,
+"D":14,
+"E":0
+},
+"hlIds":[
+"7f800f",
+"e78656",
+"ac3a51",
+"246ea2",
+"5d648a",
+"c4fc5f",
+"636730",
+"379ae7"
+]
+}

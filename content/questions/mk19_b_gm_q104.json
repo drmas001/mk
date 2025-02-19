@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_gm_q104",
+"number":104,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 104",
+"stimulus":[
+{
+"type":"p",
+"hlId":"720bf7",
+"children":[
+"A 68-year-old man undergoes a preoperative medical evaluation before total knee arthroplasty. Medical history is significant for hypertension, hyperlipidemia, degenerative joint disease, and psoriasis. Medications are amlodipine, metoprolol, methotrexate, folic acid, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"0385bf",
+"children":[
+"On physical examination, vital signs are normal. Small, scattered psoriatic plaques are noted on the elbows, knees, and sacrum. Examination of the left knee shows limited range of motion. The remainder of the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cc3f23",
+"children":[
+"Which of the following is the most appropriate perioperative medication management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Withhold methotrexate 2 weeks before surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Withhold metoprolol and atorvastatin on day of surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Withhold metoprolol and methotrexate on day of surgery"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Continue all medications"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b99d5e",
+"children":[
+"Nonbiologic disease-modifying antirheumatic drugs (DMARDs) can be continued throughout the perioperative period; biologic DMARDs should be discontinued and restarted after evidence of wound healing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9bcbce",
+"children":[
+"Patients on β-blocker and statin medications should continue therapy in the perioperative period."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"613a36",
+"children":[
+"The most appropriate perioperative medication management is to continue all medications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). High-quality evidence to guide perioperative medication management is lacking. Recommendations are largely derived from theoretical drug interactions and expert consensus. Although most medications are tolerated throughout the perioperative period, there are some important exceptions. For example, the American College of Rheumatology recommends that biologic medications should be withheld as close to one dosing cycle as scheduling permits before elective hip and knee arthroplasty and restarted after evidence of wound healing, typically 14 days. Nonbiologic disease-modifying antirheumatic drugs (DMARDs) (methotrexate, sulfasalazine, hydroxychloroquine, leflunomide) may be continued throughout the perioperative period. Methotrexate is administered once weekly, most commonly by oral or subcutaneous routes. Studies in patients with rheumatoid arthritis have demonstrated that continuing DMARDs, including methotrexate, through the perioperative period is safe without an increase in infection rate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), even with prosthetic implantation, and reduces the risk for disease flares."
+]
+},
+{
+"type":"p",
+"hlId":"f8ed5e",
+"children":[
+"According to the 2014 American College of Cardiology/American Heart Association perioperative cardiovascular guideline, patients on β-blocker therapy, such as metoprolol, should continue therapy in the perioperative period (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). Cessation of these agents may cause rebound tachycardia and promote dysrhythmias in the perioperative period because of the elevated adrenergic tone from pain, stress, and volume shifts. Preoperative initiation of β-blockers is generally reserved for patients with a Revised Cardiac Risk Index score of 3 or more without contraindications (such as resting bradycardia or hypotension) and who have enough time before surgery to trial medications (>1 week) to ensure safety and tolerability."
+]
+},
+{
+"type":"p",
+"hlId":"b44098",
+"children":[
+"Sufficient evidence has demonstrated benefits of statin agents, such as atorvastatin, during the perioperative period. Pleiotropic effects of these agents are believed to be responsible for numerous benefits in major surgeries, presumably due to anti-inflammatory properties. Statins have been consistently associated with lower risk for cardiovascular complications in both cardiac and noncardiac surgery. In surgeries with highest cardiovascular risk (major vascular, cardiothoracic), it is reasonable to start a statin preoperatively if the patient is not already taking one. This recommendation does not apply for patients undergoing noncardiac surgery, as is this case for this patient; if a patient has been on long-term statin therapy, it should be continued."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_1_2",
+"objective":{
+"__html":"Manage perioperative medications."
+},
+"references":[
+[
+"Goodman SM, Springer B, Guyatt G, et al. 2017 American College of Rheumatology/American Association of Hip and Knee Surgeons guideline for the perioperative management of antirheumatic medication in patients with rheumatic diseases undergoing elective total hip or total knee arthroplasty. Arthritis Care Res (Hoboken). 2017;69:1111-24. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28620917",
+"target":"_blank"
+},
+"children":[
+"PMID: 28620917"
+]
+},
+" doi:10.1002/acr.23274"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":2,
+"C":7,
+"D":65,
+"E":0
+},
+"hlIds":[
+"720bf7",
+"0385bf",
+"cc3f23",
+"b99d5e",
+"9bcbce",
+"613a36",
+"f8ed5e",
+"b44098"
+]
+}

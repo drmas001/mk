@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_en_q083",
+"number":83,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2e411a",
+"children":[
+"A 51-year-old man is evaluated for resistant hypertension. He was first diagnosed with hypertension 10 years ago, and his blood pressure has been increasingly difficult to control. Medications are amlodipine, hydrochlorothiazide, and metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"e97e24",
+"children":[
+"On physical examination, his blood pressure is 164/82 mm Hg. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"c82cac",
+"children":[
+"Laboratory testing for secondary causes of hypertension reveals primary aldosteronism."
+]
+},
+{
+"type":"p",
+"hlId":"385767",
+"children":[
+"A CT scan demonstrates a 1-cm left adrenal mass. Adrenal vein sampling does not reveal unilateral elevations in aldosterone levels."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bilateral adrenalectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left adrenalectomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start lisinopril"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start spironolactone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8cf7cd",
+"children":[
+"Medical therapy with an aldosterone receptor blocker (spironolactone or eplerenone) is the treatment of choice for primary aldosteronism caused by idiopathic hyperaldosteronism (bilateral hyperplasia of adrenal glands) and in patients with aldosterone-producing adenoma who are not candidates for surgery."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2beeb0",
+"children":[
+"Aldosterone has direct inflammatory and fibrotic effects that are independent of its blood pressure effects."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"98a1d8",
+"children":[
+"The most appropriate treatment is to start spironolactone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Although an adrenal mass was noted on imaging, adrenal vein sampling demonstrated that this lesion is not producing aldosterone. Primary aldosteronism caused by hyperplasia of both adrenal glands (idiopathic hyperaldosteronism) is the most likely diagnosis. Idiopathic hyperaldosteronism causes approximately 60% of cases of primary aldosteronism; a unilateral aldosterone-producing adenoma (APA) is found in approximately 35% of cases. Medical therapy with an aldosterone receptor blocker, spironolactone or eplerenone, is the treatment of choice for idiopathic aldosteronism, or when patients with an aldosterone-producing adenoma are not candidates for or do not wish to undergo surgery. Spironolactone is often preferred over eplerenone because it is less expensive and has more potent aldosterone-blocking properties. However, patients on spironolactone are more likely to develop dose-dependent adverse effects, including gynecomastia and erectile dysfunction in men and menstrual irregularities in women."
+]
+},
+{
+"type":"p",
+"hlId":"000353",
+"children":[
+"Bilateral adrenalectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not used in the treatment of primary aldosteronism. This procedure poses unacceptable risks to the patient, including the need for lifelong glucocorticoid and mineralocorticoid replacement, which outweigh the potential benefits. Medical therapy with aldosterone receptor blockers is first-line therapy for bilateral disease."
+]
+},
+{
+"type":"p",
+"hlId":"435b89",
+"children":[
+"Adrenalectomy is effective for unilateral disease and reduces plasma aldosterone and its attendant increased risk for cardiovascular disease. This procedure is only indicated when the adrenal vein sampling lateralizes to the adrenal that is the source of excess aldosterone production. For this patient with bilateral (idiopathic) hyperaldosteronism, left adenectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"7b8643",
+"children":[
+"Starting lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may lead to better control of the hypertension, but it would not block the other adverse effects of hyperaldosteronism. Aldosterone has direct inflammatory and fibrotic effects that are independent of its blood pressure effects; higher cardiovascular morbidity and mortality have been noted in patients with primary aldosteronism compared with those with primary hypertension and similar blood pressure control. Therefore, treating the hypertension with lisinopril without addressing the underlying hyperaldosteronism with an aldosterone receptor blocker would subject this patient to the deleterious effects of excess stimulation of aldosterone receptors."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_2_2",
+"objective":{
+"__html":"Treat primary aldosteronism in a patient with idiopathic hyperaldosteronism<b>.</b>"
+},
+"references":[
+[
+"Yozamp N, Vaidya A. The prevalence of primary aldosteronism and evolving approaches for treatment. Curr Opin Endocr Metab Res. 2019;8:30-39. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32832727",
+"target":"_blank"
+},
+"children":[
+"PMID: 32832727"
+]
+},
+" doi:10.1016/j.coemr.2019.07.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":11,
+"C":10,
+"D":75,
+"E":0
+},
+"hlIds":[
+"2e411a",
+"e97e24",
+"c82cac",
+"385767",
+"1054f1",
+"8cf7cd",
+"2beeb0",
+"98a1d8",
+"000353",
+"435b89",
+"7b8643"
+]
+}

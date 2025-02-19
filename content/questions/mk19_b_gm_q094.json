@@ -1,0 +1,257 @@
+{
+"id":"mk19_b_gm_q094",
+"number":94,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"857da7",
+"children":[
+"A 58-year-old man is evaluated for a 2-day history of nonradiating, right-sided scrotal pain and swelling. The pain began insidiously and has slowly worsened in intensity. He also reports dysuria and frequency but no fever or hematuria. He has no previous history of scrotal pain, trauma, or urologic procedures. He is sexually active only with his wife and has no history of sexually transmitted infections. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1ce2bc",
+"children":[
+"On physical examination, vital signs are normal. Tenderness is limited to the posterior aspect of the right testicle. Scrotal pain is relieved with elevation of the scrotum. Cremasteric reflex is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Doppler ultrasonography of the scrotum"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intramuscular ceftriaxone and oral doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intramuscular ceftriaxone and oral levofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral levofloxacin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c39248",
+"hvc":true,
+"children":[
+"Enteric bacteria are the most commonly implicated pathogens causing epididymitis in men older than 35 years and at low risk for sexually transmitted infections."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c588cd",
+"hvc":true,
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria gonorrhoeae"
+]
+},
+" are the most commonly implicated pathogens causing epididymitis in patients aged 35 years or younger and in those at high risk for sexually transmitted infections."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0f5aa2",
+"children":[
+"The most appropriate management is oral levofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has acute epididymitis characterized by unilateral scrotal pain of gradual onset that worsens over a period of days. In men older than 35 years and in those who are at low risk for sexually transmitted infections (STIs), the most likely pathogen is an enteric bacterium, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+". The most appropriate therapy is an empiric 10-day course of oral levofloxacin. Other important management measures include rest, NSAIDs, and scrotal support. At the time of presentation, urinalysis should be obtained; if results are abnormal, urine culture should be performed. However, antimicrobial therapy should not be delayed while awaiting culture results."
+]
+},
+{
+"type":"p",
+"hlId":"84ecaa",
+"children":[
+"Acute epididymitis is a clinical diagnosis. Doppler ultrasonography of the scrotum (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated in patients who present with both historical and examination findings consistent with acute epididymitis (as is the case for this patient). Doppler ultrasonography is helpful when there is diagnostic uncertainty; Doppler findings suggestive of acute epididymitis include increased epididymal blood flow and swelling. Lack of blood flow would indicate a urologic emergency, such as testicular torsion, which is unlikely in the presence of an intact cremasteric reflex."
+]
+},
+{
+"type":"p",
+"hlId":"3541c9",
+"children":[
+"A single dose of intramuscular ceftriaxone and a 10-day course of oral doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is appropriate empiric antimicrobial therapy in patients with acute epididymitis who are 35 years of age or younger and in men are at high risk for STIs. In these cases, common causative organisms include ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria gonorrhoeae"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+"; nucleic acid amplification testing for these organisms should be obtained. This regimen is not indicated for patients who are older than 35 years and in those at low risk for STIs."
+]
+},
+{
+"type":"p",
+"hlId":"ec8bbc",
+"children":[
+"A single dose of intramuscular ceftriaxone and a 10-day course of oral levofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is appropriate empiric therapy for patients with acute epididymitis who practice insertive anal intercourse because it provides coverage against coliform bacteria, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N. gonorrhoeae,"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. trachomatis."
+]
+},
+" This regimen is not indicated for this patient who is sexually active only with his wife."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_5",
+"objective":{
+"__html":"Manage acute epididymitis in an older man."
+},
+"references":[
+[
+"McConaghy JR, Panchal B. Epididymitis: an overview. Am Fam Physician. 2016;94:723-6. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27929243",
+"target":"_blank"
+},
+"children":[
+"PMID: 27929243"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":31,
+"B":18,
+"C":10,
+"D":41,
+"E":0
+},
+"hlIds":[
+"857da7",
+"1ce2bc",
+"cb2b54",
+"c39248",
+"c588cd",
+"0f5aa2",
+"84ecaa",
+"3541c9",
+"ec8bbc"
+]
+}

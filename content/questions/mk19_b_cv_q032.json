@@ -1,0 +1,218 @@
+{
+"id":"mk19_b_cv_q032",
+"number":32,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b19374",
+"children":[
+"A 56-year-old man is evaluated in the emergency department for acute shortness of breath and the sensation of a racing heart. His only medical problem is hypertension treated with chlorthalidone."
+]
+},
+{
+"type":"p",
+"hlId":"992ea5",
+"children":[
+"On physical examination, blood pressure is 89/52 mm Hg and pulse rate is 150/min. Cardiac examination reveals a regular tachycardia. Jugular venous distention and pulmonary crackles are present."
+]
+},
+{
+"type":"p",
+"hlId":"62310e",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f032",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". The patient is successfully cardioverted."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f032"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amiodarone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Catheter ablation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Flecainide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metoprolol"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3a57e8",
+"children":[
+"Catheter ablation is an appropriate treatment for patients with atrial flutter."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ebad1c",
+"children":[
+"Catheter ablation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate additional treatment for this patient with typical atrial flutter. Atrial flutter is an organized macro-reentrant tachycardia with discrete regular atrial activity on ECG, usually with an atrial rate of 250/min to 300/min. This patient has an atrial rate of 300/min with 2:1 block, resulting in a ventricular rate of 150/min. Typical atrial flutter is characterized electrocardiographically by a sawtooth pattern with inverted flutter waves in leads II, III, and aVF and positive flutter waves in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+". Tachycardia-induced heart failure (HF) may be the initial presentation of poorly controlled atrial flutter among patients who are otherwise asymptomatic, and unrecognized, prolonged tachycardia may lead to HF. This form of cardiomyopathy is often reversible with control of heart rate and/or rhythm. In typical atrial flutter, catheter ablation may be curative for most patients and is appropriate first-line therapy for this patient. Acute cardioversion was a reasonable choice for this patient to achieve acute improvement in clinical status. However, it is extremely likely that atrial flutter will recur, which makes this patient at very high risk for recurrent HF and underscores the need for definitive treatment."
+]
+},
+{
+"type":"p",
+"hlId":"e16b44",
+"children":[
+"A rhythm control strategy is favored in atrial flutter because rate control may be difficult to achieve and often requires high doses of more than one drug. However, drug therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, C, D"
+]
+},
+") may be complicated, toxic, and often unsuccessful. β-Blockers are unlikely to prevent or treat a recurrence. Catheter ablation is the definitive treatment for typical atrial flutter, owing to a very high success rate (>95%) and low complication rate."
+]
+},
+{
+"type":"p",
+"hlId":"a48ed0",
+"children":[
+"Because the risk for recurrence is high and this patient poorly tolerates the rapid ventricular rate, observation without additional treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is insufficient for this patient. Catheter ablation is the most appropriate treatment."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_7",
+"objective":{
+"__html":"Treat typical atrial flutter with catheter ablation."
+},
+"references":[
+[
+"Page RL, Joglar JA, Caldwell MA, et al. 2015 ACC/AHA/HRS guideline for the management of adult patients with supraventricular tachycardia: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Heart Rhythm. 2016;13:e92-135. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26409097",
+"target":"_blank"
+},
+"children":[
+"PMID: 26409097"
+]
+},
+" doi:10.1016/j.hrthm.2015.09.018"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":32,
+"C":10,
+"D":34,
+"E":9
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f032":{
+"id":"mk19_b_cv_mcq_f032",
+"number":32,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3bec39c9abaa4377a8937fcf328340dc",
+"height":315,
+"width":660,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"b19374",
+"992ea5",
+"62310e",
+"78ff87",
+"3a57e8",
+"ebad1c",
+"e16b44",
+"a48ed0"
+]
+}

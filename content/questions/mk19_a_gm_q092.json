@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q092",
+"number":92,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 92",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ee39c",
+"children":[
+"A 64-year-old man is evaluated in the emergency department for low back pain and difficulty climbing stairs that has worsened over the past several days. The pain radiates into his legs bilaterally. He has not urinated in the past 24 hours. He has a history of prostate cancer treated with external beam radiation therapy."
+]
+},
+{
+"type":"p",
+"hlId":"fc467c",
+"children":[
+"On physical examination, vital signs are normal. Ankle reflexes and patellar reflexes are decreased bilaterally. Dorsiflexion and plantar flexion weakness are present bilaterally, as is mild but detectable weakness of the major muscle groups of the legs and thighs. There is no spinal tenderness."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cauda equina syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Piriformis syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radiation-induced pelvic insufficiency fracture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vertebral compression fracture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"269fc0",
+"children":[
+"The major finding associated with cauda equina syndrome is bilateral leg weakness that may be associated with saddle anesthesia, bowel and bladder dysfunction, and erectile dysfunction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"23a8cd",
+"children":[
+"Urgent MRI is indicated for patients with suspected cauda equina syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6aca1d",
+"children":[
+"This patient's presentation is most consistent with cauda equina syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") due to metastatic prostate cancer. Emergent MRI of the lumbosacral spine, along with immediate neurosurgical evaluation, is indicated. Cauda equina syndrome classically presents with acute low back pain radiating to the legs. The dominant finding is bilateral leg weakness that may be associated with saddle anesthesia, bowel and bladder dysfunction, and erectile dysfunction. On physical examination, decreased or absent distal reflexes and decreased anal sphincter tone may be noted along with bilateral leg weakness. Cauda equina syndrome is most commonly caused by disk herniation, degenerative changes, or spondylosis, but it can also result from trauma, infection, or cancer (most commonly prostate cancer, lymphoma, or multiple myeloma). MRI of the lumbosacral spine can visualize neurologic compromise of the cauda equina."
+]
+},
+{
+"type":"p",
+"hlId":"438a74",
+"children":[
+"Piriformis syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is caused by compression of the sciatic nerve by the piriformis muscle, leading to symptoms similar to those of sciatica. Pain, tingling, and numbness occur in a unilateral distribution, with pain radiating into the leg. Piriformis syndrome does not typically cause diminished distal reflexes."
+]
+},
+{
+"type":"p",
+"hlId":"b04817",
+"children":[
+"Pelvic insufficiency fracture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can rarely occur after radiation to the pelvis and other bones during treatment for prostate cancer. Insufficiency fractures are a subtype of stress fracture that develops after normal stress to weakened bone. These fractures occur in approximately 5% of patients who receive whole-pelvis radiation therapy for locally advanced prostate cancer. Most patients are also usually receiving androgen deprivation therapy, which probably contributes to bone weakening. Fractures tend to occur in the sacrum and pubic bone. Patients develop symptoms of low back pain or pelvic pain but do not develop neurologic findings consistent with cauda equina syndrome, as seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"4ea5af",
+"children":[
+"Vertebral compression fracture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can cause low back pain and vertebral tenderness but does not typically cause lower extremity weakness or diminished reflexes."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_1",
+"objective":{
+"__html":"Diagnose cauda equina syndrome."
+},
+"references":[
+[
+"Babu JM, Patel SA, Palumbo MA, Daniels AH. Spinal emergencies in primary care practice. Am J Med. 2019;132:300-6. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30291829",
+"target":"_blank"
+},
+"children":[
+"PMID: 30291829"
+]
+},
+" doi:10.1016/j.amjmed.2018.09.022"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":87,
+"B":3,
+"C":5,
+"D":5,
+"E":0
+},
+"hlIds":[
+"7ee39c",
+"fc467c",
+"413696",
+"269fc0",
+"23a8cd",
+"6aca1d",
+"438a74",
+"b04817",
+"4ea5af"
+]
+}

@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_pm_q080",
+"number":80,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 80",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3aca6d",
+"children":[
+"A 54-year-old man is evaluated during a follow-up visit for asthma. He has a 5-year history of persistent asthma. He has had one exacerbation within the last year, which was treated with glucocorticoids. He reports no wheezing but notes an intermittent nonproductive cough. His Asthma Control Test score is 24, indicating well-controlled asthma. He reports adherence to his maintenance inhaler and demonstrates good inhaler technique. He describes symptoms of epigastric burning following meals. He has no other gastrointestinal symptoms. He does not smoke, and he exercises daily without limitation. Medications are fluticasone-salmeterol 100/50 μg and an albuterol inhaler."
+]
+},
+{
+"type":"p",
+"hlId":"455d04",
+"children":[
+"On physical examination, vital signs are normal, and no wheezing is noted. Spirometry is normal. Fractional exhaled nitric oxide level is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin omeprazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue fluticasone-salmeterol; begin fluticasone 250 μg"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase fluticasone-salmeterol strength to 500/50 μg"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Perform upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"14b423",
+"children":[
+"Gastrointestinal reflux disease is more common in patients with asthma than the general population and may contribute to respiratory symptoms such as cough, wheezing, and dyspnea."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cf519f",
+"children":[
+"Patients with respiratory symptoms and gastroesophageal reflux disease should be treated with an empiric trial of a proton pump inhibitor."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a6a51a",
+"children":[
+"The most appropriate management for this patient is to begin omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient has a normal Asthma Control Test score, normal spirometry, and normal fractional exhaled nitric oxide, which all confirm that his asthma is well controlled. Measurement of the fraction of nitric oxide in an exhaled breath sample provides a noninvasive way to quantify eosinophilic airway inflammation and serves as a complementary tool in the diagnosis and management of asthma. However, his cough and other symptoms suggest gastroesophageal reflux disease (GERD), a common asthma comorbidity. At each asthma visit, clinicians should assess patient symptom control, inhaler technique and adherence, and comorbidities such as rhinosinusitis, obesity, and GERD. GERD is more common in patients with asthma than the general population and may contribute to respiratory symptoms such as cough, wheezing, and dyspnea. Potential mechanisms by which GERD may cause cough or worsened asthma control include increased vagal tone, bronchial hyperreactivity, and microaspiration of gastric contents into the upper airways. Empiric treatment of GERD in patients without worrisome symptoms such as weight loss, dysphagia, or hematemesis consists of a proton pump inhibitor such as omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"e7c6c8",
+"children":[
+"Switching to a medium-dose inhaled glucocorticoid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not needed because the patient is tolerating the current therapy and it is controlling his asthma symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"cc2793",
+"children":[
+"Stepping up this patient's therapy by increasing the strength of his inhaled glucocorticoid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") maintenance inhaler is not necessary without signs of worsening asthma."
+]
+},
+{
+"type":"p",
+"hlId":"2b597d",
+"children":[
+"Performing upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unnecessary in patients with uncomplicated GERD without suspicion for malignancy, erosive esophagitis, or mechanical issues causing dysphagia, such as webs, rings, or strictures. Patients whose reflux symptoms do not improve should be considered for further testing such as endoscopy and 24-hour esophageal pH monitoring."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6",
+"objective":{
+"__html":"Treat gastroesophageal reflux disease in a patient with asthma."
+},
+"references":[
+[
+"Vaezi MF, Katzka D, Zerbib F. Extraesophageal symptoms and diseases attributed to GERD: where is the pendulum swinging now? Clin Gastroenterol Hepatol. 2018;16:1018-1029. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29427733",
+"target":"_blank"
+},
+"children":[
+"PMID: 29427733"
+]
+},
+" doi:10.1016/j.cgh.2018.02.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":78,
+"B":10,
+"C":2,
+"D":9,
+"E":0
+},
+"hlIds":[
+"3aca6d",
+"455d04",
+"cb2b54",
+"14b423",
+"cf519f",
+"a6a51a",
+"e7c6c8",
+"cc2793",
+"2b597d"
+]
+}

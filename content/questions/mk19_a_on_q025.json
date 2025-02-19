@@ -1,0 +1,181 @@
+{
+"id":"mk19_a_on_q025",
+"number":25,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a1189e",
+"children":[
+"A 63-year-old woman is evaluated in the hospital following successful treatment of severe hypercalcemia with intravenous fluids and zoledronic acid. She was subsequently diagnosed with widely metastatic, poorly differentiated adenocarcinoma of the lung. No tumor molecular alterations were noted. She has experienced a 30-pound weight loss over the past 7 months. She has been unable to independently perform activities of daily living for the past 4 months. She reports no significant difficulty with pain."
+]
+},
+{
+"type":"p",
+"hlId":"7e0f32",
+"children":[
+"On physical examination, vital signs are normal. BMI is 19. She is cachectic and frail-appearing. Pulmonary examination reveals decreased breath sounds in the right lung base. The patient is unable to transfer out of bed or walk without assistance."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemotherapy plus bevacizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combination chemotherapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radiation therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supportive care/hospice"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2c0f0b",
+"hvc":true,
+"children":[
+"Patients with poor performance status and advanced non–small cell lung cancer without a driver mutation do not benefit from chemotherapy or immunotherapy and are best served with supportive care."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b3f76c",
+"hvc":true,
+"children":[
+"Patients with poor performance status and advanced non–small cell lung cancer with a driver mutation may benefit from therapies that inhibit the mutation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3099ea",
+"children":[
+"Supportive care/hospice care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate management. This patient with metastatic non–small cell lung cancer has poor performance status and should be counseled that supportive care/hospice is in her best interest. Patients with metastatic non–small cell lung cancer can derive significant benefit from treatment, and multiple treatment options are available. These include not just chemotherapy but molecular therapies based on identification of relevant driver mutations and also immunotherapy. Performance status is a means of quantifying how medically fit a patient is overall. A good performance status predicts favorable tolerance and response to treatment. Patients with a poor performance status are much more likely to experience serious or life-threatening toxicity and much less likely to benefit from treatment. In patients with poor performance status and metastatic non–small cell lung cancer, identifying a driver mutation has therapeutic implications. These patients may respond to inhibitors of driver mutations with manageable toxicity and overall benefit. In the absence of driver mutations, combination chemotherapy or immunotherapy is more likely to harm than to help patients with poor performance status."
+]
+},
+{
+"type":"p",
+"hlId":"47de8c",
+"children":[
+"Immunotherapy can be given as a single-agent therapy and also given in combination with chemotherapy. Neither chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") nor immunotherapy with bevacizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is effective in patients with poor performance status. Combination chemotherapy has been shown to actually worsen outcomes in patients with poor performance status and is not recommended for this patient population."
+]
+},
+{
+"type":"p",
+"hlId":"39a757",
+"children":[
+"Radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a palliative treatment, largely for control of pain due to metastatic disease. This patient has widely metastatic disease but is not noted to have significant difficulty with pain. As a result, there is no clear indication for radiation therapy in the treatment of this patient."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_1_3",
+"objective":{
+"__html":"Manage a patient with poor performance status and metastatic non–small cell lung cancer with supportive care/hospice."
+},
+"references":[
+[
+"Hirsch FR, Scagliotti GV, Mulshine JL, et al. Lung cancer: current therapies and new targeted treatments. Lancet. 2017;389:299-311. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27574741",
+"target":"_blank"
+},
+"children":[
+"PMID: 27574741"
+]
+},
+" doi:10.1016/S0140-6736(16)30958-8"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":2,
+"C":1,
+"D":92,
+"E":0
+},
+"hlIds":[
+"a1189e",
+"7e0f32",
+"cb2b54",
+"2c0f0b",
+"b3f76c",
+"3099ea",
+"47de8c",
+"39a757"
+]
+}

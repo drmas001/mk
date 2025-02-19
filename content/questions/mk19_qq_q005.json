@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q005",
+"number":5,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3ba3a1",
+"children":[
+"A 34-year-old woman is seen in follow-up for major depressive disorder. She has persistent symptoms despite cognitive behavioral therapy (CBT). Her PHQ-9 score was 14 before she started CBT and is now 9, indicating mild depression. After discussing the benefits and harms, it is decided to initiate sertraline. The patient is taking no other prescription or over-the-counter medications."
+]
+},
+{
+"type":"p",
+"hlId":"ec3d39",
+"children":[
+"Physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"011054",
+"children":[
+"For which of the following conditions is this patient at most risk?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anticholinergic toxicity"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Malignant hyperthermia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neuroleptic malignant syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serotonin syndrome"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5eddc4",
+"children":[
+"Serotonin syndrome can develop in patients taking any selective serotonin reuptake inhibitor or serotonin-norepinephrine reuptake inhibitor, bupropion, and monoamine oxidase inhibitors, alone or in combination with other prescription medications (such as opioids and triptans) or over-the-counter medications (such as dextromethorphan)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c38d09",
+"children":[
+"Findings unique to serotonin syndrome are shivering, hyperreflexia, myoclonus, ocular clonus (slow, continuous, horizontal eye movements), and ataxia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"024a7a",
+"children":[
+"The patient is most at risk for serotonin syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") due to the recent initiation of the selective serotonin reuptake inhibitor (SSRI) sertraline. Serotonin syndrome can develop in patients taking any SSRI or serotonin-norepinephrine reuptake inhibitor (SNRI), bupropion, or monoamine oxidase inhibitors, alone or in combination with other prescription medications (such as opioids and triptans) or over-the-counter medications (such as dextromethorphan). Symptoms usually develop within 24 hours of initiating therapy or a change in dose, or of initiating an interacting drug. Serotonin syndrome may be mild, with symptoms of anxiety, tremor, restlessness, or diarrhea, or may present with high fever, muscle rigidity, and cognitive changes. Findings unique to serotonin syndrome are shivering, hyperreflexia, myoclonus, ocular clonus (slow, continuous, horizontal eye movements), and ataxia."
+]
+},
+{
+"type":"p",
+"hlId":"2249c9",
+"children":[
+"Typical symptoms of anticholinergic toxicity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") include hyperthermia, dry skin and mucous membranes, agitation, delirium, tachycardia, tachypnea, hypertension, and mydriasis. Anticholinergic toxicity is most likely to occur following treatment of depression with a tricyclic antidepressant, not an SSRI."
+]
+},
+{
+"type":"p",
+"hlId":"4afcd1",
+"children":[
+"Malignant hyperthermia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a reaction to certain classes of drugs, including inhaled anesthetics (halothane and others) and depolarizing neuromuscular blockers (succinylcholine and decamethonium). It causes markedly increased intracellular calcium, increased cellular metabolism, and sustained muscle tetany. Severe muscle rigidity, masseter spasm, hyperthermia (core temperature up to 45 °C [113.0 °F]), cardiac tachyarrhythmias, and rhabdomyolysis usually manifest quickly when susceptible patients are exposed to a triggering agent. This patient has not been exposed to the implicated drugs."
+]
+},
+{
+"type":"p",
+"hlId":"ee1179",
+"children":[
+"Neuroleptic malignant syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an idiosyncratic reaction resulting from administration of antipsychotic agents and certain antiemetic agents, or withdrawal of antiparkinsonian dopaminergic medications. It is characterized by muscle rigidity, hyperthermia, altered mental status, and autonomic dysregulation. This syndrome often occurs when drug treatment is started or after rapid dose escalation. The patient is not taking medications associated with this syndrome."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_3",
+"objective":{
+"__html":"Assess the risk for developing serotonin syndrome."
+},
+"references":[
+[
+"Malcolm B, Thomas K. Serotonin toxicity of serotonergic psychedelics. Psychopharmacology (Berl). 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34251464",
+"target":"_blank"
+},
+"children":[
+"PMID: 34251464"
+]
+},
+" doi:10.1007/s00213-021-05876-x"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"3ba3a1",
+"ec3d39",
+"011054",
+"5eddc4",
+"c38d09",
+"024a7a",
+"2249c9",
+"4afcd1",
+"ee1179"
+]
+}

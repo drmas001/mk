@@ -1,0 +1,199 @@
+{
+"id":"mk19_b_cv_q030",
+"number":30,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"db858a",
+"children":[
+"A 41-year-old man is evaluated for a 2-week history of daily palpitations that last minutes at a time and resolve spontaneously. The palpitations are not associated with any specific activity. He is otherwise healthy and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"97c123",
+"children":[
+"Which of the following is the most appropriate initial test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"30-Day event monitor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"12-Lead resting ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"24-Hour ambulatory ECG monitor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e44951",
+"children":[
+"The initial test in patients with a history of palpitations, presyncope, or syncope is 12-lead resting ECG."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c146bc",
+"children":[
+"The most appropriate initial test for this patient with palpitations is 12-lead resting ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The initial test in patients with a history of palpitations, presyncope, or syncope when an arrhythmia is suspected should be 12-lead resting ECG. The ECG may show evidence of preexcitation, ectopic rhythms, atrioventricular block, or intraventricular conduction delay, which can provide insight into the cause of the symptoms. Other conditions that might be suspected from the 12-lead resting ECG include hypertrophic cardiomyopathy (marked left ventricular hypertrophy and deep septal Q waves in leads I, aVL, and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+") or previous myocardial infarction (Q waves), each suggesting the possibility of ventricular tachycardia. Ventricular tachycardia also might be suspected if the ECG demonstrated a prolonged QT interval. The need for further testing is determined by the ECG findings and suspicion of structural or functional heart disease."
+]
+},
+{
+"type":"p",
+"hlId":"2cb926",
+"children":[
+"Findings on the 12-lead resting ECG that indicate possible ischemia as the cause of the symptoms might lead to exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") as the next step. This patient's differential diagnosis is still broad, as he has no history or physical examination findings that suggest a heightened risk for premature coronary artery disease; exercise ECG is not indicated as the initial diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"c6fa84",
+"children":[
+"A 30-day event monitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful for infrequent symptoms that are thought to be related to an arrhythmia. Use of an event monitor is ideal when symptoms last longer than 1 to 2 minutes so that patients can activate the monitor in time for the symptoms to be recorded. These monitors can be carried around and then held to the chest when symptoms occur or attached to the chest via electrodes. However, even if the 12-lead resting ECG were normal, this patient has frequent symptoms, occurring daily. In this situation, a 24-hour ambulatory ECG monitor would be a more suitable diagnostic test than an event monitor."
+]
+},
+{
+"type":"p",
+"hlId":"5b183a",
+"children":[
+"A 24-hour ambulatory ECG monitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated for patients with daily symptoms after a resting 12-lead ECG is obtained. This continuous monitor captures every heartbeat for 24 hours (or up to 30 days) and allows the patient to log symptoms during the course of the study. It may be that this patient will require 24-hour ambulatory ECG monitoring, but the initial test remains 12-lead resting ECG."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_4",
+"objective":{
+"__html":"Evaluate palpitations with a 12-lead resting ECG."
+},
+"references":[
+[
+"Weinstock C, Wagner H, Snuckel M, et al. Evidence-based approach to palpitations. Med Clin North Am. 2021;105:93-106. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33246525",
+"target":"_blank"
+},
+"children":[
+"PMID: 33246525"
+]
+},
+" doi:10.1016/j.mcna.2020.09.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":14,
+"C":47,
+"D":39,
+"E":0
+},
+"hlIds":[
+"db858a",
+"f8786b",
+"97c123",
+"e44951",
+"c146bc",
+"2cb926",
+"c6fa84",
+"5b183a"
+]
+}

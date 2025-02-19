@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_nr_q093",
+"number":93,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0615d4",
+"children":[
+"A 19-year-old woman is evaluated for a 1-year history of recurrent stereotyped episodes of loss of consciousness and subsequent shaking, most of which have been precipitated by standing for prolonged periods in hot weather. She typically has a warning symptom of tunnel vision followed by diminished hearing, nausea, pallor, and a fall associated with loss of consciousness. Witnesses of these events have noted intermittent twitching of all four limbs, with each limb shaking independently. Within 45 seconds, the patient awakens feeling alert, oriented, and able to continue normal conversation."
+]
+},
+{
+"type":"p",
+"hlId":"93bba9",
+"children":[
+"All physical examination findings, including vital signs, are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atonic seizure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Convulsive syncope"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Generalized tonic-clonic seizure"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Myoclonic seizure"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ad459d",
+"children":[
+"Syncope is a transient loss of consciousness and postural tone due to global cerebral hypoperfusion that typically has an abrupt onset and complete, rapid neurologic recovery."
+]
+},
+{
+"type":"keypoint",
+"hlId":"419126",
+"children":[
+"Nonepileptic myoclonus and other types of movements and shaking are typical of convulsive syncope."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1cf619",
+"children":[
+"The patient most likely has convulsive syncope (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Syncope is a transient complete loss of consciousness and postural tone due to global cerebral hypoperfusion and may follow stereotyped patterns (as can seizures or migraines). Its onset is abrupt, with a spontaneous, rapid, and complete recovery. The most common cause of syncope is neurally mediated syncope, which generally occurs with prolonged standing or dehydration and has a prodrome of nausea, lightheadedness, warmth, tunnel vision, or palpitations. Stereotyped events with warning signs can be mistaken for seizures, but the duration of loss of consciousness is usually briefer in syncope (<1 min) than in seizures, and immediate and complete neurologic recovery is typical. Nonepileptic myoclonus (in this patient) and other types of movements and shaking are typical of convulsive syncope; in fact, syncope without any movements is the exception rather than the rule."
+]
+},
+{
+"type":"p",
+"hlId":"d23f0a",
+"children":[
+"Atonic seizures (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are characterized by abrupt falling, a brief loss of consciousness, and decreased tone; there usually are no warning symptoms, such as tunnel vision or palpitations, or precipitating events such as prolonged standing. The duration of atonic seizures is briefer (a few seconds) than that of syncope."
+]
+},
+{
+"type":"p",
+"hlId":"5e2a29",
+"children":[
+"Generalized tonic-clonic seizures (GTCS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are characterized by an abrupt loss of consciousness sometimes associated with a scream or choking sound, and increased tone at onset (tonic phase), followed by rhythmic, synchronous jerking of all limbs (clonic phase) lasting usually more than 1 minute. Confusion, lethargy, and occasionally combativeness follow GTCS. Cyanosis, not pallor, is common with this type of seizure."
+]
+},
+{
+"type":"p",
+"hlId":"1af2b6",
+"children":[
+"Myoclonus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a single quick jerk of a limb or the entire body lasting less than a second and is not always associated with a seizure. A diagnosis of myoclonic seizures can be confirmed by electroencephalography, with each jerk associated with a generalized spike-and-wave discharge. Myoclonic seizures also can occur repetitively and result in falls. Awareness is maintained and duration is very short (<1 second), which differentiates it from convulsive syncope."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_3_2",
+"objective":{
+"__html":"Diagnose convulsive syncope."
+},
+"references":[
+[
+"Sheldon R. How to differentiate syncope from seizure. Cardiol Clin. 2015;33(3):377–385. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26115824",
+"target":"_blank"
+},
+"children":[
+"PMID: 26115824"
+]
+},
+" doi:10.1016/j.ccl.2015.04.006"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":68,
+"C":6,
+"D":11,
+"E":0
+},
+"hlIds":[
+"0615d4",
+"93bba9",
+"413696",
+"ad459d",
+"419126",
+"1cf619",
+"d23f0a",
+"5e2a29",
+"1af2b6"
+]
+}

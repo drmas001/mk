@@ -1,0 +1,537 @@
+{
+"id":"mk19_a_np_q009",
+"number":9,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c88d25",
+"children":[
+"A 24-year-old woman is evaluated in the hospital 24 hours after being admitted for severe preeclampsia. On admission, antihypertensive therapy and intravenous magnesium sulfate were initiated followed by cesarean section. She continues to receive hydralazine, nifedipine, and intravenous magnesium sulfate."
+]
+},
+{
+"type":"p",
+"hlId":"b1731f",
+"children":[
+"On physical examination, temperature is 37.1 °C (98.8 °F), blood pressure is 142/90 mm Hg, and pulse rate is 84/min. Abdominal examination reveals a clean, sutured cesarean section incision without bleeding. There is no oozing from venipuncture sites. There is 1+ lower extremity edema. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"d12432",
+"children":[
+"Current laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"97c659",
+"class":"cell text l",
+"children":[
+"7.5 g/dL (75 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f00ff6",
+"class":"cell text l",
+"children":[
+"84,000/µL (84 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2eae6a",
+"class":"cell text l",
+"children":[
+"383 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a3689c",
+"class":"cell text l",
+"children":[
+"187 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"28ecb5",
+"class":"cell text l",
+"children":[
+"1.3 mg/dL (114.9 µmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"7f697c",
+"children":[
+"A peripheral blood smear shows schistocytes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue current therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start intravenous dexamethasone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start intravenous eculizumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transfuse fresh frozen plasma"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transfuse packed red blood cells and platelets"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3bb2ab",
+"children":[
+"Severe preeclampsia is identified by persistent systolic blood pressure >160 mm Hg or diastolic blood pressure >110 mm Hg and end-organ damage."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2869e4",
+"children":[
+"Initial therapy for severe preeclampsia is magnesium, antihypertensive medication, and immediate delivery of the fetus."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6d3363",
+"children":[
+"The most appropriate treatment is to continue current therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Severe preeclampsia is identified by persistent systolic blood pressure (BP) >160 mm Hg or diastolic BP >110 mm Hg and end-organ damage. The HELLP (hemolysis, elevated liver enzymes, low platelets) syndrome may represent a severe form of preeclampsia. In the HELLP syndrome, the hemolytic anemia, thrombocytopenia, and liver dysfunction are more prominent, whereas severe preeclampsia has greater BP elevations. This patient has severe preeclampsia with features of the HELLP syndrome. The appropriate initial therapy is rapid stabilization of severely elevated BP and intravenous magnesium followed by immediate delivery of the fetus. Magnesium sulfate is the drug of choice for seizure prophylaxis for women with acute-onset severe hypertension during pregnancy and the postpartum period. Starting magnesium should not be delayed in the setting of acute severe hypertension; it is recommended regardless of whether the patient has gestational hypertension with severe features, preeclampsia with severe features, or eclampsia. Acute kidney injury may persist for up to 48 hours following delivery; proteinuria may take months to resolve."
+]
+},
+{
+"type":"p",
+"hlId":"05690a",
+"children":[
+"In large studies, intravenous dexamethasone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has not been shown to be efficacious in treatment of severe preeclampsia or the HELLP syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"1cf29a",
+"children":[
+"Intravenous eculizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for patients with atypical hemolytic uremic syndrome with deficiencies in the complement cascade. Atypical hemolytic uremic syndrome does not cause liver dysfunction as seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"58beb2",
+"children":[
+"Distinguishing the HELLP syndrome from thrombotic thrombocytopenic purpura (TTP) is important, as patients with TTP require fresh frozen plasma exchange (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and glucocorticoids. TTP is very uncommon in pregnancy, typically presents earlier in gestation, and is marked by an even more profound decrease in hemoglobin and platelet count than seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"22ad2f",
+"children":[
+"Transfusion of packed red blood cells and platelets (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is generally not recommended for patients in the absence of overt bleeding unless hemoglobin levels decrease to <7 g/dL (70 g/L) or platelet count decreases to <20,000/µL (20 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_2_4",
+"objective":{
+"__html":"Treat severe preeclampsia."
+},
+"references":[
+[
+"ACOG committee opinion no. 767 summary: emergent therapy for acute-onset, severe hypertension during pregnancy and the postpartum period [editorial]. Obstet Gynecol. 2019;133:409-412. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30681541",
+"target":"_blank"
+},
+"children":[
+"PMID: 30681541"
+]
+},
+" doi:10.1097/AOG.0000000000003082"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":61,
+"B":14,
+"C":11,
+"D":8,
+"E":6
+},
+"hlIds":[
+"c88d25",
+"b1731f",
+"d12432",
+"f9867c",
+"97c659",
+"fcac73",
+"f00ff6",
+"62ea29",
+"2eae6a",
+"c7d329",
+"a3689c",
+"f461b2",
+"28ecb5",
+"7f697c",
+"1054f1",
+"3bb2ab",
+"2869e4",
+"6d3363",
+"05690a",
+"1cf29a",
+"58beb2",
+"22ad2f"
+]
+}

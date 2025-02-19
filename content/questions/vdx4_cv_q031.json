@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q031",
+"number":31,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ae7502",
+"children":[
+"A 47-year-old woman with sarcoidosis is evaluated for an irregular pulse, a sensation of pounding in the neck, and an episode of syncope."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f031",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f031"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Junctional rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Monomorphic ventricular tachycardia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Polymorphic ventricular tachycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular fibrillation"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bf1b11",
+"children":[
+"This ECG shows ventricular tachycardia, which is typically caused by organic heart disease. It begins approximately one third of the way into the tracing and is marked by an abrupt change in axis and widening of the QRS complex. Ventricular tachycardia is characterized by fairly regular wide QRS complexes, a pulse rate of more than 120/min, and atrioventricular dissociation. Ventricular tachycardia can be characterized as either sustained (lasting >30 seconds) or nonsustained, and as monomorphic, if all of the QRS complexes have the same morphology, or as polymorphic, if the QRS pattern twists across the baseline (e.g., torsades de pointes). Ventricular tachycardia can degenerate into ventricular fibrillation."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_2_1",
+"objective":{
+"__html":"Identify ventricular tachycardia on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f031":{
+"id":"vdx4_cv_mcq_f031",
+"number":31,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d9bc2e1a8ff4dc7a13f7e0a36db462aa",
+"height":487,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"ae7502",
+"4a9f79",
+"413696",
+"bf1b11"
+]
+}

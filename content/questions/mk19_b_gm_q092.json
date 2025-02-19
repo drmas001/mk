@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_gm_q092",
+"number":92,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 92",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f51778",
+"children":[
+"A 59-year-old woman is evaluated in the hospital for postoperative ileus following a hysterectomy. She reports worsening nausea and abdominal fullness. Her last bowel movement was on the morning of surgery. She has been using hydrocodone for pain. Her only other medication is prophylactic low-molecular-weight heparin."
+]
+},
+{
+"type":"p",
+"hlId":"296fe9",
+"children":[
+"On physical examination, vital signs are normal. There is a healing hysterectomy incision. The abdomen is diffusely tender without guarding; bowel sounds are decreased."
+]
+},
+{
+"type":"p",
+"hlId":"f4c058",
+"children":[
+"Comprehensive metabolic profile is normal."
+]
+},
+{
+"type":"p",
+"hlId":"fcd1be",
+"children":[
+"Plain abdominal radiograph shows mildly dilated loops of small and large bowel with air fluid levels and air throughout the colon."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the abdomen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Decrease opioid use"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methylnaltrexone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nasogastric tube placement"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Neostigmine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"430b52",
+"hvc":true,
+"children":[
+"Treatment of postoperative ileus consists of minimizing the use of opioids, hydration, bowel rest, electrolyte repletion, postoperative ambulation, and use of chewing gum."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1a9b1f",
+"hvc":true,
+"children":[
+"Minimally invasive surgical approaches, multimodal analgesia techniques, prophylactic bowel regimens, and early ambulation may help to prevent postoperative ileus."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"607fac",
+"children":[
+"The most appropriate management is to decrease the patient's opioid use (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient likely has a postoperative ileus (POI). POI is common after both intra-abdominal and nonabdominal surgery. It is caused by a combination of intraperitoneal inflammation, neuroinhibition of the sympathetic nervous system, and medications (such as opioids and anesthesia). There is no specific therapy for postoperative ileus other than supportive. Supportive therapy consists of minimizing the use of opioids, hydration, bowel rest, electrolyte repletion, postoperative ambulation, and use of chewing gum. Minimally invasive surgical approaches, multimodal analgesia techniques, prophylactic bowel regimens, and early ambulation may help to prevent POI."
+]
+},
+{
+"type":"p",
+"hlId":"76ebf7",
+"children":[
+"Plain radiography is usually adequate to diagnose POI and to distinguish it from small-bowel obstruction. CT of the abdomen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated if any suspicion for small-bowel obstruction remains, particularly if the ileus is prolonged beyond 3 to 4 days. There is no indication for CT for this patient at this time."
+]
+},
+{
+"type":"p",
+"hlId":"258c12",
+"children":[
+"In patients receiving long-standing opioid therapy and who have severe constipation, a peripherally acting µ-opioid receptor antagonist, such as methylnaltrexone, can be effective in improving bowel motility. Although opioids may be contributing to this patient's POI, they are unlikely to be the only cause and methylnaltrexone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unlikely to be successful in reversing the ileus."
+]
+},
+{
+"type":"p",
+"hlId":"35b875",
+"children":[
+"Gastric decompression with a nasogastric tube (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated for patients with significant vomiting, bowel distention, or abdominal pain. These indications are not present."
+]
+},
+{
+"type":"p",
+"hlId":"952320",
+"children":[
+"Acute colonic pseudo-obstruction (Ogilvie syndrome) is characterized by acute dilatation of the colon in the absence of a mechanical obstruction. This condition is usually found in severely ill hospitalized patients or after surgery that is complicated by a metabolic disturbance or medications that inhibit peristalsis. Patients have abdominal distention with pain, anorexia, nausea, and vomiting. Plain radiography documents a dilated colon. The initial management is supportive care, but treatment with neostigmine is often attempted in patients in whom conservative therapy has failed. On the basis of findings on this patient's radiograph, she does not have acute colonic pseudo-obstruction and does not require neostigmine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_1_3",
+"objective":{
+"__html":"Manage postoperative ileus."
+},
+"references":[
+[
+"Vilz TO, Stoffels B, Strassburg C, et al. Ileus in adults. Dtsch Arztebl Int. 2017;114:508-18. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28818187",
+"target":"_blank"
+},
+"children":[
+"PMID: 28818187"
+]
+},
+" doi:10.3238/arztebl.2017.0508"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":50,
+"C":18,
+"D":26,
+"E":1
+},
+"hlIds":[
+"f51778",
+"296fe9",
+"f4c058",
+"fcd1be",
+"cb2b54",
+"430b52",
+"1a9b1f",
+"607fac",
+"76ebf7",
+"258c12",
+"35b875",
+"952320"
+]
+}

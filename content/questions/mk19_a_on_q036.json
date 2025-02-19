@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_on_q036",
+"number":36,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2e0282",
+"children":[
+"A 27-year-old woman is evaluated following a recently confirmed diagnosis of early-stage nodular sclerosing Hodgkin lymphoma. She has had no fevers, night sweats, or weight loss. Medical history is unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a3889d",
+"children":[
+"On physical examination, vital signs are normal. There is a healing surgical scar over the mid left neck. A 3- × 2-cm left supraclavicular lymph node is palpable. There is no other adenopathy and no hepatosplenomegaly."
+]
+},
+{
+"type":"p",
+"hlId":"574aa5",
+"children":[
+"Complete blood count is normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" is 22 mm/h."
+]
+},
+{
+"type":"p",
+"hlId":"205f18",
+"children":[
+"CT and PET scans detect left cervical and supraclavicular adenopathy as well as an anterior mediastinal mass measuring 5 × 4 cm. No infradiaphragmatic disease is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Checkpoint inhibitor immunotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combination chemotherapy followed by autologous hematopoietic stem cell transplantation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Combination chemotherapy followed by radiation therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiation therapy alone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9de3ed",
+"hvc":true,
+"children":[
+"Early-stage Hodgkin lymphoma is most commonly treated with combination chemotherapy followed by radiation therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"19b529",
+"hvc":true,
+"children":[
+"Chemotherapy alone is a treatment option for early-stage Hodgkin lymphoma after a complete metabolic response assessed by interim PET/CT after two to three cycles of treatment (risk-adapted therapy)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dd48b0",
+"children":[
+"For this patient with early-stage Hodgkin lymphoma, the most appropriate treatment options would be combination chemotherapy with doxorubicin, bleomycin, vinblastine, and dacarbazine followed by radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Unfavorable prognostic factors for early-stage Hodgkin lymphoma include the presence of a large mediastinal mass, an elevated sedimentation rate, involvement of multiple nodal sites, extranodal involvement, age 50 years and older, or massive splenic disease. The combination of chemotherapy and irradiation is associated with a high rate of cure in early-stage disease, even with adverse prognostic features. Using both modalities in combination has allowed for high cure rates while using shorter courses of chemotherapy (two to four cycles) and lower cumulative doses of radiation given to smaller fields, thus minimizing the potential for long-term toxicities. Chemotherapy alone could also be an appropriate option for this patient, avoiding irradiation entirely, if she has a complete metabolic response by interim PET/CT after two to three cycles of treatment (risk-adapted therapy). Avoiding radiation therapy may be associated with a slightly higher risk of relapse but avoids the risk of late radiation therapy–induced toxicities."
+]
+},
+{
+"type":"p",
+"hlId":"af39a6",
+"children":[
+"Treatment with checkpoint inhibitors such as nivolumab and pembrolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be considered for patients experiencing a second or later relapse and those who relapse after autologous hematopoietic stem cell transplantation. Combination chemotherapy and irradiation, or in some instances, chemotherapy alone is the preferred first-line therapy and is associated with nearly a 75% cure rate."
+]
+},
+{
+"type":"p",
+"hlId":"26d94d",
+"children":[
+"Chemotherapy with ifosfamide, carboplatin, and etoposide followed by autologous hematopoietic stem cell transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an option for patients with relapsed, refractory Hodgkin lymphoma, but this is a salvage approach and is not used as first-line treatment."
+]
+},
+{
+"type":"p",
+"hlId":"41d33b",
+"children":[
+"Although radiation therapy alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be curative for early-stage classical Hodgkin lymphoma, the cure rate is higher with the addition of chemotherapy. Furthermore, older studies using radiation therapy alone, with larger fields and higher doses, were associated with an increased risk of late second malignancies as well as organ (cardiac, pulmonary, thyroid) dysfunction. Thus, essentially all patients with early-stage Hodgkin lymphoma currently receive chemotherapy as part of their treatment."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_5",
+"objective":{
+"__html":"Treat early-stage Hodgkin lymphoma."
+},
+"references":[
+[
+"Ansell SM. Hodgkin lymphoma: 2018 update on diagnosis, risk-stratification, and management. Am J Hematol. 2018;93:704-15. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29634090",
+"target":"_blank"
+},
+"children":[
+"PMID: 29634090"
+]
+},
+" doi:10.1002/ajh.25071"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":17,
+"C":73,
+"D":7,
+"E":0
+},
+"hlIds":[
+"2e0282",
+"a3889d",
+"574aa5",
+"205f18",
+"cb2b54",
+"9de3ed",
+"19b529",
+"dd48b0",
+"af39a6",
+"26d94d",
+"41d33b"
+]
+}

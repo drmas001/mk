@@ -1,0 +1,198 @@
+{
+"id":"mk19_b_cv_q096",
+"number":96,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e77255",
+"children":[
+"A 68-year-old man is evaluated for increasingly frequent angina. One month ago, coronary angiography was performed because of the occurrence of angina at lower levels of exertion. It showed diffuse coronary disease without lesions amenable to revascularization and preserved left ventricular function. Following coronary angiography, the patient increased his dosage of isosorbide mononitrate to twice daily; however, his exertional chest discomfort worsened. He also has hypertension and diabetes mellitus. Previously, diltiazem was substituted for metoprolol because of intolerance. Medications are aspirin, metformin, liraglutide, atorvastatin, lisinopril, diltiazem, and isosorbide mononitrate."
+]
+},
+{
+"type":"p",
+"hlId":"d33f63",
+"children":[
+"On physical examination, blood pressure is 135/80 mm Hg, pulse rate is 67/min, and respiration rate is 18/min. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"bd6b80",
+"children":[
+"ECG shows sinus rhythm and nonspecific intraventricular conduction delay, unchanged from 1 month ago."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add amlodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Decrease lisinopril dosage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Reduce isosorbide mononitrate dosage to once daily"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat coronary angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f364b7",
+"children":[
+"Long-acting nitrates provide a constant level of vasodilation and symptom relief throughout the day, but a daily nitrate-free interval is required to avoid tolerance."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e74d8a",
+"children":[
+"Once-daily isosorbide mononitrate dosing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate management. Nitrates improve myocardial oxygen delivery through coronary vasodilation and decrease oxygen consumption by reducing preload. They are an important component of anginal symptom control. Long-acting nitrates, such as isosorbide mononitrate and patch formulations, provide a constant level of vasodilation and symptom relief throughout the day. However, a nitrate-free interval of 8 to 12 hours daily is required to avoid nitrate tolerance, the clinically apparent effect of prolonged nitrate exposure reducing nitrate efficacy. This patient has experienced an increase in anginal symptoms with an increase of isosorbide mononitrate to twice-daily dosing, and the most reasonable next step is to decrease the frequency of administration to once daily to restore a nitrate-free interval and nitrate's beneficial effects on blood pressure and symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"21354f",
+"children":[
+"Calcium channel blockade may be useful in patients with angina who are symptomatic despite β-blocker therapy or have intolerance to β-blockers. This patient is already taking the nondihydropyridine calcium channel blocker diltiazem for blood pressure and rate control, and given his persistent hypertension (goal systolic blood pressure <130 mm Hg), it would be reasonable to increase diltiazem before adding a dihydropyridine calcium channel blocker, such as amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), as long as the resting heart rate remains above 55/min. However, the patient's blood pressure may reach target by reducing isosorbide mononitrate to restore the effectiveness of the drug on his blood pressure and anginal symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"d9ef5f",
+"children":[
+"Treatment for hypertension should include drug classes demonstrated to reduce cardiovascular events in patients with diabetes mellitus. ACE inhibitors or angiotensin receptor blockers are recommended as first-line therapy for hypertension in patients with diabetes and coronary artery disease. A reduction in the lisinopril dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated; an increase in dosage may be indicated to attain the desired systolic blood pressure goal of less than 130 mm Hg if the patient does not respond to isosorbide mononitrate dosage reduction."
+]
+},
+{
+"type":"p",
+"hlId":"f632ab",
+"children":[
+"Coronary angiography is an invasive procedure that carries risk for contrast nephropathy or reactions, vascular complications (1% to 2%), myocardial infarction (0.1%), stroke (<0.1%), or death (0.1%). It should be reserved for patients with unstable or medically refractory symptoms and uncertain anatomy. Given this patient's recently documented nonrevascularizable coronary artery disease without clinical findings or features suggesting acute coronary syndrome, repeat coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_1_2_2",
+"objective":{
+"__html":"Manage nitrate tolerance by reducing the dose frequency."
+},
+"references":[
+[
+"Katz D, Gavin MC. Stable ischemic heart disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201908060",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31382288",
+"target":"_blank"
+},
+"children":[
+"PMID: 31382288"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":4,
+"C":53,
+"D":22,
+"E":0
+},
+"hlIds":[
+"e77255",
+"d33f63",
+"bd6b80",
+"cb2b54",
+"f364b7",
+"e74d8a",
+"21354f",
+"d9ef5f",
+"f632ab"
+]
+}

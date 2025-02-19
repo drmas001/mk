@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_on_q065",
+"number":65,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4b1804",
+"children":[
+"A 62-year-old woman is evaluated for left lower pelvic pain for the last 3 months. Family history is significant for ovarian cancer in her mother at age 51 years and triple-negative breast cancer in her sister at age 42 years."
+]
+},
+{
+"type":"p",
+"hlId":"9f049d",
+"children":[
+"On physical examination, vital signs are normal. Pelvic examination is notable for a left adnexal mass."
+]
+},
+{
+"type":"p",
+"hlId":"d3c8de",
+"children":[
+"Results of laboratory studies show a CA-125 level of 135 U/mL (normal, <20 U/mL). Complete blood count and liver chemistry test results are normal."
+]
+},
+{
+"type":"p",
+"hlId":"634e32",
+"children":[
+"CT scan of the chest, abdomen, and pelvis reveals an 8-cm left adnexal mass. There is no evidence of abdominal or pelvic adenopathy or distant metastases."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>BRCA1/</i>2 testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT-guided biopsy of the mass"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neoadjuvant chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical removal of the mass"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"242fbc",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" testing is recommended for all patients with ovarian cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fcc433",
+"children":[
+"Surgical exploration is recommended for diagnosis of early ovarian cancer; removing the ovarian cancer intact without rupture improves survival."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa64bb",
+"children":[
+"This patient appears to have stage I ovarian cancer (confined to the ovary) and should therefore be referred to a gynecologic oncologist for surgical removal of the mass (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Removal of the tumor intact is associated with improved survival. The patient should undergo comprehensive surgical staging to evaluate for additional disease that would upstage the patient. This procedure is usually performed through a laparotomy and involves inspection of the peritoneal cavity including the paracolic gutters, dome of the diaphragm, lymph node sampling, omentectomy, and peritoneal washings. Gynecologic oncologists are more likely to optimally cytoreduce patients with ovarian cancer than those without specific training in gynecologic oncology."
+]
+},
+{
+"type":"p",
+"hlId":"f1d44a",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is recommended for all patients with ovarian cancer, but the first step in this patient's evaluation is to establish a diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"fed263",
+"children":[
+"CT-guided biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be performed for an isolated adnexal mass, in part to avoid rupture of the tumor, and instead a surgical procedure should be performed to resect the tumor intact and to perform comprehensive staging. A CT-guided biopsy is an appropriate diagnostic procedure for a patient who presents with advanced ovarian cancer in which there is radiographic evidence of spread in the peritoneum or to a distant site, and which is not amenable to surgical resection. In this case, the patient may undergo an initial biopsy followed by neoadjuvant chemotherapy to facilitate optimal debulking surgery."
+]
+},
+{
+"type":"p",
+"hlId":"8e1f24",
+"children":[
+"According to recent guidelines by the American Society of Clinical Oncology and Society of Gynecologic Oncology, patients with stage IIIC or IV ovarian cancer who are at high perioperative risk or who have a low likelihood of optimal tumor debulking should receive neoadjuvant chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") followed by reevaluation for cytoreductive surgery. Tumors that involve the porta hepatis, have metastasized to the liver or lungs, or that cause massive ascites are examples of disease that might be best treated with neoadjuvant chemotherapy. This patient appears to have an isolated adnexal mass, which is best treated with surgical removal by a gynecologic oncologist."
+]
+}
+],
+"relatedSection":"mk19_a_on_s3_3",
+"objective":{
+"__html":"Diagnose a patient with an ovarian mass."
+},
+"references":[
+[
+"Walker M, Sobel M. Diagnosing ovarian cancer. CMAJ. 2018;190:E1259. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30348741",
+"target":"_blank"
+},
+"children":[
+"PMID: 30348741"
+]
+},
+" doi:10.1503/cmaj.180499"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":19,
+"C":6,
+"D":56,
+"E":0
+},
+"hlIds":[
+"4b1804",
+"9f049d",
+"d3c8de",
+"634e32",
+"e15e9d",
+"242fbc",
+"fcc433",
+"aa64bb",
+"f1d44a",
+"fed263",
+"8e1f24"
+]
+}

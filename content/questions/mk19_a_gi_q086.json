@@ -1,0 +1,217 @@
+{
+"id":"mk19_a_gi_q086",
+"number":86,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"456367",
+"children":[
+"A 56-year-old man is evaluated for a 2-day history of mild watery diarrhea occurring two or three times daily. He has not lost weight. Two days before symptoms developed, he returned from a 2-week trip to Southeast Asia."
+]
+},
+{
+"type":"p",
+"hlId":"0a446a",
+"children":[
+"On physical examination, temperature is 37.4 °C (99.4 °F), blood pressure is 120/80 mm Hg, pulse rate is 92/min, and respiration rate is 16/min. Abdomen is soft, nontender, and nondistended. Bowel sounds are normal."
+]
+},
+{
+"type":"p",
+"hlId":"26e698",
+"children":[
+"Information regarding oral rehydration therapy is provided."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Levofloxacin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Loperamide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stool culture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stool molecular testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c6f947",
+"hvc":true,
+"children":[
+"Antimotility drugs, such as loperamide, can be used in patients with mild or moderate traveler's nondysenteric diarrhea and as adjuvant therapy in patients treated with antibiotics."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e8341a",
+"hvc":true,
+"children":[
+"Antibiotics are not recommended for mild traveler's diarrhea."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7238ce",
+"children":[
+"The most appropriate treatment is loperamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In the setting of recent travel, the most likely cause of acute diarrhea is infectious, with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" being the most common agent. Viral (e.g., noroviruses) and protozoal (e.g., ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Entamoeba histolytica, Giardia duodenalis"
+]
+},
+") pathogens are also possibilities. Traveler's diarrhea usually occurs within the first 2 weeks of travel and is usually self-limited, lasting about 4 days; however, life-threatening volume depletion or severe colitis with systemic manifestations can occur. Some travelers develop chronic diarrhea or a postinfective irritable bowel syndrome. Fluid replacement is the mainstay of treatment, preferably by the oral route, with solutions that contain water, salt, and sugar. Antimotility drugs such as loperamide and diphenoxylate can be used in patients with mild or moderate traveler's diarrhea and as adjuvant therapy in patients treated with antibiotics. Antimotility drugs should be avoided in patients with dysentery (severe diarrhea and bloody stools). Bismuth is another appropriate treatment for traveler's diarrhea because of its antimotility and antimicrobial effects."
+]
+},
+{
+"type":"p",
+"hlId":"bfa860",
+"children":[
+"Widespread use of antibiotics for traveler's diarrhea has been associated with the acquisition of multidrug-resistant bacteria. Therefore, antimicrobials are recommended only for moderate or severe disease. Treatment with azithromycin (preferred for travel to South Asia and Southeast Asia) or a fluoroquinolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") (with increasing concern for resistance and adverse reactions) is recommended for moderate to severe traveler's diarrhea. Rifaximin and rifamycin are minimally absorbed oral antibiotic alternatives. Neither rifaximin nor fluoroquinolone antibiotics are used in patients with dysentery."
+]
+},
+{
+"type":"p",
+"hlId":"aa6d11",
+"children":[
+"Stool culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in patients with mild traveler's diarrhea because it is typically a self-limited illness. This patient with a 2-day illness can expect the diarrhea to improve in another 1 to 2 days. Microbiologic testing is recommended in returning travelers with severe or persistent symptoms or those for whom empiric therapy fails."
+]
+},
+{
+"type":"p",
+"hlId":"b4aa6b",
+"children":[
+"Stool molecular testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), aimed at a broad range of clinically relevant pathogens, is preferred when rapid results are clinically important or nonmolecular tests have not established a diagnosis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_1_2",
+"objective":{
+"__html":"Manage mild, travel-related diarrhea."
+},
+"references":[
+[
+"Riddle MS, Connor BA, Beeching NJ, et al. Guidelines for the prevention and treatment of travelers' diarrhea: a graded expert panel report. J Travel Med. 2017;24:S57-S74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28521004",
+"target":"_blank"
+},
+"children":[
+"PMID: 28521004"
+]
+},
+" doi:10.1093/jtm/tax026"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":17,
+"B":27,
+"C":43,
+"D":12,
+"E":0
+},
+"hlIds":[
+"456367",
+"0a446a",
+"26e698",
+"1e31fb",
+"c6f947",
+"e8341a",
+"7238ce",
+"bfa860",
+"aa6d11",
+"b4aa6b"
+]
+}

@@ -1,0 +1,302 @@
+{
+"id":"mk19_b_en_q048",
+"number":48,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2ef0e2",
+"children":[
+"A 56-year-old man is evaluated in the hospital for abnormal thyroid function studies. He was hospitalized 1 week ago for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" urosepsis. Because of persistent hypothermia and bradycardia, thyroid function tests were obtained. Current treatment consists of 0.9% saline infusion, norepinephrine, and ceftriaxone."
+]
+},
+{
+"type":"p",
+"hlId":"14d1c1",
+"children":[
+"On physical examination, temperature is 36.5 °C (97.8 °F), blood pressure is 90/50 mm Hg, and pulse rate is 100/min. The patient has normal deep tendon reflexes, no thyroid goiter and no proptosis are noted, and his skin is cool and dry."
+]
+},
+{
+"type":"p",
+"hlId":"56e8c0",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" level is 0.11 μU/L (0.11 mU/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level is 0.8 ng/dL (10.3 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate levothyroxine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate methimazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pituitary MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid testing after recovery"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a6239c",
+"hvc":true,
+"children":[
+"In general, thyroid function should not be assessed in hospitalized patients unless the clinical suspicion of thyroid dysfunction is high."
+]
+},
+{
+"type":"keypoint",
+"hlId":"19a464",
+"hvc":true,
+"children":[
+"Nonthyroidal illness suppresses thyrotropin-releasing hormone, which typically results in suppressed but detectable thyroid-stimulating hormone; thyroxine is typically low normal."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"721f10",
+"children":[
+"The most appropriate management is to repeat thyroid function tests after recovery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") from the current illness. In general, thyroid function should not be assessed in hospitalized patients unless clinical suspicion of thyroid dysfunction is high. This critically ill patient has abnormal thyroid function tests because of nonthyroidal illness syndrome (NTIS). NTIS commonly occurs in patients who are hospitalized and critically ill. Up to 75% of hospitalized patients have thyroid function test abnormalities. Nonthyroidal illness suppresses thyrotropin-releasing hormone, which typically results in suppressed but detectable thyroid-stimulating hormone (TSH) level. An undetectable TSH is inconsistent with NTIS. Infrequently, TSH can be mildly elevated in NTIS, but a TSH level of 20 μU/mL (20 mU/L) or greater is inconsistent with NTIS. Free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") is typically normal, but because of decreased deiodinase activity in T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" metabolism, T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" decreases and reverse T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" (biologically inactive) increases. Thyroid-binding globulin decreases in illness, lowering the total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" levels. NTIS can be interpreted as an adaptive response to systemic illness and macronutrient restriction. In addition, in patients receiving dopamine, TSH synthesis or release may also be inhibited. If NTIS is diagnosed, TSH should be rechecked approximately 6 weeks after the patient has recovered from the nonthyroidal illness to assess for return to normal."
+]
+},
+{
+"type":"p",
+"hlId":"e4f6b0",
+"children":[
+"Levothyroxine initiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be helpful in primary hypothyroidism or for a patient with known or strong predisposition to central hypothyroidism. Neither is likely for this patient given the clinical circumstances."
+]
+},
+{
+"type":"p",
+"hlId":"885524",
+"children":[
+"Methimazole initiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful for treating hyperthyroidism that is diagnosed with a suppressed TSH and elevated free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+". The laboratory tests are inconsistent with hyperthyroidism."
+]
+},
+{
+"type":"p",
+"hlId":"04ccad",
+"children":[
+"A pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unlikely to be helpful in this patient who has no significant evidence of thyroid disease. His current thyroid function test pattern mimics central hypothyroidism with a low free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and inappropriately low TSH. If this pattern persists after recovery from the current illness, a pituitary MRI would be helpful to assess for central hypothyroidism."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_7",
+"objective":{
+"__html":"Manage nonthyroidal illness syndrome."
+},
+"references":[
+[
+"Langouche L, Jacobs A, Van den Berghe G. Nonthyroidal illness syndrome across the ages. J Endocr Soc. 2019;3:2313-2325. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31745528",
+"target":"_blank"
+},
+"children":[
+"PMID: 31745528"
+]
+},
+" doi:10.1210/js.2019-00325"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":1,
+"C":5,
+"D":89,
+"E":0
+},
+"hlIds":[
+"2ef0e2",
+"14d1c1",
+"56e8c0",
+"cb2b54",
+"a6239c",
+"19a464",
+"721f10",
+"e4f6b0",
+"885524",
+"04ccad"
+]
+}

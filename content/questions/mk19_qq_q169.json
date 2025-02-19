@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q169",
+"number":169,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 169",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d03484",
+"children":[
+"A 21-year-old man is evaluated for abdominal pain and vomiting that began yesterday morning after 3 days of cough and fever. He has type 1 diabetes mellitus and has not taken insulin in 24 hours."
+]
+},
+{
+"type":"p",
+"hlId":"03dc9c",
+"children":[
+"Blood pressure is 94/64 mm Hg, pulse rate is 118/min, and respiration rate is 30/min. He is lethargic. His breath has a fruity odor; decreased skin turgor and dry oral mucosa are present. Abdominal examination shows generalized tenderness."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"031968",
+"children":[
+"In addition to serum glucose measurement, which of the following laboratory tests will establish the diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Serum electrolytes and arterial blood gases (ABGs)"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Serum electrolytes, ketones, and ABGs"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serum electrolytes, phosphate, and ABGs"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum ketones and bicarbonate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e0bd55",
+"children":[
+"The diagnosis of diabetic ketoacidosis is typically based on a blood glucose level greater than 250 mg/dL (13.9 mmol/L), increased anion gap metabolic acidosis (arterial pH <7.3), a serum bicarbonate level of 18 mEq/L (18 mmol/L) or less, and presence of serum or urine ketones."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fa674e",
+"children":[
+"This patient has diabetic ketoacidosis (DKA), and the tests to establish the diagnosis are measurement of serum glucose, electrolytes, ketones, and arterial blood gases (ABGs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The most life-threatening acute complication of diabetes mellitus is DKA, which mostly affects patients with type 1 diabetes younger than 65 years and is sometimes its presenting manifestation. DKA is associated with hyperglycemia (350-1000 mg/dL [19.4-56 mmol/L]) and must be treated early and aggressively to avoid life-threatening consequences caused by dehydration and electrolyte abnormalities. At presentation, patients with DKA usually report a several-day history of polyuria, polydipsia, and blurred vision, culminating in nausea, vomiting, abdominal pain, dyspnea, and altered mental status. Physical examination typically reveals deep, labored breathing (Kussmaul respirations); a fruity odor to the breath (from acetone); poor skin turgor; tachycardia; and hypotension. This complication may occur as a result of precipitating acute stresses, such as infections (influenza, pneumonia, or gastroenteritis) or acute myocardial infarction; in patients with insulin pumps, when a technical interruption of insulin infusion occurs; and in patients who are nonadherent to their medication regimen. In almost all instances, DKA is entirely preventable if patients practice regular glucose monitoring and understand the need for increased insulin doses during acute stress events. The diagnosis of DKA is typically based on a blood glucose level greater than 250 mg/dL (13.9 mmol/L), increased anion gap metabolic acidosis (arterial pH <7.3), a serum bicarbonate level of 18 mEq/L (18 mmol/L) or less, and presence of serum or urine ketones."
+]
+},
+{
+"type":"p",
+"hlId":"e85057",
+"children":[
+"Serum electrolytes and ABGs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will help diagnose the presence of an increased anion gap metabolic acidosis but will not confirm the cause of the acid-base disturbance."
+]
+},
+{
+"type":"p",
+"hlId":"085734",
+"children":[
+"Phosphate concentrations (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C"
+]
+},
+") are often normal early in DKA and decline with therapy. Phosphate concentrations are not useful in the diagnosis of DKA."
+]
+},
+{
+"type":"p",
+"hlId":"4e5db3",
+"children":[
+"Serum ketones and bicarbonate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") suggest the presence of acidosis but not its nature or cause."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_4_1",
+"objective":{
+"__html":"Diagnose diabetic ketoacidosis."
+},
+"references":[
+[
+"American Diabetes Association. 15. Diabetes care in the hospital: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S211-S220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298426",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298426"
+]
+},
+" doi:10.2337/dc21-S015"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d03484",
+"03dc9c",
+"031968",
+"e0bd55",
+"fa674e",
+"e85057",
+"085734",
+"4e5db3"
+]
+}

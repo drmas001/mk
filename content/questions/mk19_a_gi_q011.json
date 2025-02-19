@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gi_q011",
+"number":11,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4061ef",
+"children":[
+"A 22-year-old man is evaluated in the office for hepatitis A virus (HAV) exposure that occurred 5 days ago. The source of exposure is the patient's college roommate, who is now at home recovering from the illness. The patient's mother has confirmed he has never been vaccinated against HAV."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d39069",
+"children":[
+"Which of the following is the most appropriate preventive measure?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis A virus vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"HAV immune globulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"HAV vaccine and HAV immune globulin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No preventive measures"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c06442",
+"children":[
+"Nonimmune persons exposed to hepatitis A virus (HAV) should receive postexposure prophylaxis with HAV vaccine as soon as possible after exposure."
+]
+},
+{
+"type":"keypoint",
+"hlId":"dab0e9",
+"children":[
+"Postexposure prophylaxis with both HAV vaccine and HAV immune globulin may be considered for nonimmune patients older than 40 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e2bd6c",
+"children":[
+"The most appropriate preventive measure is administration of the hepatitis A virus (HAV) vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). HAV is transmitted by the fecal–oral route and causes a self-limited illness. Risk factors for transmission include international travel, contact with household members with HAV infection, men who have sex with men, homelessness, and exposure to day care or institutionalized settings. HAV incidence declined dramatically after introduction of universal childhood HAV vaccination, but rates have recently increased among unvaccinated people, especially those reporting homelessness or drug use. This unvaccinated patient has been exposed to a roommate with acute HAV infection and so is at risk for infection. Persons who have recently been exposed to HAV and have not been immunized should receive postexposure prophylaxis, consisting of the HAV vaccine, as soon as possible after exposure, preferably within 2 weeks. The HAV vaccine is recommended for prophylaxis in persons aged 12 months or older. For long-term immunity, the HAV vaccine series should be completed with a second dose at least 6 months after the first dose; however, the second dose is not necessary for postexposure prophylaxis."
+]
+},
+{
+"type":"p",
+"hlId":"eea9cd",
+"children":[
+"According to the CDC, the HAV vaccine for postexposure prophylaxis provides numerous public health advantages compared with HAV immune globulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), including the induction of active immunity and longer duration of protection, ease of administration, and greater acceptability and availability."
+]
+},
+{
+"type":"p",
+"hlId":"0c7fba",
+"children":[
+"For exposed patients older than 40 years, HAV vaccine and HAV immune globulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be coadministered, depending on individual risk assessment. Combined therapy (administered at different sites) is a consideration because of the limited vaccine efficacy in this age group and the greater severity of illness in older adults. HAV immune globulin may also be administered to persons at high risk for complications, including those with chronic liver disease and immunosuppression. Because this young patient does not have these risk factors, HAV immune globulin is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"fc0dec",
+"children":[
+"Although HAV infection is usually a self-limited illness, patients may experience considerable morbidity; fulminant hepatic failure, although rare, can occur. Postexposure vaccination will effectively prevent infection in this patient and is recommended rather than providing no preventive measures (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_2_1",
+"objective":{
+"__html":"Prevent transmission of hepatitis A virus."
+},
+"references":[
+[
+"Nelson NP, Link-Gelles R, Hofmeister MG, et al. Update: recommendations of the Advisory Committee on Immunization Practices for use of hepatitis A vaccine for postexposure prophylaxis and for preexposure prophylaxis for international travel. MMWR Morb Mortal Wkly Rep. 2018;67:1216-1220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30383742",
+"target":"_blank"
+},
+"children":[
+"PMID: 30383742"
+]
+},
+" doi:10.15585/mmwr.mm6743a5"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":34,
+"B":7,
+"C":45,
+"D":15,
+"E":0
+},
+"hlIds":[
+"4061ef",
+"f78abf",
+"d39069",
+"c06442",
+"dab0e9",
+"e2bd6c",
+"eea9cd",
+"0c7fba",
+"fc0dec"
+]
+}

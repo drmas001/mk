@@ -1,0 +1,161 @@
+{
+"id":"mk19_b_gm_q011",
+"number":11,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a870c7",
+"children":[
+"A 62-year-old woman is seen for a preoperative evaluation before right knee arthroplasty. She has osteoarthritis of the knee and also has a history of rheumatoid arthritis. Medications are topical diclofenac, methotrexate, folic acid, and adalimumab. Other than the right knee, she reports no active joint symptoms; her rheumatoid arthritis is in remission."
+]
+},
+{
+"type":"p",
+"hlId":"fbc5c5",
+"children":[
+"On physical examination, vital signs are normal. There is chronic synovial hypertrophy of the metacarpophalangeal joints. Hand joints are not warm or swollen. There is medial joint line tenderness and crepitus in right knee."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cc3f23",
+"children":[
+"Which of the following is the most appropriate perioperative medication management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue methotrexate and adalimumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue methotrexate and hold adalimumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hold methotrexate and adalimumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hold methotrexate and continue adalimumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"075fff",
+"children":[
+"All nonbiologic disease-modifying antirheumatic drugs should be continued throughout the perioperative period in patients with rheumatologic disease undergoing elective arthroplasty."
+]
+},
+{
+"type":"keypoint",
+"hlId":"55bca4",
+"children":[
+"Biologic agents should be withheld for one dosing cycle preoperatively, before arthroplasty, with surgery performed at the end of the cycle and resumed when the wound shows evidence of healing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f9e710",
+"children":[
+"The most appropriate perioperative management of this patient's antirheumatic regimen is to continue methotrexate and hold adalimumab for 2 weeks before and after surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Owing to both their disease and its treatment, patients with rheumatologic disease undergoing elective surgery are at higher risk for perioperative infectious complications, including risk for peri–prosthetic joint infection in total joint arthroplasties of the hip and knee. Appropriate management of antirheumatic medication in the perioperative period mitigates this risk. Elective surgery should be delayed until the underlying disease is controlled and preferably in remission, because this is associated with reduced infection risk and improved outcomes. All nonbiologic disease-modifying antirheumatic drugs (DMARDs) should be continued throughout the perioperative period in patients undergoing elective joint replacement. Evidence suggests that continuing DMARDs is associated with a lower risk for infections versus discontinuing DMARDs at the time of surgery. Disease flares are also less frequent after surgery in patients who continue DMARDs perioperatively. Biologic agents, such as adalimumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), should be withheld for one dosing cycle before the surgery, with surgery performed at the end of the cycle. Janus kinase inhibitors, such as tofacitinib, should be withheld for at least 7 days before surgery. Once the operative wound shows evidence of healing (typically around 14 days), agents that have been withheld should be resumed at the previously established dose."
+]
+},
+{
+"type":"p",
+"hlId":"3e1a37",
+"children":[
+"This patient has well-controlled disease, and proceeding with elective knee replacement surgery is acceptable. The DMARD methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") should be continued throughout the perioperative period, and adalimumab, a biologic usually dosed every 2 weeks, should be held for 2 weeks before the surgery and resumed approximately 2 weeks after surgery."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_9_1",
+"objective":{
+"__html":"Manage antirheumatic therapy during the perioperative period."
+},
+"references":[
+[
+"Goodman SM, Springer B, Guyatt G, et al. 2017 American College of Rheumatology/American Association of Hip and Knee Surgeons guideline for the perioperative management of antirheumatic medication in patients with rheumatic diseases undergoing elective total hip or total knee arthroplasty. Arthritis Rheumatol. 2017;69:1538-51. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28620948",
+"target":"_blank"
+},
+"children":[
+"PMID: 28620948"
+]
+},
+" doi:10.1002/art.40149"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":30,
+"B":40,
+"C":22,
+"D":8,
+"E":0
+},
+"hlIds":[
+"a870c7",
+"fbc5c5",
+"cc3f23",
+"075fff",
+"55bca4",
+"f9e710",
+"3e1a37"
+]
+}

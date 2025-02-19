@@ -1,0 +1,231 @@
+{
+"id":"mk19_a_gi_q068",
+"number":68,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dfbdb9",
+"children":[
+"A 49-year-old man is hospitalized for a 1-day history of melenic stools. He is taking ibuprofen daily to prevent migraine headaches."
+]
+},
+{
+"type":"p",
+"hlId":"67acc4",
+"children":[
+"On physical examination, vital signs and physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"b7f861",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 11.2 g/dL (112 g/dL)."
+]
+},
+{
+"type":"p",
+"hlId":"096375",
+"children":[
+"Upper endoscopy shows a 1.5-cm, clean-based, superficial duodenal ulcer. Findings from gastric biopsy specimens for assessment of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection are pending."
+]
+},
+{
+"type":"p",
+"hlId":"0c7895",
+"children":[
+"Ibuprofen is stopped."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous proton pump inhibitor (PPI) and hospital observation for 72 hours"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Once-daily oral PPI, feeding, and hospital discharge"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Once-daily oral PPI, no feeding, and hospital observation for 72 hours"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy repeated in 24 hours"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e88716",
+"hvc":true,
+"children":[
+"NSAIDs should be discontinued in patients with NSAID-induced bleeding peptic ulcer disease; if treatment must be continued, a selective cyclooxygenase-2 inhibitor plus a once-daily proton pump inhibitor should be used."
+]
+},
+{
+"type":"keypoint",
+"hlId":"dedae2",
+"hvc":true,
+"children":[
+"Patients with peptic ulcer disease and low risk for rebleeding (clean-based ulcer, ulcers with pigmented spots) can start oral feeding within 24 hours of endoscopy, receive once-daily oral proton pump inhibitor therapy, and be discharged from the hospital."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f99f6e",
+"children":[
+"The most appropriate management for this patient with upper gastrointestinal bleeding due to a low-risk duodenal ulcer is a once-daily oral proton pump inhibitor (PPI), initiation of oral intake of food, and early planning for hospital discharge (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In patients with bleeding peptic ulcer disease, factors that increase the risk for recurrent bleeding and death include tachycardia, hypotension, age older than 60 years, hemoglobin level less than 7 g/dL (70 g/L) (8 g/dL [80 g/L] in patients with cardiovascular disease), and comorbid illness. This young patient is otherwise healthy, has a hemoglobin level above 7 g/dL (70 g/L), and is hemodynamically stable. Upper endoscopy for risk stratification revealed a clean-based ulcer, which is a predictor of low risk for recurrent hemorrhage. The other lesion at low risk for rebleeding includes an ulcer with a pigmented spot. These low-risk lesions do not require endoscopic therapy. Patients with peptic ulcer disease and low-risk stigmata can start oral feeding within 24 hours of endoscopy, receive once-daily oral PPI therapy, and be discharged from the hospital. NSAIDs should be discontinued in patients with NSAID-induced bleeding peptic ulcer disease. If there is no effective alternative to NSAIDs, a selective cyclooxygenase-2 inhibitor plus a once-daily PPI should be used."
+]
+},
+{
+"type":"p",
+"hlId":"942c7d",
+"children":[
+"Intravenous PPI therapy and hospital observation for 72 hours (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be appropriate for patients with high-risk lesions. Lesions at high risk for recurrent bleeding that require endoscopic treatment include actively bleeding peptic ulcers, ulcers with nonbleeding visible vessels, and ulcers with adherent clots. An adherent clot should be irrigated with the intention of removing the clot; if clot removal is successful, the underlying stigmata is addressed. In this patient, intravenous PPI therapy plus hospital observation for 72 hours is not an appropriate management strategy given the low risk for rebleeding from a clean-based ulcer."
+]
+},
+{
+"type":"p",
+"hlId":"24490f",
+"children":[
+"Once-daily oral PPI, no feeding, and hospital observation for 72 hours (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is insufficient therapy for high-risk lesions and is unnecessary in patients with low-risk lesions."
+]
+},
+{
+"type":"p",
+"hlId":"0d0c21",
+"children":[
+"If bleeding recurs, endoscopic therapy should be repeated, but routine second-look endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_2_3_3",
+"objective":{
+"__html":"Manage low-risk upper gastrointestinal bleeding."
+},
+"references":[
+[
+"Laine L, Barkun AN, Saltzman JR, et al. ACG clinical guideline: upper gastrointestinal and ulcer bleeding. Am J Gastroenterol. 2021;116:899-917. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33929377",
+"target":"_blank"
+},
+"children":[
+"PMID: 33929377"
+]
+},
+" doi:10.14309/ajg.0000000000001245"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":20,
+"B":77,
+"C":3,
+"D":0,
+"E":0
+},
+"hlIds":[
+"dfbdb9",
+"67acc4",
+"b7f861",
+"096375",
+"0c7895",
+"cb2b54",
+"e88716",
+"dedae2",
+"f99f6e",
+"942c7d",
+"24490f",
+"0d0c21"
+]
+}

@@ -1,0 +1,235 @@
+{
+"id":"mk19_b_en_q007",
+"number":7,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f0c0e",
+"children":[
+"A 38-year-old-woman is evaluated for a 9-month history of oligomenorrhea, a deepening voice, and increased body hair. Her last menses was 3 months ago. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"e6cebe",
+"children":[
+"On physical examination, vital signs are normal. She has frontal hair loss and coarse dark hairs on her chin and chest. Larynx appears larger than normal. Clitoromegaly is present on pelvic examination."
+]
+},
+{
+"type":"p",
+"hlId":"840948",
+"children":[
+"Laboratory studies show a negative pregnancy test, a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Dehydroepiandrosterone sulfate (DHEAS), plasma",
+"children":[
+"dehydroepiandrosterone sulfate"
+]
+},
+" level of 910 μg/dL (24.7 μmol/L), and a total ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"testosterone"
+]
+},
+" level of 97 ng/dL (3.4 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Adrenal vein sampling"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ovarian vein sampling"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pelvic ultrasonography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Pituitary MRI"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0eb96e",
+"children":[
+"For new-onset hyperandrogenism, ovarian and adrenal sources of androgen excess should be considered."
+]
+},
+{
+"type":"keypoint",
+"hlId":"46565b",
+"children":[
+"A markedly elevated dehydroepiandrosterone sulfate level in a patient with hyperandrogenism is indicative of an adrenal source."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2fab54",
+"children":[
+"The most appropriate test to perform next is abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is premenopausal and has new-onset hyperandrogenism; therefore, both ovarian and adrenal sources of androgen excess should be considered. This combination of a markedly elevated serum dehydroepiandrosterone sulfate (DHEAS) level and mildly elevated serum testosterone level suggests an adrenal source, given that the adrenal glands are the major source of DHEAS. An abdominal CT is recommended when the serum DHEAS value is greater than 700 μg/dL (19.0 μmol/L). Androgen-producing adrenal tumors are rare and lead to menstrual irregularities and virilization in women, including hirsutism, voice-deepening, increased muscle mass, increased libido, and clitoromegaly."
+]
+},
+{
+"type":"p",
+"hlId":"af39c1",
+"children":[
+"Marked elevations in DHEAS are specific to the adrenal glands, and DHEAS-secreting tumors of the adrenal gland are usually readily visible on CT. Adrenal vein sampling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to localize the tumor is rarely required; regardless, it would not be the next diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"d945f0",
+"children":[
+"Ovarian vein sampling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is rarely indicated; it is reserved for hyperandrogenism in women who are premenopausal and wish to preserve fertility and in whom an ovarian tumor is suspected but imaging results are normal. Women who are postmenopausal with ovarian hyperandrogenism, whether presumed secondary to an ovarian tumor or ovarian hyperthecosis, can forego this invasive procedure and proceed directly to bilateral oophorectomy."
+]
+},
+{
+"type":"p",
+"hlId":"eac02d",
+"children":[
+"Pelvic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended as the first imaging study if testosterone is greater than 150 ng/dL (5.2 nmol/L), which indicates that an ovarian source of hyperandrogenism is likely. This patient's markedly elevated DHEAS level and mildly elevated testosterone level make a testosterone-producing ovarian tumor less likely than an adrenal tumor. Pelvic MRI may be more sensitive at detecting small ovarian tumors and is often considered as second-line imaging when pelvic ultrasound is negative."
+]
+},
+{
+"type":"p",
+"hlId":"91a57e",
+"children":[
+"Although virilization can be seen with Cushing disease from pituitary overproduction of adrenocorticotropic hormone, it would be very unlikely to see this level of DHEAS elevation and no other signs of Cushing disease. Therefore, a pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_2_4",
+"objective":{
+"__html":"Diagnose an androgen-producing adrenal tumor."
+},
+"references":[
+[
+"Lizneva D, Gavrilova-Jordan L, Walker W, et al. Androgen excess: investigations and management. Best Pract Res Clin Obstet Gynaecol. 2016;37:98-118. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27387253",
+"target":"_blank"
+},
+"children":[
+"PMID: 27387253"
+]
+},
+" doi:10.1016/j.bpobgyn.2016.05.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":61,
+"B":8,
+"C":1,
+"D":24,
+"E":5
+},
+"hlIds":[
+"5f0c0e",
+"e6cebe",
+"840948",
+"ab9d96",
+"0eb96e",
+"46565b",
+"2fab54",
+"af39c1",
+"d945f0",
+"eac02d",
+"91a57e"
+]
+}

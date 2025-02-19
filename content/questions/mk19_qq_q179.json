@@ -1,0 +1,164 @@
+{
+"id":"mk19_qq_q179",
+"number":179,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 179",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ada5e6",
+"children":[
+"A 19-year-old man is evaluated for a 3-week history of polyuria and polydipsia. He has no other symptoms. His mother has type 1 diabetes, and his father has type 2 diabetes."
+]
+},
+{
+"type":"p",
+"hlId":"ffcfa2",
+"children":[
+"Other than a BMI of 30, physical examination is normal. Random ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level is 324 mg/dL (18 mmol/L); kidney function, electrolytes, and urine ketones are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"115a73",
+"children":[
+"Which of the following will help inform the management of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fasting plasma C-peptide level"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fasting plasma insulin level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Islet cell, insulin, and glutamic acid decarboxylase antibody titers"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stimulated plasma C-peptide level"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24fd1f",
+"children":[
+"In young patients with probable diabetes, the distinction between type 1 and type 2 diabetes should be made as soon as possible to inform the selection of proper therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b4fca0",
+"children":[
+"Among patients with newly recognized type 1 diabetes, 90% have measurable antibodies against specific β-cell proteins present at the time of diagnosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"47f8a0",
+"children":[
+"This patient's blood should be evaluated for pancreatic autoantibodies, such as islet cell antibodies (ICAs), insulin antibodies (IAs), and glutamic acid decarboxylase antibodies (GADAs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although he has obesity and his father has type 2 diabetes, he may have type 1 diabetes presenting at an earlier stage of the disease process (when he still has significant endogenous insulin secretion) because of his obesity and insulin resistance. In young patients with probable diabetes, the distinction between type 1 and type 2 diabetes should be made as soon as possible. The presence of ICAs, IAs, or GADAs is suggestive of type 1 diabetes, and he should begin receiving insulin immediately. Among patients with newly recognized type 1 diabetes, 90% have measurable antibodies against specific β-cell proteins present at the time of diagnosis. Insulin treatment in type 1 diabetes helps preserve endogenous insulin secretion for a longer period, which makes it easier to achieve excellent glycemic control without hypoglycemia. If testing does not show these antibodies, type 2 diabetes is more likely. In addition to lifestyle modifications, therapy with insulin may be required initially for this patient to control hyperglycemic symptoms, but then he may be transitioned to oral therapy, such as metformin."
+]
+},
+{
+"type":"p",
+"hlId":"c3b1a8",
+"children":[
+"Measuring this patient's plasma C-peptide level (whether fasting or stimulated) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, D"
+]
+},
+") or fasting plasma insulin level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is less helpful in distinguishing type 1 from type 2 diabetes. A person who has obesity and hyperglycemia but no ketonuria or acidosis is clearly producing sufficient endogenous insulin now. Therefore, this patient's plasma C-peptide and insulin levels will both be high, no matter which type of diabetes he has."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_3",
+"objective":{
+"__html":"Differentiate type 1 from type 2 diabetes."
+},
+"references":[
+[
+"American Diabetes Association Professional Practice Committee. 2. Classification and diagnosis of diabetes: standards of medical care in diabetes—2022. Diabetes Care. 2022;45:S17-S38. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34964875",
+"target":"_blank"
+},
+"children":[
+"PMID: 34964875"
+]
+},
+" doi:10.2337/dc22-S002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"ada5e6",
+"ffcfa2",
+"115a73",
+"24fd1f",
+"b4fca0",
+"47f8a0",
+"c3b1a8"
+]
+}

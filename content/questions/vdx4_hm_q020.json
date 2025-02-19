@@ -1,0 +1,125 @@
+{
+"id":"vdx4_hm_q020",
+"number":20,
+"bookId":"vdx_hm",
+"correctAnswer":"B",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8c698b",
+"children":[
+"An 18-year-old woman is diagnosed with anemia."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f020",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f020"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anemia of chronic inflammation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Iron deficiency anemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myelodysplastic syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Myelofibrosis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Thalassemia minor"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1737ae",
+"children":[
+"The most likely diagnosis is iron deficiency anemia. Red blood cells are normally the size of the nucleus of a small lymphocyte. In this smear, they are significantly smaller, indicating microcytosis. In addition to the microcytosis, this peripheral blood smear illustrates the other most common findings associated with iron deficiency anemia: hypochromia (increase in the central pallor of cells), poikilocytosis (changes in erythrocyte shape), and anisocytosis (changes in erythrocyte size)."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_2_1",
+"objective":{
+"__html":"Diagnose iron deficiency anemia."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f020":{
+"id":"vdx4_hm_mcq_f020",
+"number":20,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"ad601aafe607e34ee7796b684c5ab929",
+"height":639,
+"width":800,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"8c698b",
+"f3f1a8",
+"413696",
+"1737ae"
+]
+}

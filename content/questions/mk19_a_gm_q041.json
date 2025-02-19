@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q041",
+"number":41,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4c8fab",
+"children":[
+"A 72-year-old woman is evaluated for oral pain. Five years ago, she underwent treatment for squamous cell carcinoma in the oral cavity; she now shows no evidence of cancer. Her treatment course was complicated by radiation-induced osteonecrosis of the jaw. Medical history also includes hypertension and anxiety. Medications are amlodipine, chlorthalidone, immediate-release morphine (20 mg daily), bupropion, and lorazepam."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"28b814",
+"children":[
+"Which of the following poses the greatest risk for overdose and death in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amlodipine coadministration"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bupropion coadministration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lorazepam coadministration"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Morphine total dose"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Short-acting morphine formulation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"87d16e",
+"children":[
+"Major risk factors for opioid overdose include receiving more than 50 morphine milligram equivalents per day and receiving opioids and benzodiazepines concurrently."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"84ec63",
+"children":[
+"The coadministration of lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") with an opioid, in this case morphine, poses the greatest risk for overdose and death in this patient. Major risk factors for opioid overdose include receiving more than 50 morphine milligram equivalents (MME) per day and receiving opioids and benzodiazepines concurrently. In this situation, the best risk mitigation strategy is modifying the therapeutic regimen by tapering and then discontinuing lorazepam. If this cannot be done or cannot be accomplished in a reasonable amount of time, a naloxone reversal kit should be prescribed. Current recommendations are to prescribe naloxone to any patient who is receiving more than 50 MME per day, as well as to patients receiving opioids and benzodiazepines concurrently. Naloxone also should be considered for patients taking opioids with risk factors for opioid-related harms, such as elderly persons; patients with mental health conditions; and patients at risk for sleep-disordered breathing, such as those with heart failure, obstructive sleep apnea, or obesity. Household members should be informed about naloxone administration and overdose prevention."
+]
+},
+{
+"type":"p",
+"hlId":"5a0b54",
+"children":[
+"There are no potential drug-drug interactions with amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), bupropion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and morphine. The combined use of these drugs does not place the patient at increased risk for overdose or death."
+]
+},
+{
+"type":"p",
+"hlId":"b004f2",
+"children":[
+"The current total dose of morphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is below the threshold associated with increased risk for overdose and death (50 mg/d). It is the coadministration of opioids and benzodiazepines that poses the greatest risk to this patient."
+]
+},
+{
+"type":"p",
+"hlId":"49fe5b",
+"children":[
+"For most patients with chronic noncancer pain, short-acting opioids are preferred. Extended-release or long-acting opioids are typically prescribed for use in palliative care or to manage pain from cancer or other conditions characterized by persistent pain or disabling pain with significant functional impairment. The use of short-acting morphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") does not increase this patient's risk for overdose compared with longer-acting preparations."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_2_2_1",
+"objective":{
+"__html":"Decrease risk for opioid overdose."
+},
+"references":[
+[
+"Babu KM, Brent J, Juurlink DN. Prevention of opioid overdose. N Engl J Med. 2019;380:2246-55. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31167053",
+"target":"_blank"
+},
+"children":[
+"PMID: 31167053"
+]
+},
+" doi:10.1056/NEJMra1807054"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":1,
+"C":70,
+"D":12,
+"E":17
+},
+"hlIds":[
+"4c8fab",
+"28b814",
+"87d16e",
+"84ec63",
+"5a0b54",
+"b004f2",
+"49fe5b"
+]
+}

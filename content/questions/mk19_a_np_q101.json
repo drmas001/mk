@@ -1,0 +1,244 @@
+{
+"id":"mk19_a_np_q101",
+"number":101,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"490df5",
+"children":[
+"An 87-year-old man is hospitalized for the inability to void. He has a 4-year history of urinary hesitancy and dribbling. He lives alone with the assistance of a nephew but finds it increasingly difficult to live independently. He has no other medical history and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"fdb446",
+"children":[
+"On physical examination, he is thin and frail appearing. Blood pressure is 158/64 mm Hg, and pulse rate is 78/min without orthostatic changes. BMI is 22. The prostate is diffusely enlarged. There is 1+ lower extremity edema. Generalized weakness is noted. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"38edb4",
+"children":[
+"A bladder catheter drains 850 mL of urine."
+]
+},
+{
+"type":"p",
+"hlId":"e0ebce",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"blood urea nitrogen"
+]
+},
+" level of 133 mg/dL (47.5 mmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 8.9 mg/dL (786.8 µmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"316bac",
+"children":[
+"Kidney ultrasound shows an 8.3-cm right kidney and a 7.9-cm left kidney, marked cortical echogenicity and thinning, and moderate-severe hydronephrosis."
+]
+},
+{
+"type":"p",
+"hlId":"21efcc",
+"children":[
+"During the first 24 hours, urine output with the bladder catheter in place is 1240 mL. Follow-up bladder ultrasound shows less than 50 mL of residual urine. On hospital day 2 the urine output is 340 mL."
+]
+},
+{
+"type":"p",
+"hlId":"f0fc88",
+"children":[
+"On hospital day 3, the ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level is 8.2 mg/dL (724.8 µmol/L). Repeat kidney ultrasound shows persistent hydronephrosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discuss goals of care"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate intravenous 0.9% saline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain noncontrast CT of abdomen and pelvis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Place bilateral ureteral stents"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"51c3e2",
+"hvc":true,
+"children":[
+"Long-standing obstructive uropathy may lead to end-stage kidney disease even if the source of obstruction is corrected."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e58ac9",
+"hvc":true,
+"children":[
+"Patients with end-stage kidney disease and advanced age or multiple comorbidities may not want renal replacement therapy and will benefit from a discussion focused on overall goals of care."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ddf1cb",
+"children":[
+"The most appropriate next step in management is to discuss goals of care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has end-stage kidney disease (ESKD) due to long-standing urinary retention from prostatic hyperplasia. There is no significant diuresis during the 48 hours since bladder catheter placement, and the decrease in his serum creatinine level is insignificant. The small kidney sizes with severe cortical echogenicity and thinning suggest advanced chronic kidney disease. Patients with ESKD and advanced age or multiple comorbidities may not want renal replacement therapy. For these patients, palliative care aimed at improving the quality of life may be a better option. Such care aligns treatment with a patient's goals through culturally sensitive shared decision-making and advance care planning, along with treating symptoms resulting from uremia, hypervolemia, hyperkalemia, and/or acidosis. Therefore, a discussion of overall goals of care is the most appropriate next step."
+]
+},
+{
+"type":"p",
+"hlId":"601394",
+"children":[
+"Initiating intravenous 0.9% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not an appropriate management step. The patient does not appear hypovolemic, and volume expansion will not help."
+]
+},
+{
+"type":"p",
+"hlId":"87efbb",
+"children":[
+"In patients with obstructive uropathy, noncontrast CT of the abdomen and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for suspected nephrolithiasis. The patient's finding of persistent hydronephrosis on repeat kidney ultrasound is not unusual in patients a few days following relief of long-standing obstruction and does not indicate the presence of bilateral ureteral obstruction. Similarly, there is no indication that ureteral stents will further improve kidney function (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_1_3",
+"objective":{
+"__html":"Manage end-stage kidney disease."
+},
+"references":[
+[
+"Selius BA, Subedi R. Urinary retention in adults: diagnosis and initial management. Am Fam Physician. 2008;77:643-650. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/18350762",
+"target":"_blank"
+},
+"children":[
+"PMID: 18350762"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":53,
+"B":8,
+"C":22,
+"D":17,
+"E":0
+},
+"hlIds":[
+"490df5",
+"fdb446",
+"38edb4",
+"e0ebce",
+"316bac",
+"21efcc",
+"f0fc88",
+"1a5dcc",
+"51c3e2",
+"e58ac9",
+"ddf1cb",
+"601394",
+"87efbb"
+]
+}

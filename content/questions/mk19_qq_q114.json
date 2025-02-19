@@ -1,0 +1,236 @@
+{
+"id":"mk19_qq_q114",
+"number":114,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 114",
+"stimulus":[
+{
+"type":"p",
+"hlId":"654d3b",
+"children":[
+"A 73-year-old man is evaluated for an abnormal blood count obtained 3 months ago. He is asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"4dc316",
+"children":[
+"Physical examination is normal. There is no evidence of lymphadenopathy or splenomegaly. Repeat blood count today confirms the presence of the original findings. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 13.5 g/dL (135 g/L). ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" is 16,000/µL (16 x 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with 28% neutrophils and 72% lymphocytes, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" is 192,000/µL (19 x 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Peripheral blood smear shows numerous small lymphoid cells and smudge cells."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2d6318",
+"children":[
+"Which of the following is the most appropriate next step in evaluation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy and aspirate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Flow cytometry"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Heterophile antibody testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"PET"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"788eb0",
+"children":[
+"Chronic lymphocytic leukemia is diagnosed by an absolute increase in mature lymphocytes (>5000/µL) sustained for 3 months and demonstration of clonality of the circulating B-lymphocytes by flow cytometry."
+]
+},
+{
+"type":"keypoint",
+"hlId":"08d172",
+"children":[
+"Bone marrow biopsy is not required for the diagnosis of chronic lymphocytic leukemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c6da2f",
+"children":[
+"The most appropriate next step in the diagnostic evaluation of this patient is flow cytometry of the peripheral blood (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). His clinical picture is consistent with chronic lymphocytic leukemia (CLL), which is diagnosed by an absolute increase in mature lymphocytes (>5000/µL) sustained for 3 months and demonstration of clonality of the circulating B-lymphocytes by flow cytometry. Immunophenotyping will show a monoclonal proliferation of mature B-lymphocytes expressing CD19, CD20, CD23, and CD5. CLL is the most common leukemia, and its incidence increases with age. Most patients are asymptomatic, with early-stage disease discovered incidentally during routine laboratory testing. The natural history of CLL is highly variable, and multiple prognostic models are used, including clinical signs and symptoms, β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-microglobulin level, heavy gene mutational status, and cytogenetic studies to assess risk for progression. Flow cytometry is the most appropriate next diagnostic step. This patient most likely has Rai stage 0 disease (lymphocytosis without lymphadenopathy, splenomegaly, or other organomegaly)."
+]
+},
+{
+"type":"p",
+"hlId":"e371e3",
+"children":[
+"Bone marrow biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not required to diagnose CLL; flow cytometry of a peripheral blood sample is adequate. Bone marrow biopsy can be helpful when a patient has cytopenia and the cause is unclear."
+]
+},
+{
+"type":"p",
+"hlId":"eac6da",
+"children":[
+"Patients with infectious mononucleosis due to Epstein-Barr virus infection present with fever, severe fatigue, exudative pharyngitis, cervical and axillary lymphadenopathy, and splenomegaly. Atypical lymphocytosis and aminotransferase level elevations are clues to the diagnosis, which is established by the presence of heterophile antibodies. This patient's age, the persistence of lymphocytosis for 3 months, and the presence of smudge cells on the peripheral blood smear exclude the diagnosis of infectious mononucleosis and the need for heterophile antibody testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Smudge cells are lymphocytes that appear flattened or smudged on the peripheral blood smear, a finding that is characteristic of CLL."
+]
+},
+{
+"type":"p",
+"hlId":"a0e8f9",
+"children":[
+"PET using fluorodeoxyglucose (FDG) can be used to identify suspicious lymph nodes in many lymphomas (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). However, CLL and small cell lymphomas are not FDG avid, and PET scanning is not indicated. Similarly, chest, abdominal, and pelvic CT is unlikely to provide additional prognostic information for this patient with early disease and a normal clinical examination. The American Society of Hematology recommends against routine CT in asymptomatic patients with early-stage CLL."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_1_3",
+"objective":{
+"__html":"Diagnose chronic lymphocytic leukemia."
+},
+"references":[
+[
+"Hallek M, Cheson BD, Catovsky D, et al. iwCLL guidelines for diagnosis, indications for treatment, response assessment, and supportive management of CLL. Blood. 2018;131:2745-2760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29540348",
+"target":"_blank"
+},
+"children":[
+"PMID: 29540348"
+]
+},
+" doi:10.1182/blood-2017-09-806398"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"654d3b",
+"4dc316",
+"2d6318",
+"788eb0",
+"08d172",
+"c6da2f",
+"e371e3",
+"eac6da",
+"a0e8f9"
+]
+}

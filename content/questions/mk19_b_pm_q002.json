@@ -1,0 +1,198 @@
+{
+"id":"mk19_b_pm_q002",
+"number":2,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"22518d",
+"children":[
+"A 42-year-old man is evaluated at a follow-up appointment. He underwent polysomnography 6 weeks ago because of suspected obstructive sleep apnea. The study showed moderate obstructive sleep apnea (apnea-hypopnea index 20) that was controlled with continuous positive airway pressure (CPAP). Although daytime alertness has improved with CPAP, the apparatus is cumbersome to transport on his frequent business trips. At his last visit, the physical examination was normal except for a BMI of 34."
+]
+},
+{
+"type":"p",
+"hlId":"5f6c72",
+"children":[
+"The patient is enrolled in a supervised weight loss program and has started to exercise."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypoglossal nerve stimulator"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Maxillomandibular advancement surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral appliance"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Uvulopalatopharyngoplasty"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"545e6c",
+"children":[
+"Obstructive sleep apnea (OSA) severity improves with weight loss; in minimally symptomatic patients with mild OSA, weight loss might be the preferred therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b53972",
+"children":[
+"Although continuous positive airway pressure (CPAP) is generally the preferred treatment for obstructive sleep apnea, patient preference or intolerance to CPAP should prompt consideration of other treatments such as an oral appliance."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b841a2",
+"children":[
+"The most appropriate treatment alternative to continuous positive airway pressure (CPAP) in this patient is an oral appliance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has symptomatic obstructive sleep apnea (OSA) of moderate severity. OSA severity improves with weight loss, so all patients with overweight or obesity should be counseled accordingly. In minimally symptomatic patients with mild OSA, weight loss might be preferred therapy. Additional measures that may help mild OSA include reducing alcohol intake before bedtime, avoiding sedating medications (benzodiazepines, opioids), and avoiding a supine posture if OSA is position dependent. Although CPAP improves symptoms and is generally the preferred treatment for OSA, patient preference or intolerance to CPAP should prompt consideration of other treatments. Oral appliances increase upper airway caliber primarily by exerting traction to advance the mandible. Randomized controlled trials of these appliances have demonstrated good control of mild to moderate OSA and improvement in symptoms such as daytime sleepiness."
+]
+},
+{
+"type":"p",
+"hlId":"ebd107",
+"children":[
+"A hypoglossal nerve stimulator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is implanted in the chest wall and synchronizes with the respiratory cycle to contract the tongue muscles during inspiration. A multicenter clinical trial demonstrated its efficacy in OSA, including severe disease; however, there are criteria for patient selection, and the procedure is not recommended for patients with a BMI greater than 32. This patient's BMI of 34 would exclude him from candidacy. Although hypoglossal nerve stimulation is efficacious in select patients, it is invasive and more costly than CPAP and oral appliances and is not the best initial option for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"7920e0",
+"children":[
+"Case series have demonstrated significant improvements in apnea-hypopnea index following maxillomandibular advancement surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B)"
+]
+},
+", but in most patients this procedure would not be considered a primary treatment. Evidence supporting upper airway surgical procedures to treat OSA is limited. Patient selection is not standardized, and neurocognitive outcomes are unknown or inconsistent. Referral to a sleep surgeon for upper airway surgery should be considered for patients with a BMI <40 who are intolerant of positive airway pressure therapy, but this patient tolerates the CPAP."
+]
+},
+{
+"type":"p",
+"hlId":"82f3c5",
+"children":[
+"Literature on uvulopalatopharyngoplasty (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a soft palatal procedure, shows only limited improvements in apnea-hypopnea index. Trial data are beginning to emerge, but at this time, the procedure should generally not be recommended for primary treatment of OSA."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_3_4_3",
+"objective":{
+"__html":"Treat obstructive sleep apnea with an oral appliance."
+},
+"references":[
+[
+"Patel SR. Obstructive sleep apnea. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201912030",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31791057",
+"target":"_blank"
+},
+"children":[
+"PMID: 31791057"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":3,
+"C":74,
+"D":13,
+"E":0
+},
+"hlIds":[
+"22518d",
+"5f6c72",
+"1054f1",
+"545e6c",
+"b53972",
+"b841a2",
+"ebd107",
+"7920e0",
+"82f3c5"
+]
+}

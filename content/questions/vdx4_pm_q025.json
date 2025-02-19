@@ -1,0 +1,172 @@
+{
+"id":"vdx4_pm_q025",
+"number":25,
+"bookId":"vdx_pm",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b32a13",
+"children":[
+"A 56-year-old woman is evaluated with a chest ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f025a",
+"wrapId":"1",
+"children":[
+"CT"
+]
+},
+" following a motor vehicle accident."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f025a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Esophageal rupture"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Right-sided pleural effusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right-sided pneumothorax"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right upper lobe atelectasis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"049636",
+"children":[
+"A pneumothorax can be ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f025b",
+"wrapId":"2",
+"children":[
+"seen"
+]
+},
+" on this chest CT scan anterior to the right upper lobe and surrounding the trachea (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Tr"
+]
+},
+"). The presence of air within the pleural space (pneumothorax) is indicated by a dark, hyperlucent area (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrowheads"
+]
+},
+"). Subcutaneous emphysema (air within the soft tissues) is also seen (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+")."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f025b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_2_1",
+"objective":{
+"__html":"Diagnose a pneumothorax on a chest CT scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f025a":{
+"id":"vdx4_pm_mcq_f025a",
+"number":25,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"76f2e320cd4d7e6d31d2d70cf17d0abe",
+"height":512,
+"width":512,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f025b":{
+"id":"vdx4_pm_mcq_f025b",
+"number":25,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0f88b23970a02ead0d274b6796681088",
+"height":689,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"b32a13",
+"413696",
+"049636"
+]
+}

@@ -1,0 +1,295 @@
+{
+"id":"mk19_b_pm_q026",
+"number":26,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1babc4",
+"children":[
+"A 66-year-old man is evaluated for a 7-month history of gradually progressive shortness of breath and dry cough. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"84f0ae",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. Auscultation reveals fine end-inspiratory bibasilar crackles. Clubbing is present. There are no rashes or edema. Cardiac examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"54d554",
+"children":[
+"Chest radiograph reveals small lung volumes and bibasilar reticular infiltrates without lymphadenopathy. Spirometry reveals an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.87, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 62% of predicted, and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 48% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopic lung biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiopulmonary exercise test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Chest CT angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"High-resolution chest CT"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8251c8",
+"children":[
+"In a patient with a clinical picture suggestive of diffuse parenchymal lung disease, high-resolution CT is the most appropriate diagnostic test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"74a11e",
+"children":[
+"The most appropriate diagnostic test to perform next is high-resolution chest CT (HRCT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has symptoms and clinical findings suggestive of a diffuse parenchymal lung disease (DPLD). Nonproductive cough and dyspnea are the most common presenting symptoms of DPLD. Findings on chest auscultation can be variable, but the presence of inspiratory dry crackles and clubbing is compatible with a DPLD such as idiopathic pulmonary fibrosis. Other findings supporting the diagnosis of DPLD include chest radiograph showing small lung volumes, unexplained bibasilar infiltrates, restrictive physiology, and a reduced D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+". HRCT will help confirm the diagnosis of DPLD and may also narrow the differential diagnosis. For example, the addition of expiratory images can help diagnose small airway disease, and prone images can help exclude dependent atelectasis as a potential confounder. In an appropriate clinical setting, typical HRCT findings may obviate the need for lung biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"f0da20",
+"children":[
+"The findings on HRCT highly correlate with histopathology identified on open lung biopsy; consequently, biopsy is not uniformly required to establish a diagnosis. Lung biopsy, either bronchoscopic (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or surgical, may be considered in settings in which pulmonary function tests and HRCT are insufficient to make a diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"9b4ad7",
+"children":[
+"In the evaluation of dyspnea, cardiopulmonary exercise testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be helpful if the initial evaluation is unrevealing, deconditioning is a possibility, or multiple problems may be contributing to dyspnea. However, this patient's symptoms, chest radiograph, and spirometry suggest a DPLD. Cardiopulmonary exercise testing will not add to the diagnostic yield."
+]
+},
+{
+"type":"p",
+"hlId":"21abae",
+"children":[
+"CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") of the chest will also provide a reasonable assessment of the pulmonary parenchyma and is the diagnostic modality of choice for pulmonary embolism, an unlikely diagnosis for a patient with dyspnea progressing over 7 months. In addition, contrast is not needed for the delineation of DPLDs and adds the unnecessary risk of contrast-induced nephropathy. Although the addition of contrast can help delineate mediastinal lymphadenopathy, there is no suggestion of lymphadenopathy on this patient's chest radiograph."
+]
+},
+{
+"type":"p",
+"hlId":"98ff1a",
+"children":[
+"Evaluation with transthoracic echocardiogram (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can be used to exclude left-sided heart failure and assess for pulmonary hypertension. This patient, however, does not have any clinical or radiologic signs of heart failure (elevated central venous pressure, S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", edema, cardiomegaly, pulmonary congestion) or pulmonary hypertension (fixed splitting of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", prominent venous ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" wave, enlarged central pulmonary arteries, and prominent right ventricle)."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_2_1",
+"objective":{
+"__html":"Diagnose diffuse parenchymal lung disease."
+},
+"references":[
+[
+"Lederer DJ, Martinez FJ. Idiopathic pulmonary fibrosis. N Engl J Med. 2018;378:1811-1823. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29742380",
+"target":"_blank"
+},
+"children":[
+"PMID: 29742380"
+]
+},
+" doi:10.1056/NEJMra1705751"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":2,
+"C":2,
+"D":90,
+"E":1
+},
+"hlIds":[
+"1babc4",
+"84f0ae",
+"54d554",
+"ab9d96",
+"8251c8",
+"74a11e",
+"f0da20",
+"9b4ad7",
+"21abae",
+"98ff1a"
+]
+}

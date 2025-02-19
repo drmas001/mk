@@ -1,0 +1,637 @@
+{
+"id":"mk19_a_id_q101",
+"number":101,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a7b976",
+"children":[
+"A 38-year-old woman is hospitalized for fever, night sweats, and a nonproductive cough of 6 weeks' duration. Medical history is significant for Crohn disease. Her only medication is ustekinumab."
+]
+},
+{
+"type":"p",
+"hlId":"cc278d",
+"children":[
+"On physical examination, temperature is 39.6 °C (103.3 °F), blood pressure is 100/60 mm Hg, pulse rate is 120/min, and respiration rate is 26/min. Crackles are heard in both lung fields. Abdominal examination reveals no hepatosplenomegaly."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c95619",
+"class":"cell text l",
+"children":[
+"10 g/dL (100 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4fcfab",
+"class":"cell text l",
+"children":[
+"3600/µL (3.6 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"30a81f",
+"class":"cell text l",
+"children":[
+"109,000/µL (109 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f0ae6d",
+"class":"cell text l",
+"children":[
+"312 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f17332",
+"class":"cell text l",
+"children":[
+"51 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"40f870",
+"class":"cell text l",
+"children":[
+"58 U/L"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"8187d9",
+"children":[
+"Serum and urinary ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma"
+]
+},
+" antigen are negative. Interferon-γ release assay is negative."
+]
+},
+{
+"type":"p",
+"hlId":"885988",
+"children":[
+"Chest radiograph is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f101",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f101"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Disseminated histoplasmosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Disseminated tuberculosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Streptococcus pneumoniae</i> bacteremia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Subacute hypersensitivity pneumonia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3e8a8c",
+"children":[
+"Immunosuppression is a risk factor for disseminated tuberculosis, which often involves the lungs, liver, and bone marrow and may result in systemic inflammatory response syndrome, septic shock, and death."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cc28fb",
+"children":[
+"The interferon-γ release assay may be negative in patients with disseminated tuberculosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"11c3e1",
+"children":[
+"The most likely diagnosis is disseminated tuberculosis infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's use of a biologic immune modifier (ustekinumab) is a significant risk factor for tuberculosis reactivation or dissemination. The patient's interferon-γ release assay was negative, but anergy is observed more frequently among patients with miliary tuberculosis than those with pulmonary or isolated extrapulmonary involvement. Disseminated tuberculosis often involves the lungs, liver, and bone marrow. The patient's chest radiograph reveals the bilateral presence of innumerable 1- to 3-mm nodules. These findings, although not specific, are typical of tuberculosis dissemination through the vasculature or the lymphatic vessels. She also has pancytopenia, an indication of bone marrow involvement, and increased alkaline phosphatase and aminotransferase levels indicate hepatic involvement. Finally, her high fever, increased heart rate and respiration rate, and hypotension are also signs of sepsis. Although not usually in the differential diagnosis, disseminated tuberculosis can induce classic septic shock and death if not diagnosed and treated promptly and adequately."
+]
+},
+{
+"type":"p",
+"hlId":"f0e2fa",
+"children":[
+"Sepsis, pancytopenia, oral ulcerations, and hepatosplenomegaly in an immunosuppressed patient are typical of disseminated histoplasmosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). However, the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma"
+]
+},
+" serum and urinary antigen were negative; these tests have a sensitivity and specificity approaching 80% in immunosuppressed patients with disseminated infection, making this diagnosis less likely."
+]
+},
+{
+"type":"p",
+"hlId":"686958",
+"children":[
+"The triad of pneumococcal endocarditis, meningitis, and pneumonia (Austrian syndrome) is the result of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+" bacteremia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, this is an acute and rapidly progressive disease and is not compatible with this patient's 6-week course of progressive illness."
+]
+},
+{
+"type":"p",
+"hlId":"e50424",
+"children":[
+"Repetitive inhalation of antigens in a sensitized patient can result in hypersensitivity pneumonitis (HP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with subacute HP have a chronic low-level exposure to antigens and experience cough, fatigue, weight loss, and shortness of breath. High-resolution CT will show micronodules and ground-glass opacities. Subacute HP does not involve the bone marrow or liver or result in sepsis."
+]
+}
+],
+"relatedSection":"mk19_a_id_s6_4_2",
+"objective":{
+"__html":"Diagnose disseminated tuberculosis infection."
+},
+"references":[
+[
+"Sharma SK, Mohan A. Miliary Tuberculosis. Microbiol Spectr. 2017;5(2):10.1128/microbiolspec.TNMI7-0013-2016. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28281441",
+"target":"_blank"
+},
+"children":[
+"PMID: 28281441"
+]
+},
+" doi:10.1128/microbiolspec.TNMI7-0013-2016"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":33,
+"C":8,
+"D":40,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f101":{
+"id":"mk19_a_id_mcq_f101",
+"number":101,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"1d718617062ce93fba27e9121ad26f23",
+"height":909,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"a7b976",
+"cc278d",
+"a462a3",
+"f9867c",
+"c95619",
+"2989c0",
+"4fcfab",
+"fcac73",
+"30a81f",
+"1cc80b",
+"f0ae6d",
+"62ea29",
+"f17332",
+"c7d329",
+"40f870",
+"8187d9",
+"885988",
+"413696",
+"3e8a8c",
+"cc28fb",
+"11c3e1",
+"f0e2fa",
+"686958",
+"e50424"
+]
+}

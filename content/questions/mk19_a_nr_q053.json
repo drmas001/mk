@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q053",
+"number":53,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"190990",
+"children":[
+"A 72-year-old man is evaluated for dementia with fluctuations in attentiveness, visual hallucinations, and slowness of movements over the past year. He has also acted out his dreams in his sleep a few times over the last 2 years."
+]
+},
+{
+"type":"p",
+"hlId":"7a60bc",
+"children":[
+"On physical examination, vital signs are normal. Mild hypomimia, symmetrically increased tone in bilateral upper extremities, and bradykinesia on rapid alternating movements are observed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clonazepam"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Haloperidol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Memantine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivastigmine"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Zolpidem"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c96b73",
+"children":[
+"In patients with dementia with Lewy bodies, both rivastigmine and donepezil (acetylcholinesterase inhibitors) can improve cognition, global function, and activities of living."
+]
+},
+{
+"type":"keypoint",
+"hlId":"633c28",
+"children":[
+"Melatonin is preferred therapy for rapid eye movement sleep behavior disorder in patients with dementia with Lewy bodies."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dbb2ea",
+"children":[
+"The most appropriate treatment is rivastigmine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has dementia with Lewy bodies, which is characterized by parkinsonian motor features (particularly gait problems and slowness of movements), visual hallucinations, rapid eye movement sleep behavior disorder, and frequent fluctuations in attention. Because Parkinson disease is a progressive neurodegenerative disorder, cognitive symptoms frequently develop at some point in the disease course. When dementia occurs well after the motor symptoms, it is considered Parkinson disease dementia. When dementia and motor symptoms develop within 1 to 2 years of each other, it is classified as dementia with Lewy bodies. The best diagnostic tools remain the clinical history and examination. Although not FDA approved for patients with dementia with Lewy bodies, both rivastigmine and donepezil (acetylcholinesterase inhibitors) can improve cognition, global function, and activities of daily living. Evidence suggests that even if patients do not improve with acetylcholinesterase inhibitors, they are less likely to deteriorate while taking them."
+]
+},
+{
+"type":"p",
+"hlId":"c3a9f2",
+"children":[
+"Although clonazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") does have efficacy in treating rapid eye movement sleep behavior disorder in dementia with Lewy bodies, it should be used at the lowest effective dose and after or in conjunction with melatonin, up to 12 mg nightly. This patient has had only a few instances of movements in his sleep over the last few years, which would not warrant pharmacologic treatment. Melatonin is preferred because of its safety profile."
+]
+},
+{
+"type":"p",
+"hlId":"e18693",
+"children":[
+"Haloperidol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an antipsychotic drug, and patients with dementia with Lewy bodies are more likely to have severe sensitivity to antipsychotics. Haloperidol, a first-generation antipsychotic, is also more likely to cause extrapyramidal side effects. Diagnosing dementia with Lewy bodies as early as possible is important because the behavioral problems associated with this condition frequently result in the use of antipsychotic agents. If an antipsychotic medication is required to maintain safety of the patient or people around them, one with a lower risk for extrapyramidal side effects (e.g., quetiapine) is preferred."
+]
+},
+{
+"type":"p",
+"hlId":"f2ed73",
+"children":[
+"There is no clear evidence that memantine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has efficacy in dementia with Lewy bodies, so this agent should not be used for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"dab238",
+"children":[
+"Zolpidem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a nonbenzodiazepine γ-aminobutyric acid receptor agonist used for sleep induction and maintenance. Sedative-hypnotic drugs such as zolpidem may worsen cognitive impairment and fall risks in patients with dementia. Its use is not appropriate in this case."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_2_1_2",
+"objective":{
+"__html":"Treat dementia with Lewy bodies."
+},
+"references":[
+[
+"McKeith IG, Boeve BF, Dickson DW, et al. Diagnosis and management of dementia with Lewy bodies: Fourth consensus report of the DLB Consortium. Neurology. 2017;89:88-100. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28592453",
+"target":"_blank"
+},
+"children":[
+"PMID: 28592453"
+]
+},
+" doi:10.1212/WNL.0000000000004058"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":15,
+"C":20,
+"D":60,
+"E":1
+},
+"hlIds":[
+"190990",
+"7a60bc",
+"1054f1",
+"c96b73",
+"633c28",
+"dbb2ea",
+"c3a9f2",
+"e18693",
+"f2ed73",
+"dab238"
+]
+}

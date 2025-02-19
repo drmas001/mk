@@ -1,0 +1,192 @@
+{
+"id":"mk19_qq_q081",
+"number":81,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 81",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9d21d2",
+"children":[
+"A 67-year-old man with Parkinson disease is evaluated for an acute change in mental status. He is diaphoretic and disoriented. Medical records indicate that his only medication is carbidopa-levodopa, but he has not filled his last prescription."
+]
+},
+{
+"type":"p",
+"hlId":"1dc402",
+"children":[
+"The patient is disoriented and inattentive. Temperature is 38.9 °C (102.0 °F), blood pressure is 170/120 mm Hg, and pulse rate is 120/min. Generalized muscular rigidity is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Malignant hyperthermia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Neuroleptic malignant syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serotonin syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"3,4-Methylenedioxymethamphetamine intoxication"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2212e1",
+"children":[
+"Neuroleptic malignant syndrome can result from administration of antipsychotic agents (classically neuroleptics like haloperidol), antiemetic agents (including metoclopramide), or withdrawal of antiparkinsonian dopaminergic medications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c699f4",
+"children":[
+"Neuroleptic malignant syndrome is characterized by muscular rigidity, altered mental status, hyperthermia, and autonomic dysfunction (hypertension, tachycardia, tachypnea, diaphoresis)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e20bb0",
+"children":[
+"Neuroleptic malignant syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can result from administration of antipsychotic agents (classically neuroleptics like haloperidol), antiemetic agents (including metoclopramide), or withdrawal of antiparkinsonian dopaminergic medications, as in this patient. It can occur with any antipsychotic agent, even after prolonged use, although it is more common at times of initiation or dose escalation. The pathogenesis of this syndrome results from dopamine D",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-receptor antagonism. Muscular rigidity, altered mental status, hyperthermia, and autonomic dysfunction (hypertension, tachycardia, tachypnea, diaphoresis) are typically seen. Criteria for the diagnosis of neuroleptic malignant syndrome are based on clinical features, although metabolic acidosis and elevations in serum potassium, creatine kinase, and lactate dehydrogenase levels are common. The mortality rate is 10% to 20%, although the rate is generally higher in patients who develop severe rhabdomyolysis."
+]
+},
+{
+"type":"p",
+"hlId":"855038",
+"children":[
+"Malignant hyperthermia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an inherited skeletal muscle disorder characterized by a hypermetabolic state precipitated by exposure to volatile inhalational anesthetics (halothane, isoflurane, enflurane, desflurane, sevoflurane) and the depolarizing muscle relaxants succinylcholine and decamethonium. Findings include sustained muscle contractions with skeletal muscle rigidity and masseter muscle spasm, tachycardia, hypercapnia, hypertension, hyperthermia, tachypnea, and cardiac arrhythmias. This patient's history does not include exposure to drugs responsible for malignant hyperthermia, which makes this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"91e73f",
+"children":[
+"Serotonin syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is due to increased central nervous system serotonin activity and typically occurs within 24 hours of initiating agents that affect release or reuptake of serotonin. Distinguishing features include shivering, hyperreflexia, myoclonus, and ataxia; hyperthermia may be present. This diagnosis is less likely given the presence of muscle rigidity and the fact that the patient was not taking a serotonergic agent."
+]
+},
+{
+"type":"p",
+"hlId":"acadb7",
+"children":[
+"Acute intoxication with 3,4-methylenedioxymethamphetamine (MDMA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can mimic many of the findings of neuroleptic malignant syndrome, including psychomotor agitation, delirium, and even psychosis. Some patients develop hyponatremia, hyperthermia, and rhabdomyolysis. Muscular rigidity is not common in MDMA intoxication, and there is no reason to suspect MDMA ingestion."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_3",
+"objective":{
+"__html":"Diagnose neuroleptic malignant syndrome."
+},
+"references":[
+[
+"Apetauerova D, Patel PA, Burns JD, et al. Movement disorder emergencies. Neurol Clin. 2021;39:615-630. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33896535",
+"target":"_blank"
+},
+"children":[
+"PMID: 33896535"
+]
+},
+" doi:10.1016/j.ncl.2021.01.005"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9d21d2",
+"1dc402",
+"413696",
+"2212e1",
+"c699f4",
+"e20bb0",
+"855038",
+"91e73f",
+"acadb7"
+]
+}

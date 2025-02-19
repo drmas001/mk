@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q076",
+"number":76,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d34705",
+"children":[
+"A 59-year-old man is evaluated for headaches, pallor, and panic attacks for the past year. His long-term hypertension has also become harder to control. Medications are chlorthalidone, lisinopril, metoprolol, and diltiazem."
+]
+},
+{
+"type":"p",
+"hlId":"5acb1b",
+"children":[
+"On physical examination, blood pressure is 164/98 mm Hg. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adrenal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Adrenal venous catecholamine sampling"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Iodine 123-metaiodobenzylguanidine scan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Plasma free metanephrine measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"aae28b",
+"children":[
+"In context of a high index of suspicion for pheochromocytoma, plasma free metanephrine is an appropriate screening test, whereas urine fractionated metanephrine and catecholamines may be a better option for cases with low suspicion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9de832",
+"children":[
+"Imaging for pheochromocytoma should be performed only after documentation of elevated catecholamine levels."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bdce20",
+"children":[
+"The most appropriate diagnostic test is plasma free metanephrine measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Common indications to initiate testing for pheochromocytoma include adrenergic-type spells (headache, sweating, tachycardia) with or without hypertension, resistant hypertension, onset of hypertension at a young age, and idiopathic cardiomyopathy. Other indications include familial syndromes that predispose to pheochromocytoma (e.g., multiple endocrine neoplasia type 2), or a family history of pheochromocytoma. Initial tests for pheochromocytoma include measurement of plasma free metanephrine collected with the patient in a supine position or 24-hour urine fractionated metanephrine and catecholamine levels. Elevation in catecholamines can occur in patients under psychological or physical stress. Certain medications can affect results and should be discontinued at least 2 weeks before testing. Mild elevations may require repeat testing. Levels more than four times the upper limit of normal, in absence of acute stress or illness, are consistent with a catecholamine-secreting tumor. The plasma free metanephrine test is highly sensitive (96%-100%). The specificity is 85% to 89%. Urine fractionated metanephrine and catecholamines have higher specificity (98%) and high sensitivity (up to 97%). Neither test is superior, so clinicians can use an estimate of pretest probability to select the initial test. In context of a high index of suspicion, plasma free metanephrine is chosen whereas urine fractionated metanephrine and catecholamines may be a better option for cases with low suspicion."
+]
+},
+{
+"type":"p",
+"hlId":"2ad07b",
+"children":[
+"The search for a tumor should begin when a biochemical diagnosis of pheochromocytoma/paraganglioma is supported by laboratory results, to avoid misdiagnosing an incidental nonfunctioning adrenal mass as a pheochromocytoma. If biochemical testing supports the diagnosis of pheochromocytoma, an adrenal CT scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or MRI of the abdomen should be performed. Imaging is not an initial diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"b3da2f",
+"children":[
+"Adrenal venous catecholamine sampling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be performed because it may result in an inappropriate adrenalectomy. Healthy individuals show a significant difference in catecholamine concentration in the right versus left adrenal vein; therefore, adrenal vein sampling for catecholamines has no diagnostic value."
+]
+},
+{
+"type":"p",
+"hlId":"66c482",
+"children":[
+"The average size of a symptomatic pheochromocytoma at diagnosis is 4 cm. If the CT is negative, reconsidering the diagnosis is the first step; however, if suspicion of a catecholamine-secreting tumor is high, the next step is an iodine 123-metaiodobenzylguanidine scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This test may also be indicated in patients with very large pheochromocytomas (>10 cm) to detect metastatic disease or paragangliomas to detect multiple tumors. This scan is not an initial diagnostic test."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_2_3",
+"objective":{
+"__html":"Diagnose pheochromocytoma."
+},
+"references":[
+[
+"Neumann HPH, Young WF Jr, Eng C. Pheochromocytoma and paraganglioma. N Engl J Med. 2019;381:552-565. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31390501",
+"target":"_blank"
+},
+"children":[
+"PMID: 31390501"
+]
+},
+" doi:10.1056/NEJMra1806651"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":3,
+"C":3,
+"D":87,
+"E":0
+},
+"hlIds":[
+"d34705",
+"5acb1b",
+"2eb226",
+"aae28b",
+"9de832",
+"bdce20",
+"2ad07b",
+"b3da2f",
+"66c482"
+]
+}

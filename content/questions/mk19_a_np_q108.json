@@ -1,0 +1,512 @@
+{
+"id":"mk19_a_np_q108",
+"number":108,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 108",
+"stimulus":[
+{
+"type":"p",
+"hlId":"06830c",
+"children":[
+"A 60-year-old woman is evaluated during a follow-up visit for stage G3 proteinuric chronic kidney disease due to type 2 diabetes mellitus. Medications are lisinopril and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"2e285e",
+"children":[
+"On physical examination, blood pressure is 137/80 mm Hg, and pulse rate is 83/min; other vital signs are normal. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5d87c8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"Hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1569f4",
+"class":"cell text l",
+"children":[
+"8.3%"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"28ecb5",
+"class":"cell text l",
+"children":[
+"1.3 mg/dL (114.9 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f7434e",
+"class":"cell text l",
+"children":[
+"4.3 mEq/L (4.3 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"77db81",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"Estimated glomerular filtration rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"83dfd7",
+"class":"cell text l",
+"children":[
+"45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"48b103",
+"class":"cell text l",
+"children":[
+"Spot ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein-creatinine ratio, urine",
+"children":[
+"urine protein-creatinine ratio"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"44b277",
+"class":"cell text l",
+"children":[
+"3680 mg/g"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Canagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glyburide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Losartan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pioglitazone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Sitagliptin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0ea959",
+"children":[
+"Sodium-glucose cotransporter 2 inhibitors slow the progression of chronic kidney disease and reduce the risk for death from kidney or cardiovascular complications in patients with diabetic kidney disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5a18e9",
+"children":[
+"Glucagon-like peptide-1 receptor agonists reduce the risks for cardiovascular events and hypoglycemia and appear to possibly slow chronic kidney disease progression."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1d7aa7",
+"children":[
+"The most appropriate treatment is to add canagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). There are a limited number of interventions proven to slow the decline of kidney function in patients with chronic kidney disease (CKD). Proven interventions include glycemic control, blood pressure control, renin-angiotensin system (RAS) blockers, and avoidance of renal toxins. For patients with diabetic kidney disease, the use of sodium-glucose cotransporter 2 (SGLT2) inhibitors slows the progression of CKD and reduces the risk for death from kidney or cardiovascular complications. For this patient with stage G3 CKD with nephrotic-range proteinuria due to type 2 diabetes mellitus, the SGLT2 inhibitor canagliflozin should be added to her medication regimen. Glucagon-like peptide-1 (GLP-1) receptor agonists such as liraglutide are also suggested by the American Diabetes Association because they reduce the risks for cardiovascular events and hypoglycemia and appear to possibly slow CKD progression."
+]
+},
+{
+"type":"p",
+"hlId":"8aa960",
+"children":[
+"Glyburide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a second-generation sulfonylurea; pioglitazone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a thiazolidinedione; and sitagliptin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a dipeptidyl peptidase 4 inhibitor. Drugs from these classes have a neutral effect on the progression of CKD. The use of glyburide in patients with CKD is generally avoided because of the risk for hypoglycemia. Thiazolidinediones are used with caution in patients with CKD due to the potential for fluid retention."
+]
+},
+{
+"type":"p",
+"hlId":"75ef3d",
+"children":[
+"Adding losartan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), an angiotensin receptor blocker (ARB), is contraindicated for this patient, as she is currently receiving lisinopril, an ACE inhibitor. Blockade of the RAS has been shown to slow the rate of progression for proteinuric CKD and is indicated for all patients who can tolerate this medication class. However, dual blockade with an ACE inhibitor and an ARB results in more adverse events without additional kidney benefit."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_7_3",
+"objective":{
+"__html":"Treat a patient with diabetic kidney disease using a sodium-glucose cotransporter 2 inhibitor."
+},
+"references":[
+[
+"Perkovic V, Jardine MJ, Neal B, et al; CREDENCE Trial Investigators. Canagliflozin and renal outcomes in type 2 diabetes and nephropathy. N Engl J Med. 2019;380:2295-2306. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30990260",
+"target":"_blank"
+},
+"children":[
+"PMID: 30990260"
+]
+},
+" doi:10.1056/NEJMoa1811744"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":75,
+"B":4,
+"C":10,
+"D":5,
+"E":6
+},
+"hlIds":[
+"06830c",
+"2e285e",
+"a462a3",
+"5d87c8",
+"1569f4",
+"f461b2",
+"28ecb5",
+"e92687",
+"f7434e",
+"77db81",
+"83dfd7",
+"48b103",
+"44b277",
+"78ff87",
+"0ea959",
+"5a18e9",
+"1d7aa7",
+"8aa960",
+"75ef3d"
+]
+}

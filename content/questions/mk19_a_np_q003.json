@@ -1,0 +1,422 @@
+{
+"id":"mk19_a_np_q003",
+"number":3,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c38c93",
+"children":[
+"A 69-year-old man is evaluated for a 4-week history of lower extremity edema. He has a 45-pack-year history of smoking but quit 3 years ago. A screening colonoscopy performed 1 year ago was normal. He has no other medical history and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"56761d",
+"children":[
+"On physical examination, vital signs are normal. There is 2-mm pitting edema of the lower extremities through the ankles, equal on both sides. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"613818",
+"class":"cell text l",
+"children":[
+"2.9 g/dL (29 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"182194",
+"class":"cell text l",
+"children":[
+"Total cholesterol"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"714406",
+"class":"cell text l",
+"children":[
+"311 mg/dL (8.1 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"23f624",
+"class":"cell text l",
+"children":[
+"1.0 mg/dL (88.4 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b01639",
+"class":"cell text l",
+"children":[
+"24-Hour urine protein excretion"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e7c9ea",
+"class":"cell text l",
+"children":[
+"6300 mg/24 h"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"82ebab",
+"children":[
+"Kidney biopsy shows membranous nephropathy with negative staining for the phospholipase A2 receptor antigen."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Kidney and renal vein Doppler ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lower extremity Doppler ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Noncontrast CT of the chest"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Random (spot) urine protein-creatinine ratio"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8a9c27",
+"children":[
+"The initial step in the management of newly diagnosed membranous nephropathy (MN) is to evaluate for secondary forms of the disease, and cancer screening is particularly important in evaluating for secondary forms of MN in patients >65 years of age."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e72c52",
+"children":[
+"Testing for phospholipase A2 receptor (PLA2R) antigen is used to help distinguish primary (PLA2R antigen–positive) from secondary (PLA2R antigen–negative) forms of membranous nephropathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a79332",
+"children":[
+"A noncontrast CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be performed to screen for lung cancer in this patient newly diagnosed with phospholipase A2 receptor (PLA2R)-negative membranous nephropathy (MN) and a history of heavy tobacco use. Testing for PLA2R antigen is used to help distinguish primary from secondary forms of MN. This distinction is crucial because secondary (PLA2R antigen–negative) forms are expected to remit if the underlying systemic disease responsible for the lesion is successfully treated. Therefore, age- and sex-appropriate cancer screening is recommended for all patients at the time of diagnosis, even those with PLA2R positivity. Thus, the initial step in management of newly diagnosed MN is to evaluate for secondary forms of the disease, which account for approximately 25% of MN cases and include lupus-, hepatitis-, drug-, and malignancy-associated forms of MN. Cancer screening is particularly important in evaluating for secondary forms of MN in patients >65 years of age. Up to 25% of such patients will have a malignancy discovered within 1 year of diagnosis. This 69-year-old man with a 45-pack-year history of smoking has not undergone risk factor–appropriate cancer screening, which would include a noncontrast CT of the chest."
+]
+},
+{
+"type":"p",
+"hlId":"a3e97f",
+"children":[
+"Renal vein thrombosis is found in up to 20% of patients with MN. Doppler ultrasonography screening for renal vein thrombosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is reserved for when acute kidney injury, flank pain, and/or gross hematuria raise suspicion for this complication."
+]
+},
+{
+"type":"p",
+"hlId":"cffeef",
+"children":[
+"MN is associated with a higher risk for clotting when serum albumin is <2.8 g/dL (28 g/L); this patient's serum albumin is 2.9 g/dL (29 g/L). The symmetric lower extremity edema in this patient is more consistent with the nephrotic syndrome than a lower extremity clot; therefore, Doppler ultrasonography of his legs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be required."
+]
+},
+{
+"type":"p",
+"hlId":"80e0b6",
+"children":[
+"Random (spot) urine protein-creatinine ratio (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), particularly when collected on first morning void, can serve as a surrogate for 24-hour urine protein quantification. This test is unnecessary in this case, as the more accurate quantification of proteinuria via 24-hour urine protein excretion has already been performed."
+]
+}
+],
+"relatedSection":"mk19_a_np_s6_3_3_3",
+"objective":{
+"__html":"Screen for malignancy in an older patient with membranous nephropathy."
+},
+"references":[
+[
+"Khairallah P, Bomback AS. Membranous nephropathy and cancer in the era of PLA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"R testing. J Onco-Nephrol. 2018;2:50-55. doi/10.1177/2399369318816333"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":27,
+"B":8,
+"C":61,
+"D":4,
+"E":0
+},
+"hlIds":[
+"c38c93",
+"56761d",
+"a462a3",
+"4590ed",
+"613818",
+"182194",
+"714406",
+"f461b2",
+"23f624",
+"b01639",
+"e7c9ea",
+"82ebab",
+"983777",
+"8a9c27",
+"e72c52",
+"a79332",
+"a3e97f",
+"cffeef",
+"80e0b6"
+]
+}

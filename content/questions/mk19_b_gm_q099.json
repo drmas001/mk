@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_gm_q099",
+"number":99,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 99",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ba9e9",
+"children":[
+"A 34-year-old woman is evaluated in the emergency department for fever and a painful rash that began 2 days ago. The rash now involves her face, neck, trunk, and arms. She is on day 6 of a 7-day course of sulfamethoxazole-trimethoprim for treatment of a recently incised and drained abscess on her left leg."
+]
+},
+{
+"type":"p",
+"hlId":"39d0dd",
+"children":[
+"On physical examination, the patient appears ill and in pain. Temperature is 40 °C (104 °F), blood pressure is 117/62 mm Hg, pulse rate is 122/min, and respiration rate is 16/min. Representative skin findings of her right arm and hand are ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f099",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_gm_mcq_f099"
+]
+},
+{
+"type":"p",
+"hlId":"64999a",
+"children":[
+"The rash is noted on her face, neck, back, trunk, and proximal legs, involving 25% of her body surface area. The abscess site on the left leg is healing without signs of infection."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin high-dose intravenous glucocorticoids"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin intravenous immunoglobulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue sulfamethoxazole-trimethoprim"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain skin biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0e243c",
+"hvc":true,
+"children":[
+"The most important first step in preventing progression of Stevens-Johnson syndrome/toxic epidermal necrolysis is to immediately discontinue any potential inciting medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5a3450",
+"children":[
+"The most appropriate management is to discontinue sulfamethoxazole-trimethoprim (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient likely has Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis (TEN) that is secondary to sulfamethoxazole-trimethoprim. SJS and TEN are a spectrum of severe mucocutaneous reactions defined by the extent of affected BSA involved with immune-mediated cutaneous necrosis. If 10% to 30% body surface area is affected, as in this patient, the reaction is termed SJS/TEN overlap syndrome. Symptoms of SJS/TEN usually begin within 1 to 3 weeks of exposure to the inciting agent. Fever, malaise, and symptoms of upper respiratory infection are followed by skin pain, grittiness or sand-like irritation of the eyes, and odynophagia. Within several days of symptom onset, patients develop red or purple dusky macules on the trunk that progress to vesicles, erosions, and ulceration. Painful erosions develop in the mouth, eyes, or genitals in as many as 95% of patients. When SJS/TEN is considered to be a possible diagnosis, the most important first step is to immediately discontinue all nonessential medications because continued exposure to the offending agent can worsen outcomes. The importance of immediate drug withdrawal in patients with SJS/TEN was highlighted in a 10-year observational study that suggested drug withdrawal reduced mortality by 30% for each day the drug was absent before the development of blisters and erosions. This observation did not hold true for drugs with prolonged half-lives."
+]
+},
+{
+"type":"p",
+"hlId":"bcc6e5",
+"children":[
+"Treatment for SJS/TEN overlap syndrome remains controversial. Intravenous glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or intravenous immunoglobulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are likely the most commonly used treatments, but neither is supported by strong evidence. Regardless, initiating therapy with either intravenous glucocorticoids or intravenous immune globulins is secondary in importance to discontinuing the potential offending agent."
+]
+},
+{
+"type":"p",
+"hlId":"67ae30",
+"children":[
+"Skin biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be indicated in the evaluation of possible SJS/TEN overlap syndrome if the diagnosis is not conclusive based on clinical findings. When the possibility of SJS/TEN is present, however, skin biopsy is secondary in importance to immediate discontinuation of the possible offending agent."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_5_5",
+"objective":{
+"__html":"Treat Stevens-Johnson syndrome/toxic epidermal necrolysis."
+},
+"references":[
+[
+"Mustafa SS, Ostrov D, Yerly D. Severe cutaneous adverse drug reactions: presentation, risk factors, and management. Curr Allergy Asthma Rep. 2018;18:26. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29574562",
+"target":"_blank"
+},
+"children":[
+"PMID: 29574562"
+]
+},
+" doi:10.1007/s11882-018-0778-6"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":13,
+"B":2,
+"C":84,
+"D":1,
+"E":0
+},
+"figuresContent":{
+"mk19_b_gm_mcq_f099":{
+"id":"mk19_b_gm_mcq_f099",
+"number":99,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"97e5f45abc57d1e71aca502514aed635",
+"height":867,
+"width":650,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7ba9e9",
+"39d0dd",
+"64999a",
+"cb2b54",
+"0e243c",
+"5a3450",
+"bcc6e5",
+"67ae30"
+]
+}

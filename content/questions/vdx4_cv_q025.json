@@ -1,0 +1,149 @@
+{
+"id":"vdx4_cv_q025",
+"number":25,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2c7c34",
+"children":[
+"A 68-year-old woman is evaluated for progressive exertional dyspnea. Focused point-of-care cardiac ultrasonography is performed."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for ",
+{
+"type":"video-link",
+"target":"vdx4_cv_mcq_v025",
+"wrapId":"1",
+"children":[
+"this video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_v025"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"29ab97",
+"children":[
+"Which of the following is the most appropriate interpretation of this patient's left ventricular function?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Mildly reduced"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Normal"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Severely reduced"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e6410c",
+"children":[
+"This patient's left ventricular function is normal. The ultrasound shows a parasternal long-axis view of the left ventricle. The wall thickness and chamber size of the left ventricle appear normal and shrink appropriately during systole. The interventricular septum and posterior wall thicken and move inward during systole, which is normal. The movement of the anterior leaflet of the mitral valve and its distance from the interventricular septum during diastole can also be used as a rough gauge of left ventricular systolic function, with a distance of less than 1.0 cm generally considered normal. Although this distance may be measured on a frozen image, it is often estimated in point-of-care studies using the scale on the right of the screen as a reference. As ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f025",
+"wrapId":"2",
+"children":[
+"shown"
+]
+},
+", the anterior leaflet appears to slap against the interventricular septum during diastole (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red circle"
+]
+},
+"). The chamber size, wall motion, and mitral valve movement findings all strongly suggest normal left ventricular function. (AV = aortic valve; IVS = interventricular septum; LA = left atrium; LV = left ventricle; MV = mitral valve)"
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_cv_mcq_f025"
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_3",
+"objective":{
+"__html":"Evaluate left ventricular function with point-of-care ultrasonography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f025":{
+"id":"vdx4_cv_mcq_f025",
+"number":25,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"289478d9410792fab2d92679044586a8",
+"height":471,
+"width":661,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"2c7c34",
+"497ecd",
+"29ab97",
+"e6410c"
+]
+}

@@ -1,0 +1,215 @@
+{
+"id":"mk19_b_pm_q012",
+"number":12,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7d3fb1",
+"children":[
+"A 74-year-old man is evaluated in the ICU for sepsis and hypotension. A central venous catheter has just been inserted into the left internal jugular vein under ultrasound visualization to start vasopressor therapy. As the catheter line is being secured, the patient suddenly becomes more hypotensive. Medications are propofol, piperacillin-tazobactam, and vancomycin."
+]
+},
+{
+"type":"p",
+"hlId":"1b201f",
+"children":[
+"Temperature is 37.8 °C (100.0 °F), blood pressure is 74/55 mm Hg, pulse rate is 118/min, and respiration rate is 18/min on mechanical ventilation. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 91% on F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 1.00. Breath sounds are diminished bilaterally. Heart sounds are diminished."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"142e54",
+"children":[
+"Which of the following is the most appropriate next management step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Needle thoracostomy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Removal of central venous catheter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"42844c",
+"hvc":true,
+"children":[
+"Possible reasons for sudden hypotension following central line insertion include procedure-related hemothorax and tension pneumothorax."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a4ab5f",
+"hvc":true,
+"children":[
+"Point-of-care lung ultrasonography can help rapidly assess patients for pneumothorax and pleural fluid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"85b38e",
+"children":[
+"The most appropriate next step in management of shock in this patient is to perform chest ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Possible reasons for this patient's sudden hypotension include procedure-related hemothorax and tension pneumothorax. In patients in shock, point-of-care lung ultrasonography can help rapidly assess patients for pneumothorax and pleural fluid. Point-of-care ultrasonography when placing central venous catheters is associated with reduced periprocedural complications, including bleeding and pneumothorax. However, these complications still occur. In this patient, rapid onset of hypotension and poor lung and heart sounds should prompt the clinician to evaluate for intrathoracic bleeding or pneumothorax. The clinician can do so using point-of-care ultrasonography. In addition, lung ultrasonography can quickly visualize very small amounts of fluid within the pleural space."
+]
+},
+{
+"type":"p",
+"hlId":"6ddd3b",
+"children":[
+"Chest CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would confirm whether a patient has a pneumothorax or pleural effusion. However, delays associated with obtaining chest CT as well as the need to transport the patient to a CT scanner pose additional clinical risk to this unstable patient. Alternative measures that can be done quickly at the bedside are indicated to assess for periprocedural complications."
+]
+},
+{
+"type":"p",
+"hlId":"39f546",
+"children":[
+"Needle thoracostomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can help reverse the hemodynamic impact of a tension pneumothorax and often serves as a temporizing measure until a thoracostomy is placed. However, this maneuver is associated with risk, including intercostal or pulmonary vascular injury, intercostal nerve injury, and cardiac puncture or tamponade. In addition, if tension pneumothorax is not the cause of the hypotension, the patient would unnecessarily need a thoracostomy to re-expand the lung. It is not clear whether tension pneumothorax has caused this patient's hypotension, especially given that breath sounds are diminished on both sides. Needle thoracostomy should not be performed without first establishing the diagnosis of pneumothorax."
+]
+},
+{
+"type":"p",
+"hlId":"dc43b7",
+"children":[
+"Pneumothorax and vascular injury may occur during needle placement. It is rarely caused by the presence of the vascular catheter itself. Thus, removing the central venous catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not address the patient's hypotension. It is reasonable to keep the catheter in place while investigating the cause of the patient's hypotension."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_2_4",
+"objective":{
+"__html":"Evaluate patients with shock using point-of-care ultrasonography."
+},
+"references":[
+[
+"Parulekar P, Harris T, Jarman R. The use of lung ultrasound in acute medicine. Acute Med. 2019;18:239-246. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31912055",
+"target":"_blank"
+},
+"children":[
+"PMID: 31912055"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":48,
+"C":34,
+"D":13,
+"E":0
+},
+"hlIds":[
+"7d3fb1",
+"1b201f",
+"142e54",
+"42844c",
+"a4ab5f",
+"85b38e",
+"6ddd3b",
+"39f546",
+"dc43b7"
+]
+}

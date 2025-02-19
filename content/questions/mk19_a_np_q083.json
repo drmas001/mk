@@ -1,0 +1,448 @@
+{
+"id":"mk19_a_np_q083",
+"number":83,
+"bookId":"np",
+"correctAnswer":"E",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"eb719b",
+"children":[
+"A 59-year-old man is evaluated for recently discovered normochromic, normocytic anemia and an elevated serum creatinine level. He is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"fe6d2b",
+"children":[
+"All physical examination findings, including vital signs and neurologic examination, are normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"72a07f",
+"class":"cell text l",
+"children":[
+"9.2 g/dL (92 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"55d45f",
+"class":"cell text l",
+"children":[
+"3.0 mg/dL (265.2 µmol/L); 1 year ago: 1.0 mg/dL (88.4 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"514851",
+"class":"cell text l",
+"children":[
+"Trace protein; no blood, erythrocytes, leukocytes, leukocyte esterase, or nitrites"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d17af8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein-creatinine ratio, urine",
+"children":[
+"Urine protein-creatinine ratio"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4b421c",
+"class":"cell text l",
+"children":[
+"2500 mg/g"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Repeat urinalysis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"24-Hour urine collection for total protein"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sulfosalicylic acid test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine albumin-creatinine ratio"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Urine protein electrophoresis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"779c49",
+"children":[
+"The presence of significant measured proteinuria via urine protein-creatinine ratio in the context of minimal proteinuria on urine dipstick suggests the presence nonalbumin proteinuria."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bb67f6",
+"children":[
+"Nonalbumin proteinuria may include kidney-derived low-molecular-weight proteins, monoclonal immunoglobulins and light chains, myoglobin, and hemoglobin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"915c7a",
+"children":[
+"The most appropriate test to perform next is a urine protein electrophoresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This patient has an unexplained elevation of serum creatinine, indicating the presence of kidney disease. Assessment for urine protein is indicated in patients with any suspected kidney disease. Albumin is the predominant protein detected on urine dipstick. However, although proteinuria is most commonly comprised of albumin, other proteins, including kidney-derived low-molecular-weight proteins, monoclonal immunoglobulins and light chains, myoglobin, and hemoglobin, may be present. In this case, there was a discrepancy between the semiquantification of urine protein by dipstick and the urine protein-creatinine ratio, which raises concern for the excretion of protein other than albumin. In addition, the patient also has a normocytic, normochromic anemia. The combination of these findings strongly suggests the possibility of multiple myeloma. A urine electrophoresis and urine examination for light chains should be performed to help establish the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"0c6760",
+"children":[
+"A repeat urinalysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will not clarify the discrepancy between the urine dipstick and urine protein-creatinine ratio. The urine protein-creatinine ratio has identified significant proteinuria, which now must be investigated."
+]
+},
+{
+"type":"p",
+"hlId":"89c79f",
+"children":[
+"Quantification of proteinuria has traditionally been performed with a 24-hour urine collection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), which measures all proteins present in the urine. Due to challenges in feasibility, accuracy, and patient adherence, measurement of proteinuria is now typically performed by determining the ratio of protein or albumin to creatinine on random urine samples. These ratios are easily obtained and correlate well with timed collections."
+]
+},
+{
+"type":"p",
+"hlId":"4e99b5",
+"children":[
+"The sulfosalicylic acid test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used to detect the presence of not only albumin but also other proteins that are not detected with the urine dipstick, such as urine light chains or immunoglobulins. However, this test will simply confirm that the urine contains nonalbumin proteins, which has already been determined by the urine protein-creatinine ratio, but will not specifically identify light chains or immunoglobulins."
+]
+},
+{
+"type":"p",
+"hlId":"a660cc",
+"children":[
+"The urine albumin-creatinine ratio (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") measures only albumin in the urine. Although this test is helpful in evaluating for diabetic kidney disease, it will not determine the nature of the nonalbumin protein found in this patient's urine."
+]
+}
+],
+"relatedSection":"mk19_a_np_s1_2_3",
+"objective":{
+"__html":"Evaluate the cause of proteinuria."
+},
+"references":[
+[
+"Echeverry G, Hortin GL, Rai AJ. Introduction to urinalysis: historical perspectives and clinical application. Methods Mol Biol. 2010;641:1-12. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/20407938",
+"target":"_blank"
+},
+"children":[
+"PMID: 20407938"
+]
+},
+" doi:10.1007/978-1-60761-711-2_1"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":15,
+"C":6,
+"D":4,
+"E":74
+},
+"hlIds":[
+"eb719b",
+"fe6d2b",
+"a462a3",
+"f9867c",
+"72a07f",
+"f461b2",
+"55d45f",
+"747c2a",
+"514851",
+"d17af8",
+"4b421c",
+"983777",
+"779c49",
+"bb67f6",
+"915c7a",
+"0c6760",
+"89c79f",
+"4e99b5",
+"a660cc"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q003",
+"number":3,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fc6f05",
+"children":[
+"A 25-year-old man is evaluated in the emergency department for worsening shortness of breath and right-side pleuritic chest pain, which developed 1 hour ago. He has an 8-pack-year history of smoking cigarettes. His medical history is otherwise unremarkable, including the absence of lung disease. He is a professional scuba diver."
+]
+},
+{
+"type":"p",
+"hlId":"b32d84",
+"children":[
+"On physical examination, blood pressure is 150/70 mm Hg, pulse rate is 105/min, and respiration rate is 30/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% with the patient breathing ambient air. There are decreased breath sounds, reduced expansion, and hyperresonance to percussion on the right side."
+]
+},
+{
+"type":"p",
+"hlId":"463bad",
+"children":[
+"Chest radiograph reveals a large right pneumothorax and no signs of tension."
+]
+},
+{
+"type":"p",
+"hlId":"84855d",
+"children":[
+"Smoking cessation counseling and an offer of varenicline are planned at the time of discharge."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"181152",
+"children":[
+"Which of the following is the most appropriate additional pneumothorax management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Catheter thoracostomy followed by pleurodesis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Needle aspiration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Observation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supplemental oxygen and observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cd1138",
+"children":[
+"Recurrence prevention is recommended after the second episode of pneumothorax on the ipsilateral side in primary spontaneous pneumothorax and after the first occurrence in secondary spontaneous pneumothorax."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8fcbda",
+"children":[
+"Recurrence prevention is indicated following a first episode of pneumothorax in spontaneous primary pneumothorax in a patient with a high-risk occupation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a4c385",
+"children":[
+"The most appropriate additional management is catheter thoracostomy followed by pleurodesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient has a spontaneous pneumothorax. Because he has no known underlying lung disease, this would be classified as a primary spontaneous pneumothorax (PSP). A secondary spontaneous pneumothorax (SSP) occurs in someone with known underlying lung disease, such as COPD. The risk of recurrence after an initial occurrence of a PSP is 17% to 54% in the first year. Cigarette smoking is the most important risk factor for PSP. The relative risk of a first event of PSP is 22-fold higher in men and 9 times higher in women who smoke tobacco than in those who do not smoke. The patient should be counseled to stop smoking and offered pharmacologic assistance. Other risk factors include tall height and a low body mass index. Treatment for a first episode of PSP is observation, oxygen and observation, needle aspiration, or placement of a small-bore thoracostomy, depending on symptomatology. Definitive treatment with pleurodesis to prevent recurrence is usually not provided until a second ipsilateral event has occurred, unless the patient's occupation is considered high risk. This patient is a professional scuba diver and is at high risk of death if he has a recurrence while diving. Flying at high altitude is also considered a high-risk occupation. Given the patient's occupation, a more definitive management plan should be pursued following insertion of tube thoracostomy with either mechanical or talc pleurodesis."
+]
+},
+{
+"type":"p",
+"hlId":"79c0b3",
+"children":[
+"Recurrence prevention is recommended after the second episode of pneumothorax on the ipsilateral side in PSP and after the first occurrence in SSP due to the high recurrence rate (>50%). Depending on size and symptoms, needle aspiration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and oxygen and observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would all be appropriate options in a patient with a first episode of PSP who did not have a high-risk occupation. However, because this patient has a high-risk occupation, definitive therapy should be provided following a first episode of PSP."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_2_2",
+"objective":{
+"__html":"Manage primary spontaneous pneumothorax in a patient with a high-risk occupation."
+},
+"references":[
+[
+"Tschopp JM, Bintcliffe O, Astoul P, et al. ERS task force statement: diagnosis and treatment of primary spontaneous pneumothorax. Eur Respir J. 2015;46:321-35. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26113675",
+"target":"_blank"
+},
+"children":[
+"PMID: 26113675"
+]
+},
+" doi:10.1183/09031936.00219214"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":35,
+"C":7,
+"D":26,
+"E":0
+},
+"hlIds":[
+"fc6f05",
+"b32d84",
+"463bad",
+"84855d",
+"181152",
+"cd1138",
+"8fcbda",
+"a4c385",
+"79c0b3"
+]
+}

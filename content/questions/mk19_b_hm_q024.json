@@ -1,0 +1,786 @@
+{
+"id":"mk19_b_hm_q024",
+"number":24,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fd4c1b",
+"children":[
+"A 75-year-old woman is evaluated for fatigue and a 3-month history of pain in her neck, shoulders, and hips and low-grade fevers. She reports no headaches, vision changes, or jaw claudication. Her last colonoscopy was 5 years ago. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"512bd1",
+"children":[
+"On physical examination, vital signs are normal. No temporal or jaw tenderness is noted. Proximal girdle muscles are tender to palpation, with restricted range of motion owing to stiffness and pain. Muscle strength is symmetric and normal. No joint effusions or synovitis is evident."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"82aa14",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3d05d0",
+"class":"cell text l",
+"children":[
+"90 mm/h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"78122d",
+"class":"cell text l",
+"children":[
+"8.5 g/dL (85 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f5ca74",
+"class":"cell text l",
+"children":[
+"8000/μL (8 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with normal differential"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7c064b",
+"class":"cell text l",
+"children":[
+"450,000/μL (450 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"42dff3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular volume",
+"children":[
+"Mean corpuscular volume"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1e958e",
+"class":"cell text l",
+"children":[
+"84 fL"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7d8e6e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Reticulocyte count",
+"children":[
+"Reticulocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"78dc6e",
+"class":"cell text l",
+"children":[
+"1% of erythrocytes"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7450c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Iron, serum",
+"children":[
+"Iron studies"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a5c037",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Ferritin, serum",
+"children":[
+"Ferritin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"029207",
+"class":"cell text l",
+"children":[
+"800 ng/mL (800 μg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1f3a27",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Iron, serum",
+"children":[
+"Iron"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8c5255",
+"class":"cell text l",
+"children":[
+"10 μg/dL (2 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"181011",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Iron-binding capacity (TIBC), total, serum",
+"children":[
+"Total iron-binding capacity"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6765bb",
+"class":"cell text l",
+"children":[
+"200 μg/dL (36 μmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"418319",
+"children":[
+"Which of the following is the most appropriate management of this patient's anemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Erythropoiesis-stimulating agent"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Low-dose prednisone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Oral iron replacement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"74ff46",
+"children":[
+"Patients with anemia of inflammation have a hemoglobin level of 8 to 10 g/dL (80-100 g/L), slightly low or low-normal mean corpuscular volume, low reticulocyte count, increased serum ferritin level, and low serum iron level and total iron-binding capacity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b74a81",
+"children":[
+"Anemia of inflammation usually occurs in response to an underlying condition, and treatment is primarily directed toward identification and treatment of the underlying condition."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e06088",
+"children":[
+"This patient should begin low-dose prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She most likely has anemia of inflammation resulting from polymyalgia rheumatica (suggested by history of pain, physical examination findings of tenderness and limited range of motion in the shoulders and hips, and elevated markers of inflammation). Patients with anemia of inflammation have a hemoglobin level of 8 to 10 g/dL (80-100 g/L), slightly low or low-normal mean corpuscular volume, low reticulocyte count, increased serum ferritin level, and low serum iron level and total iron-binding capacity. Treatment of anemia of inflammation is primarily directed toward identification and treatment of the underlying inflammatory condition. In this patient, treatment of her polymyalgia rheumatic with low-dose prednisone will reduce inflammation and improve the anemia."
+]
+},
+{
+"type":"p",
+"hlId":"2a46cc",
+"children":[
+"In addition to the complete blood count and review of the peripheral blood smear, a bone marrow aspirate and biopsy can be helpful to anemia when assessing stem cell disorders such as aplastic anemia, dysmyelopoietic syndrome, and acute leukemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Anemia combined with other cytopenias increases the likelihood of a primary marrow cause. This patient has no indications for a bone marrow examination in the absence of pancytopenia and normal leukocyte differential."
+]
+},
+{
+"type":"p",
+"hlId":"3e0df2",
+"children":[
+"Elevation of inflammatory cytokines results in reduced production of endogenous erythropoietin and significant blunting of erythropoiesis stimulation despite erythropoietin being present. The value of erythropoiesis-stimulating agents is generally limited in treating anemia of inflammation because of the blunted erythropoiesis response (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"a81612",
+"children":[
+"Men and postmenopausal women with iron deficiency anemia should undergo bidirectional endoscopy to discover a potential source of occult gastrointestinal bleeding. The patient has a reduced serum iron level and total iron-binding capacity with an elevated serum ferritin level. These findings are most consistent with anemia of inflammation rather than iron deficiency (in which the total iron-binding capacity is normal or elevated and the serum ferritin level is <100 ng/mL [100 μg/L]). It is unnecessary to investigate iron deficiency anemia using colonoscopy in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Additionally, oral iron replacement therapy is not indicated in the absence of confirmed iron deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_2_2",
+"objective":{
+"__html":"Manage anemia of inflammation."
+},
+"references":[
+[
+"Ganz T. Anemia of inflammation. N Engl J Med. 2019;381:1148-1157. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31532961",
+"target":"_blank"
+},
+"children":[
+"PMID: 31532961"
+]
+},
+" doi:10.1056/NEJMra1804281"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":11,
+"C":6,
+"D":61,
+"E":11
+},
+"hlIds":[
+"fd4c1b",
+"512bd1",
+"a462a3",
+"82aa14",
+"3d05d0",
+"f9867c",
+"78122d",
+"2989c0",
+"f5ca74",
+"fcac73",
+"7c064b",
+"42dff3",
+"1e958e",
+"7d8e6e",
+"78dc6e",
+"7450c0",
+"d41d8c",
+"a5c037",
+"029207",
+"1f3a27",
+"8c5255",
+"181011",
+"6765bb",
+"418319",
+"74ff46",
+"b74a81",
+"e06088",
+"2a46cc",
+"3e0df2",
+"a81612"
+]
+}

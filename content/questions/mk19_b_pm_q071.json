@@ -1,0 +1,222 @@
+{
+"id":"mk19_b_pm_q071",
+"number":71,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d900f4",
+"children":[
+"A 45-year-old woman is evaluated in the ICU for community-acquired pneumonia and septic shock. Appropriate resuscitation efforts are under way."
+]
+},
+{
+"type":"p",
+"hlId":"12b4c0",
+"children":[
+"On physical examination, temperature is 39.2 °C (102.6 °F), blood pressure is 92/50 mm Hg, pulse rate is 120/min, and respiration rate is 25/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 85% on bilevel positive airway pressure, and F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is 0.60. Auscultation of the lungs reveals decreased breath sounds over the left lung base."
+]
+},
+{
+"type":"p",
+"hlId":"3fd508",
+"children":[
+"Chest radiograph reveals scattered infiltrates in the lower lungs with dense consolidation in the left lower lobe and a small left pleural effusion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4460ca",
+"children":[
+"Which of the following is the most appropriate diagnostic test for evaluation of the pleural effusion?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bedside thoracic ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest CT with contrast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lateral decubitus film"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thoracic MRI"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"631de5",
+"children":[
+"Thoracic ultrasonography allows for the easy identification of a free-flowing or loculated pleural effusion and can differentiate between solid masses and loculated effusions."
+]
+},
+{
+"type":"keypoint",
+"hlId":"22c178",
+"children":[
+"Thoracic point-of-care ultrasonography is a helpful addition particularly in patients who are semirecumbent, such as those who are critically ill, and does not necessitate moving the patient from the ICU."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5b4902",
+"children":[
+"The most appropriate diagnostic test to perform is bedside thoracic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient is presenting with septic shock and hypoxemic respiratory failure. Her presentation is secondary to a multifocal pneumonia with an associated left pleural effusion. Once a pleural effusion is detected on chest radiograph, bedside thoracic ultrasonography can be used to characterize the fluid and the feasibility of drainage. Thoracic point-of-care ultrasonography is a helpful addition particularly in patients who are semirecumbent, such as those who are critically ill, and does not necessitate transporting the patient from the ICU or interrupting resuscitation. Thoracic ultrasonography allows for the easy identification of a free-flowing or loculated pleural effusion and can differentiate between solid masses and loculated effusions. The presence of a loculated pleural effusion in the setting of severe community-acquired pneumonia would be an indication for diagnostic sampling and drainage of the effusion."
+]
+},
+{
+"type":"p",
+"hlId":"5f3b74",
+"children":[
+"Advantages of CT imaging with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") include the ability to detect small amounts of pleural fluid; assessment of coexisting intrathoracic abnormalities such as pulmonary masses and malignant pleural disease; and identification of an empyema, as enhancement of the pleura around the fluid creates a lenticular-shaped opacity. However, CT imaging requires the patient to be removed from the ICU and exposes the patient to irradiation."
+]
+},
+{
+"type":"p",
+"hlId":"9ef57e",
+"children":[
+"A lateral decubitus film (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would also differentiate between a free-flowing and a loculated pleural effusion. However, it is now rarely used in the ICU because bedside ultrasonography is easy to access and to use. In addition, a lateral decubitus film would not demonstrate the feasibility of drainage as ultrasound does."
+]
+},
+{
+"type":"p",
+"hlId":"33b76a",
+"children":[
+"Finally, a thoracic MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can effectively display pleural tumors, chest wall invasion, spinal cord invasion, and pleural effusions. However, it is not as useful as thoracic ultrasonography and CT for evaluation of parapneumonic effusions, it is expensive, and it requires the patient to be moved from the ICU."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_1_1_2",
+"objective":{
+"__html":"Evaluate a pleural effusion in the ICU."
+},
+"references":[
+[
+"Porcel JM. Chest imaging for the diagnosis of complicated parapneumonic effusions. Curr Opin Pulm Med. 2018;24:398-402. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29517587",
+"target":"_blank"
+},
+"children":[
+"PMID: 29517587"
+]
+},
+" doi:10.1097/MCP.0000000000000485"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":54,
+"B":18,
+"C":27,
+"D":1,
+"E":0
+},
+"hlIds":[
+"d900f4",
+"12b4c0",
+"3fd508",
+"4460ca",
+"631de5",
+"22c178",
+"5b4902",
+"5f3b74",
+"9ef57e",
+"33b76a"
+]
+}

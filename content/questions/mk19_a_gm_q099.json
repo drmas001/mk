@@ -1,0 +1,188 @@
+{
+"id":"mk19_a_gm_q099",
+"number":99,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 99",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e43510",
+"children":[
+"A 57-year-old woman is evaluated for low back pain of 2 weeks' duration. The pain is localized to the lumbar area. Her bowel and bladder habits are unchanged. She is otherwise healthy, and her only medication is naproxen for back pain."
+]
+},
+{
+"type":"p",
+"hlId":"85379d",
+"children":[
+"On physical examination, she appears generally uncomfortable. There is pain bilaterally on palpation of the paraspinal muscles of the lumbar spine. Pain is worsened with flexion or extension of the lumbar spine. Lower extremity strength and reflexes are normal. There are no sensory deficits."
+]
+},
+{
+"type":"p",
+"hlId":"013747",
+"children":[
+"Nonpharmacologic treatment options are discussed with the patient."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lorazepam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Patient education"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic glucocorticoids"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9c665e",
+"hvc":true,
+"children":[
+"Patient education in primary care can provide long-term reassurance for patients with acute or subacute low back pain and reduces low back pain–related primary care visits more than usual care."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8ebd65",
+"children":[
+"In addition to nonpharmacologic treatment, patient education is the most appropriate management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Guidelines recommend that clinicians educate patients on the favorable prognosis of acute low back pain with or without sciatica, including the high probability of improvement in the first month. Clinicians should also educate patients about the expected course, advise them to remain active, and provide effective self-care options. Shared decision making should be used to select the most appropriate treatment based on patient preferences, availability, harms, and costs. Support for patient education as a significant therapeutic intervention comes from a systematic review and meta-analysis that reported moderate- to high-quality evidence that patient education in primary care can provide long-term reassurance for patients with acute or subacute low back pain. Moderate-quality evidence showed that patient education reduces low back pain–related primary care visits more than usual care."
+]
+},
+{
+"type":"p",
+"hlId":"0be979",
+"children":[
+"In patients with acute or subacute low back pain, acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") does not appear to be effective at improving pain outcomes versus placebo at 3 weeks. Other studies comparing acetaminophen with NSAIDs showed no difference in patient-related outcomes. Because this patient is already taking an NSAID, adding acetaminophen is unlikely to have a substantial effect on the patient's recovery."
+]
+},
+{
+"type":"p",
+"hlId":"eda720",
+"children":[
+"In an American College of Physicians systematic review of the treatment of low back pain, evidence was insufficient to determine the effectiveness of antidepressants, benzodiazepines (such as lorazepam [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"]), antiseizure medications, or opioids in patients with acute or subacute low back pain."
+]
+},
+{
+"type":"p",
+"hlId":"f12883",
+"children":[
+"Low-quality evidence has indicated that systemic glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are not effective in treating acute or subacute low back pain, and current guidelines recommend against them."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_2",
+"objective":{
+"__html":"Provide patient education regarding low back pain."
+},
+"references":[
+[
+"Traeger AC, Hübscher M, Henschke N, Moseley GL, Lee H, McAuley JH. Effect of primary care-based education on reassurance in patients with acute low back pain: systematic review and meta-analysis. JAMA Intern Med. 2015;175:733-43. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25799308",
+"target":"_blank"
+},
+"children":[
+"PMID: 25799308"
+]
+},
+" doi:10.1001/jamainternmed.2015.0217"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":27,
+"B":1,
+"C":69,
+"D":2,
+"E":0
+},
+"hlIds":[
+"e43510",
+"85379d",
+"013747",
+"1e31fb",
+"9c665e",
+"8ebd65",
+"0be979",
+"eda720",
+"f12883"
+]
+}

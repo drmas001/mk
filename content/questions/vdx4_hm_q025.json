@@ -1,0 +1,188 @@
+{
+"id":"vdx4_hm_q025",
+"number":25,
+"bookId":"vdx_hm",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"01c321",
+"children":[
+"A 51-year-old woman is evaluated for fatigue, weight loss, fever, chills, and splenomegaly."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f025a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f025a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chronic myeloid leukemia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Essential thrombocythemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myelofibrosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Polycythemia vera"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b0de1d",
+"children":[
+"The most likely diagnosis is myelofibrosis. This patient's leukoerythroblastic blood smear ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f025b",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" left-shifted granulopoiesis (bands on either side of a large myelocyte above a metamyelocyte in ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"brackets"
+]
+},
+") and nucleated (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"blue arrow"
+]
+},
+") and teardrop-shaped (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"green arrow"
+]
+},
+") erythrocytes, which define a crowded myelophthisic marrow. This pattern is seen in primary myelofibrosis or other secondary infiltrative processes of the marrow, such as metastatic carcinoma. A mature neutrophil is seen in the bottom right of the image."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_hm_mcq_f025b"
+]
+},
+{
+"type":"p",
+"hlId":"8a907d",
+"children":[
+"Primary myelofibrosis is a clonal myeloid stem cell disorder with characteristic marrow fibrosis and extramedullary hematopoiesis. This increased fibrosis is thought to be related to proliferation of clonal megakaryocytes, which secrete excess fibroblast growth factor. Hematopoietic progenitors are increased in the circulation, providing a leukoerythroblastic picture seen on the peripheral blood smear shown."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_3_4",
+"objective":{
+"__html":"Diagnose myelofibrosis."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f025a":{
+"id":"vdx4_hm_mcq_f025a",
+"number":25,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"20062618a905aef7e3b24056c78d250d",
+"height":677,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_hm_mcq_f025b":{
+"id":"vdx4_hm_mcq_f025b",
+"number":25,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"5c7dd588316d4a26e97f455729c3a9bd",
+"height":677,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"01c321",
+"f3f1a8",
+"413696",
+"b0de1d",
+"8a907d"
+]
+}

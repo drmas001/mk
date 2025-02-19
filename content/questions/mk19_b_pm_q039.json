@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q039",
+"number":39,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2754fa",
+"children":[
+"An 81-year-old man is evaluated in the hospital for pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"ebf9c3",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F), blood pressure is 119/65 mm Hg, pulse rate is 110/min, and respiration rate is 24/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 88% with the patient breathing ambient air. There are coarse rhonchi and decreased breath sounds and dullness to percussion over the left lower half of the chest."
+]
+},
+{
+"type":"p",
+"hlId":"8f3129",
+"children":[
+"CT scan of the chest shows left lower lobe consolidation and loculated left pleural effusion. A thoracentesis is performed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"38a2c4",
+"children":[
+"Which of the following pleural fluid tests is most appropriate in directing therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lactate dehydrogenase"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"pH"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Procalcitonin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Total protein"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"10f2d2",
+"children":[
+"In the setting of suspected infection, a pleural fluid pH level of less than 7.2 (or glucose <40 mg/dL [2.2 mmol/L] in the absence of pH data) is the best indicator of a complicated pleural effusion that requires drainage."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"404851",
+"children":[
+"The diagnostic test that will be most helpful in directing therapy is pleural fluid pH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient presents with severe community-acquired pneumonia and an associated pleural effusion (parapneumonic effusion). A parapneumonic effusion can be either uncomplicated (sterile and free flowing) or complicated (infected or loculated). An uncomplicated effusion is typically small and can resolve on its own. A complicated parapneumonic effusion occurs when there has been bacterial invasion across the pleural mesothelium, stimulating a significant inflammatory response. A diagnostic thoracentesis should be performed to assess the pleural effusion. A parapneumonic effusion is considered complicated when an exudative effusion has either or both of the following characteristics: pH less than 7.2 (or glucose <40 mg/dL [2.2 mmol/L] in the absence of pH data) or evidence of microorganism invasion by culture or Gram stain. In the setting of suspected infection, a pleural fluid pH level of less than 7.2 is the best indicator of a complicated pleural effusion that requires drainage. Ultrasonography also has been found useful in the determination of a complicated parapneumonic effusion and has a sensitivity of 69% and specificity of 90% when complexity is seen."
+]
+},
+{
+"type":"p",
+"hlId":"e5c71d",
+"children":[
+"A pleural-fluid lactate dehydrogenase (LDH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") level greater than two thirds of the upper limit of normal for serum LDH may support the diagnosis of an exudate in this patient, but it is nonspecific and may simply be an indicator of inflammation rather than infection of the pleural space."
+]
+},
+{
+"type":"p",
+"hlId":"297cdf",
+"children":[
+"Pleural fluid procalcitonin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been studied as a method to differentiate parapneumonic and tuberculous pleural effusions from other causes of exudative effusions and to differentiate parapneumonic from tuberculous pleural effusions. However, studies have failed to demonstrate the value of procalcitonin measurement, and it is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"bc3281",
+"children":[
+"Total protein measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are helpful in characterizing the pleural fluid as exudative by Light's criteria (ratio of pleural-fluid protein to serum protein level >0.5). However, total pleural fluid protein measurements do not differentiate between a complicated and an uncomplicated parapneumonic effusion."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_1_2_1",
+"objective":{
+"__html":"Diagnose a complicated parapneumonic effusion."
+},
+"references":[
+[
+"Feller-Kopman D, Light R. Pleural disease. N Engl J Med. 2018;378:740-751. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29466146",
+"target":"_blank"
+},
+"children":[
+"PMID: 29466146"
+]
+},
+" doi:10.1056/NEJMra1403503"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":60,
+"C":10,
+"D":15,
+"E":0
+},
+"hlIds":[
+"2754fa",
+"ebf9c3",
+"8f3129",
+"38a2c4",
+"10f2d2",
+"404851",
+"e5c71d",
+"297cdf",
+"bc3281"
+]
+}

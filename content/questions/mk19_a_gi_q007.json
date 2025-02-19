@@ -1,0 +1,568 @@
+{
+"id":"mk19_a_gi_q007",
+"number":7,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7d38cf",
+"children":[
+"A 43-year-old woman is evaluated in the emergency department for confusion and a 1-week history of yellow skin. She consumes 12 beers daily."
+]
+},
+{
+"type":"p",
+"hlId":"3667a1",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F); blood pressure is 120/50 mm Hg, pulse rate is 100/min, and respiration rate is 24/min. Her sclerae are icteric and skin is jaundiced. Tender hepatomegaly is present. She has asterixis and is oriented to person only. No source of infection has been identified. Maddrey discriminant function score is 35."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2f11d3",
+"class":"cell text l",
+"children":[
+"14,000/μL (14 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93eab9",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"Prothrombin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"982e21",
+"class":"cell text l",
+"children":[
+"14.0 s (control, 10.0 s)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8fcf2c",
+"class":"cell text l",
+"children":[
+"200 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"830b1f",
+"class":"cell text l",
+"children":[
+"30 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ae0e34",
+"class":"cell text l",
+"children":[
+"62 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fde09a",
+"class":"cell text l",
+"children":[
+"17.0 mg/dL (290.7 μmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"783733",
+"children":[
+"Ultrasound of the right upper quadrant shows hepatomegaly, minimal ascites, liver echogenicity, and no biliary stones or ductal dilation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cefepime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisolone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0d8bd3",
+"children":[
+"Prednisolone is the treatment for severe alcoholic hepatitis, defined as a Maddrey discriminant function score of 32 or greater or the presence of hepatic encephalopathy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ef6b2c",
+"children":[
+"Patients with alcoholic hepatitis treated with prednisolone who do not respond after 7 days should have the prednisolone discontinued; otherwise, prednisolone should be continued for 28 days."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3e6650",
+"children":[
+"The most appropriate management is prednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has acute alcoholic hepatitis, a distinct clinical syndrome of severe steatohepatitis in the setting of chronic alcoholic liver disease. Acute alcoholic hepatitis often presents with fever, jaundice, tender hepatomegaly, and leukocytosis. The short-term mortality rate is high. In severe cases, as defined by a Maddrey discriminant function (MDF) score of 32 or greater or the presence of hepatic encephalopathy, treatment with prednisolone can be considered. The MDF score = 4.6 (prothrombin time [s] – control prothrombin time [s]) + serum total bilirubin (mg/dL). A meta-analysis of randomized studies showed that glucocorticoids were effective in reducing short-term mortality by 46%. This treatment should be considered in patients who do not have evidence of infection or gastrointestinal bleeding. This patient's MDF score is 35, and prednisolone should be considered. Prednisolone should be discontinued if there is no or only minimal response to therapy by day 7, as determined by the Lille model score (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.mdcalc.com/lille-model-alcoholic-hepatitis",
+"target":"_blank"
+},
+"children":[
+"https://www.mdcalc.com/lille-model-alcoholic-hepatitis"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"258808",
+"children":[
+"Although infections are common in patients with acute alcoholic hepatitis, in the absence of infection or suspicion of active infection, antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"bcc674",
+"children":[
+"Acute alcoholic hepatitis is most often diagnosed clinically, with liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") reserved for cases with diagnostic uncertainty. In this patient, the presence of fever, jaundice, tender hepatomegaly, and leukocytosis and a history of substantial alcohol consumption obviate the need for liver biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"585b68",
+"children":[
+"The 2018 American College of Gastroenterology guideline on alcoholic liver disease makes a conditional recommendation against the use of pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for patients with severe alcoholic hepatitis. Pentoxifylline should not be selected as initial therapy for this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_4",
+"objective":{
+"__html":"Treat alcoholic hepatitis."
+},
+"references":[
+[
+"Crabb DW, Im GY, Szabo G, et al. Diagnosis and treatment of alcohol-associated liver diseases: 2019 practice guidance from the American Association for the Study of Liver Diseases. Hepatology. 2020;71:306-333. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31314133",
+"target":"_blank"
+},
+"children":[
+"PMID: 31314133"
+]
+},
+" doi:10.1002/hep.30866"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":29,
+"B":7,
+"C":7,
+"D":58,
+"E":0
+},
+"hlIds":[
+"7d38cf",
+"3667a1",
+"a462a3",
+"2989c0",
+"2f11d3",
+"93eab9",
+"982e21",
+"1cc80b",
+"8fcf2c",
+"62ea29",
+"830b1f",
+"c7d329",
+"ae0e34",
+"c6e520",
+"fde09a",
+"783733",
+"cb2b54",
+"0d8bd3",
+"ef6b2c",
+"3e6650",
+"258808",
+"bcc674",
+"585b68"
+]
+}

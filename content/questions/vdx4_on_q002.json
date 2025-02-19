@@ -1,0 +1,129 @@
+{
+"id":"vdx4_on_q002",
+"number":2,
+"bookId":"vdx_on",
+"correctAnswer":"B",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"85006f",
+"children":[
+"A 67-year-old woman is evaluated for a lung nodule found during lung cancer screening."
+]
+},
+{
+"type":"p",
+"hlId":"5b1ce7",
+"children":[
+"PET/CT scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_on_mcq_f002",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_on_mcq_f002"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hamartoma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lung cancer"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary arteriovenous malformation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rounded atelectasis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4d5a1d",
+"children":[
+"The most likely diagnosis is lung cancer. The PET/CT scan shows enhanced uptake of the 18-fluorodeoxyglucose marker (seen as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red"
+]
+},
+" on the image), indicating increased metabolic activity consistent with a high likelihood of malignancy. No abnormal 18-fluorodeoxyglucose uptake was seen elsewhere on the scan. Resection showed an adenocarcinoma with no evidence of spread to hilar or mediastinal nodes."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6",
+"objective":{
+"__html":"Diagnose lung cancer with PET/CT scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_on_mcq_f002":{
+"id":"vdx4_on_mcq_f002",
+"number":2,
+"bookId":"vdx_on",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"db663787f220f9f1c2c0bbbff47f93b7",
+"height":145,
+"width":299,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"85006f",
+"5b1ce7",
+"413696",
+"4d5a1d"
+]
+}

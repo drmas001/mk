@@ -1,0 +1,196 @@
+{
+"id":"mk19_a_gi_q093",
+"number":93,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c667b2",
+"children":[
+"A 68-year-old man is evaluated in follow-up for constant, moderate epigastric pain that radiates to the back. Chronic pancreatitis was diagnosed 1 week ago. He is a 45-pack-year smoker. He does not currently drink alcohol."
+]
+},
+{
+"type":"p",
+"hlId":"900c3b",
+"children":[
+"On physical examination, vital signs are normal. Deep abdominal palpation elicits mild epigastric tenderness."
+]
+},
+{
+"type":"p",
+"hlId":"6c18cb",
+"children":[
+"A pancreas-protocol CT scan demonstrated an atrophic pancreas with calcifications throughout, no masses, and no cystic lesions. The pancreatic duct caliber is normal."
+]
+},
+{
+"type":"p",
+"hlId":"b939cc",
+"children":[
+"NSAIDs and acetaminophen are recommended for pain."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"781d4c",
+"children":[
+"Which of the following is the most appropriate additional treatment for pain?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Oxycodone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pancreatic enzyme therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical pancreatic duct decompression"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tobacco cessation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ea2d82",
+"hvc":true,
+"children":[
+"Alcohol and tobacco avoidance are strongly recommended for patients with chronic pancreatitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3f15f6",
+"children":[
+"The most appropriate additional treatment for pain is tobacco cessation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient has chronic pancreatitis. Long-term tobacco use is an independent risk factor for acute and chronic pancreatitis, as well as pancreatic cancer. It is synergistic with alcohol in promoting morbidity related to pancreatic disease. Initial therapy for chronic pancreatitis pain should entail lifestyle modification, including alcohol and tobacco cessation, and simple analgesics. No direct evidence addresses whether alcohol cessation alters the natural history of chronic pancreatitis pain. However, several case series have suggested that discontinuing alcohol use improves the pain in chronic pancreatitis but does not necessarily alter the progression to endocrine or exocrine dysfunction. There is no direct evidence that smoking cessation is beneficial in improving the natural history of chronic pancreatitis. However, case series have shown a decrease in the amount of pancreatic calcification progression when smoking cessation occurs at the time of diagnosis of chronic pancreatitis. Both alcohol and smoking cessation are strongly recommended in the American College of Gastroenterology (ACG) guideline on chronic pancreatitis. Amitriptyline and nortriptyline may reduce pain from neuropathic conditions and therefore may be useful in patients with chronic pancreatitis. ACG makes no recommendation for or against these drug therapies in patients with chronic pancreatitis."
+]
+},
+{
+"type":"p",
+"hlId":"c36a7c",
+"children":[
+"Opioids, such as oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), should be avoided in the long-term management of chronic pancreatitis. Although they may be helpful for analgesia in acute pancreatitis and during flares of chronic pancreatitis, they may lead to hyperesthesia and opioid tolerance. The ACG recommends that opiates may be considered to treat painful chronic pancreatitis only in patients for whom all other reasonable therapeutic options have been exhausted."
+]
+},
+{
+"type":"p",
+"hlId":"0cf656",
+"children":[
+"A large systematic review found conflicting evidence for the efficacy of pancreatic enzyme replacement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in pain control; however, enzyme therapy may improve fat absorption. The ACG makes a conditional recommendation not to use pancreatic enzyme supplements to improve pain in chronic pancreatitis."
+]
+},
+{
+"type":"p",
+"hlId":"c0f9a4",
+"children":[
+"Patients with chronic pancreatitis often experience pain in the setting of pancreatic duct obstruction due to duct stones and strictures. Although surgical approaches to pancreatic duct decompression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") provide better long-term pain relief than endoscopic approaches, they are rarely first-line therapies; in addition, many surgeons operate only after endoscopic approaches to pancreatic drainage have been exhausted or unsuccessful. This patient does not have evidence of pancreatic duct obstruction."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_2_2",
+"objective":{
+"__html":"Treat chronic pancreatitis with tobacco avoidance."
+},
+"references":[
+[
+"Gardner TB, Adler DG, Forsmark CE, et al. ACG clinical guideline: chronic pancreatitis. Am J Gastroenterol. 2020;115:322-339. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32022720",
+"target":"_blank"
+},
+"children":[
+"PMID: 32022720"
+]
+},
+" doi:10.14309/ajg.0000000000000535"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":9,
+"B":35,
+"C":3,
+"D":53,
+"E":0
+},
+"hlIds":[
+"c667b2",
+"900c3b",
+"6c18cb",
+"b939cc",
+"781d4c",
+"ea2d82",
+"3f15f6",
+"c36a7c",
+"0cf656",
+"c0f9a4"
+]
+}

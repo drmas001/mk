@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q113",
+"number":113,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 113",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b4b1da",
+"children":[
+"A 32-year-old woman with an established diagnosis of primary hypothyroidism is evaluated during the fourth week of her first pregnancy. She is asymptomatic. Her only medications are levothyroxine, 125 µg/d, and prenatal vitamins with folic acid."
+]
+},
+{
+"type":"p",
+"hlId":"762b5b",
+"children":[
+"Physical examination findings are normal. Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level is 4.2 µU/mL (4.2 mU/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level is 1.6 ng/dL (20.6 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Increase the levothyroxine dosage by 10% now"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase the levothyroxine dosage by 30% now"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase the levothyroxine dosage by 50% in the second trimester"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Continue current management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9193ec",
+"children":[
+"During pregnancy, the levothyroxine dosage is typically increased in the first trimester, with a possible total increase of 30% to 50%."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0b2ecc",
+"children":[
+"During pregnancy, thyroid-stimulating hormone levels should be maintained in the lower half of the trimester-specific reference range, or less than 2.5 µU/mL (2.5 mU/L)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"976cc9",
+"children":[
+"This patient's levothyroxine dosage should be increased by 30% now (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and the thyroid function tests should be repeated in 2 to 4 weeks. Pregnancy is known to increase levothyroxine requirements in most patients receiving thyroid replacement therapy, and this expected increase should be anticipated by increasing her levothyroxine dosage. The levothyroxine dosage is typically increased in the first (and sometimes in the second) trimester of pregnancy, with a possible total increase of 30% to 50%. During pregnancy, thyroid-stimulating hormone (TSH) levels should be maintained in the lower half of the trimester-specific reference range, or less than 2.5 µU/mL (2.5 mU/L) if trimester-specific reference ranges are unavailable. In contrast, the upper range of normal for nonpregnant patients is approximately 4.5 to 5.0 µU/mL (4.5-5.0 mU/L)."
+]
+},
+{
+"type":"p",
+"hlId":"b14d0c",
+"children":[
+"Increasing the levothyroxine dosage by only 10% (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will be insufficient; an increase in 30% to 50% is required to maintain the TSH level in the lower half of the trimester-specific reference range."
+]
+},
+{
+"type":"p",
+"hlId":"1d9390",
+"children":[
+"Increasing the thyroxine level by 50% in the second semester (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") will result in maternal hypothyroidism during the first trimester and places the fetus at substantial risk. The fetus is dependent on transplacental transfer of maternal thyroid hormones during the first 12 weeks of gestation. The presence of maternal subclinical or overt hypothyroidism may be associated with subsequent fetal neurocognitive impairment, increased risk for premature birth, low birth weight, increased miscarriage rate, and even an increased risk for fetal death. In pregnant women with hypothyroidism, thyroid function testing should be frequent, preferably every 4 weeks, to protect the health of mother and fetus and to avoid pregnancy complications. When serum TSH values are inappropriately elevated, the dosage of levothyroxine is increased, and free thyroxine and TSH levels are monitored every 2 to 4 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"e94a0f",
+"children":[
+"Continuing the current levothyroxine dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate in this patient because her TSH level is already too high at 4.2 µU/mL (4.2 mU/L) and requirements for thyroxine will continue to increase during the first and possibly the second trimester."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_6",
+"objective":{
+"__html":"Treat hypothyroidism during pregnancy."
+},
+"references":[
+[
+"Alexander EK, Pearce EN, Brent GA, et al. 2017 guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum. Thyroid. 2017;27:315-389. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28056690",
+"target":"_blank"
+},
+"children":[
+"PMID: 28056690"
+]
+},
+" doi:10.1089/thy.2016.0457"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b4b1da",
+"762b5b",
+"cb2b54",
+"9193ec",
+"0b2ecc",
+"976cc9",
+"b14d0c",
+"1d9390",
+"e94a0f"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_cv_q075",
+"number":75,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a021cc",
+"children":[
+"An 18-year-old man is evaluated before participating on his college basketball team. He has no history of hypertension or other pertinent medical history. He has no history of palpitations, chest pain, or unusual dyspnea, and there is no family history of sudden cardiac death or cardiomyopathy."
+]
+},
+{
+"type":"p",
+"hlId":"f08876",
+"children":[
+"On physical examination, blood pressure is 110/70 mm Hg and pulse rate is 52/min. BMI is 22. No murmur is heard."
+]
+},
+{
+"type":"p",
+"hlId":"e8fe5a",
+"children":[
+"ECG shows sinus bradycardia, with voltage criteria for left ventricular (LV) hypertrophy. The corrected QT interval is 400 ms. Early repolarization is noted."
+]
+},
+{
+"type":"p",
+"hlId":"939d1a",
+"children":[
+"An echocardiogram shows a mildly dilated LV cavity. The ejection fraction is greater than 55% without regional abnormality. Symmetric LV hypertrophy is noted, with LV wall thickness of 12 mm. LV diastolic filling, left atrial size, and valvular structure and function are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Athlete heart"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fabry disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypertensive heart disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nonobstructive hypertrophic cardiomyopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"690d3e",
+"children":[
+"Increased left ventricular (LV) wall thickness and LV cavity dilatation may be normal findings in highly trained athletes; symmetric wall thickness of 13 mm or less and normal diastolic filling favor the diagnosis of athlete heart over the diagnosis of hypertrophic cardiomyopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa39b9",
+"children":[
+"The most likely diagnosis is athlete heart (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It is important, and sometimes difficult, to distinguish normal training-related adaptive changes of the heart from potentially life-threatening pathologic processes. This distinction affects the patient's ability to continue to participate in athletics as well as the consideration of further testing and treatment. Structural adaptations of the left ventricle in response to rigorous training include dilatation and increased wall thickness; these findings do not necessarily indicate pathology. In a study of elite athletes, left ventricular (LV) end-diastolic diameters ranged from 38 to 66 mm in women (mean, 48 mm) and from 43 to 70 mm in men (mean, 55 mm). Markedly dilated LV chambers (>60 mm) were most common in athletes with higher body mass and those participating in endurance sports. Increased wall thickness is common, but wall thickness greater than 13 mm is uncommon in elite athletes and should raise suspicion for possible underlying pathology. LV diastolic filling in athletes is most often normal but may show enhanced passive LV filling. Abnormal diastolic filling patterns are more common in patients with pathologic conditions. LV ejection fraction is usually normal in athletes."
+]
+},
+{
+"type":"p",
+"hlId":"6770b7",
+"children":[
+"Fabry disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is associated with increased LV wall thickness. However, it is also associated with fatigue, burning dysesthesia in the extremities, and angiokeratoma, none of which is present in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"713a8e",
+"children":[
+"This patient has no history of hypertension, making hypertensive heart disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") an unlikely cause of load-dependent hypertrophy."
+]
+},
+{
+"type":"p",
+"hlId":"c820a0",
+"children":[
+"Although the patient has no family history of hypertrophic cardiomyopathy (HCM), spontaneous genetic mutations may occur. This patient's findings are consistent with athlete heart, but if wall thickness were greater or if clinical concern remained high, a period of several months of deconditioning followed by re-evaluation, or cardiac magnetic resonance imaging with gadolinium, would be useful to differentiate between athlete heart and nonobstructive HCM (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or another condition."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7_1_2",
+"objective":{
+"__html":"Diagnose athlete heart."
+},
+"references":[
+[
+"Baggish AL, Wood MJ. Athlete's heart and cardiovascular care of the athlete: scientific and clinical update. Circulation. 2011;123:2723-35. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/21670241",
+"target":"_blank"
+},
+"children":[
+"PMID: 21670241"
+]
+},
+" doi:10.1161/CIRCULATIONAHA.110.981571"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":66,
+"B":2,
+"C":4,
+"D":29,
+"E":0
+},
+"hlIds":[
+"a021cc",
+"f08876",
+"e8fe5a",
+"939d1a",
+"413696",
+"690d3e",
+"aa39b9",
+"6770b7",
+"713a8e",
+"c820a0"
+]
+}

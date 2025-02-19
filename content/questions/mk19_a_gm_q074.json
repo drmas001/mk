@@ -1,0 +1,188 @@
+{
+"id":"mk19_a_gm_q074",
+"number":74,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"cf03d9",
+"children":[
+"A 33-year-old woman is evaluated in the emergency department after a friend found her unresponsive and called emergency medical services. She is now alert and reports that she had used heroin hours earlier, as well as oxycodone and clonazepam just before this episode. She was treated in another local emergency department 2 months ago for a similar accidental polysubstance overdose."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"df1b30",
+"children":[
+"Which of the following is the most appropriate measure for preventing an overdose-related death in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intranasal naloxone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral clonidine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Naltrexone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transdermal buprenorphine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1b81e0",
+"children":[
+"Naloxone is indicated for patients with a history of overdose or substance use disorder, as well as patients taking benzodiazepines with opioids, or more than 50 morphine milligram equivalents per day."
+]
+},
+{
+"type":"keypoint",
+"hlId":"48de91",
+"children":[
+"Naloxone can be considered for patients taking opioids who are older, have mental health disorders, or are at risk for sleep-disordered breathing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9630cf",
+"children":[
+"Intranasal naloxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate preventive measure for this patient. Naloxone is a nonselective and competitive opioid receptor blocker that reduces the risk for death from respiratory depression due to accidental opioid overdose. It is available in intranasal and injectable forms for ease of administration. Naloxone acts within minutes and has a very short half-life; its antidote effects will usually wear off before the opioid effects are gone. Patients should be observed for signs of opioid withdrawal (which is not fatal and requires only supportive care) and for continued or recurrent signs of respiratory distress (which may require repeated dosing of naloxone). According to the CDC opioid prescribing guideline, clinicians should offer naloxone to any patient at risk for opioid overdose. This includes patients with a history of overdose or substance use disorder, patients taking benzodiazepines with opioids (which should be avoided whenever possible), and those taking more than 50 morphine milligram equivalents per day. In addition, naloxone should be provided to patients taking opioids who have risk factors for opioid-related harms; such patients include elderly persons, patients with mental health conditions, and patients at risk for sleep-disordered breathing (such as those with heart failure, obstructive sleep apnea, or obesity), regardless of oral morphine equivalents prescribed. This patient with a history of overdose should be prescribed naloxone and educated on its proper use and ways to reverse overdose and prevent overdose death. Friends, family members, and caretakers may also receive prescriptions and training in naloxone use."
+]
+},
+{
+"type":"p",
+"hlId":"1bcb06",
+"children":[
+"Clonidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an antihypertensive agent that can assist in the management of symptoms of drug withdrawal. Clonidine will not prevent death from opioid overdose."
+]
+},
+{
+"type":"p",
+"hlId":"a899fc",
+"children":[
+"Naltrexone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an opioid blocker that can help prevent relapse in patients with opioid use disorder when used in combination with other treatment measures, which may include cognitive behavioral therapy, psychosocial support, and additional medications (such as buprenorphine). Naltrexone will not directly prevent death from opioid overdose, and its use is contraindicated in patients who are still taking opioids, as this patient is."
+]
+},
+{
+"type":"p",
+"hlId":"726382",
+"children":[
+"Buprenorphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a partial opioid agonist used to treat opioid use disorder by reducing cravings. It must be administered by a certified physician as part of a comprehensive treatment program for opioid use disorder and is most effective in combination with counseling services. Buprenorphine will not directly prevent death from opioid overdose."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_5_3_2",
+"objective":{
+"__html":"Prevent death from opioid overdose."
+},
+"references":[
+[
+"Dowell D, Haegerich TM, Chou R. CDC guideline for prescribing opioids for chronic pain—United States, 2016. JAMA. 2016;315:1624-45. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26977696",
+"target":"_blank"
+},
+"children":[
+"PMID: 26977696"
+]
+},
+" doi:10.1001/jama.2016.1464"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":63,
+"B":2,
+"C":21,
+"D":14,
+"E":0
+},
+"hlIds":[
+"91054a",
+"cf03d9",
+"df1b30",
+"1b81e0",
+"48de91",
+"9630cf",
+"1bcb06",
+"a899fc",
+"726382"
+]
+}

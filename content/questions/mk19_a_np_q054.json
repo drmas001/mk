@@ -1,0 +1,628 @@
+{
+"id":"mk19_a_np_q054",
+"number":54,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9a1d0c",
+"children":[
+"A 46-year-old man is evaluated in the emergency department for right flank and abdominal pain that began several hours ago. Medical history is significant for hypertension, type 2 diabetes mellitus, hyperlipidemia, and obesity. He has no history of kidney stones. Medications are losartan, rosuvastatin, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"f36ccc",
+"children":[
+"On physical examination, vital signs are normal. BMI is 32. The patient appears uncomfortable. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1a4da4",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"Calcium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d8afe5",
+"class":"cell text l",
+"children":[
+"9.6 mg/dL (2.4 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0d34d5",
+"class":"cell text l",
+"children":[
+"1.4 mg/dL (123.8 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9eaf68",
+"class":"cell text l",
+"children":[
+"Electrolytes:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"db618e",
+"class":"cell text l",
+"children":[
+"139 mEq/L (139 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"057980",
+"class":"cell text l",
+"children":[
+"4.4 mEq/L (4.4 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"21724f",
+"class":"cell text l",
+"children":[
+"104 mEq/L (104 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"075484",
+"class":"cell text l",
+"children":[
+"24 mEq/L (24 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5127b3",
+"class":"cell text l",
+"children":[
+"Specific gravity 1.018; pH 5.0; 2+ blood; no leukocyte esterase; no nitrites; 10-20 erythrocytes/hpf; 1-3 leukocytes/hpf"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"6f4378",
+"children":[
+"Noncontrast helical CT scan of the abdomen shows a 5-mm stone at the right ureteropelvic junction. Hounsfield units are compatible with a uric acid stone."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lithotripsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Potassium citrate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tamsulosin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f8921a",
+"children":[
+"The most effective treatment to facilitate the passage of uric acid stones is urinary alkalinization with potassium citrate."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9d9e3f",
+"children":[
+"The most appropriate treatment is potassium citrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Acute management of symptomatic nephrolithiasis is aimed at pain management and facilitation of stone passage. Pain can be relieved by NSAIDs and opioids as needed. Stone passage decreases with increasing size. Only 50% of stones >6 mm will pass, and stones >10 mm are extremely unlikely to pass spontaneously. This patient most likely has a uric acid kidney stone. On helical CT scan, the density of the stone, as measured by Hounsfield units, is suggestive of uric acid. Patients with a uric acid kidney stone will have an acidic urine pH, as seen in this patient (pH 5.0). Uric acid stones are also more common in individuals with metabolic syndrome, as seen in this patient. The most effective treatment for uric acid stones is to alkalinize the urine, as uric acid is readily soluble in alkaline urine. If the urine pH is increased to 6.5 to 7.0, more than 90% of uric acid will be converted to soluble urate salts, dissolving the stone. Administration of potassium citrate at a dose of 40 to 80 mEq/d will effectively alkalinize the urine and reduce the size of the stone, allowing it to rapidly transit to the bladder."
+]
+},
+{
+"type":"p",
+"hlId":"7ed551",
+"children":[
+"Allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be reserved to treat patients with gout and/or recurrent uric acid kidney stones that are unresponsive to alkalinization and increased fluid intake, neither of which applies to this patient."
+]
+},
+{
+"type":"p",
+"hlId":"f9c8e7",
+"children":[
+"Lithotripsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an appropriate treatment for kidney stones >6 mm that are unlikely to pass. However, for this patient, the 5-mm stone will likely pass, especially if the urine pH is increased to 6.5 to 7.0."
+]
+},
+{
+"type":"p",
+"hlId":"f72c18",
+"children":[
+"The data concerning the use of tamsulosin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to facilitate stone passage are controversial. But because there are few adverse effects attributed to this medication, many experts recommend its use. In the case of uric acid stones, urinary alkalinization with the use of potassium citrate is a more effective treatment."
+]
+}
+],
+"relatedSection":"mk19_a_np_s10_5",
+"objective":{
+"__html":"Treat uric acid kidney stones."
+},
+"references":[
+[
+"Heilberg IP. Treatment of patients with uric acid stones. Urolithiasis. 2016;44:57-63. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26645868",
+"target":"_blank"
+},
+"children":[
+"PMID: 26645868"
+]
+},
+" doi:10.1007/s00240-015-0843-8"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":7,
+"C":22,
+"D":61,
+"E":0
+},
+"hlIds":[
+"9a1d0c",
+"f36ccc",
+"a462a3",
+"1a4da4",
+"d8afe5",
+"f461b2",
+"0d34d5",
+"9eaf68",
+"d41d8c",
+"b99276",
+"db618e",
+"e92687",
+"057980",
+"a207b1",
+"21724f",
+"6827e3",
+"075484",
+"747c2a",
+"5127b3",
+"6f4378",
+"1054f1",
+"f8921a",
+"9d9e3f",
+"7ed551",
+"f9c8e7",
+"f72c18"
+]
+}

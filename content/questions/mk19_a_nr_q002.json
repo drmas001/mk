@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q002",
+"number":2,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ede5ff",
+"children":[
+"A 56-year-old woman is evaluated for recent difficulty with tasks at her job as a paralegal, especially those involving short-term memory and multitasking. She has multiple sclerosis. She has had previous major depressive episodes, which are currently managed with venlafaxine. Other medications are glatiramer acetate and a vitamin D supplement."
+]
+},
+{
+"type":"p",
+"hlId":"90d252",
+"children":[
+"On physical examination, vital signs are normal. On neurologic examination, the patient can recall only one of three objects at 3 minutes and recites “d-r-l-o-w” when asked to spell “world” backward."
+]
+},
+{
+"type":"p",
+"hlId":"d5b0a3",
+"children":[
+"Her score on the Patient Health Questionnaire 9 for depression is 4 because of difficulties with concentration and sleep."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Increase venlafaxine dose"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Refer for cognitive rehabilitation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Refer to psychiatry"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start memantine"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Start methylphenidate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e0e9bf",
+"children":[
+"In patients with multiple sclerosis, cognitive rehabilitative and accommodative strategies (such as creating checklists to overcome memory deficits) and physical exercise programs have shown benefit for improving and/or maintaining cognitive performance."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"48c478",
+"children":[
+"The most appropriate management is to refer the patient for cognitive rehabilitation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Cognitive deficits are common in patients with multiple sclerosis (MS) and can often be life-impairing, especially for those who are employed in positions that have high cognitive demand. Typical findings include deficits in short-term memory and processing speed, although almost any domain can be impaired. Nonpharmacologic interventions, such as cognitive rehabilitative and accommodative strategies (such as creating checklists to overcome memory deficits) and physical exercise programs, have shown benefit for improving and/or maintaining cognitive performance in patients with MS."
+]
+},
+{
+"type":"p",
+"hlId":"79af43",
+"children":[
+"Depressive symptoms are frequently encountered in patients with chronic medical disease either as a result of the illness itself (such as hypothyroidism) or as a response to the disability caused by the illness. Depression commonly accompanies many medical conditions, including neurologic conditions (multiple sclerosis, Parkinson disease), cancer, heart failure, and HIV infection. For initial acute therapy, guidelines recommend either cognitive behavioral therapy or second-generation antidepressants such as venlafaxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Therapeutic response can be objectively measured with the Patient Health Questionnaire 9 (PHQ-9) for depression. This patient's score on the PHQ-9 is 4, and her answers are not indicative of active depression. Thus, her current venlafaxine dose is appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"aef312",
+"children":[
+"Referral to a psychiatrist (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for patients with severe depression, failure of initial therapy, complex psychiatric comorbidities, and high suicide risk. This patient has no indication for a psychiatric referral."
+]
+},
+{
+"type":"p",
+"hlId":"5b22b3",
+"children":[
+"Clinical trials of pharmacologic therapies, such as memantine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), donepezil, and methylphenidate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), to treat MS-related cognitive dysfunction have not shown efficacy. Therefore, these medications should not be initiated."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_3_4",
+"objective":{
+"__html":"Treat cognitive dysfunction in multiple sclerosis."
+},
+"references":[
+[
+"Goverover Y, Chiaravalloti ND, O'Brien AR, et al. Evidenced-based cognitive rehabilitation for persons with multiple sclerosis: an updated review of the literature from 2007 to 2016. Arch Phys Med Rehabil. 2018;99:390-407. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28958607",
+"target":"_blank"
+},
+"children":[
+"PMID: 28958607"
+]
+},
+" doi:10.1016/j.apmr.2017.07.021"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":72,
+"C":6,
+"D":4,
+"E":9
+},
+"hlIds":[
+"ede5ff",
+"90d252",
+"d5b0a3",
+"cb2b54",
+"e0e9bf",
+"48c478",
+"79af43",
+"aef312",
+"5b22b3"
+]
+}

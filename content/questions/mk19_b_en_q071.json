@@ -1,0 +1,499 @@
+{
+"id":"mk19_b_en_q071",
+"number":71,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"065127",
+"children":[
+"A 33-year-old woman is evaluated for persistent mild hypercalcemia that was incidentally discovered several years ago. Her father also has persistent, asymptomatic hypercalcemia. The patient has no medical concerns and takes no medications. She takes vitamin D, 5000 IU, daily."
+]
+},
+{
+"type":"p",
+"hlId":"ec3d39",
+"children":[
+"Physical examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1a4da4",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"Calcium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9fbf45",
+"class":"cell text l",
+"children":[
+"10.7 mg/dL (2.7 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"9fe2e8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, urine",
+"children":[
+"24-Hour urine calcium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5b9bdd",
+"class":"cell text l",
+"children":[
+"40 mg/24 h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"42bf43",
+"class":"cell text l",
+"children":[
+"1.0 mg/dL (88.4 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"053f24",
+"class":"cell text l",
+"children":[
+"Calcium-creatinine clearance ratio"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e0d088",
+"class":"cell text l",
+"children":[
+"0.008"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ca2815",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Parathyroid hormone, serum",
+"children":[
+"Parathyroid hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"731d24",
+"class":"cell text l",
+"children":[
+"40 pg/mL (40 ng/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ectopic parathyroid hormone–secreting tumor"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Familial hypocalciuric hypercalcemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Multiple endocrine neoplasia type 1"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin D toxicity"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7c9b5f",
+"children":[
+"Signs suggestive of familial hypocalciuric hypercalcemia include mild hypercalcemia since childhood; low 24-hour urine calcium excretion, especially if calcium-creatinine clearance ratio is less than 0.01; and/or family history of parathyroidectomy without resolution of hypercalcemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9e063b",
+"children":[
+"The most likely diagnosis is familial hypocalciuric hypercalcemia (FHH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The parathyroid glands and kidney detect serum calcium concentrations through the calcium-sensing receptor (CaSR). In FHH, inactivating mutation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CaSR"
+]
+},
+" gene causes the parathyroid gland to perceive serum calcium levels as low, resulting in increased parathyroid hormone (PTH) secretion and a higher serum calcium level. Simultaneously, the mutated ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CaSR"
+]
+},
+" in the kidney increases kidney reabsorption of calcium, leading to paradoxical hypocalciuria in the setting of hypercalcemia. Although these patients appear to have primary hyperparathyroidism, FHH is a benign condition that will not resolve with parathyroidectomy. Patients do not have sequelae of hypercalcemia, such as stones or osteoporosis. Signs suggestive of FHH include mild hypercalcemia since childhood; low 24-hour urine calcium excretion, especially if the calcium-creatinine clearance ratio is less than 0.01; and/or family history of parathyroidectomy without resolution of hypercalcemia. Although testing for mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CaSR"
+]
+},
+" gene is a more direct approach, not all affected families have mutations in this gene, yet all will have a low calcium-creatinine clearance ratio. PTH values in FHH may be slightly above or within the reference range and, as such, do not help distinguish primary hyperparathyroidism from FHH."
+]
+},
+{
+"type":"p",
+"hlId":"95c6cd",
+"children":[
+"An ectopic PTH-secreting tumor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a relatively rare cause of hypercalcemia and is described in a limited number of case reports. Although ectopic PTH secretion can cause elevated PTH and calcium levels, it is not associated with hypocalciuria."
+]
+},
+{
+"type":"p",
+"hlId":"f48701",
+"children":[
+"Primary hyperparathyroidism in adolescents and young adults may be the first sign of multiple endocrine neoplasia (MEN) syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Primary hyperparathyroidism is associated with MEN1 and MEN2A syndromes. In contrast to sporadic primary hyperparathyroidism, patients with MEN syndromes have hyperplasia of multiple parathyroid glands. However, patients with MEN-associated hypercalcemia have elevated urine calcium, often occurring before hypercalcemia occurs. This patient's urine calcium excretion is low."
+]
+},
+{
+"type":"p",
+"hlId":"331313",
+"children":[
+"Although this patient is taking a high dose of vitamin D, in the absence of other causes of hypercalcemia and/or without concomitant generous calcium intake, a supplement of 5000 IU/d of vitamin D will not cause toxicity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or hypercalcemia. If excess vitamin D action were responsible for this patient's hypercalcemia, PTH would be suppressed and urine calcium excretion increased. This patient has elevated PTH in relation to the serum calcium and low urine calcium excretion; neither is compatible with the diagnosis of vitamin D toxicity."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_2_2_3_1",
+"objective":{
+"__html":"Diagnose familial hypocalciuric hypercalcemia."
+},
+"references":[
+[
+"Insogna KL. Primary hyperparathyroidism. N Engl J Med. 2018;379:1050-1059. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30207907",
+"target":"_blank"
+},
+"children":[
+"PMID: 30207907"
+]
+},
+" doi:10.1056/NEJMcp1714213"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":84,
+"C":4,
+"D":10,
+"E":0
+},
+"hlIds":[
+"065127",
+"ec3d39",
+"a462a3",
+"1a4da4",
+"9fbf45",
+"9fe2e8",
+"5b9bdd",
+"f461b2",
+"42bf43",
+"053f24",
+"e0d088",
+"ca2815",
+"731d24",
+"413696",
+"7c9b5f",
+"9e063b",
+"95c6cd",
+"f48701",
+"331313"
+]
+}

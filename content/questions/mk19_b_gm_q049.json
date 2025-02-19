@@ -1,0 +1,189 @@
+{
+"id":"mk19_b_gm_q049",
+"number":49,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"571021",
+"children":[
+"A 28-year-old woman is evaluated for a painless breast lump she noticed 1 week ago. Medical history is otherwise unremarkable. Her grandmother was diagnosed with breast cancer at age 72 years. Her only medication is a combined hormonal contraceptive pill."
+]
+},
+{
+"type":"p",
+"hlId":"5f2c7f",
+"children":[
+"Breast examination reveals a 1-cm, nontender, smooth, mobile, round mass on the medial aspect of the right breast. The overlying skin is normal. There is no lymphadenopathy. The left breast is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Breast ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mammography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat clinical breast examination in 6 weeks"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further evaluation is indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1f8b0c",
+"hvc":true,
+"children":[
+"Ultrasonography is the preferred imaging modality for evaluation of a breast mass in women younger than 30 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5984bc",
+"hvc":true,
+"children":[
+"All women presenting with a breast mass should be evaluated by imaging even if their clinical breast examination is without concerning features."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49ad68",
+"children":[
+"The most appropriate management is ultrasonography of the right breast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Although breast cancer should be considered in all patients, most breast masses, particularly in women younger than 30 years, are benign conditions, such as cysts, fibroadenomas, fat necrosis, or lipomas. Evaluation requires consideration of breast cancer risk factors, including family history of breast or ovarian cancer; previous breast biopsies; hormonal risk factors; and a detailed history of the mass, including onset, changes with the menstrual cycle, associated symptoms, and overlying skin/nipple changes. Women younger than 30 years who present with a breast mass should first be evaluated with breast ultrasonography. Younger women have increased breast density, which decreases the sensitivity of mammography. Ultrasonography is also the preferred imaging modality in pregnant women to avoid radiation exposure. Breast ultrasound results are categorized by Breast Imaging and Reporting Data System (BI-RADS) criteria. Biopsy is recommended for category 4 and 5 findings. In addition, any suspicious findings, including a hard, fixed, or heterogenous mass on clinical breast examination (CBE), should be evaluated by biopsy, even if imaging is negative."
+]
+},
+{
+"type":"p",
+"hlId":"922d7c",
+"children":[
+"Diagnostic mammography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an appropriate first test in a woman aged 30 years or older who presents with a breast mass. Mammography may demonstrate a mass, asymmetric density, or abnormal/pleomorphic calcifications potentially indicating breast cancer. For patients with a focal abnormality noted on mammogram, targeted ultrasonography can clarify the size of the mass, determine whether the mass is solid or cystic, and identify the margins as smooth or irregular. However, this patient is 28 years old, and therefore she should have a breast ultrasonography to evaluate the right breast mass."
+]
+},
+{
+"type":"p",
+"hlId":"c13705",
+"children":[
+"All women presenting with a breast mass should be evaluated by imaging even if their CBE lacks concerning features. Findings on CBE may suggest a benign (smooth, mobile, regular) process, such as seen in this patient, or a malignant (fixed, hard, heterogeneous) process. However, the predictive value of CBE is poor, and all women require further evaluation with imaging and/or biopsy. Waiting 6 weeks to perform a repeat CBE is not the best option (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"bcf19d",
+"children":[
+"No further evaluation is inappropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Because the patient is younger than 30 years, breast ultrasonography is required to further evaluate the breast mass despite a CBE that is reassuring."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s7_1_1",
+"objective":{
+"__html":"Evaluate a breast mass in a woman younger than 30 years."
+},
+"references":[
+[
+"Moy L, Heller SL, Bailey L, et al; Expert Panel on Breast Imaging. ACR Appropriateness Criteria® palpable breast masses. J Am Coll Radiol. 2017;14:S203-24. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28473077",
+"target":"_blank"
+},
+"children":[
+"PMID: 28473077"
+]
+},
+" doi:10.1016/j.jacr.2017.02.033"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":57,
+"B":15,
+"C":24,
+"D":4,
+"E":0
+},
+"hlIds":[
+"571021",
+"5f2c7f",
+"cb2b54",
+"1f8b0c",
+"5984bc",
+"49ad68",
+"922d7c",
+"c13705",
+"bcf19d"
+]
+}

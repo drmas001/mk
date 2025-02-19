@@ -1,0 +1,191 @@
+{
+"id":"mk19_a_gm_q106",
+"number":106,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 106",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4a31a6",
+"children":[
+"A 50-year-old man is evaluated for three episodes of hematochezia in the past 2 months. His last colonoscopy was 5 years ago, and the results were normal. His family history includes colon cancer in his father, diagnosed at age 55 years. The patient prefers to pursue a stool-based colon cancer screening strategy."
+]
+},
+{
+"type":"p",
+"hlId":"469895",
+"children":[
+"A stool-based test that is 95% accurate in diagnosing colon cancer in average-risk individuals is available. The accuracy and effectiveness of this test were established in a randomized controlled trial."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"85e459",
+"children":[
+"Which of the following best explains why the evidence does not support performing this stool-based test in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Impracticable number needed to screen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lack of external validity"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Low level of evidence"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Presence of lead-time bias"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"36e5a4",
+"hvc":true,
+"children":[
+"External validity is the extent to which study results can be applied to settings other than the study setting; it represents the generalizability of the study results."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"26912c",
+"children":[
+"Lack of external validity (generalizability) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the best explanation for why the stool-based test is not appropriate for this patient. External validity is the extent to which the study results can be applied to settings other than the study setting; it represents the generalizability of the study results. In this situation, the presence of hematochezia and a significant family history increase the expected prevalence of colon cancer above what would be expected in an average-risk patient. This limits the ability to apply this test, which has acceptable performance in average-risk patients, to patients with a higher pretest probability. Specifically, a negative test result in this high-risk patient cannot reliably exclude the presence of colon cancer as well as it could in an average-risk patient."
+]
+},
+{
+"type":"p",
+"hlId":"2d7aba",
+"children":[
+"The number needed to screen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the number of patients who would need to undergo a screening test to prevent one death or adverse event. It is calculated as the reciprocal of the absolute difference in deaths in the screened versus unscreened (or other comparator) population. This statistic is not applicable to situations in which diagnostic testing is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"e23b53",
+"children":[
+"The strongest experimental design is the randomized controlled trial. However, the level of evidence (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not relevant in this situation because the fundamental flaw is the inappropriate use of a screening test in a population for which it is not intended."
+]
+},
+{
+"type":"p",
+"hlId":"601e60",
+"children":[
+"Lead-time bias (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an artifactual increase in survival due to earlier diagnosis of disease from a screening test. Lead-time bias has no bearing on why a stool-based colon cancer screening strategy is inappropriate for a high-risk patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_3_2",
+"objective":{
+"__html":"Identify lack of external validity when applying the results of a study to a specific patient."
+},
+"references":[
+[
+"Metlay JP, Armstrong KA. Annals clinical decision making: weighing evidence to inform clinical decisions. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-1941",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:599-603. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32311735",
+"target":"_blank"
+},
+"children":[
+"PMID: 32311735"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":10,
+"B":37,
+"C":23,
+"D":30,
+"E":0
+},
+"hlIds":[
+"4a31a6",
+"469895",
+"85e459",
+"36e5a4",
+"26912c",
+"2d7aba",
+"e23b53",
+"601e60"
+]
+}

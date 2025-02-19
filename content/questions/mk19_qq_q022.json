@@ -1,0 +1,218 @@
+{
+"id":"mk19_qq_q022",
+"number":22,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"11cf26",
+"children":[
+"A 63-year-old woman is evaluated after a recent diagnosis of multiple myeloma. The diagnosis was based on the presence of a large amount of monoclonal protein on serum electrophoresis and more than 10% bone marrow monoclonal plasma cells. She is asymptomatic. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"dea8e0",
+"children":[
+"Physical examination findings, including vital signs, are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, Serum",
+"children":[
+"Serum calcium"
+]
+},
+" level is 11.2 mg/dL (2.8 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Total, serum",
+"children":[
+"total protein"
+]
+},
+" is 9.2 g/dL (92 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fd136d",
+"children":[
+"Which of the following should be measured?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"24-Hour urine calcium"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"25-Hydroxyvitamin D"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ionized calcium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Parathyroid hormone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3578de",
+"children":[
+"In clinical settings in which increased protein binding of calcium may occur, the serum total calcium level may be elevated without a rise in the actual serum ionized calcium concentration."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ea31a0",
+"children":[
+"Ionized calcium measurement is indicated in asymptomatic patients with multiple myeloma and elevated total serum calcium."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"452952",
+"children":[
+"This patient's ionized calcium level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be measured. Her total calcium level is elevated, but she is without symptoms of hypercalcemia. Approximately 40% to 45% of the calcium in serum is bound to protein, principally albumin, although the physiologically active form of calcium is in an ionized (or free) state. In most patients with relatively normal serum albumin levels, the total calcium usually reflects an accurate ionized calcium fraction. However, in clinical settings in which increased protein binding of calcium may occur, the serum total calcium level may be elevated without a rise in the actual serum ionized calcium concentration. This may occur in patients with hyperalbuminuria (as may occur in those who are severely dehydrated) and in patients with a paraprotein capable of binding calcium (as occasionally occurs in some patients with multiple myeloma). This phenomenon is sometimes termed pseudohypercalcemia (or factitious hypercalcemia). If present, a normal ionized calcium level may indicate that the elevated total calcium level is the result of excessive protein binding and potentially eliminates the need for further evaluation for hypercalcemia. Ionized calcium measurement is indicated in asymptomatic patients with multiple myeloma and elevated total serum calcium."
+]
+},
+{
+"type":"p",
+"hlId":"c5ff76",
+"children":[
+"A 24-hour urine calcium measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in the diagnosis of familial hypocalciuric hypercalcemia (FHH). FHH is an autosomal dominant condition and the most common type of familial hypercalcemia. In FHH, an inactivating mutation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CaSR"
+]
+},
+" gene causes the parathyroid gland to perceive serum calcium concentrations as low, resulting in increased parathyroid hormone (PTH) secretion and a higher serum calcium level. Simultaneously, the mutated ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CaSR"
+]
+},
+" in the kidney increases kidney resorption of calcium, leading to paradoxical hypocalciuria in the setting of hypercalcemia. This patient with multiple myeloma and a large amount of serum monoclonal protein likely has pseudohypercalcemia, and measurement of the ionized calcium level is the most appropriate diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"f431d3",
+"children":[
+"25-Hydroxyvitamin D (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the storage form of vitamin D in the body, and its measurement is the most appropriate test for assessing vitamin D stores but will not help evaluate patients with hypercalcemia. Measuring both 25-hydroxyvitamin D and 1,25-dihydroxyvitamin D is useful in further assessing patients with non–PTH-mediated hypercalcemia to assess for excess vitamin D production."
+]
+},
+{
+"type":"p",
+"hlId":"8bae10",
+"children":[
+"PTH testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated in patients with hypercalcemia to differentiate between PTH-mediated and non–PTH-mediated hypercalcemia. Measurement of PTH and 1,25-dihydroxyvitamin D levels may be indicated as part of this patient's evaluation, but only after true hypercalcemia has been established by measuring the ionized calcium. However, the primary cause of hypercalcemia in patients with multiple myeloma is not primary hyperparathyroidism but rather tumor-induced, osteoclast-mediated bone resorption due to cytokines released by myeloma cells."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_2_2",
+"objective":{
+"__html":"Diagnose pseudohypercalcemia."
+},
+"references":[
+[
+"Hussain A, Almenfi HF, Almehdewi AM, et al. Laboratory features of newly diagnosed multiple myeloma patients. Cureus. 2019;11:e4716. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31355076",
+"target":"_blank"
+},
+"children":[
+"PMID: 31355076"
+]
+},
+" doi:10.7759/cureus.4716"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"11cf26",
+"dea8e0",
+"fd136d",
+"3578de",
+"ea31a0",
+"452952",
+"c5ff76",
+"f431d3",
+"8bae10"
+]
+}

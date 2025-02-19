@@ -1,0 +1,177 @@
+{
+"id":"mk19_b_cv_q094",
+"number":94,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6bfe63",
+"children":[
+"A 35-year-old woman is evaluated in the emergency department for a 1-week history of fever and chest pain. The pain is sharp and midsternal, worse lying down, and improved leaning forward."
+]
+},
+{
+"type":"p",
+"hlId":"8f74c4",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F), blood pressure is 120/70 mm Hg with pulsus paradoxus of 10 mm Hg, and pulse rate is 92/min. A three-phase friction rub is heard along the left sternal border and apex."
+]
+},
+{
+"type":"p",
+"hlId":"a54f12",
+"children":[
+"ECG shows normal sinus rhythm and normal voltage with diffuse ST-segment elevation of 1 to 2 mm. An echocardiogram shows a pericardial effusion without evidence of tamponade."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discharge on ibuprofen and colchicine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discharge on prednisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hospitalize and begin ibuprofen and colchicine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hospitalize and begin methylprednisolone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0d0d39",
+"children":[
+"First-line therapy for acute idiopathic pericarditis is aspirin or NSAIDs and colchicine."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1388f5",
+"children":[
+"Patients with acute pericarditis and high-risk features, including temperature higher than 38.0 °C (100.4 °F), subacute onset, a large pericardial effusion or tamponade at presentation, oral anticoagulation therapy, or lack of response to treatment, may require hospitalization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cb1111",
+"children":[
+"The most appropriate management is to hospitalize the patient and begin therapy with ibuprofen and colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient meets the diagnostic criteria defining acute pericarditis, with pericarditic chest pain, a friction rub on examination, ECG changes consistent with acute pericarditis, and a pericardial effusion. Most patients with acute pericarditis can be managed as outpatients; however, those with accompanying high-risk features may require hospitalization for treatment and monitoring. Patients with pericarditis and high-risk features, including temperature higher than 38.0 °C (100.4 °F), subacute onset, a large pericardial effusion or tamponade at presentation, oral anticoagulation therapy, or lack of response to treatment, may require hospitalization. This patient has a pericardial effusion smaller than the size connoting high risk (diastolic echo-free space, 2 cm), and she does not have clinical or echocardiographic features of tamponade. However, she does have two high-risk features: subacute onset over the course of a week and fever greater than 38.0 °C (100.4 °F). Because of these features, hospitalization to initiate therapy and evaluate early response is indicated. First-line therapy for acute idiopathic pericarditis is aspirin or NSAIDs. Colchicine is recommended as adjunctive therapy to shorten symptom duration and reduce treatment failure and recurrence. Patients who respond to therapy initially but develop recurrent pericarditis after treatment completion may benefit from a longer course of standard therapy with slow tapering, or from interleukin-1 signaling blockade with rilonacept."
+]
+},
+{
+"type":"p",
+"hlId":"dce4eb",
+"children":[
+"Outpatient treatment with ibuprofen and colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is appropriate for patients with acute pericarditis who do not have high-risk features."
+]
+},
+{
+"type":"p",
+"hlId":"7e7c3d",
+"children":[
+"Glucocorticoid therapy is reserved for patients with pericarditis that is recurrent, incessant (>4-6 weeks' duration), or chronic (>3 months' duration) despite standard therapy; uremic pericarditis not responsive to intensive dialysis; contraindications to NSAID therapy; or autoimmune-mediated pericarditis. This patient has no indication for glucocorticoid therapy, either as an inpatient or outpatient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_1_2",
+"objective":{
+"__html":"Treat high-risk acute pericarditis."
+},
+"references":[
+[
+"Adler Y, Charron P, Imazio M, et al; ESC Scientific Document Group. 2015 ESC guidelines for the diagnosis and management of pericardial diseases: the Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2015;36:2921-2964. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26320112",
+"target":"_blank"
+},
+"children":[
+"PMID: 26320112"
+]
+},
+" doi:10.1093/eurheartj/ehv318"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":37,
+"B":2,
+"C":59,
+"D":3,
+"E":0
+},
+"hlIds":[
+"6bfe63",
+"8f74c4",
+"a54f12",
+"cb2b54",
+"0d0d39",
+"1388f5",
+"cb1111",
+"dce4eb",
+"7e7c3d"
+]
+}

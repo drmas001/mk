@@ -1,0 +1,215 @@
+{
+"id":"mk19_qq_q241",
+"number":241,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 241",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f6134e",
+"children":[
+"A 77-year-old man is evaluated following an episode of syncope. He was sitting at the breakfast table and suddenly, without prodromal symptoms, lost consciousness. He spontaneously revived after 2 minutes. There was no evidence of seizure activity. He has no chest pain or palpations."
+]
+},
+{
+"type":"p",
+"hlId":"9cd17b",
+"children":[
+"Physical examination is normal without orthostatic blood pressure changes. ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_qq_mcq_f241",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_qq_mcq_f241"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"48164f",
+"children":[
+"Which of the following is the diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrial fibrillation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Second-degree Mobitz type 1 atrioventricular (AV) block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Second-degree Mobitz type 2 AV block"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Third-degree heart block"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b439fb",
+"children":[
+"In second-degree atrioventricular block, only some P waves conduct to the ventricles; Mobitz type 2 second-degree atrioventricular block is typified by intermittent nonconducted P waves with unchanging PR intervals."
+]
+},
+{
+"type":"keypoint",
+"hlId":"eff7c9",
+"children":[
+"Regardless of symptoms, permanent pacing is indicated for second-degree Mobitz type 2 atrioventricular (AV) block, high-grade AV block, and third-degree AV block not attributable to reversible causes."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"13714a",
+"children":[
+"The diagnosis is second-degree Mobitz type 2 atrioventricular (AV) block (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). In second-degree AV block, only some P waves conduct to the ventricles. In this ECG, two nonconducted P waves are seen after the third QRS complex in the bottom rhythm strip. Mobitz type 2 second-degree AV block is typified by intermittent nonconducted P waves with unchanging PR intervals. Dizziness and syncope are major symptoms. Mobitz type 2 AV block usually occurs below the AV node and has a higher risk for progression to third-degree (complete) heart block. Regardless of symptoms, permanent pacing is indicated for second-degree Mobitz type 2 AV block, high-grade AV block, and third-degree AV block not attributable to reversible causes."
+]
+},
+{
+"type":"p",
+"hlId":"6c5c02",
+"children":[
+"Atrial fibrillation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is defined by the presence of disorganized atrial activity with an irregularly irregular ventricular response on ECG without preceding P waves. Although this patient does have an irregularly irregular rhythm, P waves are present before all QRS complexes but not all P waves are conducted."
+]
+},
+{
+"type":"p",
+"hlId":"784f14",
+"children":[
+"Mobitz type 1 second-degree (Wenckebach) AV block is characterized electrocardiographically by a PR interval that progressively prolongs until a beat is dropped, resulting in grouped beating (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). When 2:1 block is present, Mobitz type 2 AV block cannot be distinguished from Mobitz type 1 AV block. Most patients are asymptomatic, but if the sinus rate is slow enough, it may result in lightheadedness, syncope, presyncope, angina, or heart failure. In the absence of bradycardia, Mobitz type 1 AV block may be suggested by an irregular pulse. There are few other physical examination findings."
+]
+},
+{
+"type":"p",
+"hlId":"de7027",
+"children":[
+"In third-degree AV block, no P waves conduct to the ventricles (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). AV dissociation is observed on the ECG; P waves bear no relationship to the QRS complexes. Most patients with complete heart block are symptomatic. Symptoms may include fatigue, dyspnea, chest pain, presyncope or syncope, and cardiac arrest."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Diagnose second-degree Mobitz type 2 atrioventricular block as the cause of syncope."
+},
+"references":[
+[
+"Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2019;74:e51-e156. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30412709",
+"target":"_blank"
+},
+"children":[
+"PMID: 30412709"
+]
+},
+" doi:10.1016/j.jacc.2018.10.044"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"mk19_qq_mcq_f241":{
+"id":"mk19_qq_mcq_f241",
+"number":241,
+"bookId":"qq",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"650d951530c3da5884ed8701f76ce417",
+"height":336,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f6134e",
+"9cd17b",
+"48164f",
+"b439fb",
+"eff7c9",
+"13714a",
+"6c5c02",
+"784f14",
+"de7027"
+]
+}

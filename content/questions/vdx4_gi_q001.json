@@ -1,0 +1,205 @@
+{
+"id":"vdx4_gi_q001",
+"number":1,
+"bookId":"vdx_gi",
+"correctAnswer":"B",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bfed2e",
+"children":[
+"A 33-year-old man is evaluated for severe retrosternal chest pain following an episode of protracted forceful vomiting."
+]
+},
+{
+"type":"p",
+"hlId":"2e5f15",
+"children":[
+"Chest ",
+{
+"type":"figure-link",
+"target":"vdx4_gi_mcq_f001a",
+"wrapId":"1",
+"children":[
+"radiographs"
+]
+},
+" are ",
+{
+"type":"figure-link",
+"target":"vdx4_gi_mcq_f001b",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_gi_mcq_f001a",
+"vdx4_gi_mcq_f001b"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"910699",
+"children":[
+"Which of the following is the most likely cause of the chest radiograph findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic dissection"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Esophageal rupture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peptic ulcer perforation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spontaneous pneumothorax"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"71e11c",
+"children":[
+"The chest radiographs show a pneumomediastinum, which may be seen with spontaneous esophageal perforation (Boerhaave syndrome). Pneumomediastinum (air within the mediastinal space) is ",
+{
+"type":"figure-link",
+"target":"vdx4_gi_mcq_f001c",
+"wrapId":"2",
+"children":[
+"shown"
+]
+},
+" in the image below by the presence of hyperlucent areas (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrows"
+]
+},
+") surrounding and making more prominent the contours of mediastinal structures, such as the border of the heart and aorta. The air has laterally displaced the mediastinal pleura, which can be seen on the frontal radiograph (left panel) as a long linear opacity (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrowheads"
+]
+},
+"); subcutaneous emphysema (air within the soft tissues) is also seen (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"yellow arrow"
+]
+},
+")."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_gi_mcq_f001c"
+]
+}
+],
+"relatedSection":"mk19_a_gi_s1_2",
+"objective":{
+"__html":"Diagnose effort-related esophageal rupture and associated pneumomediastinum."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_gi_mcq_f001a":{
+"id":"vdx4_gi_mcq_f001a",
+"number":1,
+"bookId":"vdx_gi",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"bbcd4afbf4b9ea94267e47b78934fdc5",
+"height":900,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_gi_mcq_f001b":{
+"id":"vdx4_gi_mcq_f001b",
+"number":1,
+"bookId":"vdx_gi",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"8642c53fac7526bcdf1091dd9723a294",
+"height":805,
+"width":801,
+"extension":"jpg"
+}
+},
+"vdx4_gi_mcq_f001c":{
+"id":"vdx4_gi_mcq_f001c",
+"number":1,
+"bookId":"vdx_gi",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"b6811c2f480d9ce2388771a742857647",
+"height":477,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"bfed2e",
+"2e5f15",
+"910699",
+"71e11c"
+]
+}

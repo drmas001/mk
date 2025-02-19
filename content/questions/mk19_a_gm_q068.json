@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gm_q068",
+"number":68,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"76e77f",
+"children":[
+"A 74-year-old man undergoes follow-up evaluation 4 weeks after an urgent care visit for benign paroxysmal positional vertigo. He is concerned about an upcoming trip and the possibility of falling. He has had no recent falls but did have a near fall. Medical history is significant for atrial fibrillation. Current medications are metoprolol, apixaban, and meclizine."
+]
+},
+{
+"type":"p",
+"hlId":"135327",
+"children":[
+"On physical examination, blood pressure and pulse rate are normal and without orthostatic changes. Cardiac examination reveals an irregular rhythm. Screening neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"0eaff9",
+"children":[
+"The Timed Up and Go Test result is prolonged (16 seconds)."
+]
+},
+{
+"type":"p",
+"hlId":"34856f",
+"children":[
+"The patient undergoes canalith repositioning with the Epley maneuver."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"17e13b",
+"children":[
+"Which of the following is the most appropriate additional management to reduce this patient's risk for falls?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue meclizine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue metoprolol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prescribe a four-prong cane"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prescribe vitamin D"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"14ecde",
+"children":[
+"Many health conditions, physical characteristics, and behaviors increase risk for falling, but the greatest increases are associated with cognitive impairment, psychoactive medications, gait/balance problems, and decreased lower extremity strength."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6d1587",
+"children":[
+"The most appropriate measure to reduce this patient's risk for falls is to discontinue meclizine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Meclizine is a centrally acting antihistamine associated with increased fall risk in elderly patients. Many health conditions, physical characteristics, and behaviors increase risk for falling, but the greatest increases are associated with cognitive impairment, psychoactive medications, gait/balance problems, and decreased lower extremity strength. The presence of multiple risk factors has an additive effect on fall risk. Even fear of falling in the absence of falls decreases self-rated health and hastens functional decline. The Timed Up and Go (TUG) test is used to help assess fall risk. This test involves asking the patient to rise from a chair with armrests, walk 10 feet, turn, return to the chair, and sit down. A TUG Test result of more than 12 seconds should prompt intervention to reduce fall risk."
+]
+},
+{
+"type":"p",
+"hlId":"ab948d",
+"children":[
+"Benign paroxysmal positional vertigo (BPPV) is the most common form of vertigo. Symptoms lead to increased risk for falls and a decline in functional status. First-line therapy for BPPV is canalith repositioning with the Epley maneuver, which is effective in up to 85% of patients. Medication is not useful in the treatment of BPPV except when the episodes are frequent and disabling. In that situation, the vestibular suppressant betahistine (not available in the United States) may be helpful along with the Epley maneuver. Meclizine probably contributed to this patient's near fall and fear of falling and is not especially helpful in controlling the symptoms of BPPV; it should be discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"665004",
+"children":[
+"Discontinuing metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") places the patient at increased risk for poor rate control of his atrial fibrillation and, in the absence of orthostatic hypotension, will not reduce his risk for falls."
+]
+},
+{
+"type":"p",
+"hlId":"367577",
+"children":[
+"Prescription of an assistive device, such as a cane (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), in the absence of a gait abnormality is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"d279d8",
+"children":[
+"Vitamin D supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended for fall risk reduction. Meta-analysis of randomized controlled trials of community-dwelling elderly adults showed no reduction in fall or fracture risk in patients without osteoporosis or known vitamin D deficiency."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_1_6",
+"objective":{
+"__html":"Prevent falls in an elderly patient."
+},
+"references":[
+[
+"Grossman DC, Curry SJ, Owens DK, et al; US Preventive Services Task Force. Interventions to prevent falls in community-dwelling older adults: US Preventive Services Task Force recommendation statement. JAMA. 2018;319:1696-704. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29710141",
+"target":"_blank"
+},
+"children":[
+"PMID: 29710141"
+]
+},
+" doi:10.1001/jama.2018.3097"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":41,
+"B":1,
+"C":51,
+"D":7,
+"E":0
+},
+"hlIds":[
+"76e77f",
+"135327",
+"0eaff9",
+"34856f",
+"17e13b",
+"14ecde",
+"6d1587",
+"ab948d",
+"665004",
+"367577",
+"d279d8"
+]
+}

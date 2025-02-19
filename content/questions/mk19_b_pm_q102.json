@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_pm_q102",
+"number":102,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 102",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3fa3a5",
+"children":[
+"A 32-year-old woman is evaluated for an asthma exacerbation. She previously had well-controlled asthma. She has increased the use of her maintenance inhaler and is using her rescue medication four times daily, but her symptoms persist. She reports no fever, chills, chest pain, or purulent sputum. She has no history of intubation, emergency department visits, or hospitalizations for asthma and has adhered to her medication regimen. She is a nonsmoker. Medications are inhaled budesonide and albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"05f4b5",
+"children":[
+"On physical examination, respiration rate is 25/min; the remainder of vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. The patient is not using accessory muscles of respiration and is able to speak in full sentences. There is scattered expiratory wheezing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Doxycycline, 5-day course"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous methylprednisone, followed by a 5-day prednisone course"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone, 5-day course"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone, 14-day course"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Switch to budesonide-formoterol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3ffb30",
+"children":[
+"All patients with asthma should have a written asthma management plan that helps them recognize the symptoms of an exacerbation and begin self-treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"823d6f",
+"children":[
+"Patients with an asthma exacerbation who continue to have symptoms after self-treatment should be treated with an oral glucocorticoid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e9c887",
+"children":[
+"The most appropriate management for this patient with an asthma exacerbation is to start a 5-day course of prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Asthma exacerbation is an acute worsening of symptoms or lung function from baseline that necessitates a step up in therapy. Prompt recognition and treatment of asthma exacerbations are needed to relieve symptoms and prevent hospitalizations. All patients with asthma should have a written asthma management plan that helps them recognize the symptoms of an exacerbation and begin self-treatment. If symptoms do not improve with self-treatment, evaluation is appropriate. Clinicians should screen for patient factors that contribute to an increased risk of death from asthma and should counsel patients appropriately. Important risk factors include a history of near-fatal asthma attack or intubation; an emergency department or hospital visit in the last 12 months; poor asthma medication adherence or not using inhaled glucocorticoid; current or recent treatment with an oral glucocorticoid; psychosocial stressors or psychiatric disease; food allergy; and overuse of a short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist. On physical examination, signs of a severe asthma exacerbation that should prompt aggressive intervention and hospitalization include being unable to speak in full sentences; use of accessory muscles of respiration; respiration rate greater than 30/min, heart rate greater than 120/min; oxygen saturation less than 90% with the patient breathing ambient air; and agitation, confusion, or drowsiness. This patient does not have any signs of or risk factors for a severe asthma exacerbation; therefore, she can be safely managed as an outpatient. The best next step is to begin an oral glucocorticoid such as prednisone for a period of 5 to 7 days."
+]
+},
+{
+"type":"p",
+"hlId":"349913",
+"children":[
+"Asthma exacerbations do not require antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") unless other signs suggestive of infection, such as fever, are present."
+]
+},
+{
+"type":"p",
+"hlId":"f5a97c",
+"children":[
+"Patients such as this one with low risk for a severe asthma exacerbation can be treated with a 5- to 7-day course of prednisone. A 14-day course of prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unnecessarily long, and intravenous glucocorticoids, such as methylprednisone, followed by a course of prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is also excessive and unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"c08a18",
+"children":[
+"The patient has already stepped up her maintenance therapy without resolution of her symptoms; therefore, changing her therapy from budesonide to budesonide-formoterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is unlikely to be effective."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6_2",
+"objective":{
+"__html":"Treat an asthma exacerbation."
+},
+"references":[
+[
+"Fergeson JE, Patel SS, Lockey RF. Acute asthma, prognosis, and treatment. J Allergy Clin Immunol. 2017;139:438-447. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27554811",
+"target":"_blank"
+},
+"children":[
+"PMID: 27554811"
+]
+},
+" doi:10.1016/j.jaci.2016.06.054"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":10,
+"C":54,
+"D":2,
+"E":32
+},
+"hlIds":[
+"3fa3a5",
+"05f4b5",
+"1054f1",
+"3ffb30",
+"823d6f",
+"e9c887",
+"349913",
+"f5a97c",
+"c08a18"
+]
+}

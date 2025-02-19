@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gi_q066",
+"number":66,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6ee4bf",
+"children":[
+"A 25-year-old woman is hospitalized with a severe relapse of Crohn disease. Ileocolonic Crohn disease was diagnosed 2 years ago; it responded to dose-optimized azathioprine with prednisone. During the past year, three disease flares necessitated reintroduction of prednisone despite continuation of azathioprine. Her only medication is azathioprine."
+]
+},
+{
+"type":"p",
+"hlId":"6f21fc",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals right-lower-quadrant tenderness, with no mass. Anorectal examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"a2516d",
+"children":[
+"Abdominal CT scan shows only bowel wall thickening without significant luminal narrowing of the distal 8 cm of the terminal ileum and proximal colon. Colonoscopy shows severe mucosal inflammatory changes, with ulcerations in the terminal ileum and proximal colon."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add budesonide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add infliximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Change azathioprine to 6-mercaptopurine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Change azathioprine to sulfasalazine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c87067",
+"children":[
+"An anti–tumor necrosis factor agent is most likely to induce and maintain remission of moderate to severe ileocolonic Crohn disease resistant to glucocorticoids or immunomodulators."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ddcb5a",
+"children":[
+"Combination therapy with an anti–tumor necrosis factor and an immunomodulator is more efficacious than monotherapy with either agent alone in achieving glucocorticoid-free remission and mucosal healing in moderate to severe Crohn disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"97e841",
+"children":[
+"The most appropriate treatment is starting infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an anti–tumor necrosis factor (anti-TNF) agent. The patient presented with a flare of severe ileocolonic Crohn disease. She has required several courses of glucocorticoid treatment because maintenance therapy with azathioprine, an immunomodulator, failed. The anti-TNF agents infliximab, adalimumab, and certolizumab treat moderate to severe Crohn disease that is resistant to glucocorticoids or immunomodulators. Combination therapy with infliximab and azathioprine is more efficacious than monotherapy with either agent alone in achieving glucocorticoid-free remission and mucosal healing. Before initiation of anti-TNF agents, patients should undergo testing for latent tuberculosis because of an increased risk for reactivation of tuberculosis during therapy. If latent tuberculosis is present, treatment with isoniazid should be administered for at least 2 months before initiation of anti-TNF therapy. Patients should also be assessed for chronic hepatitis B virus infection before starting anti-TNF therapy and receive treatment if needed."
+]
+},
+{
+"type":"p",
+"hlId":"c5b9fd",
+"children":[
+"Various formulations of oral and intravenous glucocorticoids are commonly used to treat mild to severe flares of Crohn disease. Although they are effective in inducing remission, they are not effective for maintenance therapy and have significant adverse effects. Controlled-release oral budesonide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a glucocorticoid that is effective in inducing remission in mild to moderate ileocolonic Crohn disease. This patient has severe ileocolonic disease, however, which will likely lead to failure of induction with oral budesonide."
+]
+},
+{
+"type":"p",
+"hlId":"cbb107",
+"children":[
+"Thiopurines (azathioprine and 6-mercaptopurine) are immunomodulators used as glucocorticoid-sparing agents in Crohn disease. They have a slow onset of action (2-3 months), and patients require a tapering glucocorticoid regimen to bridge the interval until the thiopurine takes effect. Azathioprine and 6-mercaptopurine are equivalent immunomodulators, and changing from one to the other (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would have no benefit in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"95911e",
+"children":[
+"Although several formulations of 5-aminosalicylates deliver the drug to the small bowel, they are not efficacious in small-bowel Crohn disease. Sulfasalazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is effective for treating symptoms of colonic Crohn disease that is mild to moderately active and can be used as treatment for this patient population. Given its lack of efficacy in small-bowel Crohn disease and this patient's severe colonic disease, initiating sulfasalazine would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_4_5_1_4",
+"objective":{
+"__html":"Treat moderate to severe Crohn disease."
+},
+"references":[
+[
+"Feuerstein JD, Ho EY, Shmidt E, et al; American Gastroenterological Association Institute Clinical Guidelines Committee. AGA clinical practice guidelines on the medical management of moderate to severe luminal and perianal fistulizing Crohn's disease. Gastroenterology. 2021;160:2496-2508. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34051983",
+"target":"_blank"
+},
+"children":[
+"PMID: 34051983"
+]
+},
+" doi:10.1053/j.gastro.2021.04.022"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":79,
+"C":5,
+"D":3,
+"E":0
+},
+"hlIds":[
+"6ee4bf",
+"6f21fc",
+"a2516d",
+"1054f1",
+"c87067",
+"ddcb5a",
+"97e841",
+"c5b9fd",
+"cbb107",
+"95911e"
+]
+}

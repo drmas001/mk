@@ -1,0 +1,188 @@
+{
+"id":"mk19_a_gm_q008",
+"number":8,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e6b58c",
+"children":[
+"A 79-year-old man is evaluated for dyspnea that has been worsening insidiously over the past year. He has an 8-year history of severe COPD, with no exacerbations in the past year. He reports occasional cough with scant white sputum production. Medications are inhaled aclidinium, inhaled formoterol, and inhaled fluticasone propionate. He displays good inhaler technique."
+]
+},
+{
+"type":"p",
+"hlId":"118377",
+"children":[
+"On physical examination, vital signs are normal, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% breathing ambient air at rest and with ambulation. Breath sounds are diminished bilaterally; other findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continuous oxygen therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nebulized saline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary rehabilitation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4eaafc",
+"hvc":true,
+"children":[
+"Pulmonary rehabilitation is one of the most effective interventions to improve dyspnea, exercise capacity, and quality of life in patients with severe COPD."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"603bcc",
+"children":[
+"Pulmonary rehabilitation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate treatment. In patients with severe COPD, dyspnea is a common problem that requires a multimodal approach to management. Pulmonary rehabilitation is one of the most effective interventions to improve dyspnea, exercise capacity, and quality of life in patients with severe COPD. Specifically, pulmonary rehabilitation has been shown to improve fatigue, emotional function, dyspnea, and 6-minute walk distance. In addition, noninvasive measures, such as pursed lip breathing and use of a handheld fan, can improve dyspnea in patients already using maximal medical therapy. Studies of guided relaxation training and acupuncture/acupressure have yielded mixed results, but these therapies are safe and may be reasonable to consider for patients with refractory dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"8972df",
+"children":[
+"Azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and other macrolide antibiotics have been studied in COPD and may be an important adjunctive medical therapy in selected populations. In patients with moderate or severe COPD who experience frequent COPD exacerbations (more than two exacerbations per year), azithromycin given daily or three times weekly can reduce the frequency of exacerbations and sometimes positively affect quality of life. Risks associated with macrolide use include reduced hearing and antibiotic resistance. This patient is not a good candidate for macrolide therapy because it would not be expected to improve his dyspnea in the absence of frequent COPD exacerbations."
+]
+},
+{
+"type":"p",
+"hlId":"c07e84",
+"children":[
+"Continuous oxygen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can reduce mortality in patients with severe COPD when they are experiencing hypoxia. Data from a randomized controlled trial of palliative oxygen versus medical air in normoxic patients demonstrated no improvement in quality of life or subjective dyspnea scores with palliative oxygen therapy, supporting the hypothesis that movement of air is more important in reducing breathlessness in these patients. This patient is normoxic, and continuous oxygen therapy is not indicated at this time."
+]
+},
+{
+"type":"p",
+"hlId":"1bfbf2",
+"children":[
+"Nebulized saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used for secretion management in patients with sputum production, cough, and problematic secretions, but nebulized saline would not improve this patient's dyspnea because it is not caused by problematic sputum production."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_4_2",
+"objective":{
+"__html":"Treat dyspnea with pulmonary rehabilitation."
+},
+"references":[
+[
+"Cornelison SD, Pascual RM. Pulmonary rehabilitation in the management of chronic lung disease. Med Clin North Am. 2019;103:577-84. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30955523",
+"target":"_blank"
+},
+"children":[
+"PMID: 30955523"
+]
+},
+" doi:10.1016/j.mcna.2018.12.015"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":1,
+"D":96,
+"E":0
+},
+"hlIds":[
+"e6b58c",
+"118377",
+"1054f1",
+"4eaafc",
+"603bcc",
+"8972df",
+"c07e84",
+"1bfbf2"
+]
+}

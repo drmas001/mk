@@ -1,0 +1,695 @@
+{
+"id":"mk19_bb_gm_s13",
+"subspecialtyId":"gm",
+"title":"Depression",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_gm_s13",
+"title":{
+"__html":"Depression"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"75cde5",
+"children":[
+"Depression"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_gm_s13_1",
+"title":{
+"__html":"Screening"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"db7551",
+"children":[
+"Screening"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"cd6830",
+"children":[
+"Routine screening is recommended for all adults, including postpartum women and older adults, using the two-question model:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"2c9a94",
+"children":[
+"“Over the past 2 weeks, have you felt down, depressed, or hopeless?”"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"b95a53",
+"children":[
+"“Over the past 2 weeks, have you felt little interest or pleasure in doing things?”"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"c79c98",
+"children":[
+"If screening is positive, further evaluation for depression is warranted."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s13_2",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"a56591",
+"children":[
+"Major depressive disorder is diagnosed when at least five of the following symptoms are consistently present during the same 2-week period, at least one of which is depressed mood or loss of interest or pleasure:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"ae17ad",
+"children":[
+"depressed mood"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"25c423",
+"children":[
+"loss of interest in daily activities"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"7347cb",
+"children":[
+"weight loss or gain"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"116441",
+"children":[
+"insomnia or hypersomnia"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"96ba12",
+"children":[
+"psychomotor agitation or retardation"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"5b792c",
+"children":[
+"fatigue"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"34563f",
+"children":[
+"feelings of worthlessness or guilt"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"47fb2e",
+"children":[
+"diminished ability to concentrate"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"83f2b5",
+"children":[
+"recurrent thoughts of death or suicide"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"d3f400",
+"children":[
+"Refer patients with a suicide plan or psychotic features to a psychiatrist, and hospitalize any patient (even against the patient's wishes) who is in imminent danger of harming himself or herself or others."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"2a1d05",
+"children":[
+"Select bipolar disorder if depression is accompanied by previous or current manic symptoms."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"119f16",
+"children":[
+"Mimics of major depressive disorder:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"dc2fd9",
+"children":[
+"Adjustment reaction with depressed mood: depression with a clear precipitant. Usually resolves without medication following resolution of the acute stressor."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"b58479",
+"children":[
+"Bipolar disorder: one or more manic or mixed manic and depressive episodes, usually accompanied by major depressive disorder."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"60dd49",
+"children":[
+"Seasonal affective disorder: a subtype of major depression, with onset during fall or winter and seasonal remission. Responds to phototherapy and ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"selective serotonin reuptake inhibitor",
+"children":[
+"SSRI"
+]
+},
+"s."
+]
+}
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"ce6fc0",
+"children":[
+"Grief reaction: transient major depression may be present, but sadness without complete depression is more common. ",
+{
+"type":"alert",
+"children":[
+"Pervasive and generalized guilt and persistent vegetative signs and symptoms are not consistent with normal grief. "
+]
+},
+"Loss of self-esteem is a symptom of depression rather than grief."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"9e1b09",
+"children":[
+{
+"type":"abbreviation",
+"title":"premenstrual dysphoric disorder",
+"children":[
+"PMDD"
+]
+},
+": characterized by the cyclical recurrence of ≥5 symptoms of depression, anxiety, and emotional lability having their onset within 1 week before menstruation and resolution within 1 week after menstruation."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1c6cff",
+"children":[
+"Medical conditions: consider substance use disorders, hypothyroidism, Cushing syndrome, Parkinson disease, and medications (interferon, glucocorticoids). Routine laboratory testing for these conditions is not warranted unless suggested by history and physical examination findings."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s13_3",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"c19aa4",
+"children":[
+"For initial acute therapy, select either ",
+{
+"type":"abbreviation",
+"title":"cognitive behavioral therapy",
+"children":[
+"CBT"
+]
+},
+" or second-generation antidepressants. Guide selection of an antidepressant by differences in side-effect profiles and personal or family history of response to a specific agent. Commonly tested treatment principles include:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"a67d0c",
+"children":[
+"Sertraline is safe for patients with cardiovascular disease."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1f54e6",
+"children":[
+"Bupropion has fewer effects on sexual function and weight gain."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"7e3431",
+"children":[
+" ",
+{
+"type":"alert",
+"children":[
+"Mirtazapine causes sedation and weight gain (useful for patients with insomnia or weight loss)."
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"64796c",
+"children":[
+"Paroxetine is classified as pregnancy category D (do not use). It has the highest rate of sexual dysfunction among SSRIs, a higher rate of weight gain, and the highest rate of discontinuation syndrome (dizziness, fatigue, headache, and nausea)."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"711a2f",
+"children":[
+"For patients in whom treatment with a single SSRI is unsuccessful, response to a medication change does not depend on whether patients receive a different SSRI, a non-SSRI antidepressant, a combination of two antidepressants, augmentation with lithium, or cognitive therapy. Therefore, in nonresponding patients, modify treatment (increase dose, switch, or add another drug) if the patient does not have ≥50% reduction in symptom score with pharmacotherapy within several weeks."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_gm_s13_inline_t1"
+],
+"forceOpen":true
+},
+{
+"type":"p",
+"hlId":"e6c332",
+"children":[
+{
+"type":"alert",
+"children":[
+"Be alert for serotonin syndrome in patients taking SSRIs, particularly with concurrent use of other SSRIs, ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"monoamine oxidase inhibitor",
+"children":[
+"MAOI"
+]
+},
+"s,"
+]
+},
+" St. John's wort, trazodone, dextromethorphan, linezolid, tramadol, or buspirone."
+]
+},
+" Mild symptoms include nausea, vomiting, flushing, and diaphoresis. Severe symptoms include hyperreflexia, myoclonus, muscular rigidity, and hyperthermia."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"cc1377",
+"children":[
+"Always ask about episodes of mania or hypomania before starting antidepressant therapy, because unipolar depression treatments may provoke mania."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"807f6a",
+"children":[
+"Antidepressant drugs should not be stopped abruptly."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"082e09",
+"children":[
+"Bereavement does not usually require pharmacologic treatment."
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_gm_s13_inline_t1":{
+"id":"mk19_bb_gm_s13_inline_t1",
+"number":1,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Managing Duration of Antidepressant Therapy"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"591e22",
+"children":[
+"Study Table: Managing Duration of Antidepressant Therapy"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b670b8",
+"class":"col hd l",
+"children":[
+"Indications"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8b7674",
+"class":"col hd l",
+"children":[
+"Therapy"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0ae4e4",
+"class":"cell txt l",
+"children":[
+"First episode of depression"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a37304",
+"class":"cell txt l",
+"children":[
+"Initiate treatment and continue at the dosage required to achieve remission for an additional 4-9 months."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1ca3c5",
+"class":"cell txt l",
+"children":[
+"First recurrence of depression"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b442c7",
+"class":"cell txt l",
+"children":[
+"Increase maintenance treatment duration to one to two times the inter-episode interval (for example, choose 18-36 months if the second episode occurs 18 months after the first episode)."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"130484",
+"class":"cell txt l",
+"children":[
+"Three or more recurrences of depression, recurrence within 1 year of successful treatment, or suicide attempt"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fcfc0e",
+"class":"cell txt l",
+"children":[
+"Select long-term maintenance therapy"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

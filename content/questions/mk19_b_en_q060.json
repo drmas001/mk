@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_en_q060",
+"number":60,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b9f0a9",
+"children":[
+"A 46-year-old man is evaluated for a thyroid nodule discovered 2 years ago. Thyroid ultrasonography performed at that time showed a 2-cm left upper pole isoechoic solid nodule without microcalcification or irregular margin. The sonographic pattern was characterized as low suspicion for malignancy. Fine-needle aspiration biopsy showed benign cytology."
+]
+},
+{
+"type":"p",
+"hlId":"4c4d7f",
+"children":[
+"On physical examination, vital signs are normal. A 2-cm left upper pole thyroid nodule is firm and mobile. No lymphadenopathy is evident."
+]
+},
+{
+"type":"p",
+"hlId":"a7b758",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of 2.0 μU/mL (2.0 mU/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fine-needle aspiration biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Levothyroxine initiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid scintigraphy with radioactive iodine uptake"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid ultrasonography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further evaluation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c542a0",
+"children":[
+"Repeat ultrasonography should be performed in 6 to 12 months for all high-suspicion thyroid nodules, 12 to 24 months for intermediate- and low-suspicion nodules, and 24 months or longer for very low-suspicion nodules."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a999fd",
+"children":[
+"Repeat fine-needle aspiration biopsy is indicated for all high-suspicion thyroid nodules, nodules with concerning new sonographic findings, and intermediate or low-suspicion nodules that increase significantly in size."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e5bff8",
+"children":[
+"The most appropriate next step is thyroid ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has a persistent 2-cm thyroid nodule previously evaluated by thyroid ultrasonography and fine-needle aspiration biopsy (FNAB). Thyroid nodule evaluation begins with a thyroid-stimulating hormone (TSH) measurement; if it is normal or elevated, ultrasonography and FNAB are performed. Approximately 60% to 70% of biopsied nodules have benign cytology; 20% are indeterminate, and 5% to 10% have evidence of malignancy. Benign thyroid cytopathology results are associated with a 0% to 3% risk for malignancy. Repeat ultrasonography should be performed in 6 to 12 months for all high-suspicion nodules, 12 to 24 months for intermediate- and low-suspicion nodules, and 24 months or longer for very low-suspicion nodules."
+]
+},
+{
+"type":"p",
+"hlId":"ad8d66",
+"children":[
+"FNAB (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is inappropriate because the previous result of cytopathology was benign and the risk for malignancy remains low, without any clear change on examination. Repeat FNAB is indicated for all high-suspicion nodules, nodules with concerning new sonographic findings, and intermediate- or low-suspicion nodules that increase 20% in at least two dimensions or by 50% in nodule volume."
+]
+},
+{
+"type":"p",
+"hlId":"5ef13b",
+"children":[
+"Based on past use to reduce TSH levels, levothyroxine initiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may theoretically prevent thyroid nodule growth. However, studies have not shown the efficacy of this treatment, and the risk for thyrotoxicosis and adverse effects is increased."
+]
+},
+{
+"type":"p",
+"hlId":"07e9d2",
+"children":[
+"Thyroid scintigraphy with radioactive iodine uptake (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is useful in evaluating thyroid nodules associated with a suppressed TSH, indicating a possibly autonomously functioning and likely benign thyroid nodule. In this patient, the TSH is normal and thyroid scintigraphy with radioactive iodine uptake would not be warranted."
+]
+},
+{
+"type":"p",
+"hlId":"4892c9",
+"children":[
+"No further evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") of the thyroid nodule is inappropriate. Proceeding with a repeat ultrasonography in 6 to 24 months after the initial ultrasound is recommended by the American Thyroid Association to avoid the possibility of a false-negative test for malignancy with the first ultrasound and to detect interim changes in nodule morphology that may result in a change in treatment."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_3_1",
+"objective":{
+"__html":"Manage a benign thyroid nodule."
+},
+"references":[
+[
+"Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: the American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26:1-133. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26462967",
+"target":"_blank"
+},
+"children":[
+"PMID: 26462967"
+]
+},
+" doi:10.1089/thy.2015.0020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":3,
+"C":8,
+"D":29,
+"E":52
+},
+"hlIds":[
+"b9f0a9",
+"4c4d7f",
+"a7b758",
+"1a5dcc",
+"c542a0",
+"a999fd",
+"e5bff8",
+"ad8d66",
+"5ef13b",
+"07e9d2",
+"4892c9"
+]
+}

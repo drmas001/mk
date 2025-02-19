@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_cv_q013",
+"number":13,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d4ffaa",
+"children":[
+"A 22-year-old woman is evaluated in the emergency department for orthopnea and paroxysmal nocturnal dyspnea. She is 8 days postpartum. Delivery was uncomplicated, and she was discharged home the following day. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"62b009",
+"children":[
+"On physical examination, blood pressure is 108/82 mm Hg in both arms, pulse rate is 112/min and regular, and respiration rate is 26/min. The central venous pressure is elevated, and an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" and bilateral pulmonary crackles are present."
+]
+},
+{
+"type":"p",
+"hlId":"957c49",
+"children":[
+"A chest radiograph shows pulmonary edema. An ECG reveals sinus tachycardia without ischemic changes. Transthoracic echocardiogram shows left ventricular dilatation with global hypokinesis; ejection fraction is 38%. Right heart size and function are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute pulmonary embolism"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ascending aortic dissection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripartum cardiomyopathy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spontaneous coronary artery dissection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1420e3",
+"children":[
+"Peripartum cardiomyopathy is left ventricular systolic dysfunction with onset toward the end of pregnancy or in the months after delivery in the absence of another identifiable cause; patients often present with features of heart failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c237da",
+"children":[
+"The most likely diagnosis is peripartum cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Peripartum cardiomyopathy is newly noted left ventricular systolic dysfunction with onset in the months after delivery or toward the end of pregnancy in the absence of another identifiable cause. Patients usually present with features of heart failure. Treatment with standard medical therapy, including β-blockers, digoxin, hydralazine, nitrates, and diuretics, is appropriate. ACE inhibitors, angiotensin receptor blockers, and aldosterone antagonists should be avoided until after delivery because of teratogenicity."
+]
+},
+{
+"type":"p",
+"hlId":"7f0e85",
+"children":[
+"Pulmonary embolism (PE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may occur postpartum, particularly in patients requiring prolonged bed rest. Patients with PE frequently present with dyspnea. However, this patient's elevated venous pressure, pulmonary congestion, and global reduction in left ventricular function suggest heart failure; in addition, the normal right heart size and function noted by echocardiography argue against hemodynamically significant PE."
+]
+},
+{
+"type":"p",
+"hlId":"2a4a6c",
+"children":[
+"The patient's presentation does not support a diagnosis of ascending aortic dissection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The risk for aortic dissection is increased in the peri- and postpartum periods. Patients usually have sudden-onset chest and back pain and often describe a tearing quality. Physical examination often demonstrates right-left differential pulse and blood pressure. Echocardiography in ascending aortic dissection usually demonstrates aortic dilatation, and the dissection flap may be visualized. Left ventricular function is usually normal in patients with aortic dissection."
+]
+},
+{
+"type":"p",
+"hlId":"b9653f",
+"children":[
+"Spontaneous coronary artery dissection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most common cause of pregnancy-associated myocardial infarction and occurs most commonly during the first month postpartum. Patients usually present with symptoms of chest pain, and myocardial ischemic changes are expected on the ECG. Regional wall motion abnormalities are identified by echocardiography in patients with spontaneous coronary artery dissection."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s13_3_1",
+"objective":{
+"__html":"Diagnose peripartum cardiomyopathy."
+},
+"references":[
+[
+"Douglass EJ, Blauwet LA. Peripartum cardiomyopathy. Cardiol Clin. 2021;39:119-42. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33222808",
+"target":"_blank"
+},
+"children":[
+"PMID: 33222808"
+]
+},
+" doi:10.1016/j.ccl.2020.09.008"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":1,
+"C":95,
+"D":1,
+"E":0
+},
+"hlIds":[
+"d4ffaa",
+"62b009",
+"957c49",
+"413696",
+"1420e3",
+"c237da",
+"7f0e85",
+"2a4a6c",
+"b9653f"
+]
+}

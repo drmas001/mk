@@ -1,0 +1,166 @@
+{
+"id":"mk19_qq_q059",
+"number":59,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e32324",
+"children":[
+"A 34-year-old man is evaluated in the emergency department for a head injury. He reports worsening headache, nausea, and vomiting 90 minutes after hitting his head in a fall from the top of a 6-foot ladder."
+]
+},
+{
+"type":"p",
+"hlId":"f0a568",
+"children":[
+"On physical examination, vital signs are normal. There is no scalp laceration, bruising over the mastoid processes, or fluid draining from the nares. The general neurologic examination is normal. Glasgow Coma Scale score is 15/15."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f139b4",
+"children":[
+"Which of the following is the most appropriate immediate step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Head CT with contrast"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Head CT without contrast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measure tau protein"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI of the brain"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2d3346",
+"children":[
+"Guidelines suggest a noncontrast head CT in patients with traumatic brain injury who have had no (or very brief) loss of consciousness or posttraumatic amnesia but have a focal neurologic deficit, vomiting, severe headache, physical signs of a basilar skull fracture, Glasgow Coma Scale score lower than 15, coagulopathy, or a dangerous mechanism of injury, such as ejection from a motor vehicle or a fall from a height of more than 3 feet."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c3a40c",
+"children":[
+"This patient should have CT of the head without contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The American College of Emergency Physicians and the CDC have published guidelines for management of mild traumatic brain injury (TBI). Their recommendation is to consider a noncontrast head CT in patients with TBI who have had no (or very brief) loss of consciousness or posttraumatic amnesia but have a focal neurologic deficit, vomiting, severe headache, physical signs of a basilar skull fracture, Glasgow Coma Scale score lower than 15, coagulopathy, or a dangerous mechanism of injury, such as ejection from a motor vehicle or a fall from a height of more than 3 feet. These findings have nearly 100% sensitivity for identifying patients with clinically important findings but low specificity. This patient sustained a TBI with a dangerous mechanism of injury several hours ago and has developed symptoms (worsening headache and vomiting) mentioned in the guideline. Therefore, noncontrast CT of the head is indicated. A finding of parenchymal, subdural, or epidural hemorrhage requires emergent neurosurgical evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"d4d0b8",
+"children":[
+"In the setting of acute head trauma, head CT without contrast is preferable to head CT with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") because of its lower cost and wider availability. Contrast administration aids in the assessment of certain malignant and vascular lesions of the brain but adds nothing to the evaluation of acute head trauma. Head CT without contrast is also very sensitive for detecting skull fracture or acute hemorrhage, and a CT scan generally requires shorter examination times than a brain MRI requires, both important factors in the evaluation of a patient with acute head injury and symptoms of potential deterioration."
+]
+},
+{
+"type":"p",
+"hlId":"da3780",
+"children":[
+"Biomarkers, such as levels of tau protein (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are being studied as an aid in the diagnosis and assessment of mild TBI. Tau protein levels have been found to be significantly elevated over baseline when measured 1 hour after concussion and remain elevated for as long as symptoms persist. Measurement of tau protein and other biomarkers are not ready for clinical practice, and importantly, will not replace neuroimaging as the gold standard test to detect intracerebral bleeding."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s2_1_1",
+"objective":{
+"__html":"Evaluate traumatic brain injury with CT of the head."
+},
+"references":[
+[
+"Silverberg ND, Iaccarino MA, Panenka WJ, et al; American Congress of Rehabilitation Medicine Brain Injury Interdisciplinary Special Interest Group Mild TBI Task Force. Management of concussion and mild traumatic brain injury: a synthesis of practice guidelines. Arch Phys Med Rehabil. 2020;101:382-393. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31654620",
+"target":"_blank"
+},
+"children":[
+"PMID: 31654620"
+]
+},
+" doi:10.1016/j.apmr.2019.10.179"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"e32324",
+"f0a568",
+"f139b4",
+"2d3346",
+"c3a40c",
+"d4d0b8",
+"da3780"
+]
+}

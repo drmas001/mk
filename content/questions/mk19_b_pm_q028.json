@@ -1,0 +1,234 @@
+{
+"id":"mk19_b_pm_q028",
+"number":28,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1602be",
+"children":[
+"A 77-year-old man is evaluated for acute agitation with worsening of oxygenation, hypotension, and tachycardia over the last 30 minutes. He was hospitalized 2 days ago with pneumonia and hypoxemic respiratory failure requiring mechanical ventilation. Medical history is also significant for COPD and heart failure. Medications are cefotaxime, levofloxacin, propofol, furosemide, albuterol, and low-molecular-weight heparin."
+]
+},
+{
+"type":"p",
+"hlId":"f87fd2",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.0 °F), blood pressure is 102/55 mm Hg, pulse rate is 122/min, and respiration rate is 30/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 87% with a tidal volume of 420 mL, a positive end-expiratory pressure of 8 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O, and F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 0.50. Trachea is midline. Pulmonary examination reveals decreased breath sounds bilaterally. The jugular vein is difficult to visualize; an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" is present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bedside thoracic ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the chest"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Infusion of cisatracurium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Needle thoracostomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4fa2a5",
+"children":[
+"Point-of-care thoracic ultrasonography can determine the presence or absence of a pneumothorax or pleural effusion and can characterize the lung parenchyma to aid in the detection of heart failure or pneumonia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e8b690",
+"children":[
+"Point-of-care thoracic ultrasonography is particularly helpful for critically ill patients when the use of imaging techniques requiring transport would delay diagnosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"50eda2",
+"children":[
+"The most appropriate next step is to perform bedside ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Point-of-care thoracic ultrasonography provides a noninvasive means of rapidly assessing the lungs, pleura, and diaphragm. It is particularly helpful for critically ill patients when the use of imaging techniques requiring transport would delay diagnosis. Thoracic ultrasonography can determine the presence or absence of a pneumothorax or pleural effusion and can characterize the lung parenchyma to aid in the detection of heart failure or pneumonia. Potential causes of worsening gas exchange include increasing pleural effusion, development of a pneumothorax, and worsening of underlying pneumonia or heart failure, all of which can be rapidly assessed using point-of-care ultrasonography."
+]
+},
+{
+"type":"p",
+"hlId":"e9cc00",
+"children":[
+"CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an option, but it will take longer to perform than bedside thoracic ultrasonography, which will delay diagnosis and will also require transport of an unstable patient."
+]
+},
+{
+"type":"p",
+"hlId":"cd5c4e",
+"children":[
+"The use of paralytic agents such as cisatracurium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with severe acute respiratory distress disorder (ARDS) may improve oxygenation, decrease ventilator-induced lung injury, and reduce mortality. Indications include agitation, undesired movement, and ventilator dyssynchrony. However, use of these agents is not first-line therapy for these conditions and is typically initiated only when sedation and analgesia fail to control these symptoms. However, this patient has not yet been diagnosed with ARDS, and there is likely another more easily reversible cause for this patient's acute decline that can be diagnosed with bedside thoracic ultrasonography."
+]
+},
+{
+"type":"p",
+"hlId":"e7e1b6",
+"children":[
+"Tension pneumothorax should be suspected in patients presenting with significant cardiorespiratory distress (worsening dyspnea, hypotension, absent breath sounds on one side, tracheal deviation, and distended neck veins). A tension pneumothorax that is large and hemodynamically significant should be managed by emergent needle thoracostomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") followed by thoracostomy tube placement and hospitalization. The patient's findings do not fully support the diagnosis of tension pneumothorax, and emergent needle thoracostomy is not indicated. Bedside thoracic ultrasonography may quickly provide a diagnosis and guide appropriate therapy."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s1_2_1_3",
+"objective":{
+"__html":"Diagnose the cause of acute respiratory deterioration in a critically ill patient with bedside thoracic ultrasonography."
+},
+"references":[
+[
+"Mayo PH, Copetti R, Feller-Kopman D, et al. Thoracic ultrasonography: a narrative review. Intensive Care Med. 2019;45:1200-1211. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31418060",
+"target":"_blank"
+},
+"children":[
+"PMID: 31418060"
+]
+},
+" doi:10.1007/s00134-019-05725-8"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":66,
+"B":16,
+"C":12,
+"D":6,
+"E":0
+},
+"hlIds":[
+"1602be",
+"f87fd2",
+"cb2b54",
+"4fa2a5",
+"e8b690",
+"50eda2",
+"e9cc00",
+"cd5c4e",
+"e7e1b6"
+]
+}

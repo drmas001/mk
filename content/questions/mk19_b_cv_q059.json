@@ -1,0 +1,254 @@
+{
+"id":"mk19_b_cv_q059",
+"number":59,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c1d5d4",
+"children":[
+"A 65-year-old man is evaluated for a 2-day history of several episodes of chest discomfort and dyspnea occurring both at rest and with exertion. Today he presents with 3 hours of persistent severe central chest pressure."
+]
+},
+{
+"type":"p",
+"hlId":"dabe96",
+"children":[
+"On physical examination, blood pressure is 155/90 mm Hg, pulse rate is 90/min, respiration rate is 20/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. BMI is 29. An S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" is present, but the remainder of the cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"e180fa",
+"children":[
+"High-sensitivity cardiac troponin level is elevated (>99th percentile upper reference limit)."
+]
+},
+{
+"type":"p",
+"hlId":"2f8495",
+"children":[
+"An ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f059",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f059"
+]
+},
+{
+"type":"p",
+"hlId":"883084",
+"children":[
+"He is given aspirin, clopidogrel, intravenous unfractionated heparin, and a nitroglycerin infusion. His chest pain initially improves but returns despite nitroglycerin infusion and morphine."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eplerenone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxygen per nasal cannula"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent coronary angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"503c60",
+"children":[
+"Urgent or immediate diagnostic angiography with intent to perform revascularization is indicated in patients with non–ST-elevation acute coronary syndrome who have refractory angina or hemodynamic or electrical instability."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"69437d",
+"children":[
+"Urgent or immediate angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") with intent to perform revascularization is indicated in patients with non–ST-elevation acute coronary syndrome (NSTE-ACS) who have refractory angina or hemodynamic or electrical instability. This patient's presentation is highly suggestive of NSTE-ACS given his history, physical examination findings, ischemic ECG changes, and troponin level. This patient has an intermediate TIMI risk score of 4 given his age (≥65 years); evidence of myocardial ischemia, including ischemic ECG ST-segment changes and elevated troponin level; and recurrent chest pain episodes. Compared with an ischemia-guided approach, an invasive strategy offers improved outcomes and is indicated in most patients with higher-risk ACS, with underlying patient risk determining the urgency and timing. Whereas an invasive assessment with coronary angiography and consideration of revascularization are appropriate within 25 to 72 hours of presentation in patients with a TIMI score of 3 or 4, this patient has ongoing chest discomfort refractory to standard measures; therefore, urgent angiography (within 2 hours of presentation) is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"1e173a",
+"children":[
+"In low-risk patients with NSTE-ACS or in those who elect an initial ischemia-guided therapeutic pathway, echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or stress testing can identify those who might benefit from further invasive assessment with subsequent revascularization. In patients with increased risk and active myocardial ischemia or hemodynamic or electrical instability, echocardiography offers limited early benefit in the absence of signs or symptoms of mechanical cardiopulmonary complications."
+]
+},
+{
+"type":"p",
+"hlId":"e19b4f",
+"children":[
+"Eplerenone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an aldosterone antagonist, has proved beneficial in patients with myocardial infarction who are receiving therapeutic doses of ACE inhibitors and β-blockers and have a left ventricular ejection fraction of 40% or less and either diabetes mellitus or heart failure. This patient does not meet the criteria for eplerenone therapy."
+]
+},
+{
+"type":"p",
+"hlId":"df71cd",
+"children":[
+"Routine oxygen therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been shown to provide no benefit in ACS and may increase adverse events in the absence of hypoxemia. Guidelines recommend against oxygen administration in patients with ACS and oxygen saturation greater than 90% to 92%."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_3_1",
+"objective":{
+"__html":"Manage non–ST-elevation acute coronary syndrome with coronary angiography."
+},
+"references":[
+[
+"Anderson JL, Morrow DA. Acute myocardial infarction. N Engl J Med. 2017;376:2053-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28538121",
+"target":"_blank"
+},
+"children":[
+"PMID: 28538121"
+]
+},
+" doi:10.1056/NEJMra1606915"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":1,
+"C":9,
+"D":84,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f059":{
+"id":"mk19_b_cv_mcq_f059",
+"number":59,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"7094af5f5a3c31374cadec678cdd3057",
+"height":420,
+"width":488,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"c1d5d4",
+"dabe96",
+"e180fa",
+"2f8495",
+"883084",
+"cb2b54",
+"503c60",
+"69437d",
+"1e173a",
+"e19b4f",
+"df71cd"
+]
+}

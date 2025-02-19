@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q069",
+"number":69,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"95d2d8",
+"children":[
+"A 49-year-old woman is evaluated for a 3-year history of slowly worsening bilateral lower extremity weakness, fatigue, and numbness in the hands. She had a single episode of unilateral optic neuritis 8 years ago that resolved following administration of glucocorticoids. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c9ab2f",
+"children":[
+"On physical examination, vital signs are normal. Muscle strength testing shows 4/5 bilateral lower extremity weakness. There is 3+ hyperreflexia throughout in both lower extremities and extensor plantar response."
+]
+},
+{
+"type":"p",
+"hlId":"cbb7d7",
+"children":[
+"MRI of the brain shows five periventricular white matter hyperintensities, two with contrast enhancement. A T2-weighted MRI of the cervical and thoracic spine shows multiple hyperintensities without contrast enhancement."
+]
+},
+{
+"type":"p",
+"hlId":"41c139",
+"children":[
+"A diagnosis of multiple sclerosis is established."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2cd585",
+"children":[
+"Which of the following best describes the status of this patient's multiple sclerosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Primary progressive, with progression but without activity"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Relapsing remitting, with activity"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Relapsing remitting, without activity"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Secondary progressive, with progression and activity"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Secondary progressive, with progression but without activity"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a18949",
+"children":[
+"The three main phenotypes of multiple sclerosis are primary progressive, relapsing-remitting, and secondary progressive."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c07a99",
+"children":[
+"Relapsing-remitting multiple sclerosis can be further classified by activity status, and progressive forms of multiple sclerosis can be further classified by activity and progression status."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"439e4d",
+"children":[
+"This patient's clinical course at this time can best be described as secondary progressive multiple sclerosis (MS) with progression and activity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The three main phenotypes of MS are primary progressive, relapsing-remitting, and secondary progressive. Relapsing-remitting MS can be further classified by activity status, and progressive forms of multiple sclerosis can be further classified by activity and progression status. Clinical relapses or MRI evidence of new or enlarging lesions define “activity,” whereas the gradual accumulation of neurologic deficits independent of relapses defines “progression.” Relapsing MS is typified by relapses or exacerbations, whereas progressive MS is typified by slow, progressive accumulation of disability. If relapses occur initially and are followed by progression, as seen in this patient, the status can be described as secondary progressive",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"."
+]
+},
+" If relapses are not initially seen but progression occurs from onset, the status can be described as primary progressive."
+]
+},
+{
+"type":"p",
+"hlId":"1d850a",
+"children":[
+"This patient does not have primary progressive (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or relapsing-remitting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B and C"
+]
+},
+") MS. She experienced an initial relapse (optic neuritis 8 years ago), followed later by progression (3-year history of slowly worsening bilateral lower extremity weakness, fatigue, and numbness in the hands); thus, her status is secondary progressive MS."
+]
+},
+{
+"type":"p",
+"hlId":"ab1be9",
+"children":[
+"This patient does not have secondary progressive MS with progression but without activity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Current status of MS is evaluated by the presence or absence of current relapsing activity (such as new relapses or new lesions or contrast enhancement seen on T2-weighted MRI) and the presence or absence of progression (such as recent progressive disability accumulation). This patient presents with recent disability accumulation, and her MRI shows two contrast-enhancing lesions. Thus, her classification is secondary progressive MS with progression and activity."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_2_2_1",
+"objective":{
+"__html":"Evaluate the clinical course of multiple sclerosis."
+},
+"references":[
+[
+"Lublin FD, Reingold SC, Cohen JA, et al. Defining the clinical course of multiple sclerosis: the 2013 revisions. Neurology. 2014;83:278-86. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24871874",
+"target":"_blank"
+},
+"children":[
+"PMID: 24871874"
+]
+},
+" doi:10.1212/WNL.0000000000000560"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":28,
+"C":7,
+"D":47,
+"E":7
+},
+"hlIds":[
+"95d2d8",
+"c9ab2f",
+"cbb7d7",
+"41c139",
+"2cd585",
+"a18949",
+"c07a99",
+"439e4d",
+"1d850a",
+"ab1be9"
+]
+}

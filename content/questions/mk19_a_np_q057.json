@@ -1,0 +1,819 @@
+{
+"id":"mk19_a_np_q057",
+"number":57,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c2afc1",
+"children":[
+"A 54-year-old woman is evaluated in the hospital for polyuria 3 days after undergoing resection of a glioblastoma multiforme. She is receiving 0.45% saline at 50 mL/h and nasogastric enteral nutrition because of difficulty swallowing. Medications are dexamethasone and levetiracetam."
+]
+},
+{
+"type":"p",
+"hlId":"3d461b",
+"children":[
+"On physical examination, she is in no acute distress. Vital signs are normal. Muscle strength is 4/5 in her left upper extremity. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"29d161",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"Blood urea nitrogen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2dd192",
+"class":"cell text l",
+"children":[
+"85 mg/dL (30.3 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0d34d5",
+"class":"cell text l",
+"children":[
+"1.4 mg/dL (123.8 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"89662a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"Electrolytes"
+]
+},
+":"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b9b107",
+"class":"cell text l",
+"children":[
+"152 mEq/L (152 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"687d76",
+"class":"cell text l",
+"children":[
+"3.8 mEq/L (3.8 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e88973",
+"class":"cell text l",
+"children":[
+"118 mEq/L (118 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5adbf9",
+"class":"cell text l",
+"children":[
+"23 mEq/L (23 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"847136",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"Glucose"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a3cb56",
+"class":"cell text l",
+"children":[
+"170 mg/dL (9.4 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e331de",
+"class":"cell text l",
+"children":[
+"Urine sodium"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b9fe11",
+"class":"cell text l",
+"children":[
+"32 mEq/L (32 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a54671",
+"class":"cell text l",
+"children":[
+"Urine potassium"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"075484",
+"class":"cell text l",
+"children":[
+"24 mEq/L (24 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"108437",
+"class":"cell text l",
+"children":[
+"Urine osmolality"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0d11bb",
+"class":"cell text l",
+"children":[
+"560 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0ea9e0",
+"children":[
+"Which of the following is the most likely cause of this patient's hypernatremia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diabetes insipidus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electrolyte diuresis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Glucose diuresis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urea diuresis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8e645c",
+"children":[
+"Polyuria is caused by either a water diuresis (dilute urine) or a solute diuresis (urine osmolality, 300-600 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"473699",
+"children":[
+"Polyuria caused by an osmotic diuresis is caused by either an electrolyte diuresis or a nonelectrolyte diuresis (e.g., urea, glucose)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"11ce62",
+"children":[
+"The most likely cause of this patient's hypernatremia is urea diuresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has polyuria, which can be categorized as a water diuresis or a solute diuresis based on the urine osmolality. In osmotic diuresis, urine osmolality is usually between 300 and 600 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. This patent's urine osmolality is elevated (560 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O), likely indicating a solute diuresis. This can be further categorized as an electrolyte diuresis or a nonelectrolyte diuresis. Because the total electrolyte in her urine comprises <50% of the urine osmolality [2 × (Urine Sodium + Urine Potassium)], this patient is having a solute diuresis. She takes dexamethasone, which, due to its catabolic effect, has increased the blood urea nitrogen, resulting in a urea diuresis with subsequent loss of water. This can be confirmed by measuring the urine urea concentration. Treatment for this patient would be to either increase her water intake or decrease the dexamethasone dose."
+]
+},
+{
+"type":"p",
+"hlId":"8f04e0",
+"children":[
+"Although diabetes insipidus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may occur in patients who have undergone neurosurgery, this patient's increased urine osmolality is inconsistent with diabetes insipidus."
+]
+},
+{
+"type":"p",
+"hlId":"a27056",
+"children":[
+"An electrolyte diuresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is typically caused by intravenous administration of a large volume of 0.9% saline or after relief of bilateral urinary tract obstruction, resulting in polyuria. When urine output increases, a common response is to increase the intravenous infusion rate, which further increases the sodium load and promotes urine output and causes an unending spiral; in this case, the urine electrolyte concentration cannot explain the ongoing diuresis. In addition, although an increase in sodium intake will cause polyuria, unless the sodium load is hypertonic, it will not result in hypernatremia."
+]
+},
+{
+"type":"p",
+"hlId":"52a380",
+"children":[
+"Dexamethasone can increase serum glucose levels. Although this patient's serum glucose level is elevated, it is below the renal threshold (approximately 180 mg/dL [10 mmol/L]) for complete reabsorption. Therefore, a glucose diuresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not responsible for either the patient's polyuria or hypernatremia."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_2_2_1",
+"objective":{
+"__html":"Identify urea diuresis as the cause of hypernatremia."
+},
+"references":[
+[
+"Lindner G, Schwarz C, Funk GC. Osmotic diuresis due to urea as the cause of hypernatraemia in critically ill patients. Nephrol Dial Transplant. 2012;27:962-967. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/21810766",
+"target":"_blank"
+},
+"children":[
+"PMID: 21810766"
+]
+},
+" doi:10.1093/ndt/gfr428"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":57,
+"B":12,
+"C":6,
+"D":25,
+"E":0
+},
+"hlIds":[
+"c2afc1",
+"3d461b",
+"a462a3",
+"29d161",
+"2dd192",
+"f461b2",
+"0d34d5",
+"89662a",
+"d41d8c",
+"b99276",
+"b9b107",
+"e92687",
+"687d76",
+"a207b1",
+"e88973",
+"6827e3",
+"5adbf9",
+"847136",
+"a3cb56",
+"e331de",
+"b9fe11",
+"a54671",
+"075484",
+"108437",
+"0d11bb",
+"0ea9e0",
+"8e645c",
+"473699",
+"11ce62",
+"8f04e0",
+"a27056",
+"52a380"
+]
+}

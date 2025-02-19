@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_gm_q060",
+"number":60,
+"bookId":"gm2",
+"correctAnswer":"E",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"aae677",
+"children":[
+"A 65-year-old man is evaluated during a routine wellness examination. He reports no symptoms. Medical problems include atrial fibrillation, hypertension, and hypothyroidism. He has as a 40–pack-year history of smoking. He has one alcoholic drink nightly. Current medications are rivaroxaban, levothyroxine, hydrochlorothiazide, metoprolol, and atorvastatin. The patient also takes β-carotene, fish oil, vitamin E, and large doses of biotin. The patient expresses no desire to quit smoking at this time."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0c347f",
+"children":[
+"Which of the following is the most appropriate recommendation regarding this patient's supplements?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Stop biotin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Stop β-carotene"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop fish oil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop vitamin E"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Stop all supplements"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8b46f9",
+"hvc":true,
+"children":[
+"Dietary supplements have questionable efficacy in improving health, and their use is associated with risk for both direct and indirect harms; the physician's role is to inform patients of potential side effects."
+]
+},
+{
+"type":"keypoint",
+"hlId":"350b8d",
+"hvc":true,
+"children":[
+"In patients taking anticoagulants, vitamin E and fish oil increase the risk for bleeding; β-carotene increases the risk for lung cancer in cigarette smokers; and biotin interferes with several biological assays."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"48c6e7",
+"children":[
+"The most appropriate recommendation is to stop all dietary supplements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Dietary supplements, including vitamins, minerals, botanicals, herbals, metabolites, and amino acids, are categorized as foods by the FDA. Therefore, manufacturers are not required to demonstrate efficacy or safety of their products unless the supplement includes ingredients that were introduced after 1994. As a result, the efficacy of most supplements has not been subject to rigorous evaluation. In addition to questionable efficacy, supplement use is associated with risk for both direct and indirect harms. Direct harms include side effects; interactions with other drugs; and harms related to inclusion of unadvertised additives, compounds, or toxins. Indirect harms occur when dietary supplement use replaces or delays standard treatments that have demonstrated efficacy. When counseling patients using supplements, the physician's role is to inform these patients of potential side effects and benefits, if known."
+]
+},
+{
+"type":"p",
+"hlId":"60db60",
+"children":[
+"Biotin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a common over-the-counter supplement, has no known toxic effects. However, patients taking thyroid replacement and also taking more than 5 to 10 mg/d of biotin should discontinue it entirely or at least 2 to 5 days before thyroid function testing. Biotin interference causes falsely high levels of free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+"), free triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"), total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+", and total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" and a falsely low thyroid-stimulating hormone level, mimicking thyrotoxicosis. Biotin also interferes with serum troponin testing, resulting in falsely low levels, which could lead to difficulty in the diagnosis of acute coronary syndrome. Depending on the assay used, biotin can also interfere with the measurement of digoxin, ferritin, testosterone, brain natriuretic peptide, and progesterone."
+]
+},
+{
+"type":"p",
+"hlId":"7ab06b",
+"children":[
+"Patients who are smokers and those exposed to asbestos should avoid β-carotene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") because evidence has linked β-carotene with increased risk for lung cancer (but not with other cancers) in these populations. For this patient who continues to smoke, discontinuation of β-carotene is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"7d0172",
+"children":[
+"Both fish oil and vitamin E (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") may increase the risk for bleeding in patients taking anticoagulants. This patient should be advised to stop taking fish oil and vitamin E because he is taking rivaroxaban for atrial fibrillation. Because this patient has contraindications for β-carotene, fish oil, and vitamin E and biotin may compromise the ability to monitor his thyroid disease, all supplements should be discontinued."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_6",
+"objective":{
+"__html":"Prevent harm in patients using dietary supplements."
+},
+"references":[
+[
+"Incze M. Vitamins and nutritional supplements: what do I need to know? JAMA Intern Med. 2019;179:460. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30615020",
+"target":"_blank"
+},
+"children":[
+"PMID: 30615020"
+]
+},
+" doi:10.1001/jamainternmed.2018.5880"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":24,
+"B":15,
+"C":5,
+"D":15,
+"E":42
+},
+"hlIds":[
+"aae677",
+"0c347f",
+"8b46f9",
+"350b8d",
+"48c6e7",
+"60db60",
+"7ab06b",
+"7d0172"
+]
+}

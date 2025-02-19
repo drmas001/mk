@@ -1,0 +1,249 @@
+{
+"id":"mk19_b_pm_q030",
+"number":30,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4dacd9",
+"children":[
+"A 69-year-old man is evaluated for shortness of breath and a dry cough progressing over the past 7 months. His medical history is otherwise unremarkable, and he does not take any medications."
+]
+},
+{
+"type":"p",
+"hlId":"a048a7",
+"children":[
+"On physical examination, respiration rate is 25/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. Auscultation of the lungs reveals Velcro-like crackles at both lung bases. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"3e33de",
+"children":[
+"Laboratory test results, including serologic tests for connective tissue disease, are negative."
+]
+},
+{
+"type":"p",
+"hlId":"05081e",
+"children":[
+"Pulmonary function testing reveals a restrictive pattern and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 42% of predicted."
+]
+},
+{
+"type":"p",
+"hlId":"cca410",
+"children":[
+"Chest radiograph reveals reticular infiltrates in the lower lung zones. High-resolution chest CT scan findings are consistent with a usual interstitial pneumonia pattern."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>N</i>-acetylcysteine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pirfenidone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone, <i>N</i>-acetylcysteine, and azathioprine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6c985c",
+"children":[
+"Therapy with pirfenidone or nintedanib decreases the rate of progression of idiopathic pulmonary fibrosis but is not curative."
+]
+},
+{
+"type":"keypoint",
+"hlId":"256eca",
+"children":[
+"In patients with idiopathic pulmonary fibrosis, lung transplantation is a life-prolonging therapy for those without comorbidities that may otherwise limit life expectancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa47a7",
+"children":[
+"The most appropriate treatment is antifibrotic therapy with pirfenidone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has idiopathic pulmonary fibrosis (IPF). Patients with IPF present with chronic shortness of breath and a dry cough. Patients typically have bibasilar inspiratory Velcro-like crackles, and clubbing is common. The prevalence of disease increases with age. A confident diagnosis can be made based on the presence of typical symptoms and a usual interstitial pneumonia pattern on a high-resolution CT scan of the chest. IPF is progressive, with a median survival of 3 to 5 years after diagnosis. In 2014 the FDA approved two medications: pirfenidone, an antifibrotic agent, and nintedanib, a tyrosine kinase inhibitor, for use in patients with IPF. In clinical trials the two agents were found to have comparable efficacy in mitigating the rate of FVC decline by approximately 50% over the course of 1 year. They have also shown some efficacy in reducing severe respiratory events such as acute exacerbations and hospitalization. Common side effects are anorexia, nausea, photosensitivity (pirfenidone), and diarrhea (nintedanib). Although these medications delay IPF progression, they are not curative. Referral to a pulmonologist or interstitial lung disease center may be appropriate before initiating treatment with these medications. Lung transplantation is a life-prolonging therapy for those without comorbidities that may otherwise limit life expectancy. Early referral of eligible patients to a transplant center is appropriate given the unpredictability of disease progression."
+]
+},
+{
+"type":"p",
+"hlId":"cc3d81",
+"children":[
+"A clinical trial of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine monotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") did not show any benefit in patients with IPF. Interferon-γ and endothelin antagonists have also been found to be ineffective."
+]
+},
+{
+"type":"p",
+"hlId":"a73a8f",
+"children":[
+"A combination regimen of prednisone with azathioprine and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is associated with an increase in mortality in IPF. Hence, treatment guidelines for IPF make a strong recommendation against its use."
+]
+},
+{
+"type":"p",
+"hlId":"f82bb7",
+"children":[
+"Treatment with warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has also not shown any benefit and is associated with an increased risk of mortality in patients who lack other indications for anticoagulation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_4_1",
+"objective":{
+"__html":"Treat idiopathic pulmonary fibrosis."
+},
+"references":[
+[
+"Lederer DJ, Martinez FJ. Idiopathic pulmonary fibrosis. N Engl J Med. 2018;378:1811-1823. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29742380",
+"target":"_blank"
+},
+"children":[
+"PMID: 29742380"
+]
+},
+" doi:10.1056/NEJMra1705751"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":61,
+"C":37,
+"D":1,
+"E":0
+},
+"hlIds":[
+"4dacd9",
+"a048a7",
+"3e33de",
+"05081e",
+"cca410",
+"1054f1",
+"6c985c",
+"256eca",
+"aa47a7",
+"cc3d81",
+"a73a8f",
+"f82bb7"
+]
+}

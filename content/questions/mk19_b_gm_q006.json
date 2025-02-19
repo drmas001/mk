@@ -1,0 +1,201 @@
+{
+"id":"mk19_b_gm_q006",
+"number":6,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"893169",
+"children":[
+"A 64-year-old man is evaluated during a routine wellness visit. He received a tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine 5 years ago; the live attenuated herpes zoster vaccine 4 years ago; the hepatitis B vaccine series 2 years ago; and the influenza and COVID-19 vaccines during the most recent influenza season. He had an episode of herpes zoster 2 years ago. Medical history is otherwise unremarkable. He takes no medications and does not smoke cigarettes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"3dcf69",
+"children":[
+"Which of the following is the most appropriate vaccine to administer to this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Quadrivalent meningococcal conjugate vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Recombinant (inactivated) herpes zoster vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"20-Valent pneumococcal conjugate vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No vaccines are indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d5efa6",
+"children":[
+"Adults aged 50 years or older should receive the recombinant herpes zoster vaccine regardless of a history of herpes zoster vaccination with the live attenuated vaccine or a previous episode of herpes zoster."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bae830",
+"children":[
+"The most appropriate vaccine to administer to this patient is the recombinant (inactivated) herpes zoster vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Adults aged 50 years or older should receive the recombinant (inactivated) herpes zoster vaccine to reduce the incidence of zoster and postherpetic neuralgia. The recombinant vaccine is administered intramuscularly in two doses, with an interval of 2 to 6 months between doses. This patient's previous episode of herpes zoster does not provide immunity against future episodes and should not preclude additional zoster vaccination. In addition, persons who received the live attenuated herpes zoster vaccine, such as this patient, should be offered the recombinant herpes zoster vaccine given its increased efficacy; the recombinant vaccine has shown 97% efficacy in persons aged 50 to 69 years and 91% efficacy in persons aged 70 years or older. Patients who have received the live attenuated vaccine should wait at least 8 weeks before receiving the recombinant vaccine. The Advisory Committee on Immunization Practices (ACIP) also recommends administering the recombinant vaccine in patients at increased risk for zoster because of immunocompromise resulting from disease or therapy."
+]
+},
+{
+"type":"p",
+"hlId":"1e1a92",
+"children":[
+"The quadrivalent meningococcal conjugate vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is recommended to be given at age 11 to 12 years, with a booster dose at age 16 years. Adults who are at increased risk for meningococcal disease should undergo primary vaccination if they never received age-appropriate vaccination. Increased risk is defined as persistent complement component deficiencies or patients taking eculizumab; functional or anatomic asplenia (including sickle cell disease); HIV infection; microbiologists routinely exposed to ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria meningitidis"
+]
+},
+"; a meningococcal disease outbreak; and travel or residence in countries with hyperendemic or epidemic meningococcal disease. This patient has no indication for the quadrivalent meningococcal conjugate vaccine."
+]
+},
+{
+"type":"p",
+"hlId":"5ad4bc",
+"children":[
+"For healthy patients who are nonsmokers, the ACIP recommends pneumococcal vaccination at the age of 65 in the absence of underlying medical conditions that increase the risk of pneumococcal infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This 64-year-old patient who is a nonsmoker with no significant medical history does not need to receive the vaccine early. Once this patient turns 65 years of age, vaccination with either the 20-valent pneumococcal conjugate vaccine alone or the 15-valent pneumococcal conjugate vaccine followed by the 23-valent pneumococcal polysaccharide vaccine at least 1 year later is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"7f93ce",
+"children":[
+"Providing no vaccines is not the best strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In the absence of specific contraindications, all patients aged 50 years or older should receive the recombinant (inactivated) herpes zoster vaccine."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_2_1",
+"objective":{
+"__html":"Vaccinate with recombinant (inactivated) herpes zoster vaccine."
+},
+"references":[
+[
+"Murthy N, Wodi AP, Bernstein H, et al; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M22-0036",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/35175828",
+"target":"_blank"
+},
+"children":[
+"PMID: 35175828"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":49,
+"C":28,
+"D":24,
+"E":0
+},
+"hlIds":[
+"91054a",
+"893169",
+"3dcf69",
+"d5efa6",
+"bae830",
+"1e1a92",
+"5ad4bc",
+"7f93ce"
+]
+}

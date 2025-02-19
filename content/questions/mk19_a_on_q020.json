@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_on_q020",
+"number":20,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"90e1c2",
+"children":[
+"A 56-year-old woman is evaluated for findings suspicious for inflammatory breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"5f439a",
+"children":[
+"On physical examination, vital signs are normal. The right breast is enlarged, and the skin is thickened and erythematous. There is a 5- × 4-cm mass in the lower outer breast. There is an enlarged right axillary node."
+]
+},
+{
+"type":"p",
+"hlId":"1c0f4c",
+"children":[
+"Right breast mammogram reveals a mass in the lower outer breast with calcifications that span approximately 5 cm in size. Right axillary ultrasound reveals an enlarged axillary lymph node. Core biopsy of the breast reveals estrogen receptor–negative, progesterone receptor–negative, and human epidermal growth factor 2–negative invasive ductal carcinoma. CT of the chest, abdomen, and pelvis and bone scan show no evidence of distant metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"612375",
+"children":[
+"Which of the following is the most appropriate sequence of therapies for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Mastectomy, chemotherapy, irradiation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Preoperative chemotherapy, lumpectomy, irradiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Preoperative chemotherapy, mastectomy, irradiation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Irradiation, mastectomy, chemotherapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b9c0f8",
+"children":[
+"Patients with inflammatory breast cancer often present with breast enlargement or swelling that is often misdiagnosed as mastitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cd4fcc",
+"children":[
+"Inflammatory breast cancer is usually treated initially with neoadjuvant chemotherapy, followed by surgery, and then radiation therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"639c57",
+"children":[
+"This patient has inflammatory breast cancer (IBC) and should undergo preoperative chemotherapy followed by mastectomy and irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). IBC is diagnosed on the basis of the clinical examination and is usually characterized by erythematous and thickened skin, which is due to occlusion of dermal lymphatic vessels. Patients frequently present with breast enlargement or swelling that is often misdiagnosed as mastitis with subsequent delay in management. A palpable breast mass may be present. One-third of patients have distant metastases at diagnosis, and nearly all have lymph node involvement. For this reason, these patients should have routine staging with either CT and bone scan imaging or PET, even in the absence of symptoms of metastatic disease. IBC is associated with a high risk of both locoregional and distant recurrence and requires multimodality treatment. Patients with IBC should receive preoperative chemotherapy rather than mastectomy followed by chemotherapy and irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Preoperative chemotherapy aims to shrink the tumor to maximize the chance that mastectomy will be a complete resection with negative margins. Mastectomy is associated with decreased risk of locoregional recurrence and improved disease-free survival relative to breast-conserving surgery. Postmastectomy radiation therapy is recommended for cancers greater than 5 cm in size, inadequate or positive margins or skin involvement, IBCs, or four or more positive axillary nodes. Postmastectomy radiation therapy decreases both the risk of local recurrence and the risk of distant metastases and increases overall survival."
+]
+},
+{
+"type":"p",
+"hlId":"10bf5c",
+"children":[
+"Breast-conserving surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for patients with IBC. Mastectomy is associated with improved locoregional control relative to breast-conserving surgery."
+]
+},
+{
+"type":"p",
+"hlId":"c8e616",
+"children":[
+"Irradiation should not be the initial therapy. The tumor may decrease in size significantly with up-front chemotherapy allowing greater likelihood of surgical resection. Administering radiation therapy before surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") increases the risk of poor wound healing and other complications."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_7",
+"objective":{
+"__html":"Manage a patient with newly diagnosed inflammatory breast cancer."
+},
+"references":[
+[
+"Rosenbluth JM, Overmoyer BA. Inflammatory breast cancer: a separate entity. Curr Oncol Rep. 2019;21:86. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31414257",
+"target":"_blank"
+},
+"children":[
+"PMID: 31414257"
+]
+},
+" doi:10.1007/s11912-019-0842-y"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":10,
+"C":57,
+"D":13,
+"E":0
+},
+"hlIds":[
+"90e1c2",
+"5f439a",
+"1c0f4c",
+"612375",
+"b9c0f8",
+"cd4fcc",
+"639c57",
+"10bf5c",
+"c8e616"
+]
+}

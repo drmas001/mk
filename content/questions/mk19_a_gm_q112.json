@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q112",
+"number":112,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 112",
+"stimulus":[
+{
+"type":"p",
+"hlId":"43ed6a",
+"children":[
+"An 83-year-old man is evaluated for opioid-related constipation. He was prescribed opioids for back pain in the setting of multilevel osteoporotic vertebral compression fractures. Medications are calcium, vitamin D, zoledronic acid, polyethylene glycol, and oxycodone."
+]
+},
+{
+"type":"p",
+"hlId":"f4968b",
+"children":[
+"On physical examination, vital signs are normal. Normal bowel sounds are present. The abdomen is distended and tender to very deep palpation in the lower quadrants, with no rebound and no guarding."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Docusate sodium"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Senna"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sodium phosphate enema"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Subcutaneous methylnaltrexone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e47fe4",
+"children":[
+"Opioid-induced constipation requires prophylactic and ongoing pharmacologic therapy with an osmotic laxative, such as polyethylene glycol; stimulant laxatives are often needed in addition."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4af679",
+"children":[
+"Peripherally acting μ-opioid receptor antagonists are recommended for opioid-induced constipation refractory to first-line treatment with laxatives."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"43fbe3",
+"children":[
+"Senna (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment for this patient's constipation. The patient has developed opioid-induced constipation in the setting of opioid treatment for osteoporotic vertebral compression fractures, and the constipation has probably worsened because of limited mobility due to the fractures. Most patients develop constipation with opioid use, and tolerance to this side effect typically does not improve over time, necessitating prophylactic and ongoing pharmacologic therapy. Many patients can be managed with an osmotic laxative, such as polyethylene glycol, but stimulant laxatives, such as senna, are often needed in addition to prevent constipation."
+]
+},
+{
+"type":"p",
+"hlId":"b76a16",
+"children":[
+"Studies have evaluated the effectiveness of docusate sodium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in patients with constipation in the setting of serious illness, and several trials found it to be no better than placebo. Therefore, the addition of docusate sodium is unlikely to help with this patient's constipation symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"a1e008",
+"children":[
+"A sodium phosphate enema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is contraindicated in elderly patients and in those with kidney failure or heart failure because of the associated toxicity risks. Documented complications include hypotension and volume depletion, hyperphosphatemia, hypo- or hyperkalemia, metabolic acidosis, severe hypocalcemia, kidney failure, and prolonged QT interval."
+]
+},
+{
+"type":"p",
+"hlId":"c688df",
+"children":[
+"Methylnaltrexone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a peripherally acting μ-opioid receptor antagonist that does not cross the blood-brain barrier and therefore can aid in the treatment of refractory opioid-induced constipation without reversing analgesia. Methylnaltrexone is often rapid acting, but it is contraindicated in patients with suspected bowel obstruction. The American Gastroenterological Association guideline for opioid-induced constipation provides a strong recommendation with at least moderate- to high-quality evidence for two peripherally acting μ-opioid receptor antagonists, naldemedine and naloxegol, for constipation refractory to first-line treatment with laxatives. Methylnaltrexone has a conditional recommendation based on low-quality evidence. The best course of action for this patient is to proceed with a stimulant laxative and then reassess the need for advanced therapies."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_2_2_3",
+"objective":{
+"__html":"Treat opioid-induced constipation."
+},
+"references":[
+[
+"Crockett SD, Greer KB, Heidelbaugh JJ, et al; American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guideline on the medical management of opioid-induced constipation. Gastroenterology. 2019;156:218-26. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30340754",
+"target":"_blank"
+},
+"children":[
+"PMID: 30340754"
+]
+},
+" doi:10.1053/j.gastro.2018.07.016"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":14,
+"B":25,
+"C":18,
+"D":42,
+"E":0
+},
+"hlIds":[
+"43ed6a",
+"f4968b",
+"1054f1",
+"e47fe4",
+"4af679",
+"43fbe3",
+"b76a16",
+"a1e008",
+"c688df"
+]
+}

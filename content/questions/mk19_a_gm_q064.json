@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_gm_q064",
+"number":64,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b5ac4c",
+"children":[
+"An 89-year-old woman is evaluated in follow-up after discharge from a rehabilitation facility. Two weeks ago, she fractured her right hip after falling in her home when she tripped rushing to the bathroom to urinate during the night. Urinary urgency continues to be a problem. She has a history of hypertension, coronary artery disease, and insomnia. Her home medications are amlodipine, aspirin, calcium, lisinopril, metoprolol, and diphenhydramine as needed for sleep."
+]
+},
+{
+"type":"p",
+"hlId":"637c3d",
+"children":[
+"On physical examination, vital signs and other findings are normal. The incision at the right hip is healing well with no signs of infection."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"aa9756",
+"children":[
+"Which of the following is the most appropriate medication management to reduce this patient's risk for falls?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Start oxybutynin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start vitamin D"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop diphenhydramine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop metoprolol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"33a012",
+"hvc":true,
+"children":[
+"Physicians should review the medication list often, especially during care transitions, and discontinue those that may be inappropriate for older patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d6da34",
+"hvc":true,
+"children":[
+"The Beers Criteria for Potentially Inappropriate Medication Use in Older Adults lists medications that are problematic for elderly patients and provides recommendations regarding drug interactions to avoid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2a2329",
+"children":[
+"Diphenhydramine should be discontinued in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient had a nocturnal fall at home that resulted in a fracture, and she is at risk for future falls. Diphenhydramine is a first-generation antihistamine that is highly anticholinergic. It is sold over the counter as a sedative-hypnotic; however, it can cause confusion, constipation, dry mouth, and increased risk for falls in geriatric populations. Although treatment of comorbid health conditions in older adults often necessitates the use of several medications, physicians should review the medication list often, especially during care transitions, and discontinue those that may be inappropriate for older patients. The 2019 Beers Criteria for Potentially Inappropriate Medication Use in Older Adults from the American Geriatrics Society lists medications that are problematic for elderly patients and provides recommendations regarding drug interactions to avoid. In addition to first-generation antihistamines, such as diphenhydramine, other commonly used medications on the Beers Criteria list include tricyclic antidepressants, antipsychotics, and benzodiazepines."
+]
+},
+{
+"type":"p",
+"hlId":"438cd1",
+"children":[
+"Although this patient was experiencing urinary urgency at the time of her fall, oxybutynin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an anticholinergic medication that also has a propensity for side effects in geriatric patients. Oxybutynin is on the Beers Criteria list and would not be an appropriate medication in this patient. Nonpharmacologic therapy is the preferred first-line treatment for all types of urinary incontinence. In cases of urgency, recommended nonpharmacologic therapy includes bladder training with timed voiding and gradually increasing the time between voids."
+]
+},
+{
+"type":"p",
+"hlId":"01ebd4",
+"children":[
+"The U.S. Preventive Services Task Force recommends against vitamin D supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for fall prevention in community-dwelling adults; these recommendations do not apply to patients with osteoporotic fracture or vitamin D deficiency. In this patient with no history of osteoporosis, vitamin D is unlikely to be beneficial for fall prevention."
+]
+},
+{
+"type":"p",
+"hlId":"2b5708",
+"children":[
+"In patients with orthostatic symptoms, such as lightheadedness with standing, discontinuation of a contributing medication, such as the β-blocker metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should be considered. However, this patient experienced a mechanical fall and has no orthostatic symptoms; therefore, discontinuation of metoprolol is not the best choice in medication management."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_4",
+"objective":{
+"__html":"Avoid medications on the Beers Criteria list in a geriatric patient."
+},
+"references":[
+[
+"By the 2019 American Geriatrics Society Beers Criteria® Update Expert Panel. American Geriatrics Society 2019 updated AGS Beers Criteria® for potentially inappropriate medication use in older adults. J Am Geriatr Soc. 2019;67:674-94. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30693946",
+"target":"_blank"
+},
+"children":[
+"PMID: 30693946"
+]
+},
+" doi:10.1111/jgs.15767"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":14,
+"B":4,
+"C":81,
+"D":0,
+"E":0
+},
+"hlIds":[
+"b5ac4c",
+"637c3d",
+"aa9756",
+"33a012",
+"d6da34",
+"2a2329",
+"438cd1",
+"01ebd4",
+"2b5708"
+]
+}

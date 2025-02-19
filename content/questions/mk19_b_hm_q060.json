@@ -1,0 +1,181 @@
+{
+"id":"mk19_b_hm_q060",
+"number":60,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"611310",
+"children":[
+"A 55-year-old woman is evaluated in the emergency department for right leg swelling and is diagnosed with a proximal deep venous thrombosis. Medical history is significant for end-stage kidney disease for which she is undergoing hemodialysis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb34ee",
+"children":[
+"Which of the following is the most appropriate anticoagulation treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dabigatran"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Edoxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivaroxaban"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d70d17",
+"children":[
+"All of the direct oral anticoagulants are at least partially eliminated through the kidney; however, apixaban has the lowest renal elimination and is approved for use in patients with advanced kidney disease undergoing dialysis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"092f8c",
+"children":[
+"Direct oral anticoagulants may be preferred to warfarin in patients with early stage chronic kidney disease (estimated glomerular filtration rate <60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and atrial fibrillation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9ed4bd",
+"children":[
+"The most appropriate treatment for this patient is apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The direct oral anticoagulants (DOACs) are a safe, effective treatment for most patients with venous thromboembolism (VTE). The DOACs available for use in the United States are dabigatran, rivaroxaban, apixaban, and edoxaban. In clinical trials of patients with VTE, patients were initially treated with a parenteral agent, usually heparin, and transitioned to dabigatran or edoxaban. Rivaroxaban and apixaban were studied without concomitant parenteral therapy and are approved as monotherapy for VTE. Dabigatran functions as a direct thrombin inhibitor, whereas the other agents are factor Xa inhibitors. Advantages of DOACs include no need for routine monitoring, rapid onset of action and short half-life, fixed dosing, and fewer drug-drug interactions. These drugs are as effective as warfarin in VTE prevention; although the overall bleeding risk was comparable, less central nervous system bleeding, fatal bleeding, and use of blood product support among patients taking DOACs was seen than with warfarin. Data from a 2019 systematic review and meta-analysis suggest that DOACs may be preferred to vitamin K antagonists like warfarin in patients with early stage chronic kidney disease (estimated glomerular filtration rate <60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and atrial fibrillation. A key finding was that DOACS were associated with relative risk reductions of 21% for stroke or systemic embolism, 52% for hemorrhagic stroke, and 51% for intracranial hemorrhage. Apixaban has the lowest renal elimination of the direct oral anticoagulants (25%) and can be used by patients undergoing dialysis with close monitoring. Apixaban is the only DOAC approved for use in patients on dialysis. Warfarin is an acceptable anticoagulant in patients treated with hemodialysis. It has the advantages of long clinical experience and the ability to monitor the INR and adjust the dose to maintain safe and therapeutic anticoagulation levels."
+]
+},
+{
+"type":"p",
+"hlId":"03e7c6",
+"children":[
+"Dabigatran has the highest renal excretion, 80%, of the DOACs, and edoxaban, another Xa inhibitor, is approximately 50% cleared by the kidneys (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+"). Neither is specifically approved for use in patients undergoing dialysis."
+]
+},
+{
+"type":"p",
+"hlId":"4c9699",
+"children":[
+"Rivaroxaban also has significant renal elimination (66%), and dose adjustment is needed in patients with advanced chronic kidney disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). It is not approved for patients undergoing hemodialysis."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_5_2_2",
+"objective":{
+"__html":"Treat deep venous thrombosis in a patient with end-stage kidney disease."
+},
+"references":[
+[
+"Hanni C, Petrovitch E, Ali M, et al. Outcomes associated with apixaban vs warfarin in patients with renal dysfunction. Blood Adv. 2020;4:2366-2371. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32463871",
+"target":"_blank"
+},
+"children":[
+"PMID: 32463871"
+]
+},
+" doi:10.1182/bloodadvances.2019000972"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":68,
+"B":17,
+"C":6,
+"D":9,
+"E":0
+},
+"hlIds":[
+"611310",
+"cb34ee",
+"d70d17",
+"092f8c",
+"9ed4bd",
+"03e7c6",
+"4c9699"
+]
+}

@@ -1,0 +1,190 @@
+{
+"id":"vdx4_cv_q021",
+"number":21,
+"bookId":"vdx_cv",
+"correctAnswer":"A",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dd0da1",
+"children":[
+"A 30-year-old man is evaluated for hypertension. He is asymptomatic. A systolic murmur is heard in the left infraclavicular region. Blood pressure is 168/90 mm Hg in both arms."
+]
+},
+{
+"type":"p",
+"hlId":"885988",
+"children":[
+"Chest radiograph is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f021a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f021a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic coarctation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fibromuscular dysplasia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Giant cell arteritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Patent ductus arteriosus"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"243c9a",
+"children":[
+"This patient most likely has aortic coarctation, as suggested by the ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f021b",
+"wrapId":"2",
+"children":[
+"radiographic finding"
+]
+},
+" of an indentation at the coarctation site (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+"), resulting in a “figure 3 sign” caused by dilatation of the aorta above (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"blue arrow"
+]
+},
+") and below (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrow"
+]
+},
+") the area of coarctation. This frontal chest radiograph also demonstrates “notching” of the inferior borders of several ribs (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"yellow circles"
+]
+},
+"). Rib notching is caused by erosion of the rib by forceful pulsations of dilated intercostal arteries involved in collateral blood flow."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_cv_mcq_f021b"
+]
+}
+],
+"relatedSection":"mk19_b_cv_s9_7_3",
+"objective":{
+"__html":"Recognize signs of aortic coarctation on a chest radiograph."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f021a":{
+"id":"vdx4_cv_mcq_f021a",
+"number":21,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"51d992ee46c8db79751413c61df424c2",
+"height":1094,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_cv_mcq_f021b":{
+"id":"vdx4_cv_mcq_f021b",
+"number":21,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"799a2ebbe64a46600825dfa552cd6697",
+"height":800,
+"width":656,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"dd0da1",
+"885988",
+"413696",
+"243c9a"
+]
+}

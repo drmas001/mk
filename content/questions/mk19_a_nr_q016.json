@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q016",
+"number":16,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"09fdb4",
+"children":[
+"A 60-year-old man is evaluated for a 3-year history of gradual, progressive decline in his cognition, behavior, and motor skills. Both he and his wife have noticed these changes. He becomes agitated easily, and his wife reports that his personality is much more subdued than it used to be. He no longer enjoys socializing. Memory loss is not a prominent symptom. The patient played professional football for 5 years after college graduation. He has hypertension and hyperlipidemia. His medications are lisinopril, hydrochlorothiazide, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"027758",
+"children":[
+"On physical examination, vital signs are normal. There is slightly increased tone in the bilateral upper extremities. He has a slow, shuffling gait."
+]
+},
+{
+"type":"p",
+"hlId":"ee2930",
+"children":[
+"MRI of the brain reveals global atrophy."
+]
+},
+{
+"type":"p",
+"hlId":"8afac0",
+"children":[
+"Neuropsychological testing shows marked cognitive slowing and a disorganized thought process."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alzheimer disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Behavioral-variant frontotemporal dementia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Traumatic encephalopathy syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vascular cognitive impairment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ab74ff",
+"children":[
+"Traumatic encephalopathy syndrome is a progressive neurodegenerative syndrome associated with repetitive head trauma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"468bb2",
+"children":[
+"Clinical features supporting the diagnosis of traumatic encephalopathy syndrome include emotional dysregulation, behavior change, and motor disturbance with parkinsonian features."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2accec",
+"children":[
+"The patient meets the proposed criteria for traumatic encephalopathy syndrome (TES) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). TES is the progressive neurodegenerative syndrome associated with repetitive head trauma. This clinical syndrome is associated with the pathological diagnosis referred to as chronic traumatic encephalopathy. The National Institute of Neurological Disorders and Stroke Consensus Diagnostic Criteria for TES require (1) substantial exposure to repetitive head impacts from contact sports, military service, or other causes; (2) core clinical features of cognitive impairment (in episodic memory and/or executive functioning) and/or neurobehavioral dysregulation; (3) a progressive course; and (4) that the clinical features are not fully accounted for by any other neurologic, psychiatric, or medical conditions. Supportive features include emotional dysregulation, behavior change, and motor disturbance with parkinsonian features. Diagnosis is supported by abnormal neuroimaging findings on PET, single-photon emission tomography, structural MRI, or diffusion-tensor imaging. A common but nonspecific finding includes generalized cerebral atrophy."
+]
+},
+{
+"type":"p",
+"hlId":"ad6942",
+"children":[
+"Alzheimer disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a memory-predominant dementia. Its typical presentation includes an insidious worsening of memory, language, and visuospatial abilities. Alzheimer disease is associated with hippocampal atrophy on MRI. The patient lacks both memory loss and structural changes on MRI, making this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"111878",
+"children":[
+"The most prominent feature of behavioral-variant frontal temporal dementia (FTD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an alteration in personality and behavior that typically develops years before the onset of cognitive impairment. Many patients with behavioral-variant FTD have frontotemporal lobe atrophy visible on imaging, which is not apparent in this patient's MRI."
+]
+},
+{
+"type":"p",
+"hlId":"f4c1df",
+"children":[
+"Two major signs of vascular cognitive impairment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are early gait impairment and personality or mood changes. Brain imaging is a critical component supporting the diagnosis of vascular cognitive impairment. MRI typically displays a pattern of diffuse and confluent changes in the white matter of the brain, cerebral microhemorrhages, and cortical infarcts. Although the cognitive profiles of TES and vascular cognitive impairment overlap, and this patient's slow gait and mood changes could be consistent with this diagnosis, the brain MRI shows no evidence of cerebrovascular disease."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_1_4",
+"objective":{
+"__html":"Diagnose traumatic encephalopathy syndrome."
+},
+"references":[
+[
+"Katz DI, Bernick C, Dodick DW, et al. National Institute of Neurological Disorders and Stroke Consensus Diagnostic Criteria for traumatic encephalopathy syndrome. Neurology. 2021;96:848-863. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33722990",
+"target":"_blank"
+},
+"children":[
+"PMID: 33722990"
+]
+},
+" doi:10.1212/WNL.0000000000011850"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":21,
+"C":67,
+"D":5,
+"E":0
+},
+"hlIds":[
+"09fdb4",
+"027758",
+"ee2930",
+"8afac0",
+"413696",
+"ab74ff",
+"468bb2",
+"2accec",
+"ad6942",
+"111878",
+"f4c1df"
+]
+}

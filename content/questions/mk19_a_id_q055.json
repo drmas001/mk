@@ -1,0 +1,215 @@
+{
+"id":"mk19_a_id_q055",
+"number":55,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e05100",
+"children":[
+"A 19-year-old man is evaluated for a 3-day history of fever, sore throat, and fatigue without cough. He is not sexually active. All vaccines are current. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4b4391",
+"children":[
+"On physical examination, temperature is 38 °C (100.4 °F), blood pressure is 124/70 mm Hg, pulse rate is 110/min, and respiration rate is 16/min. Cervical lymph nodes are tender and swollen bilaterally. Pharyngeal erythema is noted but no tonsillar exudate. The spleen tip is palpable."
+]
+},
+{
+"type":"p",
+"hlId":"67be08",
+"children":[
+"A rapid ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes"
+]
+},
+" antigen test is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1c2ed1",
+"children":[
+"Which of the following is the most likely cause of this patient's illness?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute HIV infection"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Corynebacterium diphtheriae</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Epstein-Barr virus"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Group A <i>Streptococcus pyogenes</i>"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1d7154",
+"children":[
+"Infectious mononucleosis, most commonly caused by Epstein-Barr virus, is usually seen in adolescents who have been exposed to oral secretions and typically presents with fever, nonexudative pharyngitis, lymphadenopathy, and splenomegaly."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e2ce65",
+"children":[
+"Patients with three or more Centor criteria (fever by history, tonsillar exudates, tender anterior cervical lymphadenopathy, and absence of cough) should be tested by using a rapid antigen detection test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54328a",
+"children":[
+"This is a classic presentation for infectious mononucleosis, most commonly caused by Epstein-Barr virus (EBV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). It is usually seen in adolescents who have been exposed to oral secretions. Mononucleosis typically presents with fever, nonexudative pharyngitis, lymphadenopathy, splenomegaly, and occasionally a maculopapular rash (5%-15%) in the absence of antibiotic therapy. Atypical lymphocytosis and aminotransferase level elevations are clues to the diagnosis, which is established by the presence of heterophile antibodies (Monospot test) or IgM to the EBV viral capsid antigen. The Monospot test result may be negative in the first week of illness. Treatment is supportive; glucocorticoids may be given to patients with autoimmune hemolytic anemia, central nervous system involvement, or tonsillar enlargement with a compromised airway. Patients with splenomegaly should be warned not to participate in contact sports because of the risk of splenic rupture."
+]
+},
+{
+"type":"p",
+"hlId":"25d669",
+"children":[
+"Two other viral causes of infectious mononucleosis syndromes are acute infection with cytomegalovirus or acute HIV infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The clinical presentations for both viruses are similar to EBV and can only be differentiated by cytomegalovirus or HIV serologies. This patient has had no known HIV risk exposure, so HIV would be an unlikely cause of his mononucleosis syndrome. Because this patient may be reluctant to share accurate information about his sexual history, testing is still advisable."
+]
+},
+{
+"type":"p",
+"hlId":"53fbc2",
+"children":[
+"The onset of respiratory diphtheria (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is gradual and most typically presents as sore throat, malaise, cervical lymphadenopathy, and low-grade fever. As the disease advances, gray and white pharyngeal exudate may be noted as well as, in some, formation of a pseudomembrane that adheres tightly to the underlying tissues. This patient's presentation is not typical for respiratory diphtheria, and this infection would not be expected in a patient with a completed vaccination series."
+]
+},
+{
+"type":"p",
+"hlId":"0a811a",
+"children":[
+"Group A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is also an unlikely possibility for this patient's illness. Patients with three or more Centor criteria (fever by history, tonsillar exudates, tender anterior cervical lymphadenopathy, and absence of cough) should be tested by using a rapid antigen detection test. This patient was tested and found to be negative. Finally, the presence of splenomegaly makes streptococci a much less likely possibility."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_3_3",
+"objective":{
+"__html":"Diagnose Epstein-Barr virus infection."
+},
+"references":[
+[
+"AbuSalah MAH, Gan SH, Al-Hatamleh MAI, et al. Recent advances in diagnostic approaches for epstein-barr virus. Pathogens. 2020;9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32197545",
+"target":"_blank"
+},
+"children":[
+"PMID: 32197545"
+]
+},
+" doi:10.3390/pathogens9030226"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":95,
+"D":3,
+"E":0
+},
+"hlIds":[
+"e05100",
+"4b4391",
+"67be08",
+"1c2ed1",
+"1d7154",
+"e2ce65",
+"54328a",
+"25d669",
+"53fbc2",
+"0a811a"
+]
+}

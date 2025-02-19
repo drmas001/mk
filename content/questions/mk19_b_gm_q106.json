@@ -1,0 +1,163 @@
+{
+"id":"mk19_b_gm_q106",
+"number":106,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 106",
+"stimulus":[
+{
+"type":"p",
+"hlId":"874351",
+"children":[
+"A 50-year-old man is evaluated during a routine wellness visit. He has no medical problems and takes no medications. The patient is engaged in a discussion about the benefits and harms of prostate cancer screening, after which he expresses no preference for or against prostate cancer screening."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0b4af0",
+"children":[
+"According to the U.S. Preventive Services Task Force, which of the following is the most appropriate prostate screening strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Digital rectal examination"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Digital rectal examination and prostate-specific antigen (PSA) testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PSA testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No screening"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"853cf2",
+"hvc":true,
+"children":[
+"For men aged 55 to 69 years, the U.S. Preventive Services Task Force recommends that clinicians engage in a discussion of the potential benefits versus harms of screening for prostate cancer before ordering testing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d644da",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force recommends that clinicians should not screen men for prostate cancer unless they express a preference for screening."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8ba0b2",
+"children":[
+"The most appropriate prostate cancer screening strategy for this patient is no screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Screening for prostate cancer in asymptomatic, average-risk men has been controversial, and recommendations among professional organizations continue to evolve. The U.S. Preventive Services Task Force (USPSTF) recommends that for men aged 55 to 69 years, the decision to undergo periodic prostate-specific antigen (PSA)–based screening for prostate cancer should be an individual decision. Before deciding whether to be screened, men should have an opportunity to discuss the potential benefits and harms of screening with their clinician and to incorporate their values and preferences in the decision. Screening offers a small potential benefit of reducing the chance of death from prostate cancer in some men that is estimated to be a reduction in one prostate cancer–related death for every 1000 men screened for 10 years. However, many men will experience potential harms of screening, including false-positive results that require additional testing and possible prostate biopsy; overdiagnosis and overtreatment; and treatment complications, such as incontinence and erectile dysfunction. In determining whether this service is appropriate in individual cases, patients and clinicians should consider the balance of benefits and harms on the basis of family history, comorbid medical conditions, patient values about the benefits and harms of screening and treatment-specific outcomes, and other health needs. Clinicians should not screen men who do not express a preference for screening."
+]
+},
+{
+"type":"p",
+"hlId":"e4072e",
+"children":[
+"Conducting a digital rectal examination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") as part of prostate cancer screening is not recommended by the USPSTF because there is no evidence that it adds benefit to the PSA assay."
+]
+},
+{
+"type":"p",
+"hlId":"0e214b",
+"children":[
+"Because the patient has not expressed a preference for screening, obtaining a PSA measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated. If the decision is made to proceed with screening, the American Urological Association (AUA) recommends choosing less frequent screening intervals (≥2 years), which may reduce overdiagnosis and the number of false-positive results while preserving most of the screening benefit. The AUA also recommends that the interval for rescreening may be based on the baseline PSA level. Screening is not recommended for men with less than a 10- to 15-year life expectancy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_2",
+"objective":{
+"__html":"Avoid prostate cancer screening in a patient who does not express a preference for screening."
+},
+"references":[
+[
+"Grossman DC, Curry SJ, Owens DK, et al; US Preventive Services Task Force. Screening for prostate cancer: US Preventive Services Task Force recommendation statement. JAMA. 2018;319:1901-13. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29801017",
+"target":"_blank"
+},
+"children":[
+"PMID: 29801017"
+]
+},
+" doi:10.1001/jama.2018.3710"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":13,
+"B":10,
+"C":8,
+"D":69,
+"E":0
+},
+"hlIds":[
+"874351",
+"0b4af0",
+"853cf2",
+"d644da",
+"8ba0b2",
+"e4072e",
+"0e214b"
+]
+}

@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_hm_q034",
+"number":34,
+"bookId":"hm",
+"correctAnswer":"E",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b58428",
+"children":[
+"A 75-year-old man is evaluated for an elevated INR found on routine monitoring. He is otherwise well and has no evidence of bleeding. Medical history is significant for atrial fibrillation. His only medication is warfarin."
+]
+},
+{
+"type":"p",
+"hlId":"2c778d",
+"children":[
+"Laboratory studies show a normal hemoglobin level and INR of 8.5."
+]
+},
+{
+"type":"p",
+"hlId":"867408",
+"children":[
+"The patient is instructed not to take his warfarin until further INR evaluation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"4-Factor prothrombin complex concentrate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Factor VIIa"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fresh frozen plasma"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin K"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"db2516",
+"hvc":true,
+"children":[
+"In patients taking warfarin with a supratherapeutic INR less than 10 and no signs of bleeding, warfarin should be withheld until the INR returns to the therapeutic range."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c08c5c",
+"hvc":true,
+"children":[
+"For INR elevation greater than 10 without bleeding, vitamin K is recommended in addition to withholding warfarin; if the INR is elevated and life-threatening bleeding is present, then warfarin is withheld, and vitamin K and a prothrombin complex concentrate should be administered."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"512ec9",
+"children":[
+"The most appropriate management of this patient in addition to withholding warfarin is observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). He has an elevated INR on routine laboratory testing but no signs or symptoms of bleeding. Bleeding risk increases as the INR increases. Additionally, patients older than 75 years, those with previous cerebrovascular accidents, and those with previous gastrointestinal bleeding are at increased risk of bleeding independent of the INR. Bleeding risk is elevated to a higher degree in patients taking concomitant aspirin, clopidogrel, or other antiplatelet agents. If a patient's INR is between 4.5 and 10, warfarin must be withheld until the INR returns to the therapeutic range; without bleeding, no other treatment is required, and observation is recommended. If the INR is greater than 10 without any bleeding, then vitamin K is recommended in addition to withholding warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In any patient taking warfarin with an elevated INR who presents with life-threatening bleeding, then warfarin is withheld, and vitamin K and a prothrombin complex concentrate (PCC) should be administered (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The PCC may be 3-factor (containing factors II, IX, and X) or 4-factor (containing factors II, VII, IX, and X), although 4-factor PCC is preferred because of more predictable warfarin reversal."
+]
+},
+{
+"type":"p",
+"hlId":"783209",
+"children":[
+"Factor VIIa is used to treat bleeding in patients with hemophilia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). It plays no role in warfarin reversal."
+]
+},
+{
+"type":"p",
+"hlId":"6f4ebf",
+"children":[
+"Fresh frozen plasma (FFP) is not the preferred agent when treatment of life-threatening bleeding is necessary for a patient with a supratherapeutic INR (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). 4-Factor PCC has been found to be noninferior to FFP in the treatment of life-threatening bleeding. Additionally, 4-factor PCC has a faster infusion time, more rapid reversal of INR, and lower risk of volume overload. For these reasons, 4-factor PCC is the preferred agent for warfarin reversal when a reversal agent is necessary."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_5_2_1",
+"objective":{
+"__html":"Manage an elevated INR in an asymptomatic patient taking warfarin."
+},
+"references":[
+[
+"Witt DM, Nieuwlaat R, Clark NP, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Optimal management of anticoagulation therapy. Blood Adv. 2018;2:3257-3291. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482765",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482765"
+]
+},
+" doi:10.1182/bloodadvances.2018024893"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":3,
+"C":4,
+"D":23,
+"E":67
+},
+"hlIds":[
+"b58428",
+"2c778d",
+"867408",
+"1e31fb",
+"db2516",
+"c08c5c",
+"512ec9",
+"783209",
+"6f4ebf"
+]
+}

@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q126",
+"number":126,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 126",
+"stimulus":[
+{
+"type":"p",
+"hlId":"286643",
+"children":[
+"A 67-year-old woman is evaluated in the emergency department 90 minutes after developing left leg and arm weakness."
+]
+},
+{
+"type":"p",
+"hlId":"22001b",
+"children":[
+"Blood pressure is 168/98 mm Hg; pulse rate is 85/min and irregularly irregular. Cardiac examination is remarkable only for an irregular rhythm. Carotid pulses are normal. Neurologic examination reveals left-sided homonymous visual field loss, hemiplegia, and neglect. Plasma glucose level and head CT are normal. ECG shows atrial fibrillation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous alteplase"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mechanical thrombectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a15989",
+"children":[
+"Patients who receive intravenous recombinant tissue plasminogen activator within 3 hours of an ischemic stroke onset have a greater likelihood of clinical improvement at 3 months compared with untreated patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0e1cc8",
+"children":[
+"Before treatment with recombinant tissue plasminogen activator, the patient's blood pressure should be less than 185/110 mm Hg; higher readings should prompt administration of intravenous labetalol or nicardipine before alteplase."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6be6fa",
+"children":[
+"This patient should receive thrombolysis with intravenous (IV) alteplase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a recombinant tissue plasminogen activator. She has acute and disabling neurologic deficits consistent with an ischemic stroke in the right middle cerebral artery territory, with no evidence of hemorrhage or acute infarct on head CT. Atrial fibrillation (AF) is the most common cardioembolic cause of stroke and is the most likely cause of this patient's stroke. She is within the 3-hour treatment window for patients who do not meet any exclusion criteria for thrombolysis and should receive this treatment. Patients who receive alteplase within 3 hours of stroke onset have a greater likelihood of clinical improvement at 3 months compared with nontreated patients. In addition, patients who present within 3 to 4.5 hours of stroke onset and fulfill additional criteria may also benefit from alteplase, but it is not FDA approved for this population. The main complication of alteplase is symptomatic intracranial hemorrhage, which may present with headache or clinical deterioration. The main risk factors for symptomatic hemorrhage are treatment after 4.5 hours and hypertension before and after treatment. Accordingly, before treatment with alteplase, the patient's blood pressure should be less than 185/110 mm Hg. Higher readings should prompt administration of IV labetalol or nicardipine before alteplase, and blood pressure should be kept below 180/105 mm Hg after treatment."
+]
+},
+{
+"type":"p",
+"hlId":"726672",
+"children":[
+"Anticoagulation, including apixaban therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), does not reduce the 14-day risk for recurrent stroke or mortality in patients with AF who have a new stroke, and it is therefore not indicated. Eventual initiation of oral anticoagulation therapy would be an appropriate step for secondary prevention of future strokes in this patient with AF; it would be inappropriate as an acute treatment."
+]
+},
+{
+"type":"p",
+"hlId":"a1bf86",
+"children":[
+"For patients with acute ischemic stroke who are not eligible for alteplase or endovascular stroke therapy, antiplatelet therapy is the mainstay of acute treatment. When administered either orally or rectally within 48 hours of stoke, aspirin reduces the short-term risk for recurrent stroke, and its use in the acute setting is a stroke-specific quality-of-care core measure. Monotherapy with clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), however, has no established benefit in the acute stroke setting. As long as a follow-up CT scan of the head shows no hemorrhage, aspirin should be initiated 24 hours after administration of alteplase."
+]
+},
+{
+"type":"p",
+"hlId":"d61f86",
+"children":[
+"Clinical trials have shown that in ischemic strokes caused by suspected large-vessel occlusion, endovascular thrombectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is superior to alteplase alone and can improve long-term outcomes. This therapy may be offered to a select subset of patients who fulfill criteria on additional imaging, such as CT angiography. Treatment with alteplase, however, should not be delayed in appropriate candidates, including those who may go on to receive thrombectomy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_1",
+"objective":{
+"__html":"Treat acute ischemic stroke with thrombolysis."
+},
+"references":[
+[
+"Kleindorfer DO, Towfighi A, Chaturvedi S, et al. 2021 guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association/American Stroke Association. Stroke. 2021;52:e364-e467. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34024117",
+"target":"_blank"
+},
+"children":[
+"PMID: 34024117"
+]
+},
+" doi:10.1161/STR.0000000000000375"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"286643",
+"22001b",
+"765904",
+"a15989",
+"0e1cc8",
+"6be6fa",
+"726672",
+"a1bf86",
+"d61f86"
+]
+}

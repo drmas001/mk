@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_np_q058",
+"number":58,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4e3cc0",
+"children":[
+"A 61-year-old man is evaluated for bilateral action tremor of the hands and rarely the feet that began 7 days ago. The intensity of the tremor varies and is worse in the morning and late afternoon. He has no other symptoms. There is no family history of tremor or Parkinson disease. Four months ago, he underwent living-donor related kidney transplantation. Medical history is also significant for hypertension. Medications are atorvastatin, lisinopril, metoprolol, mycophenolate mofetil, nifedipine, prednisone, sulfamethoxazole-trimethoprim, tacrolimus, and valganciclovir."
+]
+},
+{
+"type":"p",
+"hlId":"5d101c",
+"children":[
+"On physical examination, vital signs are normal. There is bilateral tremor of the hands present when the hands are resting in the lap, with outstretched arms, and with various actions. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"c0cc4e",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.2 mg/dL (106.1 µmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"899858",
+"children":[
+"Which of the following is the most likely medication responsible for this patient's tremor?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Metoprolol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tacrolimus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ef029f",
+"children":[
+"Calcineurin inhibitor side effects include tremor, new-onset type 2 diabetes mellitus, decreased glomerular filtration rate, hypertension, dyslipidemia, and gingival hyperplasia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b00e0a",
+"children":[
+"Tacrolimus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most likely medication responsible for this patient's tremor. Immunosuppressive medications allow successful kidney transplantation but have numerous side effects that should be considered when patients on these medications present with new symptoms. Long-term maintenance therapy for most kidney transplant recipients includes a combination of calcineurin inhibitors (tacrolimus or cyclosporine), antimetabolites (mycophenolate mofetil or azathioprine), and glucocorticoids. Tremor is an oscillatory movement of a body part that is classified based on its presence at rest or with action. Tremor is a side effect of calcineurin inhibitors and is most common with tacrolimus. Calcineurin-induced tremor is bilateral and may affect the hands and feet. Tacrolimus tremor is activated by action, but in about 50% of cases the tremor can be classified as both an action and resting tremor. The tremor is associated with elevated drug levels and may be most pronounced when drug levels peak following a dose. This patient's tacrolimus trough measurement should be checked, as treatment interventions include dose reduction if permissible, conversion to long-acting formulations, addition of a β-blocker, or conversion to an alternate agent if the tremor is debilitating and unresponsive to other interventions. These adjustments should be made in conjunction with the patient's nephrologist or transplant program. Other side effects of calcineurin inhibitors include new-onset type 2 diabetes mellitus, decreased glomerular filtration rate, hypertension, dyslipidemia, and gingival hyperplasia."
+]
+},
+{
+"type":"p",
+"hlId":"a88804",
+"children":[
+"Metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not causing, and may be useful in treating, this patient's tacrolimus-related tremor."
+]
+},
+{
+"type":"p",
+"hlId":"9a46c2",
+"children":[
+"Side effects of mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") include nausea, vomiting, diarrhea, leukopenia, and anemia, but not tremor."
+]
+},
+{
+"type":"p",
+"hlId":"1211d1",
+"children":[
+"Although glucocorticoids such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") cause a myriad of effects that may include psychological distress and jumpiness, they do not cause tremor. Other side effects associated with glucocorticoids include hypertension, edema, new-onset type 2 diabetes, osteoporosis, and osteonecrosis."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_2_2",
+"objective":{
+"__html":"Evaluate a kidney transplant recipient for side effects of immunosuppressive therapy."
+},
+"references":[
+[
+"Erro R, Bacchin R, Magrinelli F, et al. Tremor induced by calcineurin inhibitor immunosuppression: a single-centre observational study in kidney transplanted patients. J Neurol. 2018;265:1676-1683. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29777361",
+"target":"_blank"
+},
+"children":[
+"PMID: 29777361"
+]
+},
+" doi:10.1007/s00415-018-8904-x"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":22,
+"C":11,
+"D":68,
+"E":0
+},
+"hlIds":[
+"4e3cc0",
+"5d101c",
+"c0cc4e",
+"899858",
+"ef029f",
+"b00e0a",
+"a88804",
+"9a46c2",
+"1211d1"
+]
+}

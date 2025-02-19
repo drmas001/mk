@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_pm_q069",
+"number":69,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e88ceb",
+"children":[
+"A 63-year-old woman is evaluated during a routine visit. She has a 37-pack-year history of cigarette smoking and quit smoking at age 55 years. She has COPD but reports no symptoms concerning for lung cancer. Medications are tiotropium inhaler and albuterol inhaler."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"82623c",
+"children":[
+"Which of the following is the most appropriate lung cancer screening test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluorodeoxyglucose PET"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Low-dose chest CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sputum cytology"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No screening"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f18ed2",
+"hvc":true,
+"children":[
+"Annual lung cancer screening should be performed in patients aged 50 through 80 years who have no symptoms of lung cancer, have at least a 20-pack-year smoking history, and are current smokers or have quit within the last 15 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a04d53",
+"hvc":true,
+"children":[
+"Cessation of lung cancer screening should be considered in those who have not smoked in 15 years, those with limited life expectancy, and those who would not be candidates for or would not be willing to undergo surgery."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"620576",
+"children":[
+"The most appropriate lung cancer screening test to perform is low-dose chest CT (LDCT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Prevention of lung cancer through reduction in smoking is the most important way to reduce the burden of disease. Survival rates are directly linked to cancer stage at the time of diagnosis. Many lung cancers are diagnosed at a late stage; thus, several randomized clinical trials have evaluated screening measures. The randomized National Lung Screening Trial (NLST) compared LDCT screening with chest radiography over 3 years among patients ages 55 to 74 years with at least a 30-pack-year history of smoking who currently smoked or had quit in the past 15 years. The trial showed a relative mortality reduction of 20% in the LDCT screening group. The U.S. Preventive Services Task Force (USPSTF) and other societies now recommend LDCT screening for lung cancer in high-risk populations. The USPSTF recommends screening patients ages 50 through 80 years who have no symptoms of lung cancer, have at least a 20-pack-year smoking history, and are current smokers or have quit within the last 15 years. Cessation of screening should also be considered in those who have not smoked in 15 years, those with limited life expectancy, and those who would not be candidates for or would not be willing to undergo surgery. This patient is at high risk because of her age and smoking history and should undergo annual LDCT. Screening has potential harms, including the consequences of evaluating abnormal results (additional tests and procedures), radiation exposure, patient distress, and overdiagnosis. It is desirable that lung cancer screening take place in a center that has radiologic, diagnostic, and treatment capabilities similar to those of centers involved in the NLST."
+]
+},
+{
+"type":"p",
+"hlId":"9654de",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and sputum cytology (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are not recommended for lung cancer screening. Several clinical trials have found no mortality benefit to screening with either method."
+]
+},
+{
+"type":"p",
+"hlId":"e159b7",
+"children":[
+"Fluorodeoxyglucose PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") plays a role in evaluating patients once a pulmonary nodule or mass is identified on CT. It does not have a role in routine lung cancer screening."
+]
+},
+{
+"type":"p",
+"hlId":"f74ba8",
+"children":[
+"There is moderate certainty that annual screening for lung cancer with LDCT is of net benefit in asymptomatic persons who are at high risk for lung cancer. This patient fulfills all the criteria for benefiting from LDCT lung cancer screening. Not offering LDCT lung cancer screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may result in unnecessary early mortality."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_2_3",
+"objective":{
+"__html":"Screen for lung cancer in a patient at high risk."
+},
+"references":[
+[
+"Mazzone PJ, Silvestri GA, Patel S, et al. Screening for lung cancer: CHEST guideline and expert panel report. Chest. 2018;153:954-985. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29374513",
+"target":"_blank"
+},
+"children":[
+"PMID: 29374513"
+]
+},
+" doi:10.1016/j.chest.2018.01.016"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":0,
+"B":2,
+"C":95,
+"D":1,
+"E":2
+},
+"hlIds":[
+"e88ceb",
+"82623c",
+"f18ed2",
+"a04d53",
+"620576",
+"9654de",
+"e159b7",
+"f74ba8"
+]
+}

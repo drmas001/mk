@@ -1,0 +1,280 @@
+{
+"id":"mk19_b_en_q019",
+"number":19,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"76f2a7",
+"children":[
+"A 45-year-old woman is evaluated for management of obesity and type 2 diabetes mellitus diagnosed 1 year ago. During the past 6 months, she has implemented lifestyle modifications, including a low-calorie diet, weight-loss group meetings, and exercise. She has achieved a 5.0-kg (11.0-lb) weight loss. Medical history is significant for recurrent urinary tract infections. Her only medication is metformin, 850 mg twice daily."
+]
+},
+{
+"type":"p",
+"hlId":"c55581",
+"children":[
+"Vital signs and physical examination findings are unremarkable. BMI is 35."
+]
+},
+{
+"type":"p",
+"hlId":"cd7d78",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 7.6%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8ddda8",
+"children":[
+"Which of the following medication changes would most benefit this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add dapagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add glimepiride"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add liraglutide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Increase metformin dosage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"484394",
+"children":[
+"Diabetes mellitus medications associated with weight loss include glucagon-like peptide 1 receptor agonists, sodium-glucose cotransporter 2 inhibitors, α-glucosidase inhibitors, and amylin mimetics."
+]
+},
+{
+"type":"keypoint",
+"hlId":"891604",
+"children":[
+"Insulin secretagogues, including sulfonylureas, thiazolidinediones, and insulin often cause weight gain."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5ca017",
+"children":[
+"Adding liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a glucagon-like peptide 1 receptor agonist (GLP-1 RA), would provide the most benefit to this patient. Because her hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" is not at goal with metformin alone, the addition of a second agent is warranted. The American Diabetes Association recommends a goal hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" of less than 7% in most nonpregnant adults. Individualized goals may vary based on patient factors such as disease duration, established vascular complications, hypoglycemia risk, and life expectancy. A patient-centered approach should be used to guide the choice of pharmacologic agents. Physicians should consider cardiovascular comorbidities, hypoglycemia risk, impact on weight, cost, risk for adverse effects, and patient preferences. This patient with diabetes mellitus has a BMI of 35 despite lifestyle modifications; therefore, a diabetes medication associated with weight loss would be beneficial."
+]
+},
+{
+"type":"p",
+"hlId":"7ccc30",
+"children":[
+"Diabetes medications associated with weight loss include GLP-1 RAs, sodium-glucose cotransporter 2 (SGLT2) inhibitors, α-glucosidase inhibitors, and amylin mimetics. The GLP-1 RAs increase glucose-stimulated insulin secretion, inhibit glucagon, slow gastric emptying, and increase satiety; they can lower hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" by 1% to 1.5%. Their additional ability to promote weight loss makes them an excellent choice for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"e71798",
+"children":[
+"Although the SGLT2 inhibitors, such as dapagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are also associated with improvement in hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" and weight loss, they carry a risk for increased genitourinary tract infections. This patient has a history of recurrent urinary tract infections; therefore, dapagliflozin is not the most appropriate treatment option. α-Glucosidase inhibitors and amylin mimetics are also associated with weight loss, but the optimal roles of these agents in the treatment of diabetes are unclear."
+]
+},
+{
+"type":"p",
+"hlId":"e3aa41",
+"children":[
+"Insulin secretagogues, including sulfonylureas, thiazolidinediones, and insulin, often cause weight gain. Although the sulfonylurea glimepiride (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") decreases hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" by 1% to 1.5%, weight gain is not desired in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"60a1f9",
+"children":[
+"Metformin is typically a weight-neutral medication, although some studies show a modest weight loss. Increasing the metformin dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unlikely to significantly improve hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" or contribute to substantial weight loss. Dipeptidyl peptidase-4 inhibitors also are weight neutral."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_5",
+"objective":{
+"__html":"Treat a patient with type 2 diabetes mellitus and obesity."
+},
+"references":[
+[
+"American Diabetes Association. 8. Obesity management for the treatment of type 2 diabetes: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S100-S110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298419",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298419"
+]
+},
+" doi:10.2337/dc21-S008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":4,
+"C":75,
+"D":14,
+"E":0
+},
+"hlIds":[
+"76f2a7",
+"c55581",
+"cd7d78",
+"8ddda8",
+"484394",
+"891604",
+"5ca017",
+"7ccc30",
+"e71798",
+"e3aa41",
+"60a1f9"
+]
+}

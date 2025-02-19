@@ -1,0 +1,212 @@
+{
+"id":"mk19_b_en_q068",
+"number":68,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"59a866",
+"children":[
+"A 67-year-old man is evaluated in the hospital for hyperglycemia 3 days after admission for a COPD exacerbation. Appropriate treatment was initiated with antibiotics, bronchodilators, supplemental oxygen, and systemic glucocorticoids. The patient's oral intake remains good. Since the initiation of systemic glucocorticoids, fasting blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" levels have been consistently greater than 180 mg/dL (10.0 mmol/L) and postprandial levels occasionally greater than 250 mg/dL (13.9 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"f4e9f5",
+"children":[
+"On admission, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" was 5.3%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5a5930",
+"children":[
+"Which of the following is the most appropriate management of this patient's hyperglycemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Basal and correctional insulin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Basal, prandial, and correctional insulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Correctional insulin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metformin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"390a64",
+"children":[
+"Basal, prandial, and correctional insulin is the recommended treatment for hyperglycemia in non-critically ill hospitalized patients who have good oral intake."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d9ffd3",
+"children":[
+"The use of correctional insulin in hospitalized patients as the only means to control hyperglycemia is strongly discouraged by the American Diabetes Association."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b46d5a",
+"children":[
+"Point-of-care glucose measurement is important to identify hyperglycemia in hospitalized patients prescribed glucocorticoids. The most appropriate management of this patient's hyperglycemia is the initiation of basal, prandial, and correctional insulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The American Diabetes Association (ADA) recommends initiation of insulin therapy for treatment for persistent hyperglycemia starting at a threshold of 180 mg/dL (10.0 mmol/L). After insulin therapy is started, a target glucose range of 140 to 180 mg/dL (7.8-10.0 mmol/L) is recommended for most critically ill and non-critically ill patients. Basal insulin is long-acting insulin given once daily; prandial insulin is scheduled short-acting insulin given three times daily with each meal; and correctional insulin is dosing in response to continued elevated glucose rather than preemptively. A correctional dose of short-acting insulin should be given in addition to the scheduled prandial insulin to correct for hyperglycemia before eating. This approach leads to improved outcomes and avoids large fluctuations in glucose values through the day. A randomized controlled trial has shown that basal-prandial insulin treatment improved glycemic control and reduced hospital complications compared with use of only correctional insulin (“sliding scale insulin”) regimens in general surgery patients with type 2 diabetes mellitus."
+]
+},
+{
+"type":"p",
+"hlId":"beafd5",
+"children":[
+"The ADA notes that basal insulin, or a basal plus correction regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is the preferred treatment for non-critically ill hospitalized patients with poor oral intake or those with oral intake restriction. Because this patient's oral intake is good, the preferred management of hyperglycemia is basal, prandial, and correctional insulin."
+]
+},
+{
+"type":"p",
+"hlId":"0429d9",
+"children":[
+"The sole use of correctional insulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for the management of inpatient hyperglycemia is not recommended. This approach to hyperglycemia is reactive and can cause large fluctuations in glucose values and lag times between of measurement and insulin injection. The use of correctional insulin in hospitalized patients as the only means to control hyperglycemia is strongly discouraged by the ADA."
+]
+},
+{
+"type":"p",
+"hlId":"b0b898",
+"children":[
+"Research on the safety of oral hypoglycemic drugs in the hospital setting is ongoing, and conclusive findings have not yet been established. Harm is also a concern, particularly in patients who may experience changes in volume status, exposure to contrast agents, and unpredictable meals because of testing or clinical status changes. Initiating metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not the best choice for this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_3_1",
+"objective":{
+"__html":"Treat hyperglycemia in a hospitalized patient who has good oral intake."
+},
+"references":[
+[
+"American Diabetes Association. 15. Diabetes care in the hospital: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S211-S220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298426",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298426"
+]
+},
+" doi:10.2337/dc21-S015"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":39,
+"C":33,
+"D":5,
+"E":0
+},
+"hlIds":[
+"59a866",
+"f4e9f5",
+"5a5930",
+"390a64",
+"d9ffd3",
+"b46d5a",
+"beafd5",
+"0429d9",
+"b0b898"
+]
+}

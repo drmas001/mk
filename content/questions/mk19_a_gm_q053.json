@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q053",
+"number":53,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5d889c",
+"children":[
+"A 27-year-old man is evaluated during a follow-up visit. He recently visited the emergency department for a burn sustained while setting off fireworks at a party while intoxicated. He has a history of depression but never followed up for treatment. Since that time, he reports that his mood has improved remarkably, and he is able to stay up “all night if I need to” to catch up on work. He has elaborate plans for starting his own cybersecurity business, running for city council, and working on an invention to prevent power grid failures. Medical history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"81fcdc",
+"children":[
+"On physical examination, vital signs and other examination findings are normal. He has an elevated mood, is very talkative, and laughs somewhat inappropriately at the circumstances that led to the accident. He has a difficult time focusing on questions and is easily distracted by events in the corridor."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Attention-deficit/hyperactivity disorder"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bipolar 1 disorder"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Personality disorder"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Schizophrenia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"161c63",
+"children":[
+"Diagnostic criteria for bipolar 1 disorder include symptoms of depression plus at least one episode of mania."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2b890a",
+"children":[
+"A careful history directed at identifying previous episodes of mania or hypomania should be obtained when initially diagnosing depression; prescribing antidepressant monotherapy to a patient with bipolar disorder may precipitate a manic episode."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7422d5",
+"children":[
+"The most likely diagnosis is bipolar 1 disorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's impulsive behavior, decreased need for sleep, increased goal-directed activity, and inflated mood suggest mania, and the previous diagnosis of depression suggests the diagnosis of bipolar 1 disorder. Diagnostic criteria for bipolar 1 disorder include symptoms of depression plus at least one episode of mania characterized by one or more of the following: elevated mood, irritability, inflated self-esteem, decreased need for sleep, increased talkativeness, flight of ideas, distractibility, or increased risk-taking behavior. Initial symptoms often present in the late teens to early twenties. A careful history directed at identifying previous episodes of mania or hypomania should be obtained when initially diagnosing depression; prescribing antidepressant monotherapy to a patient with bipolar disorder may precipitate a manic episode. The Mood Disorder Questionnaire can be used to screen patients in the primary care setting. Bipolar 1 disorder should be managed by a psychiatrist; in the setting of acute mania, urgent referral is appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"bd619c",
+"children":[
+"Attention-deficit/hyperactivity disorder (ADHD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is characterized by persistent inattention and/or hyperactivity-impulsivity that disrupt functioning or development. ADHD is most frequently recognized in childhood, but the diagnosis may be delayed until adulthood. This patient's expansive mood, goal-directed behaviors, and history of depression are not compatible with ADHD."
+]
+},
+{
+"type":"p",
+"hlId":"5139a1",
+"children":[
+"Personality disorders (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") involve consistent patterns of interpersonal behavior and perceptions that are inflexible, diverge significantly from the behavioral standards of the person's culture, and cause substantial functional impairment and emotional distress. This patient's behavior is not consistent with a personality disorder."
+]
+},
+{
+"type":"p",
+"hlId":"d971a9",
+"children":[
+"Schizophrenia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a heterogeneous psychiatric disorder comprising both positive symptoms (hallucinations, disorganized thought, delusions) and negative symptoms (flattened affect, decreased activity). There is no evidence of these symptoms to support the diagnosis of schizophrenia in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_1_2",
+"objective":{
+"__html":"Diagnose bipolar 1 disorder."
+},
+"references":[
+[
+"Koirala P, Anand A. Diagnosing and treating bipolar disorder in primary care. Cleve Clin J Med. 2018;85:601-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30102594",
+"target":"_blank"
+},
+"children":[
+"PMID: 30102594"
+]
+},
+" doi:10.3949/ccjm.85gr.18003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":92,
+"C":2,
+"D":2,
+"E":0
+},
+"hlIds":[
+"5d889c",
+"81fcdc",
+"413696",
+"161c63",
+"2b890a",
+"7422d5",
+"bd619c",
+"5139a1",
+"d971a9"
+]
+}

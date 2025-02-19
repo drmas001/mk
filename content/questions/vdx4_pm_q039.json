@@ -1,0 +1,180 @@
+{
+"id":"vdx4_pm_q039",
+"number":39,
+"bookId":"vdx_pm",
+"correctAnswer":"A",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"33f9d7",
+"children":[
+"A 49-year-old man is evaluated for chronic cough and voluminous sputum production."
+]
+},
+{
+"type":"p",
+"hlId":"0f61f8",
+"children":[
+"Chest CT scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f039a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f039a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchiectasis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"COPD"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Interstitial lung disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lung cancer"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"445e80",
+"children":[
+"The most likely diagnosis is bronchiectasis. The patient's chest CT scan ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f039b",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" typical findings of bronchiectasis (airway dilatation with lack of tapering [",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"green arrow"
+]
+},
+"]; bronchial wall thickening [",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"yellow arrow"
+]
+},
+"]; and cysts [",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrow"
+]
+},
+"]). An additional finding in bronchiectasis is a signet ring appearance, which occurs when the diameter of the bronchus in cross-section view is larger than the adjacent pulmonary artery. This manifests as a round or oval opacity representing a dilated bronchus and a smaller adjacent opacity representing its pulmonary artery."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f039b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_3_4",
+"objective":{
+"__html":"Diagnose bronchiectasis on a chest CT scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f039a":{
+"id":"vdx4_pm_mcq_f039a",
+"number":39,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"552008de6e6703f2c9a5856f1b1706de",
+"height":632,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f039b":{
+"id":"vdx4_pm_mcq_f039b",
+"number":39,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"865f37cf2ef494da830232c7cf951b3f",
+"height":632,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"33f9d7",
+"0f61f8",
+"413696",
+"445e80"
+]
+}

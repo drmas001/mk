@@ -1,0 +1,192 @@
+{
+"id":"mk19_b_gm_q067",
+"number":67,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 67",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1e5f24",
+"children":[
+"A 58-year-old woman is evaluated during a routine wellness visit. She has no symptoms. She has never been screened for colorectal cancer. Family history is negative for colon cancer. She is willing to undergo colorectal cancer screening but does not want colonoscopy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6265f7",
+"children":[
+"Which of the following is the most appropriate colorectal screening strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fecal immunochemical test every 1 to 2 years"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT colonography every 10 years"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serum circulating methylated SEPT9 DNA measurement every 1 to 2 years"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sigmoidoscopy every 2 years"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"185328",
+"hvc":true,
+"children":[
+"Colorectal cancer screening would be most appropriate among adults who (1) are healthy enough to undergo treatment if colorectal cancer is detected and (2) do not have comorbid conditions that would significantly limit their life expectancy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"29b388",
+"hvc":true,
+"children":[
+"The preferred colorectal screening strategy is the one most likely to be completed by the patient."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"25662b",
+"children":[
+"An annual fecal immunochemical test (FIT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate colorectal screening test for this patient. There is significant variation among colorectal cancer screening guidelines. The American College of Physicians suggests colonoscopy every 10 years, flexible sigmoidoscopy every 10 years plus FIT every 2 years, or FIT or high-sensitivity guaiac-based fecal occult blood testing every 2 years as acceptable screening regimens. In contrast, the U.S. Multi-Society Task Force on Colorectal Cancer (MSTF), an initiative of U.S. gastroenterology societies, has ranked colorectal cancer screening tests in tiers based on the available evidence, cost-effectiveness, test availability, and several other factors. The MSTF recommends colonoscopy every 10 years or annual FIT as first-tier tests; CT colonography every 5 years, FIT-fecal DNA testing every 3 years, or flexible sigmoidoscopy every 5 to 10 years as second-tier tests; and capsule colonography every 5 years as a third-tier test. Screening would be most appropriate among adults who (1) are healthy enough to undergo treatment if colorectal cancer is detected and (2) do not have comorbid conditions that would significantly limit their life expectancy. Because there are no head-to-head comparisons of the various screening modalities for colorectal cancer, the U.S. Preventive Services Task Force makes a practical recommendation that the best screening modality is the one the patient is willing to complete. For this patient, FIT may have certain desirable advantages. FIT has improved accuracy compared with guaiac fecal occult blood test and does not require bowel preparation, anesthesia, or transportation to and from the screening examination."
+]
+},
+{
+"type":"p",
+"hlId":"fac879",
+"children":[
+"The recommended interval for CT colonography is every 5 years, not every 10 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Like colonoscopy, CT colonography requires bowel preparation, and this imaging test is not associated with the ability to remove polyps or biopsy. Extracolonic findings of undetermined significance are common."
+]
+},
+{
+"type":"p",
+"hlId":"f4e993",
+"children":[
+"The serum circulating methylated SEPT9 DNA test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an FDA-approved screening strategy that holds promise because blood tests may result in increased adherence. However, this test's sensitivity for detecting colorectal cancer is only 48%, and the MSTF does not recommend its use."
+]
+},
+{
+"type":"p",
+"hlId":"d24bd5",
+"children":[
+"Flexible sigmoidoscopy every 2 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not a recommended colorectal screening strategy. Flexible sigmoidoscopy is recommended every 5 to 10 years when used alone, or every 5 years when combined with annual FIT. Although flexible sigmoidoscopy does require bowel preparation, it is limited compared with colonoscopy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_3",
+"objective":{
+"__html":"Screen for colorectal cancer in a person who does not prefer colonoscopy."
+},
+"references":[
+[
+"Qaseem A, Crandall CJ, Mustafa RA, et al; Clinical Guidelines Committee of the American College of Physicians. Screening for colorectal cancer in asymptomatic average-risk adults: A guidance statement from the American College of Physicians. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-0642",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:643-654. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31683290",
+"target":"_blank"
+},
+"children":[
+"PMID: 31683290"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":86,
+"B":6,
+"C":6,
+"D":1,
+"E":0
+},
+"hlIds":[
+"1e5f24",
+"6265f7",
+"185328",
+"29b388",
+"25662b",
+"fac879",
+"f4e993",
+"d24bd5"
+]
+}

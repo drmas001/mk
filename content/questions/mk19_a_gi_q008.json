@@ -1,0 +1,173 @@
+{
+"id":"mk19_a_gi_q008",
+"number":8,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c80b0e",
+"children":[
+"A 60-year-old woman is evaluated for follow-up after screening colonoscopy. Colonoscopy revealed a 7-mm sessile serrated polyp, which was completely removed. Three 2-mm hyperplastic polyps were removed from the rectum. She is asymptomatic and has no other medical conditions. Family history is negative for colon cancer. She takes no medications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f1eefe",
+"children":[
+"Which of the following is the most appropriate surveillance approach?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy in 1 year"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colonoscopy in 5 to 10 years"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fecal DNA-based testing in 3 years"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Fecal occult blood testing annually"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"74251f",
+"hvc":true,
+"children":[
+"Colon cancer surveillance with colonoscopy every 5 to 10 years is appropriate for patients with one or two sessile serrated polyps less than 10 mm without dysplasia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1ee879",
+"hvc":true,
+"children":[
+"As the number (>2) or size (≥10 mm) of sessile serrated polyps increases, the colon cancer surveillance interval decreases."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"53ad51",
+"children":[
+"The most appropriate screening test to perform next is colonoscopy in 5 to 10 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). A surveillance interval of 5 to 10 years is appropriate for patients with one or two small (<10 mm) sessile serrated polyps without dysplasia. As the number or size of sessile serrated polyps increases, the surveillance interval decreases (3-5 years for 3-4 polyps or 3 years for 5-10 polyps, all <10 mm) and 3 years for polyps 10 mm or greater. This patient's colonoscopy revealed a single 7-mm sessile serrated polyp. It is critical that a polyp be completely removed during colonoscopy. Research suggests that up to 27% of interval colon cancers occur in the same colon section as the previous polypectomy, and another analysis that reexamined the colon of patients with sessile polyps greater than 2 cm demonstrated that 17.6% had residual neoplastic tissue, suggesting that incomplete polyp removal may be a cause for interval cancers. Quality of the baseline colonoscopy, which includes factors such as bowel preparation and adenoma detection rate by the endoscopist, may also affect risk for interval colon cancer."
+]
+},
+{
+"type":"p",
+"hlId":"578772",
+"children":[
+"The surveillance interval for multiple (≤20) small (<10 mm) hyperplastic polyps in the rectum or sigmoid colon or proximal to the sigmoid or rectum is 10 years, which is identical to the interval for colonoscopy in patient without polyps. Certain factors, however, may alter this recommendation. Serrated polyposis syndrome (SPS) is characterized by multiple serrated polyps throughout the colon. This syndrome has an uncertain genetic basis and can be diagnosed if a patient has either of the following during their lifetime: (1) five or more serrated polyps proximal to the rectum, all at least 5 mm in size, with two or more at least 10 mm in size, or (2) more than 20 serrated polyps throughout the colon, at least five located proximal to the rectum. Colonoscopy is recommended every year (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in SPS, with removal of all polyps greater than 5 mm."
+]
+},
+{
+"type":"p",
+"hlId":"e7e8d6",
+"children":[
+"Interval stool-based testing with DNA testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or fecal occult blood testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended for patients with polyps identified and removed during colonoscopy."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s5_8",
+"objective":{
+"__html":"Identify the proper surveillance interval following removal of a serrated polyp."
+},
+"references":[
+[
+"Gupta S, Lieberman D, Anderson JC, et al. Recommendations for follow-up after colonoscopy and polypectomy: a consensus update by the US Multi-society Task Force on Colorectal Cancer. Am J Gastroenterol. 2020;115:415-434. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32039982",
+"target":"_blank"
+},
+"children":[
+"PMID: 32039982"
+]
+},
+" doi:10.14309/ajg.0000000000000544"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":23,
+"B":70,
+"C":6,
+"D":2,
+"E":0
+},
+"hlIds":[
+"c80b0e",
+"f1eefe",
+"74251f",
+"1ee879",
+"53ad51",
+"578772",
+"e7e8d6"
+]
+}

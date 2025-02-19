@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_id_q072",
+"number":72,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5a5615",
+"children":[
+"A 29-year-old woman is evaluated for cough and fever of 2 days' duration. She has a history of cystic acne, which is treated with a topical retinoid cream and daily minocycline."
+]
+},
+{
+"type":"p",
+"hlId":"d0d52a",
+"children":[
+"On physical examination, temperature is 38.3 °C (100.9 °F), blood pressure is 110/70 mm Hg, pulse rate is 90/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% breathing ambient air. Decreased breath sounds are heard at the right lung base."
+]
+},
+{
+"type":"p",
+"hlId":"decb61",
+"children":[
+"COVID-19 testing is negative."
+]
+},
+{
+"type":"p",
+"hlId":"a3f06a",
+"children":[
+"A chest radiograph shows a right lower lobe infiltrate."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone and azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cefuroxime and doxycycline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Levofloxacin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f513fd",
+"hvc":true,
+"children":[
+"In otherwise healthy persons with community-acquired pneumonia, amoxicillin or doxycycline are appropriate treatment options."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"447357",
+"children":[
+"Amoxicillin is the most appropriate therapy for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Her score on the Pneumonia Severity Index screening scale is zero; therefore, outpatient therapy for community-acquired pneumonia (CAP) is appropriate. In healthy persons, treatment options are amoxicillin or doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Amoxicillin is preferred in this patient because of her chronic therapy with another tetracycline, minocycline, which is a recognized risk factor for development of doxycycline resistance. An alternative treatment option would be monotherapy with a macrolide if local pneumococcal resistance is less than 25%."
+]
+},
+{
+"type":"p",
+"hlId":"5c324f",
+"children":[
+"Ceftriaxone and azithromycin or levofloxacin monotherapy are recommended regimens for hospitalized patients with nonsevere pneumonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, E"
+]
+},
+"). Because this patient has no risk factors for adverse outcomes, she does not require hospitalization and can be safely treated with an oral regimen as an outpatient."
+]
+},
+{
+"type":"p",
+"hlId":"b0ec36",
+"children":[
+"Cefuroxime and doxycycline or levofloxacin monotherapy are appropriate choices for outpatient therapy in patients with medical comorbidities but are overly broad for a healthy patient with minimal risk factors for resistant organisms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Specific conditions for which combination oral therapy or a respiratory fluoroquinolone are indicated include underlying cardiac, respiratory, liver, or kidney disease; diabetes mellitus; malignancy; alcohol use disorder; or asplenia. Specific respiratory fluoroquinolones recommended in the 2019 American Thoracic Society/Infectious Diseases Society of America CAP management guideline include levofloxacin, moxifloxacin, and gemifloxacin; ciprofloxacin is not active against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", precluding use of this agent for CAP monotherapy."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_4_2",
+"objective":{
+"__html":"Treat community-acquired pneumonia in an otherwise healthy outpatient."
+},
+"references":[
+[
+"Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31573350",
+"target":"_blank"
+},
+"children":[
+"PMID: 31573350"
+]
+},
+" doi:10.1164/rccm.201908-1581ST"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":14,
+"B":47,
+"C":6,
+"D":5,
+"E":27
+},
+"hlIds":[
+"5a5615",
+"d0d52a",
+"decb61",
+"a3f06a",
+"1054f1",
+"f513fd",
+"447357",
+"5c324f",
+"b0ec36"
+]
+}

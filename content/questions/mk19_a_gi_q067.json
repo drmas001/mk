@@ -1,0 +1,251 @@
+{
+"id":"mk19_a_gi_q067",
+"number":67,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 67",
+"stimulus":[
+{
+"type":"p",
+"hlId":"882e28",
+"children":[
+"A 70-year-old man is evaluated for a 5-month history of bloating and nonbloody diarrhea. Diarrhea occurs three times daily. Bowel movements include oil droplets and require multiple flushes. He reports no abdominal pain. He has lost 2.3 kg (5 lb) since symptom onset."
+]
+},
+{
+"type":"p",
+"hlId":"02e31c",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals diffuse tenderness to palpation without guarding."
+]
+},
+{
+"type":"p",
+"hlId":"ad9263",
+"children":[
+"On laboratory evaluation, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" is 39%, tissue transglutaminase IgA level is normal, and the result of a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Giardia"
+]
+},
+" enzyme immunoassay is negative."
+]
+},
+{
+"type":"p",
+"hlId":"fb23de",
+"children":[
+"Findings on colonoscopy with biopsy are normal. Abdominal CT obtained with oral and intravenous contrast shows multiple diverticula in the jejunum."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Eluxadoline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glucose breath test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stool testing for <i>Clostridioides difficile</i> toxin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy with duodenal biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"81e2eb",
+"children":[
+"Causes of fat malabsorption include pancreatic dysfunction, infections (e.g., giardiasis and Whipple disease), celiac disease, tropical sprue, and small intestinal bacterial overgrowth."
+]
+},
+{
+"type":"keypoint",
+"hlId":"16159e",
+"children":[
+"Small intestinal bacterial overgrowth can be diagnosed in the appropriate clinical context with both typical symptoms (abdominal discomfort, flatulence, bloating, and diarrhea) and a positive result on a glucose breath test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"217639",
+"children":[
+"The appropriate management is a glucose breath test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient's 5-month history of diarrhea, characterized as bowel movements containing oil droplets and necessitating multiple flushes, is consistent with steatorrhea. Causes of fat malabsorption include pancreatic dysfunction, infections (e.g., giardiasis and Whipple disease), celiac disease, tropical sprue, and small intestinal bacterial overgrowth (SIBO). SIBO is caused by various conditions, including impaired motility, strictures (e.g., in Crohn disease), or blind loops (e.g., small-bowel diverticula). The patient's jejunal diverticulum is a blind loop and a key risk factor for SIBO. The pathogenesis of steatorrhea in SIBO is thought to be due to the deconjugation of bile salts by excessive intraluminal bacteria, interfering with formation of micelles that are necessary for fat absorption. SIBO can be diagnosed in the appropriate clinical context with both typical symptoms (abdominal discomfort, flatulence, bloating, and diarrhea) and a confirmatory test, such as a glucose breath test, in which exhaled hydrogen and methane (byproducts of bacterial metabolism of ingested glucose) are measured after glucose administration. Glucose breath tests are approximately 80% sensitive but only 40% specific for diagnosing SIBO. Empiric antibiotic therapy with monitoring for improvement in symptoms may be reasonable in patients with a high probability of SIBO."
+]
+},
+{
+"type":"p",
+"hlId":"c59e66",
+"children":[
+"Eluxadoline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a mixed κ- and μ-opioid receptor agonist and δ-opioid receptor antagonist, decreases the frequency of bowel contractions and treats diarrhea-predominant irritable bowel syndrome. This patient's age at symptom onset and lack of abdominal pain, as well as the presence of a risk factor for SIBO, make irritable bowel syndrome a less likely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"3a5a47",
+"children":[
+"Stool should be tested for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" toxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with suspected ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" colitis, usually in the setting of antecedent antibiotic use. This patient's steatorrhea in the absence of risk factors for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection makes this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"846567",
+"children":[
+"Upper endoscopy with duodenal biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated in the setting of chronic diarrhea when serologic results suggest celiac disease. In this patient, the normal tissue transglutaminase IgA level makes celiac disease unlikely."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_3_1",
+"objective":{
+"__html":"Diagnose small intestinal bacterial overgrowth."
+},
+"references":[
+[
+"Rezaie A, Buresi M, Lembo A, et al. Hydrogen and methane-based breath testing in gastrointestinal disorders: the North American consensus. Am J Gastroenterol. 2017;112:775-784. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28323273",
+"target":"_blank"
+},
+"children":[
+"PMID: 28323273"
+]
+},
+" doi:10.1038/ajg.2017.46"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":47,
+"C":4,
+"D":39,
+"E":0
+},
+"hlIds":[
+"882e28",
+"02e31c",
+"ad9263",
+"fb23de",
+"cb2b54",
+"81e2eb",
+"16159e",
+"217639",
+"c59e66",
+"3a5a47",
+"846567"
+]
+}

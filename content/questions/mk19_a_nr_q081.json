@@ -1,0 +1,483 @@
+{
+"id":"mk19_a_nr_q081",
+"number":81,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 81",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cc4d27",
+"children":[
+"A 62-year-old woman is evaluated in the emergency department for a 1-hour history of left-sided weakness. The patient also has hypertension. Medications are amlodipine, chlorthalidone, and low-dose aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"cffbc4",
+"children":[
+"On physical examination, blood pressure is 190/105 mm Hg; all other vital signs are normal. The patient is awake and attentive. The pupils are 2 mm in diameter and reactive to light. A left visual field defect, left-sided hemineglect, left facial weakness, and left arm and leg paralysis on the left are noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2a7681",
+"class":"cell text l",
+"children":[
+"12 g/dL (120 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ffae8",
+"class":"cell text l",
+"children":[
+"INR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"777d45",
+"class":"cell text l",
+"children":[
+"1.1"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"37619e",
+"class":"cell text l",
+"children":[
+"320,000/µL (320 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"08837d",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Activated partial thromboplastin time",
+"children":[
+"Activated partial thromboplastin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93eab9",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"Prothrombin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"62ebf6",
+"children":[
+"A CT scan reveals an intracerebral hemorrhage in the right basal ganglia with a 1-mm midline shift and no intraventricular extension."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous nicardipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous nitroprusside"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Platelet transfusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prothrombin complex concentrate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bb1e4c",
+"children":[
+"For patients with intracranial hemorrhage and a systolic blood pressure (SBP) of 150 mm Hg or greater, acute lowering of SBP to 140 mm Hg is safe and effective in improving functional outcome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4b028d",
+"children":[
+"Intravenous nitroprusside is not appropriate in patients with elevated intracranial pressure (ICP) because it can further increase ICP."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"964f9b",
+"children":[
+"The patient should receive intravenous nicardipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). She has an acute intracerebral hemorrhage (ICH) in the basal ganglia that is most likely due to hypertension, given its location and her history. For patients with ICH and a systolic blood pressure (SBP) of 150 mm Hg or greater, acute lowering of SBP to 140 mm Hg is safe and effective in improving functional outcome. A recently completed trial that compared a blood pressure target of 120 mm Hg with a target of 140 mm Hg in patients with ICH reported increased renal adverse events in the lower blood pressure arm, although no neurologic worsening was noted. Intravenous nicardipine can be rapidly titrated and thus achieve the target systolic blood pressure without causing hypotension."
+]
+},
+{
+"type":"p",
+"hlId":"712891",
+"children":[
+"Intravenous nitroprusside (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate in a patient with ICH who already is at risk for elevated intracranial pressure (ICP) because nitroprusside can further increase ICP by causing intracerebral vasodilation."
+]
+},
+{
+"type":"p",
+"hlId":"4c2d61",
+"children":[
+"Platelet transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not appropriate because the patient does not have thrombocytopenia, and there is no evidence that platelet transfusions reverse the coagulopathy associated with antiplatelet agents or prevent hematoma expansion. Additionally, such transfusions increase the risk of coronary stent thrombosis, volume overload, transfusion-related reactions, and acute lung injury."
+]
+},
+{
+"type":"p",
+"hlId":"26141f",
+"children":[
+"Prothrombin complex concentrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is used in patients with coagulopathy with prolonged prothrombin time and activated partial thromboplastin time, usually associated with warfarin toxicity and life-threatening hemorrhage. Prothrombin complex concentrates are inappropriate because the patient has no evidence of a coagulopathy, and infusing them could increase the risk of thrombotic complications, such as a pulmonary embolism, for which patients with ICH are already at risk."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_3_1",
+"objective":{
+"__html":"Treat acute hypertension in intracerebral hemorrhage."
+},
+"references":[
+[
+"Hemphill J 3rd, Greenberg S, Anderson C, et al; American Heart Association Stroke Council; Council on Cardiovascular and Stroke Nursing; Council on Clinical Cardiology. Guidelines for the management of spontaneous intracerebral hemorrhage: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2015 Jul;46(7):2032-60. Epub 2015 May 28. [PMID 26022637] doi:10.1161/STR.0000000000000069."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":74,
+"B":21,
+"C":1,
+"D":4,
+"E":0
+},
+"hlIds":[
+"cc4d27",
+"cffbc4",
+"a462a3",
+"f9867c",
+"2a7681",
+"4ffae8",
+"777d45",
+"fcac73",
+"37619e",
+"08837d",
+"960b44",
+"93eab9",
+"960b44",
+"62ebf6",
+"1054f1",
+"bb1e4c",
+"4b028d",
+"964f9b",
+"712891",
+"4c2d61",
+"26141f"
+]
+}

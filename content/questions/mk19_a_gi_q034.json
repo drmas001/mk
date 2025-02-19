@@ -1,0 +1,240 @@
+{
+"id":"mk19_a_gi_q034",
+"number":34,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"28816b",
+"children":[
+"A 60-year-old man is evaluated for a 4-month history of four to five loose bowel movements daily with antecedent abdominal cramps. He does not have nocturnal diarrhea, and the diarrhea has no relationship to eating. He also has a 1-year history of type 2 diabetes mellitus, treated with lifestyle interventions until 4 months ago, and hypothyroidism, diagnosed 10 years ago. He completed a course of amoxicillin for pneumonia 6 months ago. Current medications are metformin and levothyroxine."
+]
+},
+{
+"type":"p",
+"hlId":"98d8f6",
+"children":[
+"On physical examination, vital signs are normal and other findings are unremarkable. His abdomen is soft, nontender, and nondistended; active bowel sounds are normal."
+]
+},
+{
+"type":"p",
+"hlId":"998489",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" is 15 mm/h, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" is 4900/μL (4.9 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" is 44%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6f9c21",
+"children":[
+"Which of the following is the most likely cause of the patient's diarrhea?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"<i>Clostridioides difficile</i> colitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Crohn disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metformin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Microscopic colitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f8018a",
+"hvc":true,
+"children":[
+"Acute diarrhea is usually caused by infectious agents, whereas chronic diarrhea is more commonly noninfectious."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8c7cb0",
+"hvc":true,
+"children":[
+"Patients with chronic diarrhea should be asked about new medications and the timing of the initiation of medication in relation to the onset of diarrhea; metformin is a common cause of chronic watery diarrhea."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3502dd",
+"children":[
+"The most likely cause of this patient's diarrhea is metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient reports a 4-month history of diarrhea characterized by watery, nonbloody bowel movements. This duration of symptoms (>4 weeks) is classified as chronic diarrhea. In contrast to acute diarrhea, which is usually caused by infectious agents, chronic diarrhea is more commonly noninfectious. Patients with diarrhea should be asked about new medications and the timing of the initiation of medication in relation to diarrhea onset. Metformin is a common cause of chronic watery diarrhea, possibly related to a promotility effect and stimulation of intestinal chloride secretion. The temporal association with the commencement of metformin (which was started 4 months ago, coinciding with symptom onset) strongly suggests that metformin is the cause of diarrhea."
+]
+},
+{
+"type":"p",
+"hlId":"8f71b1",
+"children":[
+"Although ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" colitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can result from antibiotic use, the time between amoxicillin use and onset of diarrhea argues against amoxicillin as the triggering event."
+]
+},
+{
+"type":"p",
+"hlId":"227770",
+"children":[
+"Crohn disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can cause watery diarrhea or inflammatory diarrhea. However, it is less likely than metformin to have triggered the patient's symptoms given the temporal relationship between symptom onset and commencement of metformin. Moreover, the normal erythrocyte sedimentation rate and lack of abdominal pain or tenderness on physical examination argue against Crohn disease."
+]
+},
+{
+"type":"p",
+"hlId":"40aa22",
+"children":[
+"Microscopic colitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a distinct type of inflammatory bowel disease characterized by macroscopically normal mucosa with inflammatory changes seen on histopathology of colon biopsy specimens. It is subclassified into lymphocytic colitis and collagenous colitis on the basis of predominating histologic features. Microscopic colitis predominantly affects middle-aged women. Medications, including NSAIDs, selective serotonin reuptake inhibitors, and proton pump inhibitors, have been associated with the development of microscopic colitis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_1_3_2",
+"objective":{
+"__html":"Diagnose medication-induced chronic diarrhea."
+},
+"references":[
+[
+"Arasaradnam RP, Brown S, Forbes A, et al. Guidelines for the investigation of chronic diarrhoea in adults: British Society of Gastroenterology, 3rd edition. Gut. 2018;67:1380-1399. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29653941",
+"target":"_blank"
+},
+"children":[
+"PMID: 29653941"
+]
+},
+" doi:10.1136/gutjnl-2017-315909"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":2,
+"C":71,
+"D":21,
+"E":0
+},
+"hlIds":[
+"28816b",
+"98d8f6",
+"998489",
+"6f9c21",
+"f8018a",
+"8c7cb0",
+"3502dd",
+"8f71b1",
+"227770",
+"40aa22"
+]
+}

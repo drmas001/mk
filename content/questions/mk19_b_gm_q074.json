@@ -1,0 +1,505 @@
+{
+"id":"mk19_b_gm_q074",
+"number":74,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a08176",
+"children":[
+"A 65-year-old man is seen for a preoperative medical evaluation prior to total knee arthroplasty. He has compensated alcoholic cirrhosis without a history of variceal hemorrhage, ascites, and encephalopathy. He has been abstinent from alcohol for 9 months. His only medication is topical diclofenac."
+]
+},
+{
+"type":"p",
+"hlId":"a2758d",
+"children":[
+"On physical examination, vital signs are normal. Scattered spider angiomas are noted on the shoulders. There is no evidence of ascites. The right knee has evidence of osteoarthritis, with restricted range of motion. Mental status examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"861998",
+"children":[
+"His calculated Model for End-stage Liver Disease score is 14."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8601ec",
+"class":"cell text l",
+"children":[
+"11 g/dL (110 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3ba8b2",
+"class":"cell text l",
+"children":[
+"90,000/µL (90 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ffae8",
+"class":"cell text l",
+"children":[
+"INR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0b0ec9",
+"class":"cell text l",
+"children":[
+"1.3"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a8fc72",
+"class":"cell text l",
+"children":[
+"2.0 mg/dL (34.2 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62d40a",
+"class":"cell text l",
+"children":[
+"1.2 mg/dL (106.1 µmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9fa365",
+"children":[
+"Which of the following is the most appropriate perioperative management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Counsel patient on increased surgical risk due to cirrhosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Frozen plasma prior to surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liver transplantation evaluation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional testing or intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"15e50c",
+"children":[
+"A progressive increase in perioperative mortality for all procedures is observed as Model for End-stage Liver Disease scores rise."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d868fc",
+"children":[
+"Patients with compensated cirrhosis who have Model for End-stage Liver Disease (MELD) scores below 8 to 10 may proceed with most surgeries with optimal medical management; a MELD score greater than 20 precludes all but the most urgent surgeries for life-threatening illness."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"682382",
+"children":[
+"The most appropriate perioperative management is to counsel the patient on increased surgical risk as it relates to his diagnosis of cirrhosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). During the perioperative period, patients with cirrhosis are at significantly greater risk for electrolyte abnormalities, fluid imbalance, delirium, kidney failure, worsening liver dysfunction, impaired clearance of medications, infection, bleeding, clotting, and death. The likelihood of poor outcomes increases with the extent of liver disease as measured by Model for End-stage Liver Disease (MELD) or Child-Turcotte-Pugh score. The MELD score incorporates the INR, serum total bilirubin level, and serum creatinine levels. A progressive increase in perioperative mortality for all procedures is observed as MELD scores rise. Patients who have MELD scores below 8 to 10 generally do well perioperatively provided that their liver disease is stable and compensated, and it is reasonable to proceed with most surgeries with optimal medical management. When a MELD score is greater than 20, mortality rates increase to a degree that precludes all but the most urgent surgeries for life-threatening illness. A MELD score of 14 (as this patient has) indicates intermediate risk for surgery-related complications, and the risks and benefits of the anticipated elective surgery should be discussed with the patient after the perioperative evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"12c8c1",
+"children":[
+"In patients with cirrhosis and asymptomatic elevation of the prothrombin time or INR, prophylactic treatment with either plasma or cryoprecipitate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated. There is no evidence of benefit with these interventions and there is evidence of harm, particularly the risks for transfusion reactions and volume overload. Patients with cirrhosis and platelet counts of 50,000/µL (50 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater do not require platelet transfusions prior to surgery."
+]
+},
+{
+"type":"p",
+"hlId":"884f59",
+"children":[
+"In the absence of decompensated liver disease (variceal hemorrhage, ascites, encephalopathy) a MELD score less than 15 does not meet criteria for liver transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"18037f",
+"children":[
+"This patient is at increased risk for surgery-related complications. Before proceeding with surgery in such patients, it is important to discuss with them the potential risks and benefits of hip arthroplasty (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), including alternative therapies that do not involve surgical intervention."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_7",
+"objective":{
+"__html":"Assess risk in a patient with cirrhosis before elective surgery."
+},
+"references":[
+[
+"Northup PG, Friedman LS, Kamath PS. AGA clinical practice update on surgical risk assessment and perioperative management in cirrhosis: expert review. Clin Gastroenterol Hepatol. 2019;17:595-606. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30273751",
+"target":"_blank"
+},
+"children":[
+"PMID: 30273751"
+]
+},
+" doi:10.1016/j.cgh.2018.09.043"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":71,
+"B":3,
+"C":7,
+"D":19,
+"E":0
+},
+"hlIds":[
+"a08176",
+"a2758d",
+"861998",
+"a462a3",
+"f9867c",
+"8601ec",
+"fcac73",
+"3ba8b2",
+"4ffae8",
+"0b0ec9",
+"c6e520",
+"a8fc72",
+"f461b2",
+"62d40a",
+"9fa365",
+"15e50c",
+"d868fc",
+"682382",
+"12c8c1",
+"884f59",
+"18037f"
+]
+}

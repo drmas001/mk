@@ -1,0 +1,192 @@
+{
+"id":"mk19_b_gm_q055",
+"number":55,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4f8381",
+"children":[
+"A 60-year-old woman is evaluated for bone health during a routine wellness visit. Her mother was treated for a hip fracture after a fall at the age of 65 years. The patient is sedentary and has a 30–pack-year history of cigarette smoking but quit smoking 2 months ago. She has no medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"50163d",
+"children":[
+"Physical examination findings, including vital signs, are normal. Her weight is 56 kg (123 lb); BMI is 21."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Assess fracture risk with a clinical assessment tool"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bone mineral density measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate alendronate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum vitamin D measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cefebc",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force recommends screening for osteoporosis in all women aged 65 years or older and in women younger than 65 years who are at increased risk for osteoporosis, as determined by a formal clinical risk assessment tool."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0c5bee",
+"children":[
+"The most appropriate next step is to assess fracture risk with a clinical assessment tool (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The U.S. Preventive Services Task Force (USPSTF) recommends screening for osteoporosis in all women aged 65 years or older and in women younger than 65 years who are at increased risk for osteoporosis, as determined by a formal clinical risk assessment tool. This patient presents with several risk factors for osteoporosis and, most important, bone fracture. This patient's risk factors include low body weight (BMI of 21), cigarette smoking, and family history of hip fracture. The Fracture Risk Assessment (FRAX) is a commonly used clinical risk assessment tool (available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.shef.ac.uk/FRAX",
+"target":"_blank"
+},
+"children":[
+"www.shef.ac.uk/FRAX"
+]
+},
+"). Women with a 10-year FRAX risk for major osteoporotic fracture equal to or higher than that of a 65-year-old woman without additional risk factors (10-year risk of 8.4%) should undergo screening for osteoporosis. Screening can be accomplished with bone mineral density (BMD) measurement, most commonly with dual-energy x-ray absorptiometry of the hip and lumbar spine."
+]
+},
+{
+"type":"p",
+"hlId":"c3b2b1",
+"children":[
+"BMD measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated in this patient unless a fracture risk assessment with a formal risk assessment tool (e.g., FRAX) indicates an increased risk for fracture."
+]
+},
+{
+"type":"p",
+"hlId":"800811",
+"children":[
+"The U.S. National Osteoporosis Foundation recommends pharmacologic treatment for patients with osteoporosis-related hip or spine fractures; those with a BMD T-score of -2.5 or less; and those with a BMD T-score between -1 and -2.5 with a 10-year risk of 3% or greater for hip fracture or 20% risk or greater for major osteoporosis-related fracture as estimated by the FRAX tool. This patient has yet to meet an indication for treatment with a bisphosphonate, such as alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"c36cd2",
+"children":[
+"The National Academy of Medicine recommends calcium intake of 1000 to 1200 mg/d, ideally from dietary sources. A calcium supplement may be used for patients whose diets are insufficient but should not be recommended independent of dietary assessment and intervention. Routine screening for vitamin D deficiency is not recommended in healthy populations; however, testing for deficiency is appropriate in groups at high risk or in patients presenting with low bone mass, fractures, hypocalcemia, or hyperparathyroidism. This patient has not met an indication for vitamin D measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_1_10",
+"objective":{
+"__html":"Assess fracture risk in a woman at high risk for osteoporosis."
+},
+"references":[
+[
+"Curry SJ, Krist AH, Owens DK, et al; US Preventive Services Task Force. Screening for osteoporosis to prevent fractures: US Preventive Services Task Force recommendation statement. JAMA. 2018;319:2521-31. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29946735",
+"target":"_blank"
+},
+"children":[
+"PMID: 29946735"
+]
+},
+" doi:10.1001/jama.2018.7498"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":35,
+"B":57,
+"C":2,
+"D":7,
+"E":0
+},
+"hlIds":[
+"4f8381",
+"50163d",
+"1a5dcc",
+"cefebc",
+"0c5bee",
+"c3b2b1",
+"800811",
+"c36cd2"
+]
+}

@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q057",
+"number":57,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"07c91b",
+"children":[
+"A 71-year-old man is evaluated for a 6-month history of exertional chest pain. The pain has increased in frequency and now occurs earlier during his exercise regimen. The pain is relieved by sublingual nitroglycerin. He underwent coronary artery bypass graft surgery 4 years ago. History is also significant for hypertension and hyperlipidemia. Medications are metoprolol, lisinopril, atorvastatin, and aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f94777",
+"children":[
+"ECG shows left bundle branch block."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dobutamine echocardiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise single-photon emission CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vasodilator single-photon emission CT"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6b9636",
+"children":[
+"In the evaluation of patients with chest pain, vasodilator myocardial perfusion imaging with adenosine, regadenoson, or dipyridamole minimizes septal abnormalities frequently seen with exercise or dobutamine myocardial perfusion imaging."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"350e18",
+"children":[
+"Vasodilator single-photon emission CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") using perfusion with adenosine, regadenoson, or dipyridamole is the most appropriate and preferred stress testing option for this patient with left bundle branch block (LBBB). In patients with LBBB undergoing myocardial perfusion imaging, vasodilator stress minimizes septal abnormalities frequently seen with exercise and dobutamine, which are associated with higher heart rates. Although this patient can exercise, the presence of LBBB limits interpretation for heart rate–dependent stress modalities."
+]
+},
+{
+"type":"p",
+"hlId":"f76d20",
+"children":[
+"Dobutamine echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended for this patient because of the presence of LBBB, which may limit echocardiographic image interpretation. Other scenarios in which dobutamine echocardiography is not an optimal stress option include resting wall motion abnormalities and contraindications to using dobutamine. Contraindications to dobutamine stress echocardiography include acute coronary syndromes; severe aortic stenosis; hypertrophic obstructive cardiomyopathy; and uncontrolled hypertension, arrhythmias, or heart failure. Dobutamine echocardiography is recommended in patients who cannot exercise or when information on an area of myocardium at risk is needed."
+]
+},
+{
+"type":"p",
+"hlId":"f493ba",
+"children":[
+"Exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a reasonable stress test for patients unless there are compelling reasons to avoid the modality or if the patient cannot exercise. The compelling indication to avoid exercise ECG in this patient is the presence of LBBB. LBBB renders the exercise ECG nearly impossible to appropriately interpret unless the patient develops the equivalent of an ST-segment elevation myocardial infarction during the test."
+]
+},
+{
+"type":"p",
+"hlId":"799f9d",
+"children":[
+"Exercise single-photon emission CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the most appropriate stress modality for this patient because of the presence of LBBB. Imaging modalities that require heart rate increases, such as exercise, are not recommended for patients with LBBB because the abnormal septal wall motion may limit interpretation. With the exception of LBBB, exercise single-photon emission CT is recommended when baseline ECG findings are abnormal or when information on a particular area of myocardium at risk is needed. With LBBB, conduction delay in the septum may cause false-positive abnormalities; vasodilator stress can improve the accuracy of perfusion imaging."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_1",
+"objective":{
+"__html":"Evaluate chest pain using vasodilator single-photon emission CT."
+},
+"references":[
+[
+"Balfour PC Jr, Gonzalez JA, Kramer CM. Non-invasive assessment of low- and intermediate-risk patients with chest pain. Trends Cardiovasc Med. 2017;27:182-189. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27717538",
+"target":"_blank"
+},
+"children":[
+"PMID: 27717538"
+]
+},
+" doi:10.1016/j.tcm.2016.08.006"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":46,
+"B":16,
+"C":18,
+"D":19,
+"E":0
+},
+"hlIds":[
+"07c91b",
+"f8786b",
+"f94777",
+"c5165c",
+"6b9636",
+"350e18",
+"f76d20",
+"f493ba",
+"799f9d"
+]
+}

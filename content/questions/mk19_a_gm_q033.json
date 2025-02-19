@@ -1,0 +1,234 @@
+{
+"id":"mk19_a_gm_q033",
+"number":33,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e0e70e",
+"children":[
+"A 54-year-old woman is evaluated in the emergency department for coffee-ground emesis. Medical history is significant for schizoaffective disorder. She lives in a group home and is accompanied to the hospital by her group home manager. She identifies as an active Jehovah's Witness. Medications are risperidone and escitalopram."
+]
+},
+{
+"type":"p",
+"hlId":"7932d8",
+"children":[
+"On physical examination, blood pressure is 90/60 mm Hg and pulse rate is 110/min. The remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"448db6",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 6.0 g/dL (60 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"5aa607",
+"children":[
+"Transfusion is planned; however, the patient refuses, stating that the procedure is against her religious beliefs as a Jehovah's Witness, and expresses a desire to return home."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ask the home manager for permission to transfuse"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Assess the patient's decision-making capacity"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discharge the patient"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transfuse"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Urgently petition the court for an evaluation of competence"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"84a8b6",
+"children":[
+"Decision-making capacity includes the patient's ability to understand relevant information, consider treatment options, appreciate the potential medical consequences of their decision, and communicate a choice."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d47c5d",
+"children":[
+"Mental illness or cognitive impairment does not automatically invalidate a patient's decision-making capacity."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"13a35e",
+"children":[
+"The most appropriate next step in management is to assess the patient's capacity to refuse blood products (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients are presumed to be legally competent to make medical decisions for themselves unless determined to be incompetent by the court. However, in routine clinical care, physicians must frequently determine a patient's decision-making capacity, including the patient's ability to understand relevant information; consider treatment options; appreciate the potential medical consequences of their decision; and communicate a choice, preferably a choice that is stable over time. Unlike competence, which is a global determination, decision-making capacity needs to be evaluated for each decision to be made. In this instance, the patient's capacity to refuse blood products needs to be evaluated before any transfusion. Her mental health disorder does not automatically invalidate her capacity, and her refusal of blood products, if consistent with previously expressed religious beliefs, makes her decision more valid."
+]
+},
+{
+"type":"p",
+"hlId":"b428c2",
+"children":[
+"Asking the group home manager for permission to perform transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") assumes that the patient lacks capacity to consent to or refuse blood product transfusion, which may not be the case. An evaluation of decision-making capacity must be performed first."
+]
+},
+{
+"type":"p",
+"hlId":"faf1bd",
+"children":[
+"Discharging the patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") without appropriately treating her disease (for example, with endoscopy and intravenous isotonic volume expansion) would violate the fiduciary physician-patient relationship. Patients with decision-making capacity may refuse certain aspects of care while participating in others."
+]
+},
+{
+"type":"p",
+"hlId":"a37ff2",
+"children":[
+"Performing transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") against the patient's will is unethical. Should she lack capacity, a surrogate would be sought to make decisions for the patient in all but emergency situations."
+]
+},
+{
+"type":"p",
+"hlId":"d38c57",
+"children":[
+"Petitioning the court for an evaluation of competence (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be a lengthy process and would not be appropriate in an urgent situation such as this one. In addition, this patient may be able to make medical decisions for herself."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s3_3_2",
+"objective":{
+"__html":"Evaluate decision-making capacity."
+},
+"references":[
+[
+"Appelbaum PS. Clinical practice. Assessment of patients' competence to consent to treatment. N Engl J Med. 2007;357:1834-40. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/17978292",
+"target":"_blank"
+},
+"children":[
+"PMID: 17978292"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":86,
+"C":7,
+"D":1,
+"E":6
+},
+"hlIds":[
+"e0e70e",
+"7932d8",
+"448db6",
+"5aa607",
+"cb2b54",
+"84a8b6",
+"d47c5d",
+"13a35e",
+"b428c2",
+"faf1bd",
+"a37ff2",
+"d38c57"
+]
+}

@@ -1,0 +1,188 @@
+{
+"id":"mk19_b_en_q070",
+"number":70,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 70",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ca17a0",
+"children":[
+"A 24-year-old woman is evaluated for 1-year history of amenorrhea. She is a professional ballet dancer. Over the past year, she has intensified her training and reduced calories in preparation for a performance. She has not experienced any headaches or visual changes. She is not currently taking any medications."
+]
+},
+{
+"type":"p",
+"hlId":"400e6f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 18. She has no abnormal hair growth. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8670c6",
+"children":[
+"On laboratory testing, follicle-stimulating hormone, luteinizing hormone, and estradiol levels are all low. Comprehensive endocrine evaluation is otherwise normal; pregnancy test is negative."
+]
+},
+{
+"type":"p",
+"hlId":"b2dc4f",
+"children":[
+"Bone mineral density imaging demonstrates low bone mass at the hip."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bisphosphonate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Denosumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lifestyle modification"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transdermal estrogen with cyclic oral progestin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e633ce",
+"hvc":true,
+"children":[
+"The first steps in management of functional hypothalamic amenorrhea are to increase caloric intake to match energy expenditure and to reduce exercise."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"924a6a",
+"children":[
+"The most appropriate management for this patient with amenorrhea is lifestyle modification (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to increase her caloric intake and decrease her exercise activity. She has clinical features and laboratory findings consistent with functional hypothalamic amenorrhea (FHA). FHA is a cause of hypogonadotropic hypogonadism and often presents with amenorrhea in the setting of excess exercise/energy expenditure or decreased caloric intake. FHA is caused by disruption of hypothalamic gonadotropin-releasing hormone secretion, which leads to decreased gonadotropin (luteinizing hormone and follicle-stimulating hormone) levels. This decrease prevents normal follicular development and causes anovulation and low estradiol levels. The diagnosis of FHA is based on low serum gonadotropin and estradiol levels in addition to amenorrhea in the setting of extreme exercise, weight loss, or stress. FHA is a diagnosis of exclusion; therefore, it is important to rule out other causes of secondary amenorrhea, such as pregnancy, hyperprolactinemia, thyroid dysfunction, and primary ovarian insufficiency. If hyperandrogenism (e.g., hirsutism, virilization) is evident, evaluation for an androgen-producing tumor, congenital adrenal hyperplasia, hypercortisolism, and polycystic ovary syndrome should be pursued. Treatment for FHA centers on reducing the stressors that led to gonadotropin-releasing hormone disruption, such as extreme exercise, severe calorie restriction, or low body weight. The first step in management is increased caloric intake to match energy expenditure and to reduce exercise. Other effective interventions are stress reduction and behavioral therapy."
+]
+},
+{
+"type":"p",
+"hlId":"b3e49b",
+"children":[
+"Although this patient has low bone mass at the hip on bone mineral density testing, the first step in management is not a bisphosphonate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or denosumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") because no data support the use of these medications for patients with FHA. Improvement in bone density can occur with nutritional recovery and reactivation of the hypothalamic-pituitary-ovarian axis."
+]
+},
+{
+"type":"p",
+"hlId":"f324a6",
+"children":[
+"Physiologic hormone replacement with low-dose estrogen and cyclic progesterone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be considered to improve bone health and return menses for women with FHA who have not had resumption of menses after 6 to 12 months of behavioral changes. Behavioral modifications are always first-line therapy, however, so increasing caloric intake and decrease in exercise activity is the next appropriate step in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_2_3",
+"objective":{
+"__html":"Treat a patient with hypothalamic amenorrhea."
+},
+"references":[
+[
+"Gordon CM, Ackerman KE, Berga SL, et al. Functional hypothalamic amenorrhea: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2017;102:1413-1439. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28368518",
+"target":"_blank"
+},
+"children":[
+"PMID: 28368518"
+]
+},
+" doi:10.1210/jc.2017-00131"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":1,
+"C":74,
+"D":19,
+"E":0
+},
+"hlIds":[
+"ca17a0",
+"400e6f",
+"8670c6",
+"b2dc4f",
+"cb2b54",
+"e633ce",
+"924a6a",
+"b3e49b",
+"f324a6"
+]
+}

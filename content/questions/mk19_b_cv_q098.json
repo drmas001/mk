@@ -1,0 +1,308 @@
+{
+"id":"mk19_b_cv_q098",
+"number":98,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 98",
+"stimulus":[
+{
+"type":"p",
+"hlId":"414806",
+"children":[
+"A 71-year-old woman is hospitalized with cardiogenic shock."
+]
+},
+{
+"type":"p",
+"hlId":"f76491",
+"children":[
+"On physical examination, blood pressure is 87/51 mm Hg, pulse rate is 112/min, respiration rate is 22/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 92% with the patient breathing 40% F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". An S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", jugular venous distention, pulmonary crackles, and cool extremities are present."
+]
+},
+{
+"type":"p",
+"hlId":"0e56ab",
+"children":[
+"Laboratory studies show an elevated serum high-sensitivity cardiac troponin level (>99th percentile upper reference limit) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.8 mg/dL (159 μmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"7ca9b3",
+"children":[
+"An ECG demonstrates 2-mm ST-segment depressions in leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"b3a9ee",
+"children":[
+"Emergent cardiac catheterization shows critical lesions in the left anterior descending and circumflex arteries, and stents are placed. Following stenting, the patient's clinical status is unchanged."
+]
+},
+{
+"type":"p",
+"hlId":"bc3ef7",
+"children":[
+"Medications are aspirin, prasugrel, furosemide, and norepinephrine."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Digoxin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intra-aortic balloon pump placement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metoprolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent cardiac transplantation"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vasopressin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1388c8",
+"children":[
+"Treatment of cardiogenic shock initially focuses on reversing the cause of shock, such as reperfusion in the setting of acute coronary syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"81b255",
+"children":[
+"In cardiogenic shock, appropriate therapies to support cardiac output include inotropes, vasopressors, and mechanical support (such as balloon pumps, percutaneous ventricular assist devices, and extracorporeal membrane oxygenation)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bb4cf3",
+"children":[
+"This patient is in cardiogenic shock and requires placement of an intra-aortic balloon pump (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Cardiogenic shock is characterized by signs and symptoms of low cardiac output with systolic blood pressure less than 90 mm Hg (or support to maintain blood pressure) and evidence of end-organ hypoperfusion. This patient has already been revascularized; thus, the focus of therapy should be on supporting the cardiac output. Appropriate therapies include inotropes, vasopressors, and mechanical support (such as balloon pumps, percutaneous ventricular assist devices, and extracorporeal membrane oxygenation)."
+]
+},
+{
+"type":"p",
+"hlId":"bdb0b8",
+"children":[
+"Digoxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a weak inotrope that has been shown to reduce hospitalizations for patients with chronic heart failure. It would not be helpful for this patient in the acute setting."
+]
+},
+{
+"type":"p",
+"hlId":"b6a9a3",
+"children":[
+"In the outpatient setting, β-blockers have been shown to improve survival in patients with heart failure who have no signs of volume overload. In the acute setting, especially for patients receiving norepinephrine, which is a potent vasopressor and has inotropic properties mediated through the cardiac β-receptor, adding a β-blocker, such as metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"6632dd",
+"children":[
+"In the short term, the focus should be on hemodynamic support in the hopes of improving cardiac function over the next 48 hours with revascularization rather than urgent transfer to a transplant center (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fcf345",
+"children":[
+"Vasopressin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may be added to norepinephrine to further raise blood pressure or reduce the dose of norepinephrine in patients with vasodilatory shock (cold and dry). In general, vasopressin should not be used in cardiogenic (warm and wet) or hypovolemic shock."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_3_1",
+"objective":{
+"__html":"Treat cardiogenic shock in the setting of non–ST-elevation myocardial infarction."
+},
+"references":[
+[
+"van Diepen S, Katz JN, Albert NM, et al; American Heart Association Council on Clinical Cardiology; Council on Cardiovascular and Stroke Nursing; Council on Quality of Care and Outcomes Research; and Mission: Lifeline. Contemporary management of cardiogenic shock: a scientific statement from the American Heart Association. Circulation. 2017;136:e232-e268. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28923988",
+"target":"_blank"
+},
+"children":[
+"PMID: 28923988"
+]
+},
+" doi:10.1161/CIR.0000000000000525"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":82,
+"C":5,
+"D":2,
+"E":8
+},
+"hlIds":[
+"414806",
+"f76491",
+"0e56ab",
+"7ca9b3",
+"b3a9ee",
+"bc3ef7",
+"1e31fb",
+"1388c8",
+"81b255",
+"bb4cf3",
+"bdb0b8",
+"b6a9a3",
+"6632dd",
+"fcf345"
+]
+}

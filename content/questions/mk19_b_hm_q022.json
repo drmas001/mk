@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_hm_q022",
+"number":22,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b98ecb",
+"children":[
+"A 48-year-old woman is evaluated for easy bruising. She has no history of gingival bleeding, menorrhagia, or bleeding following procedures. Medical history is notable only for systemic lupus erythematosus. Medications are prednisone, hydroxychloroquine, and NSAIDs as needed."
+]
+},
+{
+"type":"p",
+"hlId":"e2f12c",
+"children":[
+"On physical examination, vital signs and examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"6f509f",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Activated partial thromboplastin time",
+"children":[
+"activated partial thromboplastin time"
+]
+},
+" of 38 seconds, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 190,000/μL (190 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"prothrombin time"
+]
+},
+" of 12.5 seconds."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Factor VIII inhibitor titer"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Factor XI level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Factor XII level"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mixing study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3a2a74",
+"children":[
+"Evaluation of a prolonged activated partial thromboplastin time (aPTT) begins with a mixing study; the aPTT will normalize if the cause of the prolongation is a factor deficiency but will remain prolonged if the reason is an inhibitor."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7b4c5a",
+"children":[
+"Evaluation of a prolonged activated partial thromboplastin time (aPTT) begins with a mixing study in which equal parts of a patient's plasma and control plasma are combined; the aPTT assay is performed immediately following the mix and again following an incubation period (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The immediate mixing study will not correct in the presence of most factor inhibitors. Some inhibitors, specifically factor VIII inhibitor, will correct immediately but will not correct after incubation. Therefore, mixing study results should always be reported immediately and after incubation. The result of the mixing study for this patient will help to determine the general cause of the prolonged aPTT (factor deficiency versus inhibitor) and to guide the subsequent, more specific evaluation. Because this patient has an autoimmune disorder, a lupus anticoagulant might explain the prolonged aPTT without evident bleeding; it is characterized by a prolonged aPTT that fails to correct when mixed with control plasma. Patients with a lupus anticoagulant may be asymptomatic; however, approximately 30% of patients with a lupus anticoagulant may develop arterial and/or venous thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"e001c9",
+"children":[
+"Factor VIII inhibitors can arise in the setting of hemophilia A, following exposure to factor VIII replacement therapy, or can develop spontaneously in the setting of autoimmune disease, malignancy, pregnancy, and certain medications. Weak, low-titer inhibitors may not cause spontaneous bleeding. The presence of a factor VIII inhibitor is suspected when a mixing study demonstrates immediate correction of the prolonged aPTT after mixing but subsequent prolongation of the aPTT following incubation. Evaluation of factor VIII levels and inhibitor titers would be prompted only if this sequence of events is demonstrated on the mixing study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"d86609",
+"children":[
+"Factor XI deficiency can result in a bleeding diathesis because factor XI is activated by thrombin. A mixing study in a patient with factor XI deficiency would result in complete correction of the prolonged aPTT that is sustained after incubation. Factor XII activity is reflected in the aPTT but is not of clinical importance in hemostasis. Factor XII deficiency is a rare autosomal-recessive condition in which homozygous patients have a markedly prolonged aPTT but no history of excessive bleeding or hemorrhage. In a patient with factor XII deficiency, the mixing study would completely correct the aPTT. These results would prompt measurement of specific factor levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s7_2",
+"objective":{
+"__html":"Evaluate a patient with a prolonged activated partial thromboplastin time."
+},
+"references":[
+[
+"Benzon HT, Park M, McCarthy RJ, et al. Mixing studies in patients with prolonged activated partial thromboplastin time or prothrombin time. Anesth Analg. 2019;128:1089-1096. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31094773",
+"target":"_blank"
+},
+"children":[
+"PMID: 31094773"
+]
+},
+" doi:10.1213/ANE.0000000000003457"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":2,
+"C":3,
+"D":75,
+"E":0
+},
+"hlIds":[
+"b98ecb",
+"e2f12c",
+"6f509f",
+"2eb226",
+"3a2a74",
+"7b4c5a",
+"e001c9",
+"d86609"
+]
+}

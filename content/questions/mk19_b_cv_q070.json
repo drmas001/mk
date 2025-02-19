@@ -1,0 +1,247 @@
+{
+"id":"mk19_b_cv_q070",
+"number":70,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 70",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7cf4e0",
+"children":[
+"A 27-year-old woman is hospitalized for a 1-day history of orthopnea and paroxysmal nocturnal dyspnea. She delivered a healthy baby boy 6 days ago. She is breastfeeding."
+]
+},
+{
+"type":"p",
+"hlId":"c682f7",
+"children":[
+"On physical examination, blood pressure is 134/78 mm Hg, pulse rate is 98/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. There is jugular venous distention and an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+". Crackles are heard about halfway up the lungs. There is lower extremity edema to the knees."
+]
+},
+{
+"type":"p",
+"hlId":"0be799",
+"children":[
+"Laboratory studies show an elevated B-type natriuretic peptide level, a normal high-sensitivity troponin level (<99th percentile upper reference limit), and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.2 mg/dL (106.1 μmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"53148f",
+"children":[
+"Chest radiograph shows pulmonary edema. Echocardiogram shows an ejection fraction of 20% and diffuse hypokinesis."
+]
+},
+{
+"type":"p",
+"hlId":"a1bf32",
+"children":[
+"Intravenous furosemide and bilevel positive airway pressure are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bisoprolol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Diltiazem"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Enalapril"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ivabradine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4f0e98",
+"children":[
+"ACE inhibitors reduce morbidity and mortality in patients with heart failure with reduced ejection fraction and should be used in both symptomatic and asymptomatic patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ea1bd9",
+"children":[
+"Metoprolol, carvedilol, and bisoprolol reduce mortality in patients with heart failure with reduced ejection fraction, but treatment should be delayed in patients with volume overload until the patient is closer to being euvolemic."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"69bd34",
+"children":[
+"The most appropriate treatment is an ACE inhibitor, such as enalapril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), for this patient with new-onset peripartum cardiomyopathy and heart failure. Following delivery, patients with peripartum cardiomyopathy are treated the same as all other patients with heart failure. ACE inhibitors reduce morbidity and mortality in patients with heart failure with reduced ejection fraction (HFrEF) and should be used in both symptomatic and asymptomatic patients. ACE inhibitors can be started immediately in patients with acute heart failure in the absence of hyperkalemia; the estimated glomerular filtration rate should be monitored during uptitration. Enalapril, captopril, quinapril, and benazepril are present in very low levels in breast milk and are considered safe during breastfeeding. Valsartan-sacubitril should not be used during breastfeeding because of the potential for serious adverse reactions in infants."
+]
+},
+{
+"type":"p",
+"hlId":"36ac22",
+"children":[
+"The β-blockers metoprolol, carvedilol, and bisoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") also reduce mortality in patients with HFrEF, but treatment should be delayed in patients with volume overload (jugular venous distention, crackles, edema) and reduced cardiac output (S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") because treatment in these patients may worsen symptoms. Guidelines recommend reducing intravascular volume with a loop diuretic and initiating an ACE inhibitor; β-blockers may be cautiously introduced when the patient is closer to being euvolemic."
+]
+},
+{
+"type":"p",
+"hlId":"acd9fc",
+"children":[
+"In small trials, the nondihydropyridine calcium channel blockers diltiazem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and verapamil have been associated with an increase in mortality in patients with heart failure. If this patient's hypertension persists after she receives maximal doses of an ACE inhibitor and β-blocker, one might consider adding a dihydropyridine calcium channel blocker (e.g., amlodipine, felodipine); these agents have been shown to be safe in patients with heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"2d7052",
+"children":[
+"Ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") inhibits the sinus node and reduces heart rate in patients with heart failure. It has been shown to reduce heart failure hospitalizations when added to maximally tolerated β-blocker therapy. This patient is not taking a β-blocker, making this an inappropriate addition at this time."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_1",
+"objective":{
+"__html":"Treat new-onset symptomatic heart failure with an ACE inhibitor."
+},
+"references":[
+[
+"Yancy CW, Jessup M, Bozkurt B, et al; American College of Cardiology Foundation. 2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines. J Am Coll Cardiol. 2013;62:e147-239. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23747642",
+"target":"_blank"
+},
+"children":[
+"PMID: 23747642"
+]
+},
+" doi:10.1016/j.jacc.2013.05.019"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":28,
+"B":5,
+"C":56,
+"D":11,
+"E":0
+},
+"hlIds":[
+"7cf4e0",
+"c682f7",
+"0be799",
+"53148f",
+"a1bf32",
+"78ff87",
+"4f0e98",
+"ea1bd9",
+"69bd34",
+"36ac22",
+"acd9fc",
+"2d7052"
+]
+}

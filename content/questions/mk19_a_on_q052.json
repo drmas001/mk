@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_on_q052",
+"number":52,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"63c195",
+"children":[
+"A 77-year-old woman undergoes follow-up evaluation for recently diagnosed stage I adenocarcinoma of the lung. Medical history is notable for very severe COPD that limits her ability to dress unaided. Her medications are an inhaled corticosteroid, salmeterol, tiotropium, roflumilast, and an albuterol inhaler as needed."
+]
+},
+{
+"type":"p",
+"hlId":"38fc14",
+"children":[
+"On physical examination, respiration rate is 25/min; other vital signs are normal. Oxygen saturation is 91% breathing 3 L/min of oxygen by nasal cannula. BMI is 20, and she is thin with significant muscle wasting. She has a prolonged expiratory phase of respiration and decreased breath sounds bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"9be26d",
+"children":[
+"Surgical and pulmonary consults concur that the patient is too chronically disabled to safely undergo elective thoracic surgery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Combination platinum-based chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combined chemotherapy and radiation therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Immunotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stereotactic radiation therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e20602",
+"children":[
+"Surgery is the standard treatment for stage I and most stage II non–small cell lung cancers."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fecb43",
+"children":[
+"For patients with non–small cell lung cancer who are not candidates for surgery, stereotactic radiation therapy can be used to treat stage I cancers."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"28df8f",
+"children":[
+"The most appropriate treatment for this patient's stage I non–small cell lung cancer is stereotactic radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Surgery is the standard treatment for stage I and some stage II non–small cell lung cancers, and in patients treated with surgery, 5-year survival is about 60% to 70%. However, not all patients are surgical candidates. Before undergoing surgery, it is critical to perform a medical evaluation to ensure that surgery would not be associated with undue risk. That was done in this case, and it was determined that this patient was not a surgical candidate. Multiple studies have shown that stereotactic radiation therapy is an effective treatment for this patient population, with demonstrated excellent rates of local control, particularly in patients with stage I cancers. This patient, who is not fit for surgery, is a good candidate for such treatment."
+]
+},
+{
+"type":"p",
+"hlId":"f63185",
+"children":[
+"Combination platinum-based chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is another accepted treatment for patients with metastatic non–small cell lung cancer. However, it is not an accepted treatment for early-stage disease. Although treatment with stereotactic radiation therapy can be curative, treatment with combination chemotherapy would not be curative and is not indicated for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"ebeac0",
+"children":[
+"Combined chemotherapy and radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are used commonly for the treatment of stage III non–small cell lung cancer and is an accepted treatment for this group of patients. However, it has not been shown to be of benefit in patients with stage I or stage II disease and is not indicated for treatment of this patient."
+]
+},
+{
+"type":"p",
+"hlId":"cff089",
+"children":[
+"Immunotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") plays an increasingly important role in the treatment of non–small cell lung cancer. It works by reversing inhibition of the cellular immune response caused by cancers. Although it has a role in the treatment of some patients with metastatic non–small cell lung cancer, it is not a standard treatment for patients with nonmetastatic disease."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_1_1",
+"objective":{
+"__html":"Treat stage I non–small lung cancer with stereotactic radiation therapy."
+},
+"references":[
+[
+"Schneider BJ, Daly ME, Kennedy EB, et al. Stereotactic body radiotherapy for early-stage non-small-cell lung cancer: American Society of Clinical Oncology Endorsement of the American Society for Radiation Oncology Evidence-Based Guideline. J Clin Oncol. 2018;36:710-19. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29106810",
+"target":"_blank"
+},
+"children":[
+"PMID: 29106810"
+]
+},
+" doi:10.1200/JCO.2017.74.9671"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":18,
+"C":21,
+"D":55,
+"E":0
+},
+"hlIds":[
+"63c195",
+"38fc14",
+"9be26d",
+"1054f1",
+"e20602",
+"fecb43",
+"28df8f",
+"f63185",
+"ebeac0",
+"cff089"
+]
+}

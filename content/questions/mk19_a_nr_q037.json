@@ -1,0 +1,228 @@
+{
+"id":"mk19_a_nr_q037",
+"number":37,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e9edaf",
+"children":[
+"A 63-year-old man is evaluated for myalgia and proximal weakness in both upper and lower extremities. He has diabetes, hypertension, and coronary artery disease. Current medications include metformin, empagliflozin, lisinopril, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"b4bca7",
+"children":[
+"On physical examination, blood pressure is 132/82 mm Hg; other vital signs are normal. Proximal muscle tenderness is noted. All other findings, including those from the neurologic examination, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ae5a2f",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 15 mm/h, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 6.8%, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"serum creatine kinase"
+]
+},
+" level of 250 U/L."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"220dc4",
+"children":[
+"Which of the following is most likely the cause of this patient's symptoms?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Immune-mediated necrotizing myopathy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Polymyalgia rheumatica"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Proximal lumbosacral radiculoneuropathy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Statin-induced myopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b37526",
+"children":[
+"Statin-induced myopathy is rare and manifests as unexplained proximal muscle pain or weakness with an increase in serum creatine kinase level."
+]
+},
+{
+"type":"keypoint",
+"hlId":"480722",
+"children":[
+"Discontinuation of the statin most commonly results in a rapid resolution of muscle symptoms and normalization of the serum creatine kinase level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fb12c8",
+"children":[
+"The most likely diagnosis is statin-induced myopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The incidence of statin-induced muscle symptoms is no greater than 1%, and the incidence of myopathy and rhabdomyolysis is less than 0.1%. Statin-induced myopathy manifests as unexplained muscle pain or weakness with an increase in the creatine kinase (CK) level up to 10 times the upper limit of normal (ULN). Statin-induced rhabdomyolysis is a more severely symptomatic form of myopathy with CK levels typically greater than 40 times the ULN. Most patients experience statin-induced myopathy within the first year of therapy after a dose increase or the addition of an interacting drug. Most drugs that interact with statins increase the statin blood concentration and the risk of myopathy/rhabdomyolysis. The typical clinical presentation consists of symmetric muscle pain and weakness, but nonspecific lower back pain has been reported as a feature of statin-induced myopathy. The serum CK level should be measured in patients taking a statin who develop muscle pain or weakness. Delay in making the diagnosis (and stopping the statin) can lead to rhabdomyolysis and possibly acute kidney injury. Discontinuation of the statin most commonly results in a rapid resolution of symptoms and normalization of the serum CK level."
+]
+},
+{
+"type":"p",
+"hlId":"2336c9",
+"children":[
+"Immune-mediated necrotizing myopathy (IMNM) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") presents acutely or subacutely with more severe proximal muscle pain and extremely high CK levels. The vast majority of patients on statins with muscle pain do not have IMNM. This patient with mild symptoms and modest elevation of CK is unlikely to have IMNM."
+]
+},
+{
+"type":"p",
+"hlId":"cf1359",
+"children":[
+"Polymyalgia rheumatica (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an inflammatory disorder associated with pain and stiffness of the neck, shoulder, and hip girdle. The erythrocyte sedimentation rate is invariably elevated but the CK level is normal."
+]
+},
+{
+"type":"p",
+"hlId":"94b1bd",
+"children":[
+"Proximal lumbosacral radiculoneuropathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is associated with subacute painful involvement of the lumbosacral plexus followed by resolution of pain and onset of marked asymmetric weakness with atrophy and weight loss. It is often associated with diabetes, even when glucose levels are well controlled. The patient's symptoms do not match those of proximal lumbosacral radiculopathy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_5_4",
+"objective":{
+"__html":"Diagnose statin-induced myopathy."
+},
+"references":[
+[
+"Newman CB, Preiss D, Tobert JA, et al; American Heart Association Clinical Lipidology, Lipoprotein, Metabolism and Thrombosis Committee, a Joint Committee of the Council on Atherosclerosis, Thrombosis and Vascular Biology and Council on Lifestyle and Cardiometabolic Health; Council on Cardiovascular Disease in the Young; Council on Clinical Cardiology; and Stroke Council. Statin safety and associated adverse events: a scientific statement from the American Heart Association. Arterioscler Thromb Vasc Biol. 2019;39:e38-e81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30580575",
+"target":"_blank"
+},
+"children":[
+"PMID: 30580575"
+]
+},
+" doi:10.1161/ATV.0000000000000073"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":18,
+"C":1,
+"D":78,
+"E":0
+},
+"hlIds":[
+"e9edaf",
+"b4bca7",
+"ae5a2f",
+"220dc4",
+"b37526",
+"480722",
+"fb12c8",
+"2336c9",
+"cf1359",
+"94b1bd"
+]
+}

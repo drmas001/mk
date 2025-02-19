@@ -1,0 +1,225 @@
+{
+"id":"mk19_a_gi_q037",
+"number":37,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6b024c",
+"children":[
+"A 21-year-old man is evaluated for a 4-month history of diarrhea. Bowel movements are liquid and nonbloody and sometimes are preceded by lower abdominal cramps. He has near-daily bloating. Symptoms do not awaken him at night but improve with fasting. He reports no recent travel, antibiotic use, or weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"e2bd30",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"00eb9f",
+"children":[
+"Laboratory evaluation shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" of 41% and negative fecal calprotectin level."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fructose breath test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stool culture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trial of lactose-free diet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9ba787",
+"hvc":true,
+"children":[
+"The most common cause of osmotic diarrhea is lactase deficiency that results in lactose malabsorption."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3832e1",
+"hvc":true,
+"children":[
+"Lactase deficiency can be diagnosed on the basis of improvement after exclusion of dietary lactose or administration of lactase enzymes with meals."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fd0b7a",
+"children":[
+"The most appropriate management is a trial of a lactose-free diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient describes diarrhea lasting longer than 4 weeks, thereby meeting the criteria for chronic diarrhea. The lack of nocturnal symptoms and improvement of symptoms with fasting suggest osmotic diarrhea. Osmotic diarrhea results from a nonabsorbed, osmotically active substance in the intestinal lumen, leading to luminal fluid accumulation due to an osmotic gradient. This gradient is present after ingestion of an osmotically active substance and is absent during fasting (including during sleep). A common cause of osmotic diarrhea is lactase deficiency that results in lactose malabsorption, which typically presents in young adulthood. In this condition, brush-border lactase is lost and ingested lactose is no longer broken down to its constituent monosaccharides. The persistent presence of this unabsorbed disaccharide creates an osmotic gradient. Although a lactose breath test is available to test for lactase deficiency, the diagnosis can typically be based on improvement after exclusion of dietary lactose or administration of lactase enzymes with meals."
+]
+},
+{
+"type":"p",
+"hlId":"7591d6",
+"children":[
+"Colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has a role in the evaluation of chronic diarrhea: to diagnose inflammatory bowel disease (IBD) or, along with colonic biopsies, microscopic colitis. Although IBD is a cause of chronic diarrhea, it is less common than lactase deficiency. In addition, this patient's lack of weight loss, anemia, and negative fecal calprotectin result make IBD an unlikely diagnosis. Thus, colonoscopy is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"6d5f2e",
+"children":[
+"Fructose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a monosaccharide found in fruit and as an added sweetener in processed foods, is absorbed via a fructose transporter on the luminal surface of enterocytes (epithelial cells of the small intestine). Defects in this transporter can lead to fructose malabsorption, and osmotic diarrhea may ensue. Fructose intolerance is less common than lactase deficiency and is a controversial diagnosis. Empiric treatment for lactose malabsorption, a well-established and common diagnosis, is the most reasonable initial management for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"b825b8",
+"children":[
+"Stool culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be performed in the setting of diarrhea due to a suspected bacterial cause, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter jejuni"
+]
+},
+". These infections typically cause acute diarrhea, not the chronic diarrhea seen in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_3_3",
+"objective":{
+"__html":"Manage lactase deficiency."
+},
+"references":[
+[
+"Schiller LR, Pardi DS, Sellin JH. Chronic diarrhea: diagnosis and management. Clin Gastroenterol Hepatol. 2017;15:182-193.e3. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27496381",
+"target":"_blank"
+},
+"children":[
+"PMID: 27496381"
+]
+},
+" doi:10.1016/j.cgh.2016.07.028"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":13,
+"C":4,
+"D":79,
+"E":0
+},
+"hlIds":[
+"6b024c",
+"e2bd30",
+"00eb9f",
+"cb2b54",
+"9ba787",
+"3832e1",
+"fd0b7a",
+"7591d6",
+"6d5f2e",
+"b825b8"
+]
+}

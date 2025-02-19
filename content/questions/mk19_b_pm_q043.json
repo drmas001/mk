@@ -1,0 +1,269 @@
+{
+"id":"mk19_b_pm_q043",
+"number":43,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d146af",
+"children":[
+"A 23-year-old man is evaluated for cough, rhinorrhea, and wheezing of 3 weeks' duration. He has no fevers, chills, or chest pain and no history of asthma or allergies. He is a pastry chef and notes that his symptoms improve on nonworking weekends."
+]
+},
+{
+"type":"p",
+"hlId":"edfeca",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. Expiratory wheezing is noted."
+]
+},
+{
+"type":"p",
+"hlId":"de4a15",
+"children":[
+"Laboratory studies show a normal ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+"-specific IgE level."
+]
+},
+{
+"type":"p",
+"hlId":"8d04b2",
+"children":[
+"Spirometry reveals moderate airflow obstruction that improves after inhaled albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"9965af",
+"children":[
+"Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute bronchitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Acute hypersensitivity pneumonitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Allergic bronchopulmonary aspergillosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Occupational asthma"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ec042e",
+"children":[
+"Occupational asthma includes asthma caused by exposure to sensitizing or irritant substances in the workplace, including high-molecular-weight substances, such as proteins, that induce an IgE-mediated immunologic response."
+]
+},
+{
+"type":"keypoint",
+"hlId":"30c18a",
+"children":[
+"Occupational asthma is characterized by an improvement in symptoms when the patient is away from work."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b6e377",
+"children":[
+"The most likely diagnosis is occupational asthma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient presents with one of the most common types of occupational asthma, bakers' asthma. Occupational asthma includes both asthma caused by exposure to sensitizing or irritant substances in the workplace and preexisting asthma that is exacerbated by these same factors. Typical sensitizing agents are high-molecular-weight substances, such as proteins, that induce an IgE-mediated immunologic response. In bakers' asthma, exposure to proteins in wheat and rye flour is a likely cause. Once sensitized, patients may react to very low levels of exposure. A key clinical indicator is the relationship of symptoms to work exposure; patients often improve on weekends and during time away from work. Spirometry before and after workplace exposures is a cost-effective way to confirm a suspected diagnosis of occupational asthma. Alternatively, serial peak flow measurements can be used. In addition to pharmacologic therapy, treatment consists of reducing exposure to the offending agent through workplace modifications or removing patients from the workplace entirely."
+]
+},
+{
+"type":"p",
+"hlId":"35cba5",
+"children":[
+"Acute bronchitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a lower respiratory tract infection of the large airways, often caused by viral pathogens. It is often preceded by symptoms of upper respiratory tract infection such as headache, sore throat, and rhinitis. Most cases of acute bronchitis are self-limiting and resolve within 1 to 3 weeks. Although this patient's symptoms are similar to those of bronchitis, the symptom duration and improvement away from the workplace suggest a different cause."
+]
+},
+{
+"type":"p",
+"hlId":"cada52",
+"children":[
+"Acute hypersensitivity pneumonitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is also caused by inhalation of sensitizing antigens, but it leads to a markedly different clinical syndrome than occupational asthma. It is characterized by fever, cough, and fatigue within 12 hours of a major exposure to an inciting antigen. Inspiratory crackles are heard during physical examination."
+]
+},
+{
+"type":"p",
+"hlId":"5e5c31",
+"children":[
+"Allergic bronchopulmonary aspergillosis (ABPA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an ongoing immunologic response to inhaled ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+". The reaction leads to persistent eosinophilic airway inflammation, increased IgE levels, and eventually tissue damage with airway remodeling. Diagnostic criteria include the presence of asthma, elevated IgE levels, positive skin tests to ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+" antigens, increased pulmonary ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+"-specific IgE and IgG levels, and either central bronchiectasis or infiltrates. The patient's normal ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+"-specific IgE level and chest radiograph do not support a diagnosis of ABPA."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_5_4",
+"objective":{
+"__html":"Diagnose occupational asthma."
+},
+"references":[
+[
+"Cormier M, Lemière C. Occupational asthma. Int J Tuberc Lung Dis. 2020;24:8-21. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32005302",
+"target":"_blank"
+},
+"children":[
+"PMID: 32005302"
+]
+},
+" doi:10.5588/ijtld.19.0301"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":11,
+"C":2,
+"D":85,
+"E":0
+},
+"hlIds":[
+"d146af",
+"edfeca",
+"de4a15",
+"8d04b2",
+"9965af",
+"413696",
+"ec042e",
+"30c18a",
+"b6e377",
+"35cba5",
+"cada52",
+"5e5c31"
+]
+}

@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_nr_q085",
+"number":85,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 85",
+"stimulus":[
+{
+"type":"p",
+"hlId":"794efe",
+"children":[
+"A 74-year-old woman has a follow-up evaluation of left arm weakness due a right frontal cerebral infarct that occurred 2 weeks ago. She has hypertension and dyslipidemia. Current medications are aspirin, chlorthalidone, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"9a58b4",
+"children":[
+"On physical examination, vital signs are normal. Left arm shows 4/5 muscle strength throughout, with increased tone in the elbow and finger flexors. Cardiac and peripheral vascular examinations are normal."
+]
+},
+{
+"type":"p",
+"hlId":"2997d2",
+"children":[
+"LDL cholesterol level is 68 mg/dL (1.76 mmol/L). ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level, basic metabolic profile, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"aminotransferase"
+]
+},
+" levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"80b488",
+"children":[
+"CT scan of the head shows a right frontal lobe infarct involving the cortical surface compatible with an embolic stroke. ECG shows sinus rhythm, left atrial enlargement, and left ventricular hypertrophy. Transthoracic echocardiogram shows an ejection fraction of 50% with no wall motion abnormalities, left atrial dilation, valvular regurgitation, or stenosis. Carotid duplex ultrasound shows less than 40% stenosis in both carotid arteries and normal flow in the vertebral arteries. Magnetic resonance angiogram of the brain shows no major arterial stenoses."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adding clopidogrel to aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Changing aspirin to rivaroxaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prolonged ambulatory ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"609d99",
+"children":[
+"In approximately one third of patients with embolic stroke of undetermined source, prolonged cardiac rhythm evaluation may be positive for atrial fibrillation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5bf400",
+"children":[
+"Aspirin is preferred to rivaroxaban or dabigatran in the secondary prevention of stroke in patients with embolic stroke of undetermined origin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e15150",
+"children":[
+"The most appropriate management is prolonged ambulatory ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient had an embolic stroke of undetermined source (ESUS), based on the infarction on the cortical surface without an alternative source of emboli identified (e.g., large artery atherosclerosis or atrial fibrillation). Prolonged cardiac rhythm evaluation with ambulatory cardiac ECG or an implantable loop recorder may be positive for atrial fibrillation in approximately one third of patients with ESUS and dictate a change in therapy. The patient has several predictors of finding atrial fibrillation, including left atrial enlargement and hypertension."
+]
+},
+{
+"type":"p",
+"hlId":"045e47",
+"children":[
+"Dual antiplatelet therapy (DAPT) with aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") started 12 to 24 hours after stroke onset and continued for 21 to 90 days in patients with TIA and minor ischemic stroke results in a small but significant reduction in risk of recurrent stroke at 90 days. This patient has missed the window for DAPT and more than likely has an embolic rather than large vessel ischemic stroke; therefore, DAPT is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"63758d",
+"children":[
+"Changing aspirin to rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate because direct-acting anticoagulants have not been established as effective and safe therapy in patients with ESUS. In two clinical trials examining rivaroxaban or dabigatran versus aspirin in ESUS, aspirin was equivalent for stroke prevention and was associated with fewer hemorrhagic complications. Further trials are ongoing in patients with a higher suspicion for atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"fa944e",
+"children":[
+"Transesophageal echocardiography (TEE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be considered in younger patients without risk factors in whom a transthoracic echocardiogram was negative for a source of emboli or in patients with a high suspicion for high-risk embolic sources, such as bacterial endocarditis or an atrial myxoma. TEE is a low-yield diagnostic test in an older patient in sinus rhythm with multiple risk factors for stroke."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_3_2_4",
+"objective":{
+"__html":"Evaluate cardiac rhythm in a patient with embolic stroke of undetermined source."
+},
+"references":[
+[
+"Kamel H, Merkler AE, Iadecola C, et al. Tailoring the approach to embolic stroke of undetermined source: a review. JAMA Neurol. 2019;76:855-861. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30958521",
+"target":"_blank"
+},
+"children":[
+"PMID: 30958521"
+]
+},
+" doi:10.1001/jamaneurol.2019.0591"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":8,
+"C":55,
+"D":16,
+"E":0
+},
+"hlIds":[
+"794efe",
+"9a58b4",
+"2997d2",
+"80b488",
+"cb2b54",
+"609d99",
+"5bf400",
+"e15150",
+"045e47",
+"63758d",
+"fa944e"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gi_q002",
+"number":2,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"70c3e5",
+"children":[
+"A 45-year-old woman is evaluated at follow-up for abnormal alkaline phosphatase levels on three previous blood tests. She has mild pruritus. She has no family history of liver disease. She has no other medical concerns and does not take any medications."
+]
+},
+{
+"type":"p",
+"hlId":"566e3d",
+"children":[
+"Vital signs and other physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ab5bae",
+"children":[
+"Her complete blood count and alanine aminotransferase, aspartate aminotransferase, serum albumin, serum total bilirubin, and total protein are within normal limits. The ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"alkaline phosphatase"
+]
+},
+" level is 212 U/L."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antimitochondrial antibody"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Anti–smooth muscle antibody"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum IgG4"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5c9b02",
+"children":[
+"Primary biliary cirrhosis is most commonly diagnosed in women; it is often asymptomatic but can present with pruritus and fatigue."
+]
+},
+{
+"type":"keypoint",
+"hlId":"34d873",
+"children":[
+"Diagnosis of primary biliary cholangitis is confirmed by elevation of the serum alkaline phosphatase level 1.5 times the upper limit of normal and the presence of antimitochondrial antibody."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5b631c",
+"children":[
+"The most appropriate diagnostic test to perform next is an antimitochondrial antibody (AMA) test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient most likely has primary biliary cholangitis (PBC), a diagnosis that is best established by imaging with ultrasound or magnetic resonance cholangiopancreatography to exclude extrahepatic obstruction and by positive results for AMA. PBC is an autoimmune disease affecting the small and medium bile ducts. It is often asymptomatic but can present with pruritus and fatigue. PBC is more common in women than men (female-to-male ratio is 9:1). Typically, the alkaline phosphatase level is elevated in PBC; if it is at least 1.5 times the upper limit of normal, a positive result on an AMA test establishes the diagnosis without the need for liver biopsy. Patients with PBC who are negative for AMA may test positive for other PBC-specific autoantibodies, including sp100 and gp210. Once PBC is diagnosed, first-line treatment is ursodeoxycholic acid, which results in histologic improvement, improves survival rates, and diminishes the need for liver transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"191527",
+"children":[
+"Primary sclerosing cholangitis (PSC) is an autoimmune fibroinflammatory disease, primarily of large bile ducts. PSC is more common in men than in women and is associated with inflammatory bowel disease (IBD) in about 85% of cases. PSC should be suspected in patients with IBD who have elevated alkaline phosphatase levels. Some patients may also have elevated serum total bilirubin levels or total protein, reflecting the presence of hypergammaglobulinemia. PSC is associated with many autoantibodies, including anti–smooth muscle antibody (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This otherwise well woman is more likely to have PBC than PSC, and measurement of anti–smooth muscle antibody is not indicated. Autoimmune hepatitis is a chronic inflammatory hepatitis that is more common in women than men and typically presents with abnormal aminotransferase enzyme levels. A positive antinuclear or anti–smooth muscle antibody result is more common in autoimmune hepatitis."
+]
+},
+{
+"type":"p",
+"hlId":"1fb387",
+"children":[
+"Liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated because PBC is most often diagnosed noninvasively by serology. Only patients with strong suspicion for PBC and negative antibody results should undergo liver biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"a610e6",
+"children":[
+"Autoimmune pancreatitis is a frequent manifestation of IgG4-related disease. Patients with autoimmune pancreatitis may present with abdominal pain or obstructive jaundice with or without a mass. Autoimmune pancreatitis may also be associated with secondary sclerosing cholangitis. This patient does not have abdominal pain or jaundice, and measuring serum IgG4 level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_8_1",
+"objective":{
+"__html":"Diagnose primary biliary cholangitis."
+},
+"references":[
+[
+"Lindor KD, Bowlus CL, Boyer J, et al. Primary biliary cholangitis: 2018 practice guidance from the American Association for the Study of Liver Diseases. Hepatology. 2019;69:394-419. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30070375",
+"target":"_blank"
+},
+"children":[
+"PMID: 30070375"
+]
+},
+" doi:10.1002/hep.30145"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":68,
+"B":14,
+"C":5,
+"D":12,
+"E":0
+},
+"hlIds":[
+"70c3e5",
+"566e3d",
+"ab5bae",
+"ab9d96",
+"5c9b02",
+"34d873",
+"5b631c",
+"191527",
+"1fb387",
+"a610e6"
+]
+}

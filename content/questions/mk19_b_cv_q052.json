@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_cv_q052",
+"number":52,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"babdb7",
+"children":[
+"An 84-year-old man is evaluated before hospital discharge following an exacerbation of heart failure. He has an implantable cardioverter-defibrillator. Medications are lisinopril, furosemide, carvedilol, and spironolactone. During hospitalization, the patient received intravenous furosemide at a dosage twice that of his home oral dosage."
+]
+},
+{
+"type":"p",
+"hlId":"e6c01f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Central venous pressure is not elevated. There is no S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", and there are no pulmonary crackles."
+]
+},
+{
+"type":"p",
+"hlId":"86cc94",
+"children":[
+"Serum creatinine level has returned to the baseline level, and electrolytes are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f55d81",
+"children":[
+"Echocardiogram from this hospitalization shows ejection fraction of 25% with left ventricular end-diastolic dimension of 72 mm."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d08c61",
+"children":[
+"Which of the following is most likely to prevent early hospital readmission in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Echocardiography in 3 months"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Follow-up office visit in 30 days"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Follow-up telephone call in 2 days"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Decrease in furosemide to original home dosage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9604a0",
+"children":[
+"Two key elements are associated with a successful transition to home following hospitalization for heart failure: a follow-up phone call within 2 to 3 days of discharge and an office visit within 7 to 14 days of hospital discharge."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4a9d89",
+"children":[
+"A telephone call within 2 to 3 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended to prevent this patient's early readmission to the hospital. The 2019 American College of Cardiology expert consensus decision pathway for patients hospitalized with heart failure notes that up to 25% of patients are readmitted with heart failure within 30 days of the index hospitalization. Two key elements are associated with a successful transition from hospital to home: a follow-up phone call within 2 to 3 days of discharge and an office visit within 7 to 14 days of hospital discharge. The purpose of the follow-up phone call is to address signs of congestion, provide education and review adherence to the medication regimen, and confirm follow-up appointments and adequate transportation. The expert consensus decision pathway recommends a standardized approach to the follow-up telephone call, including use of a checklist to help organize the call."
+]
+},
+{
+"type":"p",
+"hlId":"0547d3",
+"children":[
+"For patients with an initial diagnosis of heart failure, it is appropriate to repeat echocardiography in 3 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to assess the effect of medical therapy on ejection fraction and need for an implantable cardioverter-defibrillator (ICD). Echocardiography was performed in this patient in the hospital, and for a patient with known low ejection fraction and an ICD, there is no reason for echocardiography so soon unless there is a clinical change."
+]
+},
+{
+"type":"p",
+"hlId":"6ad693",
+"children":[
+"The first postdischarge appointment focuses on changes in clinical status, patient education, medication review and adjustment of dosages, and identification and correction of issues that might lead to worsening of heart failure and readmission. The recommended timing of the first follow-up visit is within 7 to 10 days of hospital discharge; 30 days (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is too late."
+]
+},
+{
+"type":"p",
+"hlId":"9d4e2a",
+"children":[
+"Inadequate diuretic dosage is a common cause of heart failure readmissions. This patient required an increased furosemide dosage to achieve adequate diuresis. This suggests that the previous home diuretic dosage was inadequate, and an increase of at least double that dosage should be considered. Restarting the previous home dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") might be considered for a patient who did not adhere to the medication regimen before hospitalization."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_3_2",
+"objective":{
+"__html":"Prevent heart failure readmission with early follow-up."
+},
+"references":[
+[
+"Hollenberg SM, Warner Stevenson L, Ahmad T, et al. 2019 ACC expert consensus decision pathway on risk assessment, management, and clinical trajectory of patients hospitalized with heart failure: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2019;74:1966-2011. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31526538",
+"target":"_blank"
+},
+"children":[
+"PMID: 31526538"
+]
+},
+" doi:10.1016/j.jacc.2019.08.001"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":14,
+"C":76,
+"D":6,
+"E":0
+},
+"hlIds":[
+"babdb7",
+"e6c01f",
+"86cc94",
+"f55d81",
+"d08c61",
+"9604a0",
+"4a9d89",
+"0547d3",
+"6ad693",
+"9d4e2a"
+]
+}

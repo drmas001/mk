@@ -1,0 +1,329 @@
+{
+"id":"mk19_a_id_q048",
+"number":48,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"efac5b",
+"children":[
+"A 74-year-old man is evaluated in the emergency department for a 24-hour history of headache, stiff neck, fever, and altered mental status."
+]
+},
+{
+"type":"p",
+"hlId":"aa55f5",
+"children":[
+"On physical examination, temperature is 39.1 °C (102.4 °F), blood pressure is 100/68 mm Hg, pulse rate is 124/min, and respiration rate is 17/min. The patient has a score of 12 on the Glasgow Coma Scale. Neurologic examination is nonfocal."
+]
+},
+{
+"type":"p",
+"hlId":"1d33bc",
+"children":[
+"Cerebrospinal fluid studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cell count, cerebrospinal fluid",
+"children":[
+"leukocyte count"
+]
+},
+" of 2354/µL (2354 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L) with 90% neutrophils, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, cerebrospinal fluid",
+"children":[
+"glucose"
+]
+},
+" level of 17 mg/dL (0.9 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, cerebrospinal fluid",
+"children":[
+"protein"
+]
+},
+" level of 295 mg/dL (2950 mg/L)."
+]
+},
+{
+"type":"p",
+"hlId":"7768a0",
+"children":[
+"Gram stain of the cerebrospinal fluid is negative, and a culture is pending."
+]
+},
+{
+"type":"p",
+"hlId":"fd198b",
+"children":[
+"CT of the head without contrast shows no intracranial lesions but does reveal pansinusitis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"52f634",
+"children":[
+"Which of the following is the most appropriate empiric therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Vancomycin, ampicillin, and ceftriaxone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Vancomycin, ampicillin, ceftriaxone, and dexamethasone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Vancomycin and ceftriaxone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vancomycin, cefepime, and acyclovir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"55ccd7",
+"children":[
+"Empiric therapy for bacterial meningitis should include vancomycin, ceftriaxone or cefotaxime, and ampicillin in adult patients older than 50 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"11fa49",
+"children":[
+"Adjunctive dexamethasone is given concomitantly with the first dose of empiric antibiotic therapy for bacterial meningitis but should be discontinued promptly if the cause is not ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+"."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1b5b81",
+"children":[
+"Empiric antibiotic therapy with vancomycin, ampicillin, ceftriaxone, and dexamethasone is most appropriate for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He has a classic presentation of community-acquired bacterial meningitis. Patients typically have an acute presentation with fever, headache, stiff neck, and altered mental status. The cerebrospinal fluid (CSF) profile shows neutrophilic pleocytosis (leukocytes >1000/µL [1000 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L] in two thirds of patients), an elevated protein level (median in bacterial meningitis is 390 mg/dL [3900 mg/L]), and severe hypoglycorrhachia; a high serum leukocyte count is also typical. The most common cause of bacterial meningitis is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+"; sinusitis or otitis media is a clue. In countries such as the United States with a prevalence of greater than 1% of ceftriaxone-resistant pneumococcus, a combination of vancomycin and ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended pending susceptibility results of the isolate; the addition of ampicillin is recommended in immunosuppressed persons and patients older than 50 years to provide coverage for possible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Listeria monocytogenes"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Cefotaxime is also effective against pneumococcus and may be given instead of ceftriaxone. Adjunctive dexamethasone, given concomitantly with the first dose of antibiotic therapy, reduces morbidity and mortality in adults with pneumococcal meningitis in developed countries. In patients with a known cause of bacterial meningitis, dexamethasone treatment should be limited to those with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" meningitis. Dexamethasone should be discontinued promptly if the cause is not ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" because it provides no added benefit in infection with other meningeal pathogens and can increase mortality if the patient has ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"L. monocytogenes"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"7a4a34",
+"children":[
+"Vancomycin and cefepime (or ceftazidime or meropenem) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are indicated in patients with health care–associated ventriculitis and meningitis to provide coverage for possible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus epidermidis"
+]
+},
+". Acyclovir is not indicated because the clinical presentation and CSF profile are not consistent with herpes simplex encephalitis."
+]
+}
+],
+"relatedSection":"mk19_a_id_s1_1_2_2",
+"objective":{
+"__html":"Treat bacterial meningitis empirically."
+},
+"references":[
+[
+"Hasbun R. Update and advances in community acquired bacterial meningitis. Curr Opin Infect Dis. 2019;32:233-238. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31021955",
+"target":"_blank"
+},
+"children":[
+"PMID: 31021955"
+]
+},
+" doi:10.1097/QCO.0000000000000543"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":73,
+"C":5,
+"D":5,
+"E":0
+},
+"hlIds":[
+"efac5b",
+"aa55f5",
+"1d33bc",
+"7768a0",
+"fd198b",
+"52f634",
+"55ccd7",
+"11fa49",
+"1b5b81",
+"7a4a34"
+]
+}

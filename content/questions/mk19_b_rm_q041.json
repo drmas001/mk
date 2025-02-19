@@ -1,0 +1,186 @@
+{
+"id":"mk19_b_rm_q041",
+"number":41,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b3db7d",
+"children":[
+"A 46-year-old woman is evaluated at a follow-up visit to discuss results of bone mineral density testing. She has a 10-year history of myasthenia gravis and is receiving long-term glucocorticoid therapy. Current medications are azathioprine, prednisone, calcium/vitamin D, and pyridostigmine."
+]
+},
+{
+"type":"p",
+"hlId":"e85f70",
+"children":[
+"Dual-energy x-ray absorptiometry shows T-scores of −2.1 at the lumbar spine and −1.9 at the femoral neck, with corrected Fracture Risk Assessment Tool scores of 3.5% at the hip and 17% overall."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alendronate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Calcitonin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Romosozumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Teriparatide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ae41b",
+"children":[
+"Glucocorticoid therapy is a major risk factor for bone loss and increased fracture risk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"09fba9",
+"children":[
+"Patients receiving long-term glucocorticoids should be assessed for bone loss and fracture risk and treated on the basis of the assessment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"23c61f",
+"children":[
+"The most appropriate treatment is alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Glucocorticoid therapy is a major risk factor for bone loss and increased fracture risk. In addition, fractures occur at higher bone mineral density values than in patients with postmenopausal osteoporosis. The risk increases with dosage and duration, but even low dosages of 5 to 7.5 mg/d are associated with increased risk for fracture. Thus, patients receiving long-term glucocorticoids should be assessed for bone loss and fracture risk and treated on the basis of the assessment. Both bone density measurement and glucocorticoid-corrected (addition of 15% to the risk), Fracture Risk Assessment Tool (FRAX)–calculated, 10-year probability can be helpful in this assessment. This patient has a corrected FRAX score for the hip of 3.5%, placing her at a high risk for fracture and above the treatment threshold to prevent hip fracture (≥3% at the hip or ≥20% for major osteoporosis-related fracture). Thus, treatment for glucocorticoid-induced osteoporosis is appropriate. This approach also applies to patients at moderate or intermediate risk for fracture (FRAX risk score for the hip of 1% to 3%); those with a score of 10% to 19% overall would also be a candidate for preventive treatment. Oral bisphosphonates, such as alendronate, are first-line therapy because of their efficacy, cost, availability, and ease of administration. They are preferred in guidelines not only because of cost, safety, and efficacy but also because of a lack of superiority of other osteoporosis medications. Clinical trial data show that both alendronate and risedronate have efficacy in glucocorticoid-induced osteoporosis. For patients who cannot tolerate oral bisphosphonates or have other circumstances precluding their use, intravenous zoledronic acid may be used."
+]
+},
+{
+"type":"p",
+"hlId":"c66008",
+"children":[
+"Calcitonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not typically used to treat or prevent glucocorticoid-induced osteoporosis because efficacy data are lacking and other, more effective drugs are available."
+]
+},
+{
+"type":"p",
+"hlId":"d0464b",
+"children":[
+"Romosozumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a dual anabolic and antiresorptive agent that works by inhibiting sclerostin. No data yet support the use of romosozumab for preventing or treating glucocorticoid-induced osteoporosis."
+]
+},
+{
+"type":"p",
+"hlId":"f71061",
+"children":[
+"Other options are teriparatide (a parathyroid hormone analogue) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and denosumab (a receptor activator of nuclear factor κB [RANK] ligand inhibitor). Teriparatide is the next best option for patients who cannot tolerate bisphosphonates or who continue to sustain fractures while taking bisphosphonates. However, it is not the preferred first choice for this patient. Denosumab is used as a backup to bisphosphonates and teriparatide, primarily because of the increased risk for vertebral fracture after discontinuation."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s2_2_1",
+"objective":{
+"__html":"Treat glucocorticoid-induced osteoporosis with an oral bisphosphonate."
+},
+"references":[
+[
+"Buckley L, Guyatt G, Fink HA, et al. 2017 American College of Rheumatology guideline for the prevention and treatment of glucocorticoid-induced osteoporosis. Arthritis Rheumatol. 2017;69:1521-1537. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28585373",
+"target":"_blank"
+},
+"children":[
+"PMID: 28585373"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":90,
+"B":5,
+"C":3,
+"D":2,
+"E":0
+},
+"hlIds":[
+"b3db7d",
+"e85f70",
+"1054f1",
+"2ae41b",
+"09fba9",
+"23c61f",
+"c66008",
+"d0464b",
+"f71061"
+]
+}

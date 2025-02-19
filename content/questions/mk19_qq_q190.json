@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q190",
+"number":190,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 190",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5038b5",
+"children":[
+"A 71-year-old woman is seen for a preoperative evaluation before total right knee arthroplasty. She is overweight and has knee osteoarthritis. She has no cardiovascular symptoms or risk factors other than age."
+]
+},
+{
+"type":"p",
+"hlId":"8a5b50",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Cardiovascular examination is normal. There is crepitus, decreased range of motion, bony enlargement, and a small effusion of the right knee."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a5826f",
+"children":[
+"Which of the following is the most appropriate preoperative testing?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT coronary angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise stress testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing is necessary"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7a3482",
+"children":[
+"If preoperative evaluation reveals coronary artery disease risk factors, the estimated risk for a major adverse cardiac event should be calculated using a validated risk assessment tool; patients with low calculated cardiovascular risk (<1%) may proceed to surgery without additional evaluation, whereas patients with elevated risk (≥1%) should have functional capacity assessed with a validated tool such as the Duke Activity Status Index score."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a43d7",
+"children":[
+"If the functional capacity of a patient exceeds four metabolic equivalents, the patient may proceed to surgery without further testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a14e4e",
+"children":[
+"No cardiac testing is needed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Guidelines from the American College of Cardiology/American Heart Association recommend first assessing the patient for the presence of coronary artery disease (CAD) risk factors, which may include known CAD, cerebrovascular disease, chronic kidney disease, diabetes mellitus, and heart failure. In the absence of risk factors, the patient can proceed to surgery without additional evaluation. In patients with CAD risk factors, the estimated risk for a major adverse cardiac event should be calculated using a validated risk assessment tool. Patients with low calculated cardiovascular risk (<1%) may proceed to surgery without additional evaluation, whereas patients with elevated risk (≥1%) should have functional capacity assessed. Metabolic equivalents are used to represent a patient's functional capacity based on the intensity of activity the patient can perform. If functional capacity exceeds four metabolic equivalents, the patient may proceed to surgery without further testing. The Duke Activity Status Index score is a standardized and accurate means of estimating functional capacity and outperforms unaided physician judgement, including asking a patient how fast they can walk, or if they can run, climb a hill, or climb stairs."
+]
+},
+{
+"type":"p",
+"hlId":"45d56a",
+"children":[
+"Anatomic assessment of the epicardial coronary arteries can be performed with noninvasive coronary CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or invasive angiography. Both tests require administration of contrast agents and expose the patient to radiation. Coronary angiography is indicated only for patients with severe or unstable CAD or significant ischemia detected by noninvasive testing. It is not indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"bdc1e5",
+"children":[
+"Preoperative cardiac stress testing should be considered in patients at elevated risk for a major adverse cardiac event with functional capacity objectively assessed to not be low risk, but only if the results will change perioperative management. This patient has no indication for stress testing. If stress testing were indicated, exercise stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be a poor choice for a patient with knee osteoarthritis; pharmacologic stress testing would likely be a better choice."
+]
+},
+{
+"type":"p",
+"hlId":"c4d077",
+"children":[
+"Transthoracic echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not an appropriate modality for CAD assessment and is not indicated in this patient. In certain clinical situations, echocardiography may be indicated (such as heart failure with worsening dyspnea, dyspnea of unknown origin, or diagnosed [or suspected] moderate to severe valvular stenosis or regurgitation without echocardiographic assessment in the past year or with a recent change in clinical status); this patient has none of these conditions."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_2_2",
+"objective":{
+"__html":"Assess preoperative risk in a patient at low cardiac risk."
+},
+"references":[
+[
+"Smilowitz NR, Berger JS. Perioperative cardiovascular risk assessment and management for noncardiac surgery: a review. JAMA. 2020;324:279-290. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32692391",
+"target":"_blank"
+},
+"children":[
+"PMID: 32692391"
+]
+},
+" doi:10.1001/jama.2020.7840"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5038b5",
+"8a5b50",
+"a5826f",
+"7a3482",
+"0a43d7",
+"a14e4e",
+"45d56a",
+"bdc1e5",
+"c4d077"
+]
+}

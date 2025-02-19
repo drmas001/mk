@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_nr_q063",
+"number":63,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c95982",
+"children":[
+"A 64-year-old woman is evaluated for a 3-month history of daily headaches of sudden, spontaneous onset. Although the patient awakens each morning without any pain, a headache typically develops within 30 minutes after assuming an upright posture; the pain is dull and localized at the top of the head but becomes more intense and global throughout the day. Bedrest will ease her symptoms, but the headaches typically return when assuming the upright position."
+]
+},
+{
+"type":"p",
+"hlId":"918347",
+"children":[
+"Vital signs and physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"2492b3",
+"children":[
+"A contrast-enhanced MRI of the brain reveals 2 mm of cerebellar tonsillar descent and enhanced diffuse smooth dural thickening. MRIs of the cervical, thoracic, and lumbar spines are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"83a734",
+"children":[
+"Which of the following is the most appropriate treatment of this patient's headaches?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetazolamide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epidural blood patch"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methylprednisolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical suboccipital decompression"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3932e9",
+"children":[
+"Postural headache is a common manifestation of intracranial hypotension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f4e15c",
+"children":[
+"Intracranial hypotension is most appropriately treated with an epidural blood patch procedure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"12fa48",
+"children":[
+"This patient's presentation is most compatible with intracranial hypotension, and the most appropriate treatment is an epidural blood patch (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Headache is the most common symptom of intracranial hypotension. Although this condition occurs most frequently after lumbar puncture, it can develop spontaneously. Headache presentation may be orthostatic, thunderclap, or subacute in nature. As with post–lumbar puncture headache, associated symptoms may include tinnitus, diplopia, neck pain, nausea, photophobia, and phonophobia. Diagnosis can be confirmed by a cerebrospinal fluid (CSF) opening pressure of less than 60 mm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O, but lumbar puncture may introduce another site of potential CSF leakage. Most clinicians rely on the contrast-enhanced brain MRI finding of diffuse nonnodular pachymeningeal enhancement, which is seen in nearly 80% of affected patients. Cerebellar tonsillar descent, subdural fluid collections, decreased ventricular size, and engorgement of the pituitary gland are other common findings. Leaks typically are spinal, with precise site detection made in only 50% of patients by MRI or CT myelography. Those without identifiable sites are empirically treated with “blind” lumbar epidural blood patch (EBP) procedures, and those with definable locations receive “targeted” EBP procedures at the appropriate site."
+]
+},
+{
+"type":"p",
+"hlId":"fae1a5",
+"children":[
+"Acetazolamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the treatment of choice for idiopathic intracranial hypertension. Papilledema is usually present on examination. Enhanced brain MRI with magnetic resonance venography may reveal widening of the optic nerve sheaths or flattening of the posterior optic globes, but is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"578694",
+"children":[
+"There is no evidence of any generalized inflammatory condition or one localized to the central nervous system and, therefore, no role for systemic glucocorticoids, such as methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Nodular or patchy enhancement, not diffuse smooth enhancement, of dura would be anticipated with malignant or inflammatory disorders."
+]
+},
+{
+"type":"p",
+"hlId":"bcba77",
+"children":[
+"Chiari malformations describe a group of disorders that have in common anatomic anomalies of the cerebellum, brainstem, and craniocervical junction, with downward displacement of the cerebellum. Symptoms are related to obstructive hydrocephalus, presence of abnormal eye movements, and cerebellar deficits. The cerebellar tonsillar descent in the presence of dural thickening and enhancement suggests that the finding is secondary to intracranial hypotension and not a Chiari malformation. Surgical suboccipital decompression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is thus not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_2_3",
+"objective":{
+"__html":"Treat headache associated with intracranial hypotension."
+},
+"references":[
+[
+"Kranz P, Gray L, Amrhein T. Spontaneous intracranial hypotension: 10 myths and misperceptions. Headache 2018 Jul;58(7):948-59. Epub 2018 May 14. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29797515",
+"target":"_blank"
+},
+"children":[
+"PMID: 29797515"
+]
+},
+" doi:10.1111/head.13328."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":26,
+"C":9,
+"D":46,
+"E":0
+},
+"hlIds":[
+"c95982",
+"918347",
+"2492b3",
+"83a734",
+"3932e9",
+"f4e15c",
+"12fa48",
+"fae1a5",
+"578694",
+"bcba77"
+]
+}

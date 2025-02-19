@@ -1,0 +1,448 @@
+{
+"id":"mk19_b_hm_q008",
+"number":8,
+"bookId":"hm",
+"correctAnswer":"B",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"68faf1",
+"children":[
+"A 29-year-old woman is evaluated in the emergency department for epistaxis and bleeding gums that began 3 days ago. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"537b60",
+"children":[
+"On physical examination, temperature is 36.7 °C (98.0 °F), blood pressure is 110/80 mm Hg, pulse rate is 120/min, and respiration rate is 22/min. Dried blood is seen in her nose, and gingival bleeding is noted. No lymphadenopathy or hepatosplenomegaly is present. Petechiae are present on the lower extremities."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8ebba5",
+"class":"cell text l",
+"children":[
+"8.9 g/dL (89 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"303a3f",
+"class":"cell text l",
+"children":[
+"14,000/μL (14 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (19% neutrophils, 3% bands, 32% lymphocytes, 15% monocytes, and 31% “atypical” cells)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fd777f",
+"class":"cell text l",
+"children":[
+"8000/μL (8 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"f747d6",
+"children":[
+"The prothrombin time, activated partial thromboplastin time, and INR are elevated; fibrinogen level is low, and fibrin degradation products are elevated."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"mk19_b_hm_mcq_f008",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_hm_mcq_f008"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute lymphoblastic leukemia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Acute promyelocytic leukemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Aplastic anemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Primary myelofibrosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"56e731",
+"children":[
+"Acute promyelocytic leukemia is a distinct variant of acute myeloid leukemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"726e80",
+"children":[
+"Although anemia and thrombocytopenia from marrow infiltration can be associated with any acute leukemia, presentation with disseminated intravascular coagulation is characteristic of acute promyelocytic leukemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b70648",
+"children":[
+"This patient has acute promyelocytic leukemia (APL), a distinct variant of acute myeloid leukemia (AML) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). She presents with signs of a bleeding diathesis. Her prolonged prothrombin and activated partial thromboplastin times, elevated INR, low fibrinogen level, and elevated fibrin degradation products are consistent with disseminated intravascular coagulation (DIC). Although anemia and thrombocytopenia from marrow infiltration can be associated with any acute leukemia, presentation with DIC is unique to APL. In APL, normal leukocyte differentiation is blocked at the promyelocyte stage, which can be detected on the peripheral blood smear. Auer rods can occasionally be seen in any AML but are classic in the APL variant."
+]
+},
+{
+"type":"p",
+"hlId":"066855",
+"children":[
+"Acute lymphoblastic leukemia (ALL) is more common in children and adolescents than in adults (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients present with malaise, thrombocytopenic bleeding, infections, bone pain, or a combination of these symptoms, with a small subset having symptomatic central nervous system involvement at diagnosis. In adults, 75% of ALL is of B-cell lineage; mature B-cell ALL can present as extramedullary disease, including gastrointestinal or testicular involvement. Although ALL can occur in younger adult patients, the association of acute leukemia with DIC most strongly supports the diagnosis of APL."
+]
+},
+{
+"type":"p",
+"hlId":"df29bd",
+"children":[
+"In aplastic anemia, cytopenias are present in all three cell lineages (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Unless an associated hematologic disorder is identified, aplastic anemia is not associated with atypical or abnormal cells in the peripheral blood (myeloblasts, atypical lymphoid cells), as noted in this patient. Most importantly, DIC is not part of the presentation of aplastic anemia."
+]
+},
+{
+"type":"p",
+"hlId":"2f3678",
+"children":[
+"Primary myelofibrosis (PMF) is a clonal myeloid stem cell disorder with characteristic marrow fibrosis and extramedullary hematopoiesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Hematopoietic progenitors are increased in the circulation, providing a leukoerythroblastic picture (teardrop-shaped erythrocytes, nucleated erythrocytes, immature leukocytes). Most patients with PMF have fatigue, weight loss, fever, and chills. Massive splenomegaly is common from extramedullary hematopoiesis and portal hypertension. This patient does not have splenomegaly, and patients with PMF do not present with DIC."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_5_1",
+"objective":{
+"__html":"Diagnose acute promyelocytic leukemia."
+},
+"references":[
+[
+"Döhner H, Estey E, Grimwade D, et al. Diagnosis and management of AML in adults: 2017 ELN recommendations from an international expert panel. Blood. 2017;129:424-447. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27895058",
+"target":"_blank"
+},
+"children":[
+"PMID: 27895058"
+]
+},
+" doi:10.1182/blood-2016-08-733196"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":86,
+"C":0,
+"D":1,
+"E":0
+},
+"figuresContent":{
+"mk19_b_hm_mcq_f008":{
+"id":"mk19_b_hm_mcq_f008",
+"number":8,
+"bookId":"hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"7dffc9b09323e2974c1c77be19d7464b",
+"height":239,
+"width":360,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"68faf1",
+"537b60",
+"a462a3",
+"f9867c",
+"8ebba5",
+"2989c0",
+"303a3f",
+"fcac73",
+"fd777f",
+"f747d6",
+"f3f1a8",
+"413696",
+"56e731",
+"726e80",
+"b70648",
+"066855",
+"df29bd",
+"2f3678"
+]
+}

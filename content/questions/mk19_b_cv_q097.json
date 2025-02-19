@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q097",
+"number":97,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 97",
+"stimulus":[
+{
+"type":"p",
+"hlId":"686c00",
+"children":[
+"A 70-year-old man is evaluated in the emergency department for 3 days of palpitations and dyspnea. New-onset atrial fibrillation is diagnosed. He also has chronic lymphocytic leukemia. He began ibrutinib 1 month ago."
+]
+},
+{
+"type":"p",
+"hlId":"0558ab",
+"children":[
+"On physical examination, pulse rate is 128/min and irregularly irregular. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 95% with the patient breathing ambient air. Other than a rapid, irregular rhythm, the cardiopulmonary examination is normal. Splenomegaly is present. There is no lower extremity edema."
+]
+},
+{
+"type":"p",
+"hlId":"a60107",
+"children":[
+"Laboratory studies show a normal D-dimer level. The initial high-sensitivity cardiac troponin level is normal (<99th percentile upper reference limit). Thyroid-stimulating hormone and free thyroxine levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"c9efd5",
+"children":[
+"ECG shows atrial fibrillation with rapid ventricular response, nonspecific ST-T abnormality, and incomplete right bundle branch block. Echocardiogram shows normal biventricular size and function, normal valvular structure and function, and normal atrial size."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"764dc5",
+"children":[
+"Which of the following is the most likely contributor to the patient's atrial fibrillation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute myocardial infarction"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ibrutinib"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary thromboembolism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyrotoxicosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c40f69",
+"children":[
+"Ibrutinib, a tyrosine kinase inhibitor, is associated with increased rates of atrial fibrillation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"343e4a",
+"children":[
+"The most likely contributor to the patient's atrial fibrillation is ibrutinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Ibrutinib, a tyrosine kinase inhibitor, is an effective treatment for chronic lymphocytic leukemia and various B-cell lymphomas. It has been reported to cause atrial fibrillation in up to 16% of patients, and this can be a therapy-limiting adverse effect. In one meta-analysis, the incidence of ibrutinib-associated atrial fibrillation was 5.77 per 100 person-years, much higher than in the general population. New-onset atrial fibrillation in patients with cancer is associated with increased risk for heart failure and thromboembolism. β-Blockers are usually used safely for rate control. Although diltiazem and verapamil are effective in blocking the atrioventricular node, they are moderate cytochrome P450 3A4 inhibitors, and they may significantly increase plasma levels of ibrutinib through this mechanism. Ibrutinib increases digoxin plasma levels, which may increase the potential for digoxin toxicity."
+]
+},
+{
+"type":"p",
+"hlId":"7bf80c",
+"children":[
+"Myocardial infarction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unlikely. This patient's symptoms have been present for 1 to 2 days. Given the normal troponin level, absence of chest pain, normal left ventricular systolic function without a regional wall motion abnormality, and absence of specific ECG changes, it is unlikely that myocardial infarction is causing the patient's atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"03808d",
+"children":[
+"This patient's Wells score is 2.5 points based on the presence of malignancy and heart rate greater than 100/min, placing him into a moderate-risk group (pulmonary embolism unlikely, by modified Wells criteria). The normal D-dimer level and normal right heart function on echocardiography reduce the clinical probability of thromboembolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"121f22",
+"children":[
+"The patient has normal thyroid-stimulating hormone and free thyroxine levels, making thyrotoxicosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") unlikely."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s12_2",
+"objective":{
+"__html":"Diagnose ibrutinib-related atrial fibrillation."
+},
+"references":[
+[
+"Ganatra S, Sharma A, Shah S, et al. Ibrutinib-associated atrial fibrillation. JACC Clin Electrophysiol. 2018;4:1491-500. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30573111",
+"target":"_blank"
+},
+"children":[
+"PMID: 30573111"
+]
+},
+" doi:10.1016/j.jacep.2018.06.004"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":84,
+"C":8,
+"D":2,
+"E":0
+},
+"hlIds":[
+"686c00",
+"0558ab",
+"a60107",
+"c9efd5",
+"764dc5",
+"c40f69",
+"343e4a",
+"7bf80c",
+"03808d",
+"121f22"
+]
+}

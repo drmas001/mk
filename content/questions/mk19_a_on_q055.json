@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_on_q055",
+"number":55,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ffeb5d",
+"children":[
+"A 66-year-old woman is evaluated following completion of therapy for locally advanced squamous cell carcinoma of the hypopharynx. She was treated with combined cisplatin chemotherapy and irradiation. One month ago, imaging with PET/CT revealed a complete response. She is a former smoker with a 40-pack-year history who quit 7 years ago. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"58e20a",
+"children":[
+"On physical examination, vital signs are normal. She has dry oral mucosa and post-irradiation induration to the right of the neck. No cervical adenopathy is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"095a80",
+"children":[
+"Which of the following imaging tests is most appropriate?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Low-dose CT of the chest in 1 year"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the neck in 3 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET/CT in 3 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional imaging is required"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"667b82",
+"children":[
+"Following an imaging study identifying no active disease after completion of treatment for head and neck cancer, further imaging studies for surveillance purposes are not indicated."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fa103f",
+"children":[
+"Patients with head and neck cancer, especially current or former smokers, should be screened for lung cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c4a1c5",
+"children":[
+"This patient should have a low-dose CT of the chest in 1 year (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). She was diagnosed with locally advanced hypopharynx cancer. As is common in this type of cancer, treatment with combined chemotherapy and irradiation was recommended. She completed this treatment and achieved complete remission. Surveillance for recurrence is now indicated. Standard surveillance consists of physical examination and assessment for symptoms suggestive of recurrence. Physical examination includes in-office laryngoscopy to evaluate the upper aerodigestive tract for both local recurrence and development of second primary cancers. Following an imaging study identifying no active disease after completion of treatment, further imaging studies for surveillance purposes are not indicated. Such testing has not been shown to improve outcomes. Rather, imaging to look for recurrence is based on clinical suspicion of recurrence as directed by signs and symptoms. However, patients diagnosed with head and neck cancer are at risk for second cancers, most notably non–small cell lung cancer. This is especially true in patients aged 50 to 80 years who are current smokers or have quit less than 15 years ago and who have at least a 20-pack-year smoking history. All patients who meet criteria for lung cancer screening should be offered screening with a low-dose CT on an annual basis."
+]
+},
+{
+"type":"p",
+"hlId":"0dc779",
+"children":[
+"PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated in this patient for surveillance purposes because it does not improve outcomes. The same is true for MRI of the neck (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Advanced imaging is reserved for patients with signs or symptoms suggestive of recurrence."
+]
+},
+{
+"type":"p",
+"hlId":"4b42af",
+"children":[
+"Up to 20% of head and neck cancer survivors develop a second primary cancer related to smoking and alcohol exposure. In addition to lifestyle modification, screening for lung cancer should be implemented in individuals at increased risk, rather than no additional imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_on_s7_5",
+"objective":{
+"__html":"Screen for lung cancer in a former smoker diagnosed with head and neck cancer."
+},
+"references":[
+[
+"Chow LQM. Head and neck cancer. N Engl J Med. 2020;382:60-72. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31893516",
+"target":"_blank"
+},
+"children":[
+"PMID: 31893516"
+]
+},
+" doi:10.1056/NEJMra1715715"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":39,
+"B":15,
+"C":28,
+"D":18,
+"E":0
+},
+"hlIds":[
+"ffeb5d",
+"58e20a",
+"095a80",
+"667b82",
+"fa103f",
+"c4a1c5",
+"0dc779",
+"4b42af"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q008",
+"number":8,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f047b",
+"children":[
+"A 52-year-old man is evaluated for 4-week history of left lower extremity weakness that began with tripping on the left foot. He now must lift his knee to clear his foot off the ground. He reports no pain but has mild tingling on the lateral border of his left foot. He has no history of trauma or low back pain. He takes simvastatin for dyslipidemia."
+]
+},
+{
+"type":"p",
+"hlId":"db6724",
+"children":[
+"On physical examination, vital signs are normal. BMI is 27. Weakness on dorsiflexion, eversion of the left foot, and extension of the left big toe are observed. There is mild sensory loss on the lateral border of the left foot. Result of a straight-leg-raise test is negative. Plantar responses are flexor. The rest of the neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"4d1222",
+"children":[
+"Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"creatine kinase"
+]
+},
+" level is normal."
+]
+},
+{
+"type":"p",
+"hlId":"bc56a8",
+"children":[
+"An electromyogram reveals slow velocity of peroneal nerve conduction around the fibular neck. Other lower extremity motor and sensory nerve conduction measurements and needle examination results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Avoid leg crossing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Avoid prolonged standing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue simvastatin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pursue weight loss"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"02db85",
+"children":[
+"Most peroneal mononeuropathies are caused by compression due to frequent crossing of legs, weight loss, or trauma."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"28f270",
+"children":[
+"The most appropriate next step in management is to avoid leg crossing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has focal mononeuropathy of the peroneal nerve. Foot drop can be caused by injury to the peroneal nerve, sciatic nerve, or lumbar L5 nerve root or by a central nervous system lesion. In this patient, the distribution of motor and sensory deficits and the electromyography finding of focal slowing of peroneal nerve conduction around the fibular neck points toward an injury of the peroneal nerve around its most common site of compression around the fibular neck. There is no electromyographic or clinical evidence of injury affecting a more proximal site, and no upper motor neuron findings support a central cause. Most peroneal mononeuropathies are caused by compression due to frequent crossing of legs, weight loss, or trauma. In addition to advising the patient to avoid crossing his legs, stretching exercises to maintain range of motion and use of an ankle orthosis to compensate for foot drop may be considered."
+]
+},
+{
+"type":"p",
+"hlId":"b775be",
+"children":[
+"Pain from sciatic neuropathy, another condition that may sometimes present with isolated foot drop, may be aggravated by prolonged standing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). However, no evidence suggests that this patient has sciatica or that avoidance of prolonged standing would benefit this patient."
+]
+},
+{
+"type":"p",
+"hlId":"9bf7f3",
+"children":[
+"There is no reason to stop simvastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although myalgia is common with statin use, myopathy is rare. This patient has no muscle-related symptoms, and the creatine kinase level is normal. If a statin-related myopathic process was present, the pattern of muscle weakness would be proximal and symmetric, which is not consistent with this patient's findings."
+]
+},
+{
+"type":"p",
+"hlId":"9f4817",
+"children":[
+"This patient's BMI is 27. Although he might realize other health benefits from weight loss, losing weight (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a risk factor for peroneal mononeuropathy and is not indicated in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_2_2_2",
+"objective":{
+"__html":"Treat peroneal mononeuropathy."
+},
+"references":[
+[
+"Hobson-Webb LD, Juel VC. Common entrapment neuropathies. Continuum (Minneap Minn). 2017;23:487-511. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28375915",
+"target":"_blank"
+},
+"children":[
+"PMID: 28375915"
+]
+},
+" doi:10.1212/CON.0000000000000452"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":4,
+"C":8,
+"D":9,
+"E":0
+},
+"hlIds":[
+"8f047b",
+"db6724",
+"4d1222",
+"bc56a8",
+"1a5dcc",
+"02db85",
+"28f270",
+"b775be",
+"9bf7f3",
+"9f4817"
+]
+}

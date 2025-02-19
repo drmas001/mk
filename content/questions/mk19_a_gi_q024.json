@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gi_q024",
+"number":24,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"353660",
+"children":[
+"A 62-year-old man is admitted to the ICU for hematemesis. He has a history of cirrhosis due to alcohol use. He undergoes hemodynamic stabilization and initiation of octreotide and antibiotics. Other current medications are propranolol, spironolactone, and furosemide."
+]
+},
+{
+"type":"p",
+"hlId":"28535c",
+"children":[
+"On physical examination, blood pressure is 104/58 mm Hg, pulse rate is 62/min, and respiration rate is 16/min. Ascites is present. Bowel sounds are normal, and abdomen is not tender."
+]
+},
+{
+"type":"p",
+"hlId":"62f3ed",
+"children":[
+"Endoscopy reveals large varices isolated to the gastric fundus, along the greater curvature of the stomach, that have stigmata of recent bleeding."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal CT with contrast"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Abdominal ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Balloon tamponade"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Band ligation of varices"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ec9251",
+"children":[
+"In patients with gastric varices, contrast-enhanced cross-sectional imaging should be performed to determine the best treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5a77ff",
+"children":[
+"The most appropriate next step in management is abdominal CT with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Gastric varices occur in up to 20% of patients with cirrhosis and can be challenging to manage. Typically, octreotide is administered to reduce portal pressures, and antibiotics are provided to reduce risk for infectious complications of gastrointestinal bleeding. These complications include bacteremia, which can increase morbidity and mortality from variceal bleeding. Treatment options for gastric varices along the greater curvature of the stomach depend on the anatomy of the abdominal vasculature. For isolated gastric varices due to splenic vein thrombosis, splenectomy can be performed to decompress varices. If the portal vein is patent and a suitable splenorenal shunt is available, balloon-occluded retrograde transvenous obliteration of varices can be considered. If the anatomy of the hepatic veins and portal vein branches is favorable, a transjugular intrahepatic portosystemic shunt may be an option. To determine the best therapy, contrast-enhanced cross-sectional imaging is required. Therefore, abdominal CT with contrast is the best next action."
+]
+},
+{
+"type":"p",
+"hlId":"ca916d",
+"children":[
+"Gastric fundal varices are much more frequent in patients with portal vein and/or splenic vein thrombosis, and the finding of these varices should prompt cross-sectional imaging to investigate the presence of such thromboses. Endovascular obliteration is an option in patients with a large gastro- or splenorenal collateral; therefore, cross-sectional vascular imaging with contrast-enhanced CT is preferred over abdominal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") because it would investigate both thrombosis and the presence of such collaterals and would guide management accordingly."
+]
+},
+{
+"type":"p",
+"hlId":"d56762",
+"children":[
+"Balloon tamponade (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") provides only short-term tamponade of bleeding varices. It is best used in unstable patients as a temporizing device while more definitive therapy is pending. In this hemodynamically stable patient, balloon tamponade is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"229dbf",
+"children":[
+"Band ligation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an effective therapy for esophageal varices, as well as varices in the gastric cardia, which extend from the esophagus into the lesser curvature of the stomach. Band ligation is effective in these types of varices because of their predictable anatomy and more superficial location, which permits thorough eradication. In this patient, band ligation is not a good option because varices in the gastric fundus are not amenable to this approach."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_3",
+"objective":{
+"__html":"Evaluate gastric varices in a patient with cirrhosis."
+},
+"references":[
+[
+"Koch D. Update in the management of gastric varices. Curr Opin Gastroenterol. 2016;32:166-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27054775",
+"target":"_blank"
+},
+"children":[
+"PMID: 27054775"
+]
+},
+" doi:10.1097/MOG.0000000000000267"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":1,
+"C":10,
+"D":83,
+"E":0
+},
+"hlIds":[
+"353660",
+"28535c",
+"62f3ed",
+"1a5dcc",
+"ec9251",
+"5a77ff",
+"ca916d",
+"d56762",
+"229dbf"
+]
+}

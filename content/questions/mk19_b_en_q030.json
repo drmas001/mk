@@ -1,0 +1,275 @@
+{
+"id":"mk19_b_en_q030",
+"number":30,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"645589",
+"children":[
+"A 32-year-old woman is evaluated for preconception counseling. She has a history of Cushing disease treated with transsphenoidal resection and irradiation at age 21 years. Her disease is currently in remission; however, 5 years after treatment, she developed secondary hypothyroidism from the pituitary irradiation. Medications are levothyroxine and an oral contraceptive pill."
+]
+},
+{
+"type":"p",
+"hlId":"918347",
+"children":[
+"Vital signs and physical examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"b30a0b",
+"children":[
+"Measurements of 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum cortisol and free urinary cortisol are within the normal range. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"Free thyroxine"
+]
+},
+" is 1.0 ng/dL (12.9 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add liothyronine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue levothyroxine dose"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase levothyroxine dose"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Measure thyroid-stimulating hormone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a17b1c",
+"hvc":true,
+"children":[
+"In secondary hypothyroidism, measurement of thyroid-stimulating hormone should not be performed because it cannot be used to monitor therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2e6d2e",
+"hvc":true,
+"children":[
+"In secondary hypothyroidism, the levothyroxine dose should be adjusted based on the free thyroxine level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0a719b",
+"children":[
+"The most appropriate management is to increase the levothyroxine dose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has secondary hypothyroidism related to previous pituitary irradiation. Because secondary hypothyroidism is caused by an inability to produce thyroid-stimulating hormone (TSH), measurement of this hormone cannot be used to monitor therapy. This patient's levothyroxine dose should be adjusted based on the free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") level, regardless of the TSH. The free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" level should be maintained in the mid to upper half of the normal range. After an adjustment in levothyroxine dose, the free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" level can be rechecked in 2 to 3 weeks. Additionally, because this patient is considering pregnancy, adequate levothyroxine replacement is imperative for a healthy pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"d5c413",
+"children":[
+"Evidence is insufficient to support the use of liothyronine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in primary hypothyroidism, and there is no evidence for the use of liothyronine in secondary hypothyroidism. Furthermore, liothyronine does not cross the placenta and is an appropriate treatment for a woman planning pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"5a6965",
+"children":[
+"Continuing the same dose of levothyroxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not the best management for this patient. Her current free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" level is at the lower limit of the normal range but should be maintained in the mid to upper half of the normal range. Hypothyroidism in pregnancy is associated with increases in miscarriage, premature birth, low birth weight, and decreased infant neurocognitive function."
+]
+},
+{
+"type":"p",
+"hlId":"d97502",
+"children":[
+"Measurement of TSH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be performed because it cannot be used to monitor therapy, and dosing based on TSH level can lead to underdosing. Instead, free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" should be used to monitor dose adequacy. Although it takes 6 to 8 weeks for TSH to accurately reflect thyroid hormone status in primary hypothyroidism, free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" levels can be checked 2 to 3 weeks after a dose change to assess for adequacy in secondary hypothyroidism."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_4_3",
+"objective":{
+"__html":"Treat secondary hypothyroidism."
+},
+"references":[
+[
+"de Carvalho GA, Paz-Filho G, Mesa Junior C, et al. Management of endocrine disease: pitfalls on the replacement therapy for primary and central hypothyroidism in adults. Eur J Endocrinol. 2018;178:R231-R244. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29490937",
+"target":"_blank"
+},
+"children":[
+"PMID: 29490937"
+]
+},
+" doi:10.1530/EJE-17-0947"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":32,
+"C":43,
+"D":22,
+"E":0
+},
+"hlIds":[
+"645589",
+"918347",
+"b30a0b",
+"cb2b54",
+"a17b1c",
+"2e6d2e",
+"0a719b",
+"d5c413",
+"5a6965",
+"d97502"
+]
+}

@@ -1,0 +1,261 @@
+{
+"id":"mk19_a_id_q002",
+"number":2,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fbd431",
+"children":[
+"A 21-year-old man is concerned about a sexually transmitted infection. Six weeks ago, he had unprotected sexual encounters (oral and vaginal sex) with a new female partner. He reports no symptoms. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"8f7e42",
+"children":[
+"On physical examination, vital signs are normal. No lymphadenopathy or pharyngeal erythema or exudate is noted. No genital lesions or other rashes are present."
+]
+},
+{
+"type":"p",
+"hlId":"27840f",
+"children":[
+"Nucleic acid amplification testing (NAAT) of a pharyngeal swab is positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria gonorrhoeae"
+]
+},
+" and negative for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+". NAAT of a urine sample is negative for chlamydia and gonorrhea. HIV testing and syphilis serology are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cefixime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ceftriaxone and azithromycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ceftriaxone and doxycycline"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Cefuroxime"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4e627f",
+"children":[
+"A detailed sexual history is important to obtain so that all potential sites of exposure can be screened for sexually transmitted infections."
+]
+},
+{
+"type":"keypoint",
+"hlId":"760844",
+"children":[
+"The recommended treatment for pharyngeal or genital gonorrhea is a single dose of intramuscular ceftriaxone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"52f0ce",
+"children":[
+"The patient has pharyngeal gonorrhea and should be treated with ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He had unprotected sexual contact with a new partner; a detailed sexual history is necessary so that all potential sites of exposure can be screened for sexually transmitted infections (STIs). Infection may be asymptomatic. For screening and diagnosis, nucleic acid amplification testing (NAAT) is preferred. Testing for coinfections, specifically ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+", should also be performed at the same time. Based on this patient's history, NAAT for gonorrhea and chlamydia from a first-catch urine sample and a pharyngeal swab would be indicated. The recommended treatment for pharyngeal or genital gonorrhea is a single dose of intramuscular ceftriaxone."
+]
+},
+{
+"type":"p",
+"hlId":"9aa68a",
+"children":[
+"The CDC reports no reliable alternative treatments for pharyngeal gonorrhea. For persons with a history of β-lactam allergy, a thorough assessment of the reaction is recommended. For persons with a documented severe reaction to ceftriaxone, consultation with an infectious disease specialist for an alternate treatment is recommended. Cefixime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or cefuroxime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") cannot be recommended for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"2db323",
+"children":[
+"The CDC recommends ceftriaxone monotherapy for treatment of uncomplicated gonorrhea of the cervix, urethra, rectum, and pharynx because ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N. gonorrhoeae"
+]
+},
+" remains susceptible to ceftriaxone, azithromycin resistance is increasing, and thoughtful antimicrobial prescribing supports limiting azithromycin use (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"d1b867",
+"children":[
+"The preferred treatment for uncomplicated gonorrhea is ceftriaxone monotherapy. The addition of doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated only if chlamydia infection has not been excluded; the preferred treatment includes a single dose of ceftriaxone plus doxycycline for 7 days. During pregnancy, a single oral dose of azithromycin should replace doxycycline. This patient's NAAT was negative for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. trachomatis"
+]
+},
+", making combination therapy unnecessary."
+]
+}
+],
+"relatedSection":"mk19_a_id_s9_3",
+"objective":{
+"__html":"Treat pharyngeal gonorrhea."
+},
+"references":[
+[
+"St Cyr S, Barbee L, Workowski KA, et al. Update to CDC's treatment guidelines for gonococcal infection, 2020. MMWR Morb Mortal Wkly Rep. 2020;69:1911-1916. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332296",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332296"
+]
+},
+" doi:10.15585/mmwr.mm6950a6"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":40,
+"C":39,
+"D":19,
+"E":1
+},
+"hlIds":[
+"fbd431",
+"8f7e42",
+"27840f",
+"1054f1",
+"4e627f",
+"760844",
+"52f0ce",
+"9aa68a",
+"2db323",
+"d1b867"
+]
+}

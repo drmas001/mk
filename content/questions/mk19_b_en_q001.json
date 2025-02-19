@@ -1,0 +1,293 @@
+{
+"id":"mk19_b_en_q001",
+"number":1,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6d7403",
+"children":[
+"An 81-year-old man is evaluated for a 3-month history of fatigue, constipation, cognitive symptoms, and cold intolerance. He has gained 4.5 kg (10.0 lb) during the past year. Medical history is significant for coronary artery disease. Medications are rosuvastatin, lisinopril, metoprolol, and aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"aa66ad",
+"children":[
+"On physical examination, pulse rate is 54/min. Weight is 65 kg (143.0 lb). The thyroid is firm but not enlarged, the skin is cool and dry, and his hair is coarse. Deep tendon reflexes are delayed."
+]
+},
+{
+"type":"p",
+"hlId":"70b090",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of 25 µU/mL (25 mU/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 0.5 ng/dL (6.5 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Levothyroxine, 25 μg/d"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Levothyroxine, 100 μg/d"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid, desiccated, 60 mg/d"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Triiodothyronine, 50 μg/d"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"64e888",
+"children":[
+"Thyroid hormone replacement with levothyroxine is the treatment of choice for thyroid hormone deficiency."
+]
+},
+{
+"type":"keypoint",
+"hlId":"964eb8",
+"children":[
+"Beginning a full replacement dose of levothyroxine (1.6 μg/kg lean body weight) is appropriate for most patients with overt hypothyroidism, except in older adults and patients with cardiovascular disease, for whom lower initial doses (25-50 μg/d) are recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"64625c",
+"children":[
+"The most appropriate treatment is levothyroxine, 25 μg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has overt primary hypothyroidism. He has classic symptoms of fatigue, constipation, cold intolerance, cognitive symptoms, and dry hair and skin with physical findings of delayed deep tendon reflexes and bradycardia (although he is taking a β-blocker). Levothyroxine is recommended as the preparation of choice for the treatment of hypothyroidism because of its efficacy in resolving the symptoms of hypothyroidism, long-term evidence of benefits, favorable adverse effect profile, ease of administration, good intestinal absorption, long serum half-life, and low cost. The treatment goals are to normalize serum thyroid-stimulating hormone (TSH) (in primary hypothyroidism) or free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") (in central hypothyroidism) and to resolve signs and symptoms of hypothyroidism."
+]
+},
+{
+"type":"p",
+"hlId":"dcd1ad",
+"children":[
+"Beginning a full replacement dose (1.6 μg/kg lean body weight), which for this patient would be levothyroxine at 100 μg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is appropriate for most patients with overt hypothyroidism; however, in older adults and patients with cardiovascular disease, lower initial doses (25-50 μg/d) are recommended. Thyroid hormone therapy, with its inotropic and chronotropic effects on the heart, is a potential cause of angina in patients with severe cardiovascular disease. This risk is the reason for starting patients with low doses of thyroid hormone replacement, and increasing the dose slowly. Assessment of the adequacy of treatment should be done with a repeat serum TSH level at least 6 weeks after initiation or change in dose."
+]
+},
+{
+"type":"p",
+"hlId":"d1db9d",
+"children":[
+"Studies of hypothyroidism treatment have failed to show clear benefit for triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") replacement alone, such as T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" at 50 μg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for this patient, or in combination with levothyroxine, including desiccated thyroid at 60 mg/d (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"-containing compounds are also not recommended because of their short half-life, resulting in nonphysiologic T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" spikes. In addition, T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" is the active hormone, and its use may circumvent the normal regulation of deiodination of T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" to T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", increasing the risk for overdosage and cardiac effects. T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" may be used, for a short time, to minimize hypothyroid symptoms in patients with thyroid cancer who are undergoing thyroid hormone withdrawal in preparation for radioactive iodine ablation."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_2_3",
+"objective":{
+"__html":"Treat hypothyroidism in an older adult patient with coronary artery disease."
+},
+"references":[
+[
+"Hennessey JV. The emergence of levothyroxine as a treatment for hypothyroidism. Endocrine. 2017;55:6-18. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27981511",
+"target":"_blank"
+},
+"children":[
+"PMID: 27981511"
+]
+},
+" doi:10.1007/s12020-016-1199-8"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":79,
+"B":20,
+"C":1,
+"D":1,
+"E":0
+},
+"hlIds":[
+"6d7403",
+"aa66ad",
+"70b090",
+"1054f1",
+"64e888",
+"964eb8",
+"64625c",
+"dcd1ad",
+"d1db9d"
+]
+}

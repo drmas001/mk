@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_nr_q040",
+"number":40,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c16484",
+"children":[
+"A 31-year-old man is evaluated for a 5-mm saccular aneurysm in the anterior communicating artery found incidentally on a magnetic resonance angiogram of the head obtained to investigate new-onset trigeminal neuralgia. The patient is otherwise asymptomatic and has no additional medical problems. His only medication is carbamazepine."
+]
+},
+{
+"type":"p",
+"hlId":"8fe9a9",
+"children":[
+"On physical examination, vital signs, general physical and neurologic examinations are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aneurysm clipping"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aneurysm coiling"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Catheter-based angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Serial magnetic resonance angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"14d808",
+"hvc":true,
+"children":[
+"Risk for rupture at 5 years is low for unruptured intracranial arterial aneurysms less than 7 mm in the posterior circulation and less than 12 mm in the anterior circulation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"38da0e",
+"hvc":true,
+"children":[
+"Annual noninvasive imaging is recommended in patients with an unruptured aneurysm."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"02bf4c",
+"children":[
+"The most appropriate management is serial magnetic resonance angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This patient has an unruptured intracranial arterial aneurysm that is less than 12 mm in the anterior circulation (anterior cerebral, middle cerebral, and internal carotid arteries). Such aneurysms are associated with a low risk for rupture at 5 years. Aneurysms that are less than 7 mm in the posterior circulation (posterior communicating and basilar arteries) have a similarly low risk for rupture. Factors associated with increased risk for rupture include rapid growth detected over serial imaging, active tobacco use, and uncontrolled hypertension. Other predictors of aneurysmal rupture that should prompt surgical consideration include a previous aneurysmal subarachnoid hemorrhage, rapid aneurysm growth, or the presence of cranial nerve palsy. Annual noninvasive imaging is recommended in patients with an unruptured aneurysm. CT or MRI angiography can be considered for serial imaging because they are both noninvasive, with CT usually performed in patients who cannot undergo MRI. Additional noninvasive testing on a yearly basis should be performed to track aneurysm growth, which may be a predictor for rupture."
+]
+},
+{
+"type":"p",
+"hlId":"d7e685",
+"children":[
+"Aneurysm clipping and coiling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A and B"
+]
+},
+") are not indicated because this patient's risk for rupture is low, and the associated neurologic disability and morbidity with intervention are high. In patients with a ruptured aneurysm, neurosurgical clipping versus endovascular coiling has similar success at occlusion of the aneurysm, and the choice of one modality over another is dictated by aneurysm shape and location and by operator experience."
+]
+},
+{
+"type":"p",
+"hlId":"68c10d",
+"children":[
+"Because it is invasive, catheter-based angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not routinely indicated for imaging of aneurysms unless further treatment is planned on the basis of features that could help predict rupture. CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is also incorrect because an additional test is not likely to reveal a change in the size of the aneurysm, and CT is associated with risks from radiation and contrast medium."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_5_1",
+"objective":{
+"__html":"Manage a low-risk intracranial aneurysm."
+},
+"references":[
+[
+"Thompson BG, Brown RD Jr, Amin-Hanjani S, et al; American Heart Association Stroke Council, Council on Cardiovascular and Stroke Nursing, and Council on Epidemiology and Prevention. Guidelines for the Management of Patients With Unruptured Intracranial Aneurysms: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2015;46:2368-400. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26089327",
+"target":"_blank"
+},
+"children":[
+"PMID: 26089327"
+]
+},
+" doi:10.1161/STR.0000000000000070"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":9,
+"B":21,
+"C":8,
+"D":7,
+"E":55
+},
+"hlIds":[
+"c16484",
+"8fe9a9",
+"cb2b54",
+"14d808",
+"38da0e",
+"02bf4c",
+"d7e685",
+"68c10d"
+]
+}

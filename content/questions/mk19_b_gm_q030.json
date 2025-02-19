@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_gm_q030",
+"number":30,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5c6fbd",
+"children":[
+"A 69-year-old woman is seen for a preoperative medical evaluation before total right hip arthroplasty. Medical history is significant for hypertension, degenerative joint disease, and hypothyroidism. There has been no recent change in her clinical status or medications. Review of systems is negative. Medications are levothyroxine, chlorthalidone, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"18d10b",
+"children":[
+"On physical examination, vital signs are normal. BMI is 22. There is restricted and painful range of right hip motion. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"48cb41",
+"children":[
+"Two months ago, thyroid-stimulating hormone measurement and serum electrolytes were normal. No other laboratory findings are available."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ed691c",
+"children":[
+"Which of the following is the most appropriate preoperative laboratory testing for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coagulation studies and platelet count"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hemoglobin and serum creatinine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid-stimulating hormone and free thyroxine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urinalysis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0de606",
+"hvc":true,
+"children":[
+"Urinalysis is not indicated before joint arthroplasty in asymptomatic patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a6c1dd",
+"hvc":true,
+"children":[
+"Patients whose laboratory test results in the past 4 months were normal and whose clinical status is stable do not need repeat testing before surgery."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6896c3",
+"children":[
+"The most appropriate preoperative laboratory testing for this patient is hemoglobin and serum creatinine measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Preoperative laboratory testing is primarily driven by patient-related factors. Overtesting in the preoperative period is common and leads to higher costs and additional downstream testing, which can cause harm. Preoperative hemoglobin testing is indicated in a patient with signs or symptoms suggestive of anemia, recent blood loss, use of medications that could affect hematopoiesis, or anticipated significant blood loss. Patient-related factors that may drive preoperative serum creatinine testing include hypertension, chronic kidney disease, diabetes, cardiac disease, and medications that affect kidney function. Total hip arthroplasty is associated with significant blood loss, and establishing the patient's baseline hemoglobin level will be helpful. This patient has hypertension and is taking lisinopril, both of which can alter kidney function, and serum creatinine measurement is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"fee898",
+"children":[
+"In all patients undergoing surgery, a careful preoperative bleeding history, including a family history, should be obtained. Coagulation studies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are indicated in patients taking anticoagulants, those with known or suspected liver dysfunction, or those with a personal or family history suggestive of abnormal bleeding. A platelet count is reasonable in patients with a history of bleeding diathesis, those with a myeloproliferative disorder, those taking myelotoxic medications, or those with cirrhosis. This patient does not have indications for coagulation studies or platelet count."
+]
+},
+{
+"type":"p",
+"hlId":"58aa93",
+"children":[
+"This patient has been receiving thyroid hormone replacement, and her thyroid-stimulating hormone (TSH) level was normal 2 months ago. Patients whose test results in the past 4 months were normal and have a stable clinical status do not need repeated testing before surgery; a free serum thyroxine level is unnecessary in a patient with a normal TSH level and on a stable dose of levothyroxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"62e700",
+"children":[
+"There is little evidence that treatment of asymptomatic bacteriuria will prevent postsurgical prosthetic joint infection, and it is not indicated. Inappropriate treatment of asymptomatic bacteriuria is a major driver of antimicrobial resistance, particularly in health care facilities. Treatment of asymptomatic bacteriuria is, however, indicated in patients scheduled to undergo an invasive procedure involving the urinary tract. Urinalysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in this asymptomatic patient undergoing orthopedic surgery is unnecessary."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_1_1",
+"objective":{
+"__html":"Obtain appropriate preoperative laboratory testing."
+},
+"references":[
+[
+"Edwards AF, Forest DJ. Preoperative laboratory testing. Anesthesiol Clin. 2018;36:493-507. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30390774",
+"target":"_blank"
+},
+"children":[
+"PMID: 30390774"
+]
+},
+" doi:10.1016/j.anclin.2018.07.002"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":24,
+"B":66,
+"C":5,
+"D":5,
+"E":0
+},
+"hlIds":[
+"5c6fbd",
+"18d10b",
+"48cb41",
+"ed691c",
+"0de606",
+"a6c1dd",
+"6896c3",
+"fee898",
+"58aa93",
+"62e700"
+]
+}

@@ -1,0 +1,235 @@
+{
+"id":"mk19_b_cv_q107",
+"number":107,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 107",
+"stimulus":[
+{
+"type":"p",
+"hlId":"720e7d",
+"children":[
+"A 69-year-old woman is evaluated during a follow-up visit 7 months after coronary stent placement for non–ST-elevation myocardial infarction. History is also notable for paroxysmal atrial fibrillation, hypertension, and gastrointestinal bleeding due to diverticulosis 5 years ago. Medications are aspirin, clopidogrel, rivaroxaban, metoprolol, lisinopril, and rosuvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"7c2bb2",
+"children":[
+"On physical examination, vital signs are normal. The patient weighs 80 kg (176.4 lb). Bruising is present on the arms and legs. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"3058d3",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 1.0 mg/dL (88.4 μmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue rivaroxaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch rivaroxaban to reduced-dose apixaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch rivaroxaban to warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"252fb1",
+"hvc":true,
+"children":[
+"Among patients with atrial fibrillation who have undergone percutaneous coronary intervention for acute coronary syndrome, double therapy with clopidogrel or ticagrelor plus a direct oral anticoagulant is recommended over triple therapy with an oral anticoagulant, aspirin, and P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor to reduce the risk for bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2bde9e",
+"children":[
+"The most appropriate management is to discontinue aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is currently treated with triple therapy with an oral anticoagulant and dual antiplatelet therapy to prevent stroke in atrial fibrillation (AF) and recurrent acute coronary syndrome, respectively. Each of these drugs is the cornerstone of preventive therapy for the respective disease processes; however, together they significantly increase the risk for bleeding. This patient is being evaluated 7 months after coronary stent placement, and she has a history of gastrointestinal bleeding. It is reasonable to discontinue aspirin to reduce the risk for bleeding associated with triple therapy, as several trials have demonstrated the safety and efficacy of double therapy with an oral anticoagulant and a second- or third-generation P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor, such as clopidogrel."
+]
+},
+{
+"type":"p",
+"hlId":"2f4e83",
+"children":[
+"This patient's CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score is 4 (1 point each for age 65-74 years, female sex, hypertension, and coronary artery disease), putting her at substantial risk for AF-related stroke. Although dual antiplatelet therapy may be sufficient to prevent recurrent acute coronary syndrome, it is insufficient therapy to prevent stroke. Therefore, discontinuation of rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is inappropriate."
+]
+},
+{
+"type":"p",
+"hlId":"a6c73e",
+"children":[
+"Although switching from rivaroxaban to reduced-dose apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may reduce this patient's risk for bleeding, this strategy has two drawbacks. First, triple therapy with reduced-dose apixaban may not be associated with a lower bleeding risk than dual therapy with rivaroxaban plus clopidogrel. Second, the reduced dose of apixaban for stroke prevention in AF is indicated among patients with at least two of the following three criteria: age 80 years or older, weight less than 60 kg (132.3 lb), and serum creatinine level of 1.5 mg/dL or higher (≥132.6 μmol/L). She does not fulfill these criteria and will not be adequately treated to prevent AF-related stroke with reduced-dose apixaban."
+]
+},
+{
+"type":"p",
+"hlId":"cab9ee",
+"children":[
+"Switching rivaroxaban to warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is more likely to increase her bleeding risk, not decrease it, without significant improvement in clinical benefit in terms of stroke prevention. Of more importance, switching from one anticoagulant to another does not address the burden of triple therapy in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6_3_1_5",
+"objective":{
+"__html":"Treat a patient with atrial fibrillation and coronary artery disease."
+},
+"references":[
+[
+"January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2019;74:104-132. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30703431",
+"target":"_blank"
+},
+"children":[
+"PMID: 30703431"
+]
+},
+" doi:10.1016/j.jacc.2019.01.011"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":65,
+"B":11,
+"C":22,
+"D":2,
+"E":0
+},
+"hlIds":[
+"720e7d",
+"7c2bb2",
+"3058d3",
+"cb2b54",
+"252fb1",
+"2bde9e",
+"2f4e83",
+"a6c73e",
+"cab9ee"
+]
+}

@@ -1,0 +1,505 @@
+{
+"id":"mk19_b_hm_q071",
+"number":71,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f25180",
+"children":[
+"A 69-year-old man is evaluated for increasing fatigue and dyspnea of 8 months' duration. In the past 2 weeks, he has developed shortness of breath at rest. He reports no other symptoms. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ea5083",
+"children":[
+"On physical examination, temperature is 36.5 °C (97.7 °F), blood pressure is 140/80 mm Hg, pulse rate is 115/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 95% breathing ambient air. No bruising, petechia, lymphadenopathy, or hepatosplenomegaly is noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0bf0ff",
+"class":"cell text l",
+"children":[
+"7.6 g/dL (76 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"87bae8",
+"class":"cell text l",
+"children":[
+"2900/μL (2.9 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (37% neutrophils, 42% lymphocytes, and 21% monocytes)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"42dff3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular volume",
+"children":[
+"Mean corpuscular volume"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"458a12",
+"class":"cell text l",
+"children":[
+"105 fL"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e7710b",
+"class":"cell text l",
+"children":[
+"90,000/μL (90 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"655561",
+"children":[
+"Vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" and folate levels, coagulation tests, an HIV test, and routine chemistries are normal."
+]
+},
+{
+"type":"p",
+"hlId":"5ef20b",
+"children":[
+"The peripheral blood smear shows macrocytic erythrocytes and dysplastic neutrophils."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythropoietin level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>JAK2</i> mutation testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Parvovirus B19 DNA polymerase chain reaction"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f0e08e",
+"children":[
+"Myelodysplastic syndrome is a clonal stem cell disorder with ineffective hematopoiesis leading to dysplastic, hypercellular bone marrow and peripheral blood cytopenias."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ff98de",
+"children":[
+"Bone marrow biopsy is necessary to diagnose myelodysplastic syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"67ff18",
+"children":[
+"The most appropriate diagnostic test to perform next is bone marrow biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient most likely has a myelodysplastic syndrome (MDS), a clonal stem cell disorder with ineffective hematopoiesis leading to dysplastic bone marrow and peripheral blood cytopenias. The developing trilineage cytopenia supports the diagnosis of MDS. No circulating blasts are present, making a hyperproliferative disorder such as a leukemia or myeloproliferate neoplasm (MPN) less likely. Other reversible causes of dysplasia that must be ruled out include vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+", folate, and copper deficiency; alcohol consumption; medications; and infections such as HIV. The best way to further evaluate symptomatic anemia or pancytopenia and to assess this patient's prognosis is to perform a bone marrow biopsy, which will confirm the histologic diagnosis and provide prognostic information."
+]
+},
+{
+"type":"p",
+"hlId":"07e6da",
+"children":[
+"Testing the erythropoietin level is not useful for diagnostic purposes but can be used after diagnosis to predict response to erythropoietin-based therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Erythropoietin deficiency, often associated with chronic kidney disease or acute inflammation, is associated with normocytic anemia; leukocyte and platelet counts are typically normal."
+]
+},
+{
+"type":"p",
+"hlId":"9a150d",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" mutation testing would be used to evaluate for suspected polycythemia vera or an associated MPN such as essential thrombocythemia or, more rarely, myelofibrosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, this patient has cytopenias rather than elevated cell counts, no splenomegaly, and no systemic symptoms that would support the presence of an MPN. Teardrop cells and nucleated erythrocytes would be expected on the blood smear of patients with myelofibrosis."
+]
+},
+{
+"type":"p",
+"hlId":"25f2d6",
+"children":[
+"Parvovirus B19 DNA polymerase chain reaction is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Parvovirus B19 is cytotoxic to the erythrocyte precursors in the bone marrow and can cause pure red cell aplasia (PRCA). Parvovirus infection does not usually cause clinically significant anemia in healthy patients. However, patients with chronic hemolysis (such as sickle cell anemia) can have significant anemia with a decreased reticulocyte count. PRCA is not associated with cytopenias in other cell lines or with the appearance of dysplastic cells on the peripheral blood smear as seen in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_4",
+"objective":{
+"__html":"Diagnose myelodysplastic syndrome."
+},
+"references":[
+[
+"Cazzola M. Myelodysplastic syndromes. N Engl J Med. 2020;383:1358-1374. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32997910",
+"target":"_blank"
+},
+"children":[
+"PMID: 32997910"
+]
+},
+" doi:10.1056/NEJMra1904794"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":5,
+"C":8,
+"D":7,
+"E":0
+},
+"hlIds":[
+"f25180",
+"ea5083",
+"a462a3",
+"f9867c",
+"0bf0ff",
+"2989c0",
+"87bae8",
+"42dff3",
+"458a12",
+"fcac73",
+"e7710b",
+"655561",
+"5ef20b",
+"ab9d96",
+"f0e08e",
+"ff98de",
+"67ff18",
+"07e6da",
+"9a150d",
+"25f2d6"
+]
+}

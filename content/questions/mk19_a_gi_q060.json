@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_gi_q060",
+"number":60,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8de6dd",
+"children":[
+"A 55-year-old man is evaluated at follow-up for iron deficiency anemia and positive result on stool guaiac testing. Despite excellent preparation and visualization, upper endoscopy and colonoscopy performed last week did not find the source of bleeding. He has no melena, hematochezia, or localizing symptoms. He has no other medical conditions and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"3b4e46",
+"children":[
+"Vital signs and other findings on physical examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Barium small-bowel follow-through"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tagged red cell scintigraphy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Video capsule endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fb7611",
+"children":[
+"For evaluating stable patients suspected of having small-bowel bleeding, video capsule endoscopy is the preferred test after nondiagnostic upper endoscopy and colonoscopy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e34086",
+"children":[
+"The most appropriate diagnostic test to perform next is video capsule endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The type of lesion responsible for small bowel bleeding depends on patient age but not sex or ethnicity. Patients younger than 40 years are likely to have small-bowel bleeding due to inflammatory bowel disease, Dieulafoy lesions, neoplasia, Meckel diverticulum, or a polyposis syndrome. Patients older than 40 years are likely to have bleeding due to angiodysplasia, Dieulafoy lesions, neoplasia, or NSAID-related ulcers. If a bleeding source is not identified on initial endoscopy and colonoscopy, second-look upper endoscopy or colonoscopy should be performed if the initial studies were of low quality. Push enteroscopy may be pursued in lieu of endoscopy to visualize the distal duodenum and proximal jejunum. Repeat colonoscopy should include intubation of the terminal ileum. This patient is suspected of having small-bowel bleeding as the source of his iron deficiency anemia, given the lack of a source on high-quality upper endoscopy and colonoscopy. This bleeding can be further characterized as occult given the absence of overt signs of gastrointestinal bleeding, including melena and hematochezia. Video capsule endoscopy noninvasively evaluates the entire small bowel. This test uses a nondigestible wireless capsule camera that is swallowed or placed endoscopically. Capsule endoscopy allows noninvasive evaluation of the entire small bowel in 79% to 90% of patients, with a diagnostic yield of 38% to 83% in patients suspected of having small-bowel bleeding. The American College of Gastroenterology has recommended it as a first-line procedure for further evaluation of the small bowel after upper and lower gastrointestinal sources of occult gastrointestinal bleeding have been excluded. Alternatively, in uncomplicated asymptomatic patients with iron deficiency anemia and negative bidirectional endoscopy, a trial of initial iron supplementation over the routine use of video capsule endoscopy is conditionally suggested by the American Gastroenterological Association."
+]
+},
+{
+"type":"p",
+"hlId":"905118",
+"children":[
+"CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and tagged red cell scintigraphy (technetium-99m–labeled red cell scintigraphy) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") require active bleeding to be effective in identifying a source for small-bowel bleeding (bleeding rates of 0.3 mL/min for CT angiography and 0.1-0.2 mL/min for tagged red cell scintigraphy). This patient has no signs of active bleeding; therefore, neither CT angiography nor a tagged red cell scintigraphy would be effective in identifying a bleeding source in the small bowel."
+]
+},
+{
+"type":"p",
+"hlId":"9c7945",
+"children":[
+"Barium examinations of the small bowel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") have demonstrated a low yield (only 3% to 17%) in identifying a source of suspected small-bowel bleeding and are no longer recommended for this purpose."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_4_2",
+"objective":{
+"__html":"Diagnose small-bowel bleeding."
+},
+"references":[
+[
+"Ko CW, Siddique SM, Patel A, et al. AGA clinical practice guidelines on the gastrointestinal evaluation of iron deficiency anemia. Gastroenterology. 2020;159:1085-1094. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32810434",
+"target":"_blank"
+},
+"children":[
+"PMID: 32810434"
+]
+},
+" doi:10.1053/j.gastro.2020.06.046"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":12,
+"D":81,
+"E":0
+},
+"hlIds":[
+"8de6dd",
+"3b4e46",
+"ab9d96",
+"fb7611",
+"e34086",
+"905118",
+"9c7945"
+]
+}

@@ -1,0 +1,200 @@
+{
+"id":"mk19_qq_q062",
+"number":62,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9a31d7",
+"children":[
+"A 79-year-old man is evaluated for a 1-week history of increasing pain in the right foot. He sustained a nonhealing laceration on the plantar surface of the great toe 1 month ago. He has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"54494d",
+"children":[
+"Vital signs are normal. A 1- × 1-cm ulcer associated with tenderness and warmth is seen directly below the proximal first metatarsal bone. Probe-to-bone test is negative. Complete blood count is normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" is 50 mm/h."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e9af2a",
+"children":[
+"Which of the following is the most appropriate initial imaging test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Gallium scan"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Plain radiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d6bb62",
+"children":[
+"Because of its low cost and specificity, plain radiography is recommended as an initial imaging test for suspected osteomyelitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b1c31f",
+"children":[
+"In patients with unremarkable plain radiographs in the presence of high clinical suspicion for osteomyelitis, MRI is the preferred imaging study."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"413595",
+"children":[
+"The most appropriate imaging test is plain radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The clinical hallmarks of acute osteomyelitis, namely local pain and fever, are often absent in patients with chronic contiguous osteomyelitis, necessitating the use of radiographic studies to confirm the diagnosis. Plain radiography is not adequately sensitive to exclude a diagnosis of osteomyelitis, but it is recommended during initial evaluation if symptoms have been present for at least 2 weeks because of the relatively low cost. The specificity of plain radiography is sufficient to confirm the diagnosis in most patients. If a plain radiograph is not diagnostic, MRI, with and without intravenous contrast, is preferred."
+]
+},
+{
+"type":"p",
+"hlId":"0e9261",
+"children":[
+"CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") shows excellent anatomic detail and is the imaging study of choice for patients with osteomyelitis if MRI cannot be obtained (such as when a cardiac device or other metal hardware is present) or is inconclusive."
+]
+},
+{
+"type":"p",
+"hlId":"2ea55c",
+"children":[
+"Nuclear imaging studies can reliably detect inflammation as a result of acute infection but are less sensitive and specific than MRI and CT because visualized abnormalities from noninfectious causes may be present, including trauma, neoplasm, and osteoarthritis. Gallium scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") visualizes inflammation and chronic infection as gallium binds to the membranes of neutrophils that are recruited to a site of infection."
+]
+},
+{
+"type":"p",
+"hlId":"8c7ecf",
+"children":[
+"In patients with unremarkable plain radiographs in the presence of high clinical suspicion for osteomyelitis, MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the preferred imaging study. MRI can show changes of acute osteomyelitis within days of infection and is superior to and more sensitive (90%) and specific (80%) than plain radiography, CT, and nuclear studies. MRI can also detect soft tissue abscesses and epidural, paravertebral, or psoas abscesses that may require surgical drainage. However, false-positive MRI results may occur in patients with noninfectious conditions, such as fractures, tumors, and healed osteomyelitis."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_2_1",
+"objective":{
+"__html":"Diagnose osteomyelitis with plain radiography."
+},
+"references":[
+[
+"Beaman FD, von Herrmann PF, Kransdorf MJ, et al; Expert Panel on Musculoskeletal Imaging. ACR Appropriateness Criteria",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"®"
+]
+},
+" suspected osteomyelitis, septic arthritis, or soft tissue infection (excluding spine and diabetic foot). J Am Coll Radiol. 2017;14:S326-S337. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28473089",
+"target":"_blank"
+},
+"children":[
+"PMID: 28473089"
+]
+},
+" doi:10.1016/j.jacr.2017.02.008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9a31d7",
+"54494d",
+"e9af2a",
+"d6bb62",
+"b1c31f",
+"413595",
+"0e9261",
+"2ea55c",
+"8c7ecf"
+]
+}

@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_cv_q038",
+"number":38,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1182f5",
+"children":[
+"A 47-year-old man is evaluated for management of heart failure with reduced ejection fraction (ejection fraction, 30%) diagnosed 3 years ago. He has New York Heart Association functional class III symptoms and has been stable for the past year. His medical history also includes ACE inhibitor–induced angioedema, spironolactone-induced gynecomastia, and atrial fibrillation. An implantable cardioverter-defibrillator is in place. Medications are losartan, carvedilol, furosemide, and apixaban."
+]
+},
+{
+"type":"p",
+"hlId":"f74e47",
+"children":[
+"On physical examination, blood pressure is 120/68 mm Hg and pulse rate is 78/min and irregular. Other than an irregularly irregular heart rhythm, the remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8e378c",
+"children":[
+"Serum creatinine and electrolyte levels are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add eplerenone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add ivabradine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch carvedilol to metoprolol succinate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch losartan to valsartan-sacubitril"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d680da",
+"children":[
+"Aldosterone antagonist therapy (spironolactone, eplerenone) is indicated in all patients with symptomatic heart failure with reduced ejection fraction and normal kidney function to improve survival."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"00606b",
+"children":[
+"The most appropriate treatment is to add eplerenone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to this patient's regimen. He is clinically stable with New York Heart Association functional class III heart failure symptoms, and the goal of treatment at this point is to optimize medical therapy to improve his chances of maintaining clinical stability and reducing mortality. Aldosterone antagonist therapy (spironolactone or eplerenone) is indicated in all patients with symptomatic heart failure with reduced ejection fraction and normal kidney function (estimated glomerular filtration rate ≥30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"), as these agents have been shown to improve survival in this population. Eplerenone is a more selective aldosterone antagonist than spironolactone; it is associated with fewer endocrine side effects and reduced incidence of gynecomastia (1% vs. 10%). Therefore, although this patient had gynecomastia when taking spironolactone, it is reasonable to try eplerenone as an alternative aldosterone antagonist."
+]
+},
+{
+"type":"p",
+"hlId":"68a6fb",
+"children":[
+"Ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been shown to reduce heart failure admissions in patients with symptomatic heart failure with reduced ejection fraction (ejection fraction ≤35%) who are in sinus rhythm with a heart rate of at least 70/min and taking maximally tolerated doses of a β-blocker. Ivabradine works by slowing the sinus node and decreasing heart rate. For patients with atrial fibrillation, however, the drug is not helpful."
+]
+},
+{
+"type":"p",
+"hlId":"9ab32d",
+"children":[
+"Guideline-directed medical therapy for heart failure includes β-blocker therapy for all patients, regardless of heart failure stage. The benefits of β-blocker therapy do not seem to be a class effect, and one of the three agents shown to have a mortality benefit (bisoprolol, carvedilol, and metoprolol succinate) should be used. Changing from carvedilol to metoprolol succinate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") might be of benefit if the patient were nonadherent with a twice-daily drug, but otherwise, there is no demonstrated benefit from switching from one to another."
+]
+},
+{
+"type":"p",
+"hlId":"e67d68",
+"children":[
+"Valsartan-sacubitril is an angiotensin receptor–neprilysin inhibitor that improves survival and symptoms in patients with heart failure with reduced ejection fraction when compared with ACE inhibitor therapy. Guidelines recommend replacing an ACE inhibitor or angiotensin receptor blocker (ARB) with valsartan-sacubitril in patients who are tolerating therapy with these agents, or initiating therapy with valsartan-sacubitril instead of an ACE inhibitor or ARB for patients with new-onset heart failure. However, valsartan-sacubitril is contraindicated in patients with a history of angioedema with either ACE inhibitor or ARB therapy. Therefore, this patient should not be switched to valsartan-sacubitril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_5",
+"objective":{
+"__html":"Treat a patient with heart failure with aldosterone antagonist therapy."
+},
+"references":[
+[
+"Murphy SP, Ibrahim NE, Januzzi JL Jr. Heart failure with reduced ejection fraction: a review. JAMA. 2020;324:488-504. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32749493",
+"target":"_blank"
+},
+"children":[
+"PMID: 32749493"
+]
+},
+" doi:10.1001/jama.2020.10262"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":39,
+"B":10,
+"C":5,
+"D":47,
+"E":0
+},
+"hlIds":[
+"1182f5",
+"f74e47",
+"8e378c",
+"1054f1",
+"d680da",
+"00606b",
+"68a6fb",
+"9ab32d",
+"e67d68"
+]
+}

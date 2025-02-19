@@ -1,0 +1,222 @@
+{
+"id":"mk19_qq_q192",
+"number":192,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 192",
+"stimulus":[
+{
+"type":"p",
+"hlId":"082ace",
+"children":[
+"A 22-year-old woman reports a 2-day history of sore throat that worsens with swallowing and fever without a cough. She also reports fatigue, headache, and malaise but no neck pain. She has an allergy to penicillin, manifesting as a maculopapular rash."
+]
+},
+{
+"type":"p",
+"hlId":"ab2707",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F). The pharynx is erythematous with tonsillar enlargement and exudates bilaterally. There is no cervical lymphadenopathy. Rapid streptococcal antigen detection test result is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cephalexin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Throat culture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Testing for <i>Fusobacterium necrophorum</i>"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supportive care without further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e17337",
+"children":[
+"The Centor criteria (presence of temperature >38.0 °C [100.4 °F], tonsillar exudates, tender cervical lymphadenopathy, absence of cough) predict the likelihood of streptococcal pharyngitis, and using these criteria is a reasonable way to triage patients for further testing for group A β-hemolytic streptococcal pharyngitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"363c35",
+"children":[
+"Patients with fewer than three Centor criteria have a low (<3%) probability of group A β-hemolytic streptococcal pharyngitis and do not require testing; patients with three or more criteria should undergo testing with a rapid antigen detection test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"148a26",
+"children":[
+"This patient should receive cephalexin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient's primary symptoms of fever and sore throat are compatible with either a viral upper respiratory tract infection or streptococcal pharyngitis. The Centor criteria (presence of temperature >38.0 °C [100.4 °F], tonsillar exudates, tender cervical lymphadenopathy, absence of cough) predict the likelihood of streptococcal pharyngitis, and using these criteria is a reasonable way to triage patients for further testing for group A β-hemolytic streptococcal (GABHS) pharyngitis. Patients with fewer than three criteria have a low (<3%) probability of GABHS pharyngitis. Patients with three or more criteria, such as this patient, have an intermediate probability of GABHS pharyngitis; a rapid antigen detection test (RADT) should be performed, with confirmation of negative results with a throat culture only in patients at high risk for complications (immunocompromised patients). The advantage of the RADT is the immediate availability of results and high specificity (between 88% and 99%); if the test is positive, patients should be treated with antibiotics. The RADT has comparable sensitivity and specificity to throat culture. No guidelines recommend antibiotic treatment for pharyngitis without confirmatory testing. For patients with confirmed GABHS pharyngitis and penicillin allergy, cephalosporins and macrolide antibiotics such as clarithromycin (or clindamycin) can be substituted."
+]
+},
+{
+"type":"p",
+"hlId":"3372f6",
+"children":[
+"This patient with a positive rapid streptococcal antigen detection test can be treated without a confirmatory throat culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"17c319",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Fusobacterium necrophorum"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been implicated in approximately 10% to 20% of endemic pharyngitis cases in adolescents. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"F. necrophorum"
+]
+},
+" infection can cause Lemierre syndrome, a rare suppurative complication of pharyngitis caused by local spread of infection with resultant septic thrombosis of the internal jugular vein. Routine testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"F. necrophorum"
+]
+},
+" is not recommended. However, a high index of suspicion should be maintained for patients with severe pharyngitis or patients with pharyngitis and neck pain that does not respond to appropriate antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"fac7ec",
+"children":[
+"Supportive therapy with no further testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be an appropriate choice for this patient with possible GABHS pharyngitis."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s9_6_4",
+"objective":{
+"__html":"Treat streptococcal pharyngitis."
+},
+"references":[
+[
+"Harris AM, Hicks LA, Qaseem A; High Value Care Task Force of the American College of Physicians and for the Centers for Disease Control and Prevention. Appropriate antibiotic use for acute respiratory tract infection in adults: advice for high-value care from the American College of Physicians and the Centers for Disease Control and Prevention. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-1840",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:425-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26785402",
+"target":"_blank"
+},
+"children":[
+"PMID: 26785402"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"082ace",
+"ab2707",
+"cb2b54",
+"e17337",
+"363c35",
+"148a26",
+"3372f6",
+"17c319",
+"fac7ec"
+]
+}

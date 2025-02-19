@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_gm_q061",
+"number":61,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f6a366",
+"children":[
+"A 47-year-old man is evaluated in the hospital after treatment for acute alcoholic pancreatitis. During the hospitalization, he is diagnosed with moderately severe alcohol use disorder. Medical history includes hypertension. He has been prescribed antihypertensives in the past but struggled with medication adherence; he recognizes this as a potential problem. Medical history is otherwise unremarkable, and screens for depression, other mood disorders, and additional substance use disorders are negative. He takes no medications at the present time."
+]
+},
+{
+"type":"p",
+"hlId":"f8242f",
+"children":[
+"He agrees to attend a 12-step facilitation program after hospital discharge, but he is concerned that it will not help sufficiently."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bupropion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Injectable naltrexone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lorazepam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral naltrexone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6dc284",
+"children":[
+"Naltrexone, acamprosate, disulfiram, topiramate, and gabapentin are suggested by the American Psychiatric Association guideline on alcohol use disorder as medications to be offered to patients with moderate to severe alcohol use disorder."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1c143e",
+"children":[
+"A monthly injection of naltrexone for the treatment of alcohol use disorder may enhance patient adherence."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"485c88",
+"children":[
+"Injectable naltrexone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment for this patient. Naltrexone is an opioid receptor antagonist that is thought to combat alcohol use disorder through reduction of neuronal reward pathways associated with alcohol consumption. Naltrexone can be administered as a once-daily oral medication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or as a monthly injection, which may enhance patient adherence. It has been associated with a substantial decrease in 30-day readmission and emergency department visits when prescribed to patients with alcohol dependence at the time of hospital discharge. This patient would benefit from initiation of injectable naltrexone in addition to psychotherapeutic interventions, such as referral to cognitive behavioral therapy or a 12-step facilitation program. Patients diagnosed with alcohol use disorder often require a multipronged approach with both psychotherapy and medication to ensure safety and minimize relapse. The American Psychiatric Association (APA) Practice Guideline for the Pharmacological Treatment of Patients with Alcohol Use Disorder recommends acamprosate as another first-line therapy for alcohol use disorder and suggests offering disulfiram, topiramate, or gabapentin to patients with moderate to severe alcohol use disorder in specific clinical circumstances."
+]
+},
+{
+"type":"p",
+"hlId":"147598",
+"children":[
+"Bupropion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), an antidepressant that works through mediation of dopaminergic/noradrenergic pathways, is effective in the support of smoking cessation. Although antidepressants may be useful in the management of coexisting mood disorders, they are not supported as standalone treatment for alcohol use disorder. The APA guideline recommends that antidepressants not be used for treatment of alcohol use disorder unless there is evidence of a concomitant disorder for which an antidepressant is an indicated treatment."
+]
+},
+{
+"type":"p",
+"hlId":"d777f8",
+"children":[
+"Lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a short- to moderate-acting benzodiazepine often used in the treatment of alcohol withdrawal syndrome, particularly in patients with liver disease or advanced age. It is not effective for the treatment of alcohol use disorder. The APA recommends that benzodiazepines not be used in persons with alcohol use disorder unless treating acute alcohol withdrawal or a concomitant disorder for which a benzodiazepine is an indicated treatment."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_5_2",
+"objective":{
+"__html":"Treat a patient with alcohol use disorder."
+},
+"references":[
+[
+"Reus VI, Fochtmann LJ, Bukstein O, et al. The American Psychiatric Association Practice Guideline for the Pharmacological Treatment of Patients With Alcohol Use Disorder. Am J Psychiatry. 2018;175:86-90. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29301420",
+"target":"_blank"
+},
+"children":[
+"PMID: 29301420"
+]
+},
+" doi:10.1176/appi.ajp.2017.1750101"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":30,
+"C":6,
+"D":53,
+"E":0
+},
+"hlIds":[
+"f6a366",
+"f8242f",
+"78ff87",
+"6dc284",
+"1c143e",
+"485c88",
+"147598",
+"d777f8"
+]
+}

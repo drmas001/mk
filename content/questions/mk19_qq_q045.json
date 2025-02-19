@@ -1,0 +1,262 @@
+{
+"id":"mk19_qq_q045",
+"number":45,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ee89dd",
+"children":[
+"A 66-year-old man is evaluated in the office for 3 days of fever, dysuria, urinary urgency, slow urinary stream, and perineal pain associated with cloudy urine. He does not report nausea or vomiting. He is not sexually active."
+]
+},
+{
+"type":"p",
+"hlId":"d89525",
+"children":[
+"The patient appears acutely ill but stable. Temperature is 38.8 °C (101.8 °F); all other vital signs are normal. Rectal examination reveals a tender, boggy prostate. Laboratory results show leukocytosis, pyuria, and bacteriuria. Urine and blood cultures are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e6d043",
+"children":[
+"Which of the following is the most appropriate empiric treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ampicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone (single dose) and doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meropenem"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9c14ca",
+"children":[
+"Recommended empiric outpatient treatment of acute bacterial prostatitis in men without risk factors for sexually transmitted infection should begin with either trimethoprim-sulfamethoxazole or a fluoroquinolone, such as ciprofloxacin or levofloxacin."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8544af",
+"children":[
+"A single dose of ceftriaxone plus doxycycline is indicated for uncomplicated acute bacterial prostatitis in patients at risk for sexually transmitted infections with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria gonorrhoeae"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+"; generally, men younger than 35 years are at risk for infection with these organisms."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c5fecd",
+"children":[
+"This patient with likely acute bacterial prostatitis should begin empiric treatment with trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Oral fluoroquinolone antibiotics (ciprofloxacin, levofloxacin) are also effective treatments for acute bacterial prostatitis but should not be used if recent genitourinary instrumentation was performed, because most ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" strains are now resistant to fluoroquinolones. Acute prostatitis most commonly results from an ascending urethral infection, although bacterial cystitis or epididymo-orchitis may be an underlying source of infection. Patients most often present with fever; chills; malaise; nausea and vomiting; dysuria; urinary urgency and frequency; and pain in the lower abdomen, perineum, and rectum. The onset of symptoms is typically rapid. On physical examination, the prostate is tender and tense or boggy. Blood and urine cultures should be obtained, and empiric broad-spectrum antibiotics should be started. Gram-negative bacillary organisms, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Serratia"
+]
+},
+" species, and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella"
+]
+},
+" species, are the most common causative agents in patients with uncomplicated acute bacterial prostatitis who are at low risk for sexually transmitted infections (STIs). The course of therapy is typically 2 to 4 weeks; some experts recommend up to 6 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"bb7a2a",
+"children":[
+"Ampicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), which was an alternative therapeutic option for prostatitis, can no longer be recommended as empiric therapy because of the high rate of resistance among community-acquired microorganisms."
+]
+},
+{
+"type":"p",
+"hlId":"02f0dd",
+"children":[
+"A single dose of ceftriaxone, 500 mg intramuscularly, plus doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated for uncomplicated acute bacterial prostatitis in patients at risk for STIs with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Neisseria gonorrhoeae"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia trachomatis"
+]
+},
+". Generally, men younger than 35 years and older men who engage in high-risk sexual behavior are at risk for infection with these organisms. These patients may also have concomitant epididymitis and urethritis. This patient is 66 years old and not sexually active; therefore, he does not require coverage for possible STIs."
+]
+},
+{
+"type":"p",
+"hlId":"21bd0d",
+"children":[
+"Treatment with a carbapenem, such as meropenem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), should be reserved for patients who require hospitalization."
+]
+}
+],
+"relatedSection":"mk19_a_id_s5_3_5",
+"objective":{
+"__html":"Treat acute, uncomplicated prostatitis."
+},
+"references":[
+[
+"Gill BC, Shoskes DA. Bacterial prostatitis. Curr Opin Infect Dis. 2016;29:86-91. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26555038",
+"target":"_blank"
+},
+"children":[
+"PMID: 26555038"
+]
+},
+" doi:10.1097/QCO.0000000000000222"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"ee89dd",
+"d89525",
+"e6d043",
+"9c14ca",
+"8544af",
+"c5fecd",
+"bb7a2a",
+"02f0dd",
+"21bd0d"
+]
+}

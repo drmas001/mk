@@ -1,0 +1,198 @@
+{
+"id":"mk19_b_gm_q082",
+"number":82,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"164625",
+"children":[
+"A 34-year-old woman is evaluated for preconception counseling. She received two doses of the human papillomavirus (HPV) vaccine before 15 years of age; the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine 5 years ago; and the influenza and COVID-19 vaccines during the most recent influenza season. She has no medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"650e6f",
+"children":[
+"Laboratory studies reveal a negative rubella antibody titer and a positive varicella antibody titer. A pregnancy test result is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"37f54c",
+"children":[
+"Which of the following is the most appropriate vaccination strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Additional dose of HPV vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measles, mumps, and rubella vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tdap vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No vaccines are indicated at this time"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cf0018",
+"children":[
+"Women who are planning pregnancy and do not have immunity to rubella should receive the measles, mumps, and rubella vaccine before conceiving and should wait at least 4 weeks after vaccination to conceive."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d26443",
+"children":[
+"The measles, mumps, and rubella vaccine is a live virus vaccine and should not be administered to immunocompromised individuals or pregnant women."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1664f9",
+"children":[
+"The measles, mumps, and rubella (MMR) vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate vaccine for this patient who lacks immunity to rubella. All women in the preconception period should be tested for rubella immunity, and those who lack immunity should be offered the MMR vaccine; women should avoid conceiving for at least 4 weeks after vaccination. If a woman lacks immunity to rubella but is already pregnant, she should receive the MMR vaccine after delivery but before leaving the hospital or at the time of pregnancy termination. The MMR vaccine is a live virus vaccine and should not be administered to immunocompromised individuals or pregnant women."
+]
+},
+{
+"type":"p",
+"hlId":"3517de",
+"children":[
+"Patients should be administered the human papillomavirus (HPV) vaccine series (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") at age 11 or 12 years or between 13 and 26 years of age if not given previously. In unvaccinated patients aged 27 to 45 years, vaccination can be considered on the basis of risk using a shared decision-making process. If administered before 15 years of age, a two-dose series is recommended, whereas a three-dose series is recommended in older individuals. Vaccination is not recommended during pregnancy, although no harmful effects have been noted when inadvertently given to pregnant women and pregnancy testing is not necessary before vaccination. This patient received two doses of the HPV vaccine before 15 years of age and does not need a third dose."
+]
+},
+{
+"type":"p",
+"hlId":"e244d6",
+"children":[
+"All pregnant women should receive the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") during each pregnancy between 27 weeks' and 36 weeks' gestation. This patient is currently not pregnant and her Tdap vaccination is up to date. In patients who have previously received the Tdap vaccine, booster vaccination with either tetanus and diphtheria toxoids (Td) or Tdap booster is recommended every 10 years. Patients who have not yet received the Tdap vaccine can receive it as one of the scheduled booster vaccinations. This patient should wait until the appropriate time interval to receive the Tdap or Td vaccine."
+]
+},
+{
+"type":"p",
+"hlId":"72e739",
+"children":[
+"Because the patient is planning pregnancy and does not have immunity to rubella, not offering the MMR vaccine is not the best strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_2_4",
+"objective":{
+"__html":"Provide measles, mumps, and rubella vaccination in a woman planning pregnancy."
+},
+"references":[
+[
+"Freedman MS, Bernstein H, Ault KA; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M20-8080",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:374-384. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33571011",
+"target":"_blank"
+},
+"children":[
+"PMID: 33571011"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":80,
+"C":6,
+"D":12,
+"E":0
+},
+"hlIds":[
+"164625",
+"650e6f",
+"37f54c",
+"cf0018",
+"d26443",
+"1664f9",
+"3517de",
+"e244d6",
+"72e739"
+]
+}

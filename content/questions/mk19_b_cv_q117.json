@@ -1,0 +1,238 @@
+{
+"id":"mk19_b_cv_q117",
+"number":117,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 117",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f5d33a",
+"children":[
+"A 57-year-old woman is seen during a routine follow-up visit for heart failure. She has a 5-year history of ischemic cardiomyopathy with an ejection fraction of 38%. She also has a 15-year history of type 2 diabetes mellitus and diabetic kidney disease. She has had no hospitalizations. Medications are aspirin, atorvastatin, valsartan-sacubitril, metoprolol succinate, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"2474ee",
+"children":[
+"Physical examination, including vital signs, is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"c9b049",
+"children":[
+"Laboratory studies show an elevated B-type natriuretic peptide level, a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 7.0%, a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.5 mg/dL (132.6 μmol/L), and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dapagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glimepiride"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liraglutide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Saxagliptin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2a093b",
+"children":[
+"Sodium-glucose cotransporter 2 inhibitors reduce risk for worsening heart failure and cardiovascular death in patients with heart failure with reduced ejection fraction with or without type 2 diabetes mellitus."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0f3cf0",
+"children":[
+"Among patients with type 2 diabetes mellitus who have established atherosclerotic cardiovascular disease or established kidney disease, a sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist with demonstrated cardiovascular disease benefit is recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8b9cb6",
+"children":[
+"The most appropriate treatment is to add dapagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has heart failure, type 2 diabetes mellitus, and kidney disease. Evidence shows that the sodium-glucose cotransporter 2 (SGLT2) inhibitors dapagliflozin, empagliflozin, canagliflozin, and ertugliflozin are associated with a reduction in cardiovascular death or hospitalization for heart failure in patients with type 2 diabetes, and dapagliflozin and empagliflozin are effective in patients without diabetes. In addition, for patients with type 2 diabetes, an SGLT2 inhibitor reduces progression of diabetic kidney disease. SGLT2 inhibitors should not be used in patients with type 1 diabetes, increased risk for type 2 diabetic ketoacidosis, or rapidly declining or changing kidney function."
+]
+},
+{
+"type":"p",
+"hlId":"324b24",
+"children":[
+"Glimepiride (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a second-generation sulfonylurea. Although the results of many studies have been inconclusive, it seems that the second-generation agents most likely do not have any adverse cardiac effects but also have no cardiac benefit."
+]
+},
+{
+"type":"p",
+"hlId":"cf9684",
+"children":[
+"Among patients with type 2 diabetes who have established atherosclerotic cardiovascular disease (ASCVD) or established kidney disease, the American Diabetes Association and the American College of Cardiology recommend an SGLT2 inhibitor or glucagon-like peptide 1 receptor agonist with demonstrated cardiovascular benefit. In patients with type 2 diabetes and ASCVD, liraglutide, semaglutide (injectable), and dulaglutide have been shown to decrease cardiovascular death. However, liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has no effect on heart failure outcomes in patients with established heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"32a651",
+"children":[
+"Saxagliptin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a dipeptidyl peptidase-4 inhibitor, a class of drug that has been shown to have no difference in cardiovascular outcomes compared with placebo. However, depending on the study, there was either a trend toward more heart failure hospitalizations (saxagliptin) or an increased incidence of heart failure (alogliptin). Because of this increased incidence of heart failure hospitalizations, adding saxagliptin as a second-line agent would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_12",
+"objective":{
+"__html":"Treat a patient with heart failure and diabetes mellitus with a sodium-glucose cotransporter 2 inhibitor."
+},
+"references":[
+[
+"Wilcox T, De Block C, Schwartzbard AZ, et al. Diabetic agents, from metformin to SGLT2 inhibitors and GLP1 receptor agonists: JACC focus seminar. J Am Coll Cardiol. 2020;75:1956-1974. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32327107",
+"target":"_blank"
+},
+"children":[
+"PMID: 32327107"
+]
+},
+" doi:10.1016/j.jacc.2020.02.056"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":77,
+"B":3,
+"C":17,
+"D":3,
+"E":0
+},
+"hlIds":[
+"f5d33a",
+"2474ee",
+"c9b049",
+"78ff87",
+"2a093b",
+"0f3cf0",
+"8b9cb6",
+"324b24",
+"cf9684",
+"32a651"
+]
+}

@@ -1,0 +1,576 @@
+{
+"id":"mk19_b_pm_t39",
+"number":39,
+"bookId":"pm",
+"title":{
+"__html":"Positive Airway Pressure Modes"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a305de",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 39. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_b_pm_t39"
+}
+]
+},
+"Positive Airway Pressure Modes"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"650be6",
+"class":"col hd l",
+"children":[
+"Mode"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5a7ad",
+"class":"col hd l",
+"children":[
+"Description"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1b1583",
+"class":"col hd l",
+"children":[
+"Indication"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"58e5bc",
+"class":"cell txt l",
+"children":[
+"CPAP"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7ff22e",
+"class":"cell txt l",
+"children":[
+"Fixed pressure derived from an in-lab titration attended by a technician"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"979e88",
+"class":"cell txt l",
+"children":[
+"OSA"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"492706",
+"class":"cell txt l",
+"children":[
+"Occasionally CSA"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fc7e82",
+"class":"cell txt l",
+"children":[
+"APAP"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"59f948",
+"class":"cell txt l",
+"children":[
+"Range of pressure delivered to maintain upper airway patency, determined by a proprietary computer algorithm"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"979e88",
+"class":"cell txt l",
+"children":[
+"OSA"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d3f6bf",
+"class":"cell txt l",
+"children":[
+"BPAP"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e01f94",
+"class":"cell txt l",
+"children":[
+"Inspiratory pressure support delivered over and above a minimum expiratory pressure, derived from an in-lab titration"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d79507",
+"class":"cell txt l",
+"children":[
+"Hypoventilation syndromes"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"c603f9",
+"class":"cell txt l",
+"children":[
+"OSA when CPAP fails (including patient intolerance)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"785b4a",
+"class":"cell txt l",
+"children":[
+"Auto-BPAP"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6f8c7e",
+"class":"cell txt l",
+"children":[
+"Range of bilevel pressures determined by a proprietary computer algorithm"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"286f50",
+"class":"cell txt l",
+"children":[
+"Same as BPAP"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0e3d0e",
+"class":"cell txt l",
+"children":[
+"ASV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8e8c2d",
+"class":"cell txt l",
+"children":[
+"Breath-by-breath adjustment of inspiratory pressure support and back-up rate determined by a proprietary computer algorithm; expiratory pressure set by a technician"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf0834",
+"class":"cell txt l",
+"children":[
+"CSA (including mixed CSA and OSA); do not use in patients with heart failure with reduced ejection fraction"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"950cf6",
+"class":"cell txt l",
+"children":[
+"Auto-ASV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d7a003",
+"class":"cell txt l",
+"children":[
+"Inspiratory and expiratory pressures determined by a proprietary algorithm"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"894bdc",
+"class":"cell txt l",
+"children":[
+"Same as ASV"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"APAP = auto-adjusting positive airway pressure; ASV = adaptive servo ventilation; BPAP = bilevel positive airway pressure; CPAP = continuous positive airway pressure; CSA = central sleep apnea; OSA = obstructive sleep apnea."
+]
+]
+}

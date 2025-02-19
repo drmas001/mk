@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_gm_q021",
+"number":21,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ecc4df",
+"children":[
+"An 81-year-old man is seen for a preoperative evaluation before total right hip arthroplasty. Medical history is significant for mild cognitive impairment, COPD, chronic kidney disease, diabetes mellitus, and hypertension. Medications are topical NSAIDs, albuterol and tiotropium inhalers, metformin, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"8427d4",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 95% breathing ambient air. BMI is 24. The patient is alert and oriented. Decreased right hip range of motion, especially internal rotation, is present. Cardiac examination is normal. Pulmonary examination reveals distant breath sounds without wheezing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0eccdb",
+"children":[
+"Which of the following assessments would best predict surgery-related morbidity and mortality?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Frailty assessment"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Spirometry"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"25b047",
+"hvc":true,
+"children":[
+"Frailty is a multifactorial state of decreased physiologic reserves and increased vulnerability to stressors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0794ae",
+"hvc":true,
+"children":[
+"Frailty is associated with perioperative complications, prolonged hospital stays, and increased mortality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"08b388",
+"children":[
+"A frailty assessment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would best predict surgery-related morbidity and mortality and should be performed in this patient to identify increased risk. Frailty is a multifactorial state of decreased physiologic reserves and increased vulnerability to stressors. In persons older than 65 years, the estimated incidence of frailty is 10% to 20% and increases with each decade. Standardized indices to objectively measure frailty include the Frailty Index, the frailty phenotype, the FRAIL (Fatigue, Resistance, Ambulation, Illness, and Loss of weight) scale, and the Osteoporotic Fractures Frailty Scale. The FRAIL scale is the easiest to administer and score. In the perioperative period, frailty is associated with higher rates of complications, prolonged hospital stays, and increased rates of morbidity and mortality. Frailty is a risk factor for poor surgical outcomes, and thus it is important to engage the frail patient and family in conversations around decision making before elective surgeries. A frailty assessment may inform discussions with the patient and family regarding surgical techniques, pre- and postoperative strategies to minimize risk, and likely outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"c3cb03",
+"children":[
+"Screening chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is generally not recommended for patients undergoing surgery unless there are new signs and symptoms suggestive of undiagnosed or progressive pulmonary disease. Multiple studies have shown that chest radiographs are usually not effective at predicting postoperative outcomes or changing perioperative management. When abnormal findings are noted, they typically could have been predicted through history and physical examination."
+]
+},
+{
+"type":"p",
+"hlId":"b09b5c",
+"children":[
+"Preoperative ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is reasonable in patients with known coronary artery disease, arrhythmia, peripheral artery disease, cerebrovascular disease, or structural heart disease undergoing moderate- to high-risk surgeries. However, ECG abnormalities in older patients are common, with a prevalence of 75% in one observational study, but are not associated with cardiac events and do not predict perioperative morbidity or mortality. Risk scores, such the Revised Cardiac Risk Index score and others, do predict perioperative morbidity and mortality."
+]
+},
+{
+"type":"p",
+"hlId":"2ae220",
+"children":[
+"Spirometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not useful for predicting surgical risk and should not be routinely ordered for preoperative evaluation, including in patients with COPD (as is the case for this patient). Furthermore, evidence does not support a spirometric threshold below which the risk of surgery is unacceptable and spirometry is a poor predictor of morbidity or mortality. Spirometry might be helpful in patients with obstructive airways disease if there is suspicion that the patient is not optimally treated; the presence of reversible airflow obstruction suggests the need for more aggressive therapy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_10_1",
+"objective":{
+"__html":"Screen for frailty in a preoperative geriatric patient."
+},
+"references":[
+[
+"Alvarez-Nebreda ML, Bentov N, Urman RD, et al. Recommendations for preoperative management of frailty from the Society for Perioperative Assessment and Quality Improvement (SPAQI). J Clin Anesth. 2018;47:33-42. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29550619",
+"target":"_blank"
+},
+"children":[
+"PMID: 29550619"
+]
+},
+" doi:10.1016/j.jclinane.2018.02.011"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":10,
+"C":72,
+"D":17,
+"E":0
+},
+"hlIds":[
+"ecc4df",
+"8427d4",
+"0eccdb",
+"25b047",
+"0794ae",
+"08b388",
+"c3cb03",
+"b09b5c",
+"2ae220"
+]
+}

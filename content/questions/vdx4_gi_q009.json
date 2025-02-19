@@ -1,0 +1,119 @@
+{
+"id":"vdx4_gi_q009",
+"number":9,
+"bookId":"vdx_gi",
+"correctAnswer":"B",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b6aa5b",
+"children":[
+"A 29-year-old woman is evaluated for acute epigastric pain associated with nausea and vomiting."
+]
+},
+{
+"type":"p",
+"hlId":"838a8d",
+"children":[
+"A contrast-enhanced abdominal CT scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_gi_mcq_f009",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_gi_mcq_f009"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Autoimmune pancreatitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Interstitial pancreatitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Necrotizing pancreatitis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pancreatic cancer"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"36893a",
+"children":[
+"This patient most likely has interstitial pancreatitis, which is an acute pancreatitis without necrosis. The CT scan shows enlargement of the gland, with contour irregularities and edema. Patients with interstitial pancreatitis have an intact capillary network with vasodilation and therefore should exhibit uniform enhancement of the pancreatic gland. Conversely, areas of necrotizing pancreatitis are associated with a lack of contrast enhancement. Typical imaging findings of acute pancreatitis include pancreatic edema and peripancreatic stranding."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_4",
+"objective":{
+"__html":"Diagnose interstitial pancreatitis on the basis of CT findings."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_gi_mcq_f009":{
+"id":"vdx4_gi_mcq_f009",
+"number":9,
+"bookId":"vdx_gi",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"c8a028fed9df41a9c7e129889e817310",
+"height":510,
+"width":510,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"b6aa5b",
+"838a8d",
+"413696",
+"36893a"
+]
+}

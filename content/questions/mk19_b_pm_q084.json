@@ -1,0 +1,173 @@
+{
+"id":"mk19_b_pm_q084",
+"number":84,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9c3e4e",
+"children":[
+"A 66-year-old woman is evaluated for stress ulcer prophylaxis. She has been in the ICU on mechanical ventilation for 72 hours for respiratory failure due to community-acquired pneumonia. She has required vasopressors and glucocorticoids to maintain her blood pressure. She has acute kidney injury. Medications are ceftaroline, levofloxacin, norepinephrine, dexamethasone, and low-molecular-weight heparin. She is receiving enteral nutrition through a feeding tube."
+]
+},
+{
+"type":"p",
+"hlId":"275885",
+"children":[
+"The decision is made to initiate stress ulcer prophylaxis with an oral proton pump inhibitor."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"796bcf",
+"children":[
+"A reduction in which of the following outcomes is most likely with this preventive strategy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Gastrointestinal bleeding"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hospital stay"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"ICU stay"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mortality"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b67b9b",
+"children":[
+"Stress ulcer prophylaxis reduces the risk of gastrointestinal bleeding in high-risk critically ill patients but has no discernable impact on mortality or ICU or hospital lengths of stay."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9d82e4",
+"children":[
+"A strategy of gastric acid suppression with a proton pump inhibitor is most likely to reduce the risk of gastrointestinal bleeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in this patient. A 2020 systematic review and network meta-analysis of 72 trials involving 12,660 patients found that the benefit of gastric acid suppression to reduce the risk of gastrointestinal bleeding in critically ill patients is finely balanced against harms. There is moderate evidence that compared with placebo, proton pump inhibitors (PPIs) and histamine-2 receptor antagonists (H2RAs), but not sucralfate, reduce the incidence of gastrointestinal bleeding, with PPIs likely to be more effective than H2RAs. Patients at highest risk for gastrointestinal bleeding (risk >4%) benefited the most. Patients at highest risk were identified as those with a coagulopathy, those with chronic liver disease, and those receiving mechanical ventilation but not enteral nutrition. Highest risk patients also included those with two or more of the following risk factors: mechanical ventilation with enteral nutrition, acute kidney injury, sepsis, and shock. Compared with placebo, the absolute difference in bleeding rates for patients at highest risk receiving a PPI was 3.3%. This patient is at high risk for gastrointestinal bleeding and use of a PPI will decrease this risk."
+]
+},
+{
+"type":"p",
+"hlId":"ef0db2",
+"children":[
+"Both PPIs and H2RAs may increase the risk of pneumonia (low-certainty evidence); however, the impact on risk for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" remains uncertain due to the low incidence of infection overall. Although gastric acid suppression appears likely to reduce the risk of gastrointestinal bleeding in patients at highest risk, it has no important impact on clinical outcomes such as length of hospital stay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), length of ICU stay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), mortality (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), or duration of mechanical ventilation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1",
+"objective":{
+"__html":"Prevent stress ulcers in a critically ill patient."
+},
+"references":[
+[
+"Wang Y, Ye Z, Ge L, et al. Efficacy and safety of gastrointestinal bleeding prophylaxis in critically ill patients: systematic review and network meta-analysis. BMJ. 2020;368:l6744. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31907166",
+"target":"_blank"
+},
+"children":[
+"PMID: 31907166"
+]
+},
+" doi:10.1136/bmj.l6744"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":81,
+"B":4,
+"C":10,
+"D":4,
+"E":0
+},
+"hlIds":[
+"9c3e4e",
+"275885",
+"796bcf",
+"b67b9b",
+"9d82e4",
+"ef0db2"
+]
+}

@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q099",
+"number":99,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 99",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a3a3b3",
+"children":[
+"A 66-year-old man is seen in the office after hospitalization for an embolic stroke 7 days ago. His initial neurologic findings were minimal and have since resolved. An embolic source has not been identified. He has no other pertinent personal or family history. Medications are aspirin and clopidogrel."
+]
+},
+{
+"type":"p",
+"hlId":"8dd929",
+"children":[
+"Physical examination, including vital signs and neurologic examination, is normal."
+]
+},
+{
+"type":"p",
+"hlId":"4f17e1",
+"children":[
+"Ambulatory 48-hour ECG monitoring showed no arrhythmias."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"bf02b5",
+"children":[
+"Which of the following is the most reasonable management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue aspirin and clopidogrel; begin warfarin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left atrial appendage occlusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Loop recorder implantation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Test for thrombophilia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"732cb3",
+"children":[
+"In patients with an ischemic stroke of unknown cause in whom external ambulatory monitoring is inconclusive, implantation of a cardiac monitor (loop recorder) is reasonable to optimize detection of silent atrial fibrillation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5620cf",
+"children":[
+"The most reasonable management is loop recorder implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Among patients aged 55 years or older with an ischemic stroke or transient ischemic attack of undetermined source, occult intermittent atrial fibrillation (AF) is thought to be present in up to 25% of cases, and prolonged ambulatory ECG monitoring may be indicated for detection. According to the 2019 American College of Cardiology/American Heart Association/Heart Rhythm Society AF focused update, in a patient with an ischemic stroke of unknown cause in whom external ambulatory ECG monitoring is inconclusive, implantation of a cardiac monitor (loop recorder) is reasonable to optimize detection of silent AF (class 2a recommendation). The 2019 guideline on the management of acute stroke from the American Heart Association/American Academy of Neurology notes that the effectiveness of prolonged cardiac monitoring during hospitalization after acute ischemic stroke to guide treatment selection for prevention of recurrent stroke is uncertain. However, there is some practice variation regarding the duration of “prolonged” monitoring and the burden of detected, asymptomatic AF that warrants anticoagulation. Also, the sequence of evaluation varies—for example, extended rhythm monitoring first versus testing for intracardiac shunt with transesophageal echocardiography."
+]
+},
+{
+"type":"p",
+"hlId":"0a71e1",
+"children":[
+"It would be premature to switch this patient's antiplatelet therapy to anticoagulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in the absence of confirmed AF."
+]
+},
+{
+"type":"p",
+"hlId":"65d590",
+"children":[
+"Similarly, consideration of left atrial appendage occlusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be premature. This procedure is reserved primarily for patients with known AF who are at significant risk for stroke and have complicating medical comorbid conditions that make oral anticoagulation high risk or ineffective. This patient does not have confirmed AF, nor has oral anticoagulation failed to prevent stroke associated with AF."
+]
+},
+{
+"type":"p",
+"hlId":"f9f11b",
+"children":[
+"Thrombophilia evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not routinely indicated among older patients with embolic stroke of undetermined source."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6",
+"objective":{
+"__html":"Identify the cause of embolic stroke of undetermined source."
+},
+"references":[
+[
+"January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society in Collaboration With the Society of Thoracic Surgeons. Circulation. 2019;140:e125-51. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30686041",
+"target":"_blank"
+},
+"children":[
+"PMID: 30686041"
+]
+},
+" doi:10.1161/CIR.0000000000000665"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":7,
+"C":72,
+"D":10,
+"E":0
+},
+"hlIds":[
+"a3a3b3",
+"8dd929",
+"4f17e1",
+"bf02b5",
+"732cb3",
+"5620cf",
+"0a71e1",
+"65d590",
+"f9f11b"
+]
+}

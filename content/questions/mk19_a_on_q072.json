@@ -1,0 +1,177 @@
+{
+"id":"mk19_a_on_q072",
+"number":72,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5b36c6",
+"children":[
+"A 37-year-old woman is seen for follow-up evaluation 6 months after resection of cutaneous melanoma. It had a 0.45-mm depth of invasion by Breslow microstaging (stage IA)."
+]
+},
+{
+"type":"p",
+"hlId":"5351ba",
+"children":[
+"On physical examination, vital signs are normal. There is a healed incision on the right thigh from resection of the melanoma. There is no evidence of cutaneous or in-transit recurrence and no femoral or inguinal adenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7370c7",
+"children":[
+"Which of the following is the most appropriate cancer surveillance for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Annual chest radiograph"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Brain MRI every 6 months for 3 years; PET/CT annually for 5 years"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Complete blood count, biochemistry profile, and lactate dehydrogenase measurement every 6 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Physical examination and dermatologic evaluation every 6 months"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"PET/CT annually for 5 years"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5d0626",
+"children":[
+"Patients with low-risk (thin) melanoma should be encouraged to perform skin self-examinations as well as receive skin evaluations by a dermatologist regularly for life."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"98b816",
+"children":[
+"This patient had low-risk (thin) melanoma (Breslow depth less than 0.8 mm) and should have a general physical examination and dermatologic evaluation every 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Particular attention should be directed to the primary resection site for evidence of local recurrence (satellite lesions), in-transit metastases (looking for disease traveling along the course of draining lymphatics), and regional nodal involvement. Regional lymph node ultrasound can be performed to better assess for adenopathy in patients with an equivocal lymph node examination. The patient should also be carefully assessed for the development of second primary melanomas, as patients who have had one melanoma have a significantly higher risk of developing second primary melanomas. Furthermore, patients should be educated to perform routine skin self-examinations to screen for both recurrence and for new primary lesions."
+]
+},
+{
+"type":"p",
+"hlId":"b168fa",
+"children":[
+"Breslow staging indicates the depth of invasion of the melanoma below the surface of the skin. The risk of recurrence increases as the depth of invasion increases. Ulceration at presentation and high mitotic rate are also associated with a higher risk of recurrence. Melanoma can be a very aggressive cancer and can metastasize widely, but if caught early, it has a very high cure rate. In patients such as this one (stage I, cT1aN0 indicating a depth of invasion less than 0.8 mm), the overall cure rate is approximately 95%."
+]
+},
+{
+"type":"p",
+"hlId":"989b88",
+"children":[
+"In the absence of signs or symptoms of recurrence, routine laboratory evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or imaging with chest radiograph (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), PET/CT, or brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, E"
+]
+},
+") have a very low yield and are not routinely recommended. However, in patients with higher stages of disease (stage IIB-IV), serial imaging with CT or whole-body fluorodeoxyglucose-PET with or without brain MRI may be considered appropriate for 3 to 5 years."
+]
+}
+],
+"relatedSection":"mk19_a_on_s11_2",
+"objective":{
+"__html":"Manage low-risk melanoma with appropriate posttreatment surveillance."
+},
+"references":[
+[
+"Dowling J, McGregor SP, Williford P. Update on current treatment recommendations for primary cutaneous melanoma. Dermatol Clin. 2019;37:397-407. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31466581",
+"target":"_blank"
+},
+"children":[
+"PMID: 31466581"
+]
+},
+" doi:10.1016/j.det.2019.06.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":8,
+"C":4,
+"D":81,
+"E":7
+},
+"hlIds":[
+"5b36c6",
+"5351ba",
+"7370c7",
+"5d0626",
+"98b816",
+"b168fa",
+"989b88"
+]
+}

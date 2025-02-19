@@ -1,0 +1,178 @@
+{
+"id":"mk19_a_on_q008",
+"number":8,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fc2a1c",
+"children":[
+"A 45-year-old woman is evaluated after experiencing lower pelvic pain and heavy vaginal bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"e8859f",
+"children":[
+"On physical examination, vital signs are normal. Pelvic examination reveals a bulky and friable cervical mass with extension to the lower third of the vagina. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"769b6a",
+"children":[
+"Biopsy of the cervical mass reveals squamous cell carcinoma. CT scan of the abdomen and pelvis reveals a large cervical mass with extension to the pelvic sidewall and pelvic adenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e8a00",
+"children":[
+"Which of the following is the most appropriate treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Concurrent radiation therapy and cisplatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hysterectomy and pelvic node dissection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radiation therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiation therapy and pembrolizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"85cecf",
+"children":[
+"Patients with bulky or locally advanced stage III cervical cancer are treated with cisplatin-based chemotherapy and radiation therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ebba1c",
+"children":[
+"This patient has stage III cervical cancer and should be treated with concurrent radiation therapy and platinum chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients with early cervical cancer are frequently asymptomatic. The most common symptoms are abnormal or heavy vaginal bleeding or vaginal discharge. Pelvic or back pain and bowel or bladder symptoms are presentations of advanced disease. Diagnosis is made by direct biopsy of a visible lesion, colposcopy, or cone biopsy (conization). The 5-year relative survival for all stages of cervical cancer is 67.5%. The anatomic stage is the most important predictor of prognosis. Ninety percent of patients with localized disease survive 5 years. The 5-year survival rate drops to 58% for patients with regional disease and 17% for patients with disease extending outside of the true pelvis or involving the bladder or rectum. Stage III cervical cancer extends to the pelvic sidewall and/or involves the lower third of the vagina and/or causes hydronephrosis or a nonfunctioning kidney. This patient's tumor extends to the pelvic sidewall. The addition of platinum chemotherapy to radiation therapy in this setting reduces the risk of recurrence by 34% and improves overall survival versus treatment with radiation alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Peripheral sensory neuropathy is a common adverse effect of platinum chemotherapy, and patients should be monitored for the development of peripheral neuropathy. Patients with preexisting diabetic neuropathy may be more likely to experience worsened neuropathy as a result of chemotherapy. In the absence of more severe peripheral sensory neuropathy, platinum chemotherapy should be incorporated into treatment, given the associated improvement in outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"3ab143",
+"children":[
+"Hysterectomy and pelvic node dissection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are recommended for patients with stage I and II cervical cancer but not for patients with stage III disease. Patients with stage III cervical cancer have extension to the pelvic sidewall, lower third of the vagina, or pelvic adenopathy, are at higher risk for locoregional and distant recurrence, and are treated with concurrent chemoradiation."
+]
+},
+{
+"type":"p",
+"hlId":"625857",
+"children":[
+"Pembrolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not currently used as adjuvant therapy for patients with stage I to III cervical cancer. Pembrolizumab is approved for use as second-line therapy for patients with advanced cervical cancer with programmed cell death ligand 1–positive tumors."
+]
+}
+],
+"relatedSection":"mk19_a_on_s4_2",
+"objective":{
+"__html":"Treat a patient with high-risk stage III cervical cancer."
+},
+"references":[
+[
+"Monk BJ, Tewari KS, Koh WJ. Multimodality therapy for locally advanced cervical carcinoma: state of the art and future directions. J Clin Oncol. 2007;25:2952-65. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/17617527",
+"target":"_blank"
+},
+"children":[
+"PMID: 17617527"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":46,
+"B":43,
+"C":2,
+"D":9,
+"E":0
+},
+"hlIds":[
+"fc2a1c",
+"e8859f",
+"769b6a",
+"8e8a00",
+"85cecf",
+"ebba1c",
+"3ab143",
+"625857"
+]
+}

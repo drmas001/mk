@@ -1,0 +1,488 @@
+{
+"id":"mk19_b_hm_q031",
+"number":31,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"baa419",
+"children":[
+"A 74-year-old man is evaluated in the hospital for new-onset thrombocytopenia. He was hospitalized 48 hours ago for management of CT angiography–confirmed pulmonary embolism. Medical history is significant for coronary artery bypass graft surgery 3 weeks ago. Medications are aspirin, clopidogrel, metoprolol, lisinopril, furosemide, and atorvastatin; low-molecular-weight heparin (LMWH) was initiated on admission to the hospital."
+]
+},
+{
+"type":"p",
+"hlId":"cdf9c2",
+"children":[
+"On physical examination, vital signs are normal. Other than a well-healing sternotomy scar, the physical examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2a7681",
+"class":"cell text l",
+"children":[
+"12 g/dL (120 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e77a39",
+"class":"cell text l",
+"children":[
+"11,500/μL (11.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"54ddd4",
+"class":"cell text l",
+"children":[
+"90,000/μL (90 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (at admission: 250,000/μL [250 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L])"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"77db81",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"Estimated glomerular filtration rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"97bfab",
+"class":"cell text l",
+"children":[
+">60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"eada37",
+"children":[
+"Peripheral blood smear is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8aef43",
+"children":[
+"The 4T score is 5, corresponding to an intermediate risk of heparin-inducted thrombocytopenia. LMWH is discontinued, and a test for heparin-induced antibody is ordered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue aspirin and clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Insert an inferior vena cava filter"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start rivaroxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"64ef0e",
+"children":[
+"In patients with suspected heparin-induced thrombocytopenia, use of the 4T score is recommended to guide clinical decisions and management."
+]
+},
+{
+"type":"keypoint",
+"hlId":"75930a",
+"children":[
+"Heparin should be discontinued in patients with suspected heparin-induced thrombocytopenia (HIT) and an intermediate or high 4T score, and HIT laboratory testing should be obtained; in most cases, a non-heparin anticoagulant should be initiated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8d7af7",
+"children":[
+"Discontinuing heparin, testing for heparin-induced thrombocytopenia (HIT), and starting rivaroxaban is the most appropriate management for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). His platelet count decreased by more than 50% from admission, and he was exposed to heparin following bypass graft surgery 3 weeks ago. This gives him a 4T score of 5 (platelet count decrease >50% = 2 points; onset >1 day with previous exposure within 30 days = 1 point; no other likely cause of thrombocytopenia = 2 points). A 4T score of 5 suggests an intermediate, or 10%, risk of HIT. Because he does not have kidney disease, rivaroxaban or apixaban is acceptable treatment for this patient with HIT requiring therapeutic anticoagulation for pulmonary embolism; argatroban and fondaparinux are acceptable parenteral options. In this patient, discontinuing heparin in favor of rivaroxaban plus aspirin is reasonable to decrease the risk of major bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"80844f",
+"children":[
+"Monotherapy with aspirin or dual antiplatelet therapy with aspirin and clopidogrel is used in patients following coronary artery bypass graft surgery. They are unlikely to cause thrombocytopenia, and discontinuation of all antiplatelet therapy would raise the risk of an ischemic cardiac event (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"011428",
+"children":[
+"In patients with HIT, the American Society of Hematology 2018 guideline recommends against routine insertion of an inferior vena cava (IVC) filter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). No comparative studies have evaluated IVC filter insertion compared with no insertion in patients with acute HIT, but significant harm is likely associated with IVC filters."
+]
+},
+{
+"type":"p",
+"hlId":"8a8c50",
+"children":[
+"Warfarin will lower protein C and protein S levels, resulting in short-term hypercoagulability (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Warfarin can be used as an alternative to heparin, but it is not immediately effective and should not be started until sufficient anticoagulation is achieved with an alternative non-heparin anticoagulant."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s6_3_2_3",
+"objective":{
+"__html":"Manage heparin-induced thrombocytopenia."
+},
+"references":[
+[
+"Cuker A, Arepally GM, Chong BH, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Heparin-induced thrombocytopenia. Blood Adv. 2018;2:3360-3392. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482768",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482768"
+]
+},
+" doi:10.1182/bloodadvances.2018024489"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":15,
+"C":67,
+"D":13,
+"E":0
+},
+"hlIds":[
+"baa419",
+"cdf9c2",
+"a462a3",
+"f9867c",
+"2a7681",
+"2989c0",
+"e77a39",
+"fcac73",
+"54ddd4",
+"77db81",
+"97bfab",
+"eada37",
+"8aef43",
+"cb2b54",
+"64ef0e",
+"75930a",
+"8d7af7",
+"80844f",
+"011428",
+"8a8c50"
+]
+}

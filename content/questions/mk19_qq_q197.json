@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q197",
+"number":197,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 197",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f85e6",
+"children":[
+"A 53-year-old woman is evaluated for a 2-hour history of dyspnea and pleuritic chest pain. At age 51 years, she had a provoked deep venous thrombosis that was treated with 3 months of anticoagulation."
+]
+},
+{
+"type":"p",
+"hlId":"f9157e",
+"children":[
+"Heart rate is 110/min, and respiratory rate is 25/min; all other vital signs are normal. No other abnormalities are noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"D-dimer measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary Embolism Rule-Out Criteria score calculation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventilation/perfusion scanning"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8dec89",
+"children":[
+"D-dimer testing is very sensitive for detecting thromboembolic disease, and a negative study in patients with a low probability for deep venous thrombosis or pulmonary embolism excludes the need for further testing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ac6320",
+"children":[
+"In patients with a moderate or high probability of pulmonary embolism, CT angiography is the preferred imaging test."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"57f63d",
+"children":[
+"The most appropriate next step in management is CT angiography (CTA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a moderate probability of having a pulmonary embolism (PE) as assessed by one of the validated risk stratification systems (Wells score). Using the Wells risk stratification tool, this patient has a score of 6 (heart rate >100/min, previously documented deep venous thrombosis [DVT] or PE, and PE as the most likely diagnosis). Therefore, the diagnosis of PE should be pursued by further definitive testing. In this patient, CTA is the preferred method of diagnosis given her lack of contraindications to this study. CTA findings of filling defects within the segmental or larger pulmonary arteries are specific for PE. Relative contraindications for CTA include kidney failure and contrast allergy."
+]
+},
+{
+"type":"p",
+"hlId":"dd837c",
+"children":[
+"D-dimer testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is very sensitive for detecting thromboembolic disease; in patients with a low probability of DVT or PE, a negative study is helpful in excluding the need for further testing. However, D-dimer testing is less sensitive in patients with a moderate or high probability of disease, which is an indication for definitive testing with CTA; D-dimer testing should not be performed in these situations."
+]
+},
+{
+"type":"p",
+"hlId":"9551ac",
+"children":[
+"Clinical studies have identified a subset of patients at very low risk for PE who can be identified by using the Pulmonary Embolism Rule-Out Criteria (PERC) score (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Patients at low risk for PE as determined by the Wells or Geneva risk assessment tool who have a PERC score of 0 do not require D-dimer testing or CTA. American College of Physicians guidelines published in 2015 recommend using the PERC as the initial step in evaluating patients at low risk. This patient has at least a moderate risk for PE, and calculation of the PERC score is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"7a7293",
+"children":[
+"Results of ventilation/perfusion scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are typically more difficult to interpret than CTA findings in patients with an intermediate risk for PE and in those with structurally abnormal lungs. However, this test remains a diagnostic option for PE in patients with contraindications to CTA (such as kidney failure and pregnancy) and is the preferred imaging test in patients with suspected chronic thromboembolic pulmonary hypertension."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_2",
+"objective":{
+"__html":"Diagnose pulmonary embolism in a patient with moderate pretest probability by using CT angiography."
+},
+"references":[
+[
+"Lim W, Le Gal G, Bates SM, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: diagnosis of venous thromboembolism. Blood Adv. 2018;2:3226-3256. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482764",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482764"
+]
+},
+" doi:10.1182/bloodadvances.2018024828"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5f85e6",
+"f9157e",
+"983777",
+"8dec89",
+"ac6320",
+"57f63d",
+"dd837c",
+"9551ac",
+"7a7293"
+]
+}

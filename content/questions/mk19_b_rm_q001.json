@@ -1,0 +1,194 @@
+{
+"id":"mk19_b_rm_q001",
+"number":1,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"27c202",
+"children":[
+"A 23-year-old man with Behçet syndrome is evaluated for recurrent oral and genital ulcers. He is currently not having a flare. The episodes typically last a few days to a few weeks. He reports no eye or skin symptoms or neurologic disease. He is taking a therapeutic dosage of colchicine to prevent disease flares but has had three episodes of painful oral ulcers in the last 6 months during this treatment. He has received tapering doses of prednisone to control the disease during these episodes."
+]
+},
+{
+"type":"p",
+"hlId":"d957f7",
+"children":[
+"On physical examination, vital signs are normal. There are no active mucocutaneous ulcerations. Healed scars in the scrotal area are present. Joints are not warm or swollen."
+]
+},
+{
+"type":"p",
+"hlId":"82d036",
+"children":[
+"Laboratory evaluation reveals a blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"C-reactive protein, blood",
+"children":[
+"C-reactive protein"
+]
+},
+" level of 1.2 mg/dL (12 mg/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apremilast"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ixekizumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Leflunomide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6d8f7a",
+"children":[
+"Apremilast is a reasonable alternative to colchicine as a glucocorticoid-sparing agent for recurrent oral ulcers in Behçet syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"272590",
+"children":[
+"The most appropriate treatment is apremilast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Behçet syndrome is a systemic vasculitis characterized by recurrent oral aphthae. Other manifestations include genital aphthae, ocular disease, skin lesions, gastrointestinal involvement, neurologic disease, vascular disease, and arthritis. The treatment of oral and genital ulcers is guided by the severity of symptoms and the presence of other disease manifestations. This patient's disease does not seem to be responding adequately to colchicine, which is an appropriate first-line therapy for mucocutaneous ulcerations. Hence, an alternate or additional treatment should be tried. Apremilast is an oral phosphodiesterase-4 inhibitor approved for treatment of psoriasis, psoriatic arthritis, and prevention of oral ulcers in Behçet syndrome. It is a reasonable alternative to colchicine as a glucocorticoid-sparing agent for patients with recurrent oral ulcers. Apremilast must be started at a low dose and uptitrated over a few days to achieve a maintenance dosage of 30 mg twice daily. Clinical trial data also suggest a positive impact on genital ulcers, with a trend toward improvement, but the studies were not powered to assess this outcome. Apremilast is usually well tolerated but is associated with adverse events, such as diarrhea, nausea, and headache. It should be used cautiously in patients with depression. Systemic glucocorticoids in tapering doses can be used in patients who are refractory to colchicine and apremilast. However, if the patient requires continued systemic glucocorticoid therapy, azathioprine, thalidomide, or tumor necrosis factor inhibitors are most appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"8fb5e6",
+"children":[
+"Ixekizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an interleukin-17a inhibitor approved for psoriasis, psoriatic arthritis, and ankylosing spondylitis. It has not been studied for or shown to be effective in treating mucocutaneous manifestations of Behçet syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"ec8b27",
+"children":[
+"There are no data on use of leflunomide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in the treatment of mucocutaneous manifestations of Behçet syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"827019",
+"children":[
+"Mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not effective in the treatment of mucocutaneous manifestations of Behçet syndrome and should not be used unless the patient has tried and not responded to other agents."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s15_1",
+"objective":{
+"__html":"Treat mucocutaneous ulcerations in Behçet syndrome with apremilast."
+},
+"references":[
+[
+"Hatemi G, Christensen R, Bang D, et al. 2018 update of the EULAR recommendations for the management of Behçet's syndrome. Ann Rheum Dis. 2018;77:808-818. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29625968",
+"target":"_blank"
+},
+"children":[
+"PMID: 29625968"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":18,
+"C":15,
+"D":27,
+"E":0
+},
+"hlIds":[
+"27c202",
+"d957f7",
+"82d036",
+"1054f1",
+"6d8f7a",
+"272590",
+"8fb5e6",
+"ec8b27",
+"827019"
+]
+}

@@ -1,0 +1,581 @@
+{
+"id":"mk19_a_id_q017",
+"number":17,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"abe5e8",
+"children":[
+"A 27-year-old woman is hospitalized with a 2-day history of bloody diarrhea associated with abdominal cramping. She attended a picnic 5 days ago and swam in an adjacent lake. She reports no fever. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"024971",
+"children":[
+"On physical examination, temperature is 37 °C (98.6 °F), blood pressure is 120/70 mm Hg, and pulse rate is 105/min. On abdominal examination, bowel sounds are present with diffuse tenderness to palpation but no guarding."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d5fe2",
+"children":[
+"Laboratory studies: "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1fae6",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"Hematocrit"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b323f7",
+"class":"cell text l",
+"children":[
+"27%"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5794ac",
+"class":"cell text l",
+"children":[
+"16,000/µL (16 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"47aafe",
+"class":"cell text l",
+"children":[
+"25,000/µL (25 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"434990",
+"class":"cell text l",
+"children":[
+"2.7 mg/dL (239 µmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"30676e",
+"children":[
+"A peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f017",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f017"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"adef2a",
+"children":[
+"Which of the following infections is the most likely cause of this patient's illness?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Cyclospora</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Escherichia coli</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Giardia</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Norovirus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b716f2",
+"children":[
+"Enterohemorrhagic ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" infection is not typically associated with fever, a distinguishing feature from other causes of bloody diarrhea."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3f2b80",
+"children":[
+"Enterohemorrhagic ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" produces a Shiga toxin that can cause hemorrhagic colitis with development of hemolytic uremic syndrome, which manifests as microangiopathic hemolytic anemia, thrombocytopenia, and kidney injury."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3c040c",
+"children":[
+"Enterohemorrhagic ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" (EHEC) strains (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), most commonly O157:H7, produce a Shiga toxin (i.e., Shiga toxin–producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+", or STEC) that can cause hemorrhagic colitis with development of hemolytic uremic syndrome (HUS), as in this patient. These bacteria are transmitted by ingestion of undercooked beef, usually hamburger, or fecally contaminated food and water, including recreational lake water; fecal-oral transmission through exposure to infected animals is also possible. The incubation period is 3 to 4 days, and patients typically have visibly bloody diarrhea, crampy abdominal pain, and no fever; the latter is a distinguishing feature from other causes of bloody diarrhea. HUS develops in less than 10% of patients infected with EHEC and manifests as microangiopathic hemolytic anemia (schistocytes on peripheral blood smear), thrombocytopenia, and acute kidney injury."
+]
+},
+{
+"type":"p",
+"hlId":"d21cf4",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cyclospora"
+]
+},
+" infections (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are typically acquired after consumption of food or water that is fecally contaminated with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cyclospora"
+]
+},
+" oocysts. In the United States, many of these infections have been traced to imported fresh produce from tropical and subtropical areas or have occurred in travelers to endemic areas. Infected patients typically present with watery diarrhea, decreased appetite, weight loss, crampy abdominal pain, bloating, flatulence, nausea, fatigue, and (sometimes) fever. HUS is not associated with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cyclospora"
+]
+},
+" infections."
+]
+},
+{
+"type":"p",
+"hlId":"ce5d1b",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Giardia lamblia"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most common parasitic pathogen in the United States. Cysts from infected animals are excreted in stool into reservoirs of natural fresh water, and subsequent ingestion of contaminated water (or food) can lead to human infection. Symptomatic patients typically report watery diarrhea that is greasy, floating, and foul smelling; flatulence; bloating; nausea; and crampy abdominal pain. Fever is uncommon. HUS is not associated with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Giardia lamblia"
+]
+},
+" infections."
+]
+},
+{
+"type":"p",
+"hlId":"230959",
+"children":[
+"Noroviruses (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are the most common cause of gastroenteritis in the United States, affecting all ages. Transmission from person to person is primarily by the fecal-oral route. The incubation period is typically less than 2 days, and infected patients usually have self-limited watery diarrhea, nausea, vomiting, and fever but do not develop HUS."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_5",
+"objective":{
+"__html":"Diagnose hemolytic uremic syndrome caused by Shiga toxin–producing <i>Escherichia coli</i>."
+},
+"references":[
+[
+"Kremer Hovinga JA, Heeb SR, Skowronska M, et al. Pathophysiology of thrombotic thrombocytopenic purpura and hemolytic uremic syndrome. J Thromb Haemost. 2018;16:618-629. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29356300",
+"target":"_blank"
+},
+"children":[
+"PMID: 29356300"
+]
+},
+" doi:10.1111/jth.13956"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":81,
+"C":7,
+"D":1,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f017":{
+"id":"mk19_a_id_mcq_f017",
+"number":17,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"c8d3ff2c335885340c16bdf1d705f4a6",
+"height":259,
+"width":359,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"abe5e8",
+"024971",
+"9d5fe2",
+"f1fae6",
+"b323f7",
+"2989c0",
+"5794ac",
+"fcac73",
+"47aafe",
+"f461b2",
+"434990",
+"30676e",
+"adef2a",
+"b716f2",
+"3f2b80",
+"3c040c",
+"d21cf4",
+"ce5d1b",
+"230959"
+]
+}

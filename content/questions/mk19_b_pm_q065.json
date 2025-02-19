@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q065",
+"number":65,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f2f753",
+"children":[
+"A 48-year-old man is evaluated in the hospital for acute onset of hyperpyrexia and muscle rigidity. He was hospitalized 12 hours ago for upper gastrointestinal bleeding. Within the last hour he underwent upper endoscopy using rapid sequence intubation with succinylcholine and etomidate. Soon after completion of the procedure, he developed fever, tachypnea, and tachycardia."
+]
+},
+{
+"type":"p",
+"hlId":"34803e",
+"children":[
+"On physical examination, temperature is 40.6 °C (105.1 °F), blood pressure is 112/68 mm Hg, pulse rate is 130/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 99% breathing oxygen, 2 L/min by nasal cannula. He has generalized muscle rigidity and cannot open his mouth. Neurologic examination is otherwise normal."
+]
+},
+{
+"type":"p",
+"hlId":"6a1433",
+"children":[
+"Cooling measures are implemented."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"600676",
+"children":[
+"Which of the following is the most appropriate pharmacologic treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cyproheptadine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Dantrolene"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Diltiazem"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ba4ab9",
+"children":[
+"Malignant hyperthermia is a rare cause of severe hyperthermia in response to inhaled anesthetic agents or depolarizing paralytic agents such as succinylcholine, resulting in muscle rigidity, rhabdomyolysis, cardiac arrhythmias, and significant core body temperature elevation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2e2a49",
+"children":[
+"Treatment of malignant hyperthermia consists of discontinuing the triggering agent, active cooling, and administration of the muscle relaxant dantrolene."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d1bbff",
+"children":[
+"The most appropriate treatment is dantrolene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has developed malignant hyperthermia after receiving succinylcholine. Malignant hyperthermia is a rare autosomal dominant inherited disorder characterized by diffuse skeletal muscle activation that results from intracellular calcium release. It is triggered most often by inhaled anesthetics and the depolarizing neuromuscular blocker succinylcholine. Presenting signs and symptoms reflect hypermetabolism and include muscle rigidity (including masseter muscle rigidity), tachycardia, tachypnea, laboratory evidence of rhabdomyolysis (elevated serum creatine kinase, potassium, and phosphorus levels and myoglobinuria), and temperature that can be strikingly high, 45.0 °C (113.0 °F) or more. Mortality can reach 10%. Treatment consists of discontinuing the triggering agent, active cooling, and administration of the muscle relaxant dantrolene every 5 to 10 minutes until muscle rigidity and hyperthermia resolve. Dantrolene interferes with intracellular calcium release and is considered an antidote to malignant hyperthermia. Patients should be monitored in the ICU for 24 hours following an episode of malignant hyperthermia."
+]
+},
+{
+"type":"p",
+"hlId":"870c95",
+"children":[
+"Acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") acts as an antipyretic through central nervous system mechanisms. It is ineffective at controlling fever in malignant hyperthermia, which is generated from activation of skeletal muscles."
+]
+},
+{
+"type":"p",
+"hlId":"75d6bc",
+"children":[
+"Cyproheptadine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a serotonin and histamine antagonist, is sometimes used off-label to treat serotonin syndrome. Serotonin syndrome is a less severe hyperthermic reaction triggered by simultaneous use of two or more medications that affect release or reuptake of serotonin. Unlike neuroleptic malignant syndrome, serotonin syndrome usually includes hyperreflexia and myoclonus, does not result in muscle rigidity, and generally resolves spontaneously after 24 hours. Cyproheptadine does not have a role in the treatment of malignant hyperthermia."
+]
+},
+{
+"type":"p",
+"hlId":"8936f4",
+"children":[
+"The calcium channel blocker diltiazem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") blocks calcium influx into vascular and cardiac muscle cells but would not affect the calcium dysregulation of the skeletal muscles that occurs in malignant hyperthermia."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_2",
+"objective":{
+"__html":"Treat malignant hyperthermia."
+},
+"references":[
+[
+"Hopkins PM, Girard T, Dalay S, et al. Malignant hyperthermia 2020: guideline from the Association of Anaesthetists. Anaesthesia. 2021;76:655-664. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33399225",
+"target":"_blank"
+},
+"children":[
+"PMID: 33399225"
+]
+},
+" doi:10.1111/anae.15317"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":3,
+"C":92,
+"D":2,
+"E":0
+},
+"hlIds":[
+"f2f753",
+"34803e",
+"6a1433",
+"600676",
+"ba4ab9",
+"2e2a49",
+"d1bbff",
+"870c95",
+"75d6bc",
+"8936f4"
+]
+}

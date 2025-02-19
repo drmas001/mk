@@ -1,0 +1,207 @@
+{
+"id":"mk19_a_gm_q083",
+"number":83,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cc01f2",
+"children":[
+"An 84-year-old woman is brought to the office by her son for evaluation of dementia. He reports that since the patient's husband died 8 months ago, she has neglected her personal hygiene, naps during the day, has difficulty sleeping at night, and has lost interest in going out. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"91a32f",
+"children":[
+"On physical examination, vital signs are normal. BMI 1 year ago was 26; today, BMI is 24. She appears sad and has a blunted affect. Neurologic examination is without focal motor deficits. On the Mini-Cog assessment of cognitive function, the patient cannot recall two of three words and did not attempt to draw a clock face due to fatigue."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Comprehensive neuropsychological evaluation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Depression assessment"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the brain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin B<sub>12</sub> measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ca6a9c",
+"children":[
+"All patients being evaluated for cognitive impairment should also be screened for depression."
+]
+},
+{
+"type":"keypoint",
+"hlId":"82a525",
+"children":[
+"The Geriatric Depression Scale and the PHQ-9 have acceptable sensitivity and specificity for detecting depression in older patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f61f34",
+"children":[
+"This older patient has symptoms suggestive of depression, and the most appropriate diagnostic test to perform next is depression assessment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Depression can present as cognitive impairment or worsening of preexisting cognitive impairment. Symptoms of depression, including somatic symptoms; fatigue/low energy; and cognitive symptoms, such as decreased concentration and psychomotor agitation or retardation, are often misattributed to chronic illness or cognitive impairment. All patients being evaluated for cognitive impairment should also be screened for depression. Both the Geriatric Depression Scale and the PHQ-9 have acceptable sensitivity and specificity for detecting depression in older patients. There are effective treatments for depression that can alleviate suffering and improve functioning."
+]
+},
+{
+"type":"p",
+"hlId":"d7d95f",
+"children":[
+"Formal neuropsychological testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") provides a more thorough assessment of cognitive function than office-based clinical assessments but is more time-consuming and costly. Detailed neuropsychological testing is especially useful for the following patients: those with milder cognitive symptoms, to determine whether the cognitive difficulties are within the realm of normal age-associated cognitive decline versus mild cognitive impairment; those with definite dementia, diagnosed on the basis of clinical impression and results of screening cognitive tests, who have clinical features overlapping two or more underlying pathologic processes; and those with cognitive symptoms whose clinical picture is confounded by significant depression. However, screening for and potentially treating depression should occur before considering neuropsychological testing in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"0b28c0",
+"children":[
+"MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") supports the diagnosis of Alzheimer disease when it shows evidence of decreased volume of the hippocampi out of proportion to rest of the brain. Advanced brain imaging should not be obtained in this patient before she is assessed for depression, a reversible cause of cognitive impairment."
+]
+},
+{
+"type":"p",
+"hlId":"e99d51",
+"children":[
+"Vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is reasonable in patients with new cognitive decline and other clinical symptoms or examination findings consistent with this diagnosis. However, on the basis of the patient's history of recently having been widowed, plus symptoms of insomnia and anhedonia, depression is more likely than vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency, and depression screening should occur first."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_1_4",
+"objective":{
+"__html":"Screen for depression in an elderly patient."
+},
+"references":[
+[
+"Kok RM, Reynolds CF 3rd. Management of depression in older adults: a review. JAMA. 2017;317:2114-22. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28535241",
+"target":"_blank"
+},
+"children":[
+"PMID: 28535241"
+]
+},
+" doi:10.1001/jama.2017.5706"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":86,
+"C":1,
+"D":3,
+"E":0
+},
+"hlIds":[
+"cc01f2",
+"91a32f",
+"ab9d96",
+"ca6a9c",
+"82a525",
+"f61f34",
+"d7d95f",
+"0b28c0",
+"e99d51"
+]
+}

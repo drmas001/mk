@@ -1,0 +1,199 @@
+{
+"id":"mk19_b_gm_q070",
+"number":70,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 70",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"f754d2",
+"children":[
+"A 24-year-old man is evaluated during a routine health examination. He received the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine and one dose of the quadrivalent meningococcal conjugate vaccine when he was 18 years old, before starting college. He received the influenza and COVID-19 vaccines during the most recent influenza season and has additionally completed the hepatitis B vaccine series. He has not received the human papillomavirus vaccine series. He does not smoke cigarettes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"37f54c",
+"children":[
+"Which of the following is the most appropriate vaccination strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer a second dose of quadrivalent meningococcal conjugate vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Administer the human papillomavirus vaccine series"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Administer the 23-valent pneumococcal polysaccharide vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No vaccines are indicated at this time"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a7745e",
+"children":[
+"Individuals aged 11 to 26 years should receive human papillomavirus vaccination, ideally administered between age 11 and 12 years or between age 13 and 26 years if not given previously."
+]
+},
+{
+"type":"keypoint",
+"hlId":"81defc",
+"children":[
+"A history of human papillomavirus infection or an abnormal Pap smear does not change the recommendation for human papillomavirus vaccination."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c14435",
+"children":[
+"The most appropriate vaccination strategy for this patient is to administer the human papillomavirus (HPV) vaccine series (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). HPV vaccination prevents persistent HPV infection, which can lead to cervical, anogenital, and nasopharyngeal cancers. The vaccine should be administered between age 11 and 12 years or between the ages of 13 and 26 years if not given previously. Individuals younger than 15 years can receive a two-dose series, whereas those aged 15 years or older, such as this patient, should receive a three-dose series. A history of HPV infection or an abnormal Pap smear does not change the recommendation for vaccination. The HPV vaccine is considered safe for individuals aged 27 to 45 years; unvaccinated individuals in this age group should participate in shared decision making with their physician about the benefits and risks of vaccination. Vaccination is not recommended during pregnancy, although no harmful effects have been noted when inadvertently given to pregnant women and pregnancy testing is not necessary before vaccination."
+]
+},
+{
+"type":"p",
+"hlId":"35b734",
+"children":[
+"Administration of a second dose of quadrivalent meningococcal conjugate vaccine (MenACWY) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated for this patient. The Advisory Committee on Immunization Practices recommends routine vaccination with MenACWY for adolescents aged 11 or 12 years, with a booster dose at age 16 years. Eight weeks should elapse between primary vaccination and booster. If the first dose was administered after age 16 years, such as in this patient, a booster is not required. College freshmen living in resident halls should receive the vaccine within 5 years of enrollment."
+]
+},
+{
+"type":"p",
+"hlId":"91a485",
+"children":[
+"For healthy nonsmokers with no high-risk medical conditions, such as this patient, pneumococcal vaccination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated until age 65 years. In addition, if pneumococcal vaccination were indicated because of a high-risk medical condition, the preferred vaccination options would be the 20-valent pneumococcal conjugate vaccine alone or the 15-valent pneumococcal conjugate vaccine followed by the 23-valent pneumococcal polysaccharide vaccine at least 1 year later."
+]
+},
+{
+"type":"p",
+"hlId":"79609f",
+"children":[
+"Because individuals between age 11 and 26 years should receive HPV vaccination, not offering the HPV vaccine series to this patient is not the best strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_2_3",
+"objective":{
+"__html":"Prevent human papillomavirus infection with appropriate immunization."
+},
+"references":[
+[
+"Murthy N, Wodi AP, Bernstein H, et al; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M22-0036",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/35175828",
+"target":"_blank"
+},
+"children":[
+"PMID: 35175828"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":78,
+"C":2,
+"D":12,
+"E":0
+},
+"hlIds":[
+"91054a",
+"f754d2",
+"37f54c",
+"a7745e",
+"81defc",
+"c14435",
+"35b734",
+"91a485",
+"79609f"
+]
+}

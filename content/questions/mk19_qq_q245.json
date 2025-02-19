@@ -1,0 +1,166 @@
+{
+"id":"mk19_qq_q245",
+"number":245,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 245",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a3e920",
+"children":[
+"An audit of emergency department records reveals a high percentage of inappropriate antibiotic prescribing for upper respiratory tract infections. The importance of this finding was highlighted by the recent hospitalization of an elderly woman with drug-related hypersensitivity syndrome. Additionally, a noted increase in antibiotic resistance to trimethoprim-sulfamethoxazole has been documented. An intervention is planned to decrease inappropriate antibiotic prescribing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4f3940",
+"children":[
+"Which of following is the most appropriate quality improvement intervention?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lean model"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mandatory physician education"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plan-Do-Study-Act quality improvement cycle"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Six Sigma"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6d380b",
+"children":[
+"The Plan-Do-Study-Act cycle is a quality improvement approach in which a specific change is planned and implemented on a limited scale, the results are observed, and action is taken based on what is learned."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ec913b",
+"children":[
+"The Plan-Do-Study-Act (PDSA) cycle (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a quality improvement approach in which a specific change is planned and implemented on a limited scale, the results are observed, and action is taken based on what is learned. The first step in a PDSA cycle in this case would be to plan an intervention that would remedy inappropriate antibiotic prescribing for upper respiratory tract infections. The Act step involves refining the intervention to achieve the ideal outcome based upon what is learned by evaluating the limited intervention. This approach to quality improvement works well in a small-scale health care environment, such as a small office, as well as in a large-scale environment, such as a hospital or health care system."
+]
+},
+{
+"type":"p",
+"hlId":"87b5d4",
+"children":[
+"The Lean model (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") aims to maximize value and minimize waste by closely examining a system's processes and eliminating non–value-added activities within the system. Value stream mapping can be used to graphically display the steps of a process and the time required for each step, thereby highlighting process inefficiencies or areas of waste and allowing for their improvement. Lean also uses a 5S strategy (Sort, Shine, Straighten, Systemize, and Sustain) to create an organized workplace. Lean, for example, may be used to improve the time used to obtain, submit, analyze, and report the results of a laboratory test. Lean may improve efficacy of certain processes in the emergency department but is not the best model to reduce inappropriate antibiotic prescribing."
+]
+},
+{
+"type":"p",
+"hlId":"42abd4",
+"children":[
+"Mandatory physician education (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") as a stand-alone intervention for quality improvement rarely, if ever, changes physician behavior. Physician education as part of a multimodal intervention, including a PDSA cycle, is much more likely to reduce inappropriate antibiotic prescribing."
+]
+},
+{
+"type":"p",
+"hlId":"aacdc3",
+"children":[
+"Six Sigma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a quality improvement model that improves processes by identifying and removing causes of error and minimizing variability in patient care. The term Six Sigma is derived from statistical quality control measures in manufacturing processes and refers to a process that delivers nearly perfect production quality. The Six Sigma model achieves quality improvement by implementing several methods, including the stepwise DMAIC (Define, Measure, Analyze, Improve, and Control) process. The Define step of DMAIC involves developing the objectives of the project. In the Measure step, baseline data on the number and types of defects within the system are measured. The Analyze stage uses the data collected to determine the magnitude of the effects. The Improve step involves implementation of tools to improve the process. Finally, in the Control phase, future processes are controlled to sustain the gains. Six Sigma may be applied to complex, multistep health care processes, such as the ordering and administration of high-risk medications like chemotherapy, to decrease medication errors. Six Sigma may be too cumbersome and complex to address inappropriate antibiotic prescribing in the emergency department."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s2_3_1",
+"objective":{
+"__html":"Implement the Plan-Do-Study-Act cycle in quality improvement."
+},
+"references":[
+[
+"Johnson MC, Hulgan T, Cooke RG, et al. Operationalising outpatient antimicrobial stewardship to reduce system-wide antibiotics for acute bronchitis. BMJ Open Qual. 2021;10. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34210668",
+"target":"_blank"
+},
+"children":[
+"PMID: 34210668"
+]
+},
+" doi:10.1136/bmjoq-2020-001275"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"a3e920",
+"4f3940",
+"6d380b",
+"ec913b",
+"87b5d4",
+"42abd4",
+"aacdc3"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q072",
+"number":72,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bfd0b8",
+"children":[
+"A 30-year-old man is hospitalized for a 3-day history of progressive fatigue, fever, and shortness of breath. He underwent surgical aortic valve replacement 3 years ago. He also has end-stage kidney disease, for which he receives hemodialysis. Medications are lisinopril, sevelamer, and warfarin."
+]
+},
+{
+"type":"p",
+"hlId":"529bcd",
+"children":[
+"On physical examination, blood pressure is 145/34 mm Hg and pulse rate is 120/min. Cardiac examination reveals bounding pulses and a loud decrescendo diastolic murmur at the left sternal border. Crackles are heard at the lung bases."
+]
+},
+{
+"type":"p",
+"hlId":"d8d7eb",
+"children":[
+"An ECG shows prolonged first-degree atrioventricular block. A chest radiograph reveals pulmonary edema. A transthoracic echocardiogram reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 60% with normal left ventricular dimensions and a 1.5-cm vegetation on the aortic valve bioprosthesis associated with severe aortic regurgitation."
+]
+},
+{
+"type":"p",
+"hlId":"988e3a",
+"children":[
+"Multiple blood cultures are obtained, and empiric intravenous antibiotic therapy is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Early surgical aortic valve replacement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Placement of a temporary pacemaker"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No change in therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8d3087",
+"children":[
+"Early surgical valve replacement is indicated in patients with infective endocarditis and heart failure, annular or aortic abscess, or destructive penetrating lesions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0294ae",
+"children":[
+"The most appropriate management is early surgical aortic valve replacement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's history and physical examination findings are consistent with infective endocarditis (IE), severe aortic regurgitation (murmur, bounding pulses, widened pulse pressure), and heart failure. In addition, the ECG demonstrating prolonged first-degree atrioventricular block is concerning for involvement of the atrioventricular node, which sits close to the aortic valve and may be involved in aortic valve endocarditis, especially if an aortic abscess is present. In patients with IE who present with valve dysfunction resulting in symptoms of heart failure, or IE complicated by heart block, annular or aortic abscess, or destructive penetrating lesions, early surgery during the initial hospitalization and before completion of a full therapeutic course of antibiotics is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"d6e60c",
+"children":[
+"Occasionally, cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to define coronary anatomy may be pursued before surgical aortic valve replacement to determine whether adjunctive coronary artery bypass grafting is needed. However, the catheterization findings would not change the need for aortic valve replacement and should not delay surgical management in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"598113",
+"children":[
+"Similarly, placement of a temporary pacemaker (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") does not address the underlying worsening aortic valve infection and conduction system compromise by an abscess; therefore, it should not delay surgical management."
+]
+},
+{
+"type":"p",
+"hlId":"ba6db1",
+"children":[
+"Patients with IE and heart failure treated with surgery have a 21% in-hospital mortality rate compared with a rate of 45% in those treated medically. In addition, extensive paravalvular infections (including annular or aortic abscesses and destructive penetrating lesions or fistulae) are associated with a mortality rate of 40% or higher and heart block. Early surgery is associated with an actuarial survival rate of 75% at 5 years. Continuing current therapy without early surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_9_1",
+"objective":{
+"__html":"Treat infective endocarditis with early valve replacement surgery."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":74,
+"C":5,
+"D":18,
+"E":0
+},
+"hlIds":[
+"bfd0b8",
+"529bcd",
+"d8d7eb",
+"988e3a",
+"cb2b54",
+"8d3087",
+"0294ae",
+"d6e60c",
+"598113",
+"ba6db1"
+]
+}

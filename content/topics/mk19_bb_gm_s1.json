@@ -1,0 +1,1987 @@
+{
+"id":"mk19_bb_gm_s1",
+"subspecialtyId":"gm",
+"title":"Biostatistics",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_gm_s1",
+"title":{
+"__html":"Biostatistics"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"f8f777",
+"children":[
+"Biostatistics"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_1",
+"title":{
+"__html":"Sensitivity, Specificity, Predictive Values, and Likelihood Ratios"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"e872e0",
+"children":[
+"Sensitivity, Specificity, Predictive Values, and Likelihood Ratios"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"442b92",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Sensitivity"
+]
+},
+" is the ability of a test to detect a disease when it is truly present. ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Specificity"
+]
+},
+" is the ability of a test to exclude disease when it is truly absent."
+]
+},
+{
+"type":"p",
+"hlId":"1c6c02",
+"children":[
+"The ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"positive predictive value"
+]
+},
+" is the probability that a positive test is a true positive result, and the ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"negative predictive value"
+]
+},
+" is the probability that a negative test is a true negative result."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"55a665",
+"children":[
+"As the prevalence of a condition increases, the positive predictive value increases and the negative predictive value decreases."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"d89e09",
+"children":[
+"Changes in prevalence do not alter the sensitivity or specificity but do alter the predictive values."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"b4dc41",
+"children":[
+"A ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"likelihood ratio ("
+]
+},
+{
+"type":"abbreviation",
+"title":"likelihood ratio",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"LR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+")"
+]
+},
+" is a measurement of the odds of having a disease independent of the disease prevalence. Separate LRs are calculated for use when a test result is positive (LR+) or negative (LR−):"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"16f091",
+"children":[
+"LR+ = Sensitivity/(1 − Specificity)"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"f96e2d",
+"children":[
+"LR− = (1 − Sensitivity)/Specificity"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"b4860d",
+"children":[
+" ",
+{
+"type":"alert",
+"children":[
+"LR+ of 2, 5, and 10 increase the probability of disease by approximately 15%, 30%, and 45%, respectively."
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"07890d",
+"children":[
+" ",
+{
+"type":"alert",
+"children":[
+"LR− of 0.5, 0.2, and 0.1 decrease the probability of disease by approximately 15%, 30%, and 45%, respectively."
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_2",
+"title":{
+"__html":"Study Designs"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"83648e",
+"children":[
+"Study Designs"
+]
+},
+"children":[
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_gm_s1_inline_t1",
+"mk19_bb_gm_s1_inline_t2"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_3",
+"title":{
+"__html":"Risk Estimates"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"039e25",
+"children":[
+"Risk Estimates"
+]
+},
+"children":[
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_bb_gm_s1_inline_t3"
+],
+"forceOpen":true
+},
+{
+"type":"p",
+"hlId":"72b8c7",
+"children":[
+"An ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"odds ratio (OR)"
+]
+},
+" estimates the odds of having or not having a particular outcome. When comparing therapeutic outcomes, in most cases OR can be substituted for ",
+{
+"type":"abbreviation",
+"title":"relative risk",
+"children":[
+"RR"
+]
+},
+" as an equivalent measurement."
+]
+},
+{
+"type":"p",
+"hlId":"de9227",
+"children":[
+{
+"type":"abbreviation",
+"title":"aortic regurgitation; absolute risk",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"AR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+", RR, and OR"
+]
+},
+" are estimates of the cumulative risk over time, usually defined at the end of the study period."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"6d3fbc",
+"children":[
+"A disadvantage of RR is the potential for exaggeration. For example, interventions that reduce the rate of a disease from 40% to 20% and 4% to 2% each have an RR reduction of 50%, but the ",
+{
+"type":"abbreviation",
+"title":"absolute risk reduction",
+"children":[
+"ARR"
+]
+},
+" for the first case is 20% and the ARR for the second case is only 2%. Based on the ARR, the ",
+{
+"type":"abbreviation",
+"title":"number needed to treat",
+"children":[
+"NNT"
+]
+},
+" can be calculated. In the first case, the NNT is 5 (1/0.2), whereas the NNT for the second case is 50 (1/0.02)."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_4",
+"title":{
+"__html":"Confidence Interval"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"32cf27",
+"children":[
+"Confidence Interval"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"024ef6",
+"children":[
+"The ",
+{
+"type":"abbreviation",
+"title":"confidence interval",
+"children":[
+"CI"
+]
+},
+" provides boundaries within which exists a high probability (95% by convention) of finding the “true” value. For example, if the measured mean difference between two groups is 2.4 and the 95% CI is 1.9 to 3.0, the probability that the true value lies between 1.9 and 3.0 is 95%."
+]
+},
+{
+"type":"p",
+"hlId":"6c8a87",
+"children":[
+"When used in association with RR, if the CI includes the number 1, no risk or benefit exists; the outcomes for the control and experimental groups are statistically the same."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_5",
+"title":{
+"__html":"<i>P</i> Values, Type I and Type II Errors in Clinical Research"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4a9ea5",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" Values, Type I and Type II Errors in Clinical Research"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"8e6fdd",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"The ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" value"
+]
+},
+" indicates the likelihood of the study result being caused by chance alone. A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" value of less than 0.05 represents a 1 in 20 chance of obtaining the observed results by chance."
+]
+},
+{
+"type":"p",
+"hlId":"f5bb1d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"A type I error"
+]
+},
+" is incorrectly concluding that a statistically significant difference exists between the experimental and control groups. If the study's ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" value is <0.05, then a <5% chance exists that a type I error has occurred. ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"A type II error"
+]
+},
+" is incorrectly concluding no difference exists between the experimental and control groups. ",
+{
+"type":"alert",
+"children":[
+"Studies with small numbers of subjects may not have the statistical “power” to detect true differences between groups and may be subject to type II errors."
+]
+}
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"0f8fb5",
+"children":[
+"Do not confuse statistical significance with clinical importance; a study that reports statistically significant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" values may not be clinically relevant if the effect size is small (absolute difference between outcomes is small). For example, when comparing a new cancer treatment with current therapy, the new treatment may offer a statistically significant increase in survival that translates to a possibly clinically unimportant few weeks (especially if greater morbidity and/or cost is associated with the new treatment)."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s1_6",
+"title":{
+"__html":"Test Yourself"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7866cc",
+"children":[
+"Test Yourself"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"e64a04",
+"class":"test",
+"children":[
+"A 19-year-old woman with ",
+{
+"type":"abbreviation",
+"title":"right lower quadrant",
+"children":[
+"RLQ"
+]
+},
+" abdominal pain and fever has an estimated pretest probability of acute appendicitis of 50%. An appendiceal CT scan shows inflammation and a thickened appendiceal wall. This finding is associated with an LR+ of 13.3 for acute appendicitis. What is the posttest likelihood of acute appendicitis?"
+]
+},
+{
+"type":"p",
+"hlId":"14db33",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+">95% (50% plus 45% = 95%). The key to this question is remembering that an LR+ of 10 increases the posttest likelihood of the diagnosis by 45%."
+]
+},
+{
+"type":"p",
+"hlId":"39b95b",
+"class":"test",
+"children":[
+"The mortality rate after cardiogenic shock managed with standard care is 72%, but the rate for patients receiving a new medication is 67%. How many patients with cardiogenic shock must be treated with the new medication to save one life?"
+]
+},
+{
+"type":"p",
+"hlId":"5d5c80",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+"The NNT is [1/(0.72 − 0.67)] = 1/0.05 = 20."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_gm_s1_inline_t1":{
+"id":"mk19_bb_gm_s1_inline_t1",
+"number":1,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Characteristics of Study Designs"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"e76c6c",
+"children":[
+"Study Table: Characteristics of Study Designs"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a1fa27",
+"class":"col hd l",
+"children":[
+"Type"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"93932b",
+"class":"col hd l",
+"children":[
+"Characteristics"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"56c687",
+"class":"cell txt l",
+"children":[
+"Cross-sectional"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e2842c",
+"class":"cell txt l",
+"children":[
+"The presence of the presumed risk factor and presence of the outcome are measured at one point in time in a population."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9f8175",
+"class":"cell txt l",
+"children":[
+"Retrospective (case control)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"39d586",
+"class":"cell txt l",
+"children":[
+"Subjects are divided into groups based on the presence or absence of the outcome of interest, and then the frequency of risk factors in each group is compared."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"dec5ae",
+"class":"cell txt l",
+"children":[
+"Prospective (cohort)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"458fcc",
+"class":"cell txt l",
+"children":[
+"Subjects are divided into groups based on the presence or absence of the presumed risk factor and followed for a period of time."
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d40007",
+"class":"cell txt l",
+"children":[
+"At the end of the study, the frequency of the outcome is compared."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2a80c1",
+"class":"cell txt l",
+"children":[
+"Randomized controlled trial"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"75484f",
+"class":"cell txt l",
+"children":[
+"Subjects are randomly divided into groups; one group receives the intervention (patients and researchers may be blinded to treatment, termed ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"double-blind"
+]
+},
+") and followed forward in time."
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d40007",
+"class":"cell txt l",
+"children":[
+"At the end of the study, the frequency of the outcome is compared."
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e4cd3b",
+"class":"cell txt l",
+"children":[
+"This study design reduces the effect of unmeasured (confounding) variables that may influence outcomes of a study."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8fc16f",
+"class":"cell txt l",
+"children":[
+"Systematic review"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d2753f",
+"class":"cell txt l",
+"children":[
+"Systematic reviews involve a systematic search of the literature using predefined criteria to collect all studies that address the topic. This systematic approach minimizes selection bias and increases the strength of the information presented."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fb98d7",
+"class":"cell txt l",
+"children":[
+"Meta-analysis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"576020",
+"class":"cell txt l",
+"children":[
+"Usually, multiple clinical trials identified by a systematic review using similar randomization techniques and interventions can be combined into one large analysis to address very precise clinical questions."
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3043e2",
+"class":"cell txt l",
+"children":[
+"The results may be analyzed using the technique of meta-analysis, in which all trial results are combined to create a single point estimate. By combining the results of many trials, the power to detect differences between the intervention and the control or comparator increases."
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_bb_gm_s1_inline_t2":{
+"id":"mk19_bb_gm_s1_inline_t2",
+"number":2,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Strength of Research Designs in Descending Order (Strongest to Weakest)"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"da3cb3",
+"children":[
+"Study Table: Strength of Research Designs in Descending Order (Strongest to Weakest)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5a7ad",
+"class":"col hd l",
+"children":[
+"Description"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"65c195",
+"class":"cell txt l",
+"children":[
+{
+"type":"abbreviation",
+"title":"randomized controlled trial",
+"children":[
+"RCT"
+]
+},
+" including systematic reviews of RCTs"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"98a0ad",
+"class":"cell txt l",
+"children":[
+"Clinical trial without randomization"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9257fa",
+"class":"cell txt l",
+"children":[
+"Cross-sectional, case-control, or cohort study"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"836151",
+"class":"cell txt l",
+"children":[
+"Evidence based on experience, descriptive studies, or expert opinion"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_bb_gm_s1_inline_t3":{
+"id":"mk19_bb_gm_s1_inline_t3",
+"number":3,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Common Calculations Used in Clinical Research "
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"fb9ba1",
+"children":[
+"Study Table: Common Calculations Used in Clinical Research "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf5f30",
+"class":"col hd l",
+"children":[
+"Term"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0b890b",
+"class":"col hd l",
+"children":[
+"Definition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3ea4f7",
+"class":"col hd l",
+"children":[
+"Calculation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f4c6f8",
+"class":"col hd l",
+"children":[
+"Notes"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f38718",
+"class":"cell txt l",
+"children":[
+"Absolute risk (AR)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c74ead",
+"class":"cell txt l",
+"children":[
+"The probability of an event occurring in a group during a specified time period"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c020d6",
+"class":"cell txt l",
+"children":[
+"AR = patients with event / total patients"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7d22c8",
+"class":"cell txt l",
+"children":[
+"Also known as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"event rate"
+]
+},
+". Often, an experimental event rate (",
+{
+"type":"abbreviation",
+"title":"experimental event rate",
+"children":[
+"EER"
+]
+},
+") is compared with a control event rate (",
+{
+"type":"abbreviation",
+"title":"control event rate",
+"children":[
+"CER"
+]
+},
+")"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"89ed17",
+"class":"cell txt l",
+"children":[
+"Relative risk (RR)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"09b9b6",
+"class":"cell txt l",
+"children":[
+"The ratio of the probability of developing a disease with a risk factor present to the probability of developing the disease with the risk factor absent"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"99923d",
+"class":"cell txt l",
+"children":[
+"RR = EER / CER"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c38c6a",
+"class":"cell txt l",
+"children":[
+"Used in cohort studies and ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"randomized controlled trial",
+"children":[
+"RCT"
+]
+},
+"s"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0e27f9",
+"class":"cell txt l",
+"children":[
+"Absolute risk reduction (ARR)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"85d801",
+"class":"cell txt l",
+"children":[
+"The ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"absolute difference"
+]
+},
+" in rates of events between an experimental group and a control group"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"69f0ba",
+"class":"cell txt l",
+"children":[
+"ARR = | EER − CER |"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"edeaa5",
+"class":"cell txt l",
+"children":[
+"Critical to understanding number needed to treat (below)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c8e06a",
+"class":"cell txt l",
+"children":[
+"Relative risk reduction (RRR)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b49ef9",
+"class":"cell txt l",
+"children":[
+"The ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ratio"
+]
+},
+" of ARR to the event rate among controls"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a40553",
+"class":"cell txt l",
+"children":[
+"RRR = | EER − CER | / CER"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ab7b29",
+"class":"cell txt l",
+"children":[
+"For very infrequent events, RR can be large while AR is small"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b1e08a",
+"class":"cell txt l",
+"children":[
+"Number needed to treat (NNT)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6885ac",
+"class":"cell txt l",
+"children":[
+"Number of patients needed to receive a treatment for one additional patient to benefit"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"756714",
+"class":"cell txt l",
+"children":[
+"NNT = 1 / ARR"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8564c3",
+"class":"cell txt l",
+"children":[
+"A good estimate of the effect size in easy-to-understand terms for patients"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f2e687",
+"class":"cell txt l",
+"children":[
+"Number needed to harm (NNH)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c33a0b",
+"class":"cell txt l",
+"children":[
+"Number of patients needed to receive a treatment for one additional patient to be harmed"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"508bec",
+"class":"cell txt l",
+"children":[
+"NNH = 1 / ",
+{
+"type":"abbreviation",
+"title":"absolute risk increase",
+"children":[
+"ARI"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"43347d",
+"class":"cell txt l",
+"children":[
+"ARI is the absolute risk increase and equals | EER − CER | when the event is an unfavorable outcome (e.g., drug side effect)"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

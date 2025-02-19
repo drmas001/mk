@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q041",
+"number":41,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"02bef3",
+"children":[
+"A 45-year-old man has a 3-year history of limiting exertional dyspnea. He has no risk factors for cardiac or pulmonary disease and no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"6b452a",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. BMI is 35. Cardiopulmonary examination is normal. Hemoglobin level is normal. Chest radiograph, ECG, spirometry, and echocardiogram are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"101a62",
+"children":[
+"Which of the following is the most appropriate next step in the evaluation of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiopulmonary exercise testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"N-terminal pro–B-type natriuretic peptide measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right heart catheterization"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cef33c",
+"children":[
+"Cardiopulmonary exercise testing can be helpful if the cause of dyspnea remains elusive following completion of standard testing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7a6302",
+"children":[
+"Cardiopulmonary testing can also support the diagnosis of deconditioning as a cause of dyspnea."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c5e187",
+"children":[
+"Cardiopulmonary exercise testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be performed next. If the cause of dyspnea remains elusive following completion of standard testing, cardiopulmonary exercise testing can be helpful. It can also aid in the evaluation of patients with multiple potential causes of dyspnea. Cardiopulmonary exercise testing involves continuous monitoring of ECG, blood pressure, respiratory rate, pulse oximetry, and other parameters in addition to more sophisticated measurements of oxygen consumption, carbon dioxide production, and work output. Cardiopulmonary testing narrows the differential diagnosis of dyspnea by identifying the physiologic basis for the patient's symptoms. It can also support the diagnosis of deconditioning as a cause of symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"2fc389",
+"children":[
+"Chest CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used to evaluate lung lesions and other chest pathology, including interstitial, pleural, or mediastinal disease. U.S. Preventive Services Task Force guidelines also recommend lung cancer screening with low-dose CT for patients aged 50 through 80 years who have no symptoms of lung cancer and at least a 20-pack-year smoking history and who are current smokers or have quit within the last 15 years. This patient has few symptoms to suggest pulmonary disease, and he has a normal pulmonary examination, oxygen saturation, and chest radiograph. In addition, he does not meet the criteria for lung cancer screening."
+]
+},
+{
+"type":"p",
+"hlId":"63eab8",
+"children":[
+"For undifferentiated dyspnea, obtaining a B-type natriuretic peptide (BNP) or N-terminal pro–B-type (NT-proBNP) natriuretic peptide level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be reasonable to help differentiate cardiac from pulmonary causes of dyspnea. In this patient with a normal physical examination, chest radiograph, spirometry, ECG and echocardiogram, a BNP NT-proBNP level is unlikely to be helpful. In addition, BNP and NT-proBNP levels are reduced in patients with an elevated BMI."
+]
+},
+{
+"type":"p",
+"hlId":"034a27",
+"children":[
+"Pulmonary hypertension (PH) is defined as a resting mean pulmonary artery pressure of 25 mm Hg or greater measured during right heart catheterization. The initial symptoms of PH are nonspecific, often consisting of exertional dyspnea and fatigue. If PH is suspected, transthoracic echocardiography should be performed, as it allows an estimation of pulmonary arterial systolic pressure and assessment of both right and left heart size and function. Right heart catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") confirms the diagnosis of PH and is typically an essential component of the diagnostic evaluation. This patient's echocardiogram was normal, and right heart catheterization is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_4_1",
+"objective":{
+"__html":"Evaluate dyspnea with cardiopulmonary exercise testing."
+},
+"references":[
+[
+"O'Donnell DE, Milne KM, Vincent SG, et al. Unraveling the causes of unexplained dyspnea: the value of exercise testing. Clin Chest Med. 2019;40:471-499. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31078223",
+"target":"_blank"
+},
+"children":[
+"PMID: 31078223"
+]
+},
+" doi:10.1016/j.ccm.2019.02.014"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"02bef3",
+"6b452a",
+"101a62",
+"cef33c",
+"7a6302",
+"c5e187",
+"2fc389",
+"63eab8",
+"034a27"
+]
+}

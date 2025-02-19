@@ -1,0 +1,226 @@
+{
+"id":"mk19_a_id_q045",
+"number":45,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f27ef9",
+"children":[
+"A 62-year-old woman is evaluated in the emergency department with a self-diagnosis of shingles. Medical history is notable for chickenpox as a child and breast cancer; she is receiving chemotherapy with doxorubicin, cyclophosphamide, and paclitaxel."
+]
+},
+{
+"type":"p",
+"hlId":"599a2b",
+"children":[
+"The lesions are ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f045",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f045"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5a228f",
+"children":[
+"Which of the following transmission-based precautions should be initiated?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Airborne precautions"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Airborne and contact precautions"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Contact precautions"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Contact and droplet precautions"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Droplet precautions"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f2646d",
+"children":[
+"Disseminated herpes zoster is diagnosed in immunocompromised patients when only one dermatome is involved."
+]
+},
+{
+"type":"keypoint",
+"hlId":"44611a",
+"children":[
+"Because disseminated herpes zoster may involve the respiratory tract, contact and airborne precautions are necessary to prevent the spread of disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2d50bc",
+"children":[
+"Airborne and contact precautions are necessary for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). She is immunocompromised and has herpes zoster infection, which is caused by the varicella-zoster virus (VZV). In immunocompetent persons, disseminated herpes zoster is defined as involvement of more than two dermatomes or vesicular lesions that cross the midline. In immunocompromised persons, the risk for dissemination is increased, thus any dermatomal involvement is considered disseminated zoster. Disseminated herpes zoster infection includes a risk of VZV dissemination to the respiratory tract; transmission to nonimmune health care personnel or other patients (no history of naturally acquired chickenpox or unvaccinated) can then occur by direct contact with vesicles or by small (≤5 microns) airborne respiratory droplets. Patients with disseminated zoster should be cared for using contact (gloves and gown for all contact) and airborne (an airborne infection isolation room, also referred to as a negative pressure room) precautions; health care personnel should also wear fit-tested N95 respirators."
+]
+},
+{
+"type":"p",
+"hlId":"c29eeb",
+"children":[
+"Airborne precautions alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), without contact precautions, would not provide protection from direct contact with herpes zoster lesions, which are infectious until they are dry and crusted over."
+]
+},
+{
+"type":"p",
+"hlId":"519fb3",
+"children":[
+"Active herpes zoster lesions are infectious through direct contact with vesicular fluid. The rash develops in clusters of vesicles. New vesicles continue to form over 3 to 5 days and progressively dry and crust over. Whenever possible, lesions should be covered, and nonimmune persons should not have direct contact with active vesicular lesions. In immunocompetent patients, contact precautions alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be appropriate with only one involved dermatome. However, this patient is immunocompromised, and therefore requires contact and airborne precautions."
+]
+},
+{
+"type":"p",
+"hlId":"6763e7",
+"children":[
+"Droplet precautions provide protection only from large droplet nuclei (>5 microns). For droplet precautions, health care personnel should wear face or surgical masks when within 3 feet of the patient. Small droplet nuclei, as with disseminated herpes zoster infection, can be airborne and travel much larger distances on air currents. Droplet precautions alone or droplet precautions and contact precautions combined (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D, E"
+]
+},
+") is not sufficient to protect against airborne spread of the virus."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_2",
+"objective":{
+"__html":"Prevent transmission of varicella-zoster virus."
+},
+"references":[
+[
+"Siegel JD, Rhinehart E, Jackson M, Chiarello L, the Healthcare Infection Control Practices Advisory Committee. 2007 Guideline for isolation precautions: Preventing transmission of infectious agents in healthcare settings. Last update: July 2019. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html",
+"target":"_blank"
+},
+"children":[
+"https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html"
+]
+},
+". Accessed November 9, 2019."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":39,
+"C":43,
+"D":17,
+"E":1
+},
+"figuresContent":{
+"mk19_a_id_mcq_f045":{
+"id":"mk19_a_id_mcq_f045",
+"number":45,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0f34c037f588e0beece166250328108c",
+"height":601,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f27ef9",
+"599a2b",
+"5a228f",
+"f2646d",
+"44611a",
+"2d50bc",
+"c29eeb",
+"519fb3",
+"6763e7"
+]
+}

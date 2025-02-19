@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_np_q079",
+"number":79,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 79",
+"stimulus":[
+{
+"type":"p",
+"hlId":"966a9b",
+"children":[
+"A 67-year-old man is evaluated during a follow-up visit for resistant hypertension. He was recently evaluated for primary hyperaldosteronism, and the screening plasma aldosterone concentration/plasma renin activity ratio was >20. A dedicated adrenal CT scan showed diffuse bilateral adrenal hyperplasia. The patient also has type 2 diabetes mellitus, hyperlipidemia, coronary artery disease, and activity-limiting COPD. He does not want surgery under any circumstances. Medications are rosuvastatin, metformin, canagliflozin, amlodipine, enalapril, metoprolol, chlorthalidone, low-dose aspirin, albuterol, and tiotropium."
+]
+},
+{
+"type":"p",
+"hlId":"39633f",
+"children":[
+"On physical examination, blood pressure is 160/94 mm Hg in both arms, pulse rate is 76/min, and respiration rate is 18/min. BMI is 24. Cardiac examination is notable for an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+". Pulmonary examination reveals occasional expiratory wheezing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bilateral adrenal vein sampling"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eplerenone therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the adrenal glands"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral sodium loading test"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e24808",
+"children":[
+"Primary hyperaldosteronism is the most common cause of secondary hypertension in middle-aged adults and an important cause of resistant hypertension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3cd8f0",
+"children":[
+"Primary hyperaldosteronism is most commonly caused by bilateral adrenal hyperplasia and is managed by an aldosterone receptor antagonist."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"93f8a8",
+"children":[
+"Initiating eplerenone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate next step in management. This patient with resistant hypertension was evaluated for secondary causes of hypertension. A plasma aldosterone concentration/plasma renin activity ratio >20 with a plasma aldosterone concentration of at least 15 ng/dL (414 pmol/L) is considered a positive result for primary aldosteronism and patients should be referred to an endocrinologist or nephrologist, who may perform additional testing to confirm inappropriate aldosterone secretion in a salt-replete state. Primary hyperaldosteronism is the most common cause of secondary hypertension in middle-aged adults and an important cause of resistant hypertension. In this patient, a dedicated adrenal CT scan shows diffuse bilateral adrenal hyperplasia, as seen in two thirds of patients with primary hyperaldosteronism. Diffuse bilateral hyperplasia is managed by an aldosterone receptor antagonist such as eplerenone."
+]
+},
+{
+"type":"p",
+"hlId":"0573c9",
+"children":[
+"Bilateral adrenal vein sampling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for aldosterone is used to distinguish between unilateral adenoma and bilateral hyperplasia in patients who are surgical candidates and would like to pursue surgical management. Functioning adrenal adenomas can be very small and may not be detected with advanced imaging, but they can be implicated as a cause of primary hyperaldosteronism if aldosterone secretion lateralizes to one gland. This patient has multiple comorbid conditions and does not want to pursue any surgical procedures. Therefore, adrenal vein sampling is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"512acd",
+"children":[
+"An MRI of the adrenal glands (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated because CT of the adrenal glands, which was already performed, has superior spatial resolution compared with MRI for the assessment of adrenal glands."
+]
+},
+{
+"type":"p",
+"hlId":"d22114",
+"children":[
+"In most patients, the diagnosis of primary hyperaldosteronism is confirmed by additional testing following a positive screening test. The oral sodium loading test is performed to detect autonomous aldosterone secretion following sodium chloride loading, either orally or by intravenous infusion. However, this confirmatory test is only performed after the patient's blood pressure is controlled and hypokalemia corrected. Although oral sodium loading (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a possible confirmatory test, it should not be initiated in this patient at this time."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_11_3",
+"objective":{
+"__html":"Treat primary hyperaldosteronism."
+},
+"references":[
+[
+"Funder JW, Carey RM, Mantero F, et al. The management of primary aldosteronism: case detection, diagnosis, and treatment: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2016;101:1889-1916. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26934393",
+"target":"_blank"
+},
+"children":[
+"PMID: 26934393"
+]
+},
+" doi:10.1210/jc.2015-4061"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":14,
+"B":75,
+"C":6,
+"D":6,
+"E":0
+},
+"hlIds":[
+"966a9b",
+"39633f",
+"1a5dcc",
+"e24808",
+"3cd8f0",
+"93f8a8",
+"0573c9",
+"512acd",
+"d22114"
+]
+}

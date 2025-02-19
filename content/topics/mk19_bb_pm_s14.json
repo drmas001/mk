@@ -1,0 +1,367 @@
+{
+"id":"mk19_bb_pm_s14",
+"subspecialtyId":"pm",
+"title":"Hemoptysis",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_pm_s14",
+"title":{
+"__html":"Hemoptysis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a3a8db",
+"children":[
+"Hemoptysis"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_pm_s14_1",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f818e2",
+"children":[
+"Bronchitis, bronchogenic carcinoma, and bronchiectasis are the most common causes of hemoptysis."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"252a0b",
+"children":[
+"Confirm that a patient has hemoptysis rather than epistaxis or ",
+{
+"type":"abbreviation",
+"title":"gastrointestinal",
+"children":[
+"GI"
+]
+},
+" bleeding; then check the platelet count and coagulation parameters."
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_pm_s14_inline_t1"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_pm_s14_2",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"2cc87d",
+"children":[
+"Treatment is cause specific. The cause of death from massive hemoptysis is asphyxiation from airway obstruction. If the bleeding site can be localized to one lung, position the patient with the bleeding lung in the dependent position. ",
+{
+"type":"alert",
+"children":[
+"Intubation and mechanical ventilation are required when adequate gas exchange is threatened."
+]
+},
+" Angiography can localize and treat bronchial artery lesions."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_pm_s14_inline_t1":{
+"id":"mk19_bb_pm_s14_inline_t1",
+"number":1,
+"bookId":"pm",
+"title":{
+"__html":"Study Table: Diagnostic Tests for Hemoptysis"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a3885e",
+"children":[
+"Study Table: Diagnostic Tests for Hemoptysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0cbc66",
+"class":"col hd l",
+"children":[
+"Test"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ea61e2",
+"class":"col hd l",
+"children":[
+"Considerations"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8cc259",
+"class":"cell txt l",
+"children":[
+"Chest x-ray"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5812de",
+"class":"cell txt l",
+"children":[
+" ",
+{
+"type":"alert",
+"children":[
+"Crucial initial study, but normal findings do not exclude lung cancer"
+]
+},
+" "
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5a6d69",
+"class":"cell txt l",
+"children":[
+"Fiberoptic bronchoscopy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c72710",
+"class":"cell txt l",
+"children":[
+"For patients at high risk for lung cancer even if chest x-ray is normal"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0cc136",
+"class":"cell txt l",
+"children":[
+"Chest CT"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"191c5a",
+"class":"cell txt l",
+"children":[
+"Alternative test when fiberoptic bronchoscopy is contraindicated or when bleeding persists despite normal bronchoscopic findings"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

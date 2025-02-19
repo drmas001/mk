@@ -1,0 +1,161 @@
+{
+"id":"mk19_a_id_q005",
+"number":5,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8c52fa",
+"children":[
+"A 42-year-old man with HIV infection seeks advice regarding HIV transmission risk. He is in a committed, monogamous relationship, and his husband is HIV negative (confirmed by fourth generation HIV testing 2 days ago). His HIV infection has been well-controlled for 10 years. His only medication is a fixed, co-formulated regimen of tenofovir alafenamide, emtricitabine, and bictegravir once daily."
+]
+},
+{
+"type":"p",
+"hlId":"9e14f3",
+"children":[
+"Laboratory studies 1 week ago showed an undetectable HIV-1 quantitative RNA, which remains the same from 6 months and 1 year ago. The last CD4 cell count was 650/µL."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fdf463",
+"children":[
+"Which of the following is the most appropriate management to prevent HIV transmission?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Consistent condom use with each episode of sex"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Daily HIV pre-exposure prophylaxis for the partner"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"On-demand HIV pre-exposure prophylaxis for the partner"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional preventive strategy necessary"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"65f29b",
+"children":[
+"The risk of HIV transmission is essentially zero in patients who have a sustained, undetectable viral load for at least 6 months (Undetectable = Untransmittable), so monogamous, serodifferent partners do not require further HIV prevention measures."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ab800a",
+"children":[
+"No additional prevention strategy is necessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Persons with HIV infection who have at least 6 months of sustained viral suppression have effectively no risk of sexually transmitting HIV to HIV-negative partners. A large multicenter, observational study of HIV serodiscordant couples (including same-sex and heterosexual couples) showed no transmissions of HIV during condomless sex from effectively treated HIV-positive to HIV-negative partners. Several other studies have similarly shown that HIV-positive persons with sustained viral suppression do not transmit HIV to their sexual partners. This is described as “Undetectable = Untransmittable” (U = U), which was endorsed by the CDC in 2017. The most important factor is that the HIV-positive partner is consistently taking antiretroviral therapy (ART) and achieves viral suppression, maintaining an undetectable viral load for at least 6 months. U = U has been particularly endorsed to minimize stigma around HIV, and it is encouraged that physicians involved in the care of persons with HIV share this important update with their patients."
+]
+},
+{
+"type":"p",
+"hlId":"7a19a3",
+"children":[
+"Condom use is unlikely to provide further HIV prevention in this committed, monogamous relationship considering the HIV-positive partner's sustained viral suppression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"b97b9e",
+"children":[
+"This patient's risk for transmitting HIV to his partner is effectively zero. HIV pre-exposure prophylaxis (PrEP) is an effective tool for HIV prevention and is often recommended for HIV-negative partners in serodiscordant relationships to prevent HIV acquisition from the HIV-positive partner. However, PrEP is most beneficial when the HIV-positive partner is not taking ART or does not have sustained viral suppression. Recommending daily or on-demand PrEP (“2-1-1” strategy of two pills on the day of planned sexual exposure and one pill on the subsequent 2 days) for the partner is also unlikely to provide benefit considering the patient's sustained virologic suppression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_1",
+"objective":{
+"__html":"Manage HIV transmission risk between serodiscordant partners."
+},
+"references":[
+[
+"Rodger AJ, Cambiano V, Bruun T, et al; PARTNER Study Group. Sexual activity without condoms and risk of HIV transmission in serodifferent couples when the HIV-positive partner is using suppressive antiretroviral therapy. JAMA. 2016;316:171-81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27404185",
+"target":"_blank"
+},
+"children":[
+"PMID: 27404185"
+]
+},
+" doi:10.1001/jama.2016.5148"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":30,
+"C":8,
+"D":26,
+"E":0
+},
+"hlIds":[
+"8c52fa",
+"9e14f3",
+"fdf463",
+"65f29b",
+"ab800a",
+"7a19a3",
+"b97b9e"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gm_q014",
+"number":14,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f8adb6",
+"children":[
+"A 62-year-old man is evaluated in the emergency department for syncope while playing basketball 1 hour earlier. The syncopal event lasted approximately 30 seconds as reported by his grandson. He had no symptoms before the event, and he experienced only fatigue afterward. Medical history is significant for hyperlipidemia. His only medication is moderate-intensity rosuvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"51bf69",
+"children":[
+"On physical examination, blood pressure is 101/62 mm Hg, and pulse rate is 58/min. A late-peaking, grade 4/6 systolic murmur is best heard at the right upper sternal border, with radiation to the carotid arteries."
+]
+},
+{
+"type":"p",
+"hlId":"164553",
+"children":[
+"ECG reveals left ventricular hypertrophy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ambulatory ECG monitoring"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inpatient cardiac monitoring"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tilt-table testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reassurance and discharge home"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c5b88a",
+"children":[
+"Patients with syncope and high-risk clinical characteristics should be considered for hospitalization and inpatient monitoring."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"60a373",
+"children":[
+"This patient with syncope and features suggestive of aortic stenosis should undergo inpatient cardiac monitoring and evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In patients with syncope, the presence of high-risk clinical characteristics should prompt consideration of hospitalization. This patient has several risk factors that are associated with a higher 30-day mortality rate (male sex, age >60 years, no syncopal prodrome, concern for structural heart disease based on clinical examination findings, and syncope during exertion). Other symptoms or findings on the history and physical examination that indicate a need for inpatient evaluation include cardiac arrhythmias (sustained or symptomatic ventricular tachycardia); symptomatic or high-risk bradycardia or heart block; pacemaker/implantable cardioverter-defibrillator malfunction; other structural heart abnormalities, such as hypertrophic cardiomyopathy; or severe anemia."
+]
+},
+{
+"type":"p",
+"hlId":"9a05a9",
+"children":[
+"When cardiac syncope is suspected, the evaluation should be tailored to the specific concern. Electrophysiology consultation can be useful for suspected arrhythmias. For patients with exertional syncope, cardiac stress testing may help to evaluate for ischemia. In this case, echocardiography is warranted to evaluate for severe aortic stenosis, given the history of a syncopal event and the physical examination findings (late-peaking systolic murmur heard best at the right upper sternal border)."
+]
+},
+{
+"type":"p",
+"hlId":"c7d873",
+"children":[
+"Extended outpatient cardiac monitoring with an ambulatory ECG monitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or an implantable loop recorder is appropriate for individuals with syncope of probable arrhythmic origin who do not have high-risk features. Patients with intermediate-risk syncope (stable structural heart disease with no family history of sudden cardiac death) may benefit from extended monitoring in an observation unit if one is available."
+]
+},
+{
+"type":"p",
+"hlId":"55fb84",
+"children":[
+"Tilt-table testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is primarily used with suspected vasovagal syndrome. It can also be helpful when orthostatic hypotension is suspected but the evaluation is inconclusive. Tilt-table testing is not indicated for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"8d6ff4",
+"children":[
+"Reassurance and discharge home (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are appropriate when a benign cause of syncope, such as neurally mediated syncope, is suspected. Neurally mediated syncope occurs most commonly in younger individuals and is associated with a prodrome of symptoms that may include nausea and diaphoresis. Patients with neurally mediated syncope can receive a limited evaluation, including physical examination and ECG; all findings are typically normal."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9_3",
+"objective":{
+"__html":"Manage high-risk syncope."
+},
+"references":[
+[
+"Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2017;136:e25-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28280232",
+"target":"_blank"
+},
+"children":[
+"PMID: 28280232"
+]
+},
+" doi:10.1161/CIR.0000000000000498"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":76,
+"C":4,
+"D":5,
+"E":0
+},
+"hlIds":[
+"f8adb6",
+"51bf69",
+"164553",
+"cb2b54",
+"c5b88a",
+"60a373",
+"9a05a9",
+"c7d873",
+"55fb84",
+"8d6ff4"
+]
+}

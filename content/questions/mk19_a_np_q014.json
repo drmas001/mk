@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_np_q014",
+"number":14,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ff2194",
+"children":[
+"A 34-year-old woman is evaluated for hypertension. During the past 3 months, two blood pressure measurements in health care settings averaged 150/90 mm Hg. During the same time period, three blood pressure measurements obtained outside of health care settings averaged 128/78 mm Hg. She has no other pertinent personal or family history. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d35e3d",
+"children":[
+"On physical examination, blood pressure is 144/92 mm Hg in both arms, pulse rate is 80/min, and respiration rate is 18/min. BMI is 22. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin chlorthalidone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obtain renal artery imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Perform ambulatory blood pressure monitoring"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Recheck blood pressure in the office in 3 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7e1b9",
+"children":[
+"White coat hypertension refers to elevated blood pressure measured in the office, but normal out-of-office measurements."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a99f5",
+"children":[
+"In adults with untreated systolic blood pressure >130 mm Hg but <160 mm Hg or diastolic blood pressure >80 mm Hg but <100 mm Hg, it is reasonable to screen for white coat hypertension using either ambulatory blood pressure monitoring or home blood pressure monitoring."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"09f531",
+"children":[
+"The most appropriate management is to perform ambulatory blood pressure monitoring (ABPM) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to evaluate for white coat hypertension. White coat hypertension, also termed isolated clinic or office hypertension, refers to elevated blood pressure (BP) measured in the office, but normal out-of-office BP averages. According to guideline recommendations, in adults with untreated systolic BP >130 mm Hg but <160 mm Hg or diastolic BP >80 mm Hg but <100 mm Hg, it is reasonable to screen for white coat hypertension using either ABPM or home BP monitoring measurements obtained by the patient. Before white coat hypertension is diagnosed, the reliability of out-of-office measurements must be confirmed; for example, the patient's home BP monitor should be calibrated against the office sphygmomanometer or, preferably, BP should be measured by an ABPM device. In patients with white coat hypertension, annual follow-up with out-of-office BP measurements should be considered to determine if conversion to sustained hypertension has occurred."
+]
+},
+{
+"type":"p",
+"hlId":"1bbd7f",
+"children":[
+"Initiating chlorthalidone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a thiazide diuretic, is a reasonable initial therapy in patients with documented hypertension. Chlorthalidone is not indicated in this patient unless hypertension is confirmed using ABPM or home BP monitoring."
+]
+},
+{
+"type":"p",
+"hlId":"311932",
+"children":[
+"CT angiography, MR angiography, and duplex Doppler ultrasonography are imaging modalities used to diagnose renovascular hypertension. Routine testing for renovascular disease may not change management for patients with atherosclerotic renovascular disease, because data suggest that medical therapy may be as beneficial as invasive procedures. However, in young patients with resistant hypertension and a high clinical suspicion for fibromuscular dysplasia (e.g., sudden onset of resistant hypertension at a young age, presence of an abdominal bruit), renal artery imaging may be considered. This patient has no indication for renal artery imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"75c54f",
+"children":[
+"Rechecking this patient's BP in the office in 3 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate management, as elevated office BP should be confirmed using out-of-office measurements."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_8",
+"objective":{
+"__html":"Diagnose white coat hypertension using ambulatory blood pressure monitoring."
+},
+"references":[
+[
+"Roerecke M, Kaczorowski J, Myers MG. Comparing automated office blood pressure readings with other methods of blood pressure measurement for identifying patients with possible hypertension: a systematic review and meta-analysis. JAMA Intern Med. 2019;179:351-362. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30715088",
+"target":"_blank"
+},
+"children":[
+"PMID: 30715088"
+]
+},
+" doi:10.1001/jamainternmed.2018.6551"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":2,
+"C":93,
+"D":4,
+"E":0
+},
+"hlIds":[
+"ff2194",
+"d35e3d",
+"cb2b54",
+"b7e1b9",
+"0a99f5",
+"09f531",
+"1bbd7f",
+"311932",
+"75c54f"
+]
+}

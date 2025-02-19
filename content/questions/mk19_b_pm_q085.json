@@ -1,0 +1,189 @@
+{
+"id":"mk19_b_pm_q085",
+"number":85,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 85",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bef4be",
+"children":[
+"A 34-year-old man is evaluated at a routine follow-up examination. He has a history of spirometry-confirmed asthma. He reports feeling well and denies sinus symptoms, gastroesophageal reflux disease, and tobacco use. He demonstrates excellent inhaler technique. Medications are inhaled budesonide and albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"9ad517",
+"children":[
+"On physical examination, vital signs are normal, and the remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2d6318",
+"children":[
+"Which of the following is the most appropriate next step in evaluation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer the Asthma Control Test"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure fractional exhaled nitric oxide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain chest radiograph"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Perform 6-minute walk test"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"55cca6",
+"hvc":true,
+"children":[
+"Assessment of symptom control is an essential component in the management of asthma and should be performed using a standardized, validated questionnaire."
+]
+},
+{
+"type":"keypoint",
+"hlId":"140bce",
+"hvc":true,
+"children":[
+"At present, fractional exhaled nitric oxide measurement (FeNO) is not recommended to guide asthma treatment in the general population."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d771fe",
+"children":[
+"The most appropriate next step in management is to administer a standardized, validated questionnaire such as the Asthma Control Test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to assess symptom control. Assessment of symptom control and risk is an essential component in the management of asthma and should be performed at each medical touchpoint. The Asthma Control Test and the Asthma Control Questionnaire are standardized, validated questionnaires that can discriminate between well-controlled and inadequately controlled asthma based on patient symptoms. These symptom control tools provide scores and cut points to distinguish different levels of control and to assess the patient's progress. When different systems are used to assess asthma control, the results broadly correlate but are not identical and using the same tool for each patient is most reasonable. Numerical asthma control tools are more sensitive to change in symptom control than categorical tools. In the Asthma Control Test, scores range from 5 to 25, with a higher score indicating better asthma control. Scores that correspond to other than well-controlled asthma suggest the need to review asthma risk factors, exposures, adherence, and inhaler technique, and the need for step-up therapy."
+]
+},
+{
+"type":"p",
+"hlId":"614de6",
+"children":[
+"At present, fractional exhaled nitric oxide measurement (FeNO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended to guide asthma treatment in the general population. Studies have demonstrated that FeNO-guided treatment reduces exacerbation rates compared with guideline-based treatment, but further studies are needed to identify the populations of patients most likely to benefit from FeNO-guided care and the optimal frequency of FeNO monitoring. For example, the 2020 Asthma Guideline Update from the National Asthma Education and Prevention Program conditionally recommends FeNO monitoring in patients with persistent allergic asthma, for whom there is uncertainty in choosing, monitoring, or adjusting anti-inflammatory therapies based on history, clinical findings, and spirometry as part of an ongoing asthma monitoring and management strategy. Similarly, the 2021 American Thoracic Society guideline offers a conditional recommendation that measurement of FeNO be completed in patients with asthma in whom treatment is being considered. Although such testing may reduce asthma exacerbations, other important outcomes such as overall asthma control and acute care visits and hospitalizations for asthma, did not reach statistical significance. This patient does not need FeNO measurement."
+]
+},
+{
+"type":"p",
+"hlId":"b6bbf5",
+"children":[
+"Although a chest radiograph (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is helpful in the initial evaluation of significant respiratory symptoms, it would not be indicated as routine care in a patient with controlled asthma symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"5a214a",
+"children":[
+"The 6-minute walk test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provides a valid and reliable measure of exercise capacity in patients with lung disease. Patients walk at their own pace along a course for 6 minutes, and the total distance walked is recorded. The test can be used to assess response to therapy in patients with chronic respiratory disorders, especially pulmonary arterial hypertension, but there is no indication for this test in routine asthma care."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6",
+"objective":{
+"__html":"Assess asthma symptom control using a standardized, validated questionnaire."
+},
+"references":[
+[
+"Cloutier MM, Dixon AE, Krishnan JA, et al. Managing asthma in adolescents and adults: 2020 asthma guideline update from the national asthma education and prevention program. JAMA. 2020;324:2301-2317. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33270095",
+"target":"_blank"
+},
+"children":[
+"PMID: 33270095"
+]
+},
+" doi:10.1001/jama.2020.21974"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":82,
+"B":5,
+"C":2,
+"D":10,
+"E":0
+},
+"hlIds":[
+"bef4be",
+"9ad517",
+"2d6318",
+"55cca6",
+"140bce",
+"d771fe",
+"614de6",
+"b6bbf5",
+"5a214a"
+]
+}

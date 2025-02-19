@@ -1,0 +1,414 @@
+{
+"id":"mk19_a_gm_q096",
+"number":96,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f2fda0",
+"children":[
+"A 40-year-old man undergoes cardiac risk evaluation. He is asymptomatic but leads a sedentary lifestyle."
+]
+},
+{
+"type":"p",
+"hlId":"ac777f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 27. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"182194",
+"class":"cell text l",
+"children":[
+"Total cholesterol"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"31138a",
+"class":"cell text l",
+"children":[
+"180 mg/dL (4.66 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0c2f10",
+"class":"cell text l",
+"children":[
+"LDL cholesterol"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b88d69",
+"class":"cell text l",
+"children":[
+"100 mg/dL (2.59 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8a43cb",
+"class":"cell text l",
+"children":[
+"HDL cholesterol"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acd2fc",
+"class":"cell text l",
+"children":[
+"40 mg/dL (1.03 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b8eeaf",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"Fasting plasma glucose"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"39e35e",
+"class":"cell text l",
+"children":[
+"98 mg/dL (5.43 mmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"3deb88",
+"children":[
+"Calculated risk for atherosclerotic cardiovascular disease using the Pooled Cohort Equations is 1.4%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intensive diet and exercise counseling"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-dose aspirin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Moderate-intensity statin therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Treadmill stress exercise testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b208f2",
+"children":[
+"Adults aged 40 to 75 years should undergo fasting or nonfasting plasma lipid profile measurement, followed by estimation of 10-year atherosclerotic cardiovascular disease risk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"196a22",
+"children":[
+"Patients determined to be at low (<5%) 10-year risk for a major cardiovascular event should be advised to consume a healthy diet and should engage in at least 150 minutes of accumulated moderate-intensity physical activity per week or at least 75 minutes of vigorous-intensity physical activity per week."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d1abb0",
+"children":[
+"The most appropriate management is intensive diet and exercise counseling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The American Heart Association (AHA)/American College of Cardiology (ACC) recommend that all adults aged 40 to 75 years should undergo lipid profile measurement, followed by 10-year atherosclerotic cardiovascular disease (ASCVD) risk estimation. The U.S. Preventive Services Task Force (USPSTF) concurs with this recommendation. Patients at low (<5%) 10-year risk for a major cardiovascular event should consume a healthy diet that emphasizes the intake of vegetables, fruits, nuts, whole grains, lean vegetable or animal protein, and fish and minimizes the intake of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"trans"
+]
+},
+" fats, processed meats, refined carbohydrates, and sweetened beverages. For patients with overweight, counseling and caloric restriction are recommended to achieve and maintain weight loss. Adults should engage in at least 150 minutes of accumulated moderate-intensity physical activity per week or 75 minutes of vigorous-intensity physical activity per week."
+]
+},
+{
+"type":"p",
+"hlId":"c4bf4d",
+"children":[
+"The USPSTF recommends low-dose aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for the primary prevention of ASCVD in adults aged 50 to 59 years with a 10-year ASCVD risk of 10% or higher who do not have an increased risk for bleeding. The AHA and ACC suggest that low-dose aspirin might be considered for ASCVD primary prevention in adults who are at higher ASCVD risk but not at increased bleeding risk. Low-dose aspirin is not indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"21b656",
+"children":[
+"This patient's LDL cholesterol level is below the recommended level for starting a statin (190 mg/dL [4.9 mmol/L]), and his calculated ASCVD risk falls below that for which guidelines recommend consideration of statin therapy (≥7.5%). Therefore, moderate-intensity statin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be initiated."
+]
+},
+{
+"type":"p",
+"hlId":"e20687",
+"children":[
+"This patient is asymptomatic and has a low pretest probability for significant cardiovascular disease; therefore, treadmill stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not warranted at this time."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s8_2_1",
+"objective":{
+"__html":"Prevent cardiovascular disease with risk reduction interventions."
+},
+"references":[
+[
+"Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2019;140:e596-646. [PMID: 308797T55] doi:10.1161/CIR.0000000000000678"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":95,
+"B":1,
+"C":2,
+"D":2,
+"E":0
+},
+"hlIds":[
+"f2fda0",
+"ac777f",
+"a462a3",
+"182194",
+"31138a",
+"0c2f10",
+"b88d69",
+"8a43cb",
+"acd2fc",
+"b8eeaf",
+"39e35e",
+"3deb88",
+"cb2b54",
+"b208f2",
+"196a22",
+"d1abb0",
+"c4bf4d",
+"21b656",
+"e20687"
+]
+}

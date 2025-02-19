@@ -1,0 +1,185 @@
+{
+"id":"mk19_a_on_q012",
+"number":12,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"678f42",
+"children":[
+"A 63-year-old woman is evaluated for a mass in her right axilla. She first noticed the mass 2 months ago. She has also had a persistent cough. She was diagnosed 3 years ago with stage IIB right breast cancer for which she underwent lumpectomy, chemotherapy, and breast irradiation."
+]
+},
+{
+"type":"p",
+"hlId":"6856f8",
+"children":[
+"On physical examination, vital signs are normal. There is a firm, fixed, 2-cm mass in the right axilla. Bilateral breast examination reveals no masses or nodules. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"96be1a",
+"children":[
+"Chest radiograph shows multiple bilateral pulmonary nodules. CT scan of the chest, abdomen, and pelvis shows new right axillary adenopathy and multiple peripheral pulmonary nodules measuring up to 1.5 cm in size. There is no hilar or mediastinal adenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Biopsy pulmonary nodule"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Biopsy right axillary mass"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate endocrine-based therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"90dfda",
+"children":[
+"Breast cancer can undergo subtype switch between the primary disease and metastatic disease, and biopsying the metastatic site allows treatment to be tailored to the metastatic disease subtype."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ee0f36",
+"children":[
+"When evaluating a patient with newly diagnosed metastatic breast cancer, the lesion that upstages the patient to the greatest degree should be biopsied."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d24789",
+"children":[
+"This patient likely has metastatic breast cancer, and a pulmonary nodule should be biopsied to confirm this before initiating treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Metastatic breast cancer is treatable but not curable and is treated in a palliative manner to control disease growth and spread and to prolong life, rather than with curative intent. Essentially all patients with metastatic breast cancer should undergo a biopsy of the metastatic site to confirm the presence of metastatic disease and treatment goals. Breast cancer may be heterogeneous and, in some circumstances, important features such as estrogen receptor and human epidermal growth factor receptor 2 status can differ between the initial primary breast cancer and the metastatic lesion. Therefore, biopsying the metastatic site allows treatment to be tailored to the metastatic disease subtype. Biopsy of the pulmonary lesion will not only assess whether there has been such a subtype switch, but it will also confirm stage IV disease. If choosing among biopsy site options, the lesion that upstages the patient to the greatest degree should be biopsied."
+]
+},
+{
+"type":"p",
+"hlId":"e1f230",
+"children":[
+"The right axillary mass does not need to be biopsied if the diagnosis of metastatic breast cancer is established through biopsy of one of the pulmonary nodules (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). A positive biopsy result of a regional nodal recurrence does not establish the diagnosis of metastatic disease and would not avoid the need to biopsy a lung nodule in this case."
+]
+},
+{
+"type":"p",
+"hlId":"04fbfe",
+"children":[
+"This patient should undergo a biopsy to confirm the diagnosis of metastatic breast cancer before initiating treatment. If the patient is found to have metastatic estrogen receptor–positive/human epidermal growth factor receptor 2–negative breast cancer, endocrine therapy plus a CDK4/6 inhibitor (abemaciclib, palbociclib, or ribociclib) would be the preferred option. This combined treatment is associated with substantial improvement in progression-free survival relative to endocrine therapy alone."
+]
+},
+{
+"type":"p",
+"hlId":"17eed9",
+"children":[
+"Endocrine therapy has long been preferred over first-line chemotherapy in the absence of a visceral crisis, a term used to describe patients with a heavy burden of visceral disease and threatened organ function. However, neither endocrine therapy nor chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") should be initiated before biopsy and confirmation of metastatic breast cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_9",
+"objective":{
+"__html":"Evaluate metastatic disease in a patient with a history of breast cancer."
+},
+"references":[
+[
+"National Comprehensive Cancer Network (NCCN). Breast Cancer Version 3.2019. NCCN. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.nccn.org/professionals/physician_gls/pdf/breast.pdf",
+"target":"_blank"
+},
+"children":[
+"https://www.nccn.org/professionals/physician_gls/pdf/breast.pdf"
+]
+},
+". Accessed 13 December 2019."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":84,
+"C":5,
+"D":2,
+"E":0
+},
+"hlIds":[
+"678f42",
+"6856f8",
+"96be1a",
+"cb2b54",
+"90dfda",
+"ee0f36",
+"d24789",
+"e1f230",
+"04fbfe",
+"17eed9"
+]
+}

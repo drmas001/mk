@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q033",
+"number":33,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2ad5c6",
+"children":[
+"A 78-year-old man is evaluated in the emergency department after a fall. He has Parkinson disease treated with carbidopa-levodopa. Since he started this treatment 2 months ago, tremor and walking have improved, but he feels lightheaded upon standing. He also has type 2 diabetes and hyperlipidemia. Current medications are carbidopa-levodopa, metformin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"0f7773",
+"children":[
+"On physical examination, blood pressure is 140/80 mm Hg sitting and 80/65 mm Hg standing. Pulse rate is 84/min. A mild right-sided tremor at rest is noted. His gait is slow with a narrow pace without shuffling or freezing. He can walk in tandem and stabilizes himself against backward pull on his shoulders."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8389ae",
+"children":[
+"Which of the following is the most appropriate next step to prevent further falls?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add droxidopa"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add fludrocortisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add gabapentin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Add pramipexole"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Increase carbidopa dosage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d55eb3",
+"children":[
+"Patients with Parkinson disease and falls should be assessed for postural imbalance, impaired stepping, freezing of gait, and orthostatic hypotension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"43e8d4",
+"children":[
+"In patients with Parkinson disease who experience severe peripheral side effects of levodopa, such as orthostatic hypotension, higher carbidopa doses can alleviate these symptoms."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9470e1",
+"children":[
+"The most appropriate next step to prevent additional falls is to increase the dosage of carbidopa (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Patients with Parkinson disease and falls, such as this patient, should be assessed for postural imbalance, impaired stepping, freezing of gait, and orthostatic hypotension. This patient's history of lightheadedness on standing and substantial drop in standing blood pressure suggests orthostatic hypotension as the likely cause of his fall. Examination reveals no freezing of gait or postural impairment, findings that are often noted in more advanced Parkinson disease. Orthostatic hypotension in Parkinson disease can be due to disease-related autonomic dysfunction, comorbidities (such as diabetic autonomic neuropathy), or a peripheral effect of levodopa. Symptom onset after initiation of levodopa therapy should alert clinicians to this potential drug-related adverse effect. Carbidopa blocks the adverse effects of levodopa outside the brain and is always administered in combination with levodopa. However, in patients with severe peripheral side effects of levodopa, such as orthostatic hypotension, higher carbidopa doses can alleviate these symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"2cbbf5",
+"children":[
+"Droxidopa (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and fludrocortisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used for symptomatic management of neurogenic orthostatic hypotension and would be the appropriate next options if additional carbidopa is ineffective. However, unlike carbidopa, these medications are associated with risk for supine hypertension; therefore, a carbidopa trial should be prioritized."
+]
+},
+{
+"type":"p",
+"hlId":"8eb9b8",
+"children":[
+"Gabapentin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can improve neuropathic pain and paresthesia but has no role in improving autonomic neuropathy or preventing falls."
+]
+},
+{
+"type":"p",
+"hlId":"1e1075",
+"children":[
+"Dopamine agonists, such as pramipexole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), can cause orthostatic hypotension and are likely to aggravate the risk for falls in this patient. This drug would have been an appropriate option if the falls were related to motor symptoms of Parkinson disease, such as shuffling and freezing, rather than orthostatic hypotension. In addition, it is important to ensure levodopa therapy is optimized before considering adding other medications."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_2_1_4",
+"objective":{
+"__html":"Manage drug-related orthostatic hypotension in Parkinson disease."
+},
+"references":[
+[
+"Seppi K, Ray Chaudhuri K, Coelho M, et al; the collaborators of the Parkinson's Disease Update on Non-Motor Symptoms Study Group on behalf of the Movement Disorders Society Evidence-Based Medicine Committee. Update on treatments for nonmotor symptoms of Parkinson's disease-an evidence-based medicine review. Mov Disord. 2019;34:180-98. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30653247",
+"target":"_blank"
+},
+"children":[
+"PMID: 30653247"
+]
+},
+" doi:10.1002/mds.27602"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":65,
+"C":2,
+"D":9,
+"E":4
+},
+"hlIds":[
+"2ad5c6",
+"0f7773",
+"8389ae",
+"d55eb3",
+"43e8d4",
+"9470e1",
+"2cbbf5",
+"8eb9b8",
+"1e1075"
+]
+}

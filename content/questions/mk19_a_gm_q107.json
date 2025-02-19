@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gm_q107",
+"number":107,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 107",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9cbeb0",
+"children":[
+"A 54-year-old woman is evaluated for an 18-month history of insidiously progressive dyspnea. She is typically sedentary, but when she walks three blocks to the post office, she has unaccountable fatigue and shortness of breath. Resting alleviates the symptoms in a few minutes. She has no cardiac or pulmonary symptoms; has never smoked cigarettes; and works as an accountant, mainly from home. She has no other symptoms or medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"63e4c2",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" breathing ambient air is 97%. BMI is 31. Cardiac and pulmonary examinations are normal. There is no edema."
+]
+},
+{
+"type":"p",
+"hlId":"3637ab",
+"children":[
+"Chest radiograph, ECG, spirometry, and echocardiogram are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f13719",
+"children":[
+"Which of the following diagnostic tests should be performed next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiopulmonary exercise testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"D-dimer measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"6-Minute walk test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventilation/perfusion lung scan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9a757d",
+"children":[
+"Cardiopulmonary exercise testing is helpful in the evaluation of patients with chronic dyspnea without a known cause after the completion of routine testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2dcfce",
+"children":[
+"Cardiopulmonary exercise testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be performed next. Cardiopulmonary exercise testing is helpful in the evaluation of patients with chronic dyspnea without a known cause after the completion of routine testing. It can also aid in the evaluation of patients with multiple potential causes of dyspnea. Cardiopulmonary exercise testing is typically performed using specialized equipment that allows for continuous cardiopulmonary assessment with ECG; blood pressure monitoring; pulse oximetry; and measurement of respiratory rate, tidal volume, oxygen consumption, carbon dioxide production, and work output. Common indications for cardiopulmonary exercise testing include assessment of undiagnosed exercise intolerance, measurement of exercise tolerance in patients with known cardiac or pulmonary disease, upcoming lung resection, and assessment of disability. Testing can lead to physiologic understanding of the cause of dyspnea (cardiovascular, ventilatory and gas exchange response, metabolic issues), narrowing the differential diagnosis, or it can support the diagnosis of deconditioning as a cause of symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"9b6ae7",
+"children":[
+"Patients with pulmonary embolism may present with chest pain, dyspnea, and tachypnea. For patients with symptoms suggestive of an acute pulmonary embolism, validated prediction rules that use D-dimer testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to effectively evaluate this condition, such as the Wells criteria, have been developed. D-dimer tests are highly sensitive but nonspecific in the diagnosis of pulmonary embolism, and false-positive results are common, including in individuals older than 50 years. A positive D-dimer result in this patient with chronic dyspnea and no other findings of pulmonary embolism will probably be false-positive and fail to advance the diagnosis of her dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"6f5c3c",
+"children":[
+"The 6-minute walk test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is helpful to assess disability and prognosis in chronic lung conditions and may even predict mortality, but it does not provide information on the physiologic cause of dyspnea and thereby narrow the differential diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"c894e2",
+"children":[
+"Progressive exertional dyspnea and exercise intolerance are the most common symptoms of chronic thromboembolic pulmonary hypertension (CTEPH). More than 25% of patients with CTEPH do not have a history of acute venous thromboembolism. Ventilation/perfusion scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most sensitive indicator of CTEPH and should be performed in all patients in whom the diagnosis is suspected. However, the diagnosis of CTEPH would be unusual in a patient without findings suggesting pulmonary hypertension and with a normal cardiac and echocardiographic examination."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_4_1",
+"objective":{
+"__html":"Evaluate chronic dyspnea with cardiopulmonary exercise testing."
+},
+"references":[
+[
+"Datta D, Normandin E, ZuWallack R. Cardiopulmonary exercise testing in the assessment of exertional dyspnea. Ann Thorac Med. 2015;10:77-86. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25829957",
+"target":"_blank"
+},
+"children":[
+"PMID: 25829957"
+]
+},
+" doi:10.4103/1817-1737.151438"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":58,
+"B":6,
+"C":29,
+"D":7,
+"E":0
+},
+"hlIds":[
+"9cbeb0",
+"63e4c2",
+"3637ab",
+"f13719",
+"9a757d",
+"2dcfce",
+"9b6ae7",
+"6f5c3c",
+"c894e2"
+]
+}

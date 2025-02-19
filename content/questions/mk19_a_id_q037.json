@@ -1,0 +1,193 @@
+{
+"id":"mk19_a_id_q037",
+"number":37,
+"bookId":"id",
+"correctAnswer":"E",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ad8a18",
+"children":[
+"A 47-year-old woman is evaluated during influenza season for a 3-day history of fever, myalgia, rhinorrhea, and nonproductive cough. She lives alone and works as a medical editor. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"48bdb0",
+"children":[
+"On physical examination, temperature is 38 °C (100.4 °F), blood pressure is 145/85 mm Hg, pulse rate is 88/min, and respiration rate is 18/min. The pulmonary and remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Baloxavir"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Influenza polymerase chain reaction testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oseltamivir"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Supportive care"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c445d6",
+"children":[
+"Influenza testing can be considered for patients not at high risk for influenza complications if the results might influence antiviral treatment decisions."
+]
+},
+{
+"type":"keypoint",
+"hlId":"17c9d1",
+"children":[
+"Antiviral influenza treatment can be considered for adult outpatients not at high risk for complications and illness onset no more than 2 days before presentation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5e77a4",
+"children":[
+"The most appropriate management is supportive care (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). This otherwise healthy patient at low risk of complications does not meet any indication for influenza testing or antibiotic or antiviral therapy. She will recover with attention to hydration, antipyretics, and simple analgesia as needed."
+]
+},
+{
+"type":"p",
+"hlId":"b81b67",
+"children":[
+"Acute bronchitis is most commonly caused by a viral infection, and treatment with antibiotics such as azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") does not hasten resolution of symptoms but can be associated with numerous deleterious outcomes, including nausea, vomiting, diarrhea, rash, headache, vaginitis, and anaphylaxis. The number needed to harm with antibiotic prescribing has been calculated to be 24."
+]
+},
+{
+"type":"p",
+"hlId":"13e5c9",
+"children":[
+"The Infectious Disease Society of America (IDSA) recommends that clinicians start antiviral treatment in outpatients of any age with severe or progressive illness, regardless of illness duration; outpatients who are at high risk of complications from influenza, including those with chronic medical conditions and immunocompromise; and pregnant women and those within 2 weeks postpartum. Antiviral treatment can be considered for adult outpatients not at high risk for complications and illness onset no more than 2 days before presentation. Other considerations for treatment include symptomatic outpatients who are household contacts of persons who are at high risk, particularly those who are severely immunocompromised, and symptomatic health care providers who care for patients who are at high risk, particularly those who are severely immunocompromised. The patient is an otherwise healthy outpatient and will not benefit from treatment with either baloxavir or oseltamivir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"bf957f",
+"children":[
+"For the diagnosis of influenza, polymerase chain reaction testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is preferred to rapid antigen testing. The IDSA recommends that clinicians test for influenza in patients at high risk, including immunocompromised persons who present with influenza-like illness, pneumonia, or nonspecific respiratory illness, if the testing result will influence clinical management. Influenza testing can be considered for patients not at high risk if the results might influence antiviral treatment decisions, reduce use of unnecessary antibiotics, further diagnostic testing, or if the results might influence antiviral treatment or chemoprophylaxis decisions for high-risk household contacts. Because the patient lives alone, does not work in the health care environment, and antiviral agents will not be initiated, the patient has no indications for testing."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_1_3",
+"objective":{
+"__html":"Manage influenza with supportive care."
+},
+"references":[
+[
+"Uyeki TM, Bernstein HH, Bradley JS, et al. Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenza. Clin Infect Dis. 2019;68:e1-e47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30566567",
+"target":"_blank"
+},
+"children":[
+"PMID: 30566567"
+]
+},
+" doi:10.1093/cid/ciy866"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":0,
+"C":17,
+"D":10,
+"E":72
+},
+"hlIds":[
+"ad8a18",
+"48bdb0",
+"cb2b54",
+"c445d6",
+"17c9d1",
+"5e77a4",
+"b81b67",
+"13e5c9",
+"bf957f"
+]
+}

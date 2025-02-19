@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gm_q002",
+"number":2,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1467e1",
+"children":[
+"A 44-year-old woman is evaluated during routine follow-up of type 2 diabetes mellitus. She also has hypertension. Current medications are metformin, canagliflozin, lisinopril, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"1f9da2",
+"children":[
+"On physical examination, vital signs are normal. BMI is 26."
+]
+},
+{
+"type":"p",
+"hlId":"88dcba",
+"children":[
+"Triglyceride level is 165 mg/dL (1.86 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"411da5",
+"children":[
+"Her 10-year risk for atherosclerotic cardiovascular disease is 3.8%. Using shared decision making, the patient opts to follow the recommendation of the American Heart Association/American College of Cardiology for cholesterol management."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"High-intensity rosuvastatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Icosapent ethyl"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Moderate-intensity rosuvastatin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Omega-3 fatty acid supplements"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cbf01d",
+"children":[
+"According to guidelines from the American Heart Association/American College of Cardiology, moderate-intensity statin therapy should be initiated in adults aged 40 to 75 years with diabetes mellitus."
+]
+},
+{
+"type":"keypoint",
+"hlId":"20c9dc",
+"children":[
+"The U.S. Preventive Services Task Force recommends statin therapy for the primary prevention of atherosclerotic cardiovascular disease (ASCVD) events and mortality when patients meet all of the following criteria: (1) age 40 to 75 years, 2) one or more ASCVD risk factors, and (3) a calculated 10-year risk for an ASCVD event of 10% or greater."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"917a22",
+"children":[
+"The most appropriate treatment is moderate-intensity rosuvastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The 2018 American Heart Association (AHA)/American College of Cardiology (ACC) guideline on management of blood cholesterol recommends initiating moderate-intensity statin therapy in adults aged 40 to 75 years with diabetes mellitus, regardless of the calculated atherosclerotic cardiovascular disease (ASCVD) risk. The guideline also notes that risk assessment using the AHA/ACC Pooled Cohort Equations can be considered in patients with diabetes to assess the need for high-intensity statin therapy. This patient with type 2 diabetes has a 10-year ASCVD risk of 3.8%, and high-intensity statin therapy is not indicated. The U.S. Preventive Services Task Force recommends that adults without a history of cardiovascular disease use a low- to moderate-intensity statin for the prevention of ASCVD events and mortality when all of the following criteria are met: (1) they are aged 40 to 75 years; (2) they have one or more ASCVD risk factors (dyslipidemia, diabetes, hypertension, or smoking); and (3) they have a calculated 10-year risk for an ASCVD event of 10% or greater."
+]
+},
+{
+"type":"p",
+"hlId":"014278",
+"children":[
+"High-intensity rosuvastatin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be considered in patients with diabetes who have additional high-risk features for ASCVD. These features include a history of type 2 diabetes for at least 10 years or type 1 diabetes for 20 years or more; complications of diabetes, such as nephropathy, neuropathy, or retinopathy; or chronic kidney disease."
+]
+},
+{
+"type":"p",
+"hlId":"85b5db",
+"children":[
+"Icosapent ethyl (a highly purified fish oil) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and omega-3 fatty acids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") decrease triglyceride levels and, in the case of icosapent ethyl, cardiovascular death. However, they are not indicated for primary prevention in this patient with diabetes and hypertriglyceridemia that has not been treated with lifestyle interventions and statin therapy."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s8_2_2_1",
+"objective":{
+"__html":"Treat a patient with type 2 diabetes mellitus with moderate-intensity statin therapy."
+},
+"references":[
+[
+"Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2019;139:e1082-143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30586774",
+"target":"_blank"
+},
+"children":[
+"PMID: 30586774"
+]
+},
+" doi:10.1161/CIR.0000000000000625"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":14,
+"B":6,
+"C":67,
+"D":13,
+"E":0
+},
+"hlIds":[
+"1467e1",
+"1f9da2",
+"88dcba",
+"411da5",
+"1054f1",
+"cbf01d",
+"20c9dc",
+"917a22",
+"014278",
+"85b5db"
+]
+}

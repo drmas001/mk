@@ -1,0 +1,490 @@
+{
+"id":"mk19_b_hm_q056",
+"number":56,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7db080",
+"children":[
+"A 35-year-old man is evaluated in the emergency department for a 2-day history of shortness of breath with no cough or hemoptysis. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"604ac1",
+"children":[
+"On physical examination, temperature is normal, blood pressure is 125/65 mm Hg, pulse rate is 70/min, and respiration rate is 16/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 99% breathing ambient air. No leg swelling is present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"D-dimer measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Duplex imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary Embolism Rule-Out Criteria score calculation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further evaluation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1e507c",
+"hvc":true,
+"children":[
+"For patients who present with symptoms suspicious for an acute pulmonary embolism, validated prediction rules should be used to help effectively and cost-efficiently evaluate this condition."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9fb685",
+"hvc":true,
+"children":[
+"Patients with a Pulmonary Embolism Rule-Out Criteria score of zero have a very low pretest probability of pulmonary embolism (PE) and require no further testing for PE."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d85dc2",
+"children":[
+"The most appropriate management is to calculate the Pulmonary Embolism Rule-Out Criteria (PERC) score (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Guidelines recommend using the PERC as the initial step in evaluating patients at low risk for pulmonary embolism (PE). The PERC includes eight ",
+{
+"type":"table-link",
+"target":"mk19_b_hm_mcq_t056",
+"wrapId":"1",
+"children":[
+"criteria"
+]
+},
+". With a PERC score of zero, D-dimer testing and CT angiography should not be performed. A meta-analysis of 12 studies showed that if the PERC is used, only 0.3% of PEs would be missed and 22% of D-dimer testing would have been safely avoided. This patient meets no PERC criteria (score = 0), so he has a low pretest probability of PE and requires no additional PE-related testing."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_hm_mcq_t056"
+]
+},
+{
+"type":"p",
+"hlId":"426340",
+"children":[
+"In patients at low risk according to Wells criteria with a PERC score greater than zero, D-dimer testing should be performed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). If D-dimer is negative, then no additional testing is required. If D-dimer is positive, further evaluation with imaging is merited."
+]
+},
+{
+"type":"p",
+"hlId":"972f42",
+"children":[
+"In a patient with a PERC score of zero, duplex imaging would not be appropriate to perform next; D-dimer level should be measured instead (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In patients with a PERC score greater than 0, duplex imaging may be necessary if the D-dimer is elevated or the patient has a moderate to high pretest probability based on Wells criteria."
+]
+},
+{
+"type":"p",
+"hlId":"daf539",
+"children":[
+"Although PE is not the likely cause of his symptoms, this patient will require further testing to evaluate the cause of his dyspnea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). For patients who present with symptoms suspicious for an acute PE, validated prediction rules have been developed to help effectively evaluate this condition. The Wells criteria for PE and the Geneva Score for PE are well-studied tools in this setting. A subset of patients at very low risk can be identified using the PERC score. These prediction rules should be used to effectively and cost-efficiently evaluate suspected PE."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_2",
+"objective":{
+"__html":"Evaluate low-risk pulmonary embolism with Pulmonary Embolism Rule-Out Criteria score."
+},
+"references":[
+[
+"Lim W, Le Gal G, Bates SM, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Diagnosis of venous thromboembolism. Blood Adv. 2018;2:3226-3256. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482764",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482764"
+]
+},
+" doi:10.1182/bloodadvances.2018024828"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":22,
+"B":3,
+"C":53,
+"D":23,
+"E":0
+},
+"tablesContent":{
+"mk19_b_hm_mcq_t056":{
+"id":"mk19_b_hm_mcq_t056",
+"number":56,
+"bookId":"hm",
+"title":{
+"__html":"Pulmonary Embolism Rule-Out Criteria"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"805412",
+"children":[
+"Pulmonary Embolism Rule-Out Criteria"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"dcbd12",
+"class":"cell txt l",
+"children":[
+"Age <50 y"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"aaff8b",
+"class":"cell txt l",
+"children":[
+"Initial heart rate <100 beats/min"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b6d6c7",
+"class":"cell txt l",
+"children":[
+"Initial oxygen saturation >94% on room air"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"05b5f1",
+"class":"cell txt l",
+"children":[
+"No unilateral leg swelling"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"46a308",
+"class":"cell txt l",
+"children":[
+"No hemoptysis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"42560e",
+"class":"cell txt l",
+"children":[
+"No surgery or trauma within 4 weeks"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f4290a",
+"class":"cell txt l",
+"children":[
+"No history of venous thromboembolism"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4a561a",
+"class":"cell txt l",
+"children":[
+"No estrogen use"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+},
+"hlIds":[
+"7db080",
+"604ac1",
+"cb2b54",
+"1e507c",
+"9fb685",
+"d85dc2",
+"426340",
+"972f42",
+"daf539"
+]
+}

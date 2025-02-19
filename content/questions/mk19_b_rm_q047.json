@@ -1,0 +1,498 @@
+{
+"id":"mk19_b_rm_q047",
+"number":47,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"64c151",
+"children":[
+"A 57-year-old woman is evaluated for fatigue, generalized achiness, and oral dryness without ocular dryness. Her review of systems is unremarkable. She has hypothyroidism, migraine headaches, major depressive disorder, and chronic allergic rhinitis. Current medications are levothyroxine, amitriptyline, citalopram, intranasal glucocorticoids, and cetirizine."
+]
+},
+{
+"type":"p",
+"hlId":"53dd43",
+"children":[
+"On physical examination, vital signs are normal. Oral dryness is noted. There is no ocular inflammation or dryness or salivary gland enlargement. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"82aa14",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b027b2",
+"class":"cell text l",
+"children":[
+"18 mm/h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"61d71d",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fa2482",
+"class":"cell text l",
+"children":[
+"1.6 μU/mL (1.6 mU/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"154c82",
+"class":"cell text l",
+"children":[
+"Rheumatoid factor"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b56987",
+"class":"cell text l",
+"children":[
+"Antinuclear antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f20196",
+"class":"cell text l",
+"children":[
+"1:80"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cd2b54",
+"class":"cell text l",
+"children":[
+"Anti-La/SSB antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7e746b",
+"class":"cell text l",
+"children":[
+"Anti-Ro/SSA antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a76bf4",
+"children":[
+"Which of the following is the most likely cause of this patient's oral dryness?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypothyroidism"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Medication adverse effects"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sjögren syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic lupus erythematosus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ede249",
+"children":[
+"Medications, such as antidepressants and antihistamines, and mouth breathing are common causes of dry mouth."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3b4f14",
+"children":[
+"In the absence of additional suggestive symptoms, physical findings, and supporting laboratory data, oral dryness should not be attributed to a rheumatologic condition."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fce2e6",
+"children":[
+"The most likely cause of this patient's oral dryness is medication adverse effects (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Medication adverse effects and mouth breathing are among the most common causes of dry mouth. Her symptoms do not suggest a specific rheumatologic disorder. In particular, she is unlikely to have Sjögren syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Oral dryness is a common symptom, whereas Sjögren syndrome is relatively rare. She has no ocular dryness; has a serologic profile that does not comport with a diagnosis of Sjögren syndrome (absence of high titers of antinuclear antibodies and/or rheumatoid factor, anti-Ro/SSA, and anti-La/SSB autoantibodies); and has no other symptoms, physical examination findings, or laboratory results to suggest the disease. Although it is not impossible that she has Sjögren syndrome, the oral dryness is more likely the result of another cause. Several medications (such as antidepressants and antihistamines) frequently cause oral dryness. The patient takes three such medications (amitriptyline, cetirizine, and citalopram). It is important that patients like this are not misdiagnosed with rheumatologic disease and treated inappropriately with immunosuppressive agents."
+]
+},
+{
+"type":"p",
+"hlId":"136e05",
+"children":[
+"Hypothyroidism in adults (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is often associated with a burning sensation of the mouth, but oral dryness is not a commonly reported symptom. This patient has appropriately treated hypothyroidism, with a normal thyroid-stimulating hormone level, making this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"8a9243",
+"children":[
+"This patient's history, review of systems, and physical examination do not suggest systemic lupus erythematosus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Prominently absent from this patient's history are indications of skin disease, serositis, and kidney disease; other than dry mouth, the physical examination is normal. The normal erythrocyte sedimentation rate argues against a system inflammatory or autoimmune condition. An antinuclear antibody titer of 1:80 is nonspecific and unremarkable and may be seen in up to 50% of persons tested. Even at much higher titers, a positive antinuclear antibody result alone does not imply the presence of systemic lupus erythematosus."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s8_3",
+"objective":{
+"__html":"Diagnose medication-induced xerostomia."
+},
+"references":[
+[
+"Shiboski CH, Shiboski SC, Seror R, et al; International Sjögren's Syndrome Criteria Working Group. 2016 American College of Rheumatology/European League Against Rheumatism classification criteria for primary Sjögren's syndrome: a consensus and data-driven methodology involving three international patient cohorts. Ann Rheum Dis. 2017;76:9-16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27789466",
+"target":"_blank"
+},
+"children":[
+"PMID: 27789466"
+]
+},
+" doi:10.1136/annrheumdis-2016-210571"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":89,
+"C":9,
+"D":1,
+"E":0
+},
+"hlIds":[
+"64c151",
+"53dd43",
+"a462a3",
+"82aa14",
+"b027b2",
+"61d71d",
+"fa2482",
+"154c82",
+"ffb935",
+"b56987",
+"f20196",
+"cd2b54",
+"ffb935",
+"7e746b",
+"ffb935",
+"a76bf4",
+"ede249",
+"3b4f14",
+"fce2e6",
+"136e05",
+"8a9243"
+]
+}

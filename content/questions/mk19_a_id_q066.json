@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_id_q066",
+"number":66,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"44688e",
+"children":[
+"A 32-year-old man is hospitalized for a 2-week history of gradually worsening headache and fever. He was diagnosed with HIV infection 1 month ago, but he has yet to initiate antiretroviral therapy. Medical history is otherwise noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"26af84",
+"children":[
+"On physical examination, the patient is lethargic but responds appropriately to questions. Temperature is 38.1 °C (100.5 °F); other vital signs are normal. White plaques are present on the palate and buccal mucosa."
+]
+},
+{
+"type":"p",
+"hlId":"3b8621",
+"children":[
+"Laboratory studies show a positive serum cryptococcal antigen test result of 1:256, HIV viral load of 95,640 copies/mL, and CD4 cell count of 42/µL."
+]
+},
+{
+"type":"p",
+"hlId":"5f2db3",
+"children":[
+"A noncontrast CT scan of the head is negative."
+]
+},
+{
+"type":"p",
+"hlId":"4f4f71",
+"children":[
+"Intravenous liposomal amphotericin-B and oral flucytosine are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e9c94c",
+"children":[
+"Which of the following is the most appropriate next step in the management of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add fluconazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Perform lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start abacavir-lamivudine-dolutegravir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start tenofovir-emtricitabine-dolutegravir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"324d41",
+"children":[
+"Cryptococcal meningitis–related increased intracranial pressure may result in sudden blindness, deafness, or coma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"acb0c7",
+"children":[
+"Aggressive reduction of intracranial pressure with lumbar puncture reduces cryptococcal meningitis–related early morbidity and mortality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3859bb",
+"children":[
+"Lumbar puncture (with documentation of opening pressure measurement) to alleviate intracranial pressure (ICP) is the most appropriate next step in management for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient's presentation and the positive serum cryptococcal antigen test indicate he has cryptococcal meningitis. Cryptococcosis-related increased ICP may result in sudden blindness, deafness, or coma. Aggressive reduction of ICP with lumbar puncture reduces early morbidity and mortality. Early repeat lumbar puncture should be performed in patients with persistent symptoms during antifungal induction therapy and for recurrent symptoms after initial improvement."
+]
+},
+{
+"type":"p",
+"hlId":"05cb20",
+"children":[
+"Although he has another fungal opportunistic infection (oral candidiasis), which is often treated with fluconazole, the prescribed amphotericin B will manage it (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Fluconazole is fungistatic against cryptococcal infections and has been shown to be inferior to initial treatment with combination amphotericin B and flucytosine, which is fungicidal."
+]
+},
+{
+"type":"p",
+"hlId":"88909e",
+"children":[
+"In patients with recently diagnosed HIV infection and concomitant cryptococcal meningitis, early initiation of antiretroviral therapy (ART) (within 2 weeks) compared with delayed initiation has been shown to increase mortality at 30 days and at 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C, D"
+]
+},
+"). The difference in mortality is even higher if the cerebrospinal fluid leukocyte count is less than 5 cells/µL (5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L). Risks related to early ART initiation are higher in resource-limited settings. In the United States and at centers with access to optimal antifungal therapy (amphotericin B) and the ability to monitor clinical status and intracranial pressure (including assessments for repeat lumbar puncture for drainage), ART can be started between 2 and 10 weeks of HIV diagnosis while the patient receives antifungal therapy. However, cautious monitoring for complications, including ICP and immune reconstitution inflammatory syndrome, would be paramount in these cases. If that is not feasible, ART initiation should be delayed until 10 weeks of cryptococcal meningitis treatment has been completed. Additionally, patients who are prescribed abacavir must first undergo testing to show they are HLA-B*57:01 negative to reduce the risk of hypersensitivity."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_5_5",
+"objective":{
+"__html":"Manage cryptococcal meningitis in a patient with AIDS."
+},
+"references":[
+[
+"Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents. Guidelines for the prevention and treatment of opportunistic infections in HIV-infected adults and adolescents: recommendations from the Centers for Disease Control and Prevention, the National Institutes of Health, and the HIV Medicine Association of the Infectious Diseases Society of America. Updated June 26, 2019. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/333/cryptococcosis",
+"target":"_blank"
+},
+"children":[
+"https://aidsinfo.nih.gov/guidelines/html/4/adult-and-adolescent-opportunistic-infection/333/cryptococcosis"
+]
+},
+". Accessed February 24, 2020."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":66,
+"C":7,
+"D":23,
+"E":0
+},
+"hlIds":[
+"44688e",
+"26af84",
+"3b8621",
+"5f2db3",
+"4f4f71",
+"e9c94c",
+"324d41",
+"acb0c7",
+"3859bb",
+"05cb20",
+"88909e"
+]
+}

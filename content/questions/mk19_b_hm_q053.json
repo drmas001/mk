@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_hm_q053",
+"number":53,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"552b4b",
+"children":[
+"A 59-year-old woman is evaluated for fatigue, drenching night sweats, low-grade fever, and unintentional weight loss over the past 6 months. She also describes headache, blurred vision, double vision, and difficulty concentrating. Medical history is noncontributory, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a998ce",
+"children":[
+"On physical examination, vital signs are normal. Funduscopic examination reveals dilated retinal veins, flame hemorrhages, and papilledema. Crusted blood is present in the nares. Generalized bulky lymphadenopathy and hepatosplenomegaly are present. Numerous petechiae are noted on the lower extremities."
+]
+},
+{
+"type":"p",
+"hlId":"4b998e",
+"children":[
+"Serum protein electrophoresis and immunofixation show an IgM κ monoclonal protein spike of 6000 mg/dL (60 g/L). Free light chain ratio is greater than 100."
+]
+},
+{
+"type":"p",
+"hlId":"6a6a66",
+"children":[
+"Serum viscosity is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d70ba4",
+"children":[
+"Which of the following is the most appropriate immediate therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydroxyurea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous immune globulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plasmapheresis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ultrafiltration"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b0bdd2",
+"children":[
+"In Waldenström macroglobulinemia, the increased IgM level may lead to hyperviscosity syndrome, which can manifest as headache, altered mental status, change in vision and hearing, nystagmus, and ataxia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"71621d",
+"children":[
+"Symptomatic patients with hyperviscosity syndrome require urgent treatment with plasmapheresis, which efficiently removes the IgM paraprotein and reduces serum viscosity."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c0a50d",
+"children":[
+"The most appropriate immediate therapy is plasmapheresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has Waldenström macroglobulinemia (WM), an IgM monoclonal gammopathy and the clinicopathologic manifestation of lymphoplasmacytic lymphoma. The disease may be indolent and asymptomatic, or it may be associated with systemic symptoms, such as fever, sweats, and weight loss. The IgM monoclonal protein is quite large and usually does not cause severe damage to the kidney, but kidney disease is found in approximately 3% of patients. Tissue infiltration leads to hepatosplenomegaly, lymphadenopathy, and gastrointestinal dysfunction. Increased serum viscosity from the circulating IgM can lead to hyperviscosity syndrome, found in approximately 30% of patients with WM. Although viscosity measurement can establish the diagnosis of hyperviscosity syndrome, treatment should be initiated based on the patient's symptoms and findings. Hyperviscosity syndrome has various manifestations such as headache, altered mental status, change in vision and hearing, nystagmus, and ataxia. Funduscopic evaluation may reveal dilated retinal veins, papilledema, and flame hemorrhages. Mucosal bleeding and petechiae are related to platelet dysfunction and dysfibrinogenemia. Symptomatic patients with hyperviscosity syndrome require urgent treatment with plasmapheresis, which efficiently removes the IgM paraprotein and reduces serum viscosity with symptom improvement. The underlying disease process requires chemotherapy directed against the malignant cells."
+]
+},
+{
+"type":"p",
+"hlId":"c3ac02",
+"children":[
+"Hydroxyurea along with leukapheresis would be indicated in managing the hyperleukocytosis syndrome that may occur in acute leukemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It will not affect the slowly replicating cells in WM and is ineffective in managing hyperviscosity syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"3d64bc",
+"children":[
+"Intravenous immune globulin may be indicated in patients with plasma cell dyscrasias who have repeated infections related to hypogammaglobulinemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). It has no role in the treatment of hyperviscosity syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"b1d08e",
+"children":[
+"Ultrafiltration is a dialysis technique used in the management of acute kidney injury to remove excess fluid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Although the hyperviscosity syndrome may result in the expansion of plasma volume and may precipitate or aggravate heart failure, plasmapheresis, not ultrafiltration, is the preferred treatment."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_6",
+"objective":{
+"__html":"Treat hyperviscosity syndrome."
+},
+"references":[
+[
+"Castillo JJ, Treon SP. Management of Waldenström macroglobulinemia in 2020. Hematology Am Soc Hematol Educ Program. 2020;2020:372-379. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33275726",
+"target":"_blank"
+},
+"children":[
+"PMID: 33275726"
+]
+},
+" doi:10.1182/hematology.2020000121"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":6,
+"C":89,
+"D":3,
+"E":0
+},
+"hlIds":[
+"552b4b",
+"a998ce",
+"4b998e",
+"6a6a66",
+"d70ba4",
+"b0bdd2",
+"71621d",
+"c0a50d",
+"c3ac02",
+"3d64bc",
+"b1d08e"
+]
+}

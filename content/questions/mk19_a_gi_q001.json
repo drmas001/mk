@@ -1,0 +1,493 @@
+{
+"id":"mk19_a_gi_q001",
+"number":1,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"055df4",
+"children":[
+"A 74-year-old woman is evaluated in the emergency department for yellow skin, dark urine, and light stools of 10 days' duration."
+]
+},
+{
+"type":"p",
+"hlId":"fd2490",
+"children":[
+"On physical examination, vital signs are normal. Jaundice and icteric sclerae are noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bdd59e",
+"class":"cell text l",
+"children":[
+"175 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2c6244",
+"class":"cell text l",
+"children":[
+"57 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d004ce",
+"class":"cell text l",
+"children":[
+"49 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"65d921",
+"class":"cell text l",
+"children":[
+"6.0 mg/dL (102.6 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a7892e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Direct, serum",
+"children":[
+"Direct bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bc5f67",
+"class":"cell text l",
+"children":[
+"4.6 mg/dL (78.7 μmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"af9c4a",
+"children":[
+"CT reveals retroperitoneal fibrosis and a “sausage-shaped” pancreas with a narrowed pancreatic duct. Endoscopic ultrasound with fine-needle aspiration is negative for malignancy but shows more than 10 IgG4-positive cells/hpf."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azathioprine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography with biliary stent placement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Total pancreatectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"206c66",
+"children":[
+"CT findings that strongly suggest type 1 autoimmune pancreatitis include a diffusely enlarged pancreas with indistinct borders and delayed contrast enhancement."
+]
+},
+{
+"type":"keypoint",
+"hlId":"690611",
+"children":[
+"Initial treatment of type 1 autoimmune pancreatitis is high-dose oral prednisone tapered over 2 to 3 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"95895a",
+"children":[
+"The most appropriate management is prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient has painless jaundice with imaging features suggestive of type 1 autoimmune pancreatitis (AIP). CT findings that strongly suggest type 1 AIP include a diffusely enlarged pancreas with indistinct borders and delayed contrast enhancement. In comparison, imaging characteristics of pancreatic cancer include a low-density mass and dilatation and/or compression of the pancreatic duct associated with distal pancreatic atrophy. Endoscopic ultrasound with fine-needle aspiration, if pursued, shows greater than 10 IgG4-positive cells/hpf; this finding is consistent with a diagnosis of type 1 AIP, a manifestation of IgG4 disease. A significant elevation of serum IgG4 level is also helpful in diagnosing type 1 AIP. Most IgG4-related conditions are characterized by plasma cell infiltration of the tissues and subsequent clinical manifestations. AIP is a frequent manifestation of IgG4-related disease, but nearly any organ may be involved, including lymph nodes, salivary glands, and the biliary system. Retroperitoneal fibrosis may also be related to IgG4 disease. Initial treatment includes high-dose prednisone tapered over 2 to 3 months. Symptoms typically resolve within 2 to 4 weeks of therapy. Approximately 90% of patients achieve remission with oral glucocorticoids. Failure of clinical symptoms to respond to glucocorticoids suggests an incorrect diagnosis, and other causes should be investigated. Up to 60% of patients may relapse. Readministration of glucocorticoids or immunomodulators, such as 6-mercaptopurine, azathioprine, mycophenolate, or rituximab, may be used to treat recurrent AIP. Diagnostic criteria for AIP are known by the acronym HISORt (diagnostic Histology, suggestive Imaging, Serology with elevated serum IgG4, Other organ involvement, or Response to therapy with glucocorticoids). Type 2 AIP, or idiopathic duct-centric pancreatitis, does not demonstrate IgG4-positive cells but is instead characterized by granulocytic lesions. Type 2 AIP may be associated with inflammatory bowel disease."
+]
+},
+{
+"type":"p",
+"hlId":"584362",
+"children":[
+"The immunosuppressant azathioprine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be used as a glucocorticoid-sparing agent to treat relapsing IgG4-related disease. Because of its slow onset, azathioprine is not used for induction therapy but is useful in the maintenance phase of therapy for recurrent disease."
+]
+},
+{
+"type":"p",
+"hlId":"410548",
+"children":[
+"Endoscopic retrograde cholangiopancreatography with biliary stent placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not required in AIP because jaundice should respond to glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"e9f54c",
+"children":[
+"Although pancreatic adenocarcinoma and autoimmune pancreatitis may be mistaken for each other, in this patient the diagnosis appears certain on the basis of imaging characteristics and needle biopsy results. Total pancreatectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for pancreatic carcinoma is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_3_2",
+"objective":{
+"__html":"Treat autoimmune pancreatitis."
+},
+"references":[
+[
+"de Pretis N, De Marchi G, Frulloni L. Diagnosis and treatment of autoimmune pancreatitis. Curr Opin Gastroenterol. 2018;34:362-366. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29901516",
+"target":"_blank"
+},
+"children":[
+"PMID: 29901516"
+]
+},
+" doi:10.1097/MOG.0000000000000454"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":35,
+"C":59,
+"D":1,
+"E":0
+},
+"hlIds":[
+"055df4",
+"fd2490",
+"a462a3",
+"1cc80b",
+"bdd59e",
+"62ea29",
+"2c6244",
+"c7d329",
+"d004ce",
+"c6e520",
+"65d921",
+"a7892e",
+"bc5f67",
+"af9c4a",
+"cb2b54",
+"206c66",
+"690611",
+"95895a",
+"584362",
+"410548",
+"e9f54c"
+]
+}

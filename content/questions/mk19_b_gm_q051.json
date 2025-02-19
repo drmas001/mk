@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_gm_q051",
+"number":51,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"864ad9",
+"children":[
+"A 56-year-old man is evaluated for erectile dysfunction that began insidiously 1 year ago. He reports that his libido and mood are good. He is in a monogamous relationship with his wife. He runs on a treadmill for 30 to 45 minutes three to four times weekly, and he has no cardiovascular symptoms. The patient's medical history is also significant for coronary artery bypass graft surgery 4 years ago, hyperlipidemia, and hypertension. Medications are metoprolol, losartan, aspirin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"6bf88a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 24. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"04f5fb",
+"children":[
+"Laboratory studies show an early morning serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"total testosterone"
+]
+},
+" level of 380 ng/dL (13.18 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise stress test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intramuscular testosterone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral sildenafil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"58d8d8",
+"children":[
+"Phosphodiesterase-5 inhibitors, such as sildenafil, tadalafil, and vardenafil, are considered first-line pharmacotherapy for erectile dysfunction and can be used by patients with known cardiovascular disease after assessment of cardiovascular risk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7c164e",
+"children":[
+"Phosphodiesterase-5 inhibitors should not be prescribed to patients on nitrates because of the risk for hypotension and should be used with caution in the setting of concomitant α-blocker therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7fbd33",
+"children":[
+"The most appropriate management is oral sildenafil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient with erectile dysfunction (ED) has a history of previously revascularized coronary artery disease. He is currently without cardiovascular symptoms and exercises regularly. According to the Third Princeton Consensus Conference guidelines on the safety of ED treatment in patients with cardiovascular disease, this patient is low risk and can be treated pharmacologically. Phosphodiesterase-5 (PDE-5) inhibitors, such as sildenafil, tadalafil, and vardenafil, are first-line pharmacotherapy for ED. All PDE-5 inhibitors have similar efficacy and are FDA approved for on-demand use. Tadalafil, which has a long half-life, is also FDA approved for daily use. It is essential to instruct patients who are prescribed PDE-5 inhibitors on proper use: The medication should be taken 30 to 60 minutes before sexual activity, and efficacy may be decreased if taken after consumption of a high-fat meal. PDE-5 inhibitors should not be prescribed to patients on nitrates because of the risk for hypotension. Similarly, they should be used with caution in the setting of concomitant α-blocker therapy. All patients with ED should also be counseled on exercising regularly, minimizing stress, losing weight if overweight, and smoking cessation."
+]
+},
+{
+"type":"p",
+"hlId":"f31446",
+"children":[
+"According to the Third Princeton Consensus Conference guidelines, cardiac testing, such as an ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or an exercise stress test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is not required for patients at low cardiovascular risk before initiating pharmacologic therapy for ED. This patient has low cardiovascular risk, and cardiac testing is therefore not warranted."
+]
+},
+{
+"type":"p",
+"hlId":"1194a4",
+"children":[
+"According to the 2018 American Urological Association guideline statement, all patients with ED should have an early morning serum total testosterone measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient's early morning testosterone level is normal. There is no role for testosterone supplementation in patients with ED who are not androgen deficient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_1_1",
+"objective":{
+"__html":"Treat erectile dysfunction in a patient with coronary artery disease."
+},
+"references":[
+[
+"Burnett AL, Nehra A, Breau RH, et al. Erectile dysfunction: AUA guideline. J Urol. 2018;200:633-41. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29746858",
+"target":"_blank"
+},
+"children":[
+"PMID: 29746858"
+]
+},
+" doi:10.1016/j.juro.2018.05.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":8,
+"C":4,
+"D":84,
+"E":0
+},
+"hlIds":[
+"864ad9",
+"6bf88a",
+"04f5fb",
+"cb2b54",
+"58d8d8",
+"7c164e",
+"7fbd33",
+"f31446",
+"1194a4"
+]
+}

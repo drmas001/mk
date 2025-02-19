@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gi_q043",
+"number":43,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e3c400",
+"children":[
+"A 55-year-old man is evaluated at a follow-up appointment. He had been experiencing intermittent epigastric abdominal pain for 3 months, and gallbladder ultrasound incidentally revealed a 4-cm lesion in his left liver. The gallbladder was normal, and his abdominal pain has spontaneously abated."
+]
+},
+{
+"type":"p",
+"hlId":"5d7efa",
+"children":[
+"On physical examination, vital signs and other findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"feeac8",
+"children":[
+"MRI with gadoxetate sodium contrast reveals a 4-cm mass consistent with a hepatic adenoma."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Serial abdominal imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical resection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Clinical observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"41b54a",
+"children":[
+"Factors posing an increased risk for malignant transformation of hepatic adenomas include adenomas greater than 5 cm in diameter, adenomas with β-catenin activation, or adenomas found in men."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a3cc76",
+"children":[
+"Oral contraceptives should be discontinued in women with hepatic adenomas with follow-up CT or MRI at 6-month intervals to confirm stability or regression in the size of the lesion."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0e1d68",
+"children":[
+"The most appropriate management is surgical resection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Hepatic adenomas are benign neoplasms that often are found incidentally. They can be differentiated from focal nodular hyperplasia by abdominal MRI with gadoxetate sodium. This contrast agent is excreted in the bile ducts and therefore clarifies the presence of a hepatic adenoma, which does not typically excrete bile. Most hepatic adenomas are found in women (and are eight times more common than in men), particularly those using oral contraceptive agents. Factors posing an increased risk for malignant transformation of hepatic adenomas include adenomas greater than 5 cm in diameter and adenomas with β-catenin activation. Adenomas in men commonly have β-catenin activation; therefore, surgical resection of adenomas found in men is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"b0c3cb",
+"children":[
+"Liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in patients with diagnostic uncertainty but may increase the risk for bleeding; therefore, it should be performed only if the diagnosis will result in a meaningful change in management. In patients with hepatic adenomas, liver biopsy can clarify the expression of β-catenin. Because adenomas that express activated β-catenin are at increased risk for malignancy, liver biopsy is potentially useful if surgical resection is being considered. In this patient, whose risk for malignancy is already increased because he is male, liver biopsy is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"9cdec2",
+"children":[
+"In women with hepatic adenomas that are 5 cm or smaller in diameter or that do not completely regress on cessation of oral contraceptive agents, serial abdominal imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") every 6 months is recommended to evaluate for growth that would increase the risk for malignancy or hemorrhage. This option would be reasonable if this patient were female but is not appropriate for a male patient."
+]
+},
+{
+"type":"p",
+"hlId":"ab5f54",
+"children":[
+"Benign lesions, including focal nodular hyperplasia, hepatic hemangioma, and simple hepatic cysts, do not pose appreciable risk for malignant transformation. When these lesions are diagnosed by abdominal imaging, biopsy or serial imaging thereafter is not necessary. Hepatic adenomas present a risk for hemorrhage or malignant transformation, particularly if they grow to greater than 5 cm or are found in men. Therefore, clinical observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in this patient is not appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_12_2",
+"objective":{
+"__html":"Treat hepatic adenoma in a man."
+},
+"references":[
+[
+"Bioulac-Sage P, Sempoux C, Balabaud C. Hepatocellular adenoma: classification, variants and clinical relevance. Semin Diagn Pathol. 2017;34:112-25. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28131467",
+"target":"_blank"
+},
+"children":[
+"PMID: 28131467"
+]
+},
+" doi:10.1053/j.semdp.2016.12.007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":28,
+"C":33,
+"D":34,
+"E":0
+},
+"hlIds":[
+"e3c400",
+"5d7efa",
+"feeac8",
+"cb2b54",
+"41b54a",
+"a3cc76",
+"0e1d68",
+"b0c3cb",
+"9cdec2",
+"ab5f54"
+]
+}

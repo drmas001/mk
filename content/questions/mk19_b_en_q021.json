@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q021",
+"number":21,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"88c4b7",
+"children":[
+"A 57-year-old man is evaluated during routine follow-up of hypoparathyroidism. He underwent resection of locally advanced squamous cell carcinoma of the tongue base with laryngectomy, thyroidectomy, tracheostomy, and percutaneous gastrostomy tube placement 2 years ago. He also received adjuvant radiation therapy. Hypoparathyroidism developed after treatment. He has no evidence of cancer recurrence and has maintained a normal weight and hydration. Medications are levothyroxine, calcium citrate, calcitriol, hydrochlorothiazide, and potassium chloride."
+]
+},
+{
+"type":"p",
+"hlId":"fefd96",
+"children":[
+"Serum calcium, magnesium, and urine calcium excretion are measured today."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8191b5",
+"children":[
+"Which of the following measurements should also be obtained for management of this patient's hypoparathyroidism?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"25-Hydroxyvitamin D"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ionized calcium"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Parathyroid hormone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum phosphorus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1febd6",
+"children":[
+"Loss of parathyroid hormone–mediated renal excretion of phosphorus may result in hyperphosphatemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"495549",
+"children":[
+"Initial treatment of hyperphosphatemia is reduction of dietary phosphorus but occasionally requires the addition of oral phosphate binders if serum phosphorus exceeds the normal range."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"863c0a",
+"children":[
+"Serum phosphorus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") measurement should be obtained. Hypocalcemia is the most immediate manifestation and primary cause of symptoms attributable to hypoparathyroidism. Therefore, normalization of serum calcium is the primary goal and most frequently monitored endpoint of therapy. A reasonable goal for most patients is a serum calcium concentration at or just below the reference range without hypercalciuria. Monitoring of urine calcium excretion is mandatory because hypercalciuria often limits therapy. Correction of coexisting hypomagnesemia is also required. Thiazide diuretics are commonly used because they decrease urine calcium excretion. However, loss of parathyroid hormone (PTH)-mediated renal excretion of phosphorus may also result in hyperphosphatemia. In hypoparathyroidism management, serum phosphorus concentrations are ideally maintained in the normal range. Initial treatment of hyperphosphatemia is reduction of dietary phosphorus but occasionally requires addition of oral phosphate binders if serum phosphorus exceeds the normal range. Measurement of this patient's serum phosphorus level is an integral part of managing his hypoparathyroidism."
+]
+},
+{
+"type":"p",
+"hlId":"829e83",
+"children":[
+"The most appropriate test to assess adequacy of vitamin D levels is measurement of serum 25-hydroxyvitamin D (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), which reflects dietary and skin-derived vitamin D. However, activation of vitamin D to 1,25-dihydroxyvitamin D requires both PTH and sufficient kidney function. Therefore, in the absence of PTH, as in this patient, measurement of 25-hydroxyvitamin D is of limited value. Vitamin D supplementation, 1000 to 4000 IU/d, and oral calcium carbonate or calcium citrate at doses of 1 to 3 g/d in divided doses may normalize or sufficiently treat mild or chronic hypocalcemia, as in this patient. If supplemental vitamin D and calcium cannot maintain a normal calcium level, then addition of calcitriol (1,25-dihydroxyvitamin D) will be necessary."
+]
+},
+{
+"type":"p",
+"hlId":"258424",
+"children":[
+"Measured calcium levels depend on the amount bound to albumin, which can be affected by nutrition and acid-base status. Hypoalbuminemia of any cause, such as cirrhosis or malignancy-related cachexia, will cause low total calcium levels. When albumin concentration is low, measurement of ionized calcium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or calculation of corrected total calcium is required to accurately assess calcium levels. In this well-nourished outpatient, the total serum calcium should reflect the expected ionized calcium concentration and measurement of ionized calcium is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"4b114e",
+"children":[
+"During the assessment of new-onset hypocalcemia, measurement of PTH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") establishes the mechanism of disease and guides treatment. However, if hypoparathyroidism is established and persists beyond 6 months, it is considered chronic hypoparathyroidism and management does not require continued monitoring of serum PTH levels."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_3_3",
+"objective":{
+"__html":"Manage hypoparathyroidism."
+},
+"references":[
+[
+"Gafni RI, Collins MT. Hypoparathyroidism. N Engl J Med. 2019;380:1738-1747. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31042826",
+"target":"_blank"
+},
+"children":[
+"PMID: 31042826"
+]
+},
+" doi:10.1056/NEJMcp1800213"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":41,
+"B":12,
+"C":10,
+"D":37,
+"E":0
+},
+"hlIds":[
+"88c4b7",
+"fefd96",
+"8191b5",
+"1febd6",
+"495549",
+"863c0a",
+"829e83",
+"258424",
+"4b114e"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gm_q037",
+"number":37,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e914d1",
+"children":[
+"A 53-year-old woman is evaluated for refractory chronic cough. She has had a bothersome dry cough for longer than 1 year. She has undergone empiric trials of glucocorticoid nasal sprays, decongestants, cough suppressants, prednisone, and omeprazole, alone and in combination, with no improvement in symptoms. Results of allergy skin testing, rhinoscopy, CT of the sinuses and chest, spirometry, ambulatory pH monitoring, and sputum testing have been normal. She currently takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"5d7efa",
+"children":[
+"On physical examination, vital signs and other findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ecc3b0",
+"children":[
+"The patient is referred for a multimodal speech pathology intervention."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Budesonide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Esomeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gabapentin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Morphine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0bc649",
+"children":[
+"Patients with unexplained chronic cough should be referred for a multimodality speech pathology intervention."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a65ca",
+"children":[
+"In selected patients with unexplained chronic cough that has not responded to other therapies, a 6-month trial of gabapentin is reasonable if the potential harms and benefits are acceptable to the patient."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e05d1d",
+"children":[
+"Gabapentin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate additional treatment for this patient's cough. Unexplained chronic cough is characterized by persistent cough symptoms with no identifiable cause after comprehensive evaluation. A multimodality speech pathology intervention has been shown to reduce cough frequency, improve cough severity, and have a beneficial effect on cough-related quality of life in patients with unexplained chronic cough. The intervention typically consists of two to four sessions of education, cough suppression techniques, breathing exercises, and counseling. It is recommended by the CHEST guideline and expert panel report on the treatment of unexplained chronic cough. Gabapentin is a neuromodulatory agent that may dampen the enhanced neural sensitization that is a key component of unexplained cough. Although it is not FDA approved for this indication, gabapentin can be an effective treatment for unexplained chronic cough. Gabapentin carries significant risk for adverse effects, including dizziness, disequilibrium, somnolence, weight gain, peripheral edema, and cognitive difficulties. In this patient who is younger than 65 years and otherwise healthy, a therapeutic trial of gabapentin is reasonable if the potential harms and benefits are acceptable to the patient. After 6 months of treatment, harms and benefits should be reassessed before continuing gabapentin."
+]
+},
+{
+"type":"p",
+"hlId":"cea512",
+"children":[
+"In adult patients with unexplained chronic cough and negative results on testing for bronchial hyperresponsiveness (spirometry) and nonasthmatic eosinophilic bronchitis (sputum analysis for eosinophils), the CHEST guideline suggests that inhaled glucocorticoids, such as budesonide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), not be prescribed owing to ineffectiveness."
+]
+},
+{
+"type":"p",
+"hlId":"2e1ad5",
+"children":[
+"This patient's cough did not respond to a previous trial of a proton pump inhibitor (PPI). A trial of a different PPI, such as esomeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is unlikely to be effective in this patient with no symptoms of gastroesophageal reflux disease and normal ambulatory pH monitoring results."
+]
+},
+{
+"type":"p",
+"hlId":"4f4bbc",
+"children":[
+"Randomized controlled trials have demonstrated that morphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has positive effects on cough-specific quality of life. However, this treatment failed to receive a recommendation from the CHEST Expert Panel. Although no reason was given, it can be reasonably assumed that the risk of chronic opioid use exceeds the benefit."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_2",
+"objective":{
+"__html":"Treat unexplained chronic cough."
+},
+"references":[
+[
+"Gibson P, Wang G, McGarvey L, et al; CHEST Expert Cough Panel. Treatment of unexplained chronic cough: CHEST guideline and expert panel report. Chest. 2016;149:27-44. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26426314",
+"target":"_blank"
+},
+"children":[
+"PMID: 26426314"
+]
+},
+" doi:10.1378/chest.15-1496"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":18,
+"C":55,
+"D":6,
+"E":0
+},
+"hlIds":[
+"e914d1",
+"5d7efa",
+"ecc3b0",
+"78ff87",
+"0bc649",
+"0a65ca",
+"e05d1d",
+"cea512",
+"2e1ad5",
+"4f4bbc"
+]
+}

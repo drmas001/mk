@@ -1,0 +1,313 @@
+{
+"id":"mk19_a_id_q061",
+"number":61,
+"bookId":"id",
+"correctAnswer":"E",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e09322",
+"children":[
+"A 29-year-old woman is evaluated for multiple episodes of diarrhea and emesis with significant abdominal pain and distension. She was hospitalized 3 days ago for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli–"
+]
+},
+"associated pyelonephritis and treated with ceftriaxone. She takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"234620",
+"children":[
+"On physical examination, the patient is confused. Temperature is 38.5 °C (101.3 °F), blood pressure is 90/60 mm Hg, pulse rate is 125/min, and respiration rate is 24/min. The abdomen is distended, with decreased bowel sounds and tenderness to palpation but no guarding. The remainder of the examination is noncontributory."
+]
+},
+{
+"type":"p",
+"hlId":"fe054b",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 30,000/µL (30 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 2 mg/dL (177 µmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Lactate, plasma",
+"children":[
+"plasma lactate"
+]
+},
+" level of 4 mEq/L (4 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"f1892b",
+"children":[
+"Stool testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" is positive. Imaging of the colon reveals areas of the large bowel exceeding 6 cm in diameter, consistent with megacolon."
+]
+},
+{
+"type":"p",
+"hlId":"4d4825",
+"children":[
+"The patient is transferred to the ICU and surgical consultation is obtained."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fecal microbiota transplant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous vancomycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral vancomycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral metronidazole"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Oral vancomycin plus intravenous metronidazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1ef1a1",
+"children":[
+"Fulminant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection, which is associated with hypotension, shock, ileus, or megacolon, should be treated with a combination of oral vancomycin and intravenous metronidazole."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1b6cd2",
+"children":[
+"This patient has fulminant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection (CDI) and should be treated with oral vancomycin and intravenous metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Fulminant infection is defined as CDI with associated hypotension, shock, ileus, or megacolon. Oral vancomycin (by mouth or nasogastric tube) plus intravenous metronidazole are recommended for fulminant CDI. If an ileus is present, rectal instillation of vancomycin should be considered. Patients with fulminant disease warrant surgical evaluation as well."
+]
+},
+{
+"type":"p",
+"hlId":"d99838",
+"children":[
+"Fecal microbiota transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been recommended as a treatment approach for patients with multiple relapses of CDI. The rationale is that donor feces will restore the normal colonic microbiota. Fecal microbiota transplantation is not recommended for the acute treatment of CDI, regardless of severity."
+]
+},
+{
+"type":"p",
+"hlId":"b30c28",
+"children":[
+"Intravenous vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for treatment of CDI because it is not excreted into the large intestine."
+]
+},
+{
+"type":"p",
+"hlId":"909e0c",
+"children":[
+"The 2021 Infectious Diseases Society of America and Society for Healthcare Epidemiology of America clinical practice guideline for CDI suggests oral fidaxomicin or oral vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to treat an initial episode of nonsevere or severe CDI. Nonsevere CDI is defined as a leukocyte count of less than 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and a serum creatinine level less than 1.5 mg/dL (133 µmol/L); severe disease is associated with a higher leukocyte count or serum creatinine level. If both agents are unavailable or intolerable, then oral metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be used but only in nonsevere disease."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_8",
+"objective":{
+"__html":"Treat an initial episode of fulminant <i>Clostridioides difficile</i> infection."
+},
+"references":[
+[
+"Johnson S, Lavergne V, Skinner AM, et al. Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection in adults. Clin Infect Dis. 2021;73:755-757. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34492699",
+"target":"_blank"
+},
+"children":[
+"PMID: 34492699"
+]
+},
+" doi:10.1093/cid/ciab718"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":5,
+"C":8,
+"D":0,
+"E":82
+},
+"hlIds":[
+"e09322",
+"234620",
+"fe054b",
+"f1892b",
+"4d4825",
+"473b62",
+"1ef1a1",
+"1b6cd2",
+"d99838",
+"b30c28",
+"909e0c"
+]
+}

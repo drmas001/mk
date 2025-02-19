@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_np_q107",
+"number":107,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 107",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d8b585",
+"children":[
+"A 31-year-old woman seeks preconception counseling. She has systemic lupus erythematosus and lupus nephritis, both of which have been stable for the past year; she has had no proteinuria for more than 12 months. She currently feels well. Medications are mycophenolate mofetil, hydroxychloroquine, and low-dose prednisone."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cd0f4f",
+"children":[
+"Which of the following medications should be discontinued in this patient before conception?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydroxychloroquine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No change in medication is required"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d0cb56",
+"children":[
+"Mycophenolate mofetil is teratogenic and is contraindicated in pregnancy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0196ea",
+"children":[
+"In diseases in which mycophenolate mofetil is used, patients should show stable disease for 3 to 6 months following discontinuation of the agent before proceeding with pregnancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"05316a",
+"children":[
+"Mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be discontinued in this patient before conception. Before discontinuation of mycophenolate and attempted conception, steps should be taken to ensure disease stability in this patient. Pregnancy planning is essential for ensuring positive outcomes and includes adjusting medications and optimizing clinical status. This patient is taking mycophenolate mofetil, a teratogenic agent that is contraindicated in pregnancy. Documented risks with mycophenolate mofetil use include first-trimester pregnancy loss and fetal malformations of the distal limbs, heart, esophagus, kidneys, and cleft lip and palate. Mycophenolate mofetil is also contraindicated in women who are breastfeeding because the drug is excreted into breast milk. This patient should discontinue this agent and, if continued immunosuppression is required, be switched to azathioprine, which is generally safer and well tolerated in pregnancy. In diseases such as systemic lupus erythematosus (SLE) in which mycophenolate mofetil is commonly used, patients should show stable disease for 3 to 6 months following discontinuation of the agent before proceeding with pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"82699b",
+"children":[
+"Hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been used safely in pregnancy. This patient who is planning a pregnancy would be recommended to continue taking this drug. Hydroxychloroquine is initiated in every patient with SLE who can tolerate it, because evidence suggests it reduces disease-associated damage, prevents disease flares, and improves kidney and overall survival. In addition, hydroxychloroquine may reduce the risk for thrombosis, liver disease, and myocardial infarction; improve lipid profiles; and improve outcomes in high-risk pregnancies."
+]
+},
+{
+"type":"p",
+"hlId":"4a9c3f",
+"children":[
+"Glucocorticoids such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") increase the risk for pregnancy-induced hypertension and diabetes mellitus but can be continued during pregnancy when the benefits outweigh the risks to the patient and fetus. Steps can be taken to reduce the risk of glucocorticoid therapy during pregnancy, including using the lowest dose possible for the shortest period of time; carefully managing preexisting medical conditions that may be exacerbated by glucocorticoid therapy (for example, osteoporosis, diabetes, and hypertension); and carefully monitoring for treatment adverse effects and providing early intervention should they arise."
+]
+},
+{
+"type":"p",
+"hlId":"20ed3b",
+"children":[
+"Making no changes to this patient's medication regimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be appropriate because mycophenolate mofetil is teratogenic and is contraindicated during pregnancy."
+]
+}
+],
+"relatedSection":"mk19_a_np_s11_3",
+"objective":{
+"__html":"Discontinue mycophenolate mofetil in a patient who is planning pregnancy."
+},
+"references":[
+[
+"ACOG Committee opinion no. 776: immune modulating therapies in pregnancy and lactation. Obstet Gynecol. 2019;133:e287-e295. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30913201",
+"target":"_blank"
+},
+"children":[
+"PMID: 30913201"
+]
+},
+" doi:10.1097/AOG.0000000000003176"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":71,
+"C":6,
+"D":12,
+"E":0
+},
+"hlIds":[
+"d8b585",
+"f8786b",
+"cd0f4f",
+"d0cb56",
+"0196ea",
+"05316a",
+"82699b",
+"4a9c3f",
+"20ed3b"
+]
+}

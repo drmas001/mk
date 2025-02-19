@@ -1,0 +1,204 @@
+{
+"id":"mk19_b_cv_q016",
+"number":16,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"8c1221",
+"children":[
+"A 60-year-old woman is evaluated for severe abdominal pain. She was admitted to the hospital 2 days ago with a type B aortic dissection and treated medically. Her admission CT angiogram revealed an aortic dissection beginning just distal to the left subclavian artery and extending to the distal aorta just below the inferior mesenteric artery. Her symptoms responded to morphine, esmolol, and nitroprusside. Yesterday, esmolol was replaced with metoprolol. She is taking no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"930f3d",
+"children":[
+"On physical examination today, temperature is 37.2 °C (99 °F), blood pressure is 120/80 mm Hg, pulse rate is 64/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. The patient is restless. Despite significant abdominal pain, palpation reveals mild to moderate tenderness and no guarding. The skin is cool and mottled from the knees to the feet."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add intravenous enalaprilat"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase nitroprusside infusion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repair the descending aorta"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch nitroprusside to amlodipine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8e95df",
+"children":[
+"Complicated type B aortic dissection is characterized by limb or end-organ ischemia, persistent severe hypertension, persistent pain, propagation of the dissection, enlargement of the descending aorta, and/or rupture of the aorta."
+]
+},
+{
+"type":"keypoint",
+"hlId":"da6b55",
+"children":[
+"Complicated type B aortic dissection is an indication for immediate vascular intervention."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8c76be",
+"children":[
+"The most appropriate management for this patient is emergency endovascular repair of the descending aorta (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Type B aortic dissection involves the descending thoracic aorta, typically just distal to the left subclavian artery, and may extend into the abdominal aorta and lower extremity arteries; it does not involve the ascending aorta. Patients with uncomplicated type B aortic syndromes may be treated with medical therapy initially; however, aortic repair is indicated when type B aortic dissection is complicated by limb or end-organ ischemia, persistent severe hypertension, persistent pain, propagation of the dissection, enlargement of the descending aorta, and/or rupture of the aorta. This patient has propagation of a type B aortic dissection, as evidenced by new-onset abdominal pain (representing mesenteric ischemia) and the development of limb ischemia. Patients with type B aortic dissection should be preferentially managed with thoracic endovascular aortic repair, with the primary goal of sealing both proximal and distal segments of dissection. Surgical repair of the descending aorta is associated with high morbidity and mortality."
+]
+},
+{
+"type":"p",
+"hlId":"8ba37b",
+"children":[
+"Enalaprilat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an intravenous ACE inhibitor that is useful mainly in hypertensive emergencies associated with high plasma renin activity, such as scleroderma renal crisis. It is a difficult drug to titrate, with slow onset of action and unpredictable blood pressure response. This patient needs urgent repair of the aorta, not the addition of enalaprilat."
+]
+},
+{
+"type":"p",
+"hlId":"33223e",
+"children":[
+"The acute management of aortic dissection focuses on reducing blood pressure and shear stress. Rapid-acting β-blockers, such as esmolol, are initiated to reduce heart rate to less than 60/min; after the acute phase of treatment, an oral β-blocker such as metoprolol may replace intravenous esmolol. If blood pressure remains elevated, intravenous nitroprusside (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used to lower the blood pressure to the lowest tolerable limit without impairing kidney function or cerebral perfusion, typically between 100 to 120 mm Hg. However, this patient has clear evidence of complicated type B aortic dissection, and urgent repair of the aorta is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"e980a8",
+"children":[
+"Although control of blood pressure and shear forces remains an important objective, the focus in this patient should be on urgent surgical intervention rather than changing the nitroprusside to amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Furthermore, the abrupt discontinuation of nitroprusside may lead to rebound hypertension and the blood pressure–lowering effect of amlodipine may be delayed for several days, making this an inappropriate change in antihypertensive therapy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s10_5_3",
+"objective":{
+"__html":"Treat complicated type B aortic dissection."
+},
+"references":[
+[
+"Boufi M, Patterson BO, Loundou AD, et al. Endovascular versus open repair for chronic type B dissection treatment: a meta-analysis. Ann Thorac Surg. 2019;107:1559-1570. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30481516",
+"target":"_blank"
+},
+"children":[
+"PMID: 30481516"
+]
+},
+" doi:10.1016/j.athoracsur.2018.10.045"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":3,
+"C":90,
+"D":3,
+"E":0
+},
+"hlIds":[
+"91054a",
+"8c1221",
+"930f3d",
+"1a5dcc",
+"8e95df",
+"da6b55",
+"8c76be",
+"8ba37b",
+"33223e",
+"e980a8"
+]
+}

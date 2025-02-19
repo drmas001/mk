@@ -1,0 +1,189 @@
+{
+"id":"mk19_qq_q205",
+"number":205,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 205",
+"stimulus":[
+{
+"type":"p",
+"hlId":"52ae34",
+"children":[
+"A 21-year-old woman is evaluated after being found unconscious on a park bench. She has gone to the emergency department on two previous occasions for opioid overdose. She responds to treatment with naloxone."
+]
+},
+{
+"type":"p",
+"hlId":"859a7b",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 3.2 mg/dL (282.8 µmol/L); baseline is 0.8 mg/dL (70.7 µmol/L). Urinalysis is 4+ for occult blood and negative for erythrocytes. Complete blood count with reticulocyte count is normal. Toxicology testing results are positive for opioids and cocaine."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d785d1",
+"children":[
+"Which of the following will most likely confirm the cause of this patient's acute kidney injury?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Creatine kinase"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fractional excretion of sodium"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney and bladder ultrasonography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Haptoglobin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6279c7",
+"children":[
+"In rhabdomyolysis, myoglobin is released in the circulation from damaged skeletal muscle, causing acute kidney injury via intravascular volume depletion, renal vasoconstriction, direct proximal tubular injury, and tubular obstruction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"75765e",
+"children":[
+"Diagnosis of rhabdomyolysis is based on clinical findings and a history of predisposing factors (such as prolonged immobilization or drug toxicity) and confirmed by the presence of an elevated serum creatine kinase level (often >5000 U/L) and myoglobinuria (detected by a positive urine dipstick for blood in the absence of erythrocytes)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"28c203",
+"children":[
+"Serum creatine kinase (CK) measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will most likely confirm the diagnosis of rhabdomyolysis as the cause of this patient's acute kidney injury (AKI). In rhabdomyolysis, myoglobin is released in the circulation from damaged skeletal muscle, causing AKI via intravascular volume depletion, renal vasoconstriction, direct proximal tubular injury, and tubular obstruction. Major causes of rhabdomyolysis include trauma, drugs and toxins, seizures, metabolic and electrolyte disorders, endocrinopathies (diabetic ketoacidosis, hyperglycemic hyperosmolar syndrome, hypothyroidism), and exercise. Diagnosis is based on clinical findings and a history of predisposing factors (such as prolonged immobilization or drug toxicity) and confirmed by the presence of an elevated serum CK level (often >5000 U/L) and myoglobinuria (detected by a positive urine dipstick for blood in the absence of erythrocytes). Other possible laboratory manifestations may include hyperkalemia, hypocalcemia, hyperphosphatemia, and elevated lactate dehydrogenase. Treatment consists of aggressive isotonic fluid resuscitation; fluids should be adjusted to maintain the hourly urine output of greater than 200 to 300 mL until the urine is negative for myoglobin. AKI resulting from acute tubular necrosis occurs in approximately one third of patients with rhabdomyolysis. Dialysis is sometimes necessary to correct severe electrolyte and acid-base abnormalities or significant volume overload."
+]
+},
+{
+"type":"p",
+"hlId":"7d9e9f",
+"children":[
+"In patients with AKI due to rhabdomyolysis, urinary findings include a fractional excretion of sodium greater than 1% due to renal vasoconstriction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). However, this finding is not specific to rhabdomyolysis and may be found in patients with prerenal AKI or chronic postrenal obstruction and in some cases of acute glomerulonephritis."
+]
+},
+{
+"type":"p",
+"hlId":"60a023",
+"children":[
+"Ultrasonography of the kidneys and bladder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be performed for suspected urinary tract obstruction or when the underlying cause of AKI is unclear. Kidney size may help distinguish between AKI and chronic kidney disease because diminished kidney size and cortical thinning suggest chronic kidney disease. However, bladder and kidney ultrasonography will not confirm the diagnosis of rhabdomyolysis."
+]
+},
+{
+"type":"p",
+"hlId":"49fdb1",
+"children":[
+"Serum haptoglobin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be measured if hemolytic anemia is suspected; however, this patient has a normal complete blood count and reticulocyte count, and hemolytic anemia does not usually cause severe kidney failure. Heme pigment nephropathy occurs when large amounts of heme pigment are released into circulation due to intravascular hemolysis. Causes include glucose-6-phosphate dehydrogenase deficiency, drug reactions, hemolysis related to cardiopulmonary bypass circuits, transfusion of stored red blood cells, paroxysmal nocturnal hemoglobinuria, malaria, certain poisonings, and snakebites."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_2_1_3",
+"objective":{
+"__html":"Diagnose rhabdomyolysis."
+},
+"references":[
+[
+"Long B, Koyfman A, Gottlieb M. An evidence-based narrative review of the emergency department evaluation and management of rhabdomyolysis. Am J Emerg Med. 2019;37:518-23. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30630682",
+"target":"_blank"
+},
+"children":[
+"PMID: 30630682"
+]
+},
+" doi:10.1016/j.ajem.2018.12.061"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"52ae34",
+"859a7b",
+"d785d1",
+"6279c7",
+"75765e",
+"28c203",
+"7d9e9f",
+"60a023",
+"49fdb1"
+]
+}

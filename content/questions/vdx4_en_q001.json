@@ -1,0 +1,119 @@
+{
+"id":"vdx4_en_q001",
+"number":1,
+"bookId":"vdx_en",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b82e0c",
+"children":[
+"A 30-year-old woman with confirmed hyperthyroidism is further evaluated with radioactive iodine uptake testing (38% uptake) and thyroid scan."
+]
+},
+{
+"type":"p",
+"hlId":"4a3be6",
+"children":[
+"Thyroid scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_en_mcq_f001",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_en_mcq_f001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Graves disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hashimoto thyroiditis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid cancer"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Toxic multinodular goiter"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5557ce",
+"children":[
+"The most likely diagnosis is Graves disease. Radioiodine uptake is elevated in Graves disease (>30%), and this patient's thyroid scan shows diffuse uptake, consistent with the diagnosis of Graves hyperthyroidism. Graves disease is characterized by a diffusely hyperactive thyroid gland with resultant excess thyroid hormone production and subsequent suppression of thyroid-stimulating hormone secretion by the pituitary gland."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_1_2_1",
+"objective":{
+"__html":"Diagnose Graves disease on the basis of laboratory findings and thyroid scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_en_mcq_f001":{
+"id":"vdx4_en_mcq_f001",
+"number":1,
+"bookId":"vdx_en",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d2a3442425c59393bacbc4dc63c9d25e",
+"height":307,
+"width":325,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"b82e0c",
+"4a3be6",
+"413696",
+"5557ce"
+]
+}

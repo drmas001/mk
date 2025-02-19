@@ -1,0 +1,623 @@
+{
+"id":"mk19_b_hm_q061",
+"number":61,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c18b7d",
+"children":[
+"A 42-year-old woman is evaluated in the emergency department for 2-day history of headache, dizziness, and easy bruising. Her medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"e28b22",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F), blood pressure is 150/98 mm Hg, pulse rate is 104/min, and respiration rate is 16/min. A neurologic examination is normal. She has no lymphadenopathy or organomegaly. Petechiae are noted on both legs."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2f2316",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Haptoglobin, serum",
+"children":[
+"Haptoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"997edd",
+"class":"cell text l",
+"children":[
+"Undetectable"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e4532b",
+"class":"cell text l",
+"children":[
+"8.2 g/dL (82 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d5d1e6",
+"class":"cell text l",
+"children":[
+"10,200/μL (10.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fd777f",
+"class":"cell text l",
+"children":[
+"8000/μL (8 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7d8e6e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Reticulocyte count",
+"children":[
+"Reticulocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d1fb7a",
+"class":"cell text l",
+"children":[
+"5% of erythrocytes"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"06f1e1",
+"class":"cell text l",
+"children":[
+"1.1 mg/dL (97.2 μmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"mk19_b_hm_mcq_f061",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_hm_mcq_f061"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Caplacizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous nitroprusside"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plasma exchange plus prednisone and rituximab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Platelet transfusion"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Plasmapheresis with normal saline and 5% albumin replacement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e3b1d0",
+"children":[
+"The key clinical features of thrombotic thrombocytopenic purpura are microangiopathic hemolytic anemia and thrombocytopenia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aaf429",
+"children":[
+"The initial treatment of thrombotic thrombocytopenia purpura includes plasma exchange, glucocorticoids, and rituximab."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8485c4",
+"children":[
+"The most appropriate treatment for this patient is plasma exchange with administration of prednisone and rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). She has thrombotic thrombocytopenic purpura (TTP) based on the presence of thrombocytopenia and microangiopathic hemolytic anemia (MAHA), with supporting features of fever and headache. Acquired TTP is most often caused by production of an autoantibody that leads to a deficiency in the metalloprotease ADAMTS13, which is responsible for cleaving high-molecular-weight von Willebrand factor (vWF) multimers. An excess of high-molecular-weight vWF multimers causes platelet clumping in the microvasculature that leads to platelet consumption and MAHA. Plasma exchange with fresh frozen plasma is a crucial component of therapy that will remove the autoantibody and replace the deficient ADAMTS13. Prednisone is used to decrease continued autoantibody production. Rituximab further suppresses autoantibody production and the risk of recurrence."
+]
+},
+{
+"type":"p",
+"hlId":"637b70",
+"children":[
+"Caplacizumab is a monoclonal antibody that binds to vWF and blocks the interaction of vWF to platelets (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It is approved as an ancillary treatment for TTP in severe cases but would not be initiated before a trial of plasma exchange, glucocorticoids, and rituximab."
+]
+},
+{
+"type":"p",
+"hlId":"b3cb1a",
+"children":[
+"Hypertensive emergency can be associated with MAHA. Hypertensive emergency refers to elevated blood pressure significantly above the normal range causing acute organ damage or dysfunction. The end-organ damage is the defining characteristic, manifesting as dysfunction of the central nervous system (ischemic or hemorrhagic stroke, encephalopathy), the renal system (acute kidney injury), or the cardiovascular system (acute myocardial infarction, aortic dissection, acute heart failure). These effects often occur at blood pressures greater than 180/120 mm Hg. This patient has no clinical evidence of hypertensive emergency, and intravenous nitroprusside is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"4a150d",
+"children":[
+"Although she has a low platelet count with evidence of petechiae, platelet transfusion should not be performed for a patient with TTP without life-threatening bleeding because it increases the risk of arterial thrombosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"4aa1db",
+"children":[
+"Performing plasmapheresis with non-plasma replacement, such as saline and albumin, will remove the autoantibody but does not correct the ADAMTS13 deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Plasma exchange and immunosuppressive therapy are crucial to remove the autoantibody, replace the deficient ADAMTS13, and prevent the formation of new autoantibody."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s6_3_2_4",
+"objective":{
+"__html":"Treat thrombotic thrombocytopenic purpura."
+},
+"references":[
+[
+"Zwicker JI, Muia J, Dolatshahi L, et al. Adjuvant low-dose rituximab and plasma exchange for acquired TTP. Blood. 2019;134:1106. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31331919",
+"target":"_blank"
+},
+"children":[
+"PMID: 31331919"
+]
+},
+" doi:10.1182/blood.2019000795"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":1,
+"C":68,
+"D":9,
+"E":18
+},
+"figuresContent":{
+"mk19_b_hm_mcq_f061":{
+"id":"mk19_b_hm_mcq_f061",
+"number":61,
+"bookId":"hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d9fcc6c3d3ac35e03f63c39da6f1e4ae",
+"height":254,
+"width":375,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"c18b7d",
+"e28b22",
+"a462a3",
+"2f2316",
+"997edd",
+"f9867c",
+"e4532b",
+"2989c0",
+"d5d1e6",
+"fcac73",
+"fd777f",
+"7d8e6e",
+"d1fb7a",
+"f461b2",
+"06f1e1",
+"f3f1a8",
+"1054f1",
+"e3b1d0",
+"aaf429",
+"8485c4",
+"637b70",
+"b3cb1a",
+"4a150d",
+"4aa1db"
+]
+}

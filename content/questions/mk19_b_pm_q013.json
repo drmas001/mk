@@ -1,0 +1,235 @@
+{
+"id":"mk19_b_pm_q013",
+"number":13,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b3089d",
+"children":[
+"A 35-year-old woman is evaluated for a cough and wheezing occurring several times during the week, unrelated to exercise. She has a history of asthma that was previously well controlled with a budesonide inhaler. She is also taking albuterol five times weekly with good response. Her symptoms have woken her once in the past month. She reports no additional symptoms and no environmental triggers. She is a nonsmoker. Inhaler technique is good."
+]
+},
+{
+"type":"p",
+"hlId":"0b6a81",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. Expiratory wheezing is noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4b40e4",
+"children":[
+"Which of the following treatments should be started?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add formoterol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tiotropium"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2a8f67",
+"children":[
+"The preferred next step for patients with inadequately controlled mild persistent asthma on an inhaled glucocorticoid is combined therapy with a low-dose inhaled glucocorticoid and long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist in a single inhaler."
+]
+},
+{
+"type":"keypoint",
+"hlId":"302cc3",
+"children":[
+"Administration of a glucocorticoid and long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist in a single inhaler is preferred because it improves adherence and may reduce cost compared with administration of each drug in a separate inhaler."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"84decd",
+"children":[
+"The most appropriate treatment is to step up therapy by adding a long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist (LABA) to the current inhaled glucocorticoid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"); the preferred method would be by starting a combined budesonide-formoterol inhaler. This patient has mild persistent asthma with low-dose inhaled glucocorticoid maintenance therapy and now has increasing symptoms requiring frequent use of her short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist (SABA) inhaler. A step up in therapy is indicated for inadequate asthma control, including either use of a SABA more than twice weekly (not related to prevention of exercise-induced bronchospasm) or need for a SABA two or more times monthly for nocturnal symptoms. Guidelines indicate that the preferred next step is combined therapy with a low-dose inhaled glucocorticoid and LABA in a single inhaler. When LABAs are added to inhaled glucocorticoids, they provide improved control and decrease the risk of exacerbations. Administration in a single inhaler is preferred because it improves adherence and may reduce cost compared with administration of each drug in a separate inhaler. Other treatment options would include increasing the patient's regimen to a medium-dose inhaled glucocorticoid or adding a leukotriene receptor antagonist to her current dose of an inhaled glucocorticoid."
+]
+},
+{
+"type":"p",
+"hlId":"38e40b",
+"children":[
+"Azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can be used to treat upper and lower respiratory tract infections and is also recommended as add-on therapy given three times weekly for persistent asthma not controlled by combined moderate- to high-dose inhaled glucocorticoids with LABA. However, this patient does not have symptoms that suggest infection and has not yet had a trial of combined inhaled glucocorticoid–LABA therapy, making this choice incorrect."
+]
+},
+{
+"type":"p",
+"hlId":"711dc6",
+"children":[
+"Use of prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") could be considered if the patient does not improve with a step up in her maintenance therapy or if her clinical symptoms become more severe. However, this would not be recommended as the initial choice."
+]
+},
+{
+"type":"p",
+"hlId":"3b5a40",
+"children":[
+"Long-acting muscarinic antagonists (LAMAs) such as tiotropium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provide sustained airway dilation. When added to therapy for asthma not controlled with inhaled glucocorticoid–LABA combination therapy, tiotropium has been shown to improve lung function and reduce exacerbations. However, no substantial evidence shows that LAMAs should be the first choice for long-acting airway dilation, and National Asthma Education and Prevention Program guidelines specifically advise against using a LAMA as the initial agent to step up from inhaled glucocorticoid controller therapy."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6_2",
+"objective":{
+"__html":"Treat mild persistent asthma by stepping up therapy."
+},
+"references":[
+[
+"Cloutier MM, Dixon AE, Krishnan JA, et al. Managing asthma in adolescents and adults: 2020 asthma guideline update from the National Asthma Education and Prevention Program. JAMA. 2020;324:2301-2317. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33270095",
+"target":"_blank"
+},
+"children":[
+"PMID: 33270095"
+]
+},
+" doi:10.1001/jama.2020.21974"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":75,
+"B":0,
+"C":15,
+"D":10,
+"E":0
+},
+"hlIds":[
+"b3089d",
+"0b6a81",
+"4b40e4",
+"2a8f67",
+"302cc3",
+"84decd",
+"38e40b",
+"711dc6",
+"3b5a40"
+]
+}

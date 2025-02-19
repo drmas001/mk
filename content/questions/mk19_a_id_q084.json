@@ -1,0 +1,311 @@
+{
+"id":"mk19_a_id_q084",
+"number":84,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c74f11",
+"children":[
+"A 48-year-old man is evaluated in the hospital 5 days after admission for increasing shortness of breath, productive cough, pleuritic chest pain, fever, and chills. Medical history is notable for acute myelogenous leukemia, for which he was receiving chemotherapy. Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 200/µL (0.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), with 75% neutrophils and 5% bands. Empiric therapy with cefepime and vancomycin was added to previously initiated prophylactic fluconazole."
+]
+},
+{
+"type":"p",
+"hlId":"c4d4d9",
+"children":[
+"On physical examination, temperature is 39.2 °C (102.6 °F), blood pressure is 125/60 mm Hg, pulse rate is 128/min, and respiration rate is 26/min. Crackles are heard bilaterally on pulmonary auscultation."
+]
+},
+{
+"type":"p",
+"hlId":"7ed7f9",
+"children":[
+"Chest radiograph shows bilateral necrotizing bronchopneumonia with multiple nodular and cavitary infiltrates. Chest CT is ",
+{
+"type":"figure-link",
+"target":"mk19_a_id_mcq_f084",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_mcq_f084"
+]
+},
+{
+"type":"p",
+"hlId":"1cc893",
+"children":[
+"Serum galactomannan assay is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ae22d1",
+"children":[
+"Which of the following is the most likely cause of the patient's pneumonia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"\n          <i>Aspergillus</i>\n        "
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Candida albicans</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Cryptococcus neoformans</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Histoplasma capsulatum</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c2b524",
+"children":[
+"Profound and prolonged neutropenia, especially in association with hematopoietic stem cell transplantation or chemotherapy, is a risk factor for invasive aspergillosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c93d1b",
+"children":[
+"In patients with invasive pulmonary aspergillosis, bronchoalveolar lavage and serum galactomannan assay have excellent diagnostic sensitivity and specificity."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3f6391",
+"children":[
+"This patient most likely has invasive pulmonary aspergillosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+" conidia initially invade pulmonary blood vessels and cause distal infarction of tissue. Patients generally have fever, cough, chest pain, and hemoptysis at presentation; this is usually seen in immunosuppressed patients with neutropenia. Pulmonary infection involves infiltrates, thin-walled cavities, nodules, or wedge-shaped densities resembling infarcts that may be seen on chest radiographs or CT scans. In this person, the ground-glass appearance surrounding the nodule indicates hemorrhage into the surrounding lung tissue (halo sign). In the appropriate clinical setting, the halo sign may indicate the presence of aspergillosis or other angioinvasive fungal infection, including fusariosis and mucormycosis. Other sites of involvement include the central nervous system, skin, and eye. Profound and prolonged neutropenia, especially in association with hematopoietic stem cell transplantation or chemotherapy, is a risk factor for invasive aspergillosis; solid organ transplant recipients are also at increased risk. Bronchoalveolar lavage (BAL) and biopsy are the most effective methods for definitive diagnosis. In patients with pulmonary disease, the BAL and serum galactomannan assay have excellent sensitivity and specificity (both >80%) in patients with hematologic malignancies or following hematopoietic stem cell transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"c91fa0",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida albicans"
+]
+},
+" is a common cause of candidemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), but it rarely produces infections in the respiratory tract. Additionally, because most patients with acute leukemia undergoing initial-induction chemotherapy are receiving fluconazole prophylaxis, invasive candidiasis does not occur unless it is with a resistant species such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida glabrata"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida auris"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"b5f4ff",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Cryptococcus neoformans"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") commonly causes infections in immunocompromised persons; however, this patient has no evidence of central nervous system involvement, where this illness most commonly manifests. However, cryptococcal pneumonia can occur in immunocompromised patients and typically presents with infiltrates, lymphadenopathy, and mass lesions. Invasive aspergillosis is a more common cause of pneumonia in immunocompromised hosts, and the positive galactomannan assay supports this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"be642f",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") generally produces asymptomatic pulmonary infection, but it is not typically associated with cavitary lung lesions in infected persons and is not associated with a positive galactomannan assay."
+]
+}
+],
+"relatedSection":"mk19_a_id_s8_2",
+"objective":{
+"__html":"Diagnose invasive aspergillosis."
+},
+"references":[
+[
+"Wasylyshyn A, Linder KA, Castillo CG, et al. Breakthrough invasive fungal infections in patients with acute myeloid leukemia. Mycopathologia. 2020;185:299-306. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31939052",
+"target":"_blank"
+},
+"children":[
+"PMID: 31939052"
+]
+},
+" doi:10.1007/s11046-019-00418-8"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":81,
+"B":3,
+"C":9,
+"D":6,
+"E":0
+},
+"figuresContent":{
+"mk19_a_id_mcq_f084":{
+"id":"mk19_a_id_mcq_f084",
+"number":84,
+"bookId":"id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"49a05692364e294344f872a36416f93a",
+"height":512,
+"width":512,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"c74f11",
+"c4d4d9",
+"7ed7f9",
+"1cc893",
+"ae22d1",
+"c2b524",
+"c93d1b",
+"3f6391",
+"c91fa0",
+"b5f4ff",
+"be642f"
+]
+}

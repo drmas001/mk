@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_cv_q101",
+"number":101,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 101",
+"stimulus":[
+{
+"type":"p",
+"hlId":"69df3d",
+"children":[
+"A 50-year-old man is evaluated for 8 weeks of progressive exertional dyspnea and a syncopal event. He has been well otherwise and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"0c4940",
+"children":[
+"On physical examination, vital signs are normal. Cardiac examination reveals a late-peaking systolic crescendo-decrescendo murmur heard at the right upper sternal border with loss of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"fdc8e5",
+"children":[
+"An ECG shows normal sinus rhythm and left ventricular hypertrophy with repolarization abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"44c58d",
+"children":[
+"An echocardiogram shows a severely thickened, minimally mobile bicuspid aortic valve. Hemodynamic measurements on echocardiogram are consistent with severe aortic stenosis and normal left ventricular function. The ascending aorta could not be adequately assessed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT angiography of the thoracic aorta"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise treadmill stress testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"18faa2",
+"children":[
+"Bicuspid aortic valve is frequently associated with aortopathy resulting in aneurysm, dissection, and coarctation and requires initial assessment with transthoracic echocardiography."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cf322c",
+"children":[
+"In patients with a bicuspid aortic valve, CT angiography or magnetic resonance angiography of the thoracic aorta is indicated when morphology of the aortic sinuses, sinotubular junction, or ascending aorta cannot be assessed accurately with transthoracic echocardiography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"584976",
+"children":[
+"The most appropriate management is to perform CT angiography (CTA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or magnetic resonance angiography (MRA) of the thoracic aorta. The patient's symptoms and ECG are consistent with aortic stenosis, and an echocardiogram reveals a bicuspid aortic valve associated with severe aortic stenosis. Bicuspid aortic valve is frequently associated with aortopathy resulting in aneurysm, dissection, and coarctation. Because these findings may be associated with the need for surgical intervention on the aorta itself, appropriate preprocedural planning for aortic valve replacement requires careful evaluation of the thoracic aorta. The initial recommended imaging test is transthoracic echocardiography. However, MRA or CTA is indicated when morphology of the aortic sinuses, sinotubular junction, or ascending aorta cannot be assessed accurately with echocardiography, as is the case for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"b11545",
+"children":[
+"In patients undergoing valve intervention with low pretest probability for coronary artery disease, CT angiography of the coronary arteries is recommended and can be performed at the same time as CT angiography of the aorta. In those with intermediate or high pretest probability of coronary disease, invasive coronary angiography is recommended to assess coronary anatomy and guide the need for and type of revascularization. However, assessment of the aorta should occur first to rule out aortic pathology, which may complicate cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"a209dd",
+"children":[
+"Exercise stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the appropriate next step in management. Exercise stress testing is contraindicated in symptomatic severe aortic stenosis, given the increased risk for severe adverse events (sudden cardiac death)."
+]
+},
+{
+"type":"p",
+"hlId":"6844b4",
+"children":[
+"In patients with bicuspid aortic valve and symptomatic severe aortic stenosis, transcatheter aortic valve implantation (TAVI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be considered as an alternative to surgical aortic valve replacement if the procedure is performed at a Comprehensive Valve Center. However, TAVI may not be a viable therapy in patients who require surgery because of concomitant aortopathy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_4",
+"objective":{
+"__html":"Evaluate a patient with a bicuspid aortic valve for aortopathy."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":38,
+"C":6,
+"D":18,
+"E":0
+},
+"hlIds":[
+"69df3d",
+"0c4940",
+"fdc8e5",
+"44c58d",
+"cb2b54",
+"18faa2",
+"cf322c",
+"584976",
+"b11545",
+"a209dd",
+"6844b4"
+]
+}

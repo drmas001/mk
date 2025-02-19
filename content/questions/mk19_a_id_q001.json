@@ -1,0 +1,343 @@
+{
+"id":"mk19_a_id_q001",
+"number":1,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8daee9",
+"children":[
+"A 63-year-old woman is evaluated in the emergency department for fever and chills of 1 day's duration. She has been receiving intravenous penicillin for 2 weeks at home through a peripherally inserted central catheter (PICC) for group B streptococcal osteomyelitis of the right great toe. Medical history is also notable for diabetes mellitus treated with metformin."
+]
+},
+{
+"type":"p",
+"hlId":"8da41a",
+"children":[
+"On physical examination, temperature is 38.8 °C (101.8 °F); the remainder of the vital signs are normal. Tenderness is noted at the right brachial PICC insertion site, without erythema or drainage. The right great toe wound is healed."
+]
+},
+{
+"type":"p",
+"hlId":"51d7c7",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 17,400/µL (17.4 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Two sets of peripherally drawn blood cultures grow gram-negative rods."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Maintain PICC; switch to daptomycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Maintain PICC; switch to meropenem"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Remove PICC; continue intravenous penicillin, peripherally administered"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Remove PICC, switch to intravenous cefepime, peripherally administered"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bf4522",
+"children":[
+"Management of a central line–associated bloodstream infection often includes catheter removal with systemic antibiotic therapy targeted to the most likely organism based on Gram stain result."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f016a0",
+"children":[
+"Central venous catheter removal is always necessary in the presence of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", drug-resistant gram-negative bacilli, or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" species bacteremia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"742c13",
+"children":[
+"The patient's peripherally inserted central catheter (PICC) should be removed, and penicillin should be switched to intravenous cefepime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She has a gram-negative infection of the PICC. Appropriate management includes PICC removal with systemic antibiotic therapy targeted to the most likely organism. In patients without complications (e.g., deep tissue infection or sepsis), it may be reasonable to delay the decision to remove the catheter until the organism is identified; catheter salvage may be considered in carefully selected cases using antibiotic lock therapy (instillation of concentrated antibiotic into the catheter lumen) when drug-susceptible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella"
+]
+},
+" species, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterobacter"
+]
+},
+" species, and coagulase-negative staphylococci are present. Catheter removal is always necessary in the presence of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", drug-resistant gram-negative bacilli, or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" species. The common gram-negative organisms causing central line–associated bloodstream infections (CLABSIs) include ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella"
+]
+},
+" species; cefepime or piperacillin-tazobactam is appropriate as empiric coverage pending organism identification and susceptibility testing results. These antibiotics also provide coverage for the concomitant group B ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus"
+]
+},
+" osteomyelitis, which still requires treatment (4-6 weeks total). Blood cultures should be obtained after catheter removal and initiation of appropriate antibiotic therapy to document clearance of the organism. Treatment should be targeted when susceptibility results are available; duration is 7 to 14 days for uncomplicated infections."
+]
+},
+{
+"type":"p",
+"hlId":"03a550",
+"children":[
+"Vancomycin is frequently the preferred antibiotic for CLABSI caused by gram-positive organisms. For situations in which the vancomycin inhibitory concentration is greater than 2 µg/mL, daptomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be a reasonable alternative. This patient has a gram-negative infection, so neither vancomycin nor daptomycin is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"cbc2d3",
+"children":[
+"For critically ill patients, multidrug-resistant gram-negative organisms should be considered, and empiric carbapenem therapy (e.g., meropenem, imipenem) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be more appropriate (provides activity against extended-spectrum β-lactamase–producing gram-negative organisms). This patient does not have an indication for treatment with a carbapenem."
+]
+},
+{
+"type":"p",
+"hlId":"260267",
+"children":[
+"Penicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") does not provide the necessary gram-negative coverage and should be switched to a more appropriate antibiotic that also covers group B ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus"
+]
+},
+" such as cefepime."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_5_2",
+"objective":{
+"__html":"Treat central line–associated bloodstream infection."
+},
+"references":[
+[
+"Guenezan J, Drugeon B, Marjanovic N, et al. Treatment of central line-associated bloodstream infections [Editorial]. Crit Care. 2018;22:303. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30445990",
+"target":"_blank"
+},
+"children":[
+"PMID: 30445990"
+]
+},
+" doi:10.1186/s13054-018-2249-9"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":4,
+"C":3,
+"D":91,
+"E":0
+},
+"hlIds":[
+"8daee9",
+"8da41a",
+"51d7c7",
+"cb2b54",
+"bf4522",
+"f016a0",
+"742c13",
+"03a550",
+"cbc2d3",
+"260267"
+]
+}

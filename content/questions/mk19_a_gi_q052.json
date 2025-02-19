@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_gi_q052",
+"number":52,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f2627d",
+"children":[
+"A 68-year-old man is evaluated during hospitalization for epigastric abdominal pain and a 1-week history of black, tarry stools. His only medication is ibuprofen for osteoarthritis."
+]
+},
+{
+"type":"p",
+"hlId":"657a87",
+"children":[
+"On physical examination, blood pressure is 110/60 mm Hg and pulse rate is 105/min. Other vital signs are normal. Abdominal examination reveals epigastric tenderness without guarding. Anorectal examination shows no blood or stool in the rectal vault."
+]
+},
+{
+"type":"p",
+"hlId":"84a463",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 10 g/dL (100 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"ede905",
+"children":[
+"Volume repletion with intravenous 0.9% saline is begun, along with intravenous administration of a proton pump inhibitor."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Capsule endoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7afe8",
+"children":[
+"Upper endoscopy is the diagnostic test of choice to evaluate upper gastrointestinal bleeding and peptic ulcer disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6dd3b5",
+"children":[
+"Patients with upper gastrointestinal bleeding should undergo upper endoscopy within 24 hours of hospital admission following hemodynamic resuscitation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54e9ab",
+"children":[
+"After hemodynamic resuscitation, this patient should undergo upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for evaluation of suspected upper gastrointestinal bleeding (UGIB). Peptic ulcer disease is the most common cause of UGIB (50% of patients), with most gastroduodenal ulcers caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" or NSAID use. He has abdominal pain and melena in the context of ibuprofen use for osteoarthritis, which make peptic ulcer disease a likely cause of his symptoms. Hemodynamic status should be assessed in all patients, and resuscitative measures must be initiated with the goal of hemodynamic stabilization before endoscopy. Adequate intravenous access, usually with two large-bore peripheral intravenous catheters (minimum 18-gauge), should be established. Hemoglobin levels should be measured in all patients. Intravenous proton pump inhibitor therapy should be initiated before endoscopy in patients with nonvariceal UGIB. Upper endoscopy is the diagnostic test of choice to evaluate UGIB and peptic ulcer disease. Patients with UGIB should undergo upper endoscopy within 24 hours of admission following hemodynamic resuscitation; those with rapid bleeding or suspected of having variceal hemorrhage should have the procedure more emergently (within 12 hours). Endoscopy can determine the cause of bleeding and helps to risk-stratify the patient. Lesions at high risk for recurrent bleeding that require endoscopic treatment include actively bleeding peptic ulcers, ulcers with nonbleeding visible vessels, and ulcers with adherent clots."
+]
+},
+{
+"type":"p",
+"hlId":"e8ff37",
+"children":[
+"Capsule endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a first-line test to evaluate for a small-bowel source of bleeding in stable patients after normal results on upper endoscopy and colonoscopy. This patient's symptoms suggest that he has UGIB, and he has not yet undergone endoscopy or colonoscopy. Therefore, capsule endoscopy would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"3797b8",
+"children":[
+"Colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used to assess patients suspected of having lower gastrointestinal bleeding, which is typically characterized by the sudden onset of hematochezia (passage of fresh blood or clots from the colon). Colonoscopy would be indicated for this patient only if findings on upper endoscopy are normal."
+]
+},
+{
+"type":"p",
+"hlId":"2a2d5e",
+"children":[
+"If findings on upper endoscopy and colonoscopy are negative and the patient continues to experience severe gastrointestinal bleeding with hemodynamic instability, then CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be appropriate. CT angiography can detect active bleeding at a rate of 0.5 to 1 mL/min and can be used to localize and direct therapy with transcatheter embolization by conventional mesenteric angiography."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_2_3",
+"objective":{
+"__html":"Diagnose upper gastrointestinal bleeding."
+},
+"references":[
+[
+"Laine L, Barkun AN, Saltzman JR, et al. ACG clinical guideline: upper gastrointestinal and ulcer bleeding. Am J Gastroenterol. 2021;116:899-917. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33929377",
+"target":"_blank"
+},
+"children":[
+"PMID: 33929377"
+]
+},
+" doi:10.14309/ajg.0000000000001245"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":1,
+"C":2,
+"D":96,
+"E":0
+},
+"hlIds":[
+"f2627d",
+"657a87",
+"84a463",
+"ede905",
+"ab9d96",
+"b7afe8",
+"6dd3b5",
+"54e9ab",
+"e8ff37",
+"3797b8",
+"2a2d5e"
+]
+}

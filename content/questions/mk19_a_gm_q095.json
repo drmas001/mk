@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gm_q095",
+"number":95,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ab289e",
+"children":[
+"A 40-year-old man is evaluated for episodic dizziness. Three years ago, he developed left ear sensorineural hearing loss confirmed by audiometry, with associated tinnitus. For the past 6 months, he has had episodes of “room spinning” that last from 30 minutes to several hours; episodes are associated with nausea and sometimes vomiting. He experiences disequilibrium intermittently. MRI of the brain performed 6 months ago was normal. The patient is otherwise healthy and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"8a2a7f",
+"children":[
+"On physical examination, vital signs are normal. The Dix-Hallpike maneuver on the left side causes dizziness without vertigo or nystagmus."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benign paroxysmal positional vertigo"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Labyrinthitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meniere disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vertebrobasilar stroke"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vestibular migraine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6428fd",
+"children":[
+"Diagnosis of Meniere disease requires two or more episodes of vertigo lasting 20 minutes to 12 hours and fluctuating or nonfluctuating sensorineural hearing loss, tinnitus, or ear pressure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8d516c",
+"children":[
+"This patient's symptoms and examination findings are consistent with Meniere disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The onset of Meniere disease typically occurs between ages 20 and 40 years. Diagnosis requires two or more episodes of vertigo lasting 20 minutes to 12 hours and fluctuating or nonfluctuating sensorineural hearing loss, tinnitus, or ear pressure; the hearing loss often begins years before the vertigo. Meniere disease causes a peripheral vertigo, and nystagmus is present during episodes of vertigo. The Dix-Hallpike maneuver does not always induce vertigo or nystagmus. HINTS (Head Impulse, Nystagmus, and Test of Skew) examination results will be consistent with a peripheral cause of vertigo: catch-up saccades, unidirectional nystagmus, and absence of vertical skew."
+]
+},
+{
+"type":"p",
+"hlId":"4c5d6d",
+"children":[
+"Benign paroxysmal positional vertigo (BPPV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") occurs when otoconia (calcium carbonate crystals) move within the semicircular canals, causing peripheral vertigo. As in Meniere disease, HINTS examination findings in BPPV are consistent with a peripheral cause of vertigo. The Dix-Hallpike maneuver in BPPV would typically show upbeat-torsional nystagmus and reproduction of vertigo when the affected side is tested."
+]
+},
+{
+"type":"p",
+"hlId":"8d0341",
+"children":[
+"Labyrinthitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is associated with peripheral vertigo and hearing loss, but it usually begins acutely after a viral infection, and the vertigo is typically constant. This patient's symptoms have persisted for years, which is not characteristic of labyrinthitis."
+]
+},
+{
+"type":"p",
+"hlId":"8cf85e",
+"children":[
+"Vertebrobasilar stroke (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") usually presents with other neurologic findings in addition to vertigo. In patients with persistent vertigo, the HINTS examination can help differentiate between central and peripheral causes. The absence of catch-up saccades, presence of direction-changing nystagmus, or presence of skew deviation on the HINTS examination is suggestive of a central cause of vertigo. Vertebrobasilar stroke typically occurs in patients with risk factors for vascular disease and would be visualized on MRI, effectively ruling out the diagnosis in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"44907c",
+"children":[
+"Vestibular migraine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") should always be considered in patients with episodic vertigo and normal findings on examination and imaging. However, vestibular migraine would not be associated with hearing loss, and patients typically have headache symptoms and/or a history of migraine."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_3_2_1",
+"objective":{
+"__html":"Diagnose Meniere disease."
+},
+"references":[
+[
+"Basura GJ, Adams ME, Monfared A, et al. Clinical practice guideline: Ménière's disease. Otolaryngol Head Neck Surg. 2020;162(2_suppl):S1-55. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32267799",
+"target":"_blank"
+},
+"children":[
+"PMID: 32267799"
+]
+},
+" doi:10.1177/0194599820909438"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":10,
+"C":68,
+"D":1,
+"E":3
+},
+"hlIds":[
+"ab289e",
+"8a2a7f",
+"413696",
+"6428fd",
+"8d516c",
+"4c5d6d",
+"8d0341",
+"8cf85e",
+"44907c"
+]
+}

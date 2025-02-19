@@ -1,0 +1,521 @@
+{
+"id":"mk19_b_en_q003",
+"number":3,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"590a4d",
+"children":[
+"A 55-year-old man is evaluated for a 1-year history of decreased libido, erectile dysfunction, and fatigue. Medical history is also significant for opioid use disorder treated with methadone. He takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"1e310c",
+"children":[
+"On physical examination, vital signs are normal. BMI is 25. The remainder of the examination, including genital and prostate examination, is normal."
+]
+},
+{
+"type":"p",
+"hlId":"15009b",
+"children":[
+"A morning testosterone level obtained 4 weeks ago is low."
+]
+},
+{
+"type":"p",
+"hlId":"8b68e6",
+"children":[
+"Pituitary MRI is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c163f1",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Follicle-stimulating hormone, serum",
+"children":[
+"Follicle-stimulating hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"511da2",
+"class":"cell text l",
+"children":[
+"2.1 mU/mL (2.1 U/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ead0af",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Luteinizing hormone, serum",
+"children":[
+"Luteinizing hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2eef05",
+"class":"cell text l",
+"children":[
+"1.4 mU/mL (1.4 U/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e7a8aa",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prolactin, serum",
+"children":[
+"Prolactin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1db8fe",
+"class":"cell text l",
+"children":[
+"18 ng/mL (18 μg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8cf133",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"Testosterone, total (8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+")"
+]
+},
+" (second measurement)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"098a0a",
+"class":"cell text l",
+"children":[
+"140 ng/dL (4.9 nmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alprostadil"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cabergoline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sildenafil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Testosterone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"97741e",
+"children":[
+"In men with opioid-related hypogonadism, discontinuation of opioid therapy should result in recovery of gonadal function."
+]
+},
+{
+"type":"keypoint",
+"hlId":"db5231",
+"children":[
+"Testosterone therapy can be beneficial in treating hypogonadism secondary to chronic opioid use in men."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ed3473",
+"children":[
+"The most appropriate management is to initiate testosterone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has secondary hypogonadism caused by chronic opioid therapy with methadone. Opioids have many effects on pituitary function. Most notably, chronic opioid use suppresses gonadotroph function through altered release of gonadotropin-releasing hormone, resulting in hypogonadotropic hypogonadism. Opioids can also increase release of prolactin, further inhibiting gonadotropin-releasing hormone secretion. In women, this effect may manifest as irregular periods. Men may have signs and symptoms of hypogonadism with laboratory evidence of low testosterone with low or inappropriately normal gonadotropins. No clear guidelines are available for screening for hypogonadism in patients receiving chronic opioid therapy, but discontinuing opioid therapy should result in recovery of gonadal function. If patients cannot discontinue opioid therapy, replacement of estrogen in premenopausal women and testosterone in men is appropriate in the absence of contraindications. Based on this patient's low testosterone level and hypogonadism symptoms, testosterone therapy would be beneficial. Before initiating testosterone therapy in male patients, a thorough medical history, hemoglobin or hematocrit level, and prostate-specific antigen level should be obtained to exclude contraindications."
+]
+},
+{
+"type":"p",
+"hlId":"963ad4",
+"children":[
+"Second-line medical therapy for erectile dysfunction (ED) includes alprostadil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This agent (prostaglandin E",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+") has a mechanism of action similar to that of oral phosphodiesterase-5 inhibitors. Although efficacious, alprostadil is administered locally by intracavernous injection, transurethral injection, or transurethral suppository, making it inconvenient and less well tolerated. Although alprostadil may improve this patient's ED, it will have no impact on his decreased libido."
+]
+},
+{
+"type":"p",
+"hlId":"105472",
+"children":[
+"Initiating dopamine agonist therapy with cabergoline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is unlikely to correct this patient's hypogonadism. The mild elevation of his prolactin level is most likely a result of chronic opioid therapy; however, correcting this mild increase using dopamine agonist therapy is unlikely to normalize his testosterone level."
+]
+},
+{
+"type":"p",
+"hlId":"c826cb",
+"children":[
+"An oral phosphodiesterase-5 inhibitor, such as sildenafil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is first-line therapy for ED. Like alprostadil, initiating sildenafil may treat this patient's ED but not his decreased libido."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_5",
+"objective":{
+"__html":"Treat hypogonadism associated with chronic opioid therapy."
+},
+"references":[
+[
+"Antony T, Alzaharani SY, El-Ghaiesh SH. Opioid-induced hypogonadism: pathophysiology, clinical and therapeutics review. Clin Exp Pharmacol Physiol. 2020;47:741-750. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31886562",
+"target":"_blank"
+},
+"children":[
+"PMID: 31886562"
+]
+},
+" doi:10.1111/1440-1681.13246"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":8,
+"C":15,
+"D":74,
+"E":0
+},
+"hlIds":[
+"590a4d",
+"1e310c",
+"15009b",
+"8b68e6",
+"a462a3",
+"f9867c",
+"960b44",
+"c163f1",
+"511da2",
+"ead0af",
+"2eef05",
+"e7a8aa",
+"1db8fe",
+"8cf133",
+"098a0a",
+"1054f1",
+"97741e",
+"db5231",
+"ed3473",
+"963ad4",
+"105472",
+"c826cb"
+]
+}

@@ -1,0 +1,185 @@
+{
+"id":"mk19_b_gm_q041",
+"number":41,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f4b06a",
+"children":[
+"A 77-year-old man is seen for a preoperative medical evaluation before elective aortofemoral bypass. He has exercise-limiting claudication despite participation in supervised exercise programs and pharmacologic intervention. Medical history is also significant for hypertension, hyperlipidemia, diabetes mellitus, and aortic stenosis. His last echocardiogram 2 years ago showed moderate aortic stenosis with preserved left ventricular ejection fraction. Medications are atorvastatin, aspirin, metoprolol, benazepril, amlodipine, metformin, liraglutide, and cilostazol."
+]
+},
+{
+"type":"p",
+"hlId":"08503d",
+"children":[
+"On physical examination, vital signs are normal. Cardiac examination reveals a grade 3/6 systolic ejection murmur at the right upper sternal border that radiates to the right carotid artery. The lower extremities are cool, with no palpable pulses."
+]
+},
+{
+"type":"p",
+"hlId":"2c52d8",
+"children":[
+"Transthoracic echocardiography findings are compatible with severe calcific aortic stenosis with ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 45%, meeting the criteria for valvular intervention."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a6b297",
+"children":[
+"Which of the following is the most appropriate recommendation regarding surgery?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic valve replacement prior to aortofemoral bypass"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aortic valve replacement plus aortofemoral bypass"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Percutaneous balloon valvuloplasty prior to aortofemoral bypass"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Percutaneous balloon valvuloplasty plus aortofemoral bypass"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ce7c6",
+"children":[
+"When valvular heart disease is diagnosed in patients being considered for elective noncardiac surgery, the first step is to review the standard criteria for intervention of the specific valve lesion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a7963f",
+"children":[
+"If a patient meets standard criteria for valvular intervention, it is prudent to defer the elective noncardiac procedure and proceed to valve intervention instead."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"32364c",
+"children":[
+"The most appropriate recommendation regarding surgery is aortic valve replacement prior to aortofemoral bypass (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The 2014 American College of Cardiology/American Heart Association guideline for the management of patients with valvular heart disease recommends that when valvular heart disease is diagnosed in patients being considered for elective noncardiac surgery, the first step is to review the standard criteria for intervention of the specific valve lesion. If the patient meets standard criteria for intervention, it is prudent to defer the elective noncardiac procedure and proceed to valve intervention instead. In patients with significant asymptomatic valve disease who do not meet standard criteria for intervention, the risk of the noncardiac procedure can be minimized by 1) having an accurate diagnosis of the type and severity of valve dysfunction, 2) choosing an anesthetic approach appropriate to the valve lesion, and 3) ensuring a higher level of intraoperative monitoring."
+]
+},
+{
+"type":"p",
+"hlId":"0a7a6c",
+"children":[
+"This patient has severe aortic stenosis that meets criteria for surgical intervention, which is a life-prolonging surgery. Aortofemoral bypass (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an effective intervention for improving symptoms, increasing functional capacity, and improving wound healing in patients with intermittent claudication or critical limb ischemia; however, the procedure is not life extending and can be postponed until the patient recovers from his aortic valve replacement."
+]
+},
+{
+"type":"p",
+"hlId":"5c9cf4",
+"children":[
+"Aortic valve replacement is the preferred treatment for patients with aortic stenosis meeting the criteria for intervention. Percutaneous balloon aortic valvotomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") is not a substitute for valve replacement. It provides only temporary improvement in valve function, has a high rate of complications, and is not lifesaving. Percutaneous balloon aortic valvulotomy might be considered in patients with severe aortic stenosis and pulmonary edema or cardiogenic shock unresponsive to standard therapy. This patient has no indication for percutaneous aortic balloon valvulotomy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_2_1",
+"objective":{
+"__html":"Treat severe aortic stenosis with valve replacement prior to elective noncardiac surgery."
+},
+"references":[
+[
+"Fleisher LA, Fleischmann KE, Auerbach AD, et al; American College of Cardiology. 2014 ACC/AHA guideline on perioperative cardiovascular evaluation and management of patients undergoing noncardiac surgery: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines. J Am Coll Cardiol. 2014;64:e77-137. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25091544",
+"target":"_blank"
+},
+"children":[
+"PMID: 25091544"
+]
+},
+" doi:10.1016/j.jacc.2014.07.944"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":21,
+"C":28,
+"D":9,
+"E":0
+},
+"hlIds":[
+"f4b06a",
+"08503d",
+"2c52d8",
+"a6b297",
+"2ce7c6",
+"a7963f",
+"32364c",
+"0a7a6c",
+"5c9cf4"
+]
+}

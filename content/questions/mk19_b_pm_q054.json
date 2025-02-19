@@ -1,0 +1,860 @@
+{
+"id":"mk19_b_pm_q054",
+"number":54,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b827eb",
+"children":[
+"A 29-year-old man is evaluated in the emergency department after transport by emergency medical services. He was found sitting on his garage floor, lethargic, with an empty container of automotive coolant nearby."
+]
+},
+{
+"type":"p",
+"hlId":"42dc0e",
+"children":[
+"On physical examination, temperature is 37.4 °C (99.3 °F), blood pressure is 108/58 mm Hg, pulse rate is 118/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 99% with the patient breathing ambient air. He arouses briefly to loud voice but is not interactive."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0f217c",
+"class":"cell text l",
+"children":[
+"1.3 mg/dL (114.9 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2c35c1",
+"class":"cell text l",
+"children":[
+"Glucose"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"731ef5",
+"class":"cell text l",
+"children":[
+"138 mEq/L (138 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4d6109",
+"class":"cell text l",
+"children":[
+"4.8 mEq/L (4.8 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"21724f",
+"class":"cell text l",
+"children":[
+"104 mEq/L (104 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"20d759",
+"class":"cell text l",
+"children":[
+"12 mEq/L (12 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5ee98a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Lactate, plasma",
+"children":[
+"Lactate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell text l",
+"children":[
+"Normal"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cd748f",
+"class":"cell text l",
+"children":[
+"Calculated osmolal gap"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"705e67",
+"class":"cell text l",
+"children":[
+"Elevated"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cfb74a",
+"class":"cell text l",
+"children":[
+"Arterial blood gas studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text li",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"05e2f5",
+"class":"cell text l",
+"children":[
+"7.25"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ec572d",
+"class":"cell text l",
+"children":[
+"28 mm Hg (3.7 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"04b998",
+"class":"cell text l",
+"children":[
+"98 mm Hg (13.0 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ethanol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fomepizole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fomepizole and hemodialysis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lorazepam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8a00ac",
+"children":[
+"Ethylene glycol and methanol toxicity should be treated with fomepizole."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b45998",
+"children":[
+"Indications for hemodialysis in the setting of ethylene glycol or methanol toxicity include severe anion gap metabolic acidosis and end-organ involvement (kidney impairment, visual changes)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0ce28e",
+"children":[
+"The most appropriate treatment is fomepizole and hemodialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient probably has ethylene glycol toxicity. Fomepizole blocks the enzyme alcohol dehydrogenase, which converts alcohols such as ethylene glycol and methanol to their toxic metabolites. Indications for hemodialysis for the ingestion of ethylene glycol or methanol include severe anion gap metabolic acidosis and end-organ involvement (kidney impairment, visual changes). Hemodialysis removes the parent alcohol and its toxic metabolites. It should be performed as soon as possible in confirmed ethylene glycol or methanol poisoning or in suspected cases associated with increased anion gap metabolic acidosis or symptoms of end organ damage. Toxic alcohol ingestion is typically confirmed by drug level measurements, which can take hours to days; hemodialysis would be appropriate now because this patient's presentation is highly suggestive: ethylene glycol is found in automotive coolants; the patient has severe acidemia with an anion gap of 22 and normal glucose and lactate levels; and the osmolal gap is elevated."
+]
+},
+{
+"type":"p",
+"hlId":"733f73",
+"children":[
+"Ethanol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") blocks alcohol dehydrogenase by competing with other alcohols. Although administration of ethanol is effective for toxic alcohol poisoning, it is limited by imprecise dosing, which can lead to the typical adverse effects of ethanol intoxication (e.g., sedation and behavioral disinhibition). Fomepizole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is therefore preferable to ethanol for this purpose because its dosing is precise and it lacks the adverse effects of ethanol. Fomepizole is expensive, however, and may not be as widely available as ethanol."
+]
+},
+{
+"type":"p",
+"hlId":"8cf553",
+"children":[
+"Because ethylene glycol or methanol intoxication can cause sedation similar to that seen with ethanol intoxication, sedative drugs such as lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are generally avoided in patients with alcohol intoxication. However, in ethanol ingestion the patient should be monitored for alcohol withdrawal, which can be fatal. Treatment of alcohol withdrawal with benzodiazepines such as lorazepam is appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_4_1",
+"objective":{
+"__html":"Treat ethylene glycol poisoning."
+},
+"references":[
+[
+"Kraut JA, Mullins ME. Toxic alcohols. N Engl J Med. 2018;378:270-280. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29342392",
+"target":"_blank"
+},
+"children":[
+"PMID: 29342392"
+]
+},
+" doi:10.1056/NEJMra1615295"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":35,
+"C":55,
+"D":1,
+"E":0
+},
+"hlIds":[
+"b827eb",
+"42dc0e",
+"a462a3",
+"f461b2",
+"0f217c",
+"2c35c1",
+"960b44",
+"b99276",
+"731ef5",
+"e92687",
+"4d6109",
+"a207b1",
+"21724f",
+"6827e3",
+"20d759",
+"5ee98a",
+"960b44",
+"cd748f",
+"705e67",
+"cfb74a",
+"d41d8c",
+"397dff",
+"05e2f5",
+"dd372e",
+"ec572d",
+"acab5a",
+"04b998",
+"1054f1",
+"8a00ac",
+"b45998",
+"0ce28e",
+"733f73",
+"8cf553"
+]
+}

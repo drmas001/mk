@@ -1,0 +1,146 @@
+{
+"id":"vdx4_cv_q007",
+"number":7,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1b13a9",
+"children":[
+"A 58-year-old woman is evaluated prior to an elective total hip arthroplasty."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f007",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f007"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b1916c",
+"children":[
+"Which of the following abnormalities is seen on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute pericarditis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nonacute anterior myocardial infarction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nonacute inferior myocardial infarction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nonacute lateral myocardial infarction"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"839a89",
+"children":[
+"This ECG shows evidence of a nonacute inferior myocardial infarction, with Q waves in leads II, III, and aVF and without ST-segment changes. Additionally, it demonstrates a nonacute posterior myocardial infarction (or posterior extension of the inferior infarction) with increased R-wave amplitude and duration (R>S), without ST-segment changes in the anterior precordial leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3."
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"ab38b7",
+"children":[
+"There are no ECG changes consistent with an anterior or lateral infarction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_1",
+"objective":{
+"__html":"Identify a nonacute inferior myocardial infarction on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f007":{
+"id":"vdx4_cv_mcq_f007",
+"number":7,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"df36dac5697347c5a9c848fccbd34fe9",
+"height":425,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"1b13a9",
+"4a9f79",
+"b1916c",
+"839a89",
+"ab38b7"
+]
+}

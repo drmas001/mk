@@ -1,0 +1,257 @@
+{
+"id":"mk19_b_en_q011",
+"number":11,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2af866",
+"children":[
+"A 73-year-old woman is evaluated in the emergency department after 2 days of weakness, headache, and nausea. She underwent uncomplicated transsphenoidal resection of a pituitary macroadenoma 6 days ago and was discharged from the hospital 3 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"fa720b",
+"children":[
+"On physical examination, vital signs are normal. No orthostasis and no neurologic or visual deficits are present. Her mucous membranes are moist."
+]
+},
+{
+"type":"p",
+"hlId":"6fef96",
+"children":[
+"Laboratory studies show a serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"sodium"
+]
+},
+" level of 128 mEq/L (128 mmol/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of 0.9 μU/mL (0.9 mU/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 1.1 ng/dL (14.2 pmol/L). Before discharge, her 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cortisol, serum, morning",
+"children":[
+"cortisol"
+]
+},
+" level was 15 μg/dL (414 nmol/L), and a random serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cortisol, serum, morning",
+"children":[
+"cortisol"
+]
+},
+" level taken at 3 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"PM"
+]
+},
+" was 10 μg/dL (276 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adrenal insufficiency"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dehydration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Secondary hypothyroidism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Syndrome of inappropriate antidiuretic hormone secretion"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fa4da6",
+"children":[
+"The syndrome of inappropriate antidiuretic hormone secretion (SIADH) can occur 4 to 12 days after pituitary surgery with a peak incidence of 7 to 8 days; SIADH can also occur as part of a triphasic response in which patients first develop diabetes insipidus postoperatively, followed by SIADH, and then permanent diabetes insipidus."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"414689",
+"children":[
+"This patient most likely has the syndrome of inappropriate antidiuretic hormone secretion (SIADH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") related to recent pituitary surgery. SIADH can occur 4 to 12 days after pituitary surgery with a peak incidence of 7 to 8 days. It is thought to be caused by excess release of antidiuretic hormone related to manipulation of the posterior pituitary gland during pituitary surgery. This syndrome can also be part of a triphasic response in which patients first develop diabetes insipidus postoperatively, followed by SIADH, and then permanent diabetes insipidus. It is important to recognize SIADH early so measures can be taken to avoid severe hyponatremia. Treatment usually centers on fluid restriction, although vasopressin receptor antagonists or hypertonic saline may be required in severe hyponatremia. Patients with symptoms of hyponatremia and sodium levels less than 130 mEq/L (130 mmol/L) benefit from hospital admission."
+]
+},
+{
+"type":"p",
+"hlId":"614607",
+"children":[
+"Adrenal insufficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may occur after pituitary surgery because of damage to the corticotroph cells, but this diagnosis is unlikely in this case. This patient had adequate morning and random afternoon serum cortisol levels on postoperative day 3, indicating a preserved pituitary-adrenal axis. Although repeating an 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum cortisol test would be reasonable, secondary adrenal insufficiency is a less likely cause of the hyponatremia than SIADH."
+]
+},
+{
+"type":"p",
+"hlId":"e0b1e8",
+"children":[
+"Based on the physical examination, this patient is not experiencing dehydration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Although it is not unusual for patients to become volume depleted after surgery, especially if diabetes insipidus is present, this patient has no orthostatic symptoms, has normal vital signs, and has moist mucous membranes, all of which indicate an adequate volume status."
+]
+},
+{
+"type":"p",
+"hlId":"100e1c",
+"children":[
+"The normal thyroid-stimulating hormone and free thyroxine levels indicate that secondary hypothyroidism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not the cause of this patient's hyponatremia. Repeat thyroid studies will be required in several weeks to ensure that thyroid hormone production is adequate; because of the long half-life of thyroid hormone, it can take several weeks to develop secondary hypothyroidism."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_5_5",
+"objective":{
+"__html":"Diagnose the syndrome of inappropriate antidiuretic hormone secretion following pituitary surgery."
+},
+"references":[
+[
+"Yuen KCJ, Ajmal A, Correa R, et al. Sodium perturbations after pituitary surgery. Neurosurg Clin N Am. 2019;30:515-524. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31471059",
+"target":"_blank"
+},
+"children":[
+"PMID: 31471059"
+]
+},
+" doi:10.1016/j.nec.2019.05.011"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":3,
+"C":15,
+"D":58,
+"E":0
+},
+"hlIds":[
+"2af866",
+"fa720b",
+"6fef96",
+"413696",
+"fa4da6",
+"414689",
+"614607",
+"e0b1e8",
+"100e1c"
+]
+}

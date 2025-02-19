@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q029",
+"number":29,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8a3e1d",
+"children":[
+"A 27-year-old asymptomatic woman is evaluated during a routine visit. She has a 5-year history of schizophrenia treated with olanzapine. She was last seen 4 months ago. There is no family history of metabolic or cardiovascular diseases. Fasting glucose was measured 1 year ago, and complete blood count and lipids were measured 5 years ago; results were normal."
+]
+},
+{
+"type":"p",
+"hlId":"c5698a",
+"children":[
+"On physical examination, BMI is 27 and waist circumference is 81 cm (32 in)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"823ac2",
+"children":[
+"Which of the following screening tests should be obtained?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Leukocyte count"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lipid levels and fasting glucose measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum prolactin measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"19b402",
+"children":[
+"Schizophrenia is associated with an increased risk for diabetes mellitus, cardiovascular disease, and obesity, and these coexisting conditions may be exacerbated by the metabolic complications of antipsychotic therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ad3d29",
+"children":[
+"In patients taking antipsychotic medications, fasting glucose should be measured every year, and serum lipids should be measured every 5 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7fe8ab",
+"children":[
+"Lipid and fasting glucose levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be obtained now. Schizophrenia is associated with an increased risk for diabetes mellitus, cardiovascular disease, and obesity, and these coexisting conditions may be exacerbated by the metabolic complications of antipsychotic therapy. Undertreatment of medical disease is also common in this population. Patients with pre-existing components of the metabolic syndrome are at highest risk. Routine periodic monitoring of metabolic parameters is recommended for patients taking any antipsychotic drug. Measurements of weight (and BMI), waist circumference, blood pressure, glucose level, and lipid levels are recommended at baseline when starting antipsychotic drugs. Weight should be measured at 4 weeks, 8 weeks, 12 weeks, and then quarterly. The other parameters should be measured at 12 weeks, and with the exception of lipids, should then be measured annually; lipid measurements are recommended at least every 5 years."
+]
+},
+{
+"type":"p",
+"hlId":"29f52e",
+"children":[
+"QT prolongation is typically mild with use of most second-generation antipsychotic drugs, but these drugs should be used with caution in patients with cardiac risk factors or taking other drugs that prolong the QT interval. Routine periodic monitoring with ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended. A baseline ECG is recommended at the time of drug initiation and after therapeutic drug levels have been achieved in patients with risk factors for QT prolongation."
+]
+},
+{
+"type":"p",
+"hlId":"dfffa8",
+"children":[
+"Agranulocytosis is a complication of clozapine treatment, and monitoring of the leukocyte count for the first several months of therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is recommended. Agranulocytosis is less frequently associated with other second-generation antipsychotic drugs and occurs in less than 1% of patients taking olanzapine. Routine monitoring for agranulocytosis is not recommended for patients taking antipsychotics other than clozapine unless baseline leukocyte counts were low or the patient previously experienced an episode of agranulocytosis."
+]
+},
+{
+"type":"p",
+"hlId":"244221",
+"children":[
+"Second-generation antipsychotic drugs are associated with elevations of prolactin levels by direct blockade of pituitary dopamine receptors. Routine monitoring of serum prolactin levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended, but measurement is indicated if the patient has symptoms of sexual dysfunction or galactorrhea."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_9",
+"objective":{
+"__html":"Screen for metabolic syndrome in a patient taking antipsychotic medications."
+},
+"references":[
+[
+"Rognoni C, Bertolani A, Jommi C. Second-generation antipsychotic drugs for patients with schizophrenia: systematic literature review and meta-analysis of metabolic and cardiovascular side effects. Clin Drug Investig. 2021;41:303-319. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33686614",
+"target":"_blank"
+},
+"children":[
+"PMID: 33686614"
+]
+},
+" doi:10.1007/s40261-021-01000-1"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"8a3e1d",
+"c5698a",
+"823ac2",
+"19b402",
+"ad3d29",
+"7fe8ab",
+"29f52e",
+"dfffa8",
+"244221"
+]
+}

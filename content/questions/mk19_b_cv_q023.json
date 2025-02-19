@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q023",
+"number":23,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8caca5",
+"children":[
+"A 48-year-old man is evaluated for a 6-month history of dyspnea and near-syncope with exertion. He has no other medical problems and takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"0ecf69",
+"children":[
+"On physical examination, vital signs are normal. A grade 3/6 systolic ejection-quality murmur is heard along the left sternal border. The carotid impulse is brisk. The murmur decreases significantly in intensity with the patient squatting. There is no radiation of the murmur to the carotid arteries. No ejection sound or systolic click is heard. There is no variation with respiration, and no diastolic murmur is present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bicuspid aortic stenosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypertrophic cardiomyopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Restrictive membranous ventricular septal defect"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ruptured sinus of Valsalva aneurysm"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"19752e",
+"children":[
+"The murmur of hypertrophic cardiomyopathy is typically a rapidly peaking crescendo-decrescendo murmur heard best along the left lower sternal border."
+]
+},
+{
+"type":"keypoint",
+"hlId":"55c827",
+"children":[
+"Dynamic maneuvers, such as Valsalva maneuver or squatting and standing, may be useful in diagnosing hypertrophic cardiomyopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"216988",
+"children":[
+"The most likely diagnosis is hypertrophic cardiomyopathy (HCM) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The murmur of HCM is typically a rapidly peaking crescendo-decrescendo murmur heard best along the left lower sternal border. Dynamic maneuvers, such as Valsalva maneuver or squatting and standing, may be useful in making the diagnosis. During the strain phase of Valsalva maneuver, decreased ventricular preload worsens the degree of left ventricular outflow tract obstruction, increasing the intensity of the murmur (positive likelihood ratio, 14). Squatting increases both preload and afterload, resulting in a decrease in dynamic left ventricular outflow tract obstruction and in the intensity of the murmur (positive likelihood ratio, 7.6). The murmur of HCM typically does not radiate to the carotid arteries, as it does in aortic stenosis, and the carotid upstroke is more commonly brisk and two-phased (bifid), reflecting ejection, obstruction, and a later phase of ejection."
+]
+},
+{
+"type":"p",
+"hlId":"1bc651",
+"children":[
+"Bicuspid aortic stenosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be associated with an early systolic ejection sound (click) that heralds the murmur. This is heard more commonly while the valve leaflets remain pliable, before valvular calcification progresses. The murmur radiates to the carotid arteries, and when significant stenosis is present, the carotid upstroke is low amplitude and delayed (parvus et tardus). The murmur's intensity decreases during Valsalva maneuver, with little change during squatting."
+]
+},
+{
+"type":"p",
+"hlId":"354360",
+"children":[
+"A restrictive membranous ventricular septal defect (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not typically associated with symptoms of dyspnea. In this condition, a harsh pansystolic murmur is present at the left lower sternal border. It does not markedly change with dynamic maneuvers."
+]
+},
+{
+"type":"p",
+"hlId":"683e7e",
+"children":[
+"Sinus of Valsalva aneurysm (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of the right or noncoronary cusp may rupture into the right heart and is associated with acute dyspnea and decompensation. Because pressure within the aorta is always higher than in the right heart, the loud murmur is heard in both systole and diastole (continuous murmur)."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7_1_2",
+"objective":{
+"__html":"Diagnose hypertrophic cardiomyopathy on physical examination."
+},
+"references":[
+[
+"Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diagnosis and treatment of patients with hypertrophic cardiomyopathy: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. J Am Coll Cardiol. 2020;76:e159-e240. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33229116",
+"target":"_blank"
+},
+"children":[
+"PMID: 33229116"
+]
+},
+" doi:10.1016/j.jacc.2020.08.045"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":72,
+"C":8,
+"D":4,
+"E":0
+},
+"hlIds":[
+"8caca5",
+"0ecf69",
+"413696",
+"19752e",
+"55c827",
+"216988",
+"1bc651",
+"354360",
+"683e7e"
+]
+}

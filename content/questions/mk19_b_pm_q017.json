@@ -1,0 +1,204 @@
+{
+"id":"mk19_b_pm_q017",
+"number":17,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"41e371",
+"children":[
+"A 40-year-old man is evaluated 10 days after an emergency department visit for a cough, chest tightness, wheezing, and shortness of breath. He was treated with nebulized albuterol and sent home with a 5-day course of prednisone and an albuterol metered-dose inhaler. Since completing the prednisone, he has felt well, with no further symptoms and no need to use the albuterol. He reports a similar episode requiring an emergency department visit 1 year ago."
+]
+},
+{
+"type":"p",
+"hlId":"1c3565",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. Cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"0e85df",
+"children":[
+"Spirometry is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Budesonide-salmeterol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluticasone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measurement of exhaled nitric oxide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Methacholine challenge testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e3fb18",
+"children":[
+"For patients with asthma symptoms and a normal spirometry, a positive bronchial challenge test followed by relief of symptoms with standard asthma therapy confirms the diagnosis of asthma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1b9bd3",
+"children":[
+"A negative bronchial challenge test excludes the diagnosis of asthma in most patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"da9db1",
+"children":[
+"The most appropriate management for this patient is methacholine challenge testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Confirmation of reversible airflow obstruction is a cornerstone of asthma diagnosis, and spirometry should be performed on all patients with suspected asthma. For some patients, however, airflow obstruction is not present during the initial spirometry, and a bronchial challenge test is indicated to evaluate for bronchial hyperreactivity, which supports an asthma diagnosis. The test is usually performed with inhaled methacholine, although other stimuli (exercise, mannitol) also have been validated. Bronchial challenge tests measure spirometry following a controlled inhaled stimulus; a positive test is indicated by a drop in the measured ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"FEV"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+". If the result is negative, it is unlikely that the patient has asthma, but a positive result in isolation is not specific enough to diagnose asthma. Therefore, to confirm the diagnosis, patients with a positive methacholine challenge test and suggestive asthma symptoms must also respond clinically to treatment with asthma therapies. This patient's typical symptoms and improvement with standard asthma therapy would indicate asthma if the methacholine challenge test result were positive."
+]
+},
+{
+"type":"p",
+"hlId":"2efbda",
+"children":[
+"Although initiating a trial of asthma treatment with budesonide-salmeterol or fluticasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") could be considered, guidelines indicate that it is preferable to first establish a diagnosis to avoid prescribing unnecessary or incorrect treatment. It is more difficult to establish the diagnosis of asthma once the patient is taking controller medications."
+]
+},
+{
+"type":"p",
+"hlId":"7626c4",
+"children":[
+"Measurement of the fractional exhaled nitric oxide (FeNO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in an exhaled breath sample provides a noninvasive way to quantify eosinophilic airway inflammation and serves as a complementary tool in the management of lung diseases, in particular, asthma. However, the role of FeNO in the diagnosis of asthma has not been established. Although an elevated FeNO is characteristic of type 2 airway inflammation, FeNO is also elevated in disorders such as eosinophilic bronchitis, atopy, and allergic rhinitis and is not elevated in some asthma phenotypes. Spirometry remains the first test of choice to diagnose asthma."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_4",
+"objective":{
+"__html":"Diagnose asthma with bronchial challenge testing."
+},
+"references":[
+[
+"Coates AL, Wanger J, Cockcroft DW, et al; Bronchoprovocation Testing Task Force: Kai-Håkon Carlsen. ERS technical standard on bronchial challenge testing: general considerations and performance of methacholine challenge tests. Eur Respir J. 2017;49. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28461290",
+"target":"_blank"
+},
+"children":[
+"PMID: 28461290"
+]
+},
+" doi:10.1183/13993003.01526-2016"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":6,
+"C":8,
+"D":74,
+"E":0
+},
+"hlIds":[
+"41e371",
+"1c3565",
+"0e85df",
+"cb2b54",
+"e3fb18",
+"1b9bd3",
+"da9db1",
+"2efbda",
+"7626c4"
+]
+}

@@ -1,0 +1,539 @@
+{
+"id":"mk19_b_pm_q011",
+"number":11,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"61c7e2",
+"children":[
+"A 59-year-old woman was hospitalized for a first COPD exacerbation 5 days ago and is now preparing for discharge. She quit smoking 5 years ago. Immunizations are up to date. Medications are daily tiotropium bromide and albuterol inhalers as needed. Prednisone is to be discontinued today."
+]
+},
+{
+"type":"p",
+"hlId":"2342e0",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" at rest is 87% with the patient breathing ambient air. Breath sounds are distant, without wheezing. Cardiovascular examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"210285",
+"children":[
+"Complete blood count is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ad001",
+"children":[
+"Arterial blood gas studies (at time of discharge):"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5ae98b",
+"class":"cell text l",
+"children":[
+"7.42"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3bfd57",
+"class":"cell text l",
+"children":[
+"44 mm Hg (5.8 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c9ec46",
+"class":"cell text l",
+"children":[
+"55 mm Hg (7.3 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aminophylline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Home oxygen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Noninvasive positive pressure ventilation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop current inhalers; start inhaled fluticasone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7ce5d",
+"children":[
+"The use of supplemental oxygen has been shown to improve quality of life and decrease mortality in patients with COPD and resting hypoxemia with an arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" of 55 mm Hg (7.3 kPa) or less, or oxygen saturation as measured by pulse oximetry of 88% or less."
+]
+},
+{
+"type":"keypoint",
+"hlId":"eb3ea6",
+"children":[
+"Patients with cor pulmonale, heart failure, or erythrocytosis should be offered the use of supplemental oxygen if P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 59 mm Hg (7.8 kPa) or less or oxygen saturation is 89% or less."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa8ff6",
+"children":[
+"The most appropriate additional therapy is supplemental oxygen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The use of supplemental oxygen has been shown to improve quality of life and decrease mortality in patients with COPD and resting hypoxemia with an arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" of 55 mm Hg (7.3 kPa) or less, or oxygen saturation as measured by pulse oximetry of 88% or less. Patients with cor pulmonale, heart failure, or erythrocytosis should be offered the use of supplemental oxygen if P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" is 59 mm Hg (7.8 kPa) or less or oxygen saturation is 89% or less. Some patients may not qualify for oxygen at rest but may desaturate during sleep, exertion, or air travel. Supplemental oxygen is typically prescribed if the oxygen saturation as measured by pulse oximetry falls below 89% in these patients, but the benefits are less defined."
+]
+},
+{
+"type":"p",
+"hlId":"99f4fb",
+"children":[
+"Once a patient is started on long-term oxygen therapy, they should be re-evaluated after 2 to 3 months with a repeat arterial blood gas or oxygen saturation measurement to determine if the level of supplemental oxygen is therapeutic and if it is still indicated."
+]
+},
+{
+"type":"p",
+"hlId":"f6429e",
+"children":[
+"The methylxanthines (aminophylline and theophylline) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are now rarely used to treat COPD. Theophylline has been shown to improve functional capacity and reduce the number of exacerbations; however, it has a narrow window between therapeutic and toxic dosages. Therefore it is used only for patients with advanced COPD who have refractory symptoms not controlled with standard therapy."
+]
+},
+{
+"type":"p",
+"hlId":"bf1586",
+"children":[
+"Adding home noninvasive positive pressure ventilation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to oxygen therapy in patients with persistent hypercapnia after an acute exacerbation of COPD prolongs the time to readmission and death. This patient does not have persistent hypercapnia and the use of noninvasive positive pressure ventilation is not indicated at this time."
+]
+},
+{
+"type":"p",
+"hlId":"5f2841",
+"children":[
+"Inhaled glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are typically used only in combination with a long-acting bronchodilator, not as monotherapy, for treatment of COPD. Inhaled glucocorticoids with bronchodilator therapy may improve lung function and reduce symptoms and exacerbations in patients with moderate to severe COPD, but they are associated with an increased risk of pneumonia."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_9_3_2",
+"objective":{
+"__html":"Treat COPD-related hypoxemia with supplemental oxygen therapy."
+},
+"references":[
+[
+"Celli BR, Wedzicha JA. Update on clinical aspects of chronic obstructive pulmonary disease. N Engl J Med. 2019;381:1257-1266. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31553837",
+"target":"_blank"
+},
+"children":[
+"PMID: 31553837"
+]
+},
+" doi:10.1056/NEJMra1900500"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":92,
+"C":7,
+"D":0,
+"E":0
+},
+"hlIds":[
+"61c7e2",
+"2342e0",
+"210285",
+"4ad001",
+"397dff",
+"5ae98b",
+"dd372e",
+"3bfd57",
+"acab5a",
+"c9ec46",
+"78ff87",
+"b7ce5d",
+"eb3ea6",
+"aa8ff6",
+"99f4fb",
+"f6429e",
+"bf1586",
+"5f2841"
+]
+}

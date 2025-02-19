@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q109",
+"number":109,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 109",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e1a9b0",
+"children":[
+"A 63-year-old man is evaluated during a follow-up examination for rheumatic aortic valve disease. He is asymptomatic and has no exercise limitations. He has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"a487db",
+"children":[
+"On physical examination, blood pressure is 134/32 mm Hg. A grade 3/6 holodiastolic murmur is heard best at the left sternal border. Peripheral pulses are bounding. There is no evidence of heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"24d619",
+"children":[
+"A transthoracic echocardiogram with good image quality shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" greater than 55% and a tricuspid aortic valve with severe aortic regurgitation. The left ventricular end-systolic dimension is elevated at 45 mm."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Repeat evaluation in 6 months"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Surgical aortic valve replacement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fc6464",
+"children":[
+"In symptomatic patients with severe aortic regurgitation, aortic valve surgery is indicated regardless of left ventricular systolic function."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c3c8b3",
+"children":[
+"In asymptomatic patients with chronic severe aortic regurgitation and left ventricular systolic dysfunction (ejection fraction ≤55%), aortic valve surgery is indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c418df",
+"children":[
+"The most appropriate next step in management is reevaluation with clinical examination and echocardiography in 6 to 12 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), or earlier as dictated by a change in clinical status or examination findings concerning for heart failure. This patient's examination findings (widened pulse pressure, murmur, and bounding pulses) are consistent with severe aortic regurgitation (AR). With all regurgitant lesions, indications for invasive intervention are based on either the negative impact of valvular regurgitation on ventricular size/contractility or the emergence of symptoms due to valvular regurgitation or heart failure. In symptomatic patients with severe AR, aortic valve surgery is indicated regardless of left ventricular (LV) systolic function. In asymptomatic patients with chronic severe AR and LV systolic dysfunction (LV ejection fraction ≤55%), aortic valve surgery is indicated if no other cause for systolic dysfunction is identified. In asymptomatic patients with severe AR and normal LV systolic function (LV ejection fraction >55%), aortic valve surgery is reasonable if the left ventricle is severely enlarged (LV end-systolic dimension >50 mm)."
+]
+},
+{
+"type":"p",
+"hlId":"7a8d26",
+"children":[
+"This patient does not require surgical aortic valve replacement now (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He is asymptomatic, and quantitative echocardiographic evaluation confirms severe AR with a normal LV ejection fraction and without significant ventricular dilation. He should be followed closely with clinical examination and echocardiography every 6 to 12 months."
+]
+},
+{
+"type":"p",
+"hlId":"d7c51d",
+"children":[
+"Current guidelines recommend that patients with isolated severe AR who have indications for surgical aortic valve replacement and are candidates for surgery not undergo transcatheter aortic valve implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), because it is rarely feasible and has potential harms."
+]
+},
+{
+"type":"p",
+"hlId":"22bded",
+"children":[
+"Transesophageal echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be used to assess AR. However, in native valve AR, it rarely provides incremental diagnostic information beyond what is obtained by transthoracic echocardiography with good image quality."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_3_2",
+"objective":{
+"__html":"Monitor an asymptomatic patient with severe aortic regurgitation."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":64,
+"B":18,
+"C":13,
+"D":5,
+"E":0
+},
+"hlIds":[
+"e1a9b0",
+"a487db",
+"24d619",
+"cb2b54",
+"fc6464",
+"c3c8b3",
+"c418df",
+"7a8d26",
+"d7c51d",
+"22bded"
+]
+}

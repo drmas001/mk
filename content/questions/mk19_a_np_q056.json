@@ -1,0 +1,196 @@
+{
+"id":"mk19_a_np_q056",
+"number":56,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f9a56f",
+"children":[
+"A 44-year-old woman is evaluated during a follow-up visit for chronic hypertension. Over the past month, her average blood pressure measured with home blood pressure monitoring was 150/90 mm Hg. There is no family history of hypertension. She has no other medical problems. The patient adheres to a low sodium diet. Medications are maximum doses of amlodipine, atenolol, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"50c8b3",
+"children":[
+"On physical examination, blood pressure is 150/96 mm Hg, and pulse rate is 64/min; other vital signs are normal. BMI is 26. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"96f59d",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.8 mg/dL (70.7 µmol/L) and normal electrolyte levels. Urinalysis shows no blood, protein, or leukocyte esterase."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add chlorthalidone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure plasma aldosterone concentration/plasma renin activity ratio"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measure plasma fractionated metanephrines"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain renal artery imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"27c638",
+"hvc":true,
+"children":[
+"Resistant hypertension is blood pressure that remains above goal despite concurrent use of three antihypertensive agents of different classes, or blood pressure at goal but requiring four or more medications; one of these medications must be a diuretic."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"02e67c",
+"children":[
+"The most appropriate next step in management is to add chlorthalidone, a thiazide diuretic (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Resistant hypertension is defined as blood pressure (BP) that remains above goal despite concurrent use of three antihypertensive agents of different classes, or BP at goal but requiring four or more medications. One of these medications must be a diuretic. Suboptimal antihypertensive therapy in patients with difficult-to-control hypertension is frequently the result of not including a diuretic agent, which ensures that extracellular volume expansion is prevented or treated. Therefore, before a diagnosis of resistant hypertension is made or evaluation is initiated for secondary causes of hypertension, the patient should be treated with an appropriate diuretic medication, with attention to effective dose and dosing frequency. Although hydrochlorothiazide is the most commonly used thiazide diuretic, chlorthalidone has a longer half-life, which allows once-daily dosing; some evidence from trials suggests efficacy in reducing cardiovascular events."
+]
+},
+{
+"type":"p",
+"hlId":"b66b02",
+"children":[
+"Obtaining a plasma aldosterone concentration/plasma renin activity ratio (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated at this time, as there is no clinical suspicion for primary hyperaldosteronism such as resistant hypertension, hypokalemia, incidentally discovered adrenal mass, family history of early-onset hypertension, or stroke at age <40 years. This patient does not have hypokalemia or a metabolic alkalosis to raise suspicion for hyperaldosteronism."
+]
+},
+{
+"type":"p",
+"hlId":"4205dd",
+"children":[
+"Testing for plasma fractionated metanephrines (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which screens for a pheochromocytoma, is not indicated. The following characteristics raise clinical suspicion for pheochromocytoma: resistant hypertension; new-onset hypertension or onset at a young age; paroxysmal hypertension; episodic tachycardia, headaches, and sweating; history of familial syndromes; adrenal adenoma found incidentally on imaging with or without hypertension; or pressor response during invasive procedures or anesthesia. The patient has none of these indications for testing."
+]
+},
+{
+"type":"p",
+"hlId":"422379",
+"children":[
+"Obtaining renal artery imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated, as there is no clinical suspicion for renal artery stenosis, which includes the onset of severe hypertension in patients >55 years of age, recurrent flash pulmonary edema, refractory heart failure, or acute kidney injury after initiation of an ACE inhibitor or angiotensin receptor blocker."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_10",
+"objective":{
+"__html":"Treat difficult-to-control hypertension by adding a diuretic."
+},
+"references":[
+[
+"Braam B, Taler SJ, Rahman M, et al. Recognition and management of resistant hypertension. Clin J Am Soc Nephrol. 2017;12:524-535. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27895136",
+"target":"_blank"
+},
+"children":[
+"PMID: 27895136"
+]
+},
+" doi:10.2215/CJN.06180616"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":51,
+"B":29,
+"C":2,
+"D":18,
+"E":0
+},
+"hlIds":[
+"f9a56f",
+"50c8b3",
+"96f59d",
+"1a5dcc",
+"27c638",
+"02e67c",
+"b66b02",
+"4205dd",
+"422379"
+]
+}

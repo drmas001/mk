@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_pm_q088",
+"number":88,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 88",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b8b348",
+"children":[
+"A 54-year-old man is evaluated for a 2-year history of chronic productive cough. He has intermittent wheezing, shortness of breath with exertion, and nasal congestion."
+]
+},
+{
+"type":"p",
+"hlId":"853d22",
+"children":[
+"On physical examination, vital signs are normal. Bibasilar crackles are present. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"43e73a",
+"children":[
+"CT scan of the chest shows cylindrical bronchiectasis of bilateral lower lobes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopy with bronchoalveolar lavage"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Immunoglobulin measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measurement of IgG response to pneumococcal immunization"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nasal ciliary biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bd9db0",
+"children":[
+"Bronchiectasis should be considered in the differential diagnosis of any patient with a chronic cough, especially if the patient has a history of frequent respiratory infections or if the cough is productive."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7b7c77",
+"children":[
+"Initial evaluation of patients with bronchiectasis should include testing for common causes, including abnormal immune function (by measuring immunoglobulin levels) and connective tissue disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7b0378",
+"children":[
+"The most appropriate diagnostic test to perform next is immunoglobulin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has symptoms and imaging findings consistent with bronchiectasis. Bronchiectasis is a chronic obstructive lung disease that results from enlargement of the airways, which leads to chronic inflammation, recurrent infection, and ineffective airway clearance. Bronchiectasis should be considered in the differential diagnosis of any patient with a chronic cough and mucopurulent sputum production. Other possible symptoms include hemoptysis, wheezing, and chest pain. Initial evaluation of patients with bronchiectasis should include testing for common causes, including abnormal immune function (by measuring immunoglobulin levels) and connective tissue disease. Patients should also be evaluated for other causes of bronchiectasis depending on their presentation, including cystic fibrosis, ciliary dysfunction, α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin deficiency, aspiration, and allergic bronchopulmonary aspergillosis. All patients who can expectorate sputum should also be tested for chronic bacterial and mycobacterial infections to target for eradication or treatment during exacerbations. More than half of cases of bronchiectasis are considered idiopathic after a thorough evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"3840ea",
+"children":[
+"Some patients with bronchiectasis require bronchoscopy with bronchoalveolar lavage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to test for chronic infections that may be missed in sputum cultures (including mycobacterial infections) or in patients who cannot expectorate. Bronchoscopy is not included in the initial diagnostic evaluation of bronchiectasis."
+]
+},
+{
+"type":"p",
+"hlId":"6d9734",
+"children":[
+"Common variable immunodeficiency is a heterogenous syndrome associated with decreased quantitative immunoglobulin levels and impaired humoral response to antigens. Impaired humoral response can be tested by measuring specific antibody production before and after immunization with tetanus and pneumococcal polysaccharide vaccines (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Such testing is indicated in patients suspected of having a primary immunodeficiency disorder. However, the first step in this evaluation is documentation of low immunoglobulin levels."
+]
+},
+{
+"type":"p",
+"hlId":"a91cf8",
+"children":[
+"Primary ciliary dyskinesia is an autosomal recessive genetic disorder that causes ineffective ciliary action in the respiratory tract, fallopian tube, and sperm cells. It can be diagnosed through genetic testing and nasal ciliary biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"); a low nasal nitric oxide measurement can also support the diagnosis. Although nasal ciliary biopsy may be indicated for some patients, it would not be included in the initial diagnostic evaluation of bronchiectasis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_3_4",
+"objective":{
+"__html":"Diagnose the cause of bronchiectasis."
+},
+"references":[
+[
+"Hill AT, Sullivan AL, Chalmers JD, et al. British thoracic society guideline for bronchiectasis in adults. Thorax. 2019;74:1-69. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30545985",
+"target":"_blank"
+},
+"children":[
+"PMID: 30545985"
+]
+},
+" doi:10.1136/thoraxjnl-2018-212463"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":31,
+"B":43,
+"C":6,
+"D":21,
+"E":0
+},
+"hlIds":[
+"b8b348",
+"853d22",
+"43e73a",
+"ab9d96",
+"bd9db0",
+"7b7c77",
+"7b0378",
+"3840ea",
+"6d9734",
+"a91cf8"
+]
+}

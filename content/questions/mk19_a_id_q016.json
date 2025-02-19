@@ -1,0 +1,225 @@
+{
+"id":"mk19_a_id_q016",
+"number":16,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fc1015",
+"children":[
+"A 35-year-old man is evaluated in late August for right facial nerve palsy of 2 days' duration. His initial evaluation in the emergency department included Lyme serology. Treatment was deferred pending test results. He is a landscaper in Rhode Island. Other medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"867280",
+"children":[
+"On physical examination, vital signs are normal. He has right-sided peripheral seventh cranial nerve palsy. The remainder of his neurologic examination is normal. No rash is present."
+]
+},
+{
+"type":"p",
+"hlId":"66cd31",
+"children":[
+"Enzyme immunoassay is positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+". ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"B. burgdorferi"
+]
+},
+" IgM Western blot is also positive, and IgG Western blot is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Perform lumbar puncture"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prescribe doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prescribe prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start parenteral ceftriaxone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d6afe4",
+"children":[
+"Lyme disease accounts for up to 25% of cases of facial nerve palsy in endemic areas during summer months."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5be69b",
+"children":[
+"Doxycycline is the treatment of choice for patients with isolated facial nerve palsy and positive enzyme immunoassay results for Lyme disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4aa5cf",
+"children":[
+"This patient has isolated right facial nerve palsy caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia"
+]
+},
+", and doxycycline for 14 to 21 days is the treatment of choice (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Lyme disease accounts for up to 25% of cases of facial nerve palsy in endemic areas during summer months. Facial nerve palsy caused by neuroborreliosis can be unilateral or bilateral and may present alone or overlap with meningitis. Without previously documented or concurrent erythema migrans, laboratory testing is necessary to distinguish facial palsy resulting from Lyme disease from Bell palsy (idiopathic peripheral facial nerve palsy). Laboratory confirmation of Lyme disease employs a two-tiered serologic algorithm. In patients with a positive or equivocal screening enzyme immunoassay (EIA) or indirect fluorescent antibody test, a secondary confirmatory EIA (previously, Western blot was most common) is performed. A positive IgM antibody with a negative IgG antibody can occur early in the course of infection when insufficient time has passed for IgG seroconversion, as is the case in this patient. The IgG almost invariably becomes positive within 4 weeks of symptom onset; after this time period, a negative IgG Western blot excludes a diagnosis of Lyme disease. A sequential EIA test that reacts with a different bacterial epitope has been approved as an alternative confirmatory test and may eventually replace the Western blot as the preferred assay."
+]
+},
+{
+"type":"p",
+"hlId":"06efd2",
+"children":[
+"In this patient with no clinical evidence of meningoencephalitis or myelitis, a lumbar puncture is unlikely to provide additional information (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"b933dc",
+"children":[
+"Early use of glucocorticoids has been proven to decrease long-term neurologic dysfunction in Bell palsy, and a 1-week course of prednisone would be appropriate if Lyme disease was excluded (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Small studies evaluating the role of concomitant antibiotic and glucocorticoid therapy for facial palsy caused by Lyme disease suggest either no effect or a detrimental effect with combination therapy."
+]
+},
+{
+"type":"p",
+"hlId":"6901a7",
+"children":[
+"Parenteral therapy with ceftriaxone is reserved for patients with meningoencephalitis or myelitis, which is not present in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). For mildly ill patients with isolated peripheral nerve involvement, doxycycline is equally effective and avoids the cost, inconvenience, and potential risks of parenteral therapy."
+]
+}
+],
+"relatedSection":"mk19_a_id_s4_1",
+"objective":{
+"__html":"Treat facial nerve palsy caused by Lyme disease."
+},
+"references":[
+[
+"Halperin JJ. Lyme neuroborreliosis. Curr Opin Infect Dis. 2019;32:259-264. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30921086",
+"target":"_blank"
+},
+"children":[
+"PMID: 30921086"
+]
+},
+" doi:10.1097/QCO.0000000000000545"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":62,
+"C":3,
+"D":25,
+"E":0
+},
+"hlIds":[
+"fc1015",
+"867280",
+"66cd31",
+"cb2b54",
+"d6afe4",
+"5be69b",
+"4aa5cf",
+"06efd2",
+"b933dc",
+"6901a7"
+]
+}

@@ -1,0 +1,398 @@
+{
+"id":"mk19_a_np_q042",
+"number":42,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"00740d",
+"children":[
+"A 45-year-old man is evaluated during a routine visit in September. He has advanced chronic kidney disease due to IgA nephropathy. Medical history is also significant for chickenpox but with no history of shingles. Medications are carvedilol, diltiazem, lisinopril, and sevelamer. His vaccination history includes completion of only required childhood vaccinations and recent COVID-19 immunization."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b626bf",
+"class":"cell text l",
+"children":[
+"Hepatitis A virus IgM antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2ff2e8",
+"class":"cell text l",
+"children":[
+"Hepatitis B surface antigen"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3a242b",
+"class":"cell text l",
+"children":[
+"Hepatitis B surface antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"328929",
+"class":"cell text l",
+"children":[
+"Positive"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"67b35c",
+"class":"cell text l",
+"children":[
+"Hepatitis C virus antibody"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell text l",
+"children":[
+"Negative"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"7014ec",
+"children":[
+"Inactivated influenza vaccine is administered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fb497a",
+"children":[
+"Which of the following is the most appropriate additional vaccine to administer at this visit?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis A vaccine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hepatitis B vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Herpes zoster recombinant vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pneumococcal conjugate vaccine"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Pneumococcal polysaccharide vaccine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"795579",
+"children":[
+"Patients with chronic kidney disease and end-stage kidney disease or on hemodialysis should receive either the 20-valent pneumococcal conjugate vaccine or the 15-valent pneumococcal conjugate vaccine followed by the 23-valent pneumococcal conjugate vaccine."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f6ec54",
+"children":[
+"Patients with chronic kidney disease and end-stage kidney disease are at increased risk for influenza-related morbidity and mortality and should receive the influenza vaccine annually."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"96467f",
+"children":[
+"The most appropriate additional vaccine to administer at this visit is the pneumococcal conjugate vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Chronic kidney disease (CKD) is an indication for pneumococcal vaccination. Three pneumococcal vaccines are available: the 15-valent pneumococcal conjugate vaccine (PCV15), the 20-valent pneumococcal conjugate vaccine (PCV20), and the 23-valent pneumococcal polysaccharide vaccine (PPSV23). In adults aged 19 to 64 years with CKD, pneumococcal vaccination with either PCV20 or both PCV15 and PPSV23 is indicated. If PCV15 and PPSV23 are administered, PCV15 should be administered first followed by PPSV23 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E)"
+]
+},
+" at least 8 weeks later. In addition, patients with CKD and end-stage kidney disease (ESKD) are at increased risk for influenza-related morbidity and mortality and should be strongly encouraged to receive the influenza vaccine annually. Influenza vaccination has been shown to decrease influenza-related mortality and decrease hospitalization for acute coronary syndrome and heart failure in patients who are vaccinated."
+]
+},
+{
+"type":"p",
+"hlId":"9acc5f",
+"children":[
+"Patients with CKD and ESKD should receive vaccines for hepatitis A or herpes zoster (shingles) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, C"
+]
+},
+") and others (for example, tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis) according to the same guidelines as the general population based on age (>50 years) for the herpes zoster vaccine and hepatitis A vaccine for upcoming travel to endemic areas, and for adults at risk for hepatitis A virus (HAV) infection or severe disease from HAV infection and for adults requesting protection against HAV without acknowledgment of a risk factor."
+]
+},
+{
+"type":"p",
+"hlId":"31e51d",
+"children":[
+"Patients with ESKD who are receiving hemodialysis and blood transfusions are at increased risk for exposure to blood-borne viruses. Hepatitis B vaccination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated for patients with CKD who are not already immune. For patients on hemodialysis, the vaccine should be administered as part of the infection control program at the dialysis center. Patients with ESKD require a higher dose of vaccine to enhance the likelihood of immune response. Serology indicates that this patient is immune to hepatitis B; therefore, vaccination is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_2_4_5",
+"objective":{
+"__html":"Manage vaccinations in a patient with chronic kidney disease."
+},
+"references":[
+[
+"Krueger KM, Ison MG, Ghossein C. Practical guide to vaccination in all stages of CKD, including patients treated by dialysis or kidney transplantation. Am J Kidney Dis. 2020;75:417-425. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31585683",
+"target":"_blank"
+},
+"children":[
+"PMID: 31585683"
+]
+},
+" doi:10.1053/j.ajkd.2019.06.014"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":2,
+"C":9,
+"D":40,
+"E":40
+},
+"hlIds":[
+"00740d",
+"a462a3",
+"b626bf",
+"ffb935",
+"2ff2e8",
+"ffb935",
+"3a242b",
+"328929",
+"67b35c",
+"ffb935",
+"7014ec",
+"fb497a",
+"795579",
+"f6ec54",
+"96467f",
+"9acc5f",
+"31e51d"
+]
+}

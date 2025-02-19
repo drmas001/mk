@@ -1,0 +1,216 @@
+{
+"id":"mk19_b_en_q006",
+"number":6,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1885ab",
+"children":[
+"A 61-year-old woman is evaluated after an abdominal CT scan for diverticulitis revealed an incidental adrenal mass. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1af5c7",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"85c454",
+"children":[
+"Abdominal CT scan shows a 3.5-cm left adrenal mass with a density of 7 Hounsfield units and absolute contrast washout of 80% at 10 minutes. The remainder of the scan is normal."
+]
+},
+{
+"type":"p",
+"hlId":"b6bbee",
+"children":[
+"Serum creatinine and electrolytes are normal. Testing for mild autonomous cortisol excess is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adrenal biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Adrenalectomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Screening for primary aldosteronism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat abdominal CT at 12 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3bf560",
+"hvc":true,
+"children":[
+"Asymptomatic patients with incidentally discovered adrenal mass with no evidence of mild autonomous cortisol excess and benign imaging phenotype can undergo repeat imaging at 12 months; clinical observation can also be considered."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a1821e",
+"hvc":true,
+"children":[
+"In patients with an adrenal mass, screening for primary hyperaldosteronism is indicated in the presence of hypertension or hypokalemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"938800",
+"children":[
+"The most appropriate next step is to repeat abdominal CT at 12 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The finding of an incidental adrenal mass prompts two key questions: (1) is the mass secreting excess hormone (aldosterone, cortisol, or catecholamines)?; and (2) is the mass benign or malignant? Biochemical testing for hypercortisolism should be undertaken in all patients with an incidentally discovered adrenal mass, even in the absence of typical symptoms; screening for pheochromocytoma is indicated if the unenhanced CT attenuation is greater than 10 Hounsfield units, even in the absence of hypertension. Most benign adrenal adenomas are smaller than 4 cm and have high lipid content, which corresponds to a density of less than 10 Hounsfield units, and contrast washout is greater than 60% in 10 minutes. This asymptomatic patient with an incidentally discovered adrenal mass has no evidence of hormone excess associated with mild autonomous cortisol excess and has a benign imaging phenotype. Clinical observation can also be considered. A large study of patients with small nonfunctioning adrenal tumors showed significant growth in only 2.5% of tumors at 50 months, and no cases of adrenal carcinoma were diagnosed. Clinically overt hormone excess developed in less than 0.1% of patients."
+]
+},
+{
+"type":"p",
+"hlId":"2e4884",
+"children":[
+"Adrenal biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has a limited role in evaluation of incidentalomas and is reserved for lesions suspicious for metastases or an infiltrative process such as lymphoma or infection. This patient has no indication for an adrenal biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"aac989",
+"children":[
+"Adrenalectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be considered for patients with a functioning pheochromocytoma, aldosterone-producing tumor, or hypercortisolism or a suspicious imaging phenotype for adrenal carcinoma. Elements of a suspicious imaging phenotype include size larger than 4 cm, Hounsfield units 10 or higher (indicative of low lipid content), and absolute contrast washout of 60% or less at 10 minutes. Adrenalectomy would also be appropriate for masses that demonstrate growth of more than 1 cm/year. This patient meets none of these criteria."
+]
+},
+{
+"type":"p",
+"hlId":"789603",
+"children":[
+"The patient does not require screening for primary aldosteronism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because she does not have hypertension or hypokalemia. Only patients with an incidental adrenal mass and these features require screening for primary hyperaldosteronism."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_4",
+"objective":{
+"__html":"Manage a nonfunctioning adrenal mass smaller than 4 cm."
+},
+"references":[
+[
+"Elhassan YS, Alahdab F, Prete A, et al. Natural history of adrenal incidentalomas with and without mild autonomous cortisol excess: a systematic review and meta-analysis. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M18-3630",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:107-116. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31234202",
+"target":"_blank"
+},
+"children":[
+"PMID: 31234202"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":7,
+"C":22,
+"D":66,
+"E":0
+},
+"hlIds":[
+"1885ab",
+"1af5c7",
+"85c454",
+"b6bbee",
+"1a5dcc",
+"3bf560",
+"a1821e",
+"938800",
+"2e4884",
+"aac989",
+"789603"
+]
+}

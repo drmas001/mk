@@ -1,0 +1,198 @@
+{
+"id":"mk19_a_nr_q013",
+"number":13,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b5a7e8",
+"children":[
+"A 78-year-old man is evaluated for a 4-month history of increasing forgetfulness. He lives alone and maintains independence in all of his instrumental and basic activities of daily living. His daughter reports that he forgets appointments and his home is less organized than before with more clutter, including unopened bills on the dining room table. He does not drink alcohol. There is no history of high-risk sexual behavior. He is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"77bfd2",
+"children":[
+"On physical examination, vital signs, general screening, and neurologic examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"9f7246",
+"children":[
+"He can recall two of three items on the Mini-Cog test but cannot correctly draw a clock face."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cerebrospinal fluid analysis for tau protein"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Depression screening"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Genetic testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum VDRL testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a8199e",
+"hvc":true,
+"children":[
+"Assessment for a reversible cause of cognitive impairment should include consideration of medication adverse effects, alcohol use, sleep apnea, and depression."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"afada5",
+"children":[
+"The most appropriate test to perform next is depression screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's findings on the Mini-Cog test suggest cognitive impairment, and further investigation is warranted. Assessment for a reversible cause of cognitive impairment is the initial recommended strategy and should include evaluation for depression and sleep disorders, consideration of medication adverse effects and alcohol use, basic laboratory studies, and basic neuroimaging (MRI or CT without contrast). The symptoms of depression in geriatric patients can differ slightly from those in the general population, and depression symptoms can be misattributed to aging or chronic illness; therefore, depression might not be identified as readily in older patients. Depression in older adults may also be confused with cognitive dysfunction and is itself a risk factor for cognitive dysfunction. Older adults with depression are often treated with pharmacotherapy, and psychotherapy may also be considered as primary treatment or as adjunctive therapy."
+]
+},
+{
+"type":"p",
+"hlId":"02fc4b",
+"children":[
+"The diagnosis of Alzheimer disease is often established by finding impairment in two cognitive domains (memory, attention, language, visuospatial impairment, and executive functioning) with a compatible history of functional decline and supportive neuroimaging findings. Decreased cerebrospinal fluid Aβ",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"42"
+]
+},
+" and increased tau and phosphorylated tau levels are highly specific for Alzheimer disease, but testing is usually unnecessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Such testing might be considered in atypical situations, such as early onset disease, or when the diagnosis otherwise remains in doubt."
+]
+},
+{
+"type":"p",
+"hlId":"9aba57",
+"children":[
+"Genetic testing for the apolipoprotein-E ε4 (APOE ε4) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") allele is not recommended in the evaluation of cognitive impairment. The APOE ε4 allele is a risk factor for Alzheimer disease but is not causative."
+]
+},
+{
+"type":"p",
+"hlId":"ef4304",
+"children":[
+"Routine screening for neurosyphilis with a rapid plasmin reagin (RPR) test in a patient with cognitive impairment is not indicated. Guidelines recommend that RPR testing with VDRL (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or RPR testing by itself be reserved for high-risk patients based on sexual history. In these situations, screening for HIV infection may also be appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_2",
+"objective":{
+"__html":"Evaluate depression as a cause of cognitive impairment."
+},
+"references":[
+[
+"Petersen RC, Lopez O, Armstrong MJ, et al. Practice guideline update summary: mild cognitive impairment: report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology. 2018;90:126-35. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29282327",
+"target":"_blank"
+},
+"children":[
+"PMID: 29282327"
+]
+},
+" doi:10.1212/WNL.0000000000004826"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":82,
+"C":1,
+"D":7,
+"E":0
+},
+"hlIds":[
+"b5a7e8",
+"77bfd2",
+"9f7246",
+"983777",
+"a8199e",
+"afada5",
+"02fc4b",
+"9aba57",
+"ef4304"
+]
+}

@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q066",
+"number":66,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7b5941",
+"children":[
+"A 34-year-old woman is hospitalized for right-sided visual loss of 2 days' duration. She has no headache, eye pain, or neck pain. She has had two prior pregnancies without complications. She has no other symptoms and is otherwise well."
+]
+},
+{
+"type":"p",
+"hlId":"6ba351",
+"children":[
+"On physical examination, vital signs are normal. Right visual field deficit in both eyes is observed. Pupils are equal in size and are reactive to light; she has full eye movements."
+]
+},
+{
+"type":"p",
+"hlId":"74688e",
+"children":[
+"Complete blood count, coagulation profile, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"C-reactive protein, blood",
+"children":[
+"C-reactive protein"
+]
+},
+" level are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ea4842",
+"children":[
+"CT scan of the head shows a left occipital infarct. Magnetic resonance angiogram of the head and neck and ECG are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Catheter angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography with agitated saline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d34bd5",
+"children":[
+"Leading causes of stroke in young patients with no risk factors include cervicocephalic artery dissection, hypercoagulable state, vasculitis, and embolism via a patent foramen ovale."
+]
+},
+{
+"type":"keypoint",
+"hlId":"805439",
+"children":[
+"Transthoracic echocardiography with agitated saline injection is indicated in younger patients with stroke without other risk factors."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"eee133",
+"children":[
+"The most appropriate diagnostic test to perform next is transthoracic echocardiography (TTE) with agitated saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient had an embolic stroke, given the location in the occipital lobe and normal findings on vascular imaging. Leading causes of stroke in young patients with no risk factors include cervicocephalic artery dissection, a hypercoagulable state, vasculitis, and embolism from a patent foramen ovale. This patient does not have a headache, and the magnetic resonance angiogram was normal, making a dissection very unlikely. Her lack of other systemic symptoms, including fevers, rash, and joint pain, makes vasculitis less likely. A primary hypercoagulable state remains possible and should be investigated, although it is less likely given her normal laboratory values and prior pregnancies without complications. TTE with agitated saline injection can reveal a right-to-left shunt, is less invasive than other cardiac imaging, and is indicated in younger patients with stroke without other risk factors. Agitated saline with a TTE is not indicated in patients older than 45 to 50 years because a patent foramen ovale is less likely to be causally related to symptoms in that age group."
+]
+},
+{
+"type":"p",
+"hlId":"4e1e89",
+"children":[
+"Catheter angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated because there are no signs or imaging findings consistent with vasculitis or dissection. This test can be indicated in young patients with stroke to evaluate for a vasculopathy, although noninvasive imaging, such as magnetic resonance angiography and CT angiography, will usually provide sufficient resolution."
+]
+},
+{
+"type":"p",
+"hlId":"9ce709",
+"children":[
+"Lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated because the patient does not have evidence of vasculitis. An inflammatory condition is unlikely, given the lack of fever and normal complete blood count and C-reactive protein level. If vasculitis is suspected, a lumbar puncture can demonstrate inflammation with elevated leukocyte count and protein level in the spinal fluid."
+]
+},
+{
+"type":"p",
+"hlId":"3eed34",
+"children":[
+"Transesophageal echocardiography (TEE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not appropriate as an initial cardiac imaging test. TEE is indicated in the following patients: young patients who have had a stroke without other risk factors in whom the TTE has been uninformative; older patients who have other indications, including a high suspicion for valvular pathology or an intracardiac tumor; and patients with recurrent embolic strokes despite anticoagulation."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_3_2_4",
+"objective":{
+"__html":"Evaluate an embolic stroke in a patient younger than 50 years."
+},
+"references":[
+[
+"Messé SR, Gronseth GS, Kent DM, et al. Practice advisory update summary: Patent foramen ovale and secondary stroke prevention: Report of the Guideline Subcommittee of the American Academy of Neurology. Neurology. 2020;94:876-885. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32350058",
+"target":"_blank"
+},
+"children":[
+"PMID: 32350058"
+]
+},
+" doi:10.1212/WNL.0000000000009443"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":2,
+"C":18,
+"D":76,
+"E":0
+},
+"hlIds":[
+"7b5941",
+"6ba351",
+"74688e",
+"ea4842",
+"ab9d96",
+"d34bd5",
+"805439",
+"eee133",
+"4e1e89",
+"9ce709",
+"3eed34"
+]
+}

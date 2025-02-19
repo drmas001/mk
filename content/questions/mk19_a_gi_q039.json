@@ -1,0 +1,265 @@
+{
+"id":"mk19_a_gi_q039",
+"number":39,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"980bfd",
+"children":[
+"A 59-year-old woman is evaluated in the emergency department for fever and jaundice. She has decompensated alcoholic cirrhosis with ascites. Current medications are furosemide and spironolactone."
+]
+},
+{
+"type":"p",
+"hlId":"bd5c4a",
+"children":[
+"On physical examination, temperature is 38.1 °C (100.7 °F ), blood pressure is 100/60 mm Hg, and pulse rate is 60/min. Jaundice is present. Abdominal examination shows ascites and splenomegaly."
+]
+},
+{
+"type":"p",
+"hlId":"49535d",
+"children":[
+"Laboratory evaluation shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1 mg/dL (88.4 μmol/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"blood urea nitrogen"
+]
+},
+" level of 30 mg/dL (10.7 μmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"total bilirubin"
+]
+},
+" level of 4.1 mg/dL (70.1 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"4ee710",
+"children":[
+"Diagnostic paracentesis for evaluation of ascitic fluid shows ",
+{
+"type":"reference-range-link",
+"referenceRange":"Absolute neutrophil count",
+"children":[
+"neutrophil count"
+]
+},
+" of 350/μL (0.35 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fluoroquinolone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous albumin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous albumin and cefotaxime"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"be2b0c",
+"children":[
+"Spontaneous bacterial peritonitis is diagnosed by an ascitic fluid neutrophil count of 250/μL (0.25 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or higher."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e13f08",
+"children":[
+"Treatment of spontaneous bacterial peritonitis includes a third-generation cephalosporin; albumin is infused in the presence of hepatic (bilirubin level >4 mg/dL [68.4 μmol/L]) or kidney dysfunction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c9a9ee",
+"children":[
+"The most appropriate initial treatment is intravenous albumin and a third-generation cephalosporin, such as cefotaxime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Spontaneous bacterial peritonitis (SBP) is an infection of ascitic fluid in patients with portal hypertension. SBP can present with fever, abdominal pain, and/or kidney dysfunction; it should be considered in any patient with ascites whose status declines. SBP is diagnosed by an ascitic fluid neutrophil count of 250/μL (0.25 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) or greater. Bacterial culture of ascitic fluid should also be performed but is often negative. Initial treatment of SBP entails prompt initiation of a third-generation cephalosporin and adjunctive albumin therapy. Such treatment has a survival benefit. SBP has a high mortality rate, and patients who develop SBP should be considered for liver transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"1e1ee7",
+"children":[
+"In patients with cirrhosis and ascites, long-term prophylactic antibiotic therapy, typically with a fluoroquinolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is recommended to prevent SBP if the ascitic fluid protein level is less than 1.5 g/dL (15 g/L) and is associated with impaired renal function (serum creatinine ≥1.2 mg/dL [106.1 μmol/L], blood urea nitrogen ≥25 mg/dL [8.9 mmol/L], or serum sodium ≤130 mEq/L [130 mmol/L]) or liver failure (Child-Turcotte-Pugh score ≥9 and bilirubin level ≥3 mg/dL [51.3 μmol/L]). Fluoroquinolones are typically not used as initial treatment of SBP."
+]
+},
+{
+"type":"p",
+"hlId":"1e51f1",
+"children":[
+"In general, large-volume paracentesis should be avoided when SBP is suspected because it may result in fluid shifts from the intervascular space to the peritoneal cavity, decreasing the effective circulating volume, activating the renin–angiotensin system, and precipitating hepatorenal syndrome. The infusion of albumin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") following paracentesis for therapeutic purposes is recommended for higher-volume paracentesis greater than 5 L."
+]
+},
+{
+"type":"p",
+"hlId":"2076aa",
+"children":[
+"Trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be used for secondary prophylaxis of SBP but is not appropriate as initial treatment."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_5",
+"objective":{
+"__html":"Treat spontaneous bacterial peritonitis."
+},
+"references":[
+[
+"Biggins SW, Angeli P, Garcia-Tsao G, et al. Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74:1014-1048. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33942342",
+"target":"_blank"
+},
+"children":[
+"PMID: 33942342"
+]
+},
+" doi:10.1002/hep.31884"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":1,
+"C":82,
+"D":1,
+"E":0
+},
+"hlIds":[
+"980bfd",
+"bd5c4a",
+"49535d",
+"4ee710",
+"473b62",
+"be2b0c",
+"e13f08",
+"c9a9ee",
+"1e1ee7",
+"1e51f1",
+"2076aa"
+]
+}

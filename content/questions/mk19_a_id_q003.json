@@ -1,0 +1,335 @@
+{
+"id":"mk19_a_id_q003",
+"number":3,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"72cf64",
+"children":[
+"A 59-year-old man is hospitalized with a 5-day history of nonproductive cough and fever. He recreationally breeds carrier pigeons. He reports no travel outside of the United States. Medical history is noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a7033d",
+"children":[
+"On physical examination, temperature is 39.1 °C (102.4 °F), blood pressure is 136/72 mm Hg, pulse rate is 110/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% breathing ambient air. Breath sounds are decreased at the lung bases bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"225899",
+"children":[
+"A chest radiograph shows bilateral interstitial infiltrates."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4f4265",
+"children":[
+"Which of the following is the most likely cause of this patient's symptoms?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Avian influenza A H7N9"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"\n          <i>Chlamydia psittaci</i>\n        "
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Coxiella burnetii</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hanta virus"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"\n          <i>Rhodococcus equi</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"838257",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia psittaci"
+]
+},
+" presents indistinguishably from other causes of interstitial pneumonia such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila pneumoniae"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" species, so a history of bird exposure is helpful in correctly identifying the organism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b40791",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydia psittaci"
+]
+},
+" is the most likely cause of community-acquired pneumonia (CAP) in this patient, considering his history of bird exposure and clinical presentation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. psittaci"
+]
+},
+" is the cause of psittacosis (“parrot fever”). A meta-analysis determined psittacosis accounts for 1% of all CAP infections. Human infections are caused by inhalation of droppings (urine or feces) from birds, but because the organism can remain infectious in the environment for months, a history of avian exposure is not always present. Clinically, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. psittaci"
+]
+},
+" presents indistinguishably from other causes of interstitial pneumonia such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila pneumoniae"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" species; therefore, a history of bird exposure is helpful in suggesting the diagnosis. Laboratory confirmation of infection is challenging because the organism is fastidious, and culture is not routinely available outside of research settings. Serologic testing may provide retrospective diagnosis, but antibodies are variably present during acute illness. Polymerase chain reaction of respiratory specimens is highly sensitive and specific but not widely available. When the diagnosis is suspected, empiric treatment options include doxycycline, macrolides, or fluoroquinolones; treatment should be continued for 10 to 14 days."
+]
+},
+{
+"type":"p",
+"hlId":"41e48a",
+"children":[
+"Avian influenza strains have been responsible for worldwide pandemics, with the H7N9 strain first identified in 2013 in China (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Human infection with this strain is associated with poultry exposure; however, infections have not been identified outside of Asia."
+]
+},
+{
+"type":"p",
+"hlId":"4c02c0",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coxiella burnetii"
+]
+},
+", the cause of Q fever, causes pneumonia through inhalation of infectious aerosols (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). High bacterial levels are present in amniotic fluid, and assisting in the birthing of farm animals such as cattle, sheep, and goats is associated with infection. Birds are uncommon reservoirs for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. burnetii"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"5ea96b",
+"children":[
+"Hanta virus causes a severe cardiopulmonary syndrome characterized by acute respiratory distress syndrome, hemoconcentration, and thrombocytopenia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Hanta virus is associated with inhalation of aerosolized rodent excrement or urine rather than bird exposure."
+]
+},
+{
+"type":"p",
+"hlId":"b3d8a3",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Rhodococcus equi"
+]
+},
+" is a gram-positive coccobacillus associated with exposure to horses (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). It is an unusual cause of CAP, occurring primarily in immunocompromised hosts and in patients with HIV infection in particular. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Rhodococcus"
+]
+},
+" pneumonia typically presents as a pulmonary nodule or cavitary lesion."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_2",
+"objective":{
+"__html":"Diagnose <i>Chlamydia psittaci</i> pneumonia."
+},
+"references":[
+[
+"Shaw KA, Szablewski CM, Kellner S, et al. Psittacosis outbreak among workers at chicken slaughter plants, Virginia and Georgia, USA, 2018. Emerg Infect Dis. 2019;25:2143-2145. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31625859",
+"target":"_blank"
+},
+"children":[
+"PMID: 31625859"
+]
+},
+" doi:10.3201/eid2511.190703"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":90,
+"C":6,
+"D":0,
+"E":0
+},
+"hlIds":[
+"72cf64",
+"a7033d",
+"225899",
+"4f4265",
+"838257",
+"b40791",
+"41e48a",
+"4c02c0",
+"5ea96b",
+"b3d8a3"
+]
+}

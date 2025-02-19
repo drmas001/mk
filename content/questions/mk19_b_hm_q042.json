@@ -1,0 +1,225 @@
+{
+"id":"mk19_b_hm_q042",
+"number":42,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4a9ae0",
+"children":[
+"A 64-year-old man is evaluated following a recent diagnosis of multiple myeloma. Diagnosis was based on a monoclonal spike on serum protein electrophoresis, confirmatory bone marrow biopsy, and two lytic lesions on bone imaging. Serum calcium level and kidney function are normal, and he has not experienced any infections."
+]
+},
+{
+"type":"p",
+"hlId":"a871cf",
+"children":[
+"He received a herpes zoster virus vaccination at age 60 years, receives annual influenza vaccination, and received the COVID-19 vaccination series."
+]
+},
+{
+"type":"p",
+"hlId":"bb12c1",
+"children":[
+"Chemotherapy with bortezomib, lenalidomide, and dexamethasone is planned to begin in 14 days."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ef33e2",
+"children":[
+"Which of the following prophylactic therapies is indicated today?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acyclovir"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous immune globulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Levofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pneumococcal vaccine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"543b91",
+"children":[
+"Patients with multiple myeloma are at increased risk for bacterial infection owing to impaired lymphocyte and plasma cell function and hypogammaglobulinemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"927408",
+"children":[
+"All patients with multiple myeloma should receive pneumococcal vaccination with the 20-valent pneumococcal conjugate vaccine alone or the 15-valent pneumococcal conjugate vaccine followed by the 23-valent pneumococcal polysaccharide vaccine and annual influenza vaccination."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"385431",
+"children":[
+"Pneumococcal vaccination is indicated today (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with multiple myeloma (MM) are at increased risk for bacterial infection owing to impaired lymphocyte and plasma cell function and hypogammaglobulinemia. The most commonly encountered organisms are ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" presenting as sinusitis, pneumonia, and urinary tract infections. Because of the altered immune state associated with MM, pneumococcal vaccination with the 20-valent pneumococcal conjugate vaccine alone or 15-valent pneumococcal conjugate vaccine (PCV15) followed by the 23-valent pneumococcal polysaccharide vaccine (PPSV23) should be provided in accordance with Advisory Committee on Immunization Practices guidelines. Although the interval between PCV15 and subsequent PPSV23 is usually at least 1 year, a minimum of 8 weeks can be considered in patients with an immunocompromising condition such as MM. Ideally, immunization with inactivated vaccines should be provided at least 2 weeks before initiation of chemotherapy. In addition, annual influenza vaccination with standard-dose killed vaccine should be administered to all patients with MM and to household members. Response to vaccinations may be suboptimal, but vaccination still provides benefit and is recommended for all patients with MM."
+]
+},
+{
+"type":"p",
+"hlId":"556f68",
+"children":[
+"Many medications, such as proteasome inhibitors (e.g., bortezomib) and monoclonal antibodies, are associated with an increased risk of herpes zoster virus reactivation. Patients treated with bortezomib should receive antiviral prophylaxis with acyclovir or valacyclovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is not yet being treated with bortezomib, so prophylactic antiviral therapy is not indicated today."
+]
+},
+{
+"type":"p",
+"hlId":"538571",
+"children":[
+"Select patients with recurrent infections and hypogammaglobulinemia benefit from intravenous immune globulin (IVIG) infusions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). IVIG provides protection from infection by providing passive immunity. However, patients with acquired hypogammaglobulinemia without recurrent infections should not be offered IVIG. Replacement IVIG has numerous adverse effects, including anaphylaxis, serum sickness, kidney failure, hypertension, and headache, and its use should be restricted to patients with recurrent infections."
+]
+},
+{
+"type":"p",
+"hlId":"59f37e",
+"children":[
+"Because patients undergoing treatment for MM are at significantly increased risk for bacterial infection, prophylactic antibiotics are often started at the beginning of therapy and continued for the first 3 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, initiation of prophylactic antibiotics is not indicated today because the patient has not started chemotherapy and has no indication of infection."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s3_4_3",
+"objective":{
+"__html":"Prevent infection in a patient with newly diagnosed multiple myeloma."
+},
+"references":[
+[
+"Guzdar A, Costello C. Supportive care in multiple myeloma. Curr Hematol Malig Rep. 2020;15:56-61. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32172361",
+"target":"_blank"
+},
+"children":[
+"PMID: 32172361"
+]
+},
+" doi:10.1007/s11899-020-00570-9"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":6,
+"C":1,
+"D":70,
+"E":0
+},
+"hlIds":[
+"4a9ae0",
+"a871cf",
+"bb12c1",
+"ef33e2",
+"543b91",
+"927408",
+"385431",
+"556f68",
+"538571",
+"59f37e"
+]
+}

@@ -1,0 +1,215 @@
+{
+"id":"mk19_a_gi_q013",
+"number":13,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc14fb",
+"children":[
+"A 22-year-old woman is evaluated in the emergency department for an episode of confusion, diaphoresis, and tremulousness. Similar symptoms have been present for 6 months but are becoming more frequent and severe."
+]
+},
+{
+"type":"p",
+"hlId":"9155a9",
+"children":[
+"Fingerstick blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level is 30 mg/dL (1.7 mmol/L). Her symptoms resolve with administration of glucose. Subsequent evaluation reveals an elevated C-peptide level, a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"plasma glucose"
+]
+},
+" level of 45 mg/dL (2.5 mmol/L), and an elevated fasting insulin level."
+]
+},
+{
+"type":"p",
+"hlId":"d7a486",
+"children":[
+"A contrast-enhanced multidetector CT scan shows a highly vascular mass consistent in appearance with a pancreatic neuroendocrine tumor."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"af87f2",
+"children":[
+"Genetic testing for which of the following should be included in this patient's evaluation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Multiple endocrine neoplasia type 1"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Multiple endocrine neoplasia type 2"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neurofibromatosis type 1"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tuberous sclerosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0a299f",
+"children":[
+"Sporadic insulinomas tend to occur in patients age 40 years and older; therefore, the diagnosis of insulinoma in a younger patient is cause to screen for multiple endocrine neoplasia type 1."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7d2025",
+"children":[
+"This patient should undergo genetic testing for multiple endocrine neoplasia type 1 (MEN1) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Although most pancreatic neuroendocrine tumors (NETs) are sporadic, some are associated with hereditary endocrinopathies, such MEN1, von Hippel-Lindau syndrome, neurofibromatosis type 1, and tuberous sclerosis. Among these inherited endocrinopathies, MEN1 is most frequently associated with pancreatic NETs (≥80%), whereas pancreatic NETs occur in 1% to 20% of the other inherited endocrinopathies. MEN1 is a rare heritable disorder classically characterized by a predisposition to tumors of the parathyroid glands, anterior pituitary, and pancreatic islet cells, including insulinoma, as seen in this patient. MEN1 is clinically diagnosed by the presence of two or more primary MEN1 tumor types. In patients who have family members with a diagnosis of MEN1, the presence of a single MEN1-associated tumor satisfies the diagnostic criteria for MEN1. Pancreatic NETs account for the greatest proportion of deaths in patients with MEN1, and gastrinoma is the most common of the functioning NETs. However, most gastrinomas are located in the duodenal wall, not the pancreas. Insulinomas are the second most common NET and the most common pancreatic NET; they tend to be small and may be multiple. Sporadic insulinomas occur in patients age 40 years and older; therefore, the diagnosis of insulinoma in a younger patient is cause to screen for MEN1."
+]
+},
+{
+"type":"p",
+"hlId":"e42a67",
+"children":[
+"A defect of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"RET"
+]
+},
+" proto-oncogene is responsible for the clinical variations of MEN type 2 (MEN2) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), which involve tumors of the thyroid, parathyroid, and adrenal glands. MEN2 is not associated with NETs of the pancreas, and genetic testing for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEN2"
+]
+},
+" gene is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"2a348b",
+"children":[
+"Neurofibromas present as soft, skin-colored papules. Other cutaneous manifestations of neurofibromatosis type 1 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") include café-au-lait macules and axillary freckling. Nearly all patients with tuberous sclerosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") have one or more of the characteristic skin lesions, including hypopigmented macules, angiofibromas, or a brown fibrous plaque on the forehead. Genetic testing for these disorders is not indicated in the absence of these cutaneous findings."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_6_1",
+"objective":{
+"__html":"Diagnose multiple endocrine neoplasia type 1."
+},
+"references":[
+[
+"Scott AT, Howe JR. Evaluation and management of neuroendocrine tumors of the pancreas. Surg Clin North Am. 2019;99:793-814. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31255207",
+"target":"_blank"
+},
+"children":[
+"PMID: 31255207"
+]
+},
+" doi:10.1016/j.suc.2019.04.014"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":70,
+"B":28,
+"C":2,
+"D":0,
+"E":0
+},
+"hlIds":[
+"bc14fb",
+"9155a9",
+"d7a486",
+"af87f2",
+"0a299f",
+"7d2025",
+"e42a67",
+"2a348b"
+]
+}

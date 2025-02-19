@@ -1,0 +1,231 @@
+{
+"id":"mk19_b_en_q051",
+"number":51,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b6103d",
+"children":[
+"A 55-year-old man is evaluated for decreased libido. He has normal erectile function and has fathered three children. He has hypertension, type 2 diabetes mellitus, and hyperlipidemia. Medications are hydrochlorothiazide, metformin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"f1e0b1",
+"children":[
+"Vital signs are normal. BMI is 40. The remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"35cc8c",
+"children":[
+"The 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" total ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"testosterone"
+]
+},
+" level is 290 ng/dL (10.1 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"3addf3",
+"children":[
+"Which of the following is the most appropriate next step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate testosterone replacement therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure free testosterone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measure serum iron and total iron-binding capacity"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain a pituitary MRI"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Obtain a sleep study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fc91ca",
+"children":[
+"Obesity lowers sex hormone–binding globulin levels and leads to a falsely low level of total testosterone, which measures free plus protein-bound testosterone."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0f1dc9",
+"children":[
+"In patients with low total serum testosterone and suspected low sex hormone–binding globulin, free testosterone should be measured."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1bce2f",
+"children":[
+"The most appropriate next step in a patient with obesity, decreased libido, and a low total testosterone level is to obtain a free testosterone level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Obesity lowers sex hormone-binding globulin (SHBG) and leads to a falsely low total testosterone level (which measures free plus protein-bound testosterone); the free testosterone concentration remains normal. Measurement of free testosterone in a laboratory capable of performing the equilibrium dialysis assay is recommended to distinguish between a suspected binding abnormality and hypogonadism in a man with obesity. The binding abnormality caused by obesity is proportional to the degree of obesity. If free testosterone is low, a serum luteinizing hormone (LH) measurement is indicated. An elevated LH level and low free testosterone reflects primary hypogonadism (testicular failure), and further evaluation should be directed toward identifying the cause. A low or normal LH level with simultaneous low free testosterone reflects secondary hypogonadism (hypothalamic or pituitary dysfunction). Several other causes of abnormal SHBG levels should also be considered in evaluation for hypogonadism. Increased SHBG levels may be associated with aging, hyperthyroidism, high estrogen concentrations, liver disease, HIV infection, and antiseizure drugs. In addition to obesity, reduced SHBG levels may be associated with insulin resistance, type 2 diabetes mellitus, hypothyroidism, growth hormone excess, exogenous androgens or anabolic steroids, glucocorticoids, progestins, and nephrotic syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"ba9f15",
+"children":[
+"Testosterone replacement therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is only indicated for men with biochemically proven hypogonadism. Measurement of 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" fasting total testosterone level on two occasions is recommended in men with specific signs and symptoms of hypogonadism, such as decreased morning spontaneous erections, decreased libido, infertility, mastodynia, gynecomastia, and decreased facial hair or decreased axillary and genital hair. Laboratory evaluation of men with nonspecific symptoms of hypogonadism is not recommended. Examples of nonspecific symptoms include decreased mood, energy, concentration, muscle strength and bulk, and stamina, as well as poor sleep and memory. This patient does not have biochemically proven hypogonadism at this point in the evaluation, so testosterone therapy should not be initiated."
+]
+},
+{
+"type":"p",
+"hlId":"53030a",
+"children":[
+"Hemochromatosis, pituitary adenoma, and sleep apnea are all common causes of secondary hypogonadism (hypothalamic or pituitary dysfunction). This patient, however, does not have confirmed hypogonadism; therefore, evaluation for these causes with measurement of serum iron and total iron-binding capacity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), or a sleep study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is premature and not indicated at this time."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_5_1_3",
+"objective":{
+"__html":"Evaluate low testosterone measurement in a patient with obesity."
+},
+"references":[
+[
+"Marcelli M, Mediwala SN. Male hypogonadism: a review. J Investig Med. 2020;68:335-356. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31988219",
+"target":"_blank"
+},
+"children":[
+"PMID: 31988219"
+]
+},
+" doi:10.1136/jim-2019-001233"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":32,
+"C":7,
+"D":1,
+"E":52
+},
+"hlIds":[
+"b6103d",
+"f1e0b1",
+"35cc8c",
+"3addf3",
+"fc91ca",
+"0f1dc9",
+"1bce2f",
+"ba9f15",
+"53030a"
+]
+}

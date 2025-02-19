@@ -1,0 +1,199 @@
+{
+"id":"mk19_a_np_q062",
+"number":62,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"15c274",
+"children":[
+"A 36-year-old woman is evaluated during a routine follow-up visit for stage G4 chronic kidney disease. Her ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" is 22 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Medications are lisinopril, sevelamer, and sodium bicarbonate. She has selected hemodialysis for her renal replacement therapy, and an arteriovenous fistula will eventually be placed in her nondominant left arm."
+]
+},
+{
+"type":"p",
+"hlId":"1a6316",
+"children":[
+"Three weeks later, the patient is hospitalized with septic shock secondary to community-acquired pneumonia. Venous access for the administration of fluids, vasopressors, and antibiotics is urgently needed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f5650a",
+"children":[
+"Which of the following is most appropriate method of venous access for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Internal jugular vein insertion of a central venous catheter"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Peripherally inserted central catheter in the left arm"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripherally inserted central catheter in the right arm"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Subclavian vein insertion of a central venous catheter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"739954",
+"children":[
+"The American Society of Nephrology recommends that peripherally inserted central catheter line catheters should be avoided in patients with an estimated glomerular filtration rate <60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b38705",
+"children":[
+"Internal jugular vein insertion of a central venous catheter is the most appropriate method of venous access for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients with advanced chronic kidney disease (CKD) may ultimately require renal replacement therapy. Arteriovenous fistula (AVF) placement is the safest and most enduring option for vascular access. AVFs have superior clinical outcomes compared with arteriovenous grafts. Protecting the veins of the nondominant arm is of paramount importance for the future success of a functioning AVF and involves limiting phlebotomy and intravenous catheters in that arm."
+]
+},
+{
+"type":"p",
+"hlId":"5f3da9",
+"children":[
+"Peripherally inserted central catheters (PICCs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C"
+]
+},
+") are long catheters that are inserted peripherally and terminate in the central veins. PICCs are popular because of their ease of insertion and use. PICC lines can lead to significant trauma and venous stenosis in the veins that may be used for AVF creation. This could impair blood flow through the fistula, impair maturation, and even lead to primary nonfunctioning of the hemodialysis access. Data demonstrate that PICC lines in either arm, placed before or after initiation of hemodialysis, are independently associated with a 15% to 20% lower likelihood of transition to any working fistula or graft. The long-term use of PICC lines is also associated with an increased risk for death. The American Society of Nephrology recommends that PICC line catheters should be avoided in patients with an estimated glomerular filtration rate <60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"f8ed18",
+"children":[
+"Avoidance of subclavian venous catheters (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") helps limit subclavian stenosis, which can impair the proper functioning of an arteriovenous access used for dialysis. Although central lines inserted through the internal jugular vein are associated with central venous stenosis, a central line is a better alternative than a PICC or subclavian insertion of a central venous catheter; central lines are not inserted into a peripheral vein, which would be used for the creation of a hemodialysis site, and utilize a vessel not as prone to stenosis as the subclavian vein."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_8_3",
+"objective":{
+"__html":"Manage venous access for a patient with chronic kidney disease."
+},
+"references":[
+[
+"McGill RL, Ruthazer R, Meyer KB, et al. Peripherally inserted central catheters and hemodialysis outcomes. Clin J Am Soc Nephrol. 2016;11:1434-1440. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27340280",
+"target":"_blank"
+},
+"children":[
+"PMID: 27340280"
+]
+},
+" doi:10.2215/CJN.01980216"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":61,
+"B":2,
+"C":21,
+"D":16,
+"E":0
+},
+"hlIds":[
+"15c274",
+"1a6316",
+"f5650a",
+"739954",
+"b38705",
+"5f3da9",
+"f8ed18"
+]
+}

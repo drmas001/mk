@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_en_q063",
+"number":63,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2d9aa7",
+"children":[
+"A 78-year-old woman is evaluated for osteoporosis. She was diagnosed 5 years ago following a fragility fracture in the left hip. She has hypertension and hypercholesterolemia and had an ischemic stroke 1 year ago. She started denosumab 4 years ago, after intolerance of oral and then intravenous bisphosphonate therapy. Her most recent dose of denosumab was 6 months ago. Other medications are amlodipine, aspirin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"e4d1d9",
+"children":[
+"Dual-energy x-ray absorptiometry scan today shows a right femur neck T-score of -2.5."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue denosumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Schedule osteoporosis drug holiday"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch to raloxifene"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to romosozumab"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Switch to teriparatide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e34f03",
+"children":[
+"Denosumab therapy is the appropriate management of postmenopausal osteoporosis in patients intolerant of or incompletely responsive to bisphosphonate therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"548966",
+"children":[
+"Discontinuation of denosumab therapy results in increased fracture risk, and alternative antiresorptive therapy should be initiated if denosumab is discontinued."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2a7b45",
+"children":[
+"The most appropriate management is to continue denosumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Because the patient remains at high risk for recurrent fracture, continued pharmacologic therapy is indicated. Denosumab is a monoclonal antibody that inhibits osteoclast activation. When administered subcutaneously twice yearly, denosumab suppresses bone resorption, increases bone density, and reduces the incidence of osteoporotic fractures in both men and women. The optimum duration of denosumab use is unknown; notably, however, fracture rates are comparable over 10 years to those treated for 3 years in clinical trials, suggesting continued benefit for up to 10 years if denosumab therapy is followed by an alternative antiresorptive therapy."
+]
+},
+{
+"type":"p",
+"hlId":"2a72ff",
+"children":[
+"Scheduling an osteoporosis drug holiday (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated because denosumab should not be stopped without the addition of antiresorptive therapy. A delay or discontinuation in denosumab therapy results in a rebound in bone turnover, a rapid drop in bone mineral density, and an increased fracture risk. Alternative antiresorptive therapy, ideally an oral bisphosphonate, should be initiated 6 months after denosumab is discontinued, but this option is not viable for this patient who has demonstrated intolerance. Although less effective than oral bisphosphonates, intravenous zoledronic acid administered 6 months after the last denosumab treatment results in less bone loss than no therapy."
+]
+},
+{
+"type":"p",
+"hlId":"7cc3ae",
+"children":[
+"Raloxifene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used as antiresorptive therapy after discontinuation of denosumab but it is most appropriate for patients without high facture risk who additionally are not at risk for cardiovascular events. This patient is at high risk for fracture and has a history of cardiovascular disease, making raloxifene a poor choice."
+]
+},
+{
+"type":"p",
+"hlId":"f72085",
+"children":[
+"Romosozumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a monoclonal antibody with mixed anabolic and antiresorptive effects. Although this agent would be suitable for use after denosumab in patients with a high fracture risk, it is contraindicated in patients who had a cardiovascular event in the past year."
+]
+},
+{
+"type":"p",
+"hlId":"9f5a76",
+"children":[
+"Teriparatide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is an anabolic agent that stimulates bone formation and is approved for use in postmenopausal women at high risk for osteoporotic fracture. When teriparatide is started subsequent to denosumab discontinuation, however, it stimulates the rebound bone resorption associated with denosumab withdrawal."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_6_3",
+"objective":{
+"__html":"Manage postmenopausal osteoporosis with denosumab."
+},
+"references":[
+[
+"Shoback D, Rosen CJ, Black DM, et al. Pharmacological management of osteoporosis in postmenopausal women: an Endocrine Society guideline update. J Clin Endocrinol Metab. 2020;105. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32068863",
+"target":"_blank"
+},
+"children":[
+"PMID: 32068863"
+]
+},
+" doi:10.1210/clinem/dgaa048"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":52,
+"B":9,
+"C":11,
+"D":5,
+"E":23
+},
+"hlIds":[
+"2d9aa7",
+"e4d1d9",
+"cb2b54",
+"e34f03",
+"548966",
+"2a7b45",
+"2a72ff",
+"7cc3ae",
+"f72085",
+"9f5a76"
+]
+}

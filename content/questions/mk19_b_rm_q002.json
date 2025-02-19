@@ -1,0 +1,212 @@
+{
+"id":"mk19_b_rm_q002",
+"number":2,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3275c3",
+"children":[
+"A 23-year-old man is evaluated for fever, abdominal pain, rash, and arthritis of the right knee of 3 days' duration that resolved 1 week ago. He has had more than 20 similar episodes, the last three occurring in the past year. The first episode occurred at age 5 years and presented as abdominal pain; the patient underwent appendectomy but no appendicitis was found. His paternal grandfather and maternal grandmother had a similar syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"abcac3",
+"children":[
+"Laboratory evaluation shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 23 mm/h, a normal serum creatinine level, and 1+ protein on urinalysis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Canakinumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Indomethacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a1a059",
+"children":[
+"Familial Mediterranean fever is a systemic inflammatory syndrome characterized by fever, abdominal pain, rash, and arthritis, each lasting only several days."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c7c7cc",
+"children":[
+"First-line treatment of familial Mediterranean fever is lifelong daily prophylaxis with colchicine, which in most cases prevents attacks, prevents renal amyloidosis, and can inhibit neutrophils and suppress interleukin-1β generation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0a0341",
+"children":[
+"The most appropriate treatment is colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Autoinflammatory syndromes are monogenic diseases that result in periodic episodes of system inflammation. This patient demonstrates multiple episodes of a systemic inflammatory syndrome characterized by fever, abdominal pain, rash, and arthritis, each lasting only several days. This constellation is characteristic of familial Mediterranean fever (FMF), a disease driven by several mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"MEFV"
+]
+},
+" gene. This gene encodes pyrin, a protein important to the production and/or overproduction of interleukin-1β. Although the genetics continue to be studied, from a clinical point of view the disease is most commonly found in Jewish, Arab, and Turkish populations and follows an autosomal recessive pattern. Other symptoms may include other forms of serositis, including pericarditis. During episodes, inflammatory markers are elevated; in between episodes the physical examination and laboratory results may be normal. Diagnosis is made clinically and can be confirmed definitively in most patients through genetic testing. One long-term consequence of the episodic inflammation of FMF is amyloidosis, including of the kidneys; this patient's low-level proteinuria may be an early manifestation. Other autoinflammatory syndromes are rarer and have similar but nonidentical features that allow them to be distinguished from FMF. First-line treatment of FMF is lifelong daily prophylaxis with colchicine, which in most cases prevents attacks, prevents renal amyloidosis, and can inhibit neutrophils and suppress interleukin-1β generation."
+]
+},
+{
+"type":"p",
+"hlId":"3ceda8",
+"children":[
+"Canakinumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a monoclonal antibody to interleukin-1β that has been reported to successfully treat patients with FMF, including those in whom colchicine has failed. However, canakinumab is expensive and immunosuppressive and has not been FDA approved for FMF treatment. Given the long experience with colchicine and its efficacy, canakinumab should be reserved for patients with FMF in whom colchicine has failed or is not tolerated."
+]
+},
+{
+"type":"p",
+"hlId":"91be49",
+"children":[
+"NSAIDs, such as indomethacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), may alleviate symptoms during FMF attacks but do not address the underlying mechanisms of FMD and are not appropriate preventive or long-term therapy."
+]
+},
+{
+"type":"p",
+"hlId":"ef0524",
+"children":[
+"Glucocorticoids, such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), may decrease the duration of attacks but also increase their frequency. Thus, they are not appropriate for long-term or preventive FMF therapy."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s15_3",
+"objective":{
+"__html":"Treat familial Mediterranean fever."
+},
+"references":[
+[
+"Georgin-Lavialle S, Ducharme-Benard S, Sarrabay G, et al. Systemic autoinflammatory diseases: Clinical state of the art. Best Pract Res Clin Rheumatol. 2020;34:101529. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32546426",
+"target":"_blank"
+},
+"children":[
+"PMID: 32546426"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":56,
+"C":10,
+"D":21,
+"E":0
+},
+"hlIds":[
+"3275c3",
+"f8786b",
+"abcac3",
+"1054f1",
+"a1a059",
+"c7c7cc",
+"0a0341",
+"3ceda8",
+"91be49",
+"ef0524"
+]
+}

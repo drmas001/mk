@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q091",
+"number":91,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 91",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b26345",
+"children":[
+"A 41-year-old woman is evaluated during a follow-up visit for stage 2 hypertension confirmed by daytime ambulatory blood pressure monitoring. She also has a 10-year history of type 2 diabetes mellitus and hyperlipidemia. Medications are atorvastatin, metformin, and empagliflozin."
+]
+},
+{
+"type":"p",
+"hlId":"f3e63c",
+"children":[
+"On physical examination, blood pressure is 142/92 mm Hg, and pulse rate is 72/min; other vital signs are normal. BMI is 28. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"462c3c",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.9 mg/dL (79.6 µmol/L). Urine dipstick reveals no blood or protein."
+]
+},
+{
+"type":"p",
+"hlId":"12021b",
+"children":[
+"The patient is instructed in lifestyle modifications for blood pressure control."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin amlodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin hydrochlorothiazide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Continue nonpharmacologic therapy with blood pressure measurement in 3 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain urine albumin-creatinine ratio"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3f4796",
+"children":[
+"Because moderately increased albuminuria may go undetected by dipstick urinalysis, direct quantification is required in high-risk patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"87069b",
+"children":[
+"The American Diabetes Association recommends an ACE inhibitor or angiotensin receptor blocker at the maximum tolerated dose as first-line treatment for hypertension in patients with diabetes mellitus and urine albumin-creatinine ratio >300 mg/g."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4e1e54",
+"children":[
+"The most appropriate additional management is to obtain a urine albumin-creatinine ratio (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Dipstick measurements of protein are dependent on urine concentration; false-negative results may be caused by dilute urine, and false-positive results may be caused by highly concentrated urine. Because moderately increased albuminuria may go undetected by dipstick urinalysis, direct quantification is required in high-risk patients. The American College of Cardiology/American Heart Association (ACC/AHA) blood pressure (BP) guideline recommends a BP goal of <130/80 mm Hg for patients with diabetes mellitus. The American Diabetes Association (ADA) recommends a BP target of <130/80 mm Hg for patients with diabetes and hypertension at higher cardiovascular risk (existing atherosclerotic cardiovascular disease [ASCVD] or 10-year ASCVD event risk ≥15%), if it can be safely attained. For patients who have diabetes and hypertension with a 10-year ASCVD <15%, the ADA recommends a target of 140/90 mm Hg. According to the ACC/AHA, ACE inhibitors or ARBs may be considered in the presence of albuminuria. For patients with hypertension, diabetes, and urine albumin-creatinine ratio >300 mg/g, the ADA recommends an ACE inhibitor or ARB at the maximum tolerated dose as first-line treatment; such treatment should also be considered if urine albumin-creatinine ratio ≥30 mg/g to 300 mg/g. Consequently, the next step in management of this patient is to measure her urine albumin-creatinine ratio to determine if an ACE inhibitor or ARB is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"fcad1e",
+"children":[
+"Selecting a specific antihypertensive drug, such as a CCB (amlodipine) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a thiazide diuretic (hydrochlorothiazide) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an ACE inhibitor, or an ARB is not indicated until quantification of albuminuria is performed."
+]
+},
+{
+"type":"p",
+"hlId":"5e9702",
+"children":[
+"Patients with stage 2 hypertension should be managed with both pharmacologic and nonpharmacologic therapy. Therefore, continuing nonpharmacologic therapy only is not sufficient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). After initiation of therapy, the patient's BP should be remeasured in 1 month, not 3 months."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_14_2",
+"objective":{
+"__html":"Screen for albuminuria to determine optimal treatment of hypertension."
+},
+"references":[
+[
+"American Diabetes Association. 10. Cardiovascular disease and risk management: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S125-S150. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298421",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298421"
+]
+},
+" doi:10.2337/dc21-S010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":16,
+"C":12,
+"D":56,
+"E":0
+},
+"hlIds":[
+"b26345",
+"f3e63c",
+"462c3c",
+"12021b",
+"1e31fb",
+"3f4796",
+"87069b",
+"4e1e54",
+"fcad1e",
+"5e9702"
+]
+}

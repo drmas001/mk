@@ -1,0 +1,193 @@
+{
+"id":"mk19_a_on_q018",
+"number":18,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f55d77",
+"children":[
+"A 56-year-old man is evaluated for an enlarging, painful inguinal lymph node he first noticed 1 month ago. He has a history of follicular lymphoma of 8 years' duration. The patient was treated in the past with two courses of rituximab 8 and 3 years ago with durable partial responses. For the past 3 years, he had stable diffuse adenopathy managed with observation. He has no other symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"7a831a",
+"children":[
+"On physical examination, vital signs are normal. The patient has diffuse adenopathy in the neck, axillae, and right inguinal area and a new left inguinal conglomerate nodal mass measuring 5 × 7 cm."
+]
+},
+{
+"type":"p",
+"hlId":"28b9fd",
+"children":[
+"Complete blood count and metabolic profile are normal."
+]
+},
+{
+"type":"p",
+"hlId":"419430",
+"children":[
+"PET/CT scan shows diffuse uptake in axillary, mediastinal, hilar, and mesenteric nodes with elevated standardized uptake values in the 4 to 12 range, but 28 in the left inguinal area."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin bendamustine and rituximab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin rituximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Biopsy of the left inguinal nodes"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiation therapy to the left inguinal nodes"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d34806",
+"children":[
+"Histologic transformation of follicular lymphoma is suggested by new onset of systemic symptoms, declining performance status, lactate dehydrogenase or calcium elevation, new sites of extranodal disease, or characteristic CT/PET findings."
+]
+},
+{
+"type":"keypoint",
+"hlId":"304c6b",
+"children":[
+"Suspected histological transformation of low-grade non-Hodgkin lymphoma should be confirmed by lymph node biopsy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d64a44",
+"children":[
+"The appropriate next step is to biopsy the left inguinal lymph nodes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to look for evidence of transformation. This patient's clinical picture with rapid growth in a single nodal area with disproportionately higher PET standardized uptake values (SUVs) is suggestive of transformation of his low-grade follicular lymphoma to a more aggressive phenotype, typically to diffuse large cell lymphoma. Other features that can suggest transformation include new onset of B symptoms, declining performance status, marked rise in lactate dehydrogenase, hypercalcemia, and the development of new sites of extranodal disease. SUV on PET scan over 17 is strongly suggestive of transformation, but lower SUV levels cannot reliably rule in or rule out transformation, so biopsy is necessary if there is clinical concern based on other features."
+]
+},
+{
+"type":"p",
+"hlId":"9d3912",
+"children":[
+"Transformation of low-grade follicular lymphoma to diffuse large cell lymphoma may occur in about one third of patients over time. Transformation has important prognostic and therapeutic implications, as such events indicate a worse prognosis and require more aggressive therapy. If his lymphoma has undergone transformation to a higher grade of disease, combination anthracycline-based chemotherapy, autologous hematopoietic stem cell transplantation, and in some cases, CD19-targerted CAR-T cell therapy would be a treatment option."
+]
+},
+{
+"type":"p",
+"hlId":"8208ab",
+"children":[
+"Transformation to diffuse large B-cell lymphoma or Burkitt lymphoma is also described in other subtypes of indolent lymphoma including marginal zone lymphoma, lymphoplasmacytic lymphoma, small lymphocytic lymphoma/chronic lymphocytic leukemia (Richter syndrome), and lymphocyte-predominant Hodgkin lymphoma but is best described in follicular lymphoma."
+]
+},
+{
+"type":"p",
+"hlId":"f3628c",
+"children":[
+"Treatment strategy depends on the results of the lymph node biopsy. Initiating treatment without a histological diagnosis is not appropriate. Furthermore, treatment with rituximab, rituximab and bendamustine, or irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B,"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"D"
+]
+},
+") may be effective in low-grade lymphoma but not if transformation to higher-grade disease has occurred."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_1_1",
+"objective":{
+"__html":"Diagnose histologic transformation in low-grade non-Hodgkin lymphoma."
+},
+"references":[
+[
+"Casulo C, Burack WR, Friedberg JW. Transformed follicular non-Hodgkin lymphoma. Blood. 2015;125:40-7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25499449",
+"target":"_blank"
+},
+"children":[
+"PMID: 25499449"
+]
+},
+" doi:10.1182/blood-2014-04-516815"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":6,
+"C":69,
+"D":11,
+"E":0
+},
+"hlIds":[
+"f55d77",
+"7a831a",
+"28b9fd",
+"419430",
+"cb2b54",
+"d34806",
+"304c6b",
+"d64a44",
+"9d3912",
+"8208ab",
+"f3628c"
+]
+}

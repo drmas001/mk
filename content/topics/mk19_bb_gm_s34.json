@@ -1,0 +1,477 @@
+{
+"id":"mk19_bb_gm_s34",
+"subspecialtyId":"gm",
+"title":"Patient Safety",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_gm_s34",
+"title":{
+"__html":"Patient Safety"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7fca8f",
+"children":[
+"Patient Safety"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_gm_s34_1",
+"title":{
+"__html":"Diagnostic Errors"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"c6c37b",
+"children":[
+"Diagnostic Errors"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"2ee876",
+"children":[
+"Reasoning errors can lead to diagnostic errors."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_gm_s34_inline_t1"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s34_2",
+"title":{
+"__html":"Error Analysis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7f9ed9",
+"children":[
+"Error Analysis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"890be5",
+"children":[
+"Root-cause analysis is an exercise used to determine the contributors to an adverse event. Often, a cause–effect “fishbone” diagram is used to illustrate causation, beginning with a problem or error at the fish's head. Working back down the spine, the team is asked repetitively, “And what contributed to this?” This continues until as many prime factors as possible are identified."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s34_3",
+"title":{
+"__html":"Quality Improvement"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4878c1",
+"children":[
+"Quality Improvement"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"82dad2",
+"children":[
+"A common methodology to improve quality is the Plan-Do-Study-Act (PDSA) cycle. The clinician might plan a test of quality improvement, do the test by trying the new protocol on a limited number of patients, study the results, and act by refining the protocol based on what was learned and planning the next test."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s34_4",
+"title":{
+"__html":"Patient Handoffs"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"87bd75",
+"children":[
+"Patient Handoffs"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"b1d61a",
+"children":[
+"The best practice for handoff includes person-to-person communication, providing an opportunity to ask and respond to questions, and providing information that is accurate and concise (including name, location, history, diagnoses, severity of illness, medication and problem lists, status, recent procedures, a “to-do” list that has “if/then” statements, and contingency plans)."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s34_5",
+"title":{
+"__html":"Health Information Technology"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"1218b5",
+"children":[
+"Health Information Technology"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"e29e4e",
+"children":[
+"The ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"electronic health record",
+"children":[
+"EHR"
+]
+},
+","
+]
+},
+" ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"computerized physician order entry",
+"children":[
+"CPOE"
+]
+},
+","
+]
+},
+" and computerized ",
+{
+"type":"abbreviation",
+"title":"clinical decision support",
+"children":[
+"CDS"
+]
+},
+" are some common examples of health information technologies. CPOE is a system by which clinicians electronically enter medication, radiology, and laboratory orders, thereby eliminating errors and delays related to illegible handwriting. CDS refers to the use of information technology to facilitate clinical decision-making. When integrated into a CPOE system, CDS can highlight potential contraindications to diagnostic tests, specify dose recommendations, identify potential drug interactions, and suggest modifications to drug dosage in patients with kidney or liver dysfunction. CDS within the EHR can also promote protocols to improve care and provide ready access to clinical guidelines."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_gm_s34_inline_t1":{
+"id":"mk19_bb_gm_s34_inline_t1",
+"number":1,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Reasoning Errors"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"72a021",
+"children":[
+"Study Table: Reasoning Errors"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"271aa2",
+"class":"col hd l",
+"children":[
+"Heuristic"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0b890b",
+"class":"col hd l",
+"children":[
+"Definition"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"faeaec",
+"class":"cell txt l",
+"children":[
+"Availability"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5cbb27",
+"class":"cell txt l",
+"children":[
+"Clinician has encountered a similar presentation and jumps to the conclusion that the current diagnosis must be the same as the previous."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"246e09",
+"class":"cell txt l",
+"children":[
+"Anchoring"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a74eaf",
+"class":"cell txt l",
+"children":[
+"Clinician accepts at face value a previous diagnosis made by another clinician."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7a0f94",
+"class":"cell txt l",
+"children":[
+"Blind obedience"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0f43d1",
+"class":"cell txt l",
+"children":[
+"Clinician accepts a diagnosis or plan made by another of higher authority."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3134a7",
+"class":"cell txt l",
+"children":[
+"Premature closure"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f79bd9",
+"class":"cell txt l",
+"children":[
+"Full differential diagnosis is not considered."
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

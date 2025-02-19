@@ -1,0 +1,217 @@
+{
+"id":"mk19_b_pm_q007",
+"number":7,
+"bookId":"pm",
+"correctAnswer":"E",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"65e436",
+"children":[
+"A 53-year-old woman presents for follow-up evaluation of an incidentally found 4-mm solid lung nodule in the right lower lobe on abdominal CT scan. The CT scan showed no other nodules, no lymphadenopathy, and unremarkable lung parenchyma. There are no old scans for comparison. She has no personal or family history of lung cancer."
+]
+},
+{
+"type":"p",
+"hlId":"b6780b",
+"children":[
+"She is asymptomatic, a lifelong nonsmoker, and has no significant exposure history."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopy with lung biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of chest in 12 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT-guided lung biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Fluorodeoxyglucose PET"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further follow-up"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8744d1",
+"hvc":true,
+"children":[
+"The first step in evaluation of a solitary pulmonary nodule is to determine the likelihood of malignancy according to clinical and radiographic features."
+]
+},
+{
+"type":"keypoint",
+"hlId":"05e608",
+"hvc":true,
+"children":[
+"In patients who have a low risk for malignancy, a nodule that is smaller than 6 mm in size requires no further follow-up."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"baf90e",
+"children":[
+"The most appropriate next step in management is no further follow-up (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Pulmonary nodules appear on radiography as small radiographic opacities (<3 cm in size) surrounded by normal lung parenchyma. These nodules are asymptomatic and are found either incidentally or on screening. In contrast, a focal pulmonary opacity larger than 3 cm is considered a lung mass and is presumed malignant until proved otherwise. This patient presents for evaluation of an incidentally found solid solitary pulmonary nodule. The first step in evaluation of a solitary pulmonary nodule is to determine likelihood of malignancy according to clinical and radiographic features. The risk can be considered low, intermediate, or high. This risk can be determined clinically or with quantitative prediction models such as the Brock University ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://brocku.ca/lung-cancer-screening-and-risk-prediction/risk-calculators/",
+"target":"_blank"
+},
+"children":[
+"Lung Cancer Risk Calculators"
+]
+},
+". Factors that help predict malignancy include smoking history, age, sex (female sex is associated with greater risk than male), family history of lung cancer, emphysema, asbestos exposure, size of the nodule, location (upper lobe is associated with greater risk than is lower lobe), and nodule type. It is also important to review older scans to determine whether the nodule has grown over time. In patients who have a low risk for malignancy, like this patient, a nodule (solid or subsolid) that is smaller than 6 mm requires no further follow-up."
+]
+},
+{
+"type":"p",
+"hlId":"097412",
+"children":[
+"Biopsy can be considered for an intermediate-risk nodule. A biopsy is not indicated in this patient who is at low risk for malignancy. If a biopsy is indicated, bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is typically used for lesions that are larger and more central; CT-guided needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used for smaller and more peripheral lesions."
+]
+},
+{
+"type":"p",
+"hlId":"71f48d",
+"children":[
+"In patients who are at high risk, optional follow-up CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") could be performed at 12 months; however, even in this group, the risk for malignancy in a nodule smaller than 6 mm is less than 1%."
+]
+},
+{
+"type":"p",
+"hlId":"ff39f0",
+"children":[
+"Fluorodeoxyglucose PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be helpful because it does not accurately characterize lesions that are less than 8 mm."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_1_2",
+"objective":{
+"__html":"Evaluate a small pulmonary nodule in a patient at low risk for malignancy."
+},
+"references":[
+[
+"MacMahon H, Naidich DP, Goo JM, et al. Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017. Radiology. 2017;284:228-243. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28240562",
+"target":"_blank"
+},
+"children":[
+"PMID: 28240562"
+]
+},
+" doi:10.1148/radiol.2017161659"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":64,
+"C":5,
+"D":4,
+"E":26
+},
+"hlIds":[
+"65e436",
+"b6780b",
+"cb2b54",
+"8744d1",
+"05e608",
+"baf90e",
+"097412",
+"71f48d",
+"ff39f0"
+]
+}

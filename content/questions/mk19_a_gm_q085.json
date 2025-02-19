@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_gm_q085",
+"number":85,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 85",
+"stimulus":[
+{
+"type":"p",
+"hlId":"641173",
+"children":[
+"A 40-year-old woman is evaluated for constant worry about work and family, feeling on edge, irritability, difficulty concentrating at work, and insomnia. These symptoms have developed over the past 7 months and have resulted in family discord and absenteeism from work. The patient has a history of alcohol use disorder that has been in remission for 18 months. She is otherwise well, and her only medication is an oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"33c4e8",
+"children":[
+"On physical examination, vital signs are normal. Score on the Generalized Anxiety Disorder-7 instrument is 16."
+]
+},
+{
+"type":"p",
+"hlId":"903393",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" level is 2 µU/mL (2 mU/L)."
+]
+},
+{
+"type":"p",
+"hlId":"4b59a6",
+"children":[
+"The patient is offered cognitive behavioral therapy but prefers a trial of medication."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alprazolam"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Amitriptyline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Paroxetine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat the Generalized Anxiety Disorder-7 assessment in 1 month"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"002ccc",
+"children":[
+"Preferred treatment options for generalized anxiety disorder include cognitive behavioral therapy, selective serotonin reuptake inhibitors, and selective serotonin-norepinephrine reuptake inhibitors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e195e7",
+"children":[
+"Cognitive behavioral therapy can be used in combination with pharmacotherapy for generalized anxiety disorder."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9a749f",
+"children":[
+"The most appropriate management is initiation of paroxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has generalized anxiety disorder (GAD), which is characterized by excessive anxiety about activities or events (occupation, school) that a patient finds difficult to control and occurs more days than not for at least 6 months. These symptoms cause significant distress and functional impairment. Diagnosis also requires the presence of three of the following physical symptoms: restlessness, being easily fatigued, irritability, muscle tension, sleep disturbance, and difficulty concentrating. Clinicians must rule out physiologic effects of another medical condition (e.g., hyperthyroidism; substance abuse; medication effect; and symptom-driven anxiety, such as anxiety secondary to dyspnea). Patients with significant anxiety or multiple unexplained physical symptoms should be screened for GAD by using the GAD-7 screening tool. This patient's GAD-7 score of 16 indicates severe anxiety. Cognitive behavioral therapy (CBT), selective serotonin reuptake inhibitors (SSRIs), selective serotonin-norepinephrine reuptake inhibitors (SNRIs), buspirone, and tricyclic antidepressants are all effective treatment options for GAD, and CBT is often used in combination with pharmacotherapy. SSRIs and SNRIs are preferred first-line agents because they have fewer side effects than tricyclic antidepressants and are effective in treating comorbid mood disorders when present. Paroxetine, an SSRI, is an appropriate pharmacologic choice for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"f44ddd",
+"children":[
+"Although often prescribed, benzodiazepines, such as alprazolam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), should be used only for short-term control of severe anxiety symptoms during the initial treatment phase of GAD. Adverse effects and risk for addiction preclude longer-term use (>2-4 weeks). Benzodiazepines should be avoided in patients with a history of substance use disorder, such as this patient."
+]
+},
+{
+"type":"p",
+"hlId":"fb97b5",
+"children":[
+"Tricyclic antidepressants, such as amitriptyline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are an option for patients who cannot tolerate other medications. However, these are not the best first choice because of the potential for adverse effects (e.g., anticholinergic effects; somnolence; and cardiac effects, such as orthostatic hypotension and QT prolongation)."
+]
+},
+{
+"type":"p",
+"hlId":"4cb289",
+"children":[
+"This patient meets diagnostic criteria for GAD with functional impairment and should receive treatment now rather than undergoing repeat GAD-7 assessment in 1 month (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_2_1",
+"objective":{
+"__html":"Treat generalized anxiety disorder."
+},
+"references":[
+[
+"DeMartini J, Patel G, Fancher TL. Generalized anxiety disorder. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201904020",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:ITC49-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30934083",
+"target":"_blank"
+},
+"children":[
+"PMID: 30934083"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":88,
+"D":4,
+"E":0
+},
+"hlIds":[
+"641173",
+"33c4e8",
+"903393",
+"4b59a6",
+"cb2b54",
+"002ccc",
+"e195e7",
+"9a749f",
+"f44ddd",
+"fb97b5",
+"4cb289"
+]
+}

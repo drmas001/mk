@@ -1,0 +1,580 @@
+{
+"id":"mk19_a_id_q065",
+"number":65,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f5263e",
+"children":[
+"A 39-year-old man is seen in a follow-up visit for an 8-week history of intermittent and fluctuating fevers that began after returning from Guyana 2 months ago. He also reports fatigue; muscle, bone, and joint aches; and depression. During his trip, he ate and slept in rural villages. He was adherent to his tafenoquine malaria prophylaxis."
+]
+},
+{
+"type":"p",
+"hlId":"dabe02",
+"children":[
+"On physical examination, temperature is 37.5 °C (99.5 °F); other vital signs are normal. Scattered lymphadenopathy is noted. The liver edge is palpable 2 cm below the rib cage. Low back discomfort is elicited with flexion and distension. The remainder of the examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a73ba8",
+"children":[
+"Laboratory studies obtained 5 days ago:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1fae6",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"Hematocrit"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"65d1d3",
+"class":"cell text l",
+"children":[
+"33%"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3a5eaf",
+"class":"cell text l",
+"children":[
+"3400/µL (3.4 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"55f47f",
+"class":"cell text l",
+"children":[
+"167 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6e5358",
+"class":"cell text l",
+"children":[
+"71 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3014bb",
+"class":"cell text l",
+"children":[
+"46 U/L"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"6affa1",
+"children":[
+"Blood cultures are negative."
+]
+},
+{
+"type":"p",
+"hlId":"865d24",
+"children":[
+"Chest radiograph is normal. Abdominal ultrasound shows hepatosplenomegaly."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brucellosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coxiella infection (Q fever)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Histoplasmosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Malaria"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6876ab",
+"children":[
+"Brucellosis is characterized by intermittent fever with periods of remission lasting several weeks or may persist for months."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8c573a",
+"children":[
+"Brucellosis is commonly associated with hepatosplenomegaly, arthralgia, and depression."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"01c798",
+"children":[
+"The most likely diagnosis is brucellosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), commonly referred to as “undulant fever” because of its up-and-down fever pattern. Although the incidence of infection with this gram-negative, intracellular, coccobacillus is highest in Mediterranean countries, it is also commonly encountered in the Middle East and South and Central America. Infection with the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Brucella"
+]
+},
+" species that cause illness in humans (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"B. abortus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"B. melitensis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"B. suis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"B. canis"
+]
+},
+") generally follows ingestion of undercooked meat, raw milk, or contaminated milk products or through direct contact with secretions and excretions of infected animals. Symptom onset may be sudden, with chills and fever, severe headache, joint and back pain, malaise, and overall lethargy. Intermittent fever with periods of remission lasting several weeks is common and may persist for months. Depression is commonly reported. Hepatosplenomegaly and lymphadenopathy are frequently detected on physical examination. Cytopenias and abnormal liver chemistry results are nonspecific laboratory findings. Diagnosis is best made by isolation of the bacteria from blood cultures; however, the rate of detection is variable. The organism may also be isolated from bone marrow culture, especially in chronic disease. Serologic testing is often relied on when cultures are negative."
+]
+},
+{
+"type":"p",
+"hlId":"4b35f6",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coxiella burnetii"
+]
+},
+" is the causative agent of Q fever (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Inhalation of aerosolized soil contaminated with excrement or birth by-products from infected goats, sheep, and cattle is the major mode of transmission to humans. A mild, self-limited febrile illness, sometimes with pneumonia and hepatitis, is the most frequent clinical presentation, and endocarditis is a major chronic manifestation. This patient's chronic febrile illness is not typical for Q fever."
+]
+},
+{
+"type":"p",
+"hlId":"3e0019",
+"children":[
+"Most patients infected with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") experience fever, a nonproductive cough, and chest discomfort as the most common manifestations. In those who develop chronic infection, lung involvement is predominant. Cavitary lesions and mediastinal lymphadenopathy are typical findings, which are not present in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"b6848c",
+"children":[
+"Malaria (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is one of the most common diagnoses in returning travelers with fever. However, it would be rare to develop infection while taking tafenoquine chemoprophylaxis."
+]
+}
+],
+"relatedSection":"mk19_a_id_s14_8",
+"objective":{
+"__html":"Diagnose brucellosis."
+},
+"references":[
+[
+"Glowacka P, Zakowska D, Naylor K, et al. Brucella - virulence factors, pathogenesis and treatment. Pol J Microbiol. 2018;67:151-161. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30015453",
+"target":"_blank"
+},
+"children":[
+"PMID: 30015453"
+]
+},
+" doi:10.21307/pjm-2018-029"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":30,
+"C":3,
+"D":24,
+"E":0
+},
+"hlIds":[
+"f5263e",
+"dabe02",
+"a73ba8",
+"f1fae6",
+"65d1d3",
+"2989c0",
+"3a5eaf",
+"1cc80b",
+"55f47f",
+"62ea29",
+"6e5358",
+"c7d329",
+"3014bb",
+"6affa1",
+"865d24",
+"413696",
+"6876ab",
+"8c573a",
+"01c798",
+"4b35f6",
+"3e0019",
+"b6848c"
+]
+}

@@ -1,0 +1,591 @@
+{
+"id":"mk19_a_np_q012",
+"number":12,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9f3fff",
+"children":[
+"A 45-year-old woman is evaluated in the emergency department for a 3-day history of lower extremity weakness. Medical history is significant for hypertension, type 2 diabetes mellitus, and gastroesophageal reflux disease. Medications are lisinopril, metformin, canagliflozin, and pantoprazole."
+]
+},
+{
+"type":"p",
+"hlId":"6acf4f",
+"children":[
+"On physical examination, vital signs are normal. Knee and ankle reflexes are decreased. Muscle strength is 4/5 in the lower extremities. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0f19a0",
+"class":"cell text l",
+"children":[
+"1.1 mg/dL (97.2 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"89662a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"Electrolytes"
+]
+},
+":"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"731ef5",
+"class":"cell text l",
+"children":[
+"138 mEq/L (138 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d956f7",
+"class":"cell text l",
+"children":[
+"3.0 mEq/L (3.0 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"21724f",
+"class":"cell text l",
+"children":[
+"104 mEq/L (104 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5adbf9",
+"class":"cell text l",
+"children":[
+"23 mEq/L (23 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fad908",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Magnesium, serum",
+"children":[
+"Magnesium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d8a046",
+"class":"cell text l",
+"children":[
+"1.1 mg/dL (0.45 mmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"73618d",
+"children":[
+"Which of the follow is the most likely cause of this patient's hypokalemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Canagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lisinopril"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pantoprazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surreptitious diuretic use"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"87766c",
+"children":[
+"Proton pump inhibitors are a cause of hypomagnesemia, which typically occurs after long-term use."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0f62e1",
+"children":[
+"Magnesium deficiency is an important cause of hypokalemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"03222c",
+"children":[
+"This most likely cause of this patient's hypokalemia is secondary hypomagnesemia caused by pantoprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The potassium channel in the distal nephron is gated by magnesium and, in states of hypomagnesemia, remains open with subsequent renal losses of potassium. Hypomagnesemia has become increasingly recognized in patients taking proton pump inhibitors (PPIs) and is listed as a potential adverse effect in package inserts. The longer duration a person has been taking PPIs, the greater the likelihood of developing hypomagnesemia. Because urine magnesium levels are low in patients with hypomagnesemia, the presumed mechanism is believed to be inhibition of the magnesium transporters in the gastrointestinal tract. Recent genomic analysis has identified a genetic polymorphism in the TRMP 6 magnesium transporter in patients with PPI-induced hypomagnesemia. Until the hypomagnesemia is corrected, the kidney will continue to waste potassium, making correction of hypokalemia difficult."
+]
+},
+{
+"type":"p",
+"hlId":"a876be",
+"children":[
+"Sodium-glucose transporter 2 (SGLT2) inhibitors such as canagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") have been associated with a small increase in magnesium levels and would not be associated with this patient's hypomagnesemia. Patients with type 2 diabetes mellitus frequently have mild hypomagnesemia, which has been postulated to be secondary to insulin resistance. The cause of the increase in magnesium noted with SGLT2 inhibitors is unclear but may be related to improvement in insulin resistance or possibly a direct effect on magnesium transporters in the kidney."
+]
+},
+{
+"type":"p",
+"hlId":"3b78cc",
+"children":[
+"Lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an ACE inhibitor, has minimal if any effect on magnesium levels. By decreasing aldosterone levels, these medications are associated with hyperkalemia."
+]
+},
+{
+"type":"p",
+"hlId":"3411b4",
+"children":[
+"Although diuretic use can cause both hypokalemia and hypomagnesemia, this is usually associated with a metabolic alkalosis. Because this patient's serum bicarbonate is not increased, surreptitious diuretic use (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a less likely cause of her hypokalemia."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_5_1_1",
+"objective":{
+"__html":"Diagnose drug-induced hypomagnesemia as a cause of hypokalemia."
+},
+"references":[
+[
+"Cheungpasitporn W, Thongprayoon C, Kittanamongkolchai W, et al. Proton pump inhibitors linked to hypomagnesemia: a systematic review and meta-analysis of observational studies. Ren Fail. 2015;37:1237-1241. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26108134",
+"target":"_blank"
+},
+"children":[
+"PMID: 26108134"
+]
+},
+" doi:10.3109/0886022X.2015.1057800"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":2,
+"C":30,
+"D":48,
+"E":0
+},
+"hlIds":[
+"9f3fff",
+"6acf4f",
+"a462a3",
+"f461b2",
+"0f19a0",
+"89662a",
+"d41d8c",
+"b99276",
+"731ef5",
+"e92687",
+"d956f7",
+"a207b1",
+"21724f",
+"6827e3",
+"5adbf9",
+"fad908",
+"d8a046",
+"73618d",
+"87766c",
+"0f62e1",
+"03222c",
+"a876be",
+"3b78cc",
+"3411b4"
+]
+}

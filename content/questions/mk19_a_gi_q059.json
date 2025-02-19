@@ -1,0 +1,196 @@
+{
+"id":"mk19_a_gi_q059",
+"number":59,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b574fd",
+"children":[
+"A 39-year-old man is evaluated for diarrhea, characterized as passing five liquid stools daily for 3 months, accompanied by urgency and abdominal cramps. He reports no weight loss or rectal bleeding. He has a history of migraines. He has self-imposed a strict gluten-free diet for the past 5 years to prevent migraine. His only medication is daily ibuprofen to prevent migraine."
+]
+},
+{
+"type":"p",
+"hlId":"3b4e46",
+"children":[
+"Vital signs and other findings on physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"b66381",
+"children":[
+"Laboratory evaluation shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" of 40% and normal fecal calprotectin level."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinuation of ibuprofen"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tissue transglutaminase IgA measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Video capsule endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ff7e5b",
+"hvc":true,
+"children":[
+"Many drugs can cause chronic diarrhea; discontinuing a potential culprit drug may relieve symptoms and obviate the need for further diagnostic testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49b79b",
+"children":[
+"The most appropriate management is discontinuation of ibuprofen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The evaluation of chronic diarrhea starts with a history and physical examination, followed by selective diagnostic testing that includes laboratory analyses and imaging, depending on the differential diagnosis. Many drugs can cause diarrhea, and it can be difficult to identify a drug-related cause of diarrhea in patients taking multiple medications. The temporal relationship between starting a drug and diarrhea onset can be helpful when present but is not always obvious. A reasonable strategy is to discontinue a potential culprit drug, if possible, and assess the effect on the patient's symptoms. This patient's history is notable for regular use of ibuprofen, an NSAID implicated in chronic diarrhea. The mechanism by which ibuprofen causes diarrhea is uncertain, but this effect sometimes occurs in the context of microscopic colitis. Discontinuing ibuprofen may lead to resolution of his symptoms, obviating the need for further evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"999cf1",
+"children":[
+"Colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used selectively in the diagnostic evaluation of chronic diarrhea and is indicated for patients who have rectal bleeding, are age 45 years or older, have alarm symptoms (e.g., weight loss), or have suspected Crohn disease or ulcerative colitis. This patient's lack of alarm symptoms and normal fecal calprotectin level make Crohn disease and ulcerative colitis less likely. His diarrhea may be due to NSAID-induced microscopic colitis, which can be diagnosed via colonoscopy with biopsies; however, this diagnosis can be determined by discontinuing ibuprofen and monitoring his symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"761ef4",
+"children":[
+"Tissue transglutaminase IgA levels are elevated in celiac disease, which is another cause of chronic diarrhea. Although measuring this antibody (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is generally indicated in patients with chronic diarrhea, its diagnostic utility is reduced in the setting of a gluten-free diet. If the symptoms do not improve with withdrawal of ibuprofen, the patient can discontinue the gluten-free diet and, after an appropriate interval, be tested for celiac disease."
+]
+},
+{
+"type":"p",
+"hlId":"0c6e28",
+"children":[
+"Video capsule endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") allows visualization of the small intestine. Capsule endoscopy can be of value for diagnosing Crohn disease isolated to the small intestine; this cause of chronic diarrhea is less likely in this patient given his normal fecal calprotectin level. NSAID-induced enteropathy, characterized by inflammation and ulcers in the small intestine, can also be diagnosed via video capsule endoscopy, but discontinuing ibuprofen may lead to symptom resolution without the need for this procedure."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_1_3_2",
+"objective":{
+"__html":"Diagnose medication-related diarrhea."
+},
+"references":[
+[
+"Schiller LR, Pardi DS, Sellin JH. Chronic diarrhea: diagnosis and management. Clin Gastroenterol Hepatol. 2017;15:182-193.e3. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27496381",
+"target":"_blank"
+},
+"children":[
+"PMID: 27496381"
+]
+},
+" doi:10.1016/j.cgh.2016.07.028"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":24,
+"B":54,
+"C":21,
+"D":2,
+"E":0
+},
+"hlIds":[
+"b574fd",
+"3b4e46",
+"b66381",
+"cb2b54",
+"ff7e5b",
+"49b79b",
+"999cf1",
+"761ef4",
+"0c6e28"
+]
+}

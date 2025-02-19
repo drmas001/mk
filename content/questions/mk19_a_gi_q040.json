@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_gi_q040",
+"number":40,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"008abd",
+"children":[
+"A 44-year-old woman is evaluated for a 6-month history of nonbloody liquid stools five or six times daily. She reports a good appetite and no weight loss. She underwent cholecystectomy for acute cholecystitis 5 years ago."
+]
+},
+{
+"type":"p",
+"hlId":"9ca0a8",
+"children":[
+"On physical examination, vital signs are normal. Her abdomen is soft, nontender, and nondistended, with hyperactive bowel sounds."
+]
+},
+{
+"type":"p",
+"hlId":"54b2ea",
+"children":[
+"Laboratory studies reveal a stool sodium level of 85 mEq/L (85 mmol/L) and stool ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"potassium"
+]
+},
+" level of 4.5 mEq/L (4.5 mmol/L). Complete blood count and thyroid-stimulating hormone level are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5ce523",
+"children":[
+"Which of the following conditions is most consistent with this patient's stool studies?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bile salt–induced diarrhea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Enterotoxigenic <i>Escherichia coli</i> infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fructose malabsorption"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"VIPoma"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"da11da",
+"children":[
+"In patients with liquid stool, a calculated osmotic gap of greater than 100 mOsm/kg suggests osmotic diarrhea."
+]
+},
+{
+"type":"keypoint",
+"hlId":"718f5d",
+"children":[
+"The fecal osmotic gap is calculated as follows: 290 – (2 × [stool sodium + stool potassium])."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"26d3dd",
+"children":[
+"The patient's stool studies are most consistent with osmotic diarrhea. Fructose malabsorption (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a common cause of this form of diarrhea. Chronic diarrhea can be classified as osmotic, secretory, steatorrhea, inflammatory, motility, or miscellaneous. Classification allows narrowing the differential diagnosis to guide selective laboratory testing and imaging. Stool electrolytes measured in liquid stool can help identify osmotic diarrhea, as indicated by a fecal osmotic gap, which suggests an unmeasured osmotically active intraluminal substance. The fecal osmotic gap can be calculated as follows: 290 – (2 × [stool sodium + stool potassium]). In this patient, the fecal osmotic gap is: 290 – (2 × [85 + 4.5]) = 111 mOsm/kg. An osmotic gap of greater than 100 mOsm/kg suggests an unmeasured osmotically active substance. Such substances include malabsorbed carbohydrates (e.g., lactose or fructose) and sorbitol. The latter is an artificial sweetener commonly found in sugar-free gum. Treatment of osmotic diarrhea requires avoiding offending agents, such as following a low–fermentable oligosaccharides, disaccharides, monosaccharides, and polyols (FODMAP) and a lactose-free diet."
+]
+},
+{
+"type":"p",
+"hlId":"e0ede7",
+"children":[
+"Intraluminal bile acid excess (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can cause secretory diarrhea. This condition can develop after cholecystectomy or after partial ileal resection because of incomplete enterohepatic recirculation of bile acids. This form of diarrhea can be treated with a bile salt binder, such as cholestyramine. Secretory diarrhea due to bile acid excess results in an osmotic gap less than 50 mOsm/kg; given this patient's gap of 111 mOsm/kg, this cause is unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"450888",
+"children":[
+"Enterotoxigenic ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a common cause of traveler's diarrhea, characterized as watery diarrhea of a secretory subtype. The presence of an osmotic gap excludes this infection."
+]
+},
+{
+"type":"p",
+"hlId":"8ecb35",
+"children":[
+"VIPoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a rare form of functional neuroendocrine tumor that is usually located in the pancreas. The secretion of vasoactive intestinal peptide (VIP) by this tumor results in a secretory diarrhea. This patient's stool studies are consistent with osmotic diarrhea."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_1_3_2",
+"objective":{
+"__html":"Diagnose osmotic diarrhea."
+},
+"references":[
+[
+"Schiller LR, Pardi DS, Sellin JH. Chronic diarrhea: diagnosis and management. Clin Gastroenterol Hepatol. 2017;15:182-193.e3. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27496381",
+"target":"_blank"
+},
+"children":[
+"PMID: 27496381"
+]
+},
+" doi:10.1016/j.cgh.2016.07.028"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":65,
+"B":2,
+"C":20,
+"D":13,
+"E":0
+},
+"hlIds":[
+"008abd",
+"9ca0a8",
+"54b2ea",
+"5ce523",
+"da11da",
+"718f5d",
+"26d3dd",
+"e0ede7",
+"450888",
+"8ecb35"
+]
+}

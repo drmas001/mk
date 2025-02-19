@@ -1,0 +1,243 @@
+{
+"id":"mk19_a_on_q027",
+"number":27,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c68ce2",
+"children":[
+"A 59-year-old man is evaluated for a 2-month history of worsening dry cough. He has no other symptoms. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f28b7c",
+"children":[
+"On physical examination, vital signs are normal, and all other physical examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"0e879a",
+"children":[
+"CT scan of the chest reveals a 2.1-cm right middle lobe mass and adjacent hilar adenopathy. PET/CT scan with fluorodeoxyglucose uptake in the known mass and hilar nodes is otherwise negative."
+]
+},
+{
+"type":"p",
+"hlId":"3f6177",
+"children":[
+"Pathology at surgery reveals a 2.5-cm squamous cell carcinoma with negative margins, two positive hilar nodes, and no positive mediastinal nodes."
+]
+},
+{
+"type":"p",
+"hlId":"d12e95",
+"children":[
+"Brain MRI scan is negative for metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cisplatin-based chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combined cisplatin-based chemotherapy and irradiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Erlotinib"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prophylactic cranial irradiation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"58ff86",
+"children":[
+"Cisplatin-based adjuvant chemotherapy has been shown to improve survival after resection in patients with resected stage II or III non–small cell lung cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b47b28",
+"children":[
+"The most appropriate management is cisplatin-based chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Cisplatin-based adjuvant chemotherapy has been shown in multiple trials to improve survival in patients with resected stage II and stage III non–small cell lung cancer. This survival benefit was confirmed in a large meta-analysis (the LACE meta-analysis), which found that use of a cisplatin-based combination regimen was associated with a clear improvement in survival. Cisplatin can be combined with multiple potential partner agents, none clearly more efficacious than any other. Adjuvant chemotherapy is typically given for four cycles; following that, surveillance is started with periodic CT chest imaging combined with history and physical examination. This patient underwent resection for stage II non–small cell lung cancer, and adjuvant chemotherapy is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"b1a979",
+"children":[
+"Combined chemotherapy and irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used to treat locally advanced unresectable non–small cell lung cancer. It is not routinely employed following resection and plays no role in the adjuvant treatment of patients who undergo negative margin resection. Such patients require treatment with adjuvant chemotherapy, not combined chemotherapy and irradiation."
+]
+},
+{
+"type":"p",
+"hlId":"9e7235",
+"children":[
+"For patients with metastatic non-squamous histology, testing for molecular alterations is mandatory. If an epidermal growth factor receptor (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"EGFR"
+]
+},
+") mutation is identified, initial treatment with erlotinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended for patients with metastatic disease. If an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ROS1"
+]
+},
+" translocation is identified, initial treatment with alectinib is recommended. This patient does not have metastatic disease, so testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"EGFR"
+]
+},
+" mutation is not recommended. Erlotinib is not currently a standard adjuvant treatment for patients with resected stage II and III non–small cell lung cancer."
+]
+},
+{
+"type":"p",
+"hlId":"2d554e",
+"children":[
+"Prophylactic cranial irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is used following treatment for selected patients with treated small cell lung cancer but has not been shown to be beneficial for those with non–small cell lung cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_1_1",
+"objective":{
+"__html":"Treat stage II non–small cell lung cancer with adjuvant cisplatin-based chemotherapy."
+},
+"references":[
+[
+"Herbst RS, Morgensztern D, Boshoff C. The biology and management of non-small cell lung cancer. Nature. 2018;553:446-54. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29364287",
+"target":"_blank"
+},
+"children":[
+"PMID: 29364287"
+]
+},
+" doi:10.1038/nature25183Venue"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":29,
+"B":64,
+"C":3,
+"D":4,
+"E":0
+},
+"hlIds":[
+"c68ce2",
+"f28b7c",
+"0e879a",
+"3f6177",
+"d12e95",
+"1054f1",
+"58ff86",
+"b47b28",
+"b1a979",
+"9e7235",
+"2d554e"
+]
+}

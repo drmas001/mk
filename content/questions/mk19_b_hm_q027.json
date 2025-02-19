@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_hm_q027",
+"number":27,
+"bookId":"hm",
+"correctAnswer":"B",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1dc10f",
+"children":[
+"A 65-year-old man is diagnosed with multiple segmental pulmonary emboli in the right lung. He has no other medical problems, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"5a65dd",
+"children":[
+"On physical examination, blood pressure is 132/76 mm Hg, pulse rate is 100/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% at rest breathing ambient air."
+]
+},
+{
+"type":"p",
+"hlId":"d6d290",
+"children":[
+"The patient is alert and quickly comprehends the diagnostic implications and required therapy. He does not require pain medication. The patient is engaged in a shared decision-making process regarding treatment."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0ba59c",
+"children":[
+"Which of the following is the most appropriate recommendation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discharge home and treat with dabigatran"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discharge home and treat with rivaroxaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hospitalize and treat with thrombolytic therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Hospitalize and treat with unfractionated heparin and warfarin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eb8488",
+"hvc":true,
+"children":[
+"For patients with pulmonary embolism and low risk for complications, the American Society of Hematology guideline suggests offering home treatment over hospital treatment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ed5adc",
+"hvc":true,
+"children":[
+"Clinical prediction scores, such as the Pulmonary Embolism Severity Index, have a moderate ability to predict patient outcomes but do not replace clinical judgment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7a7487",
+"children":[
+"The most appropriate recommendation is to discharge the patient home on a direct oral anticoagulant (DOAC) such as rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). For patients with pulmonary embolism (PE) with a low risk for complications, the American Society of Hematology guideline suggests offering home treatment over hospital treatment. Clinical prediction scores have a moderate ability to predict patient outcomes and do not replace clinical judgment. However, they may help to select patients at low risk for complications. The Pulmonary Embolism Severity Index (PESI) and simplified PESI have been most widely validated. This recommendation does not apply to patients who have other conditions that would require hospitalization, have limited or no support at home, and cannot afford medications or have a history of poor adherence. The simplified PESI assigns 1 point for each of the following: age older than 80 years, history of cardiopulmonary disease, history of cancer, pulse rate 110/min or greater, systolic blood pressure less than 100 mm Hg, and oxygen saturation less than 90%. If none of these criteria are met, the patient is considered low risk, with a 30-day mortality of 1.1%; these patients can be considered for home anticoagulation treatment with either rivaroxaban or apixaban. This patient meets none of the risk criteria, and treatment at home is reasonable."
+]
+},
+{
+"type":"p",
+"hlId":"e5f599",
+"children":[
+"Rivaroxaban and apixaban are both approved for monotherapy of venous thromboembolism (VTE; deep venous thrombosis and PE). Dabigatran has not been approved for monotherapy of VTE; treatment must be preceded by heparin, preferably low-molecular-weight heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"674354",
+"children":[
+"Thrombolytic therapy is recommended for patients with massive PE and shock related to low cardiac output. This patient does not require thrombolytic therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"88a6d7",
+"children":[
+"Intravenous anticoagulation with unfractionated heparin (UFH) would require hospital admission, and intravenous UFH would not be the ideal anticoagulant because of the potential delay in reaching therapeutic levels and the variations in bioavailability. Finally, guidelines suggest DOACs for treatment of VTE over vitamin K antagonists like warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_3",
+"objective":{
+"__html":"Identify a patient with pulmonary embolism at low risk for complications with outpatient treatment."
+},
+"references":[
+[
+"Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: Treatment of deep vein thrombosis and pulmonary embolism. Blood Adv. 2020;4:4693-4738. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33007077",
+"target":"_blank"
+},
+"children":[
+"PMID: 33007077"
+]
+},
+" doi:10.1182/bloodadvances.2020001830"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":72,
+"C":5,
+"D":18,
+"E":0
+},
+"hlIds":[
+"1dc10f",
+"5a65dd",
+"d6d290",
+"0ba59c",
+"eb8488",
+"ed5adc",
+"7a7487",
+"e5f599",
+"674354",
+"88a6d7"
+]
+}

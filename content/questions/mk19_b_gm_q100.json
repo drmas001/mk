@@ -1,0 +1,237 @@
+{
+"id":"mk19_b_gm_q100",
+"number":100,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5e02b5",
+"children":[
+"A 72-year-old woman is seen for a preoperative medical evaluation prior to a hemicolectomy for newly diagnosed stage II colon cancer. Five months ago, she underwent drug-eluting coronary artery stent placement for stable ischemic heart disease and is now asymptomatic. Medications are metoprolol, aspirin, clopidogrel, benazepril, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"bc7317",
+"children":[
+"Which of the following is the most appropriate preoperative management of this patient's dual antiplatelet therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue aspirin and clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue aspirin and withhold clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Withhold aspirin and clopidogrel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Withhold aspirin and continue clopidogrel"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"acf973",
+"children":[
+"In patients with coronary stents, guidelines recommend that dual antiplatelet therapy should be continued uninterrupted for 14 to 30 days after bare metal stent placement and a minimum of 3 to 6 months after drug-eluting stent placement."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fd6c1e",
+"children":[
+"In patients with an urgent need for surgery, discontinuation of a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor can be considered after a minimum of 3 months in patients with a drug-eluting stent; aspirin should be continued if at all possible."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a1a95b",
+"children":[
+"The most appropriate preoperative management of this patient's dual antiplatelet therapy (DAPT) is to continue aspirin and withhold clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In patients with coronary stents, guidelines recommend that DAPT should be continued uninterrupted for 14 to 30 days after bare metal stent placement and 3 to 6 months after drug-eluting stent placement. Elective surgery should be postponed during these time frames. However, if the risk of surgical delay exceeds the risk for stent thrombosis, discontinuation of the P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor can be considered after a minimum of 3 months in patients with a drug-eluting stent. Low-dose aspirin should be continued if at all possible, and DAPT should be restarted as soon as bleeding risk has sufficiently diminished. Clopidogrel should be withheld 5 days before surgery."
+]
+},
+{
+"type":"p",
+"hlId":"5b9cbb",
+"children":[
+"Precise data on the risk for serious DAPT-related bleeding are lacking except in patients undergoing coronary artery bypass graft surgery. Studies have shown that DAPT in these patients increases the incidence of bleeding, reoperation, and transfusion. On the basis of these data, experts recommend discontinuation of P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor blockers at least 5 days before surgery for clopidogrel, 7 days for prasugrel, and 3 to 5 days for ticagrelor. Continuing both aspirin and a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"ae9d4b",
+"children":[
+"Decisions regarding perioperative antiplatelet therapy are informed in part by a randomized controlled study of patients with previous coronary artery stenting who subsequently had surgery. The data suggested that patients who continued aspirin throughout the perioperative period had the lowest rate of a major cardiac adverse event. Withholding perioperative aspirin either with or without a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") is not recommended. Withholding both aspirin and clopidogrel may be reasonable if the risk for bleeding is extreme or the consequences catastrophic, such as those associated with neurosurgery."
+]
+},
+{
+"type":"p",
+"hlId":"719fed",
+"children":[
+"Surgery is associated with proinflammatory effects that may increase the risk for thrombosis, particularly coronary artery thrombosis and stent thrombosis. Aspirin, clopidogrel, and other P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitors are antiplatelet agents, which can mitigate this risk. Balancing the risk for bleeding and thrombosis is key, and continuation of both agents may lead to unacceptable bleeding risk. In general, bleeding risk with aspirin is lower than that with clopidogrel in the perioperative period, so continuing aspirin alone is recommended during this time frame."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_4_3",
+"objective":{
+"__html":"Manage perioperative dual antiplatelet therapy for a patient undergoing urgent noncardiac surgery."
+},
+"references":[
+[
+"Banerjee S, Angiolillo DJ, Boden WE, et al. Use of antiplatelet therapy/DAPT for post-PCI patients undergoing noncardiac surgery. J Am Coll Cardiol. 2017;69:1861-70. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28385315",
+"target":"_blank"
+},
+"children":[
+"PMID: 28385315"
+]
+},
+" doi:10.1016/j.jacc.2017.02.012"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":44,
+"C":21,
+"D":14,
+"E":0
+},
+"hlIds":[
+"5e02b5",
+"f8786b",
+"bc7317",
+"acf973",
+"fd6c1e",
+"a1a95b",
+"5b9cbb",
+"ae9d4b",
+"719fed"
+]
+}

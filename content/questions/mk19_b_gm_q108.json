@@ -1,0 +1,204 @@
+{
+"id":"mk19_b_gm_q108",
+"number":108,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 108",
+"stimulus":[
+{
+"type":"p",
+"hlId":"70c365",
+"children":[
+"A 52-year-old woman is evaluated during a follow-up visit for type 2 diabetes mellitus. She reports that she is unable to lose weight. She has implemented a healthier diet and exercise. Medical history is also significant for depression and epilepsy, both well controlled. Medications are metformin, glimepiride, bupropion, and topiramate."
+]
+},
+{
+"type":"p",
+"hlId":"9cfde9",
+"children":[
+"On physical examination, vital signs are normal. BMI is 36."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0327b7",
+"children":[
+"Which of the following medication changes is most likely to promote weight loss in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Switch bupropion to paroxetine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Switch bupropion to venlafaxine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch glimepiride to liraglutide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch glimepiride to sitagliptin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Switch topiramate to carbamazepine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2deece",
+"children":[
+"Insulin, sulfonylureas, thiazolidinediones, and meglitinides are associated with weight gain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c2d195",
+"children":[
+"Glucagon-like peptide-1 receptor agonists, sodium-glucose transporter-2 inhibitors, and amylin mimetics are associated with weight loss."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e277bb",
+"children":[
+"The medication change most likely to promote weight loss in this patient is to switch glimepiride to liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). For this patient with an inability to lose weight despite pursuing healthy lifestyle choices, a thorough medication review is necessary to identify medications that may contribute to weight gain. Many medications are associated with weight gain, including some antidepressants, anticonvulsants, lithium, clozapine, olanzapine, depot progesterone, depot leuprolide acetate, glucocorticoids, and antiretroviral therapies. Medications used to treat diabetes mellitus have differing effects on weight. Sulfonylureas, insulin, thiazolidinediones (rosiglitazone, pioglitazone), and meglitinides (repaglinide, nateglinide) typically cause weight gain, whereas glucagon-like peptide-1 (GLP-1) receptor agonists (liraglutide, exenatide, albiglutide, lixisenatide, dulaglutide, semaglutide), sodium-glucose cotransporter-2 (SGLT-2) inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), and amylin mimetics (pramlintide) have been associated with weight loss. These agents produce weight loss by various mechanisms. GLP-1 receptor agonists and amylin mimetics slow gastric emptying and increase satiety. SGLT-2 inhibitors increase kidney excretion of glucose. In this patient's case, replacing glimepiride, a sulfonylurea, with liraglutide will result in weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"d306b6",
+"children":[
+"Switching bupropion to either paroxetine or venlafaxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") will not result in weight loss. Bupropion is the antidepressant medication most associated with weight loss and should be continued, especially because the patient's depression is currently well controlled. Among other antidepressants, venlafaxine, nefazodone, and fluoxetine are weight neutral. Paroxetine, however, has been associated with weight gain, as have citalopram, escitalopram, sertraline, duloxetine, mirtazapine, and amitriptyline."
+]
+},
+{
+"type":"p",
+"hlId":"c1e5d7",
+"children":[
+"Switching glimepiride to sitagliptin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") will not be as effective in reducing weight as switching to liraglutide. Sitagliptin, a dipeptidyl peptidase-4 inhibitor, is weight neutral and unlikely to result in significant weight loss. Saxagliptin, linagliptin, and alogliptin are other drugs within this class. Other pharmacologic agents for diabetes that are weight neutral include metformin and the α-glucosidases (acarbose, miglitol)."
+]
+},
+{
+"type":"p",
+"hlId":"ccc45f",
+"children":[
+"This patient's seizures are well controlled on topiramate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), a medication that does not promote weight gain, and thus her antiseizure regimen should not be changed. Many other anticonvulsant medications, including carbamazepine, valproate, and gabapentin, are associated with weight gain, whereas topiramate and zonisamide typically cause weight loss. Phenytoin is weight neutral."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s5_2",
+"objective":{
+"__html":"Manage medications that promote weight loss and weight gain."
+},
+"references":[
+[
+"Tsai AG, Bessesen DH. Obesity. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201903050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30831593",
+"target":"_blank"
+},
+"children":[
+"PMID: 30831593"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":79,
+"D":12,
+"E":2
+},
+"hlIds":[
+"70c365",
+"9cfde9",
+"0327b7",
+"2deece",
+"c2d195",
+"e277bb",
+"d306b6",
+"c1e5d7",
+"ccc45f"
+]
+}

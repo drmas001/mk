@@ -1,0 +1,449 @@
+{
+"id":"mk19_b_rm_q039",
+"number":39,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5e06ad",
+"children":[
+"A 24-year-old man is evaluated for fever of 6 weeks' duration. He also has joint pain, myalgia, and occasional sore throat. The fever begins in the early evening and resolves by morning. His most recent temperature in the evening was 39.5 °C (103.1 °F). The fever is accompanied by a salmon-pink macular rash on the trunk and arms, which resolves with the fever. He has no history of travel. Current medication is acetaminophen."
+]
+},
+{
+"type":"p",
+"hlId":"0741dd",
+"children":[
+"On physical examination, temperature is 37.5 °C (99.6°F). The remaining vital signs are normal. There is bilateral cervical lymphadenopathy. A friction rub is heard bilaterally at the lung bases. Abdomen is tender without guarding. The knees have effusions. Cardiac examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"82aa14",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"90b266",
+"class":"cell text l",
+"children":[
+"125 mm/h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"72b682",
+"class":"cell text l",
+"children":[
+"22,000/μL (22 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a31462",
+"class":"cell text l",
+"children":[
+"11.5 g/dL (115 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a5c037",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Ferritin, serum",
+"children":[
+"Ferritin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0f850f",
+"class":"cell text l",
+"children":[
+"5200 ng/mL (5200 μg/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"7ac2e7",
+"children":[
+"Blood cultures are pending."
+]
+},
+{
+"type":"p",
+"hlId":"129dc1",
+"children":[
+"A chest CT scan shows small pleural effusions bilaterally with moderate pleural thickening. An abdominal CT scan shows a small amount of ascitic fluid with evidence of peritoneal thickening."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adult-onset Still disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Familial Mediterranean fever"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Infectious endocarditis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic lupus erythematosus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e73dd8",
+"children":[
+"Adult-onset Still disease, a condition of unknown cause, is characterized by daily evening fevers; salmon-pink rash; inflammatory arthritis; sore throat; serositis; and laboratory findings of high inflammatory markers, elevated ferritin level, and leukocytosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"eee91d",
+"children":[
+"The most likely diagnosis is adult-onset Still disease (AOSD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's symptoms (daily evening fevers accompanied by salmon-pink rash, inflammatory arthritis, sore throat, and serositis) and laboratory evidence of high inflammatory markers and leukocytosis are most consistent with AOSD, a condition of unknown cause. His high serum ferritin level, although not specific, is fairly characteristic of AOSD. Because no specific test exists for AOSD, it remains a diagnosis of exclusion, and other causes should be considered. Past treatment options for AOSD, including glucocorticoids and methotrexate, were frequently inadequate. The use of interleukin-β–directed biologic therapies, including anakinra and canakinumab, has been successful. Anti–interleukin-6 therapies have shown promise."
+]
+},
+{
+"type":"p",
+"hlId":"b8812f",
+"children":[
+"Like AOSD, familial Mediterranean fever (FMF) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a disease of systemic inflammation; it is also associated with fever, joint pain, abdominal pain, and rash in the setting of high inflammatory markers. However, patients with FMF typically experience lifelong recurrent intermittent episodes of inflammatory disease, typically lasting several days and occurring approximately monthly, rather than the persistent inflammatory state experienced by this patient."
+]
+},
+{
+"type":"p",
+"hlId":"868684",
+"children":[
+"Patients with infectious endocarditis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") experience fevers, petechial rashes, and arthritis/arthralgia. Although infectious endocarditis should always be considered in patients with fever of unknown origin, the pattern of daily evening fevers accompanied by salmon-pink rash is not characteristic, and the lack of a cardiac murmur argues against the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"8cdc16",
+"children":[
+"Patients with systemic lupus erythematosus (SLE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may experience a wide constellation of symptoms, including rash, arthritis, and serositis. Fever in SLE may be present but is not typically as high as seen here, and it does not cycle daily. Moreover, the salmon-pink rash seen here, directly associated with fever, is not characteristic of SLE. SLE is much less common in men, making it less likely in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s15_4",
+"objective":{
+"__html":"Diagnose adult-onset Still disease."
+},
+"references":[
+[
+"Giacomelli R, Ruscitti P, Shoenfeld Y. A comprehensive review on adult onset Still's disease. J Autoimmun. 2018;93:24-36. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30077425",
+"target":"_blank"
+},
+"children":[
+"PMID: 30077425"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":16,
+"C":3,
+"D":1,
+"E":0
+},
+"hlIds":[
+"5e06ad",
+"0741dd",
+"a462a3",
+"82aa14",
+"90b266",
+"2989c0",
+"72b682",
+"f9867c",
+"a31462",
+"a5c037",
+"0f850f",
+"7ac2e7",
+"129dc1",
+"413696",
+"e73dd8",
+"eee91d",
+"b8812f",
+"868684",
+"8cdc16"
+]
+}

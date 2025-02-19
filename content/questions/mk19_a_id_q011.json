@@ -1,0 +1,255 @@
+{
+"id":"mk19_a_id_q011",
+"number":11,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"041ef1",
+"children":[
+"A 65-year-old man is evaluated 3 days after hospitalization and admission to the ICU with multilobar pneumonia and respiratory failure. He was intubated, vasopressors were started, and empiric antimicrobial therapy was initiated. Today, his fever has resolved, vasopressors are discontinued, and he is extubated. He is transferred to a hospital bed outside of the ICU. Two months ago, he was admitted to the ICU for pneumonia with negative sputum cultures. Medications are vancomycin, cefepime, and azithromycin."
+]
+},
+{
+"type":"p",
+"hlId":"0a1a1b",
+"children":[
+"On physical examination, vital signs are normal. The examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"f64603",
+"children":[
+"Sputum and blood cultures and a urine ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" antigen test are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"6eef87",
+"children":[
+"Which of the following is the most appropriate treatment at this time?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue cefepime and azithromycin; stop vancomycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue vancomycin and cefepime; stop azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop current antibiotics; start ceftriaxone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop current antibiotics; start levofloxacin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Continue current regimen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d02cc2",
+"children":[
+"In patients with severe community-acquired pneumonia who have stabilized and have negative culture results for resistant organisms, antimicrobial therapy can be de-escalated to a standard regimen for nonsevere disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"077e32",
+"children":[
+"The most appropriate treatment is to discontinue the current treatment regimen and start levofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient was critically ill, and his history of recent hospitalization for severe pneumonia increased the risk of community-acquired pneumonia (CAP) caused by methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MRSA) or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+"; he needed empiric therapy for these organisms initially, although coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" and other fastidious organisms was not excluded. Therefore, the initial empiric regimen of vancomycin, cefepime, and azithromycin was a reasonable choice. With negative blood and sputum cultures at 48 hours, the likelihood of infection with one of these agents is low, and antibiotics can be de-escalated to one of the standard regimens for CAP in hospitalized patients. Additionally, the patient has improved enough to be transferred outside of the ICU, so it is safe to transition to a regimen for nonsevere pneumonia. Levofloxacin monotherapy, or combination therapy with a β-lactam and macrolide regimen, would be an appropriate choice. Levofloxacin monotherapy has the advantage of being an oral regimen, so if the patient were to be discharged before completing 5 days of therapy, he could continue this antibiotic at home."
+]
+},
+{
+"type":"p",
+"hlId":"ae25c8",
+"children":[
+"Continuing any components of the initial antibiotic regimen (vancomycin, cefepime, or azithromycin) would be overly broad coverage after the negative culture results for resistant organisms (MRSA and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+") and would not be indicated from an antibiotic stewardship perspective (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A, B, E"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"b8ef0e",
+"children":[
+"Although the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" antigen result was negative, this test only covers one serogroup, and other pathogens such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila"
+]
+},
+" are possible causes of severe CAP. Starting ceftriaxone monotherapy would not include coverage against any of these fastidious organisms and would not be appropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_4_2",
+"objective":{
+"__html":"De-escalate antimicrobial therapy in a patient hospitalized for severe community-acquired pneumonia."
+},
+"references":[
+[
+"Viasus D, Vecino-Moreno M, De La Hoz JM, et al. Antibiotic stewardship in community-acquired pneumonia. Expert Rev Anti Infect Ther. 2017;15:351-359. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28002979",
+"target":"_blank"
+},
+"children":[
+"PMID: 28002979"
+]
+},
+" doi:10.1080/14787210.2017.1274232"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":22,
+"B":19,
+"C":9,
+"D":29,
+"E":21
+},
+"hlIds":[
+"041ef1",
+"0a1a1b",
+"f64603",
+"6eef87",
+"d02cc2",
+"077e32",
+"ae25c8",
+"b8ef0e"
+]
+}

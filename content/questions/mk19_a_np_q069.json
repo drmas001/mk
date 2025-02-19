@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_np_q069",
+"number":69,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 69",
+"stimulus":[
+{
+"type":"p",
+"hlId":"877f9d",
+"children":[
+"A 26-year-old woman is evaluated in the emergency department for acute flank pain and gross hematuria."
+]
+},
+{
+"type":"p",
+"hlId":"d3ca7f",
+"children":[
+"On physical examination, the patient is afebrile. Pulse rate is 102/min; other vital signs are normal. Costovertebral angle tenderness is noted. The abdomen is soft and nontender."
+]
+},
+{
+"type":"p",
+"hlId":"830f5f",
+"children":[
+"Urinalysis shows 3+ blood, trace protein, no nitrites or leukocyte esterase, 2-3 leukocytes/hpf, and too numerous to count erythrocytes. Pregnancy test is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Kidney ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney, ureter, and bladder plain radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Noncontrast helical abdominal CT"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Ureteroscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"25acba",
+"children":[
+"Ultrasonography is readily available, inexpensive, and very safe and is a useful first study in evaluating nephrolithiasis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"772ab8",
+"children":[
+"Kidney ultrasonography is the preferred diagnostic test for suspected nephrolithiasis in pregnant women."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a65a29",
+"children":[
+"The most appropriate diagnostic test to perform next is kidney ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for this pregnant patient with likely nephrolithiasis. Imaging is indicated for diagnosis and to guide management based on stone size and location. Ultrasonography is increasingly being used as an initial diagnostic study. Although less sensitive than CT for nephrolithiasis, particularly for detecting small stones and ureteral stones, ultrasonography does not expose patients to radiation and is typically more readily available and has a lower cost compared with CT; it is also the preferred modality during pregnancy. A positive ultrasound may therefore be adequate for initial diagnosis in patients with a typical presentation for kidney stones; more complex testing is indicated for those with a high clinical suspicion but a nondiagnostic ultrasound or a more complicated clinical presentation."
+]
+},
+{
+"type":"p",
+"hlId":"b683b6",
+"children":[
+"Abdominal MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be used during pregnancy, but it is not optimal for imaging kidney stones. Ultrasonography is preferred, although MRI may be a diagnostic option if additional imaging is required for diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"ae16e4",
+"children":[
+"Plain abdominal radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has limited utility due to its inability to detect radiolucent uric acid stones, and it does not provide as much anatomic information as other modalities; furthermore, it should be avoided during pregnancy. However, it may be useful in assessing stone burden in nonpregnant patients with known radiopaque stones."
+]
+},
+{
+"type":"p",
+"hlId":"93732d",
+"children":[
+"Noncontrast helical abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has traditionally been the most commonly used imaging technique because it detects most stones, provides anatomic information, and visualizes the entire urinary tract; it may also suggest stone composition and potentially provide alternative diagnoses if nephrolithiasis is not detected. Although CT is more sensitive and specific than ultrasonography, a randomized controlled trial demonstrated equivalent diagnostic accuracy within the emergency department. Finally, CT is associated with significant radiation exposure and is contraindicated in pregnant women."
+]
+},
+{
+"type":"p",
+"hlId":"73ed0f",
+"children":[
+"Ureteroscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), in which an endoscopic device is introduced in a retrograde fashion into the ureter through the bladder, is most commonly used in the management of mid-ureteral and distal ureteral stones, using a combination of catheter-based stone disintegration methods (such as laser lithotripsy), stone baskets, and ureteral stent placement. Although this procedure does not involve radiation, it is not a diagnostic procedure indicated for suspected kidney stones because it is unnecessarily invasive."
+]
+}
+],
+"relatedSection":"mk19_a_np_s1_3",
+"objective":{
+"__html":"Diagnose nephrolithiasis during pregnancy."
+},
+"references":[
+[
+"Brisbane W, Bailey MR, Sorensen MD. An overview of kidney stone imaging techniques. Nat Rev Urol. 2016;13:654-662. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27578040",
+"target":"_blank"
+},
+"children":[
+"PMID: 27578040"
+]
+},
+" doi:10.1038/nrurol.2016.154"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":75,
+"C":1,
+"D":21,
+"E":2
+},
+"hlIds":[
+"877f9d",
+"d3ca7f",
+"830f5f",
+"ab9d96",
+"25acba",
+"772ab8",
+"a65a29",
+"b683b6",
+"ae16e4",
+"93732d",
+"73ed0f"
+]
+}

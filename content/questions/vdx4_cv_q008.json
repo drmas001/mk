@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q008",
+"number":8,
+"bookId":"vdx_cv",
+"correctAnswer":"A",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9212fb",
+"children":[
+"A 59-year-old man is evaluated following a transient ischemic attack."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f008",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f008"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a819d0",
+"children":[
+"Which of the following abnormalities is demonstrated on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrial fibrillation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Atrial flutter"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Atrioventricular nodal reentrant tachycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Atrioventricular reciprocating tachycardia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c9e712",
+"children":[
+"This ECG is characteristic of atrial fibrillation, with an irregularly irregular rhythm and no discernible P waves. Atrial fibrillation can present with a rapid ventricular response, with an average rate of more than 110/min; a controlled ventricular response, with an average rate between 60/min and 110/min; or a slow ventricular response, with an average rate of less than 60/min. This patient's ECG tracing shows an average rate of approximately 75/min."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6",
+"objective":{
+"__html":"Identify atrial fibrillation on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f008":{
+"id":"vdx4_cv_mcq_f008",
+"number":8,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"ab3b6202374d4dda3febed54d171ede0",
+"height":308,
+"width":600,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"9212fb",
+"4a9f79",
+"a819d0",
+"c9e712"
+]
+}

@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_cv_q106",
+"number":106,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 106",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d4b056",
+"children":[
+"A 74-year-old man is evaluated for shortness of breath that occurs when walking around the house and occasionally when getting dressed. History is significant for ischemic cardiomyopathy and three heart failure hospitalizations over the past 6 months. He was treated for colon cancer 2 years ago; there is no evidence of recurrence. He has an implantable cardioverter-defibrillator. Medications are lisinopril, high-dose furosemide, and spironolactone. He previously took carvedilol and isosorbide dinitrate–hydralazine, which were discontinued because of symptomatic hypotension."
+]
+},
+{
+"type":"p",
+"hlId":"5ebaf2",
+"children":[
+"On physical examination, blood pressure is 94/66 mm Hg and pulse rate is 88/min. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" but no jugular venous distention or dependent edema."
+]
+},
+{
+"type":"p",
+"hlId":"1b90f4",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.7 mg/dL (150 μmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level of 132 mEq/L (132 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"0066db",
+"children":[
+"Echocardiogram performed during his last hospitalization showed an ejection fraction of 10%."
+]
+},
+{
+"type":"p",
+"hlId":"68281d",
+"children":[
+"The patient is engaged in a discussion regarding management options."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"99327b",
+"children":[
+"Which of the following is the most reasonable next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Heart transplant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hospitalization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Left ventricular assist device placement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Low-dose β-blocker"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d5e0d0",
+"children":[
+"Left ventricular assist devices, either as a bridge to heart transplant or as primary therapy, are reasonable in patients with advanced heart failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"80a108",
+"children":[
+"The most appropriate management is left ventricular assist device (LVAD) placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). LVADs are reasonable either as a bridge to heart transplant or as primary therapy in patients with advanced heart failure. Survival at 1 year is near the survival after heart transplant, and an LVAD would be worth considering in patients who have several markers of increased mortality. This patient has advanced heart failure with several risk factors for an increase in mortality over the next 2 years. These risk factors include several heart failure hospitalizations, worsening kidney function, low serum sodium level, high diuretic dosage, and inability to tolerate usual heart failure medications because of symptomatic hypotension. Based on these risk factors, a discussion with the patient about his wishes for end-of-life care and thoughts about advanced heart failure therapies would be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"2ad227",
+"children":[
+"This patient is not a candidate for heart transplant (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") based on his age and recent colon cancer. Most centers have an age cutoff of 65 years, although some may extend the cutoff past that age. With the exception of skin cancer, most programs require that a patient be cancer-free for at least 5 years before being considered for heart transplant."
+]
+},
+{
+"type":"p",
+"hlId":"ca33e3",
+"children":[
+"The decision to hospitalize a patient with heart failure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is usually based on evidence of acute decompensation with elevated neck veins and symptomatic heart failure. This patient has New York Heart Association functional class III to IV symptoms but does not appear to have volume overload on examination. Therefore, his symptoms are most likely unrelated to acute volume overload and instead are a sign of his progressive heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"c3a95d",
+"children":[
+"This patient's β-blocker (carvedilol) was stopped because of symptomatic hypotension. There is no absolute blood pressure cutoff for initiating a β-blocker, but starting a β-blocker (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in a patient who has not tolerated one in the past, especially with this patient's low blood pressure, is not appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_4_1",
+"objective":{
+"__html":"Manage advanced heart failure with a left ventricular assist device."
+},
+"references":[
+[
+"Guglin M, Zucker MJ, Borlaug BA, et al; ACC Heart Failure and Transplant Member Section and Leadership Council. Evaluation for heart transplantation and LVAD implantation: JACC Council Perspectives. J Am Coll Cardiol. 2020;75:1471-1487. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32216916",
+"target":"_blank"
+},
+"children":[
+"PMID: 32216916"
+]
+},
+" doi:10.1016/j.jacc.2020.01.034"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":11,
+"C":61,
+"D":14,
+"E":0
+},
+"hlIds":[
+"d4b056",
+"5ebaf2",
+"1b90f4",
+"0066db",
+"68281d",
+"99327b",
+"d5e0d0",
+"80a108",
+"2ad227",
+"ca33e3",
+"c3a95d"
+]
+}

@@ -1,0 +1,229 @@
+{
+"id":"mk19_a_nr_q064",
+"number":64,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9cb594",
+"children":[
+"A 60-year-old woman is evaluated for constant movements of her tongue and lips that she cannot suppress. She also has difficulty with keeping her jaw closed, and food spills out of her mouth during meals. The movements started 2 years ago following treatment with metoclopramide for diabetic gastroparesis. She stopped the medication, but movements persisted. Medical history is also significant for panic disorder. She has no history of depression and no family history of abnormal movements or dementia. Current medications are metformin, sitagliptin, canagliflozin, and clonazepam."
+]
+},
+{
+"type":"p",
+"hlId":"68f65d",
+"children":[
+"On physical examination, vital signs are normal. She displays frequent, fast, and variable twitching of the lips and facial muscles and intermittent tongue protrusion. She cannot keep her mouth open more than a few seconds because of forced closure of the jaw, with associated hyperactivity of the masseter muscles. Minimal writhing finger flexion movements are noted during ambulation."
+]
+},
+{
+"type":"p",
+"hlId":"cf2c16",
+"children":[
+"MRI of the brain is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add aripiprazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add ropinirole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Add valbenazine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Begin cognitive behavioral therapy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Discontinue clonazepam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b3a7cc",
+"children":[
+"Tardive dyskinesia is characterized by choreiform and dystonic craniofacial movements, which often involve other body parts, such as the neck and trunk."
+]
+},
+{
+"type":"keypoint",
+"hlId":"19d95e",
+"children":[
+"Tardive dyskinesia is an extrapyramidal complication of dopamine receptor–blocking medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e18e2f",
+"children":[
+"The most appropriate treatment is to add valbenazine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has tardive dyskinesia, which consists of persistent involuntary movements that are often a combination of chorea (lip and face twitching) and dystonia (jaw closure, tongue protrusion). They can emerge after long-term exposure to dopamine D",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" receptor antagonists used as antipsychotic or antiemetic and prokinetic agents, such as metoclopramide. All patients receiving these agents must be warned about the risk for this complication. First step in management should be removal of the offending drug, as was done in this patient. If dyskinesia persists and causes functional or social impairment, treatment with a vesicular monoamine transporter 2 inhibitor, such as valbenazine, deutetrabenazine, or tetrabenazine, can be helpful. Potential adverse effects include sedation, depression, and suicidality; patients should be monitored closely for psychiatric side effects. In trials, valbenazine and deutetrabenazine have shown a lower rate of psychiatric adverse effects compared with tetrabenazine. Other options include amantadine, clonazepam, and, in the case of tardive dystonia, botulinum toxin injection. In refractory cases, deep-brain stimulation can be beneficial."
+]
+},
+{
+"type":"p",
+"hlId":"f46ec2",
+"children":[
+"Addition of aripiprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), an atypical antipsychotic agent, should, as with other dopamine-blocking agents, be avoided in patients with tardive dyskinesia."
+]
+},
+{
+"type":"p",
+"hlId":"84ebaa",
+"children":[
+"Addition of ropinirole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is inappropriate as treatment. This dopamine agonist is likely to exacerbate rather than benefit choreiform dyskinesia."
+]
+},
+{
+"type":"p",
+"hlId":"bdd9ea",
+"children":[
+"Beginning cognitive behavioral therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended in patients with tic disorders (an unlikely diagnosis in this patient, given the history of exposure to metoclopramide and lack of suppressibility). This patient has difficulty with eating because of dyskinesia, and pharmacologic treatment is warranted instead of cognitive behavioral therapy."
+]
+},
+{
+"type":"p",
+"hlId":"dfc198",
+"children":[
+"Clonazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is sometimes used for treatment of tardive dyskinesia. There is no indication to discontinue this medication."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_3_7",
+"objective":{
+"__html":"Treat tardive dyskinesia."
+},
+"references":[
+[
+"Niemann N, Jankovic J. Treatment of tardive dyskinesia: a general overview with focus on the vesicular monoamine transporter 2 inhibitors. Drugs. 2018;78:525-41. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29484607",
+"target":"_blank"
+},
+"children":[
+"PMID: 29484607"
+]
+},
+" doi:10.1007/s40265-018-0874-x"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":16,
+"C":52,
+"D":16,
+"E":16
+},
+"hlIds":[
+"9cb594",
+"68f65d",
+"cf2c16",
+"1054f1",
+"b3a7cc",
+"19d95e",
+"e18e2f",
+"f46ec2",
+"84ebaa",
+"bdd9ea",
+"dfc198"
+]
+}

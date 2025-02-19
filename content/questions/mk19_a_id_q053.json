@@ -1,0 +1,273 @@
+{
+"id":"mk19_a_id_q053",
+"number":53,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5b6b59",
+"children":[
+"A 46-year-old woman is hospitalized with pyelonephritis; empiric ceftriaxone is initiated. Medical history is significant for two urinary tract infections in the previous 15 months treated with ciprofloxacin; her last infection 3 months ago was caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" resistant to ampicillin and cephalexin. She takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"a5dc83",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.2 °F), blood pressure is 105/70 mm Hg, pulse rate is 106/min, and respiration rate is 21/min. She has left flank tenderness to palpation."
+]
+},
+{
+"type":"p",
+"hlId":"9ec4d8",
+"children":[
+"Urine culture reveals more than 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"5"
+]
+},
+" cfu/mL of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+" sensitive to cefepime, ertapenem, and fosfomycin and resistant to ceftriaxone, ceftazidime, and cefotaxime. Blood cultures grow gram-negative rods."
+]
+},
+{
+"type":"p",
+"hlId":"a152fb",
+"children":[
+"Ceftriaxone is discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cefepime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colistin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ertapenem"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Fosfomycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"67e243",
+"children":[
+"The presence of extended-spectrum β-lactamase (ESBL)–producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" is suggested by the antibiotic susceptibility pattern demonstrating resistance to oxyimino-β-lactam substrates (e.g., cefotaxime, ceftazidime, ceftriaxone, cefepime)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"505e87",
+"children":[
+"Carbapenems (imipenem, meropenem, doripenem, ertapenem) are the preferred agents for treating infections with extended-spectrum β-lactamase–producing organisms."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6a002c",
+"children":[
+"Ertapenem is the most appropriate treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has pyelonephritis caused by extended-spectrum β-lactamase (ESBL)–producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" suggested by the antibiotic susceptibility pattern demonstrating resistance to oxyimino-β-lactam substrates (e.g., cefotaxime, ceftazidime, ceftriaxone). Laboratory identification of ESBLs is difficult because they are a heterogeneous group of enzymes. ESBL-producing gram-negative organisms are capable of hydrolyzing higher generation cephalosporins that have an oxyimino side chain such as cefotaxime, ceftazidime, ceftriaxone, and cefepime. The carbapenem class of antibiotics (imipenem, meropenem, doripenem, ertapenem) is the preferred group of agents for treating infections with ESBL-producing organisms. Ertapenem has an advantage over the other carbapenems with once-daily dosing, but some ESBL-producing organisms are resistant to it."
+]
+},
+{
+"type":"p",
+"hlId":"4f4e28",
+"children":[
+"An oxyimino cephalosporin (e.g., cefepime) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should not be used even if an ESBL-producing organism appears to be susceptible through laboratory testing. Treatment failures are common, even with higher doses."
+]
+},
+{
+"type":"p",
+"hlId":"227c5c",
+"children":[
+"Colistin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is generally reserved for the treatment of multidrug-resistant gram-negative infections, including those caused by carbapenem-resistant Enterobacteriaceae. Unless a patient has antibiotic allergies that preclude the use of a carbapenem or another agent active against ESBL-producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+", colistin should be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"6309f6",
+"children":[
+"Fosfomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a bactericidal, oral antibiotic (in the United States) with gram-negative and gram-positive activity (including methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" and vancomycin-resistant enterococci). It achieves high concentrations in the urine and may be used for treating uncomplicated urinary tract infections caused by vancomycin-resistant enterococci and other multidrug-resistant uropathogens, including ESBL-producing gram-negative organisms. Because of limited systemic absorption, fosfomycin should not be used for pyelonephritis or bacteremia."
+]
+}
+],
+"relatedSection":"mk19_a_id_s20_3",
+"objective":{
+"__html":"Treat a multidrug-resistant infection."
+},
+"references":[
+[
+"Pana ZD, Zaoutis T. Treatment of extended-spectrum ß-lactamase-producing Enterobacteriaceae (ESBLs) infections: what have we learned until now? F1000Res. 2018;7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30228863",
+"target":"_blank"
+},
+"children":[
+"PMID: 30228863"
+]
+},
+" doi:10.12688/f1000research.14822.1"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":2,
+"C":43,
+"D":12,
+"E":0
+},
+"hlIds":[
+"5b6b59",
+"a5dc83",
+"9ec4d8",
+"a152fb",
+"1054f1",
+"67e243",
+"505e87",
+"6a002c",
+"4f4e28",
+"227c5c",
+"6309f6"
+]
+}

@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_cv_q050",
+"number":50,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d1d5c1",
+"children":[
+"A 42-year-old man is evaluated for dyspnea that occurs while walking on a flat surface and causes him to stop when walking uphill. He has hypertrophic cardiomyopathy, which was diagnosed at age 38 years. He has no other symptoms and has no family history of sudden cardiac death. Medications are metoprolol and disopyramide."
+]
+},
+{
+"type":"p",
+"hlId":"24e233",
+"children":[
+"An echocardiogram shows asymmetric septal hypertrophy with maximal septal thickness of 24 mm. Systolic anterior motion of the mitral valve is present with dynamic left ventricular outflow tract obstruction and peak gradient of 64 mm Hg at rest."
+]
+},
+{
+"type":"p",
+"hlId":"40ab39",
+"children":[
+"Six months ago, 24-hour ECG monitoring performed as part of surveillance showed sinus bradycardia and single premature ventricular contractions averaging 6 per hour."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Addition of valsartan-sacubitril"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Implantable cardioverter-defibrillator therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Replacement of metoprolol with carvedilol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Septal reduction therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"19f18d",
+"children":[
+"Patients with hypertrophic cardiomyopathy who are receiving guideline-directed medical therapy but with New York Heart Association functional class III to IV heart failure symptoms or recurrent syncope believed to be related to left ventricular outflow tract (LVOT) obstruction and an LVOT gradient of 50 mm Hg (resting or provoked) or greater should be considered for septal reduction therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3a24e4",
+"children":[
+"Septal reduction therapy (SRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate treatment. Pharmacotherapy and lifestyle modification are appropriate initial choices for treatment of hypertrophic cardiomyopathy (HCM) with obstructive symptoms. Nonvasodilating β-blockers and/or nondihydropyridine calcium channel blockers (verapamil, diltiazem) are first-line choices. For patients with persistent symptoms, adding disopyramide, a class IA antiarrhythmic drug with potent negative inotropic activity, to one of the other drugs is a recommended option. Patients receiving guideline-directed medical therapy but with New York Heart Association functional class III to IV heart failure symptoms or recurrent syncope believed to be related to left ventricular outflow tract (LVOT) obstruction and an LVOT gradient of 50 mm Hg (resting or provoked) or greater should be considered for SRT. Adult patients in whom surgical septal myectomy is contraindicated or the risk is considered unacceptable because of serious comorbidities or advanced age, alcohol septal ablation, performed at experienced centers, is recommended. This patient is young and without significant comorbidities; thus, he should be considered for surgical septal myectomy."
+]
+},
+{
+"type":"p",
+"hlId":"1ad67c",
+"children":[
+"Both valsartan-sacubitril and carvedilol may reduce afterload. Adding valsartan-sacubitril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or switching metoprolol to carvedilol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may worsen this patient's symptoms and degree of LVOT obstruction."
+]
+},
+{
+"type":"p",
+"hlId":"48e047",
+"children":[
+"This patient has no clear indication for implantable cardioverter-defibrillator (ICD) placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). An ICD is recommended for patients with HCM and previous documented cardiac arrest or sustained ventricular tachycardia. ICD placement is considered reasonable in the presence of one or more major risk factors for sudden cardiac death, including sudden death in a first-degree or close relative at age 50 years or younger, left ventricular (LV) hypertrophy of 30 mm or greater, syncope thought to be arrhythmogenic, LV aneurysm, and an LV ejection fraction of 50% or less."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7_1_4",
+"objective":{
+"__html":"Treat hypertrophic cardiomyopathy with obstructive symptoms with septal reduction therapy."
+},
+"references":[
+[
+"Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diagnosis and treatment of patients with hypertrophic cardiomyopathy: executive summary: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2020;142:e533-e557. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33215938",
+"target":"_blank"
+},
+"children":[
+"PMID: 33215938"
+]
+},
+" doi:10.1161/CIR.0000000000000938"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":21,
+"C":4,
+"D":71,
+"E":0
+},
+"hlIds":[
+"d1d5c1",
+"24e233",
+"40ab39",
+"1054f1",
+"19f18d",
+"3a24e4",
+"1ad67c",
+"48e047"
+]
+}

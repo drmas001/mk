@@ -1,0 +1,140 @@
+{
+"id":"vdx4_cv_q001",
+"number":1,
+"bookId":"vdx_cv",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b2545b",
+"children":[
+"A 35-year-old man is evaluated for exertional dyspnea and a sensation of pounding in the neck that has progressed over the last year. Blood pressure is 150/60 mm Hg, and pulse rate is 60/min."
+]
+},
+{
+"type":"p",
+"hlId":"bde3c9",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(We recommend listening to ",
+{
+"type":"video-link",
+"target":"vdx4_cv_mcq_v001",
+"wrapId":"1",
+"children":[
+"this clip"
+]
+},
+" with headphones or external speakers rather than internal computer or mobile phone speakers. It may be helpful to maximize the volume setting of the listening device. In the videos, a cotton swab is placed on the carotid artery to help identify the timing of cardiac sounds and murmurs and, in some cases, to provide a visual representation of the carotid artery configuration.)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_v001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2d4b0a",
+"children":[
+"Which of the following best describes the murmur at the mid-left sternal edge?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic regurgitation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aortic stenosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mitral stenosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tricuspid regurgitation"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"42184f",
+"children":[
+"This patient has the characteristic high-pitched, long, blowing diastolic decrescendo murmur of chronic aortic regurgitation. This murmur begins immediately after S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and is best heard at the mid-left sternal edge. In this example, the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is nearly inaudible because it is obscured by the loud murmur. In some patients, the murmur of aortic regurgitation is much softer and can be heard only with the patient seated, leaning forward, and holding the breath at end-expiration. The presence of a wide pulse pressure is also typical of chronic aortic regurgitation."
+]
+},
+{
+"type":"p",
+"hlId":"6659cd",
+"children":[
+"Aortic stenosis is a systolic murmur. The murmur of tricuspid regurgitation is also heard during systole, and the intensity may increase with inspiration. Mitral stenosis produces a low-frequency diastolic murmur heard best at the cardiac apex."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_3_1",
+"objective":{
+"__html":"Diagnose aortic regurgitation on auscultation."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"b2545b",
+"bde3c9",
+"2d4b0a",
+"42184f",
+"6659cd"
+]
+}

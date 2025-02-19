@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q073",
+"number":73,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 73",
+"stimulus":[
+{
+"type":"p",
+"hlId":"37a561",
+"children":[
+"A 35-year-old woman is evaluated during a follow-up visit for recurrent microscopic hematuria without proteinuria. Family history is significant for microscopic hematuria in her brother and mother; her two other siblings have no urinary abnormalities. There is no family history of chronic kidney disease or end-stage kidney disease. Her medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"a3fa60",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.7 mg/dL (61.9 µmol/L); urinalysis shows 2+ blood, no protein, and 20-30 erythrocytes/hpf."
+]
+},
+{
+"type":"p",
+"hlId":"7f682c",
+"children":[
+"Kidney ultrasound shows normal-sized kidneys with no masses or stones."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Autosomal dominant tubulointerstitial kidney disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fabry disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hereditary nephritis (Alport syndrome)"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thin glomerular basement membrane disease"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8220a0",
+"children":[
+"Thin glomerular basement membrane (GBM) disease is an autosomal dominant type IV collagen abnormality that causes thinning of the GBM, resulting in hematuria but usually without proteinuria or abnormal kidney function."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d1a9a8",
+"children":[
+"Thin glomerular basement membrane (GBM) disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most likely diagnosis. Also known as benign familial hematuria, inheritance in this disease is autosomal dominant. The inherited type IV collagen abnormality causes thinning of the GBM, which results in hematuria but usually without proteinuria or abnormal kidney function. Thin GBM disease may affect up to 5% of the population, with up to 50% of patients who are diagnosed reporting a family history of hematuria without kidney failure. Both microscopic and macroscopic hematuria can be seen, first manifesting in young adulthood. Although diagnosis can be made by kidney biopsy, this is not usually required in the setting of a good clinical and family history. Genetic testing may also be used to make the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"d3a142",
+"children":[
+"Autosomal dominant tubulointerstitial kidney disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be suspected in patients with slowly progressive chronic kidney disease, a bland urine sediment, small kidneys, and a family history of end-stage kidney disease. This patient has normal-sized kidneys, microscopic hematuria, and no family history of kidney dysfunction."
+]
+},
+{
+"type":"p",
+"hlId":"c96b34",
+"children":[
+"Fabry disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") follows an X-linked pattern on inheritance. Patients are expected to have kidney dysfunction by adulthood alongside abnormalities in other organs such as the skin (telangiectasias and angiokeratomas), eyes, heart (premature coronary artery disease), brain, and/or peripheral nervous system (severe neuropathic pain). This patient has no kidney dysfunction or other organ abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"9593fa",
+"children":[
+"Hereditary nephritis (Alport syndrome) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") follows an X-linked pattern on inheritance in 85% of cases; the remaining 15% of cases follow an autosomal recessive pattern of inheritance. In addition, hereditary nephritis is expected to have a family history of not only hematuria, but also proteinuria (unlike this patient), renal dysfunction (including end-stage kidney disease in most families), and both visual and hearing abnormalities."
+]
+}
+],
+"relatedSection":"mk19_a_np_s8_2_2_2",
+"objective":{
+"__html":"Diagnose thin glomerular basement membrane disease."
+},
+"references":[
+[
+"Kashtan CE, Ding J, Garosi G, et al. Alport syndrome: a unified classification of genetic disorders of collagen IV a345: a position paper of the Alport Syndrome Classification Working Group. Kidney Int. 2018;93:1045-1051. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29551517",
+"target":"_blank"
+},
+"children":[
+"PMID: 29551517"
+]
+},
+" doi:10.1016/j.kint.2017.12.018"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":4,
+"C":24,
+"D":63,
+"E":0
+},
+"hlIds":[
+"37a561",
+"f8786b",
+"a3fa60",
+"7f682c",
+"413696",
+"8220a0",
+"d1a9a8",
+"d3a142",
+"c96b34",
+"9593fa"
+]
+}

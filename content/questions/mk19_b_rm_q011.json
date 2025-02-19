@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_rm_q011",
+"number":11,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"af10f8",
+"children":[
+"A 36-year-old woman is evaluated for abdominal pain and diarrhea. She has a 3-year history of ankylosing spondylitis. For the past 6 months, she has had four or five bowel movements daily and over the past month she has experienced unintentional weight loss of 3 kg (6.6 lb). The abdominal pain is poorly localized and unrelated to defecation. Stools are loose but not greasy, mucoid, or bloody. She has been taking naproxen twice daily, with good control of her ankylosing spondylitis. She reports no recent travel or antibiotic therapy. She has no other medical problems and takes no additional medications."
+]
+},
+{
+"type":"p",
+"hlId":"1408c9",
+"children":[
+"On physical examination, vital signs are normal. There is mild nonlocalizing abdominal tenderness. Range of motion of cervical and lumbar spine is normal. Sacroiliac joints are not tender."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Celiac disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inflammatory bowel disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Irritable bowel syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Small intestinal bacterial overgrowth"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"031541",
+"children":[
+"Inflammatory bowel disease occurs in patients with ankylosing spondylitis at a much higher rate than in the general population."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f0c0e4",
+"children":[
+"Patients with ankylosing spondylitis who develop abdominal pain, diarrhea, or a change in bowel habits should be evaluated for inflammatory bowel disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"65350c",
+"children":[
+"The most likely diagnosis is inflammatory bowel disease (IBD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). IBD occurs in up to 14% of patients with ankylosing spondylitis (AS), a much higher rate than the approximately 0.5% seen in the general population. Among patients with AS who develop IBD, Crohn disease and ulcerative colitis occur with equal frequency. IBD in AS is slightly more common among men and occurs early in the course of AS. By 10 years of AS, the risk for IBD has returned to the general population level. The bowel inflammation and gut dysbiosis that are common in IBD may drive the inflammation in the spine, leading to AS. Clinical manifestations of IBD in patients with combined AS and IBD are similar to those in patients with IBD alone."
+]
+},
+{
+"type":"p",
+"hlId":"8ce9a2",
+"children":[
+"Celiac disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an immune-mediated disease that primarily affects the small intestine in response to dietary gluten. It is one of the most common causes of malabsorption. Celiac disease has no association with AS or other rheumatologic diseases. Although patients with chronic diarrhea should be evaluated for celiac disease, IBD is a more likely diagnosis in a patient with AS."
+]
+},
+{
+"type":"p",
+"hlId":"ae4702",
+"children":[
+"Irritable bowel syndrome (IBS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a functional bowel disorder defined by the presence of abdominal pain in association with defecation and/or a change in bowel habits. The diagnosis of IBS requires symptoms of recurrent abdominal pain at least 1 day a week for 3 months, along with at least two of the following three additional criteria: pain related to defecation, change in stool frequency, or change in stool consistency. This patient's pain is not related to defecation, and her recent unintentional weight loss makes IBS unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"b14db3",
+"children":[
+"Small intestinal bacterial overgrowth (SIBO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is caused by various conditions, including impaired motility, strictures, or blind loops. Diagnosis requires typical symptoms and a confirmatory test (usually breath testing). SIBO is associated with systemic sclerosis but has not been associated with AS unless there is another predisposing condition."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s6_3_3",
+"objective":{
+"__html":"Diagnose inflammatory bowel disease in a patient with ankylosing spondylitis."
+},
+"references":[
+[
+"Fragoulis GE, Liava C, Daoussis D, et al. Inflammatory bowel diseases and spondyloarthropathies: from pathogenesis to treatment. World J Gastroenterol. 2019;25:2162-2176. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31143068",
+"target":"_blank"
+},
+"children":[
+"PMID: 31143068"
+]
+},
+" doi:10.3748/wjg.v25.i18.2162"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":20,
+"B":67,
+"C":8,
+"D":6,
+"E":0
+},
+"hlIds":[
+"af10f8",
+"1408c9",
+"413696",
+"031541",
+"f0c0e4",
+"65350c",
+"8ce9a2",
+"ae4702",
+"b14db3"
+]
+}

@@ -1,0 +1,202 @@
+{
+"id":"mk19_qq_q061",
+"number":61,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"96976a",
+"children":[
+"A 66-year-old man is evaluated for an episode of aphasia and right-sided weakness that occurred 7 hours ago and lasted 3 hours. He has a history of hypertension and hyperlipidemia treated with hydrochlorothiazide and atorvastatin and low-dose aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"b330fd",
+"children":[
+"All physical examination findings, including vital signs, are unremarkable. Head CT, ECG, prolonged telemetry monitoring, and echocardiogram are all normal. CT angiogram shows 70% stenosis of the left internal carotid artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78bae8",
+"children":[
+"Which of the following is the most appropriate next step to reduce this patient's risk for stroke?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Carotid endarterectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Carotid stenting"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prasugrel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivaroxaban"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"309bb6",
+"children":[
+"Carotid endarterectomy for critical carotid artery stenosis is highly effective in reducing the risk for recurrent stroke in the immediate poststroke period."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c2cd7a",
+"children":[
+"With symptomatic carotid stenosis, the risk for recurrent stroke is 1% per day for the first 2 weeks after a stroke or TIA; therefore, the greatest benefit of carotid endarterectomy is gained when the procedure is performed early."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a4920e",
+"children":[
+"This patient should be referred for urgent endarterectomy of the left internal carotid artery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). He has had a transient ischemic attack (TIA) consisting of aphasia and right-sided weakness due to symptomatic high-grade carotid stenosis. The risk for recurrent stroke is approximately 26% over the next 2 years. Carotid endarterectomy is highly effective in reducing the risk for recurrent stroke in the immediate poststroke period. With symptomatic carotid stenosis, the risk for recurrent stroke is 1% per day for the first 2 weeks after a stroke or TIA; therefore, the greatest benefit is gained when the procedure is performed early."
+]
+},
+{
+"type":"p",
+"hlId":"23768e",
+"children":[
+"Carotid stenting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be inappropriate for this patient. Clinical trials have shown that for the outcomes of stroke, myocardial infarction, and death, stenting and endarterectomy are not significantly different. However, stenting poses a greater risk for perioperative stroke than does endarterectomy. Therefore, it is not recommended as a primary intervention for symptomatic carotid artery stenosis. In patients who are considered high risk for carotid endarterectomy, such as those with major cardiac comorbid conditions, stenting is an alternative."
+]
+},
+{
+"type":"p",
+"hlId":"5bd6a8",
+"children":[
+"Prasugrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor blocker used as an antiplatelet agent. Prasugrel may cause significant, sometimes fatal, bleeding. It is contraindicated in patients with active pathological bleeding or a history of TIA or stroke. Clopidogrel, another P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" agent, has a role in medical therapy for patients who cannot take aspirin. However, antiplatelet agents generally provide only a marginal benefit compared with surgery in reducing the risk for stroke in the acute period after a stroke or TIA caused by symptomatic high-grade carotid stenosis."
+]
+},
+{
+"type":"p",
+"hlId":"b05099",
+"children":[
+"Anticoagulation in the context of acute stroke has been associated with increased mortality rates and poorer neurologic outcomes. Long-term anticoagulation with a direct-acting anticoagulant, such as rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or warfarin, is beneficial only in patients whose stroke is caused by atrial fibrillation or another source of cardiogenic embolism. Because this patient's stroke probably resulted from his high-grade carotid stenosis, treatment with rivaroxaban would not be appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_5_2_2",
+"objective":{
+"__html":"Manage symptomatic internal carotid artery disease."
+},
+"references":[
+[
+"Amarenco P. Transient ischemic attack. N Engl J Med. 2020;382:1933-1941. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32402163",
+"target":"_blank"
+},
+"children":[
+"PMID: 32402163"
+]
+},
+" doi:10.1056/NEJMcp1908837"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"96976a",
+"b330fd",
+"78bae8",
+"309bb6",
+"c2cd7a",
+"a4920e",
+"23768e",
+"5bd6a8",
+"b05099"
+]
+}

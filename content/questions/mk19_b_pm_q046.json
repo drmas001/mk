@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_pm_q046",
+"number":46,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5b73b8",
+"children":[
+"A 52-year-old man is evaluated after hospital discharge for total knee arthroplasty. In the recovery room following the procedure, he was reintubated because of hypoxemia, which was then completely resolved. The postintubation chest radiograph was normal. Hypoxemia did not return following extubation 24 hours later, and oxygenation was normal at discharge on hospital day 4. He also has hypertension. Medications are lisinopril and short-term apixaban for postarthroplasty venous thromboembolism prophylaxis."
+]
+},
+{
+"type":"p",
+"hlId":"42c7d9",
+"children":[
+"On physical examination, vital signs are normal. BMI is 31. Neck circumference is 42 cm (16.5 in). He has a low-lying soft palate. Lung and heart examinations are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c7d3ad",
+"children":[
+"Which of the following is the most likely cause of the hypoxemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspiration pneumonia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obstructive sleep apnea"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary edema"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"065314",
+"children":[
+"Obstructive sleep apnea may be clinically recognized for the first time after a procedure that entails general anesthesia and/or narcotics and may manifest as repeated episodes of postoperative hypoxemia but may also present as frank respiratory failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1abfbf",
+"children":[
+"The most likely cause of the patient's hypoxemia is obstructive sleep apnea (OSA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). OSA may be clinically recognized for the first time after a procedure that entails general anesthesia and/or narcotics. In this situation, OSA may manifest as repeated episodes of postoperative hypoxemia but may also present as frank respiratory failure. This patient has risk factors for OSA, including obesity, male sex, hypertension, and a thick neck. Many of these risk factors are incorporated into predictive scoring algorithms to identify those individuals before surgery. With increasing use of screening tools and perioperative care pathways, unexpected patient events due to undiagnosed OSA following general anesthesia or opioid analgesics are less common than in the past."
+]
+},
+{
+"type":"p",
+"hlId":"4489cc",
+"children":[
+"Aspiration pneumonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is less likely after an elective surgical procedure, which is usually preceded by precautions to avoid oral intake for several hours before surgery. The normal chest radiograph after intubation and postintubation normalization of hypoxemia also rule out aspiration as a cause of acute respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"fd4e13",
+"children":[
+"Pulmonary edema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), atelectasis, and pneumonia are among the most common reasons for reintubation following general anesthesia. These conditions would be associated with an abnormal postintubation chest radiograph and would not quickly resolve with intubation and mechanical ventilation, making them unlikely diagnoses."
+]
+},
+{
+"type":"p",
+"hlId":"f92526",
+"children":[
+"The risk for postoperative deep venous thromboembolism (VTE) is highest after 48 to 72 hours of immobilization; most postorthopedic surgery care pathways, including prolonged anticoagulation as seen in this patient, are designed to prevent VTE. Pulmonary embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") immediately after orthopedic surgery would be unusual, as would complete resolution of hypoxemia immediately after intubation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_3_3",
+"objective":{
+"__html":"Diagnose obstructive sleep apnea after anesthesia."
+},
+"references":[
+[
+"Tamisier R, Fabre F, O'Donoghue F, et al. Anesthesia and sleep apnea. Sleep Med Rev. 2018;40:79-92. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29174558",
+"target":"_blank"
+},
+"children":[
+"PMID: 29174558"
+]
+},
+" doi:10.1016/j.smrv.2017.10.006"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":89,
+"C":4,
+"D":3,
+"E":0
+},
+"hlIds":[
+"5b73b8",
+"42c7d9",
+"c7d3ad",
+"065314",
+"1abfbf",
+"4489cc",
+"fd4e13",
+"f92526"
+]
+}

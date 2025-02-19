@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q142",
+"number":142,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 142",
+"stimulus":[
+{
+"type":"p",
+"hlId":"663ec3",
+"children":[
+"A 67-year-old woman is evaluated before discharge from the hospital following a lateral ST-elevation myocardial infarction treated with percutaneous cardiac intervention and coronary stenting. Medications are aspirin, ticagrelor, carvedilol, lisinopril, atorvastatin, and eplerenone. She is currently asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"465607",
+"children":[
+"On physical examination, vital signs are normal. Echocardiogram obtained on admission revealed a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 30%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add furosemide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add verapamil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiography in 3 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Implantable cardioverter-defibrillator placement now"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"95f717",
+"children":[
+"Placement of an implantable cardioverter-defibrillator is indicated for patients with ischemic heart disease and reduced ejection fraction 40 or more days after acute myocardial infarction and 90 or more days after revascularization, while on guideline-directed medical therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0aa876",
+"children":[
+"Reduced ejection fraction immediately following myocardial infarction may be related to myocardial stunning and can improve over the next few months, especially with guideline-directed medical therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"21b8f2",
+"children":[
+"The most appropriate management is to perform echocardiography in 3 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Patients with reduced ejection fraction due to ischemic cardiomyopathy are at increased risk for sudden cardiac death. Placement of an implantable cardioverter-defibrillator (ICD) is indicated for patients with ischemic heart disease and reduced ejection fraction 40 or more days after acute myocardial infarction and 90 or more days after revascularization, while on guideline-directed medical therapy (GDMT). Because this patient underwent primary revascularization for acute myocardial infarction, she should be treated with optimal medical therapy, and repeat echocardiography should be performed after 90 days to reassess ejection fraction. Reduced ejection fraction immediately following myocardial infarction may be related to myocardial stunning and can improve over the next few months, especially with GDMT."
+]
+},
+{
+"type":"p",
+"hlId":"984a59",
+"children":[
+"Loop diuretics, such as furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are the primary diuretic option for treating patients with heart failure who have volume overload. Furosemide is the most commonly used loop diuretic, although torsemide and bumetanide may be more effective owing to longer half-lives and increased bioavailability. Diuretic therapy may be complicated by electrolyte abnormalities, including hypokalemia and hypomagnesemia. In patients who are asymptomatic and without evidence of volume overload, such as this one, diuretic therapy is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"3da0fd",
+"children":[
+"The nondihydropyridine calcium channel blockers verapamil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and diltiazem are detrimental in patients with heart failure with reduced ejection fraction, probably related to negative inotropic effects, and should not be used. Amlodipine and felodipine have shown neither benefit nor harm and can be used in patients with persistent hypertension despite therapy with other agents at maximal dosage."
+]
+},
+{
+"type":"p",
+"hlId":"a0a73e",
+"children":[
+"Arrhythmias are a common cause of death in patients with heart failure, and ICDs improve survival when used for both primary and secondary prevention of sudden cardiac death. Current guidelines recommend ICD placement in patients receiving GDMT who have a left ventricular ejection fraction of 35% or less and New York Heart Association functional class II or III heart failure symptoms. It is important to reassess both left ventricular ejection fraction and symptoms after GDMT (40 days after myocardial infarction, 3 months in all others, including following revascularization). Many patients with new-onset heart failure experience substantial improvements in ejection fraction with medical therapy and may not require or benefit from ICD placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_3_1",
+"objective":{
+"__html":"Evaluate a patient for an implantable cardioverter-defibrillator following an acute myocardial infarction."
+},
+"references":[
+[
+"Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018;72:e91-e220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29097296",
+"target":"_blank"
+},
+"children":[
+"PMID: 29097296"
+]
+},
+" doi:10.1016/j.jacc.2017.10.054"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"663ec3",
+"465607",
+"cb2b54",
+"95f717",
+"0aa876",
+"21b8f2",
+"984a59",
+"3da0fd",
+"a0a73e"
+]
+}

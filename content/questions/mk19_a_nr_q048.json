@@ -1,0 +1,254 @@
+{
+"id":"mk19_a_nr_q048",
+"number":48,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7fe984",
+"children":[
+"A 54-year-old man is evaluated for difficulty swallowing of 6 months' duration. He initially had occasional choking with liquids, which has progressed to dysphagia with both liquids and solids. His voice has become hoarse. He reports no changes in extremity strength but sometimes finds it hard to lift his head. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"1f010a",
+"children":[
+"On physical examination, vital signs are normal. Lower facial muscles are weak. Tongue is atrophied and moves slowly; fasciculations are present. Neck flexion and right-hand finger flexion are mildly weak. Jaw jerk and patellar reflexes are brisk, and right ankle clonus is present. Extraocular movements are intact."
+]
+},
+{
+"type":"p",
+"hlId":"7e3592",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatine kinase, serum",
+"children":[
+"Creatine kinase"
+]
+},
+" level is 250 U/L."
+]
+},
+{
+"type":"p",
+"hlId":"e1fcc4",
+"children":[
+"MRI of the brain and cervical spine and chest radiograph are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amyotrophic lateral sclerosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chronic inflammatory demyelinating polyradiculoneuropathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Inclusion body myositis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Myasthenia gravis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Neuromyelitis optica"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e4f31d",
+"children":[
+"Amyotrophic lateral sclerosis often begins as asymmetric distal extremity weakness or with bulbar symptoms, such as dysphagia, dysarthria, or tongue weakness."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a3e210",
+"children":[
+"In patients with suspected amyotrophic lateral sclerosis, cervical cord compression, vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" and copper deficiencies, HIV infection, Lyme disease, hyperparathyroidism, and thyrotoxicosis must be excluded."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a84e02",
+"children":[
+"The most likely diagnosis is amyotrophic lateral sclerosis (ALS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). ALS often begins as asymmetric distal extremity weakness or with bulbar symptoms, such as dysphagia, dysarthria, or tongue weakness. The clinical course is rapid, progressive, and irreversible. In this patient, the presence of both lower motor neuron findings, such as atrophy and fasciculations, and upper motor neuron signs, such as hyperreflexia, clonus, and brisk jaw jerk, suggest ALS. In patients with these findings, diagnosis can be confirmed with electromyographic evidence of lower motor neuron signs in at least two (probable ALS) or more (definite ALS) regions. An alternative cause should be ruled out by cervical spine neuroimaging and assessment for thyroid and parathyroid dysfunction, copper and vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency, HIV infection, and Lyme disease."
+]
+},
+{
+"type":"p",
+"hlId":"c36d72",
+"children":[
+"Chronic inflammatory demyelinating polyradiculoneuropathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") often presents with symmetric proximal and distal motor and sensory deficits and diffuse areflexia. Bulbar weakness and hyperreflexia are atypical for this entity."
+]
+},
+{
+"type":"p",
+"hlId":"42a53a",
+"children":[
+"Inflammatory myopathies, such as inclusion body myositis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), can present with neck extension weakness, but upper motor neuron signs would not be expected. Creatine kinase is often highly elevated in inflammatory myopathies, but its mild elevation can be seen in many neuromuscular disorders, including ALS."
+]
+},
+{
+"type":"p",
+"hlId":"6d4eb3",
+"children":[
+"Myasthenia gravis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can cause bulbar weakness. This is often associated with extraocular and symmetric proximal limb muscle weakness. However, isolated bulbar and neck weakness can be seen in the setting of myasthenia gravis, particularly in patients with anti–muscle-specific kinase antibody. Presence of upper motor neuron signs is inconsistent with this diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"7071fc",
+"children":[
+"Neuromyelitis optica (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a central nervous system demyelinating disorder that can cause various neurologic deficits, including bulbar and sensorimotor deficits, and upper motor neuron signs. Normal findings on MRI would rule out this entity."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_3",
+"objective":{
+"__html":"Diagnose amyotrophic lateral sclerosis."
+},
+"references":[
+[
+"Brown RH, Al-Chalabi A. Amyotrophic lateral sclerosis. N Engl J Med. 2017;377:162-72. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28700839",
+"target":"_blank"
+},
+"children":[
+"PMID: 28700839"
+]
+},
+" doi:10.1056/NEJMra1603471"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":71,
+"B":16,
+"C":6,
+"D":8,
+"E":0
+},
+"hlIds":[
+"7fe984",
+"1f010a",
+"7e3592",
+"e1fcc4",
+"413696",
+"e4f31d",
+"a3e210",
+"a84e02",
+"c36d72",
+"42a53a",
+"6d4eb3",
+"7071fc"
+]
+}

@@ -1,0 +1,227 @@
+{
+"id":"mk19_a_gm_q023",
+"number":23,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7caf8c",
+"children":[
+"A 56-year-old man is evaluated during a routine follow-up appointment. He has schizophrenia treated with olanzapine. Currently, the patient experiences no hallucinations or delusions. He is otherwise healthy. Previous ECGs have been normal."
+]
+},
+{
+"type":"p",
+"hlId":"a496e1",
+"children":[
+"On physical examination, vital signs are normal. BMI is 27. The examination shows flat affect. Speech is normal, and thoughts appear organized."
+]
+},
+{
+"type":"p",
+"hlId":"7a1884",
+"children":[
+"A fasting blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" measurement is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f1c9c9",
+"children":[
+"Which of the following should also be monitored in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Complete blood count"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lipid levels"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liver chemistries"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prolactin level"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"QT interval"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"144643",
+"children":[
+"The most common adverse effects of second-generation antipsychotic agents are weight gain (and sequelae of weight gain, such as hyperglycemia) and hyperlipidemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7dadd1",
+"children":[
+"Weight, blood glucose level, and lipid levels should be monitored in patients taking second-generation antipsychotic drugs."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ed3e55",
+"children":[
+"Lipid levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), weight, and blood glucose level should be monitored in this patient who has schizophrenia and takes olanzapine, a second-generation antipsychotic medication. Schizophrenia is associated with an increased risk for diabetes mellitus, cardiovascular disease, and obesity, and undertreatment of medical disease is common in this population. Metabolic effects of antipsychotic therapy also can contribute to these conditions, which significantly increase mortality in patients with schizophrenia. The most common adverse effects of second-generation antipsychotic agents are weight gain (and sequelae of weight gain, such as hyperglycemia) and hyperlipidemia. The fasting blood glucose level should be measured upon initial medication initiation and at 3 months. Thereafter, the fasting glucose level should be checked at least annually. More frequent monitoring can be considered in patients with risk factors for diabetes. Lipid monitoring should be performed at baseline, at 3 months, and at least every 5 years thereafter."
+]
+},
+{
+"type":"p",
+"hlId":"8981db",
+"children":[
+"Complete blood count monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is required for patients who take clozapine owing to its association with agranulocytosis. Routine complete blood count monitoring is not required with olanzapine use."
+]
+},
+{
+"type":"p",
+"hlId":"770cc8",
+"children":[
+"Periodic monitoring of liver chemistries (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is required with use of some first-generation antipsychotics, such as fluphenazine, but it is not needed with olanzapine."
+]
+},
+{
+"type":"p",
+"hlId":"bed299",
+"children":[
+"First-generation (typical) antipsychotic agents have a higher risk for extrapyramidal symptoms (parkinsonism, akathisia), tardive dyskinesia, and hyperprolactinemia than do second-generation (atypical) antipsychotic agents. Regardless of whether the patient is treated with typical or atypical agents, in the absence of side effects, such as nipple discharge, routine monitoring of the prolactin level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"0bda13",
+"children":[
+"Second-generation antipsychotic agents, including olanzapine, have been associated with a prolonged QT interval. However, the incidence of prolonged QT interval with olanzapine alone is less than 2%. When combined with other agents that can prolong the QT interval (quinidine, selective serotonin reuptake inhibitors, tricyclic antidepressants, ondansetron), QT should be monitored. In a patient with a previously normal QT interval and no new medications, routinely obtaining an ECG for QT interval monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not required."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_9",
+"objective":{
+"__html":"Monitor a patient taking antipsychotic medication."
+},
+"references":[
+[
+"American Diabetes Association; American Psychiatric Association; American Association of Clinical Endocrinologists; North American Association for the Study of Obesity. Consensus development conference on antipsychotic drugs and obesity and diabetes. Diabetes Care. 2004;27:596-601. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/14747245",
+"target":"_blank"
+},
+"children":[
+"PMID: 14747245"
+]
+},
+" doi:10.2337/diacare.27.2.596"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":49,
+"C":8,
+"D":4,
+"E":24
+},
+"hlIds":[
+"7caf8c",
+"a496e1",
+"7a1884",
+"f1c9c9",
+"144643",
+"7dadd1",
+"ed3e55",
+"8981db",
+"770cc8",
+"bed299",
+"0bda13"
+]
+}

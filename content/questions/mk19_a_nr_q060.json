@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_nr_q060",
+"number":60,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"52cecd",
+"children":[
+"A 78-year-old woman is evaluated in the hospital following treatment with intravenous alteplase 8 hours ago for acute ischemic stroke. CT angiogram showed no large vessel occlusion. The National Institutes of Health Stroke Scale (NIHSS) score before and 1 hour after treatment was 9. She has atrial fibrillation and hypertension. Outpatient medications were warfarin, enalapril, and amlodipine. At the time of hospital admission the INR was 1.0."
+]
+},
+{
+"type":"p",
+"hlId":"4dd693",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. She has left facial weakness and dysarthria. The raised left arm and leg have a downward drift that contacts the bed, and there is a decreased sensitivity to pinprick on the left side. Heart rhythm is irregularly irregular."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atorvastatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous heparin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxygen by nasal cannula"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat head CT"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Swallow evaluation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7d3cc6",
+"hvc":true,
+"children":[
+"Any change in neurologic status following intravenous thrombolytic therapy for acute ischemic stroke should prompt repeat imaging to assess for intracerebral bleeding."
+]
+},
+{
+"type":"keypoint",
+"hlId":"63e786",
+"hvc":true,
+"children":[
+"Patients with a stroke should receive a formal swallow evaluation before any oral intake."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d6a390",
+"children":[
+"The most appropriate next step is to perform a swallow evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") for dysphagia. She had an acute ischemic stroke treated appropriately with intravenous alteplase. She was not eligible for thrombectomy, given the absence of a large vessel occlusion. The patient's neurologic status has not changed since she received treatment, but she should continue to have neurologic checks and blood pressure monitoring once every hour for the first 24 hours. Any change in neurologic status should prompt repeat imaging to ensure that there is not symptomatic intracerebral hemorrhage, which would also require reversal. Oral medications can be considered after a formal dysphagia evaluation to minimize the risk of aspiration pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"f99bb8",
+"children":[
+"Atorvastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and other statins have not been shown to reduce the risk of recurrent stroke when administered within 30 days but can be considered after a dysphagia evaluation has been completed, especially in those patients with an atherosclerotic stroke subtype. This patient most likely had a cardioembolic stroke, and the need for statin therapy will be determined by measurement of lipid levels."
+]
+},
+{
+"type":"p",
+"hlId":"74e3c2",
+"children":[
+"Intravenous heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not effective in acute ischemic stroke of cardioembolic etiology; in this patient it is contraindicated because she received thrombolysis. Oral anticoagulation in patients with atrial fibrillation can be restarted closer to hospital discharge if there are no hemorrhagic complications. A direct acting anticoagulant will be a better choice than restarting warfarin because of superior effectiveness, standard dosing, and lack of need for monitoring."
+]
+},
+{
+"type":"p",
+"hlId":"b66a9a",
+"children":[
+"Oxygen supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not recommended in patients with acute medical or neurologic injury unless there is a decline in the oxygen saturation. Supplemental oxygen in patients with normal oxygen saturation increases mortality in patients with stroke and other acute illnesses."
+]
+},
+{
+"type":"p",
+"hlId":"fc873d",
+"children":[
+"Repeating head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate because the patient has not had any change in examination findings and has not yet reached the posttreatment time window of 24 hours, at which point repeat imaging is indicated."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_1_1",
+"objective":{
+"__html":"Manage acute ischemic stroke treated with thrombolysis."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":9,
+"B":20,
+"C":1,
+"D":26,
+"E":44
+},
+"hlIds":[
+"52cecd",
+"4dd693",
+"1a5dcc",
+"7d3cc6",
+"63e786",
+"d6a390",
+"f99bb8",
+"74e3c2",
+"b66a9a",
+"fc873d"
+]
+}

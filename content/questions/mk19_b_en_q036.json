@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_en_q036",
+"number":36,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2cac8a",
+"children":[
+"A 47-year-old man is evaluated in the emergency department after 24 hours of severe headache and change in vision. He has a history of a nonfunctioning pituitary tumor and hypertension. His only medication is losartan."
+]
+},
+{
+"type":"p",
+"hlId":"e19664",
+"children":[
+"On physical examination, temperature is 37 °C (98.6 °F), blood pressure is 100/68 mm Hg, and pulse rate is 102/min. Bilateral temporal visual field deficits are present. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"084287",
+"children":[
+"Laboratory studies show a serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"sodium"
+]
+},
+" level of 130 mEq/L (130 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"500662",
+"children":[
+"Intravenous hydrocortisone is administered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cosyntropin stimulation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pituitary MRI"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid-stimulating hormone and free thyroxine level"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine osmolality"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f8ff5e",
+"children":[
+"The presentation of pituitary apoplexy may include severe headache, diplopia, and change in vision as a result of mass effect."
+]
+},
+{
+"type":"keypoint",
+"hlId":"45f0d1",
+"children":[
+"If pituitary apoplexy is accompanied by visual loss, urgent neurosurgical consultation should be obtained regarding the need to decompress the optic apparatus to preserve or restore vision."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0b0a26",
+"children":[
+"The most appropriate diagnostic test to perform next is urgent pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has signs and symptoms of pituitary apoplexy (sudden hemorrhage or infarction of a pituitary adenoma). Pituitary apoplexy occurs in 2% to 12% of patients with pituitary tumors and is a medical emergency. The presentation of pituitary apoplexy varies in severity and may include severe headache, endocrine abnormalities such as hypocortisolemia and hyponatremia, diplopia caused by pressure on the oculomotor nerves, and vision changes caused by mass effect. The diagnosis of pituitary apoplexy is based on the clinical signs and symptoms and supported by the MRI findings. If visual loss is present, urgent neurosurgical consultation should be obtained regarding the need to decompress the optic apparatus to preserve or restore vision."
+]
+},
+{
+"type":"p",
+"hlId":"617912",
+"children":[
+"A cosyntropin stimulation test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not an appropriate test in the setting of the acute secondary adrenal insufficiency that occurs in pituitary apoplexy. In early secondary adrenal insufficiency, the adrenal glands respond normally to cosyntropin stimulation, thus providing a false-negative result. An 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum cortisol level is necessary for diagnosis, and treatment for adrenal insufficiency should not be delayed while awaiting test results. If adrenal insufficiency is suspected, as in this patient with relative hypotension and hyponatremia, intravenous hydrocortisone should be administered immediately."
+]
+},
+{
+"type":"p",
+"hlId":"80b22f",
+"children":[
+"The thyroid-stimulating hormone and free thyroxine tests (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are an incorrect choice for several reasons. Secondary hypothyroidism may occur with pituitary apoplexy, but the early loss of thyroid hormone is not life-threatening. Because free thyroxine has a long half-life, it is unlikely to show evidence of secondary hypothyroidism for several weeks. If a patient with pituitary apoplexy does require thyroid hormone treatment, it should be started at least 24 hours after initiation of hydrocortisone replacement for concomitant adrenal insufficiency to avoid precipitating adrenal crisis."
+]
+},
+{
+"type":"p",
+"hlId":"be15f9",
+"children":[
+"Although the urine osmolality test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be helpful to determine the cause of hyponatremia, MRI to establish the diagnosis of pituitary apoplexy and the need for urgent surgery is a far greater priority. Likely causes of this patient's low sodium level include hypocortisolemia and the syndrome of inappropriate antidiuretic hormone secretion resulting from inappropriate release of vasopressin or lack of cortisol suppression. However, the diagnosis of syndrome of inappropriate antidiuretic hormone secretion first requires exclusion of adrenal insufficiency and hypothyroidism. In this patient with potential adrenal insufficiency, sodium levels should be assessed frequently."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_3_3",
+"objective":{
+"__html":"Diagnose pituitary apoplexy."
+},
+"references":[
+[
+"Barkhoudarian G, Kelly DF. Pituitary apoplexy. Neurosurg Clin N Am. 2019;30:457-463. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31471052",
+"target":"_blank"
+},
+"children":[
+"PMID: 31471052"
+]
+},
+" doi:10.1016/j.nec.2019.06.001"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":80,
+"C":7,
+"D":7,
+"E":0
+},
+"hlIds":[
+"2cac8a",
+"e19664",
+"084287",
+"500662",
+"ab9d96",
+"f8ff5e",
+"45f0d1",
+"0b0a26",
+"617912",
+"80b22f",
+"be15f9"
+]
+}

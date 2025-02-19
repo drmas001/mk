@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_en_q075",
+"number":75,
+"bookId":"en",
+"correctAnswer":"E",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"05d95f",
+"children":[
+"A 45-year-old man is evaluated in follow-up for ulcerative colitis. Prednisone was added to his regimen 1 month ago because of worsening symptoms. Today, the patient reports a significant improvement in symptoms. His medications are prednisone and mesalamine."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7f6044",
+"children":[
+"Which of the following is the most appropriate next step for managing this patient's risk for osteoporosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add alendronate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Add calcium supplement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Calculate Fracture Risk Assessment score"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Order dual-energy x-ray absorptiometry scan"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Taper prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"977389",
+"hvc":true,
+"children":[
+"Glucocorticoids are a major secondary cause of osteoporosis and patients undergoing long-term glucocorticoid therapy are at risk for osteoporotic fractures."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e67777",
+"hvc":true,
+"children":[
+"Because the effects of glucocorticoids on bone are transient and proportional to dose and duration of therapy, minimizing glucocorticoid use is the most important strategy to prevent fractures."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8965f5",
+"children":[
+"A prednisone taper (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be the most appropriate management for reducing this patient's risk for osteoporosis. Glucocorticoids are a major secondary cause of osteoporosis, and patients undergoing long-term glucocorticoid therapy are at risk for osteoporotic fractures. Because the effects of glucocorticoids on bone are transient and proportional to dose and duration of therapy, minimizing glucocorticoid use whenever possible is the most important strategy to prevent fractures."
+]
+},
+{
+"type":"p",
+"hlId":"56f6a6",
+"children":[
+"Oral bisphosphonates, such as alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), increase bone mineral density (BMD) and reduce the incidence of vertebral fractures in patients receiving glucocorticoids. Patients with age-related osteoporosis or osteoporosis caused by underlying disease (e.g., rheumatoid arthritis) may benefit from bisphosphonate therapy regardless of glucocorticoid use. However, premenopausal women and younger men receiving glucocorticoids should not be treated with bisphosphonates in the absence of high fracture risk. This patient has been on glucocorticoids for a short interval; he will be undergoing a dose taper and is not at high risk."
+]
+},
+{
+"type":"p",
+"hlId":"513df5",
+"children":[
+"Although supplementation with calcium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and vitamin D does affect BMD, the effects are modest, and the degree of fracture risk reduction is not established. Adequate dietary intake of calcium and vitamin D is prudent in all patients. A calcium supplement may be used for patients whose diet is insufficient, but it should not be recommended independent of dietary assessment and dietary intervention. Vitamin D supplementation may be appropriate in the context of osteoporosis care."
+]
+},
+{
+"type":"p",
+"hlId":"14665f",
+"children":[
+"In patients for whom glucocorticoids are used as a disease-specific therapy, the estimated duration of therapy guides the next steps in management of potential osteoporosis. Although the Fracture Risk Assessment (FRAX) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") score is easily calculated, the risk estimate is based on long-term glucocorticoid therapy at doses equivalent to prednisone 2.5 mg/d or higher for at least 6 months. This patient has been taking a short course of glucocorticoid therapy that will end soon, and estimating fracture risk using FRAX is not indicated at this time."
+]
+},
+{
+"type":"p",
+"hlId":"7174f8",
+"children":[
+"Dual-energy x-ray absorptiometry scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") improves the accuracy of FRAX estimates. The American College of Rheumatology recommends BMD testing within 6 months of starting long-term glucocorticoid therapy in adults 40 years and older and in adults younger than 40 years with risk factors for osteoporosis or a history of fragility fractures. In addition, in men younger than 50 years taking glucocorticoids, osteoporosis pharmacotherapy would not be recommended on the basis of BMD T-score alone. This patient does not meet criteria for BMD testing."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_1",
+"objective":{
+"__html":"Prevent glucocorticoid-induced osteoporosis."
+},
+"references":[
+[
+"Buckley L, Humphrey MB. Glucocorticoid-induced osteoporosis. N Engl J Med. 2018;379:2547-2556. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30586507",
+"target":"_blank"
+},
+"children":[
+"PMID: 30586507"
+]
+},
+" doi:10.1056/NEJMcp1800214"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":9,
+"C":13,
+"D":16,
+"E":57
+},
+"hlIds":[
+"05d95f",
+"7f6044",
+"977389",
+"e67777",
+"8965f5",
+"56f6a6",
+"513df5",
+"14665f",
+"7174f8"
+]
+}

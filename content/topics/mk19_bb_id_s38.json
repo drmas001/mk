@@ -1,0 +1,1320 @@
+{
+"id":"mk19_bb_id_s38",
+"subspecialtyId":"id",
+"title":"HIV Infection",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_id_s38",
+"title":{
+"__html":"HIV Infection"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"ae3faa",
+"children":[
+"HIV Infection"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_id_s38_1",
+"title":{
+"__html":"Prevention"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"c53b76",
+"children":[
+"Prevention"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"ee0775",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Preexposure prophylaxis"
+]
+},
+" may be initiated in adults at high risk with daily combination emtricitabine and either tenofovir disoproxil fumarate or tenofovir alafenamide."
+]
+},
+{
+"type":"p",
+"hlId":"a15ba2",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Postexposure prophylaxis"
+]
+},
+" should be started within 72 hours following HIV exposure with tenofovir, emtricitabine, and raltegravir or dolutegravir for 4 weeks. Testing for HIV should be done immediately and at 4 to 6 weeks, 12 weeks, and 4 to 6 months."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s38_2",
+"title":{
+"__html":"Screening"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"db7551",
+"children":[
+"Screening"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"d6c384",
+"children":[
+"Select universal HIV screening in all adults at least once and at least annually for those at high risk."
+]
+},
+{
+"type":"p",
+"hlId":"39019d",
+"children":[
+"Screen using the following protocol:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"bf8f74",
+"children":[
+"Start with a fourth-generation combination immunoassay that includes an ",
+{
+"type":"abbreviation",
+"title":"enzyme immunoassay",
+"children":[
+"EIA"
+]
+},
+" for HIV antibody (HIV-1 and HIV-2) and HIV p24 antigen."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"7d52c7",
+"children":[
+"If combination immunoassay is positive, obtain immunoassay to differentiate HIV-1 from HIV-2."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"533c4c",
+"children":[
+"HIV-1 or HIV-2 antibody detection confirms the diagnosis."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"baf788",
+"children":[
+"If differentiation immunoassay is inconclusive for either HIV-1 or HIV-2, obtain ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"nucleic acid amplification testing",
+"children":[
+"NAAT"
+]
+},
+"."
+]
+}
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"fb2cdc",
+"children":[
+"A positive NAAT in the setting of a negative antibody test indicates acute HIV infection."
+]
+},
+" "
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"45a1e6",
+"children":[
+"If a test is positive on the initial antigen/antibody combination immunoassay but negative on the antibody differentiation immunoassay and NAAT testing, the initial test result was a false positive."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s38_3",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"bfa4bf",
+"children":[
+"Diagnose primary HIV infection (initial acute HIV infection) by a febrile illness that occurs within several weeks of a potential HIV exposure. Additional symptoms may include fatigue, lymphadenopathy, pharyngitis, rash, and/or headache."
+]
+},
+{
+"type":"p",
+"hlId":"bfb8a1",
+"children":[
+"Certain diagnoses warrant HIV testing:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"357a83",
+"children":[
+"severe or treatment-refractory ",
+{
+"type":"abbreviation",
+"title":"herpes simplex virus",
+"children":[
+"HSV"
+]
+},
+" infection"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"99b1b6",
+"children":[
+"oral thrush or esophageal candidiasis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"b11d89",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis jirovecii"
+]
+},
+" pneumonitis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"8c66a3",
+"children":[
+"cryptococcal meningitis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"08566c",
+"children":[
+"disseminated mycobacterial infection"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"18a588",
+"children":[
+{
+"type":"abbreviation",
+"title":"cytomegalovirus",
+"children":[
+"CMV"
+]
+},
+" retinitis or ",
+{
+"type":"abbreviation",
+"title":"gastrointestinal",
+"children":[
+"GI"
+]
+},
+" disease"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"19c92b",
+"children":[
+"toxoplasmosis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"dd49ff",
+"children":[
+"severe seborrheic dermatitis, or new or severe psoriasis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"678b97",
+"children":[
+"recurrent herpes zoster infections"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s38_4",
+"title":{
+"__html":"Testing"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"fa6a5a",
+"children":[
+"Testing"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"80805d",
+"children":[
+"All positive rapid HIV tests must be confirmed with a fourth-generation combination immunoassay."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s38_5",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"2954c4",
+"children":[
+"Consider initiating treatment in any patients motivated to start lifelong medication, regardless of CD4 cell count. Perform resistance testing at baseline."
+]
+},
+{
+"type":"p",
+"hlId":"8b3c0e",
+"children":[
+"Select three drugs from two different classes, preferably combining two nucleoside reverse transcriptase inhibitors with an integrase strand transfer inhibitor. Select patients may be treated with dolutegravir plus lamivudine, but not as an initial regimen in those with a pretreatment HIV RNA level >500,000 copies/mL; do not use in those with chronic ",
+{
+"type":"abbreviation",
+"title":"hepatitis B virus",
+"children":[
+"HBV"
+]
+},
+" infection or in those who will initiate treatment before the results of genotype testing and hepatitis B testing are known."
+]
+},
+{
+"type":"p",
+"hlId":"fa7a3e",
+"children":[
+"Viral load should fall quickly and progressively and reach undetectable levels within a few months. Pregnant women should promptly initiate or continue receiving HIV treatment without interruption."
+]
+},
+{
+"type":"p",
+"hlId":"63939a",
+"children":[
+{
+"type":"abbreviation",
+"title":"immune reconstitution inflammatory syndrome",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"IRIS"
+]
+}
+]
+},
+" is an intense inflammatory disorder associated with paradoxical worsening of preexisting infectious processes following the initiation of ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"antiretroviral therapy",
+"children":[
+"ART"
+]
+},
+"."
+]
+},
+" The most important therapy for IRIS is treatment of the underlying infection. Glucocorticoids and ",
+{
+"type":"abbreviation",
+"title":"nonsteroidal anti-inflammatory drugs",
+"children":[
+"NSAIDs"
+]
+},
+" are sometimes added to decrease the inflammatory response."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_id_s38_6",
+"title":{
+"__html":"Test Yourself"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7866cc",
+"children":[
+"Test Yourself"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f35724",
+"class":"test",
+"children":[
+"A 29-year-old man with recently diagnosed pulmonary ",
+{
+"type":"abbreviation",
+"title":"tuberculosis",
+"children":[
+"TB"
+]
+},
+" is found to have late-stage HIV infection. Three-drug ART and four-drug TB therapy are initiated, and he quickly improves. Four weeks later, he develops recurrent fever and neck pain and swelling. He has bilateral tender cervical lymphadenopathy."
+]
+},
+{
+"type":"p",
+"hlId":"0305a9",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+"For diagnosis, choose IRIS. For treatment, choose to continue ART and administer antituberculous drugs."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"3e38fb",
+"children":[
+"Do not stop ART in the setting of IRIS."
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_id_s38_inline_t1"
+],
+"forceOpen":true
+},
+{
+"type":"p",
+"hlId":"60d170",
+"children":[
+"Discontinue ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. jirovecii"
+]
+},
+", toxoplasmosis, and ",
+{
+"type":"abbreviation",
+"title":"Mycobacterium avium complex",
+"children":[
+"MAC"
+]
+},
+" prophylaxis when ART produces CD4 cell counts >200/μL and the viral load is undetectable for at least 3 months. Influenza, ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"diphtheria and reduced tetanus toxoids and acellular pertussis vaccine",
+"children":[
+"Tdap"
+]
+},
+","
+]
+},
+" hepatitis A, and ",
+{
+"type":"abbreviation",
+"title":"human papillomavirus",
+"children":[
+"HPV"
+]
+},
+" vaccinations are indicated as for the general population."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"6fa84c",
+"children":[
+"Live vaccines are contraindicated in immunocompromised patients, but the ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"measles, mumps, rubella",
+"children":[
+"MMR"
+]
+},
+","
+]
+},
+" varicella, and recombinant zoster vaccines can be given to patients with HIV with CD4 cell counts >200/μL."
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_id_s38_inline_t1":{
+"id":"mk19_bb_id_s38_inline_t1",
+"number":1,
+"bookId":"id",
+"title":{
+"__html":"Study Table: Prophylaxis for Patients With HIV Infection"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"7f251f",
+"children":[
+"Study Table: Prophylaxis for Patients With HIV Infection"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d270f5",
+"class":"col hd l",
+"children":[
+"Preventable Condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e97ae",
+"class":"col hd l",
+"children":[
+"When"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"744605",
+"class":"col hd l",
+"children":[
+"Agent"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"21d4a5",
+"class":"cell txt l",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. jirovecii"
+]
+},
+" pneumonitis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3f050b",
+"class":"cell txt l",
+"children":[
+"CD4 cell count <200/μL"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4385e4",
+"class":"cell txt l",
+"children":[
+"Trimethoprim-sulfamethoxazole"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e82db4",
+"class":"cell txt l",
+"children":[
+"Toxoplasmosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d1a2fc",
+"class":"cell txt l",
+"children":[
+"CD4 cell count <100/μL and positive IgG for toxoplasmosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4385e4",
+"class":"cell txt l",
+"children":[
+"Trimethoprim-sulfamethoxazole"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8783fa",
+"class":"cell txt l",
+"children":[
+"MAC infection"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5e50fa",
+"class":"cell txt l",
+"children":[
+"CD4 cell count <50/μL"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8532a9",
+"class":"cell txt l",
+"children":[
+"Azithromycin or clarithromycin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9d14f9",
+"class":"cell txt l",
+"children":[
+"Latent TB"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5c2408",
+"class":"cell txt l",
+"children":[
+"TST ≥5 mm or positive ",
+{
+"type":"abbreviation",
+"title":"interferon-γ release assay",
+"children":[
+"IGRA"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9b7058",
+"class":"cell txt l",
+"children":[
+"3 months of isoniazid plus rifapentine given once weekly"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"4c8022",
+"class":"cell txt l",
+"children":[
+"3 months of isoniazid plus rifampin given daily"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5dc103",
+"class":"cell txt l",
+"children":[
+"Influenza"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f6d4d7",
+"class":"cell txt l",
+"children":[
+"Annual vaccination for all HIV-infected patients"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"17c107",
+"class":"cell txt l",
+"children":[
+"Inactivated influenza vaccine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9f605b",
+"class":"cell txt l",
+"children":[
+"Pneumococcal pneumonia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6ac50e",
+"class":"cell txt l",
+"children":[
+"Upon diagnosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0a6118",
+"class":"cell txt l",
+"children":[
+"PCV20 alone or PCV15 followed by ",
+{
+"type":"abbreviation",
+"title":"23-valent pneumococcal polysaccharide vaccine",
+"children":[
+"PPSV23"
+]
+},
+" ≥8 weeks later"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"be780f",
+"class":"cell txt l",
+"children":[
+"See General Internal Medicine, Screening and Prevention"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6836fb",
+"class":"cell txt l",
+"children":[
+"Hepatitis B"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1b242e",
+"class":"cell txt l",
+"children":[
+"Completion of vaccine series if not already immune or infected"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"66b5cd",
+"class":"cell txt l",
+"children":[
+"Hepatitis B vaccine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"880110",
+"class":"cell txt l",
+"children":[
+"Meningococcal meningitis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5cc369",
+"class":"cell txt l",
+"children":[
+"At diagnosis, then every 5 years"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f666bd",
+"class":"cell txt l",
+"children":[
+"Quadrivalent meningococcal vaccine"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"PCV15 = 15-valent pneumococcal conjugate vaccine; PCV20 = 20-valent pneumococcal conjugate vaccine."
+]
+]
+}
+}
+}

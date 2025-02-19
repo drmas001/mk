@@ -1,0 +1,200 @@
+{
+"id":"vdx4_hm_q003",
+"number":3,
+"bookId":"vdx_hm",
+"correctAnswer":"D",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3e71b4",
+"children":[
+"A 60-year-old woman is evaluated after a leukocyte count of 55,000/µL (55 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) was found incidentally on a routine complete blood count."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f003a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f003a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute lymphocytic leukemia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Acute myeloid leukemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Chronic lymphocytic leukemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Chronic myeloid leukemia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c8ff7e",
+"children":[
+"The most likely diagnosis is chronic myeloid leukemia (CML). In CML, peripheral blood neutrophilia along with immature myeloid forms, such as myelocytes and metamyelocytes, are seen. This smear ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f003b",
+"wrapId":"2",
+"children":[
+"shows "
+]
+},
+"myelocytes (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrows"
+]
+},
+"), band forms (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"white arrows"
+]
+},
+"), and mature polymorphonuclear neutrophils (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"green arrows"
+]
+},
+"). CML is a clonal hematopoietic stem cell disorder characterized by translocation of the long arm of chromosomes 9 and 22 [t(9;22), Philadelphia chromosome] leading to a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BCR-ABL"
+]
+},
+" fusion gene. This gene codes for an abnormal activated tyrosine kinase that promotes dysregulated cell proliferation. At diagnosis, patients with CML can be asymptomatic, with elevated neutrophil counts found on routine laboratory studies; or, they can have symptoms such as fatigue, weight loss, abdominal fullness (splenomegaly), and bleeding."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_hm_mcq_f003b"
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_3_1",
+"objective":{
+"__html":"Diagnose chronic myeloid leukemia."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f003a":{
+"id":"vdx4_hm_mcq_f003a",
+"number":3,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"ae6f4b75a537534cfe69c8b77632ebb6",
+"height":675,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_hm_mcq_f003b":{
+"id":"vdx4_hm_mcq_f003b",
+"number":3,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"4cf77028b3219926e0a7d6ee1606ae7c",
+"height":675,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"3e71b4",
+"f3f1a8",
+"413696",
+"c8ff7e"
+]
+}

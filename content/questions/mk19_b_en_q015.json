@@ -1,0 +1,238 @@
+{
+"id":"mk19_b_en_q015",
+"number":15,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"48873c",
+"children":[
+"A 58-year-old woman is evaluated for further management of type 2 diabetes mellitus after hospital discharge. She was hospitalized with a myocardial infarction and subsequent coronary stenting, and her hospital course was complicated by heart failure. Her ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level was 8.2% while hospitalized. Hyperglycemia was treated with insulin. Her medical history is significant for hypertension, dyslipidemia, obesity, and idiopathic pancreatitis. Medications are metformin, lisinopril, carvedilol, atorvastatin, furosemide, aspirin, and clopidogrel."
+]
+},
+{
+"type":"p",
+"hlId":"a8f05a",
+"children":[
+"On physical examination, vital signs are normal. BMI is 29."
+]
+},
+{
+"type":"p",
+"hlId":"0edc60",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 52 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level of 202 mg/dL (11.2 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e08534",
+"children":[
+"Which of the following is the best additional treatment for diabetes mellitus?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Empagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glipizide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liraglutide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pioglitazone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a167c6",
+"children":[
+"The sodium-glucose cotransporter 2 inhibitors and glucagon-like receptor agonists have shown both cardiovascular and renal protective benefits and are excellent options for patients with diabetes mellitus who are at risk for or have established atherosclerotic cardiovascular disease or established diabetic kidney disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5377b3",
+"children":[
+"In patients with type 2 diabetes mellitus and established heart failure, a sodium-glucose cotransporter 2 inhibitor may be considered to reduce risk for heart failure hospitalization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"09fd82",
+"children":[
+"This patient would be best treated with empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This sodium-glucose cotransporter 2 (SGLT2) inhibitor blocks renal glucose reabsorption and promotes the excretion of glucose and sodium via glycosuria, thus lowering blood glucose levels. The FDA approved empagliflozin for reduction of cardiovascular death in adults with type 2 diabetes mellitus and atherosclerotic cardiovascular disease. Also, the American Diabetes Association suggests that in patients with type 2 diabetes and established heart failure, an SGLT2 inhibitor may be considered to reduce the risk for heart failure-related hospitalization. Because empagliflozin is renally cleared, considerations for renal dose adjustment are required. The marked benefit in cardiac and renal protection of this drug class must be balanced against the risks of euglycemic diabetic ketoacidosis, increased urinary tract infections, genital fungal infections, and increased rate of lower limb infection, ulceration, and amputations."
+]
+},
+{
+"type":"p",
+"hlId":"ba0481",
+"children":[
+"Glipizide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a sulfonylurea. This drug class stimulates β-cell insulin secretion from the pancreas. Although the sulfonylureas initially are effective and inexpensive, they lose their efficacy as a result of gradual β-cell loss. They also cause weight gain, potentially contributing to further insulin resistance."
+]
+},
+{
+"type":"p",
+"hlId":"045292",
+"children":[
+"Liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a glucagon-like peptide 1 receptor agonist (GLP-1 RA) that acts through several mechanisms, including increased insulin secretion in response to hyperglycemia, reduction of gastric emptying, and reduction of glucagon secretion. Similar to SGLT2 inhibitors, this drug class has also demonstrated significant risk reductions in atherosclerotic cardiovascular disease and diabetic kidney disease. However, based on postmarketing reports of acute pancreatitis in association with GLP-1 RAs, they are not recommended for patients with a history of pancreatitis. Liraglutide has not been shown to reduce the risk for heart failure-related hospitalization."
+]
+},
+{
+"type":"p",
+"hlId":"89cd53",
+"children":[
+"Pioglitazone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is part of the thiazolidinedione class and is an insulin sensitizer. Pioglitazone may reduce cardiovascular disease and triglyceride levels; however, it may cause weight gain because of volume retention and an increase in fat mass. In addition, these agents are contraindicated in heart failure, making it a poor choice in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_5_2",
+"objective":{
+"__html":"Treat type 2 diabetes mellitus in a patient with heart failure and chronic kidney disease."
+},
+"references":[
+[
+"American Diabetes Association. 9. Pharmacologic approaches to glycemic treatment: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S111-S124. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298420",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298420"
+]
+},
+" doi:10.2337/dc21-S009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":84,
+"B":3,
+"C":12,
+"D":1,
+"E":0
+},
+"hlIds":[
+"48873c",
+"a8f05a",
+"0edc60",
+"e08534",
+"a167c6",
+"5377b3",
+"09fd82",
+"ba0481",
+"045292",
+"89cd53"
+]
+}

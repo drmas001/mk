@@ -1,0 +1,152 @@
+{
+"id":"mk19_a_nr_q055",
+"number":55,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6bb8bc",
+"children":[
+"A 29-year-old man is hospitalized for suicidal ideation. He was recently diagnosed with bipolar disorder without psychotic features. He has a history of medication-resistant generalized tonic-clonic seizures. He has no other medical problems. His antiepileptic drugs are valproic acid, levetiracetam, and lamotrigine. In addition, he is taking quetiapine. The patient has no other medical problems."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8cce26",
+"children":[
+"Which of the following drugs should be discontinued in the acute setting for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lamotrigine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Levetiracetam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Quetiapine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Valproic acid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3088d0",
+"children":[
+"Levetiracetam has a higher incidence of causing or worsening depression, anxiety, and suicidal ideation than other seizure medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7670c5",
+"children":[
+"Levetiracetam should be discontinued for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Suicide in patients with epilepsy is estimated to be three times higher than in patients without epilepsy. This risk remains elevated in patients with or without known psychiatric disease, although psychiatric conditions are underdiagnosed in patients with epilepsy. Although antiepileptic drugs (AEDs) have been associated with increased risk of suicidality, the increased risk cannot be explained by medication use alone. Other identified risk factors for suicide among patients with epilepsy include male gender and high seizure frequency. Many antiepileptic drugs have mood-altering properties. Changes in therapy or dosages may result in unintended behavioral or psychiatric consequences. Examples include the discontinuation of AEDs with mood-stabilizing effects (carbamazepine, lamotrigine, valproic acid) or introduction of AEDs with adverse psychiatric manifestations (topiramate, gabapentin, levetiracetam). All AEDs carry a warning about worsening depression and suicidality, and all patients must be screened and monitored for these symptoms. For such screening, the Patient Health Questionnaire-2 is effective and easy to use. If a patient provides a positive response to either of the two questions (“Over the past 2 weeks, have you felt down, depressed, or hopeless?” and “Over the past 2 weeks, have you felt little interest or pleasure in doing things?”), further investigation for depression is warranted. Although all seizure medications carry a warning about suicidal ideation, it is important to identify the agents with the highest risk. Levetiracetam carries a higher incidence of causing or worsening depression, anxiety, and suicidal ideation than other seizure medications. A recent retrospective review of AED use and side effects for 4085 adult patients started on a new AED regimen found that psychiatric and behavioral side effects occur significantly more frequently in patients taking levetiracetam and zonisamide than any other AED. On the other hand, carbamazepine, clobazam, gabapentin, lamotrigine, oxcarbazepine, phenytoin, and valproic acid were significantly associated with a decreased risk of psychiatric and behavioral side effects. Therefore, levetiracetam is the drug that should be discontinued in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"e5ba9f",
+"children":[
+"Lamotrigine and valproic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A and D"
+]
+},
+") are mood stabilizers. Because this patient has bipolar disorder, discontinuation of these agents is not advised."
+]
+},
+{
+"type":"p",
+"hlId":"d9e61e",
+"children":[
+"Quetiapine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would have a positive impact on behavioral and psychiatric symptoms and thus should not be discontinued in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_4_1_1",
+"objective":{
+"__html":"Evaluate psychiatric side effects of antiepileptic drugs."
+},
+"references":[
+[
+"Chen B, Choi H, Hirsch LJ, et al. Psychiatric and behavioral side effects of antiepileptic drugs in adults with epilepsy. Epilepsy Behav. 2017;76:24-31. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28931473",
+"target":"_blank"
+},
+"children":[
+"PMID: 28931473"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":23,
+"C":50,
+"D":11,
+"E":0
+},
+"hlIds":[
+"6bb8bc",
+"8cce26",
+"3088d0",
+"7670c5",
+"e5ba9f",
+"d9e61e"
+]
+}

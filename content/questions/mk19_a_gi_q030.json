@@ -1,0 +1,181 @@
+{
+"id":"mk19_a_gi_q030",
+"number":30,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"253a2c",
+"children":[
+"A 62-year-old man with compensated cirrhosis is evaluated at a follow-up visit. Six months ago, he was diagnosed with hepatitis C virus infection and treated with direct-acting antiviral agents. He experienced sustained viral response. Current liver ultrasound shows a small nodular liver compatible with cirrhosis and no masses."
+]
+},
+{
+"type":"p",
+"hlId":"f78abf",
+"children":[
+"On physical examination, vital signs and other findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"bdec51",
+"children":[
+"Which of the following is the most appropriate biannual surveillance modality?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Contrast-enhanced CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ultrasonography of liver"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No surveillance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"afd9cc",
+"hvc":true,
+"children":[
+"Patients with cirrhosis who have undergone virologic cure for hepatitis C virus infection should undergo surveillance for hepatocellular carcinoma every 6 months with ultrasonography."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d8b573",
+"hvc":true,
+"children":[
+"No information indicates that the addition of α-fetoprotein (AFP) to ultrasonography screening for hepatocellular carcinoma leads to improved survival; therefore, surveillance using ultrasonography may be performed with or without AFP measurement every 6 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"231369",
+"children":[
+"The most appropriate surveillance modality for hepatocellular carcinoma (HCC) is ultrasonography of the liver (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") every 6 months. Adults with cirrhosis are at the highest risk for HCC and should undergo surveillance regardless of the cause of cirrhosis. In most patients with hepatitis C virus (HCV) infection, cure rates seen with direct-acting antiviral agents exceed 90%. Sustained virologic response is defined as a negative HCV RNA result 12 weeks after therapy and defines virologic cure. Virologic cure is associated with reduced risk for progression to cirrhosis, cirrhosis complications, hepatocellular carcinoma, and liver-related mortality. The risk for HCC in patients with HCV-related cirrhosis who achieve virologic cure after antiviral treatment is lowered, but not eliminated; therefore, patients with cirrhosis and treated HCV infection should undergo surveillance for HCC every 6 months. The addition of α-fetoprotein (AFP) measurement to ultrasonography increases the sensitivity of HCC detection but also increases the false-positive rate. No available information indicates that the addition of AFP measurement to biannual ultrasonography leads to improved survival. Therefore, the American Association for the Study of Liver Disease (AASLD) recommends surveillance using ultrasonography with or without AFP every 6 months."
+]
+},
+{
+"type":"p",
+"hlId":"276ace",
+"children":[
+"The AASLD does not recommend MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") as the primary modality for the surveillance of HCC in patients with cirrhosis. Although these modalities are more sensitive than ultrasonography, there is no evidence that this translates to improved survival. However, the AASLD notes that in select patients with a high likelihood of having an inadequate ultrasound or in whom ultrasonography is attempted but inadequate, MRI or CT may be used."
+]
+},
+{
+"type":"p",
+"hlId":"e879e5",
+"children":[
+"No surveillance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate because patients with cirrhosis, such as this patient, are at increased risk for HCC. The AASLD recommends surveillance of adults with cirrhosis because it improves overall survival."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_12_7",
+"objective":{
+"__html":"Screen for hepatocellular carcinoma in a patient with cirrhosis."
+},
+"references":[
+[
+"Marrero JA, Kulik LM, Sirlin CB, et al. Diagnosis, staging, and management of hepatocellular carcinoma: 2018 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2018;68:723-750. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29624699",
+"target":"_blank"
+},
+"children":[
+"PMID: 29624699"
+]
+},
+" doi:10.1002/hep.29913"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":4,
+"C":82,
+"D":9,
+"E":0
+},
+"hlIds":[
+"253a2c",
+"f78abf",
+"bdec51",
+"afd9cc",
+"d8b573",
+"231369",
+"276ace",
+"e879e5"
+]
+}

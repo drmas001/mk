@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_gm_q025",
+"number":25,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f4765d",
+"children":[
+"A 28-year-old woman is evaluated during a follow-up visit. Six weeks ago, she was diagnosed with her first episode of major depressive disorder. Her score on the PHQ-9 was 14. Low-dose fluoxetine was initiated. At a follow-up visit 2 weeks later, she was tolerating the medication with no significant side effects, and her PHQ-9 score was 10; fluoxetine dosage was increased. Two weeks after the dosage increase, her PHQ-9 score was 7. The dosage of fluoxetine was again increased, and today her PHQ-9 score is 4. She has no other medical or psychiatric problems and takes no other medications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add cognitive behavioral therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continue fluoxetine at half the current dosage for 6 months"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Continue fluoxetine at the current dosage for 6 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop fluoxetine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f0b173",
+"children":[
+"Continuation therapy after resolution of a major depressive episode is recommended for 4 to 9 months in patients who responded to acute therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"541ee0",
+"children":[
+"The most appropriate management is to continue fluoxetine for an additional 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). After starting pharmacologic therapy for depression with a low dosage of the selected medication, the medication should be gradually titrated to achieve a clinical response while monitoring for adverse effects. Therapeutic response can be measured objectively with the PHQ-9 by comparing scores before and during treatment. A decrease in the score of at least 50% indicates a response to treatment; a decrease to a score of less than 5 indicates remission. If a partial response occurs, as it did in this case, increasing the dosage of the chosen medication or adding psychotherapy, such as cognitive behavioral therapy (CBT), may be appropriate. Approximately half of patients who respond to appropriate initial therapy develop recurrent depression after 1 year without continued treatment. Continuation therapy (treatment after resolution of a major depressive episode) for 4 to 9 months is recommended in patients who responded to acute therapy. The antidepressant dosage that was effective in acute treatment should be maintained in the continuation phase, and if psychotherapy was used, it should be continued."
+]
+},
+{
+"type":"p",
+"hlId":"79751a",
+"children":[
+"CBT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an appropriate therapeutic choice for patients with mild to moderate depression. In patients who have a partial response to pharmacologic therapy, it is not unreasonable to add CBT in an attempt to achieve remission. If remission was achieved using both pharmacologic therapy and CBT, both should be continued during the continuation phase. However, there is no compelling reason to add CBT to pharmacologic therapy after remission has been achieved."
+]
+},
+{
+"type":"p",
+"hlId":"417897",
+"children":[
+"This patient has achieved remission on a stable dosage of fluoxetine, and that dosage should be continued for an additional 4 to 9 months. Reducing the dosage by half (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may result in relapse of depression and is not appropriate in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"23ce31",
+"children":[
+"Fluoxetine should not be discontinued (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") because depression may relapse. Furthermore, the sudden discontinuation of antidepressant medications can cause discontinuation syndrome. Discontinuation syndrome is most frequently seen in patients who abruptly stop selective serotonin reuptake inhibitors. The most common discontinuation symptoms include dizziness, fatigue, headache, and nausea. Other symptoms include agitation, anxiety, dysphoria, and irritability. Onset of the syndrome is within 1 to 4 days of abruptly stopping antidepressant therapy or after a rapid taper. Although fluoxetine has the lowest incidence of discontinuation syndrome, if therapy must be discontinued, it should be tapered rather than abruptly stopped."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_1_1_2",
+"objective":{
+"__html":"Treat depression with maintenance pharmacologic therapy."
+},
+"references":[
+[
+"Park LT, Zarate CA Jr. Depression in the primary care setting. N Engl J Med. 2019;380:559-68. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30726688",
+"target":"_blank"
+},
+"children":[
+"PMID: 30726688"
+]
+},
+" doi:10.1056/NEJMcp1712493"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":2,
+"C":73,
+"D":1,
+"E":0
+},
+"hlIds":[
+"f4765d",
+"cb2b54",
+"f0b173",
+"541ee0",
+"79751a",
+"417897",
+"23ce31"
+]
+}

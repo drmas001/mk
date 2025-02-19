@@ -1,0 +1,249 @@
+{
+"id":"mk19_qq_q050",
+"number":50,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f6baa6",
+"children":[
+"A 22-year-old woman on a university cross-country team is evaluated for recent onset of cough, chest tightness, and shortness of breath occurring shortly after training and continuing for 30 minutes. Symptoms are worse in cold weather."
+]
+},
+{
+"type":"p",
+"hlId":"bf729c",
+"children":[
+"Physical examination and office spirometry are normal. After exercise, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" decreases by 15% from baseline."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4a1a67",
+"children":[
+"Which of the following inhaled agents is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Beclomethasone, before exercise"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-dose budesonide-formoterol, before exercise"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Salmeterol, daily"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tiotropium, daily"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"63cf61",
+"children":[
+"Exercise-induced bronchoconstriction (EIB) is an acute, measurable airway obstruction that occurs in response to exercise; a decrease in FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" of greater than 10% within 30 minutes of exercise is diagnostic of EIB."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3ae306",
+"children":[
+"Initial pharmacologic therapy for exercise-induced bronchoconstriction can include administration of either an inhaled short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist, such as albuterol, or low-dose budesonide-formoterol, 15 minutes before exercise."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d4d3d9",
+"children":[
+"The most appropriate treatment is inhaled low-dose budesonide-formoterol before exercise (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has features of exercise-induced bronchoconstriction (EIB), which is acute, measurable airway obstruction that occurs in response to exercise. EIB is common in patients with asthma, and some patients only experience symptoms after exercise. Precipitating symptoms include exercise in cold, dry air, such as during winter; exposure to high levels of trichloramines in swimming pools; and inhalation of airborne particulates and ozone. A decrease in FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" of greater than 10% within 30 minutes of exercise is diagnostic of EIB. Initial pharmacologic therapy can include administration of either an inhaled short-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist (SABA), such as albuterol, or low-dose budesonide-formoterol, 15 minutes before exercise. Nonpharmacologic approaches to prevent EIB include gradual warm-up before intense exercise and using a mask over the nose and mouth to warm and humidify air during cold weather."
+]
+},
+{
+"type":"p",
+"hlId":"42d6fc",
+"children":[
+"An inhaled glucocorticoid, such as beclomethasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), can be added daily whenever SABA therapy is used at least daily or when symptoms are not well controlled. An inhaled glucocorticoid alone immediately before exercise is not effective in preventing EIB."
+]
+},
+{
+"type":"p",
+"hlId":"dadb93",
+"children":[
+"Inhaled long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonists (LABAs), such as salmeterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), which provide sustained airway dilation with just once- or twice-daily dosing, are an important tool for asthma treatment when added to inhaled glucocorticoid therapy, improving control and decreasing the risk for asthma exacerbation. However, single-agent use of LABAs is not recommended because of the increased risk for asthma-related death when they are used without a simultaneous controller medication, such as an inhaled glucocorticoid."
+]
+},
+{
+"type":"p",
+"hlId":"9c5777",
+"children":[
+"Long-acting muscarinic antagonists (LAMAs), such as tiotropium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), provide sustained airway dilation. When added to therapy in patients with asthma that is not controlled with inhaled glucocorticoid/LABA combination therapy, tiotropium has been shown to improve lung function and reduce exacerbations. For patients with significant adverse effects from LABAs, a LAMA can reasonably be substituted. However, there is no substantial evidence that LAMAs instead of LABAs should be the first choice for long-acting airway dilation in patients with asthma. There is no evidence that a LAMA, as a single therapeutic agent, is effective in preventing EIB."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_5_3",
+"objective":{
+"__html":"Treat exercise-induced bronchoconstriction."
+},
+"references":[
+[
+"Cloutier MM, Dixon AE, Krishnan JA, et al. Managing asthma in adolescents and adults: 2020 asthma guideline update from the national asthma education and prevention program. JAMA. 2020;324:2301-2317. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33270095",
+"target":"_blank"
+},
+"children":[
+"PMID: 33270095"
+]
+},
+" doi:10.1001/jama.2020.21974"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"f6baa6",
+"bf729c",
+"4a1a67",
+"63cf61",
+"3ae306",
+"d4d3d9",
+"42d6fc",
+"dadb93",
+"9c5777"
+]
+}

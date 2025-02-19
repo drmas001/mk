@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q017",
+"number":17,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"88b3b1",
+"children":[
+"A 73-year-old woman is evaluated for progressive left arm weakness. One year earlier, she noted difficulty with fine movements of her left hand. Within a few months, her entire left upper extremity became stiff and slow, such that she now cannot use this limb. Her left leg has also become rigid. She notes brief jerky movements of her left arm. She takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"c096a7",
+"children":[
+"On physical examination, vital signs are normal. Language and memory are intact, but she speaks slowly and has difficulty with multistep commands. Results of cranial nerve testing, including extraocular movements, are normal. Muscle strength is preserved throughout. Her left upper and lower extremities are rigid and slow. Her left hand is forced into a bent position and cannot be opened by the examiner. She needs support during ambulation because of stiffness of her left leg. Her sensory perception is preserved, but she cannot identify an object placed into her left hand when her eyes are closed. Cerebellar examination findings, plantar response, and deep tendon reflexes are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amyotrophic lateral sclerosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Corticobasal degeneration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Multiple system atrophy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Parkinson disease"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Progressive supranuclear palsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cb7cea",
+"children":[
+"Corticobasal degeneration is a Parkinson-plus syndrome characterized by severely asymmetric parkinsonism, fixed dystonia, myoclonus, cortical sensory deficits, apraxia, and cognitive deficits."
+]
+},
+{
+"type":"keypoint",
+"hlId":"82afdb",
+"children":[
+"Parkinson-plus syndromes share some features of Parkinson disease but are distinguished by faster progression, additional atypical features, and lack of response to levodopa."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"02c474",
+"children":[
+"The most likely diagnosis is corticobasal degeneration (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), one of the Parkinson-plus syndromes. Corticobasal degeneration is characterized by severely asymmetric parkinsonism, fixed dystonia, myoclonus, cortical sensory deficits, apraxia, and cognitive deficits. Parkinson-plus syndromes share some features of Parkinson disease but are distinguished by faster progression than in Parkinson disease, additional features that are atypical for Parkinson disease, and lack of typical response to levodopa. This patient's symptoms and physical examination findings are consistent with corticobasal degeneration. Both symmetry and extreme asymmetry of clinical deficits are among the red flags for atypical Parkinson-plus syndromes."
+]
+},
+{
+"type":"p",
+"hlId":"5ca9e9",
+"children":[
+"Amyotrophic lateral sclerosis (ALS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can present with weakness, atrophy, spasticity, and hyperreflexia. Because it also causes asymmetry and rapid progression, ALS is sometimes considered in the differential diagnosis of corticobasal degeneration. However, ALS is characterized by muscle weakness and other upper motor neuron signs (hyperreflexia, spasticity, and extensor plantar response) that are absent in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"fb6173",
+"children":[
+"Multiple system atrophy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is another Parkinson-plus syndrome that presents with symmetric parkinsonism, severe dysautonomia (orthostatic hypotension and urinary incontinence), cerebellar ataxia, and early falls. These features are not present in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"343c53",
+"children":[
+"This patient's rapid clinical course, severely asymmetric parkinsonism, fixed dystonia, myoclonus, and early cognitive deficits are all inconsistent with idiopathic Parkinson disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"b69a61",
+"children":[
+"Progressive supranuclear palsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a Parkinson-plus syndrome characterized by symmetric parkinsonism, postural instability with early falls, and vertical oculomotor deficit. This patient's normal eye movements and severe asymmetry are inconsistent with progressive supranuclear palsy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_2_2",
+"objective":{
+"__html":"Diagnose corticobasal degeneration."
+},
+"references":[
+[
+"McFarland NR. Diagnostic approach to atypical parkinsonian syndromes. Continuum (Minneap Minn). 2016;22:1117-42. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27495201",
+"target":"_blank"
+},
+"children":[
+"PMID: 27495201"
+]
+},
+" doi:10.1212/CON.0000000000000348"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":44,
+"C":6,
+"D":13,
+"E":16
+},
+"hlIds":[
+"88b3b1",
+"c096a7",
+"413696",
+"cb7cea",
+"82afdb",
+"02c474",
+"5ca9e9",
+"fb6173",
+"343c53",
+"b69a61"
+]
+}

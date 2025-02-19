@@ -1,0 +1,239 @@
+{
+"id":"mk19_b_hm_q050",
+"number":50,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cfbe05",
+"children":[
+"A 22-year-old man is admitted to the ICU for hypotension, tachycardia, hypoxia, and respiratory failure requiring intubation. He developed a fever, tachycardia, and malaise 12 hours ago. He has B-cell acute lymphoblastic leukemia that has relapsed multiple times; he received therapy with chimeric antigen receptor (CAR) T cells 4 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"612b9e",
+"children":[
+"On physical examination, temperature is 40.0 °C (104.0 °F), blood pressure is 80/50 mm Hg, pulse rate is 140/min, and respiration rate is 36/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 80% breathing high-flow oxygen. No jugular venous distension is noted. Diffuse crackles are heard on pulmonary examination."
+]
+},
+{
+"type":"p",
+"hlId":"4a3edb",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 2400/μL (2.4 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (reduced from 12,000/μL [12 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L]) with 20% lymphoblasts (reduced from 80%) following CAR-T cell therapy. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" is 2 mg/dL (176.8 μmol/L); serum electrolyte and urate levels are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cytokine release syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Progressive acute lymphoblastic leukemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tumor lysis syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Venous thromboembolism"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a8a7c2",
+"children":[
+"Chimeric antigen receptor T-cell therapies are highly effective; however, patients with a high disease burden may develop dangerous cytokine release syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"27b037",
+"children":[
+"The clinical presentation of cytokine release syndrome can range from mild, with fever, malaise, and myalgia, to a severe inflammatory syndrome characterized by vascular leak, hypotension, pulmonary edema, cardiac dysfunction, kidney dysfunction, liver failure, coagulopathy, multiorgan system failure, and even death."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f6ec12",
+"children":[
+"The most likely diagnosis in this patient is cytokine release syndrome (CRS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). He has relapsed/refractory acute lymphoblastic leukemia (ALL) and recently received treatment with chimeric antigen receptor (CAR) T cells targeting the CD19 antigen on the leukemic cells. CAR-T cells can expand in the body, driven by the presence of cancer cells. The treatment is quite effective, and patients with high tumor burden, in whom the genetically engineered T cells effectively expand, may experience a severe inflammatory reaction triggered by the release of inflammatory cytokines, such as interleukin-6, and by numerous activated lymphocytes and other immune cells. The clinical presentation of CRS can range from mild, with fever, malaise, and myalgia, to a severe inflammatory syndrome. Severe CRS requiring ICU admission is often characterized by vascular leak, hypotension, pulmonary edema, cardiac dysfunction, kidney dysfunction, liver failure, coagulopathy, multiorgan system failure, and even death. Treatment protocols include early supportive care with antipyretics for lower grades of CRS and high doses of glucocorticoids with cytokine-blocking monoclonal antibodies (e.g., tocilizumab) for higher grades of CRS. The patient should also be evaluated for infection-related sepsis."
+]
+},
+{
+"type":"p",
+"hlId":"d5eeaa",
+"children":[
+"Progressive leukemia is unlikely (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The decrease in the leukocyte count and circulating lymphoblasts in the peripheral blood suggests an initial response to the (CAR) T-cell therapy rather than relapsing leukemia."
+]
+},
+{
+"type":"p",
+"hlId":"9a21ad",
+"children":[
+"This patient could develop tumor lysis syndrome, but his elevated serum creatinine level is more likely caused by CRS and hypotension considering his normal electrolyte and serum urate levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"3d2ae6",
+"children":[
+"This patient's high fever, declining leukocyte count following CAR-T therapy 4 days ago, and elevated serum creatinine level argue more strongly for a diagnosis of CRS than venous thromboembolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_7",
+"objective":{
+"__html":"Diagnose cytokine release syndrome in a patient undergoing chimeric antigen receptor T-cell therapy."
+},
+"references":[
+[
+"Brudno JN, Kochenderfer JN. Toxicities of chimeric antigen receptor T cells: recognition and management. Blood. 2016;127:3321-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27207799",
+"target":"_blank"
+},
+"children":[
+"PMID: 27207799"
+]
+},
+" doi:10.1182/blood-2016-04-703751"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":85,
+"B":6,
+"C":9,
+"D":1,
+"E":0
+},
+"hlIds":[
+"cfbe05",
+"612b9e",
+"4a3edb",
+"413696",
+"a8a7c2",
+"27b037",
+"f6ec12",
+"d5eeaa",
+"9a21ad",
+"3d2ae6"
+]
+}

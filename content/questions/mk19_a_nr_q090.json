@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q090",
+"number":90,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"45f0dd",
+"children":[
+"A 20-year-old woman is evaluated in the emergency department after sustaining a brief loss of consciousness following a head-to-head collision in a soccer match. Immediate examination on the sidelines revealed gait unsteadiness and amnesia for recent events; she had an isolated 20-second seizure en route to the emergency department. The patient now reports dizziness and headache but no vomiting or visual or neurologic symptoms. She takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"fcf6e5",
+"children":[
+"On physical examination, blood pressure is 98/54 mm Hg and pulse rate is 88/min; all other vital signs are normal. She is alert and oriented. Funduscopic examination shows normal findings. Unsteadiness of tandem gait is noted, as is retrograde amnesia for the past 4 hours. All other physical examination findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Head CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Levetiracetam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mannitol"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Norepinephrine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ea20c0",
+"children":[
+"Noncontrast head CT is the imaging modality of choice in selected patients with traumatic brain injury."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8f1a55",
+"children":[
+"Commonly cited indications for head CT following traumatic brain injury include: abnormal neurologic exam, including testing of gait; progressive headache; recurrent vomiting; loss of consciousness; prolonged anterograde amnesia; seizure; skull fracture; age greater than 60 years; alcohol or drug intoxication; coagulopathy; and dangerous mechanism of injury."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7c7c6b",
+"children":[
+"The patient should undergo head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The presentation is compatible with a minor traumatic brain injury (TBI) or concussion. The patient sustained a direct blow to the head followed by brief loss of consciousness. Indications for neuroimaging in this scenario include the history of a posttraumatic seizure and the presence of amnesia and gait unsteadiness on physical examination. Other commonly cited indications for head CT in patients with TBI or concussion include progressive headache, recurrent vomiting, age older than 60 years, drug or alcohol intoxication, presence of coagulopathy, suspected skull fracture, and dangerous mechanism of injury. Noncontrast head CT is the imaging modality of choice for minor TBI."
+]
+},
+{
+"type":"p",
+"hlId":"823008",
+"children":[
+"Head CT is recommended over brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in patients with acute traumatic brain injury. It is more widely available, faster to complete and allows for better visualization of acute hemorrhage and skull fracture"
+]
+},
+{
+"type":"p",
+"hlId":"745872",
+"children":[
+"Levetiracetam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be indicated in the presence of recurrent seizures or following the administration of benzodiazepines for status epilepticus in order to maintain seizure control. Neither is present in this patient. A seizure occurring within the first week of a traumatic brain event is thought to be symptomatic and does not warrant antiepileptic therapy."
+]
+},
+{
+"type":"p",
+"hlId":"f66960",
+"children":[
+"TBI is commonly classified using injury severity scores, such as the Glasgow Coma Scale (GCS). A GCS score of 13 to 15 is considered mild injury, 9 to 12 is considered moderate injury, and 8 or less is considered severe TBI. Mannitol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is indicated in the management of severe TBI with signs of increased intracranial pressure. This patient has not had a severe TBI, and there is no evidence of intracranial hypertension."
+]
+},
+{
+"type":"p",
+"hlId":"23e2a0",
+"children":[
+"Blood pressure support with intravenous crystalloid fluids and norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") or phenylephrine is indicated in the intensive care unit in the setting of severe TBI with severe hypotension. This patient sustained a minor TBI and is alert, oriented, and hemodynamically stable and does not require blood pressure support."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s2_1",
+"objective":{
+"__html":"Evaluate traumatic brain injury with a head CT scan."
+},
+"references":[
+[
+"Mullally WJ. Concussion. Am J Med. 2017;130:885-92. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28502817",
+"target":"_blank"
+},
+"children":[
+"PMID: 28502817"
+]
+},
+". doi:10.1016/j.amjmed.2017.04.016"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":78,
+"C":2,
+"D":1,
+"E":0
+},
+"hlIds":[
+"45f0dd",
+"fcf6e5",
+"1a5dcc",
+"ea20c0",
+"8f1a55",
+"7c7c6b",
+"823008",
+"745872",
+"f66960",
+"23e2a0"
+]
+}

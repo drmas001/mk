@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q035",
+"number":35,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3509e6",
+"children":[
+"A 48-year-old man is evaluated for recurrent pericarditis. Six months ago, he had acute pericarditis treated with ibuprofen and colchicine. His symptoms resolved completely within 3 weeks of initiation of therapy. Evaluations for an infectious cause and connective tissue disease were negative. The patient's symptoms recurred after ibuprofen was tapered over 1 month with continuation of colchicine. Ibuprofen was re-initiated at a high dose with resolution of symptoms and tapered over a 2-month period. His current symptoms began 24 hours ago. Currently, his only medication is colchicine."
+]
+},
+{
+"type":"p",
+"hlId":"250c0b",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F); other vital signs are normal. Pulsus paradoxus of 10 mm Hg is present. There is no jugular venous distention. The lungs are clear to auscultation. A friction rub is heard at the left sternal border and apex."
+]
+},
+{
+"type":"p",
+"hlId":"55c0c3",
+"children":[
+"ECG shows normal sinus rhythm with widespread ST-segment elevation of 0.5 to 1.0 mm. Echocardiogram shows a small circumferential pericardial effusion (diastolic echo-free space, 3 mm) without evidence of tamponade."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anakinra"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine and intravenous immune globulin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ibuprofen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ibuprofen, colchicine, and prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6d53d2",
+"children":[
+"In patients with recurrent pericarditis initially treated with both colchicine and an NSAID, the addition of a glucocorticoid should be considered."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0d66f9",
+"children":[
+"The most appropriate treatment is triple therapy with an NSAID, such as ibuprofen; colchicine; and a glucocorticoid, such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient meets the definition of recurrent idiopathic pericarditis, having a documented first episode of acute pericarditis followed by a recurrent episode after a symptom-free interval of 4 to 6 weeks. This patient had a favorable response to initial treatment with an NSAID and colchicine, followed by recurrent symptoms after tapering standard therapy on two different occasions. Recurrence occurs in 15% to 30% of pericarditis cases, and the recurrence rate is higher when initial therapy does not include colchicine. In patients initially treated only with NSAIDs, it would be reasonable to use the combination of NSAIDs and colchicine to treat a recurrence. In patients initially treated with both colchicine and NSAIDs, the addition of a low to moderate dose of prednisone is reasonable to achieve better control of symptoms. When patients re-present with pain but without other evidence of pericarditis, cardiac CT or MRI and measurement of C-reactive protein level may inform the decision of whether to add glucocorticoids. Infectious diseases, including tuberculosis, must be excluded before starting a glucocorticoid. Glucocorticoids are not recommended as first-line therapy for acute pericarditis."
+]
+},
+{
+"type":"p",
+"hlId":"e6f7a0",
+"children":[
+"The interleukin-1 receptor antagonist anakinra (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has shown benefit in small trials for treatment of colchicine-resistant, glucocorticoid-dependent recurrent pericarditis, but it is not, at present, FDA approved for this use. Consideration should be given to initiating rilonacept, an FDA-approved interleukin-1 trap that demonstrated early and sustained relief of signs and symptoms of inflammation and significant reduction in the risk for recurrent pericarditis."
+]
+},
+{
+"type":"p",
+"hlId":"a43aa5",
+"children":[
+"Intravenous immune globulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been used with some success to treat pericarditis that recurs despite combination therapy including prednisone. For this patient, glucocorticoid treatment should precede consideration of intravenous immune globulin."
+]
+},
+{
+"type":"p",
+"hlId":"ec36db",
+"children":[
+"Ibuprofen monotherapy without colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be considered to treat an initial episode of acute pericarditis, but it is unlikely to be effective in patients with recurrent pericarditis."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_1_2",
+"objective":{
+"__html":"Treat recurrent pericarditis."
+},
+"references":[
+[
+"Adler Y, Charron P, Imazio M, et al; ESC Scientific Document Group. 2015 ESC guidelines for the diagnosis and management of pericardial diseases: The Task Force for the Diagnosis and Management of Pericardial Diseases of the European Society of Cardiology (ESC) Endorsed by: The European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2015;36:2921-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26320112",
+"target":"_blank"
+},
+"children":[
+"PMID: 26320112"
+]
+},
+" doi:10.1093/eurheartj/ehv318"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":8,
+"C":13,
+"D":62,
+"E":0
+},
+"hlIds":[
+"3509e6",
+"250c0b",
+"55c0c3",
+"1054f1",
+"6d53d2",
+"0d66f9",
+"e6f7a0",
+"a43aa5",
+"ec36db"
+]
+}

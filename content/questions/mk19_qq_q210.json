@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q210",
+"number":210,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 210",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3a9777",
+"children":[
+"A 17-year-old woman reports 3 months of decreased ability to maintain her cross-country training schedule. Menstrual periods are regular at 28 days, with 7 days of moderate bleeding. Hemoglobin level was normal 1 year ago."
+]
+},
+{
+"type":"p",
+"hlId":"4a769f",
+"children":[
+"Physical examination findings, including vital signs, are normal. BMI is 18. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 10.9 g/dL (109 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular volume",
+"children":[
+"mean corpuscular volume"
+]
+},
+" is 62 fL, and the red cell distribution width is elevated. Peripheral blood smear shows microcytosis and anisopoikilocytosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intramuscular iron dextran"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral ferrous gluconate, three times daily"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral ferrous sulfate, once every other day"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum ferritin measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1b2ea3",
+"children":[
+"For simple iron deficiency, oral ferrous sulfate is the least expensive and simplest treatment option and is therefore the most appropriate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"33a956",
+"children":[
+"Data show that every-other-day dosing of oral iron is more effective than daily dosing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"79d28d",
+"children":[
+"The most appropriate treatment is oral ferrous sulfate, once every other day (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Iron deficiency may result from blood loss or malabsorption in addition to increased iron requirements. Women of reproductive age may lose enough iron through normal menstrual blood loss to become iron deficient in the absence of uterine or gastrointestinal disease. This patient has iron deficiency that is probably a result of menstrual blood loss. For simple iron deficiency, oral ferrous sulfate is the least expensive and simplest treatment option and is therefore the most appropriate. Several ferrous preparations available over the counter are probably as effective. New data show that every-other-day dosing of oral iron is more effective than daily dosing."
+]
+},
+{
+"type":"p",
+"hlId":"9c86d4",
+"children":[
+"Parenteral iron is reserved for patients receiving dialysis or for those who have absorption problems (e.g., patients who have had gastric bypass surgery) or an intolerance to oral iron replacement. The availability of newer parenteral iron preparations, which are simpler to administer and have better adverse effect profiles, has lowered the threshold for giving parenteral treatment. The intramuscular (IM) route for iron (e.g., IM iron dextran) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is generally not preferred because of the risk for local complications."
+]
+},
+{
+"type":"p",
+"hlId":"dfbb69",
+"children":[
+"Although oral ferrous fumarate, ferrous gluconate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and other oral iron salts are available, none has proven superior to ferrous sulfate in tolerability, efficacy, or cost. Frequent dosing (two or three times daily) of oral iron may lead to increased hepcidin production, which actually reduces iron absorption."
+]
+},
+{
+"type":"p",
+"hlId":"01e391",
+"children":[
+"A low mean corpuscular volume, elevated red cell distribution width, and peripheral blood smear showing microcytosis and anisopoikilocytosis are virtually diagnostic of iron deficiency, especially in premenopausal women; these findings may obviate the need for additional laboratory testing, including serum ferritin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), provided that a follow-up complete blood count is performed to assess response to iron therapy. A low serum iron level, elevated total iron-binding capacity, low transferrin saturation (>15%; iron/total iron-binding capacity × 100), and a serum ferritin level less than 14 ng/mL (14 μg/L) confirm the diagnosis of iron deficiency. The ferritin value is highly specific (99%) but has a low sensitivity (59%), resulting in potentially false-negative results and missed diagnosis of iron deficiency."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_2_1",
+"objective":{
+"__html":"Treat iron deficiency anemia."
+},
+"references":[
+[
+"Auerbach M, Adamson JW. How we diagnose and treat iron deficiency anemia. Am J Hematol. 2016;91:31-8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26408108",
+"target":"_blank"
+},
+"children":[
+"PMID: 26408108"
+]
+},
+" doi:10.1002/ajh.24201"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"3a9777",
+"4a769f",
+"cb2b54",
+"1b2ea3",
+"33a956",
+"79d28d",
+"9c86d4",
+"dfbb69",
+"01e391"
+]
+}

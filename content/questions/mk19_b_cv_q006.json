@@ -1,0 +1,215 @@
+{
+"id":"mk19_b_cv_q006",
+"number":6,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"93cf84",
+"children":[
+"A 57-year-old man is evaluated for a 2-month history of exertional chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"9ce0f2",
+"children":[
+"The physical examination, including vital signs, is normal."
+]
+},
+{
+"type":"p",
+"hlId":"83a54e",
+"children":[
+"Baseline ECG is normal. During treadmill stress testing, he develops 2-mm horizontal ST-segment depression in leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"5"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+" associated with chest pain that resolves with rest. Coronary angiographic findings include a 60% distal left main bifurcation stenosis with extension into the proximal left circumflex artery. There is an additional 80% stenosis involving the bifurcation of the left anterior descending artery and large first diagonal branch. The right coronary artery is large and without significant stenosis. Left ventriculogram shows global left ventricular dysfunction with a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 42%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coronary artery bypass grafting"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Medical therapy without revascularization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myocardial viability testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Percutaneous coronary intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"07b2c6",
+"children":[
+"In patients with multivessel coronary artery disease, coronary artery bypass grafting is associated with enhanced survival compared with medical therapy alone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0fa4dd",
+"children":[
+"The most appropriate management is coronary artery bypass grafting (CABG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has complex multivessel coronary artery disease (CAD) involving the left main coronary artery distal bifurcation, proximal left circumflex artery, and proximal left anterior descending and first diagonal artery bifurcation. CABG, especially with use of arterial (internal mammary artery) conduits, is indicated in patients with multivessel CAD and no contraindications, because it is associated with enhanced survival compared with medical therapy alone. CABG also results in decreased recurrence of angina, lower rates of myocardial infarction, and fewer repeat revascularization procedures compared with percutaneous coronary intervention or medical therapy alone in these patients."
+]
+},
+{
+"type":"p",
+"hlId":"e5595d",
+"children":[
+"Guideline-directed medical therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is essential for improved prognosis before and after surgical or percutaneous revascularization. Aspirin, β-blockade, and statin therapy, along with ACE inhibition in patients with systolic left ventricular (LV) dysfunction, such as this patient, are indicated for secondary prevention of major adverse vascular events. However, anti-ischemic and cardioprotective medical therapy would be inferior to revascularization in improving survival in this patient with complex CAD involving the left main coronary artery and a large area of potentially ischemic myocardium."
+]
+},
+{
+"type":"p",
+"hlId":"47cb2e",
+"children":[
+"Myocardial viability testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") uses imaging to detect potentially reversible states of ischemic ventricular dysfunction. Myocardial viability is associated with improved survival and ventricular recovery following revascularization in patients with LV dysfunction; however, performing viability testing before revascularization has not been shown to predict or enhance outcomes and is not indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"745fdd",
+"children":[
+"Drug-eluting stent–based percutaneous coronary intervention (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a reasonable option in patients with symptomatic CAD, including those with unprotected left main CAD (without bypass to the left coronary circulation). However, in patients with complex CAD including multiple bifurcations and/or long lesions who are not at increased surgical risk, CABG is the preferred revascularization strategy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_1_3_3",
+"objective":{
+"__html":"Treat complex multivessel coronary artery disease."
+},
+"references":[
+[
+"Lawton JS, Tamis-Holland JE, Bangalore S, et al. 2021 ACC/AHA/SCAI Guideline for Coronary Artery Revascularization: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021 Dec 9:CIR0000000000001038. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34882435",
+"target":"_blank"
+},
+"children":[
+"PMID: 34882435"
+]
+},
+" doi:10.1161/CIR.0000000000001038."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":62,
+"B":6,
+"C":5,
+"D":27,
+"E":0
+},
+"hlIds":[
+"93cf84",
+"9ce0f2",
+"83a54e",
+"cb2b54",
+"07b2c6",
+"0fa4dd",
+"e5595d",
+"47cb2e",
+"745fdd"
+]
+}

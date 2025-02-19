@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_on_q006",
+"number":6,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc2cf5",
+"children":[
+"A 52-year-old man is seen following an axillary lymph node biopsy confirming a diagnosis of large B-cell lymphoma."
+]
+},
+{
+"type":"p",
+"hlId":"cdd56c",
+"children":[
+"Complete blood count, liver chemistry tests, and electrolyte, blood urea nitrogen, and creatinine levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"993523",
+"children":[
+"PET/CT shows uptake in left axillary, mediastinal, hilar, and retroperitoneal nodes, as well as multiple foci in the ileum, ribs, and vertebral bodies."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9c2d0b",
+"children":[
+"Which of the following is the most appropriate staging test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT-guided biopsy of retroperitoneal lymph node"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum lactate dehydrogenase measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a62857",
+"children":[
+"The International Prognostic Index score correlates with progression-free and overall survival after standard therapy for large B-cell lymphoma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"96be0c",
+"children":[
+"Patients with large B-cell lymphoma and poor prognosis based on the International Prognostic Index score may be considered for more aggressive treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a39274",
+"children":[
+"Before considering treatment, serum lactate dehydrogenase (LDH) should be measured to help complete the patient's staging and serve as a prognostic marker for those with large B-cell lymphoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Large B-cell lymphoma represents approximately 30% of non-Hodgkin lymphomas. These patients often present with symptomatic enlarging lymphadenopathy in the neck or abdomen. Approximately 40% may have signs or symptoms of extranodal disease, and one third have systemic symptoms. Sixty percent of patients have advanced (stage III or IV) disease at diagnosis. The B-cell lymphoma 6 gene shows rearrangement or other mutations that lead to overexpression in most patients. Patients with higher LDH levels have a poorer prognosis, and the result is used in calculating the patient's International Prognostic Index score, which incorporates LDH along with age, stage, performance status, and the presence or absence of extranodal involvement. The International Prognostic Index score correlates with progression-free and overall survival after standard therapy. Patients with poor prognosis may be considered for more aggressive treatment."
+]
+},
+{
+"type":"p",
+"hlId":"1e8c61",
+"children":[
+"Bone marrow biopsies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are no longer routinely performed as part of staging for large cell lymphoma, and in most cases, results would not change management. Likewise, in this patient where multiple bony sites of involvement are seen on the PET scan, bone marrow biopsy would not have an impact on his staging."
+]
+},
+{
+"type":"p",
+"hlId":"bd6e00",
+"children":[
+"Brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not generally needed as part of the initial staging for non-Hodgkin lymphoma unless the patient has neurologic signs or symptoms. Central nervous system involvement in patients with non-Hodgkin lymphoma occurs more commonly in individuals with high-grade disease, peripheral blood and bone marrow, sinus, or testicular involvement, and coexistent HIV infection. It most commonly manifests with leptomeningeal disease."
+]
+},
+{
+"type":"p",
+"hlId":"18aab7",
+"children":[
+"There would generally be no need to biopsy another area of involvement, such as the retroperitoneal node (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), if adequate material were obtained from the axillary node showing large cell lymphoma. Although discordant histology could sometimes be seen at alternate sites (lower grade or follicular elements), this is uncommon and would not be likely to change the initial treatment approach."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_3",
+"objective":{
+"__html":"Stage newly diagnosed large B-cell lymphoma with serum lactate dehydrogenase measurement."
+},
+"references":[
+[
+"Martelli M, Ferreri AJ, Agostinelli C, Di Rocco A, Pfreundschuh M, Pileri SA. Diffuse large B-cell lymphoma. Crit Rev Oncol Hematol. 2013;87(2):146-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23375551",
+"target":"_blank"
+},
+"children":[
+"PMID: 23375551"
+]
+},
+" doi:10.1016/j.critrevonc.2012.12.009"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":31,
+"C":7,
+"D":22,
+"E":0
+},
+"hlIds":[
+"bc2cf5",
+"cdd56c",
+"993523",
+"9c2d0b",
+"a62857",
+"96be0c",
+"a39274",
+"1e8c61",
+"bd6e00",
+"18aab7"
+]
+}

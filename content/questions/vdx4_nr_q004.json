@@ -1,0 +1,131 @@
+{
+"id":"vdx4_nr_q004",
+"number":4,
+"bookId":"vdx_nr",
+"correctAnswer":"C",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6e8cd8",
+"children":[
+"A 61-year-old woman is evaluated for sudden paralysis of the right side. A CT scan without contrast taken 7 hours after symptom onset (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"left panel"
+]
+},
+") and 24 hours after symptom onset (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"right panel"
+]
+},
+") are ",
+{
+"type":"figure-link",
+"target":"vdx4_nr_mcq_f004",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_nr_mcq_f004"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Herpes simplex encephalitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intracerebral hemorrhage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ischemic stroke"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Subarachnoid hemorrhage"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7e45d9",
+"children":[
+"The most likely diagnosis is ischemic stroke. This patient's initial CT scan (left panel) is unremarkable, showing no evidence of hemorrhagic stroke, which would appear as a white density within the gray brain tissue, or infarction. The initial noncontrast head CT in ischemic stroke is often normal, but within 24 to 48 hours after onset of stroke symptoms, the ischemic brain tissue becomes edematous, resulting in a hypodense region on CT scan, as seen on this patient's follow-up CT scan (right panel). If the edema is significant, a mass effect may be seen with shift of midline structures (as is seen on the follow-up scan) and obliteration of the basilar cisterns. CT is insensitive for the presence of herpes simplex encephalitis, but temporal lobe hypodensities may be seen in severe cases."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_3_2",
+"objective":{
+"__html":"Diagnose ischemic stroke."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_nr_mcq_f004":{
+"id":"vdx4_nr_mcq_f004",
+"number":4,
+"bookId":"vdx_nr",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"6b1ed0c410c21cd04a6b55cb126ef855",
+"height":610,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"6e8cd8",
+"413696",
+"7e45d9"
+]
+}

@@ -1,0 +1,119 @@
+{
+"id":"vdx4_nr_q009",
+"number":9,
+"bookId":"vdx_nr",
+"correctAnswer":"B",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"891474",
+"children":[
+"A 52-year-old woman is evaluated for sudden onset of right-sided weakness that has progressed since symptoms began 1 hour ago."
+]
+},
+{
+"type":"p",
+"hlId":"203192",
+"children":[
+"CT scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_nr_mcq_f009",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_nr_mcq_f009"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Glioblastoma multiforme"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intracerebral hemorrhage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meningioma"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Primary central nervous system lymphoma"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"86a4bf",
+"children":[
+"This CT scan suggests intracerebral hemorrhage. CT is highly sensitive for diagnosing hemorrhage in the acute setting. Intracerebral hemorrhages are evident almost instantly after onset as focal white hyperdense lesions within the brain parenchyma, as seen in the left hemisphere on the image shown. Intracerebral hemorrhages can also be detected by MRI, and the use of susceptibility sequences improves the sensitivity of MRI for early detection of a hemorrhage. Lobar hemorrhages near the cortical surface may result from hypertension, hemorrhagic tumors, cortical vein thrombosis, or cerebral amyloid angiopathy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_3_3_2",
+"objective":{
+"__html":"Diagnose an intracerebral hemorrhage."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_nr_mcq_f009":{
+"id":"vdx4_nr_mcq_f009",
+"number":9,
+"bookId":"vdx_nr",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"47583a126e580d417ad6bcf9ebb47046",
+"height":232,
+"width":242,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"891474",
+"203192",
+"413696",
+"86a4bf"
+]
+}

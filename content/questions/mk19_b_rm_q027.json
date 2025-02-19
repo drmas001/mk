@@ -1,0 +1,254 @@
+{
+"id":"mk19_b_rm_q027",
+"number":27,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0b1a53",
+"children":[
+"A 58-year-old woman is evaluated for brief episodes of pain, swelling, and redness in the right wrist for 4 days. During the past 2 years, she has had similar episodes in her left wrist and left third metacarpophalangeal joint, which resolved without treatment."
+]
+},
+{
+"type":"p",
+"hlId":"c60973",
+"children":[
+"On physical examination, vital signs are normal. Joint examination reveals swelling, warmth, and redness of the left wrist and redness and bony enlargement of the left third metacarpophalangeal joint. Other joints are normal."
+]
+},
+{
+"type":"p",
+"hlId":"ddb009",
+"children":[
+"Laboratory studies show normal complete blood count, comprehensive metabolic panel, and serum calcium, magnesium, and thyroid-stimulating hormone levels."
+]
+},
+{
+"type":"p",
+"hlId":"dbe943",
+"children":[
+"Radiographs of wrist and metacarpophalangeal joints are ",
+{
+"type":"figure-link",
+"target":"mk19_b_rm_mcq_f027",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_rm_mcq_f027"
+]
+},
+{
+"type":"p",
+"hlId":"b9b468",
+"children":[
+"Synovial fluid from the left wrist shows a leukocyte count of 30,000/μL (30 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) with 90% neutrophils; polarizing microscopy shows numerous positively birefringent rhomboid crystals within neutrophils. Synovial fluid Gram stain and culture are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b2c51f",
+"children":[
+"Which of the following is the most appropriate laboratory study to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antinuclear antibodies"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythrocyte sedimentation rate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rheumatoid factor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum ferritin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"34564f",
+"children":[
+"For patients with acute calcium pyrophosphate crystal arthritis who are younger than age 60 years, laboratory evaluation for contributory metabolic disease (hyperparathyroidism, hemochromatosis, hypophosphatasia, hypomagnesemia) is warranted."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fd746e",
+"children":[
+"Hooked osteophytes of the left third metacarpophalangeal joints and cartilage calcification are radiographic findings consistent with calcium pyrophosphate crystal arthritis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1b1280",
+"children":[
+"The laboratory study most appropriate to perform next is measurement of serum ferritin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient's recurrent acute flares of pain and swelling in the wrists and third metacarpophalangeal (MCP) joint are consistent with acute calcium pyrophosphate (CPP) crystal arthritis (pseudogout). The radiograph of the MCP joints shows a small hooked osteophyte of the left third MCP joint. Hooked osteophytes of the second and third MCP joints are a characteristic feature of CPP crystal arthritis. The radiograph of the wrist shows calcification along the fibroarticular cartilage consistent with chondrocalcinosis. Synovial fluid analysis shows CPP crystals, which confirm the diagnosis. Given the patient's age (<60 years), secondary causes of CPP deposition (such as hyperparathyroidism, hypothyroidism, hypophosphatasia, hypomagnesemia, and hemochromatosis) should be sought. Her normal comprehensive metabolic panel, serum magnesium level, and thyroid-stimulating hormone level exclude all secondary causes other than hemochromatosis. Measurements of serum ferritin and transferrin saturation are appropriate screening tests for hemochromatosis. Hemochromatosis typically presents in men age 40 years or older and in women generally after menopause because of slower iron accumulation in the premenopausal years."
+]
+},
+{
+"type":"p",
+"hlId":"b9e87b",
+"children":[
+"Testing for antinuclear antibodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be appropriate if the patient displayed characteristic signs or symptoms of systemic lupus erythematosus, such as malar rash, photosensitivity, inflammatory arthritis, weight loss, and fever. However, this test is not indicated because the history, examination, and laboratory findings are not consistent with systemic lupus erythematosus."
+]
+},
+{
+"type":"p",
+"hlId":"942d98",
+"children":[
+"Erythrocyte sedimentation rate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a nonspecific test for inflammation. It may be elevated in any inflammatory state and would not help determine the cause of this patient's inflammation."
+]
+},
+{
+"type":"p",
+"hlId":"733294",
+"children":[
+"Rheumatoid factor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is useful in the diagnosis of rheumatoid arthritis (RA). Although RA often affects the hands and wrists, it typically presents with morning stiffness and the gradual onset of pain, stiffness, and swelling in a symmetric distribution of hands and feet. Plain radiographs in early RA would not show a hooked osteophyte or calcifications in the fibrocartilage."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_2_1",
+"objective":{
+"__html":"Diagnose a secondary cause of acute calcium pyrophosphate crystal arthritis."
+},
+"references":[
+[
+"Rosenthal AK, Ryan LM. Calcium pyrophosphate deposition disease. N Engl J Med. 2016;374:2575-84. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27355536",
+"target":"_blank"
+},
+"children":[
+"PMID: 27355536"
+]
+},
+" doi:10.1056/NEJMra1511117"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":13,
+"C":22,
+"D":58,
+"E":0
+},
+"figuresContent":{
+"mk19_b_rm_mcq_f027":{
+"id":"mk19_b_rm_mcq_f027",
+"number":27,
+"bookId":"rm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0ffd6ef70d5289d96118f6a0cc8567ab",
+"height":411,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"0b1a53",
+"c60973",
+"ddb009",
+"dbe943",
+"b9b468",
+"b2c51f",
+"34564f",
+"fd746e",
+"1b1280",
+"b9e87b",
+"942d98",
+"733294"
+]
+}

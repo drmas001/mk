@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_on_q035",
+"number":35,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2f0209",
+"children":[
+"A 46-year-old woman is evaluated for swelling and discomfort around her left breast prosthesis. She underwent bilateral prophylactic mastectomies with subsequent textured implant reconstruction 8 years ago by choice related to family history of ductal carcinoma in situ. Medical history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"88db22",
+"children":[
+"On physical examination, vital signs are normal. There is moderate swelling and tenderness around the left breast prosthesis. There are no nodules, erythema, or other skin changes."
+]
+},
+{
+"type":"p",
+"hlId":"210285",
+"children":[
+"Complete blood count is normal."
+]
+},
+{
+"type":"p",
+"hlId":"edb61b",
+"children":[
+"Ultrasound of the left chest wall shows a moderate-sized fluid collection around the prosthesis. There is no evidence of prosthetic rupture. Aspiration of the fluid shows serous, nonpurulent fluid."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anaplastic T-cell lymphoma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Autoimmune serositis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Breast cancer"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Infection of the breast implant"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"30fe15",
+"children":[
+"Anaplastic large cell lymphoma associated with textured breast implants most commonly presents with a periprosthetic fluid collection and is best detected on ultrasound."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2e7954",
+"children":[
+"The most likely diagnosis is anaplastic T-cell lymphoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Although uncommon, there are increasing reports of non-Hodgkin lymphoma, typically anaplastic T-cell lymphoma, arising around breast implants. The major association has been with textured breast implants, which are now no longer being used. Patients with these lymphomas typically present with swelling and discomfort with a median time of 8 to 9 years after prosthesis placement. Initial evaluation after physical examination is by ultrasound (which appears to be superior to mammography, CT, or MRI) to look for a fluid collection and aspiration if fluid is present. Cytology may confirm malignant cells compatible with anaplastic T-cell lymphoma. These anaplastic T-cell lymphomas are typically CD30+ and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ALK"
+]
+},
+" negative. If the disease is diagnosed early, it may be cured with surgery alone with removal of the implant and complete resection of the surrounding capsule. If a contralateral implant was placed, it should be removed as well. In cases of more advanced disease with nodal involvement, more distant spread, or recurrence, chemotherapy and/or radiation therapy may be indicated. Treatment is not yet standardized, and recommendations continue to evolve for this entity."
+]
+},
+{
+"type":"p",
+"hlId":"3eb394",
+"children":[
+"Some reports have suggested an increase in Sjögren syndrome, scleroderma, and rheumatoid arthritis syndromes associated with silicone implants; however, such an association was never definitively confirmed. Autoimmune inflammation of the breast implant with associated serositis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not seen with these conditions."
+]
+},
+{
+"type":"p",
+"hlId":"0a9667",
+"children":[
+"Prophylactic mastectomies lead to at least a 90% reduction in the risk of developing breast cancer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients at high risk. Although breast cancer can arise in residual breast cells even after prophylactic mastectomy, it would be uncommon and more likely to present as a cutaneous or subcutaneous mass rather than a fluid collection."
+]
+},
+{
+"type":"p",
+"hlId":"88300f",
+"children":[
+"Although breast implants can become infected (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), the absence of fever, leukocytosis, and erythema and the presence of serous, nonpurulent fluid are not suggestive of infection in this patient. These infections usually occur shortly after the prosthesis is placed but can develop years later."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_3_3",
+"objective":{
+"__html":"Diagnose anaplastic T-cell non-Hodgkin lymphoma in a patient with textured breast implants."
+},
+"references":[
+[
+"Ebner PJ, Liu A, Gould DJ, et al. Breast implant-associated anaplastic large cell lymphoma, a systematic review and in-depth evaluation of the current understanding. J Surg Oncol. 2019;120:573-77. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31373010",
+"target":"_blank"
+},
+"children":[
+"PMID: 31373010"
+]
+},
+" doi:10.1002/jso.25626"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":61,
+"C":8,
+"D":16,
+"E":0
+},
+"hlIds":[
+"2f0209",
+"88db22",
+"210285",
+"edb61b",
+"413696",
+"30fe15",
+"2e7954",
+"3eb394",
+"0a9667",
+"88300f"
+]
+}

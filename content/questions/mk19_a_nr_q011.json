@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q011",
+"number":11,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3c5fe7",
+"children":[
+"A 70-year-old woman is hospitalized for progression of cognitive impairment to dementia and ataxia over the past 6 months. She has developed myoclonus, gait problems, and interruption of circadian rhythm."
+]
+},
+{
+"type":"p",
+"hlId":"99c96c",
+"children":[
+"On physical examination, vital signs are normal. She is alert but has difficulty with orientation to place and time. Cranial nerves and motor strength are normal. There are occasional myoclonic jerks of the trunk. Sensation is intact throughout; cerebellar ataxia is seen on finger-nose-finger, heel-to-shin, and gait testing. Deep tendon reflexes are increased throughout."
+]
+},
+{
+"type":"p",
+"hlId":"2ec0f2",
+"children":[
+"Diffusion-weighted MRI of the brain shows hyperintensity in the basal ganglia and several regions of the cortex."
+]
+},
+{
+"type":"p",
+"hlId":"9405da",
+"children":[
+"A lumbar puncture is performed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"05309d",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform on the cerebrospinal fluid?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"14-3-3 Protein assay"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Polymerase chain reaction for herpes simplex virus"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Real-time quaking-induced conversion assay"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Total tau protein measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fc9ab2",
+"children":[
+"Creutzfeldt-Jakob disease is a prion-related disorder that often presents with rapidly progressive dementia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"76e2d4",
+"children":[
+"The real-time quaking-induced conversion assay is the most sensitive and specific test for prion proteins in the cerebrospinal fluid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e7ddd2",
+"children":[
+"The most appropriate diagnostic test to perform on the cerebrospinal fluid (CSF) is real-time quaking-induced conversion assay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has signs, symptoms, and MRI findings concerning for Creutzfeldt-Jakob (CJD) disease. MRI is one of the most sensitive diagnostic tools for CJD, typically showing a pattern of increased intensity in the diffusion-weighted sequence in the basal ganglia and various cortical regions. CJD is a prion-related disorder that often presents with rapidly progressive dementia. The cause of CJD is an abnormally folded prion protein, which occurs by a spontaneous mutation (85%), is acquired by exposure to a transmissible protein, or is an inherited genetic mutation. Prion diseases have no known therapy. Time from disease onset to death is approximately 12 months in as many as 80% of patients with CJD. The rapid cognitive decline seen with this disorder is associated with myoclonus, gait problems, visual compromise, and interruption of the circadian rhythm. The real-time quaking-induced conversion assay is the most sensitive and specific test for prion proteins in the CSF. It uses recombinant prion protein and thioflavin T, a fluorescent dye, to detect prion protein present in the CSF despite its being present in only small quantities. The prion protein in the CSF induces the recombinant prion protein to change shape and form fibrils that bind thioflavin T and begin to fluoresce. The quantity of fluorescence is measured in real time."
+]
+},
+{
+"type":"p",
+"hlId":"fdebf7",
+"children":[
+"CSF 14-3-3 protein (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and total tau proteins (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), although elevated in CJD, lack sufficient sensitivity and specificity for diagnosis of this disease. They can also be elevated in other diseases that cause neurodegeneration or neuronal loss."
+]
+},
+{
+"type":"p",
+"hlId":"d0ea70",
+"children":[
+"Ordering polymerase chain reaction assay (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for herpes simplex virus would be of low yield in this case because the symptoms have been noted for 6 months. Herpes encephalitis is characterized by headache, fever, and neck stiffness, symptoms not present in this patient. The patient also lacks the MRI brain findings that are characteristic of herpes encephalitis, including hyperintensity on T2-weighted fluid-attenuated inversion recovery sequences in the bilateral temporal lobes."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_2_4",
+"objective":{
+"__html":"Diagnose Creutzfeldt-Jakob disease."
+},
+"references":[
+[
+"Mead S, Rudge P. CJD mimics and chameleons. Pract Neurol. 2017;17:113-21. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28153848",
+"target":"_blank"
+},
+"children":[
+"PMID: 28153848"
+]
+},
+" doi:10.1136/practneurol-2016-001571"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":57,
+"B":9,
+"C":9,
+"D":24,
+"E":0
+},
+"hlIds":[
+"3c5fe7",
+"99c96c",
+"2ec0f2",
+"9405da",
+"05309d",
+"fc9ab2",
+"76e2d4",
+"e7ddd2",
+"fdebf7",
+"d0ea70"
+]
+}

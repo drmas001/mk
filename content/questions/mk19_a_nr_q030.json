@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_nr_q030",
+"number":30,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f65273",
+"children":[
+"A 74-year-old woman is evaluated in the hospital at 2:00 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" for agitation. She was admitted 3 days ago with acute diverticulitis. Over the last 24 hours, the patient has been alternately agitated or drowsy, sometimes confused when awake, and tonight has experienced visual hallucinations. Her only other medical problem is long-standing depression treated with paroxetine, which has been discontinued. Medical records indicate she does not drink alcohol. Her current medications include oxycodone, scheduled every 6 hours, and piperacillin-tazobactam."
+]
+},
+{
+"type":"p",
+"hlId":"580d6a",
+"children":[
+"On physical examination, temperature is 37.2 °C (99.0 °F), and the remaining vital signs are normal. Oxygen saturation is 97% with the patient breathing ambient air. The abdomen has diminished but present bowel sounds, and there is mild tenderness to palpation without guarding in the left lower quadrant. The remainder of the physical examination is normal. The patient is alert and vigilant but inattentive to questioning and demonstrates disorganized thinking."
+]
+},
+{
+"type":"p",
+"hlId":"79517d",
+"children":[
+"An order is written to hold the oxycodone."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diphenhydramine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lorazepam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Paroxetine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Zolpidem"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"add02e",
+"children":[
+"Withdrawal from alcohol or other abused drugs and from prescribed medications can precipitate delirium."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"587521",
+"children":[
+"The most appropriate next step in management is the addition of paroxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient shows signs of delirium, such as fluctuations in mentation, nighttime sleeplessness, and hallucinations. Treatment of delirium involves identifying and treating its underlying causes. In the elderly, medications are a common precipitating cause of delirium in hospitalized patients. Sedating medications, including opioids, can precipitate or worsen delirium, and holding or reducing the patient's overall dose of oxycodone is a reasonable first step in addressing her delirium. Withdrawal of alcohol and drugs such as benzodiazepines, opioids, and antidepressants can also precipitate delirium. Antidepressant medications should be gradually tapered to avoid discontinuation syndrome. Discontinuation symptoms can occur with any selective serotonin reuptake inhibitor but is most commonly reported with paroxetine. The most common symptoms are dizziness, fatigue, and headache. Other commonly reported symptoms are agitation, anxiety, and insomnia. Symptoms may start from 1 to 7 days following abrupt discontinuation of antidepressant medications. Paroxetine should be reintroduced."
+]
+},
+{
+"type":"p",
+"hlId":"ee9a79",
+"children":[
+"Other classes of drugs that have been implicated in precipitating delirium in hospitalized patients include benzodiazepines and drugs with anticholinergic properties. Drugs with anticholinergic properties are associated with well-known adverse effects, particularly in the elderly, yet are commonly prescribed. Frequently reported central nervous system adverse effects include memory impairment, confusion, and hallucinations. First-generation antihistamines, such as diphenhydramine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are often prescribed to induce sedation and sleep in the elderly. However, these drugs have anticholinergic properties and, according to the American Geriatrics Society, are among the drugs to be avoided in the elderly."
+]
+},
+{
+"type":"p",
+"hlId":"9bdc06",
+"children":[
+"Sedative hypnotic drugs, such as lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and zolpidem (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), should be avoided in older patients because of their propensity to cause or worsen delirium. They should not be started in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"777d69",
+"children":[
+"Studies of hospitalized patients with acute delirium have documented a mean of three precipitating causes of delirium per patient in two thirds of carefully evaluated patients. While holding the oxycodone is appropriate, careful evaluation of other causes of delirium should be undertaken. No additional treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not the best option."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_3_1",
+"objective":{
+"__html":"Treat delirium in a hospitalized patient."
+},
+"references":[
+[
+"Marcantonio ER. Delirium in hospitalized older adults. N Engl J Med. 2017;377:1456-66. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29020579",
+"target":"_blank"
+},
+"children":[
+"PMID: 29020579"
+]
+},
+" doi:10.1056/NEJMcp1605501"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":4,
+"C":34,
+"D":1,
+"E":61
+},
+"hlIds":[
+"f65273",
+"580d6a",
+"79517d",
+"1a5dcc",
+"add02e",
+"587521",
+"ee9a79",
+"9bdc06",
+"777d69"
+]
+}

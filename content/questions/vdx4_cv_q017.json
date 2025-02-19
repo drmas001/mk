@@ -1,0 +1,139 @@
+{
+"id":"vdx4_cv_q017",
+"number":17,
+"bookId":"vdx_cv",
+"correctAnswer":"D",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7b8cf7",
+"children":[
+"A 43-year-old man is evaluated for nonanginal chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f017",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f017"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"425bcc",
+"children":[
+"Which of the following is shown on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intraventricular conduction delay"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left bundle branch block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right axis deviation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right bundle branch block"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cac709",
+"children":[
+"This ECG demonstrates right bundle branch block. ECG features of right bundle branch block include QRS widening (≥120 ms), an rSR' or rsR' pattern in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", and a wide terminal S wave in leads I and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+". Several premature atrial contractions are also seen. In both left and right bundle branch block, the ST-T wave pattern is inscribed in the opposite direction of the main QRS vectors; these ST-T wave abnormalities are secondary to the bundle branch block and do not indicate additional underlying pathology."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Identify ECG features of right bundle branch block."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f017":{
+"id":"vdx4_cv_mcq_f017",
+"number":17,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"a91480cba6b3e321fcc62efb4f9ae795",
+"height":481,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7b8cf7",
+"4a9f79",
+"425bcc",
+"cac709"
+]
+}

@@ -1,0 +1,226 @@
+{
+"id":"mk19_a_nr_q067",
+"number":67,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 67",
+"stimulus":[
+{
+"type":"p",
+"hlId":"49f8d0",
+"children":[
+"An 82-year-old woman is evaluated in the emergency department for a 10-week history of a gradual and steady progression of new-onset headaches. She is otherwise well and takes no mediations."
+]
+},
+{
+"type":"p",
+"hlId":"0874f0",
+"children":[
+"On physical examination, vital signs are normal. Neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"e6665f",
+"children":[
+"A T2-weighted MRI of the brain with contrast shows a well-demarcated, hyperintense lesion arising from lateral ventricles anteriorly and extending bilaterally into the frontal lobes. The lesion shows gadolinium enhancement on T1-weighted imaging."
+]
+},
+{
+"type":"p",
+"hlId":"ad4e7c",
+"children":[
+"Vitreous and cerebrospinal fluid sampling are negative for lymphomatous cells."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dexamethasone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Whole-brain radiation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d8ef45",
+"children":[
+"In patients with suspected central nervous system lymphoma, the finding of lymphomatous cells in vitreous or cerebrospinal fluid samples (identified by cytology and flow cytometry) may obviate the need for biopsy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c75cbf",
+"children":[
+"In the evaluation of suspected central nervous system lymphoma, glucocorticoids should be avoided prior to diagnostic tissue sampling because glucocorticoids can result in false-negative results."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"00ba89",
+"children":[
+"The most appropriate next step in management is brain biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient most likely has primary central nervous system lymphoma (PCNSL). PCNSL is typically a B-cell non-Hodgkin lymphoma. Immunodeficiency, including HIV infection, is the most consistent risk factor, but PCNSL incidence is increasing in older, immunocompetent patients. On MRI, PCNSL appears as a single, well-demarcated, deep white matter (periventricular) lesion with minimal to no mass effect or edema. The finding of lymphomatous cells in vitreous or cerebrospinal fluid samples (identified by cytology and flow cytometry) may obviate the need for biopsy. When these less invasive diagnostic measures are negative, brain biopsy should be obtained to confirm the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"f03525",
+"children":[
+"Dexamethasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated for this patient, because there is no evidence of severe edema on her brain MRI, and the examination is normal. Furthermore, unless there is impending risk of death from herniation, glucocorticoids should be avoided prior to biopsy in cases of suspected PCNSL; glucocorticoids are known to temporarily suppress lymphoma, leading to false-negative biopsy results, delays in diagnosis, and possibly a negative effect on outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"753cba",
+"children":[
+"High-dose methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is often used as first-line treatment for PCNSL. However, tissue diagnosis is required before initiating. Methotrexate is frequently combined with rituximab in these cases."
+]
+},
+{
+"type":"p",
+"hlId":"d326fb",
+"children":[
+"PCNSL is typically not treated with surgical resection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), because this has not been shown to improve patient outcomes. Although these tumors are chemo- and radiosensitive, recurrence is common and the prognosis is generally poor."
+]
+},
+{
+"type":"p",
+"hlId":"bae3d0",
+"children":[
+"Although whole-brain radiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is often considered in the management of PCNSL, there is significant neurocognitive morbidity associated with this treatment. However, whole-brain radiation would not be initiated in this patient without a biopsy-confirmed diagnosis of PCNSL."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s10_3_3",
+"objective":{
+"__html":"Diagnose primary central nervous system lymphoma."
+},
+"references":[
+[
+"Han CH, Batchelor TT. Primary central nervous system lymphoma. Continuum (Minneap Minn). 2017;23:1601-1618. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29200113",
+"target":"_blank"
+},
+"children":[
+"PMID: 29200113"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":48,
+"B":30,
+"C":1,
+"D":15,
+"E":5
+},
+"hlIds":[
+"49f8d0",
+"0874f0",
+"e6665f",
+"ad4e7c",
+"1a5dcc",
+"d8ef45",
+"c75cbf",
+"00ba89",
+"f03525",
+"753cba",
+"d326fb",
+"bae3d0"
+]
+}

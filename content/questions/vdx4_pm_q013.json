@@ -1,0 +1,139 @@
+{
+"id":"vdx4_pm_q013",
+"number":13,
+"bookId":"vdx_pm",
+"correctAnswer":"D",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c6b837",
+"children":[
+"A 37-year-old man is evaluated for sudden onset of dyspnea without chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f013",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f013"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrioventricular reciprocating tachycardia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inferior myocardial infarction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pericardial effusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6b7505",
+"children":[
+"The most likely diagnosis is pulmonary embolism. This patient's ECG demonstrates an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"Q3T3 pattern (prominent S wave in lead I, Q wave in lead III, and inverted T wave in lead III), which suggests pulmonary embolism. Although the ECG is of limited usefulness for the diagnosis of pulmonary embolism, abnormalities historically considered to support the diagnosis include an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"Q3T3 pattern, right ventricular strain, and new incomplete right bundle branch block. The most common ECG finding associated with pulmonary embolism is sinus tachycardia, but it is nonspecific and not helpful in establishing the diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_1_9",
+"objective":{
+"__html":"Identify ECG abnormalities suggestive of pulmonary embolism."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f013":{
+"id":"vdx4_pm_mcq_f013",
+"number":13,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"58f3057100e87c05eb7fdaed5ef843e6",
+"height":265,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"c6b837",
+"4a9f79",
+"413696",
+"6b7505"
+]
+}

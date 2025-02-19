@@ -1,0 +1,423 @@
+{
+"id":"mk19_b_pm_q067",
+"number":67,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 67",
+"stimulus":[
+{
+"type":"p",
+"hlId":"99b7ab",
+"children":[
+"A 65-year-old woman is evaluated in the emergency department for an acute exacerbation of COPD. Medications are budesonide-formoterol inhaler and albuterol-ipratropium."
+]
+},
+{
+"type":"p",
+"hlId":"9741cc",
+"children":[
+"On physical examination, temperature is 38.0 °C (100.4 °F), blood pressure is 150/95 mm Hg, pulse rate is 100/min, and respiration rate is 30/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 86% breathing oxygen, 2 L/min by nasal cannula. Bilateral wheezes are present."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"cfb74a",
+"children":[
+"Arterial blood gas studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"aed8b3",
+"class":"cell text l",
+"children":[
+"7.22"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"eb52ac",
+"class":"cell text l",
+"children":[
+"75 mm Hg (10.0 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"10db97",
+"class":"cell text l",
+"children":[
+"66 mm Hg (8.8 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"b9a254",
+"children":[
+"Chest radiograph shows no infiltrates."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bilevel positive airway pressure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continuous positive airway pressure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"High-flow nasal cannula"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intubation and mechanical ventilation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bb2553",
+"children":[
+"Patients with COPD who develop acute respiratory acidosis are the subgroup most likely to benefit from an initial trial of noninvasive bilevel positive airway pressure."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0c85f8",
+"children":[
+"In patients with acute hypercapnic respiratory failure due to COPD, noninvasive bilevel positive airway pressure reduces work of breathing, need for intubation, hospital length of stay, and mortality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a3a911",
+"children":[
+"The most appropriate treatment is a trial of noninvasive bilevel positive airway pressure (BPAP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient has acute hypercapnic respiratory failure due to an exacerbation of COPD. Patients who develop acute respiratory acidosis are the subgroup most likely to benefit from an initial trial of BPAP. BPAP delivers a higher level of positive airway pressure during inspiration than during expiration. Tidal volume is proportional with the difference between the inspiratory and expiratory pressures. BPAP offloads the respiratory muscles and augments minute ventilation by helping the respiratory muscle generate an adequate tidal volume. Although she may eventually require mechanical ventilation, BPAP is the first intervention because in patients with COPD it reduces work of breathing, need for intubation, hospital length of stay, and mortality."
+]
+},
+{
+"type":"p",
+"hlId":"1634c7",
+"children":[
+"Continuous positive airway pressure (CPAP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") delivers a constant airway pressure during inspiration and expiration. No additional pressure above the level of CPAP is provided, and therefore tidal volume is not augmented. Patients must initiate every breath. Although CPAP can be used in patients with hypercapnic respiratory failure due to pulmonary edema or obstructive sleep apnea, in patients with COPD, BPAP has the strongest evidence supporting improved patient outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"68ebf2",
+"children":[
+"The patient has respiratory acidosis; thus strategies to augment tidal volume and support work of breathing are needed. High-flow nasal cannula (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") allows a decrease in the work of breathing and in dead space; however, it does not augment tidal volumes. This modality has not been studied in severe hypercapnia from acute exacerbations of COPD."
+]
+},
+{
+"type":"p",
+"hlId":"398234",
+"children":[
+"Patients with acute exacerbation of COPD who do not have contraindications to BPAP should have a time-limited trial (<2 hours) to assess whether clinical response has occurred. The rationale is that if the patient responds, outcomes are better. If there is no improvement, intubation and mechanical ventilation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be instituted because delays are associated with increased mortality."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_1_10_2_3",
+"objective":{
+"__html":"Treat acute exacerbation of COPD with bilevel positive airway pressure ventilation."
+},
+"references":[
+[
+"Rochwerg B, Brochard L, Elliott MW, et al. Official ERS/ATS clinical practice guidelines: noninvasive ventilation for acute respiratory failure. Eur Respir J. 2017;50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28860265",
+"target":"_blank"
+},
+"children":[
+"PMID: 28860265"
+]
+},
+" doi:10.1183/13993003.02426-2016"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":73,
+"B":2,
+"C":2,
+"D":22,
+"E":0
+},
+"hlIds":[
+"99b7ab",
+"9741cc",
+"cfb74a",
+"397dff",
+"aed8b3",
+"dd372e",
+"eb52ac",
+"acab5a",
+"10db97",
+"b9a254",
+"1054f1",
+"bb2553",
+"0c85f8",
+"a3a911",
+"1634c7",
+"68ebf2",
+"398234"
+]
+}

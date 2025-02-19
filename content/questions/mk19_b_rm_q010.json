@@ -1,0 +1,194 @@
+{
+"id":"mk19_b_rm_q010",
+"number":10,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"157bd4",
+"children":[
+"A 75-year-old man is evaluated for facial redness and hand, elbow, and knee rash that have progressed over the past 6 months. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"63fa83",
+"children":[
+"On physical examination, vital signs are normal. There is an erythematous, slightly elevated, irregular rash over both cheeks, forehead, and chin, sparing the nasolabial folds. Eyelids also appear pink and swollen. There is faint erythema over the dorsal hands. An indurated rash with faint scale is present over the extensor surfaces of the elbows and knees. Muscle strength and the remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"5e683e",
+"children":[
+"Complete blood count, comprehensive metabolic panel, and serum aldolase and creatine kinase levels are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute cutaneous lupus erythematosus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Amyopathic dermatomyositis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Psoriasis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rosacea"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"21ff22",
+"children":[
+"Some patients with dermatomyositis never develop muscle involvement (amyopathic dermatomyositis) and are diagnosed by using skin biopsy in the setting of at least 6 months without muscle involvement."
+]
+},
+{
+"type":"keypoint",
+"hlId":"775180",
+"children":[
+"A characteristic skin rash should prompt consideration of dermatomyositis even with normal muscle strength and a normal serum creatine kinase level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"567545",
+"children":[
+"The most likely diagnosis is amyopathic dermatomyositis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Some patients with dermatomyositis never develop muscle involvement (amyopathic dermatomyositis); these patients can be diagnosed with skin biopsy confirmation of dermatomyositis in the setting of at least 6 months without muscle involvement. A characteristic skin rash should prompt consideration of dermatomyositis even with normal muscle strength and a normal serum creatine kinase level. This patient has a typical photosensitive distribution of dermatomyositis rash on the face, including a probable early heliotrope rash over the eyelids. He also has Gottron papules on the elbows and knees. Skin biopsy would likely show characteristic interface dermatitis. Further evaluation can include antibody and additional testing for subtle muscle inflammation, using electromyography or MRI, but even if the results are normal, this patient should be treated for dermatomyositis. Patients with amyopathic dermatomyositis also have a high risk for interstitial lung disease and cancer; screening for these conditions should also be part of the initial evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"257c8a",
+"children":[
+"Acute cutaneous lupus erythematosus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be difficult to distinguish clinically from dermatomyositis, especially on the face, because it can present in the same distribution and can have similar findings on skin biopsy. However, lupus is not likely to cause a heliotrope rash or Gottron papules on the hands, elbows, and knees."
+]
+},
+{
+"type":"p",
+"hlId":"42ec4e",
+"children":[
+"This patient's Gottron papules on the elbows and knees can be difficult to distinguish from psoriasis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") by description or physical examination, but psoriasis is less likely to cause the photosensitive rashes seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"92a60e",
+"children":[
+"Rosacea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most common cause of a red rash in a malar distribution in an adult. Rosacea is an inflammatory skin condition that produces small pink papules and pustules on the central face with a variety of specific patterns. The erythema of the cheeks can mimic the malar rash of systemic lupus erythematosus or dermatomyositis but would not be expected to cause skin changes on the extremities."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s9_5_1",
+"objective":{
+"__html":"Diagnose amyopathic dermatomyositis."
+},
+"references":[
+[
+"DeWane ME, Waldman R, Lu J. Dermatomyositis: clinical features and pathogenesis. J Am Acad Dermatol. 2020;82:267-281. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31279808",
+"target":"_blank"
+},
+"children":[
+"PMID: 31279808"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":50,
+"C":20,
+"D":6,
+"E":0
+},
+"hlIds":[
+"157bd4",
+"63fa83",
+"5e683e",
+"413696",
+"21ff22",
+"775180",
+"567545",
+"257c8a",
+"42ec4e",
+"92a60e"
+]
+}

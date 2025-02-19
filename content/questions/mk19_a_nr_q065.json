@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q065",
+"number":65,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f1c4d9",
+"children":[
+"A 41-year-old woman is evaluated for a 2-day history of worsening imbalance and clumsiness of the left arm. She has relapsing-remitting multiple sclerosis. Medications are teriflunomide and a vitamin D supplement."
+]
+},
+{
+"type":"p",
+"hlId":"139fd4",
+"children":[
+"On physical examination, vital signs are normal. Neurologic examination shows new findings of dysmetria and tremor of the left arm. The patient has a wide-based, ataxic gait and is unable to perform tandem gait."
+]
+},
+{
+"type":"p",
+"hlId":"174a52",
+"children":[
+"An MRI of the brain shows multiple periventricular and juxtacortical lesions and one lesion in the left cerebellum. The cerebellar lesion enhances with contrast administration."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intramuscular adrenocorticotropin hormone gel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous glucocorticoids"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous immunoglobulin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ocrelizumab infusion"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Plasmapheresis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bcbc93",
+"children":[
+"The first-line treatment for multiple sclerosis relapses is high-dose glucocorticoids, typically administered as intravenous methylprednisolone (1 g/d for 3 to 5 days)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"821195",
+"children":[
+"Intramuscular adrenocorticotropin hormone gel and plasmapheresis are typically reserved as second-line treatments for multiple sclerosis relapses refractory to glucocorticoid treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4a4273",
+"children":[
+"The most appropriate treatment is intravenous high-dose glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient with relapsing-remitting multiple sclerosis (MS) presents with a new MS relapse, triggered by the development of a new, active cerebellar lesion. The first-line treatment for an MS relapse is high-dose glucocorticoids, typically administered as intravenous methylprednisolone (1 g/d for 3 to 5 days). Patients treated with methylprednisolone have a significant reduction in the risk of either worsening or not improving within 5 weeks of treatment when compared with placebo. Oral equivalency studies have shown that oral methylprednisolone (1 g/d) or prednisone (1250 mg/d) may act as viable alternatives to this regimen. Frequent or prolonged glucocorticoid treatment should be avoided to minimize the risks of osteopenia and early cataracts. Any patient with a suspected relapse should be screened for causes of Uhthoff phenomenon masquerading as a relapse (or “pseudorelapse”) to avoid unnecessary treatment. The Uhthoff phenomenon describes a transient worsening of baseline neurologic symptoms in the setting of hot weather, physical exertion, or fever."
+]
+},
+{
+"type":"p",
+"hlId":"dbdda0",
+"children":[
+"Intramuscular adrenocorticotropin hormone (ACTH) gel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and plasmapheresis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") have demonstrated benefits for treatment of multiple sclerosis exacerbations, but neither is the most appropriate intervention for this patient. Given the extremely high cost of ACTH gel and the inconvenience and cost of hospitalization and the possible adverse effects with plasmapheresis, these interventions are typically reserved as second-line treatments for relapses refractory to glucocorticoid treatment."
+]
+},
+{
+"type":"p",
+"hlId":"211213",
+"children":[
+"Intravenous immunoglobulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may have a similar benefit as plasmapheresis, but this intervention has not been adequately studied as an alternative to glucocorticoid treatment for MS relapses."
+]
+},
+{
+"type":"p",
+"hlId":"a851e1",
+"children":[
+"Ocrelizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an anti-CD20 monoclonal antibody. This medication has demonstrated benefit as a disease-modifying therapy for long-term management of MS but has not been studied as a treatment for acute exacerbations."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_3_2",
+"objective":{
+"__html":"Treat a multiple sclerosis relapse."
+},
+"references":[
+[
+"Galea I, Ward-Abel N, Heesen C. Relapse in multiple sclerosis. BMJ. 2015;350:h1765. Published 2015 Apr 14. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25872511",
+"target":"_blank"
+},
+"children":[
+"PMID: 25872511"
+]
+},
+" doi:10.1136/bmj.h1765"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":70,
+"C":10,
+"D":17,
+"E":3
+},
+"hlIds":[
+"f1c4d9",
+"139fd4",
+"174a52",
+"1054f1",
+"bcbc93",
+"821195",
+"4a4273",
+"dbdda0",
+"211213",
+"a851e1"
+]
+}

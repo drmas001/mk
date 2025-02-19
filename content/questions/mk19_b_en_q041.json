@@ -1,0 +1,235 @@
+{
+"id":"mk19_b_en_q041",
+"number":41,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"73a5bd",
+"children":[
+"A 58-year-old woman is evaluated for a 1-week history of palpitations and dyspnea. She reports having symptoms of mild exertional dyspnea, episodic palpitations, and fatigue 3 weeks earlier, for which she was evaluated in the emergency department with CT angiography for suspected pulmonary embolism. Results were negative. Her symptoms resolved, but then they reappeared 1 week ago. She otherwise has been well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"8e96d8",
+"children":[
+"On physical examination, blood pressure is 150/80 mm Hg, pulse rate is 102/min and irregularly irregular, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% breathing ambient air. Other than tachycardia with an irregular rhythm, cardiopulmonary examination is normal. She has a large multinodular goiter with multiple nodules approximately 2 cm without one dominant nodule."
+]
+},
+{
+"type":"p",
+"hlId":"edb4fc",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of less than 0.01 μU/mL (0.01 mU/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 2.3 ng/dL (30.0 pmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Triiodothyronine (T3), total, serum",
+"children":[
+"total triiodothyronine"
+]
+},
+" level of 230 ng/dL (3.5 nmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"98c2ad",
+"children":[
+"ECG shows atrial fibrillation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"573da9",
+"children":[
+"Which of the following is the most appropriate initial step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Methimazole and propranolol initiation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Thyroid nodule fine-needle aspiration biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid scintigraphy with radioactive iodine uptake"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7244d",
+"children":[
+"Administration of iodine may cause thyrotoxicosis in some patients with multinodular goiters."
+]
+},
+{
+"type":"keypoint",
+"hlId":"988129",
+"children":[
+"Sources of iodine include iodinated contrast media, medications (amiodarone), over-the-counter expectorants and vaginal douches, and kelp."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"60fdc5",
+"children":[
+"The most appropriate management is to start therapy with methimazole and propranolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient with a multinodular goiter presented with thyrotoxicosis 2 weeks after CT angiography for symptoms that may have been related to mild hyperthyroidism. Administration of iodinated contrast material may cause thyrotoxicosis in some patients with multinodular goiters. An iodine load, such as that associated with iodinated contrast media, initially decreases thyroid hormone production and release, but within 1 to 2 weeks, the effect dissipates, thus leading to thyrotoxicosis. Other sources of possible iodine exposure include medications (amiodarone) and over-the-counter preparations and supplements, including expectorants, vaginal douches, and kelp. The administration of iodinated contrast and other sources of iodine should be avoided in patients with multinodular goiters when possible to avoid precipitating iodine-induced hyperthyroidism (Jod-Basedow phenomenon). Methimazole is an antithyroid drug that blocks further iodine uptake and synthesis of thyroid hormone; propranolol controls the heart rate. Both drugs are indicated in this patient with thyrotoxicosis."
+]
+},
+{
+"type":"p",
+"hlId":"db9bd5",
+"children":[
+"Thyroid nodule fine-needle aspiration biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated in patients with suspicious thyroid nodules 1 cm or larger associated with a normal or high thyroid-stimulating hormone (TSH) level. In this patient, however, the low TSH level reveals autonomous thyroid function and lowers the risk for thyroid cancer."
+]
+},
+{
+"type":"p",
+"hlId":"d0783b",
+"children":[
+"Typically, thyroid scintigraphy with radioactive iodine uptake (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the test of choice in patients presenting with thyrotoxicosis. The test distinguishes between hyperthyroidism caused by Graves disease or toxic multinodular goiter and thyrotoxicosis caused by either exogenous thyroid hormone or destructive thyroiditis. However, iodinated contrast administration interferes with radioactive iodine uptake. Thyroid scintigraphy with radioactive uptake may a be valid choice 2 to 3 months after iodinated contrast administration, after the excess iodine is cleared from the circulation."
+]
+},
+{
+"type":"p",
+"hlId":"a26c79",
+"children":[
+"Thyroid ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the test of choice in evaluating thyroid nodules with a normal or elevated TSH. In this patient, however, the TSH is suppressed. Thyroid ultrasonography would have minimal utility in the evaluation of toxic nodules."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_1_3",
+"objective":{
+"__html":"Treat iodine-induced thyrotoxicosis."
+},
+"references":[
+[
+"Burch HB. Drug effects on the thyroid. N Engl J Med. 2019;381:749-761. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31433922",
+"target":"_blank"
+},
+"children":[
+"PMID: 31433922"
+]
+},
+" doi:10.1056/NEJMra1901214"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":66,
+"B":3,
+"C":25,
+"D":6,
+"E":0
+},
+"hlIds":[
+"73a5bd",
+"8e96d8",
+"edb4fc",
+"98c2ad",
+"573da9",
+"b7244d",
+"988129",
+"60fdc5",
+"db9bd5",
+"d0783b",
+"a26c79"
+]
+}

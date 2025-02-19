@@ -1,0 +1,241 @@
+{
+"id":"mk19_qq_q002",
+"number":2,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9dc3fc",
+"children":[
+"A 55-year-old woman is evaluated for worsening muscle weakness. She has end-stage kidney disease. Due to a recent family gathering, she was not adherent to her low-potassium diet. She has not been dialyzed for 3 days."
+]
+},
+{
+"type":"p",
+"hlId":"689d78",
+"children":[
+"Vital signs are normal. Examination reveals diffuse muscular weakness of the lower extremities."
+]
+},
+{
+"type":"p",
+"hlId":"ba6169",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Serum potassium"
+]
+},
+" level is 8.0 mEq/L (8.0 mmol/L) and blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" is 114 mg/dL (6.3 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"597e15",
+"children":[
+"ECG shows tall, peaked T waves."
+]
+},
+{
+"type":"p",
+"hlId":"bf8a38",
+"children":[
+"Intravenous (IV) calcium gluconate is administered. Emergent hemodialysis is planned for later today."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"IV glucose and insulin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"IV high-dose furosemide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"IV sodium bicarbonate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral patiromer"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"519004",
+"children":[
+"In patients with significant hyperkalemia, intravenous calcium gluconate stabilizes the myocardium by lowering the threshold potential and is usually administered acutely to decrease the risk for arrhythmias."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c2b9c8",
+"children":[
+"In patients with end-stage kidney disease, intravenous insulin and glucose will lower serum by shifting potassium intracellularly."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4e98e3",
+"children":[
+"The most appropriate additional treatment for rapidly lowering this patient's serum potassium level is intravenous (IV) glucose and insulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). She has end-stage kidney disease (ESKD) and presents with muscle weakness, hyperkalemia, and peaked T waves on ECG. Signs and symptoms are related to adverse effects of serum potassium on skeletal and cardiac muscle cell membranes, including muscle weakness and cardiac conduction and rhythm abnormalities. IV calcium gluconate stabilizes the myocardium by lowering the threshold potential and is usually administered acutely to decrease the risk for arrhythmias; however, calcium does not have any effect on serum potassium levels. The appropriate treatment for reducing serum potassium quickly in this patient with ESKD and hyperkalemia is both insulin and glucose given intravenously to rapidly shift potassium intracellularly. Insulin effectively drives potassium into cells by increasing activity of the Na",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"/K",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" ATPase pump in skeletal muscle. Glucose is given to counteract potential hypoglycemia associated with insulin therapy."
+]
+},
+{
+"type":"p",
+"hlId":"3112d2",
+"children":[
+"High-dose loop diuretics, such as furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and thiazide diuretics increase kidney potassium loss, particularly when combined with saline hydration, in patients with normal kidney function or mild to moderate kidney failure. However, this effect is not immediate, and furosemide would be ineffective in this patient with ESKD."
+]
+},
+{
+"type":"p",
+"hlId":"c1b0de",
+"children":[
+"IV sodium bicarbonate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") raises the serum pH and leads to a shift of potassium into cells as part of the buffering process. However, it has not been shown to be an effective or predictable method for producing a hypokalemic response, especially in patients with ESKD."
+]
+},
+{
+"type":"p",
+"hlId":"32fe81",
+"children":[
+"Definitive treatment of severe hyperkalemia, unrelated to reversible transcellular shift, must include removal of potassium from the body. Patiromer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and sodium zirconium cyclosilicate are effective in binding potassium in the gastrointestinal tract and effectively lower potassium. However, hemodialysis is the treatment of choice in patients with severe hyperkalemia and oliguric kidney disease; this patient has no need for patiromer therapy."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_3_2_2",
+"objective":{
+"__html":"Treat hyperkalemia using intravenous glucose and insulin."
+},
+"references":[
+[
+"Liu M, Rafique Z. Acute management of hyperkalemia. Curr Heart Fail Rep. 2019;16:67-74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30972536",
+"target":"_blank"
+},
+"children":[
+"PMID: 30972536"
+]
+},
+" doi:10.1007/s11897-019-00425-2"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9dc3fc",
+"689d78",
+"ba6169",
+"597e15",
+"bf8a38",
+"78ff87",
+"519004",
+"c2b9c8",
+"4e98e3",
+"3112d2",
+"c1b0de",
+"32fe81"
+]
+}

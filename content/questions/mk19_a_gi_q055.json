@@ -1,0 +1,485 @@
+{
+"id":"mk19_a_gi_q055",
+"number":55,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8e0aaa",
+"children":[
+"A 72-year-old woman is hospitalized for subacute onset of jaundice that developed 5 days ago on the second day of a cruise to Central America. She has no known liver disease and reports consuming fewer than three drinks per week. She has no abdominal pain, nausea, or vomiting. Five weeks ago she was treated with amoxicillin-clavulanate for an episode of acute diverticulitis."
+]
+},
+{
+"type":"p",
+"hlId":"719f13",
+"children":[
+"On physical examination, vital signs are normal. Icterus and jaundice are observed. There are no signs of chronic liver disease. Mental status is normal, and no asterixis is seen."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8fcf2c",
+"class":"cell text l",
+"children":[
+"200 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2c6244",
+"class":"cell text l",
+"children":[
+"57 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"da3603",
+"class":"cell text l",
+"children":[
+"70 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1fa02f",
+"class":"cell text l",
+"children":[
+"15 mg/dL (256.5 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ffae8",
+"class":"cell text l",
+"children":[
+"INR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e4c2e8",
+"class":"cell text l",
+"children":[
+"1.0"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"2b4d68",
+"children":[
+"Right-upper-quadrant ultrasound shows no gallbladder stones or biliary dilation, a normal-size liver, and no masses."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Autoimmune hepatitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Drug-induced liver injury"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hepatitis A virus infection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Primary biliary cholangitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1f3193",
+"children":[
+"Drug-induced liver disease can result from exposure to prescription and nonprescription drugs as well as herbal and dietary supplements, even if the exposure occurred 6 months before symptom onset."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a8538",
+"children":[
+"The most common cause of cholestatic hepatitis is drug-induced liver injury."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"38588c",
+"children":[
+"The most likely diagnosis is drug-induced liver injury (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Elevations in alkaline phosphatase and serum total bilirubin levels and proportionally lesser elevations of aminotransferase levels indicate cholestatic hepatitis, the most common cause of which is drug-induced cholestasis. Drug-induced liver injury can result from exposure to prescription and nonprescription drugs as well as herbal and dietary supplements, even if the exposure occurred 6 months before symptom onset. The likely source of this patient's cholestasis is the amoxicillin-clavulanate she received for diverticulitis. Antibiotics (particularly amoxicillin-clavulanate) and antiepileptic medications (phenytoin and valproate) are among the most common medications associated with drug-induced liver injury, representing 60% of cases. Liver injury typically resolves after discontinuation of the offending drug; resolution of liver injury supports the diagnosis. Jaundice that occurs with cholestatic drug reactions can take months to resolve. Treatment of drug-induced liver disease is largely supportive, with removal of the offending agent. Liver transplantation can be considered in patients who have evidence of liver failure (i.e., those for whom liver injury is associated with encephalopathy and coagulopathy)."
+]
+},
+{
+"type":"p",
+"hlId":"c61191",
+"children":[
+"Autoimmune hepatitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") presents predominantly as a hepatocellular injury. The presentation of autoimmune hepatitis can vary from asymptomatic elevation of aminotransferase levels to extrahepatic symptoms, such as myalgia and malaise, to acute liver failure. This patient's cholestatic liver injury pattern is not consistent with autoimmune hepatitis."
+]
+},
+{
+"type":"p",
+"hlId":"7a6fe1",
+"children":[
+"Hepatitis A virus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is transmitted by the fecal–oral route. International travel is a risk factor. A prodrome of malaise, nausea, vomiting, fever, and right-upper-quadrant discomfort is followed by development of jaundice and a hepatocellular pattern of injury. Despite this patient's international travel, her illness is not compatible with hepatitis A virus infection because the incubation period for this infection is 15 to 50 days."
+]
+},
+{
+"type":"p",
+"hlId":"7faf6c",
+"children":[
+"Primary biliary cholangitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an unlikely cause of subacute cholestatic liver injury in this 73-year-old patient. Most patients are diagnosed between the fourth and fifth decades of life and either present with pruritus or have incidentally discovered elevated alkaline phosphatase level."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_5",
+"objective":{
+"__html":"Diagnose drug-induced liver injury."
+},
+"references":[
+[
+"Chalasani NP, Maddur H, Russo MW, et al; Practice Parameters Committee of the American College of Gastroenterology. ACG clinical guideline: diagnosis and management of idiosyncratic drug-induced liver injury. Am J Gastroenterol. 2021;116:878-898. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33929376",
+"target":"_blank"
+},
+"children":[
+"PMID: 33929376"
+]
+},
+" doi:10.14309/ajg.0000000000001259"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":60,
+"C":29,
+"D":8,
+"E":0
+},
+"hlIds":[
+"8e0aaa",
+"719f13",
+"a462a3",
+"1cc80b",
+"8fcf2c",
+"62ea29",
+"2c6244",
+"c7d329",
+"da3603",
+"c6e520",
+"1fa02f",
+"4ffae8",
+"e4c2e8",
+"2b4d68",
+"413696",
+"1f3193",
+"0a8538",
+"38588c",
+"c61191",
+"7a6fe1",
+"7faf6c"
+]
+}

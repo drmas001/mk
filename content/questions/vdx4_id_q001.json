@@ -1,0 +1,144 @@
+{
+"id":"vdx4_id_q001",
+"number":1,
+"bookId":"vdx_id",
+"correctAnswer":"D",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7355d5",
+"children":[
+"A 72-year-old man with COPD is evaluated for acute cough, fever, and dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"2e5f15",
+"children":[
+"Chest ",
+{
+"type":"figure-link",
+"target":"vdx4_id_mcq_f001a",
+"wrapId":"1",
+"children":[
+"radiographs"
+]
+},
+" are ",
+{
+"type":"figure-link",
+"target":"vdx4_id_mcq_f001b",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_id_mcq_f001a",
+"vdx4_id_mcq_f001b"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Radiation pneumonitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Right lower lobe pneumonia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right middle lobe pneumonia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right upper lobe pneumonia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1e5b66",
+"children":[
+"The most likely diagnosis is right upper lobe pneumonia. The posteroanterior chest radiograph shows an alveolar infiltrate in the right upper lung zone that obliterates the ascending aorta. The lateral chest radiograph shows an infiltrate in the superior lung field anterior to the major fissure. These findings are most consistent with a right upper lobe infiltrate (pneumonia)."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_3",
+"objective":{
+"__html":"Diagnose right upper lobe pneumonia."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_id_mcq_f001a":{
+"id":"vdx4_id_mcq_f001a",
+"number":1,
+"bookId":"vdx_id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"b84a46ebc6e9e831cf750c324caa9708",
+"height":549,
+"width":603,
+"extension":"jpg"
+}
+},
+"vdx4_id_mcq_f001b":{
+"id":"vdx4_id_mcq_f001b",
+"number":1,
+"bookId":"vdx_id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"6891d1e29deb271cce9da859df50c416",
+"height":542,
+"width":589,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7355d5",
+"2e5f15",
+"413696",
+"1e5b66"
+]
+}

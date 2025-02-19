@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q006",
+"number":6,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"779483",
+"children":[
+"A 28-year-old man is evaluated for a testicular mass recently discovered by his wife. He also notes the recent onset of cough and lumbar back pain."
+]
+},
+{
+"type":"p",
+"hlId":"303078",
+"children":[
+"An inguinal orchiectomy reveals a testicular seminoma. Tumor staging is performed, and distant metastases are discovered. He will be treated with highly-emetogenic cisplatin-based combination chemotherapy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"dd2a0e",
+"children":[
+"Which of the following is the most appropriate measure to prevent this patient's nausea and vomiting?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alprazolam and olanzapine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Serotonin antagonist, neurokinin-1 receptor antagonists, and glucocorticoids"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serotonin antagonist, neurokinin-1 receptor antagonists, glucocorticoids, and olanzapine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serotonin antagonist, neurokinin-1 receptor antagonists, and medical marijuana"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"253936",
+"children":[
+"The major risk factor for nausea and vomiting in chemotherapy regimens is the emetogenicity of the chemotherapy agent being used."
+]
+},
+{
+"type":"keypoint",
+"hlId":"59d82b",
+"children":[
+"For patients receiving highly emetogenic chemotherapy, the combination of serotonin antagonists, neurokinin-1 receptor antagonists, glucocorticoids, and olanzapine are guideline recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a5eea3",
+"children":[
+"This patient should receive the combination of a serotonin antagonist, neurokinin-1 receptor antagonist, glucocorticoids, and olanzapine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Delayed nausea and vomiting are defined as symptoms occurring at least 24 hours after receiving chemotherapy, a sequela that can significantly affect a patient's quality of life. The major risk factor for nausea and vomiting in chemotherapy regimens is the emetogenicity of the chemotherapy agent being used. Highly emetogenic chemotherapy is associated with greater than 90% risk of emesis if appropriate prophylactic medications are not given. High-dose cisplatin is highly emetogenic. Serotonin antagonists like ondansetron or palonosetron are very effective in preventing acute nausea and vomiting but have less impact on prevention of delayed-onset symptoms. Neurokinin-1 receptor antagonists, glucocorticoids, and olanzapine have been shown to help with delayed nausea and vomiting. The combination of a serotonin antagonist, neurokinin-1 receptor antagonists, glucocorticoids, and olanzapine has been shown to significantly decrease breakthrough symptoms and is recommended by American Society of Clinical Oncology (ASCO) guidelines."
+]
+},
+{
+"type":"p",
+"hlId":"361d3a",
+"children":[
+"Benzodiazepines, such as alprazolam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or lorazepam, are anxiolytics that may help with anticipatory nausea, vomiting, and anxiety related to treatment. However, these drugs can cause significant sedation and would not be helpful in preventing delayed nausea and vomiting. Anticipatory nausea and vomiting occur as a conditioned response in patients who experienced severe nausea and vomiting during prior cycles of chemotherapy. Anticipatory nausea and vomiting may be precipitated by sensory cues such as the room where chemotherapy is delivered, or by the travel route taken for treatment. The best prevention for anticipatory nausea and vomiting is selection of the most appropriate antiemetics and dosages for the chemotherapy that is to be delivered."
+]
+},
+{
+"type":"p",
+"hlId":"31f693",
+"children":[
+"ASCO guidelines recommend adult patients who are treated with an anthracycline combined with cyclophosphamide should be offered a four-drug combination of a serotonin antagonist, neurokinin-1 receptor antagonists, glucocorticoids, and olanzapine. A combination of a serotonin antagonist, neurokinin-1 receptor antagonists, and glucocorticoids alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be insufficient to prevent delayed nausea and vomiting in this patient receiving highly emetogenic chemotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"a9119b",
+"children":[
+"ASCO guidelines state that the evidence remains insufficient for a recommendation regarding treatment with medical marijuana for the prevention of nausea and vomiting in patients with cancer who receive chemotherapy or radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Evidence is also insufficient for a recommendation regarding the use of medical marijuana in place of the tested and approved cannabinoids, dronabinol and nabilone, for the treatment of nausea and vomiting caused by chemotherapy or radiation therapy. Dronabinol is approved as rescue nausea medication in patients with breakthrough symptoms despite adequate prophylaxis. This patient's prophylaxis effectiveness has not yet been tested, so dronabinol would not be appropriate at this time."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_1_2",
+"objective":{
+"__html":"Manage chemotherapy-induced nausea and vomiting."
+},
+"references":[
+[
+"Hesketh PJ, Kris MG, Basch E, et al. Antiemetics: American Society of Clinical Oncology clinical practice guideline update. J Clin Oncol. 2017;35:3240-3261. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28759346",
+"target":"_blank"
+},
+"children":[
+"PMID: 28759346"
+]
+},
+" doi:10.1200/JCO.2017.74.4789"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"779483",
+"303078",
+"dd2a0e",
+"253936",
+"59d82b",
+"a5eea3",
+"361d3a",
+"31f693",
+"a9119b"
+]
+}

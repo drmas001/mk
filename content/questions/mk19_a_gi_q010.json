@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gi_q010",
+"number":10,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e16460",
+"children":[
+"A 36-year-old woman is evaluated for a 3-day history of constant right-upper-quadrant abdominal discomfort and abdominal distention. She has no significant medical history. Her only medication is a combined oral contraceptive pill."
+]
+},
+{
+"type":"p",
+"hlId":"b40da7",
+"children":[
+"On physical examination, vital signs are normal. Palpation reveals a tender, enlarged liver. Ascites is present. Bowel sounds are normal."
+]
+},
+{
+"type":"p",
+"hlId":"d895e5",
+"children":[
+"Laboratory evaluation shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"alanine aminotransferase"
+]
+},
+" level of 152 U/L and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"aspartate aminotransferase"
+]
+},
+" level of 138 U/L."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal Doppler ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Abdominal radiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hepatobiliary iminodiacetic acid scintigraphy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Noncontrast abdominal CT"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d75133",
+"children":[
+"Budd-Chiari syndrome is suggested by right-upper-quadrant abdominal discomfort, hepatomegaly, and ascites."
+]
+},
+{
+"type":"keypoint",
+"hlId":"593bff",
+"children":[
+"Budd-Chiari syndrome can be diagnosed with Doppler ultrasonography of the abdomen; it demonstrates absence of flow in the hepatic veins as well as hepatic congestion."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"441733",
+"children":[
+"The most appropriate diagnostic test to perform next is abdominal Doppler ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The development of Budd-Chiari syndrome is heralded by right-upper-quadrant abdominal discomfort, hepatomegaly, and ascites. Thrombosis of the hepatic veins leads to hepatic congestion and increased portal pressures, resulting in ascites. Risk factors for Budd-Chiari syndrome include hypercoagulable states, such as myeloproliferative neoplasms, pregnancy, and the use of oral contraceptives. Budd-Chiari syndrome can be diagnosed with Doppler ultrasonography of the abdomen, which demonstrates absence of flow in the hepatic veins as well as hepatic congestion. Typically, the caudate lobe of the liver will develop hypertrophy because the venous drainage of this segment of the liver is directly into the inferior vena cava rather than through the hepatic veins. Long-term anticoagulation is required in patients with Budd-Chiari syndrome, although bleeding risks are significant in patients with acute or chronic liver disease, portal hypertension, and esophageal varices. Angioplasty of the hepatic veins and/or placement of a transjugular intrahepatic portosystemic shunt (TIPS) can be used to reestablish adequate hepatic venous drainage. If liver failure develops, liver transplantation may be considered."
+]
+},
+{
+"type":"p",
+"hlId":"3d0858",
+"children":[
+"Abdominal radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can demonstrate bowel obstruction or intestinal ileus but would not be helpful in the diagnosis of hepatic vein thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"4953d5",
+"children":[
+"Hepatobiliary iminodiacetic acid scintigraphy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used to evaluate for gallbladder obstruction or a bile leak after an intervention on the biliary tree. This patient's acute onset of tender hepatomegaly and ascites is not compatible with intermittent, colicky gallbladder pain, and hepatobiliary scintigraphy is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"d024a5",
+"children":[
+"Noncontrast abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not helpful when there is concern for vascular disease in the abdomen. Intravenous contrast is essential for evaluating the patency of the hepatic artery, portal veins, and hepatic veins. Contrast-enhanced abdominal CT can help elucidate the extent of vascular thrombosis and potential use of a TIPS for opening the hepatic veins to decompress the liver; without intravenous contrast, however, CT would not be appropriate in this setting. In most patients, Doppler ultrasonography is adequate for evaluation of Budd-Chiari syndrome and does not require contrast administration or radiation exposure."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_15_2",
+"objective":{
+"__html":"Diagnose Budd-Chiari syndrome."
+},
+"references":[
+[
+"Das CJ, Soneja M, Tayal S, et al. Role of radiological imaging and interventions in management of Budd-Chiari syndrome. Clin Radiol. 2018;73:610-624. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29549997",
+"target":"_blank"
+},
+"children":[
+"PMID: 29549997"
+]
+},
+" doi:10.1016/j.crad.2018.02.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":81,
+"B":3,
+"C":4,
+"D":12,
+"E":0
+},
+"hlIds":[
+"e16460",
+"b40da7",
+"d895e5",
+"ab9d96",
+"d75133",
+"593bff",
+"441733",
+"3d0858",
+"4953d5",
+"d024a5"
+]
+}

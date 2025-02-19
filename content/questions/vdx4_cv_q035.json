@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q035",
+"number":35,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb1232",
+"children":[
+"A 35-year-old man is evaluated in the emergency department for rapid heart rate and dizziness. He was recently started on levofloxacin for community-acquired pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"2bc089",
+"children":[
+"A telemetry rhythm strip is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f035",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f035"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"678e5b",
+"children":[
+"Which of the following abnormalities is seen on this patient's telemetry rhythm strip?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Monomorphic ventricular tachycardia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Right bundle branch block with aberrancy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Torsades de pointes"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular fibrillation"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ec6974",
+"children":[
+"This patient's telemetry rhythm strip demonstrates torsades de pointes, a polymorphic ventricular tachycardia. The torsades de pointes pattern is associated with QT interval prolongation and is characterized by an undulating QRS pattern that seems to twist across the baseline. This tracing also shows the initiation of ventricular tachycardia with a premature ventricular complex occurring during the repolarization phase of the previous QRS complex (“R-on-T” event). Macrolides and quinolones may prolong the QT interval, and alternative agents should be considered in patients at risk for torsades de pointes, including history of a long QT interval or use of other medications that prolong the QT interval."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_2_1",
+"objective":{
+"__html":"Identify torsades de pointes on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f035":{
+"id":"vdx4_cv_mcq_f035",
+"number":35,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"837a505d8672d5ccc7e98eded6021812",
+"height":128,
+"width":658,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"bb1232",
+"2bc089",
+"678e5b",
+"ec6974"
+]
+}

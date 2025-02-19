@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q015",
+"number":15,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"65aa04",
+"children":[
+"A 63-year-old man is evaluated for dyspnea. The patient has newly diagnosed stage IV lung adenocarcinoma with a right malignant pleural effusion. A thoracentesis removed 1200 mL of bloody fluid 5 days ago with relief of dyspnea. Follow-up chest radiograph documented incomplete expansion of the right lung, with air replacing the removed pleural fluid. He has returned to the emergency department today with increasing dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"f55c7e",
+"children":[
+"On physical examination, vital signs are normal. Respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% with the patient breathing ambient air. Lung examination is consistent with a large right pleural effusion."
+]
+},
+{
+"type":"p",
+"hlId":"499659",
+"children":[
+"Repeat chest radiograph shows a large right-sided pleural effusion with loculations."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemical pleurodesis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Indwelling pleural catheter"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat thoracentesis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical decortication"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"54bed1",
+"children":[
+"Initial treatment of a malignant pleural effusion in patients with expandable lung includes either an indwelling pulmonary catheter or chemical pleurodesis with talc."
+]
+},
+{
+"type":"keypoint",
+"hlId":"79e5e8",
+"children":[
+"In patients with a malignant pleural effusion and a nonexpanding lung, an indwelling pulmonary catheter is the treatment of choice."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"208c91",
+"children":[
+"The most appropriate management for this patient is placement of an indwelling pleural catheter (IPC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The diagnosis of a malignant pleural effusion signifies advanced disease and overall poor prognosis (usually 4-7 months from the time of diagnosis). In these patients, the goal of management is relief of symptoms. Several therapeutic options exist, and treatment decisions should be based on symptoms, prognosis, degree of anticipated lung re-expansion, and patient performance status. The patient has a recurrent symptomatic malignant pleural effusion that requires definitive management given the rapidity of recurrence. Initial treatment choices include IPC and chemical pleurodesis with talc, and either may be used as first-line treatment in patients with expandable lung. In this patient, however, because there is evidence of incomplete lung expansion on his post-thoracentesis radiographs, the treatment of choice is IPC. Incomplete expansion of the lung is common in malignant pleural effusion. It is diagnosed with either pleural manometry (measurement of intrapleural pressures during a thoracentesis) or, as in this patient, evidence of incomplete re-expansion (air replacing the drained pleural effusion) on a post-thoracentesis chest radiograph. Nonexpandable lung has a variety of causes, including pleural thickening, pleural tumor, septations, loculations, and endobronchial obstruction."
+]
+},
+{
+"type":"p",
+"hlId":"5f6b29",
+"children":[
+"Chemical pleurodesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") refers to obliteration of the pleural space with a sclerosing agent, typically talc. Talc can be introduced through a thoracostomy tube (talc slurry) or during a thoracoscopy (talc poudrage). Successful pleurodesis requires apposition of the parietal and visceral pleural surfaces, which limits the use of this treatment in patients with an unexpanded lung."
+]
+},
+{
+"type":"p",
+"hlId":"4c471d",
+"children":[
+"Repeat therapeutic thoracentesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is appropriate for patients with poor prognosis (<3 months) and slow reaccumulation of fluid. It would not be the best choice for this patient because of the rapidity of symptomatic fluid reaccumulation."
+]
+},
+{
+"type":"p",
+"hlId":"8e7ade",
+"children":[
+"Surgical decortication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not used as first-line treatment for recurrent malignant pleural effusion because of its associated costs and morbidity."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_1_2_2",
+"objective":{
+"__html":"Treat recurrent symptomatic malignant pleural effusion with an indwelling pleural catheter."
+},
+"references":[
+[
+"Feller-Kopman DJ, Reddy CB, DeCamp MM, et al. Management of malignant pleural effusions. an official ATS/STS/STR clinical practice guideline. Am J Respir Crit Care Med. 2018;198:839-849. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30272503",
+"target":"_blank"
+},
+"children":[
+"PMID: 30272503"
+]
+},
+" doi:10.1164/rccm.201807-1415ST"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":54,
+"C":3,
+"D":26,
+"E":0
+},
+"hlIds":[
+"65aa04",
+"f55c7e",
+"499659",
+"cb2b54",
+"54bed1",
+"79e5e8",
+"208c91",
+"5f6b29",
+"4c471d",
+"8e7ade"
+]
+}

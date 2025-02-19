@@ -1,0 +1,189 @@
+{
+"id":"mk19_b_hm_q013",
+"number":13,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a588d3",
+"children":[
+"A 45-year-old man is hospitalized for neutropenic fever. He was recently diagnosed with diffuse large B-cell lymphoma, and his last chemotherapy treatment was 10 days ago. His course of chemotherapy consisted of rituximab, cyclophosphamide, doxorubicin, vincristine (day 1), and prednisone (days 1-5). He is treated appropriately with a broad-spectrum antibiotic and is discharged 5 days later feeling improved and with a recovering neutrophil count."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"696c70",
+"children":[
+"Which of the following is the most appropriate management to reduce the risk of future febrile neutropenia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Reduce cyclophosphamide and doxorubicin doses"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start granulocyte colony-stimulating factor (G-CSF) weekly"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start G-CSF at the time of chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start levofloxacin at the time of chemotherapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0c30c1",
+"children":[
+"Granulocyte colony-stimulating factor can be given prophylactically to patients receiving chemotherapy that carries a high risk of neutropenia and as secondary prophylaxis in patients with a previous episode of febrile neutropenia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4be24d",
+"children":[
+"Granulocyte colony-stimulating factor is not indicated for most patients with neutropenia who are afebrile, as a routine adjunct to empiric antibiotics for patients presenting with febrile neutropenia, or for patients undergoing induction chemotherapy for acute leukemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0a38ac",
+"children":[
+"The patient should start granulocyte colony-stimulating factor (G-CSF) with his next cycle of chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Febrile neutropenia is defined as a single fever of 38.3 °C (101 °F) or sustained fever of 38 °C (100.4 °F) in a patient with a current or anticipated absolute neutrophil count less than 500/μL (0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Chemotherapy-induced neutropenia typically occurs within 5 to 15 days following chemotherapy. G-CSF and granulocyte-macrophage colony-stimulating factor can be given prophylactically to patients receiving chemotherapy that carries a high risk of neutropenia and as secondary prophylaxis in patients with a previous episode of febrile neutropenia. G-CSF administered on day 2 of the next chemotherapy cycle should reduce the risk of another neutropenic fever episode. G-CSF is not indicated for most patients with neutropenia who are afebrile, as a routine adjunct to empiric antibiotics for patients presenting with febrile neutropenia, or for patients undergoing induction chemotherapy for acute leukemia."
+]
+},
+{
+"type":"p",
+"hlId":"ec77f2",
+"children":[
+"Reducing this patient's chemotherapy dose for subsequent cycles would not be an appropriate strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Prophylaxis with G-CSF is better management for this patient than chemotherapy dose reduction, which might compromise the potential therapeutic outcome of his treatment."
+]
+},
+{
+"type":"p",
+"hlId":"fc17e8",
+"children":[
+"Given the cost, lack of benefit in patients with recovered neutrophil counts, and potential adverse effects, weekly administration of G-CSF is not warranted (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). G-CSF has many potential toxicities, including transient leukopenia following administration; systemic reactions that may include flulike symptoms, hypertension, and increased risk for thrombosis; possible stimulation of malignancy; and production of neutralizing antibodies."
+]
+},
+{
+"type":"p",
+"hlId":"81bbe6",
+"children":[
+"Fluoroquinolone prophylaxis is typically used for patients at high risk for prolonged neutropenia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Those at high risk include patients undergoing allogeneic stem cell transplantation or receiving induction chemotherapy for acute leukemia, neither of which applies to this patient."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_6",
+"objective":{
+"__html":"Prevent chemotherapy-induced neutropenia."
+},
+"references":[
+[
+"Becker PS, Griffiths EA, Alwan LM, et al. NCCN guidelines insights: hematopoietic growth factors, version 1.2020. J Natl Compr Canc Netw. 2020;18:12-22. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31910384",
+"target":"_blank"
+},
+"children":[
+"PMID: 31910384"
+]
+},
+" doi:10.6004/jnccn.2020.0002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":20,
+"C":65,
+"D":6,
+"E":0
+},
+"hlIds":[
+"a588d3",
+"696c70",
+"0c30c1",
+"4be24d",
+"0a38ac",
+"ec77f2",
+"fc17e8",
+"81bbe6"
+]
+}

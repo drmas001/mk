@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q044",
+"number":44,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"623e1c",
+"children":[
+"A 74-year-old man is evaluated in the emergency department for somnolence. He resides in a skilled nursing facility. His transfer note indicates that he has moderately severe Alzheimer disease treated with donepezil."
+]
+},
+{
+"type":"p",
+"hlId":"685e99",
+"children":[
+"On physical examination, blood pressure is 70/40 mm Hg and pulse rate is 30/min; other vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" with the patient breathing ambient air is 97%. The patient is difficult to arouse. Cardiac examination reveals bradycardia but is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"11f438",
+"children":[
+"Complete blood count and electrolyte levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"c3d8f7",
+"children":[
+"Cardiac telemetry shows sinus bradycardia with heart rate of 30/min."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amiodarone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chest compressions"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous atropine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Isoproterenol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"376cde",
+"children":[
+"The treatment of hemodynamically unstable sinus bradycardia in patients with a pulse is intravenous atropine."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fd7cf1",
+"children":[
+"The most common extrinsic cause of sinus bradycardia is medication use (β-blockers, donepezil, neostigmine, pyridostigmine)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"eaf47d",
+"children":[
+"This patient should receive intravenous atropine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). He has altered mental status and hypotension in the setting of profound bradycardia. According to the advanced cardiovascular life support algorithm for bradycardia in patients with a pulse, atropine is the most appropriate first step. It may acutely improve heart rate and perfusion but will likely require repeat dosing if effective. Alternatives include intravenous dopamine or epinephrine or transcutaneous pacing, which is painful. Ultimately, the goal is to determine the underlying cause of his acute condition. The bradycardia may be either the cause or the result of his decompensation. Pathologic sinus bradycardia is most commonly caused by sinus node dysfunction due to age-related myocardial fibrosis. Less commonly, sinus node dysfunction may result from right coronary ischemia, hypothyroidism, intracranial hypertension, postoperative scarring or fibrosis from cardiothoracic surgery, or infiltrative or inflammatory disorders (e.g., sarcoidosis). The most common extrinsic cause is medication use (β-blockers, donepezil, neostigmine, pyridostigmine). Permanent pacing may be indicated eventually."
+]
+},
+{
+"type":"p",
+"hlId":"d392b2",
+"children":[
+"Amiodarone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a multichannel antiarrhythmic agent used primarily to treat ventricular arrhythmias and atrial fibrillation. It has no role in the management of symptomatic bradycardia and is more likely to worsen his condition through its β-blocking and negative inotropic properties."
+]
+},
+{
+"type":"p",
+"hlId":"088140",
+"children":[
+"This patient is profoundly bradycardic and hypotensive, but he does have a pulse and is arousable. Therefore, chest compressions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are not currently indicated. If the pulse becomes no longer palpable, he would be in pulseless electrical activity arrest, in which case chest compressions to facilitate systemic perfusion may be life-saving."
+]
+},
+{
+"type":"p",
+"hlId":"af807c",
+"children":[
+"In patients with sinus node dysfunction associated with symptoms or hemodynamic compromise who are at low likelihood of coronary ischemia, isoproterenol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), dopamine, dobutamine, or epinephrine may be considered to increase heart rate and improve symptoms. In general, guidelines relegate chronotropic agents as second-line therapy to atropine in the acute resuscitation of patients with hemodynamically unstable bradycardia."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_4",
+"objective":{
+"__html":"Manage acute bradycardia."
+},
+"references":[
+[
+"Kusumoto FM, Schoenfeld MH, Barrett C, et al. 2018 ACC/AHA/HRS guideline on the evaluation and management of patients with bradycardia and cardiac conduction delay: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2019;140:e382-e482. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30586772",
+"target":"_blank"
+},
+"children":[
+"PMID: 30586772"
+]
+},
+" doi:10.1161/CIR.0000000000000628"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":91,
+"D":7,
+"E":0
+},
+"hlIds":[
+"623e1c",
+"685e99",
+"11f438",
+"c3d8f7",
+"1054f1",
+"376cde",
+"fd7cf1",
+"eaf47d",
+"d392b2",
+"088140",
+"af807c"
+]
+}

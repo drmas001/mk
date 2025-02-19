@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q066",
+"number":66,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0bd13b",
+"children":[
+"A 65-year-old man is evaluated in the hospital for progressive dyspnea with light exertion. He was diagnosed with restrictive cardiomyopathy 2 years ago and atrial fibrillation 18 months ago. Attempts at pharmacologic rhythm control have been unsuccessful. Medications are apixaban, spironolactone, torsemide, and potassium chloride."
+]
+},
+{
+"type":"p",
+"hlId":"350e4f",
+"children":[
+"On physical examination, blood pressure is 106/68 mm Hg, pulse rate is 86/min and irregularly irregular, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. Central venous pressure is elevated. Bibasilar crackles are present. Hepatomegaly is noted. There is bilateral pitting edema to the knees."
+]
+},
+{
+"type":"p",
+"hlId":"3b5988",
+"children":[
+"ECG shows atrial fibrillation with a ventricular rate of 86/min, right bundle branch block, and QRS duration of 136 ms."
+]
+},
+{
+"type":"p",
+"hlId":"aaaec1",
+"children":[
+"An echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 50%, increased left and right ventricular wall thickness, and abnormal left ventricular diastolic function. The estimated right ventricular systolic pressure is 64 mm Hg."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac resynchronization therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac transplantation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Implantable cardioverter-defibrillator"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary vein isolation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"df7a39",
+"children":[
+"Heart transplantation is an effective therapy for select patients with end-stage restrictive cardiomyopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ca36f0",
+"children":[
+"Cardiac transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment for this patient. The patient has symptoms of refractory heart failure despite efforts at diuresis and rhythm control. The features of preserved systolic function, significant biatrial dilatation, and pulmonary hypertension on echocardiogram support the diagnosis of restrictive cardiomyopathy (RCM). Survival is poor in patients with RCM, with a 5-year mortality rate of 36% and a 10-year mortality rate of 63%. Cardiovascular mortality is predominantly related to progressive heart failure and arrhythmias. Mortality rates increase with male sex, severity of left atrial dilatation, age older than 70 years, and New York Heart Association (NYHA) functional class. The patient should be referred to an advanced heart failure and transplantation specialist for evaluation for possible cardiac transplantation. Heart transplantation may be limited by pulmonary hypertension."
+]
+},
+{
+"type":"p",
+"hlId":"20385d",
+"children":[
+"Cardiac resynchronization therapy (CRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated for patients who have refractory heart failure symptoms despite guideline-directed medical therapy with left ventricular ejection fraction less than 35% and QRS duration greater than 150 ms, optimally with left bundle branch block configuration and sinus rhythm. This patient does not have an indication for CRT."
+]
+},
+{
+"type":"p",
+"hlId":"3c2991",
+"children":[
+"Placement of an implantable cardioverter-defibrillator (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended in patients with heart failure who have an ejection fraction of 35% or less and NYHA functional class II or III symptoms while receiving guideline-directed medical therapy. There is no accepted indication for primary prevention ICD placement in patients with RCM who have preserved systolic function."
+]
+},
+{
+"type":"p",
+"hlId":"09a79a",
+"children":[
+"Pulmonary vein isolation for rhythm control (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be appropriate in conjunction with therapy to reduce stroke risk in patients with symptomatic atrial fibrillation unresponsive to antiarrhythmic medications. However, in this patient with severe left atrial dilation, persistent atrial fibrillation for more than 1 year, and evidence of underlying RCM, it is unlikely to provide a durable solution to the patient's problem and carries procedural risk."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7_3_2",
+"objective":{
+"__html":"Treat end-stage primary restrictive cardiomyopathy with cardiac transplantation."
+},
+"references":[
+[
+"Pereira NL, Grogan M, Dec GW. Spectrum of restrictive and infiltrative cardiomyopathies: part 2 of a 2-part series. J Am Coll Cardiol. 2018;71:1149-66. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29519356",
+"target":"_blank"
+},
+"children":[
+"PMID: 29519356"
+]
+},
+" doi:10.1016/j.jacc.2018.01.017"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":24,
+"C":11,
+"D":27,
+"E":0
+},
+"hlIds":[
+"0bd13b",
+"350e4f",
+"3b5988",
+"aaaec1",
+"cb2b54",
+"df7a39",
+"ca36f0",
+"20385d",
+"3c2991",
+"09a79a"
+]
+}

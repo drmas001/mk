@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q004",
+"number":4,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4bb122",
+"children":[
+"A 62-year-old man is evaluated for adjuvant therapy after surgical removal of an adenocarcinoma of the colon. Postsurgical pathology revealed a tumor penetrating the full thickness of the colonic wall, and cancer is found in three of 17 lymph nodes. Presurgical imaging revealed no evidence of distant metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4ad211",
+"children":[
+"Which of the following is the most appropriate adjuvant treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bevacizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Capecitabine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxaliplatin, fluorouracil, and leucovorin (FOLFOX)"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiation therapy"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b4835d",
+"children":[
+"The FOLFOX regimen of 5-fluorouracil, leucovorin, and oxaliplatin or oxaliplatin with oral capecitabine is the most appropriate adjuvant therapy for stage III colon cancer."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0e3c00",
+"children":[
+"Unlike rectal cancer, adjuvant irradiation is not part of the routine management of colon cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c322d0",
+"children":[
+"This patient has stage IIIB colon cancer, and the most appropriate treatment is oxaliplatin, fluorouracil, and leucovorin (FOLFOX) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Stage III is defined by metastases to the local-regional lymph nodes. Stage III colon cancer is potentially curable, although the risk of treatment failure increases with the number of positive nodes. Currently, all patients with stage III disease are recommended to receive adjuvant chemotherapy after definitive surgery, as large randomized trials have shown that this treatment modestly improves the likelihood of cure. The combination of oxaliplatin plus a fluoropyrimidine such as 5-fluorouracil (5-FU) or its oral prodrug, capecitabine, has long been the accepted standard postoperative management for stage III colon cancer. The most commonly used regimen is the FOLFOX regimen of 5-FU, leucovorin, and oxaliplatin. 5-FU is given with the reduced folate leucovorin, which is inactive alone but causes 5-FU to bind more tightly to its target enzyme. Oxaliplatin with oral capecitabine is also an acceptable regimen for adjuvant treatment of stage III colon cancer."
+]
+},
+{
+"type":"p",
+"hlId":"334a03",
+"children":[
+"Not all drugs that are useful for treating metastatic disease are active in the adjuvant setting. Irinotecan, bevacizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), and cetuximab have all been shown to be ineffective in improving survival in the adjuvant setting, yet all are part of standard treatment of metastatic disease. For example, the anti-vascular endothelial growth factor monoclonal antibody bevacizumab is often given concurrently with first-line cytotoxic chemotherapy regimens in patients with metastatic colon cancer. This agent has essentially no antitumor activity in colorectal cancer on its own, but it does potentiate other chemotherapies, resulting in a modestly increased duration of progression-free survival, and in some studies, in increased duration of overall survival. Because bevacizumab is not an effective adjuvant treatment for stage III colon cancer, treatment with this agent is not appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"dd8907",
+"children":[
+"Capecitabine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") without oxaliplatin would be insufficient treatment for stage III colon cancer in the absence of some specific contraindication to receiving oxaliplatin."
+]
+},
+{
+"type":"p",
+"hlId":"2fc9c5",
+"children":[
+"Unlike rectal cancer, local recurrence in colon cancer is rare, so radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not a routine part of colon cancer management."
+]
+},
+{
+"type":"p",
+"hlId":"b1f21e",
+"children":[
+"Randomized clinical trials demonstrate prolonged disease-free survival and prolonged overall survival in patients who receive adjuvant chemotherapy for stage III cancer. No further therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be inappropriate in the absence of compelling co-morbidities, which would increase the risk of treatment toxicity and shorten survival, independent of the colon cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1_2_2",
+"objective":{
+"__html":"Treat stage III colon cancer."
+},
+"references":[
+[
+"Grothey A, Sobrero AF, Shields AF, et al. Duration of adjuvant chemotherapy for stage III colon cancer. N Engl J Med. 2018;378:1177-88. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29590544",
+"target":"_blank"
+},
+"children":[
+"PMID: 29590544"
+]
+},
+" doi:10.1056/NEJMoa1713709"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":2,
+"C":92,
+"D":3,
+"E":0
+},
+"hlIds":[
+"4bb122",
+"4ad211",
+"b4835d",
+"0e3c00",
+"c322d0",
+"334a03",
+"dd8907",
+"2fc9c5",
+"b1f21e"
+]
+}

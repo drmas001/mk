@@ -1,0 +1,240 @@
+{
+"id":"mk19_b_cv_q093",
+"number":93,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ed6c01",
+"children":[
+"A 59-year-old man is evaluated during a routine visit. He has type 2 diabetes mellitus. One year ago, he had an atherosclerotic stroke with no residual neurologic deficits. Medications are aspirin, metformin, candesartan, and rosuvastatin. He remains active and has no symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"3e3ddb",
+"children":[
+"On physical examination, blood pressure is 132/80 mm Hg; other vital signs are normal. BMI is 25. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"851a9a",
+"children":[
+"Laboratory studies show a serum LDL cholesterol level of 66 mg/dL (1.71 mmol/L) and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". A ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level measured 3 months ago was 6.8%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2a4cc8",
+"children":[
+"Which of the following is the most appropriate management of this patient's atherosclerotic cardiovascular disease?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin empagliflozin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin ezetimibe"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain exercise ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No changes in management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2fb271",
+"children":[
+"A sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist with demonstrated cardiovascular disease benefit should be included as part of a glycemic control regimen in patients with type 2 diabetes mellitus and clinical atherosclerotic cardiovascular disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c21496",
+"children":[
+"The benefits of sodium-glucose cotransporter 2 inhibitors or glucagon-like peptide 1 receptor agonists in reducing atherosclerotic cardiovascular disease events seem to be unrelated to their glucose-lowering effects."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5002a1",
+"children":[
+"The most appropriate management of this patient's atherosclerotic cardiovascular disease (ASCVD) is to begin treatment with empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Optimal medical therapy, including aggressive risk factor reduction and glucose control, is foundational for patients with diabetes mellitus to reduce the risk for clinical ASCVD events. The American Diabetes Association (ADA) and the American College of Cardiology recommend introducing a sodium-glucose cotransporter 2 (SGLT2) inhibitor or glucagon-like peptide 1 (GLP-1) receptor agonist with demonstrated cardiovascular benefit as part of a glycemic control regimen in patients with type 2 diabetes and clinical ASCVD. If the patient is already taking metformin combined with another therapeutic agent or agents and is not taking an SGLT2 inhibitor or GLP-1 receptor agonist, the ADA recommends considering switching to one of these agents, which reduce the risk for ASCVD events regardless of the hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" level. This patient has high-risk cardiovascular features given his diabetes and history of nondisabling stroke. Use of SGLT2 inhibitors in this population is associated with a 14% reduction in cardiovascular death. Patients with previous amputation, severe peripheral vascular disease, neuropathy, or diabetic foot ulcers should exercise caution with canagliflozin and ertugliflozin. It is unclear whether this caution should be applied to all drugs in the class."
+]
+},
+{
+"type":"p",
+"hlId":"e0737c",
+"children":[
+"This patient's LDL cholesterol level is well controlled, and the potential benefit of lowering LDL cholesterol levels below this level using ezetimibe (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has not been shown."
+]
+},
+{
+"type":"p",
+"hlId":"5894d5",
+"children":[
+"Screening for asymptomatic coronary artery disease in patients with diabetes is controversial. Without proven outcome benefit, routine stress testing with exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in asymptomatic individuals, such as this patient, is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"fde1e6",
+"children":[
+"No additional management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate for this patient at increased risk for additional ASCVD events. Tight glycemic control reduces microvascular complications; however, it does not reduce the risk for myocardial infarction (MI). The use of SGLT2 inhibitors and GLP-1 receptor agonists in patients with type 2 diabetes has been shown to reduce rates of acute MI, stroke, and cardiovascular death. These benefits seem to be unrelated to their glucose-lowering effects."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_3_4_2",
+"objective":{
+"__html":"Treat a patient with type 2 diabetes mellitus and atherosclerotic cardiovascular disease with a sodium-glucose cotransporter 2 inhibitor."
+},
+"references":[
+[
+"Das SR, Everett BM, Birtcher KK, et al. 2018 ACC expert consensus decision pathway on novel therapies for cardiovascular risk reduction in patients with type 2 diabetes and atherosclerotic cardiovascular disease: a report of the American College of Cardiology Task Force on Expert Consensus Decision Pathways. J Am Coll Cardiol. 2018;72:3200-3223. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30497881",
+"target":"_blank"
+},
+"children":[
+"PMID: 30497881"
+]
+},
+" doi:10.1016/j.jacc.2018.09.020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":48,
+"B":2,
+"C":7,
+"D":42,
+"E":0
+},
+"hlIds":[
+"ed6c01",
+"3e3ddb",
+"851a9a",
+"2a4cc8",
+"2fb271",
+"c21496",
+"5002a1",
+"e0737c",
+"5894d5",
+"fde1e6"
+]
+}

@@ -1,0 +1,226 @@
+{
+"id":"mk19_b_cv_q022",
+"number":22,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d0ba33",
+"children":[
+"A 56-year-old man is evaluated during a follow-up visit for ischemic cardiomyopathy (ejection fraction, 20%). He has had two heart failure hospitalizations in the past year. He can no longer perform household chores. He also has hypertension and chronic kidney disease, with a baseline ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.5 mg/dL (132.6 μmol/L). He is receiving maximally tolerated heart failure therapy consisting of losartan, carvedilol, furosemide, and spironolactone."
+]
+},
+{
+"type":"p",
+"hlId":"f8786b",
+"children":[
+"Physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"5fc95b",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 1.9 mg/dL (168 μmol/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"serum potassium"
+]
+},
+" level is 5.3 mEq/L (5.3 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level is 129 mEq/L (129 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"11f10d",
+"children":[
+"The patient wishes to pursue care that will restore functionality."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"60b0c5",
+"children":[
+"Which of the following is the most appropriate long-term treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Digoxin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Heart transplantation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Left ventricular assist device placement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tolvaptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bf5e2f",
+"children":[
+"Patients with persistent severe heart failure symptoms despite maximal medical therapy are candidates for advanced treatment; acceptable candidates for cardiac transplantation are generally younger than 65 to 70 years with no medical contraindications and have good social support and adherence."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2c8683",
+"children":[
+"Heart transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is appropriate for this patient with advanced heart failure who has signs and symptoms of a poor prognosis over the next year. He has hyponatremia and worsening kidney function, has had recurrent hospitalizations for heart failure, and has a reduction in his functional capacity. All of these signs point to a poor survival over the next year. Patients with persistent severe heart failure symptoms despite maximal medical therapy are candidates for advanced treatment. Clinical outcomes in patients with advanced heart failure undergoing heart transplantation are excellent. The 1-year survival is around 90%, and median survival is almost 12 years. Acceptable candidates for transplantation are generally younger than 65 to 70 years with no medical contraindications (e.g., diabetes mellitus with end-organ complications, malignancies within 5 years, kidney dysfunction, or other chronic illnesses that will decrease survival) and have good social support and adherence."
+]
+},
+{
+"type":"p",
+"hlId":"6d99fb",
+"children":[
+"Digoxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been shown to reduce readmissions in patients with heart failure; however, this drug has a very small therapeutic window. In this patient with poor kidney function and older age, digoxin would be a risky drug because of the potential for an increase in adverse events."
+]
+},
+{
+"type":"p",
+"hlId":"a1e265",
+"children":[
+"If this patient were older or had comorbid conditions that would not make him a transplant candidate, he might be a candidate for left ventricular assist device (LVAD) placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). With newer continuous-flow devices, patients have 1-year survival approximating that of cardiac transplant recipients and substantial improvements in functional capacity and quality of life. LVAD placement is currently indicated in patients with ejection fraction less than 25% and poor exercise tolerance (New York Heart Association functional class IV) despite maximally tolerated therapy, with either a high predicted 1- or 2-year mortality or inotrope dependency, who still want aggressive restorative care. Because this patient qualifies for transplantation, which is currently associated with better long-term survival, that would be a better choice. Some patients receive an LVAD before transplantation if they have acute decompensation."
+]
+},
+{
+"type":"p",
+"hlId":"56db83",
+"children":[
+"Tolvaptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a vasopressin receptor blocker that is currently approved for the treatment of hypervolemic and euvolemic hyponatremia with a serum sodium level less than 125 mEq/L (125 mmol/L). It must be initiated in the hospital setting and cannot be used for more than 30 days. Although this patient has hyponatremia, his serum sodium level is greater than 125 mEq/L (125 mmol/L) and he is not hospitalized; thus, tolvaptan is not indicated. There is no evidence that tolvaptan improves chronic heart failure or clinical outcomes."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_4",
+"objective":{
+"__html":"Evaluate a patient with advanced heart failure for heart transplantation."
+},
+"references":[
+[
+"Guglin M, Zucker MJ, Borlaug BA, et al; ACC Heart Failure and Transplant Member Section and Leadership Council. Evaluation for heart transplantation and LVAD implantation: JACC Council Perspectives. J Am Coll Cardiol. 2020;75:1471-1487. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32216916",
+"target":"_blank"
+},
+"children":[
+"PMID: 32216916"
+]
+},
+" doi:10.1016/j.jacc.2020.01.034"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":63,
+"C":31,
+"D":2,
+"E":0
+},
+"hlIds":[
+"d0ba33",
+"f8786b",
+"5fc95b",
+"11f10d",
+"60b0c5",
+"bf5e2f",
+"2c8683",
+"6d99fb",
+"a1e265",
+"56db83"
+]
+}

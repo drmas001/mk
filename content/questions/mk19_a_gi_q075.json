@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_gi_q075",
+"number":75,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"456c79",
+"children":[
+"A 56-year-old man is evaluated in the emergency department for symptoms of progressive confusion for the past 2 days. He has a history of cirrhosis due to alcohol use but has been abstinent for the past 5 years. He also has a history of depression and anxiety. Escitalopram is listed as his only medication on the electronic medical record."
+]
+},
+{
+"type":"p",
+"hlId":"fe8d07",
+"children":[
+"On physical examination, vital signs are normal. He is oriented to self but not time or place. Scleral icterus and asterixis are noted. The remainder of the examination is noncontributory."
+]
+},
+{
+"type":"p",
+"hlId":"9ab5f6",
+"children":[
+"Specimens are obtained for blood and urine cultures and a comprehensive metabolic profile."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2d6318",
+"children":[
+"Which of the following is the most appropriate next step in evaluation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the head"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electroencephalography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Medication review and reconciliation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Neuropsychiatric testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"92faea",
+"hvc":true,
+"children":[
+"The first step in the evaluation of hepatic encephalopathy is the identification of precipitating factors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ed0501",
+"hvc":true,
+"children":[
+"Common precipitants of hepatic encephalopathy include infections, gastrointestinal bleeding, alcohol, and medications with sedating properties, such as benzodiazepines and opioids."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"fb64ff",
+"children":[
+"The most appropriate next step in evaluation is medication review and reconciliation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Hepatic encephalopathy is a common manifestation of cirrhosis and results from insufficient liver function and portosystemic shunting. Manifestations include behavioral, cognitive, and motor abnormalities. Severity ranges from mild changes of psychomotor slowing to frank coma. Hepatic encephalopathy indicates decompensation of liver disease and signals worsening liver function. Immediate management centers on identifying precipitating factors and administering medications, such as lactulose, that decrease absorption of toxins, such as ammonia, from the colon. Common precipitants of hepatic encephalopathy include infections; gastrointestinal bleeding; exposure to toxins, such as alcohol; and medications with sedating properties, such as benzodiazepines and opiate analgesics. Use of these medications in patients presenting with hepatic encephalopathy must be discontinued. Identification of culprit drug exposures may involve a careful review of mediations with family members, including medications that were prescribed by other clinicians or that were not prescribed but are being used by the patient, such as opioids or benzodiazepines."
+]
+},
+{
+"type":"p",
+"hlId":"9b502b",
+"children":[
+"CT of the head (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") with or without contrast does not typically contribute diagnostic information. However, the risk for intracerebral hemorrhage is increased in this patient group, and the symptoms may be indistinguishable; therefore, brain imaging may be part of the diagnostic workup based on clinical suspicion. However, this patient has a history of anxiety and alcoholism, and a careful review of medications and exposure to other toxins, such as alcohol or opioids, is the appropriate next step in his evaluation."
+]
+},
+{
+"type":"p",
+"hlId":"b68770",
+"children":[
+"Electroencephalography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to evaluate for subclinical seizure activity is also unlikely to yield diagnostic findings. It is typically reserved for evaluation of patients without evidence of common precipitants."
+]
+},
+{
+"type":"p",
+"hlId":"fe05fc",
+"children":[
+"Minimal manifestations of hepatic encephalopathy can be detected on neuropsychiatric testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). “Minimal” defines the disease as having no clinical signs of encephalopathy, such as confusion or asterixis. Neuropsychiatric testing is of value because it can help predict the development of overt hepatic encephalopathy, indicate poor quality of life and reduced socioeconomic potential, and help counsel patients and caregivers about the disease. Neuropsychiatric testing will be of no value in this patient with overt encephalopathy."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_6",
+"objective":{
+"__html":"Evaluate hepatic encephalopathy with a medication review."
+},
+"references":[
+[
+"Yanny B, Winters A, Boutros S, et al. Hepatic encephalopathy challenges, burden, and diagnostic and therapeutic approach. Clin Liver Dis. 2019;23:607-623. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31563214",
+"target":"_blank"
+},
+"children":[
+"PMID: 31563214"
+]
+},
+" doi:10.1016/j.cld.2019.07.001"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":20,
+"B":2,
+"C":77,
+"D":1,
+"E":0
+},
+"hlIds":[
+"456c79",
+"fe8d07",
+"9ab5f6",
+"2d6318",
+"92faea",
+"ed0501",
+"fb64ff",
+"9b502b",
+"b68770",
+"fe05fc"
+]
+}

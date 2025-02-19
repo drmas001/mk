@@ -1,0 +1,235 @@
+{
+"id":"mk19_a_on_q037",
+"number":37,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 37",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a75621",
+"children":[
+"A 38-year-old man is evaluated for abdominal pain of several weeks' duration."
+]
+},
+{
+"type":"p",
+"hlId":"153e0d",
+"children":[
+"On physical examination, vital signs are normal. The abdomen is diffusely distended and firm with a 10-cm palpable lower abdominal mass."
+]
+},
+{
+"type":"p",
+"hlId":"3adfd5",
+"children":[
+"Laboratory studies reveal a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" concentration of 1.8 mg/dL (159.1 µmol/L), a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"potassium"
+]
+},
+" concentration of 4.9 mEq/L (4.9 mmol/L), and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Uric acid, urine",
+"children":[
+"uric acid"
+]
+},
+" concentration of 8.2 mg/dL (0.48 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"ce5e5a",
+"children":[
+"Results of the chest radiograph are normal. CT scan of the abdomen shows diffuse, bulky mesenteric and retroperitoneal adenopathy. Biopsy of the mass reveals Burkitt lymphoma."
+]
+},
+{
+"type":"p",
+"hlId":"076ca6",
+"children":[
+"Multiagent chemotherapy containing doxorubicin is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8f7b77",
+"children":[
+"Which of the following is the most likely immediate treatment-associated complication?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiotoxicity"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hypercalcemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tumor lysis syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Superior vena cava syndrome"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f5de51",
+"children":[
+"Tumor lysis syndrome is usually seen in aggressive non-Hodgkin lymphoma, Burkitt lymphoma, as well as some leukemias."
+]
+},
+{
+"type":"keypoint",
+"hlId":"17c3b2",
+"children":[
+"Metabolic complications of tumor lysis syndrome include hyperuricemia, hyperphosphatemia, hyperkalemia, and hypocalcemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3aecb4",
+"children":[
+"The most likely immediate treatment-associated complication for this patient is tumor lysis syndrome (TLS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). TLS is most likely to occur in patients who have larger tumor burdens and more chemotherapy-sensitive disease. It is usually seen in aggressive non-Hodgkin lymphoma, Burkitt lymphoma, as well as some leukemias and is rarely seen in solid tumors. TLS typically manifests in the first 24 to 48 hours after chemotherapy initiation but may even develop spontaneously before treatment. Patients develop hyperuricemia, hyperphosphatemia, hyperkalemia, and hypocalcemia, which can be associated with arrhythmias, tetany, and seizures. Kidney failure may ensue from acute urate nephropathy, worsening the metabolic abnormalities. Prevention is with vigorous hydration and rasburicase."
+]
+},
+{
+"type":"p",
+"hlId":"2894ba",
+"children":[
+"Acute anthracycline toxicity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can present as heart block, arrhythmias, heart failure, myocarditis, and pericarditis. However, this complication occurs in less than 1% of patients and may be reversible. Chronic progressive anthracycline toxicity usually presents as dilated cardiomyopathy, which is most closely linked with the use of doxorubicin. TLS is a much more likely immediate complication in patients with Burkitt lymphoma, with risk estimates generally greater than 5%."
+]
+},
+{
+"type":"p",
+"hlId":"2809ad",
+"children":[
+"Hypercalcemia of malignancy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") occurs in 20% to 30% of patients with advanced cancer. It is most frequent in patients with myeloma and cancer of the lung, breast, kidney, and head and neck. Lymphomas can cause hypercalcemia by overproduction of 1,25-dihydroxyvitamin D. This patient is more likely to experience hyperphosphatemia and hypocalcemia from TLS in the absence of aggressive preventive treatment."
+]
+},
+{
+"type":"p",
+"hlId":"948f11",
+"children":[
+"Superior vena cava (SVC) syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is caused by acute obstruction of blood flow to the right atrium from the upper torso, can result in symptoms of progressive dyspnea and cough, and may be associated with swelling of the face and neck. The most common cause of SVC syndrome is lung cancer. Other malignancies less commonly associated with SVC syndrome include diffuse large B-cell lymphoma, lymphoblastic lymphoma, and germ cell tumors. Mediastinal widening and pleural effusions are common radiographic findings. This patient with a normal chest radiograph and elevated serum creatinine and urate level is much more likely to develop spontaneous or treatment-related TLS."
+]
+}
+],
+"relatedSection":"mk19_a_on_s9_4_2_3",
+"objective":{
+"__html":"Identify Burkitt lymphoma as high risk for tumor lysis syndrome."
+},
+"references":[
+[
+"Rahmani B, Patel S, Seyam O, et al. Current understanding of tumor lysis syndrome. Hematol Oncol. 2019;37:537-47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31461568",
+"target":"_blank"
+},
+"children":[
+"PMID: 31461568"
+]
+},
+" doi:10.1002/hon.2668"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":0,
+"C":87,
+"D":4,
+"E":0
+},
+"hlIds":[
+"a75621",
+"153e0d",
+"3adfd5",
+"ce5e5a",
+"076ca6",
+"8f7b77",
+"f5de51",
+"17c3b2",
+"3aecb4",
+"2894ba",
+"2809ad",
+"948f11"
+]
+}

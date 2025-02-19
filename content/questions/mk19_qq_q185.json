@@ -1,0 +1,202 @@
+{
+"id":"mk19_qq_q185",
+"number":185,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 185",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ee1d36",
+"children":[
+"A 75-year-old woman is hospitalized for osteomyelitis of a right toe phalanx secondary to an ischemic ulcer. On day 1, she undergoes angiography and stenting of the iliac artery. On day 3, bone culture–directed vancomycin and gentamicin are initiated at therapeutically appropriate dosages. On day 8, she develops non-oliguric acute kidney injury."
+]
+},
+{
+"type":"p",
+"hlId":"a8be9f",
+"children":[
+"Vital signs are normal. A healing foot ulcer is noted. Urinalysis shows brown granular casts."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7e0aa5",
+"children":[
+"Which of the following is the most likely cause of this patient's acute kidney injury?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute interstitial nephritis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Contrast-associated nephropathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gentamicin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Infection-related glomerulonephritis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"831c59",
+"children":[
+"Aminoglycoside-induced acute kidney injury typically presents as non-oliguric acute tubular necrosis with pigmented granular casts and tubular epithelial cells in the urine sediment 5 to 7 days after starting therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4d977a",
+"children":[
+"Contrast-associated acute kidney injury is defined as either an increase in serum creatinine of 0.5 mg/dL (44.2 µmol/L) or an increase in serum creatinine of 25% from baseline at 48 hours after contrast administration."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7c67a0",
+"children":[
+"This patient has developed acute kidney injury (AKI) from gentamicin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Aminoglycoside-induced AKI typically presents as non-oliguric acute tubular necrosis (ATN) with pigmented granular casts and tubular epithelial cells in the urine sediment. There is a loss of renal concentrating ability due to tubular damage; the urine osmolality is around 300 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O. If measured, the FE",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+" is >1%. The serum creatinine level characteristically rises 5 to 7 days after starting therapy. Hypokalemia and hypomagnesemia also can occur with aminoglycoside toxicity due to potassium and magnesium wasting. Recognizing drug-induced ATN is important because eliminating the nephrotoxic agent often leads to renal recovery. Common medications that can cause ATN include other aminoglycosides, vancomycin, cisplatin, contrast agents, mannitol, hydroxyethyl starch, and dextran. ATN can also occur due to cannabinoid and amphetamine use, in addition to pigment deposition. Incidence of toxic ATN increases in older patients and in patients with decreased effective blood volume, chronic kidney disease, or concomitant nephrotoxin exposure, such as vancomycin in this case."
+]
+},
+{
+"type":"p",
+"hlId":"608a6b",
+"children":[
+"Acute interstitial nephritis (AIN) is a common cause of AKI characterized by inflammation and edema of the interstitium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The classic clinical presentation of fever, rash, and peripheral eosinophilia occurs in only 10% to 30% of patients with AIN. Urinary findings can include eosinophiluria by Hansel stain, leukocytes, erythrocytes, and leukocyte casts. Brown granular casts are not consistent with AIN."
+]
+},
+{
+"type":"p",
+"hlId":"86f8f9",
+"children":[
+"Contrast-associated AKI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is defined as either an increase in serum creatinine of 0.5 mg/dL (44.2 µmol/L) or an increase in serum creatinine of 25% from baseline at 48 hours after contrast administration. This patient had no change in the serum creatinine level until day 8, making contrast-associated AKI an unlikely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"f60252",
+"children":[
+"Infection-related glomerulonephritis (IRGN) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can develop at the time of infection or weeks later. IRGN is an immune complex–mediated disease. The antigen in the immune complex is derived from the infectious agent. After depositing in the subepithelial area (either within preformed immune complexes or as in-situ immune complex formation), complement activation and subsequent recruitment of inflammatory cells occur, leading to a proliferative glomerulonephritis. Patients with IRGN clinically present with acute nephritic syndrome. The patient's urinalysis that shows only granular casts, making IRGN an unlikely diagnosis."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_2_1_2",
+"objective":{
+"__html":"Diagnose aminoglycoside-induced nephrotoxicity."
+},
+"references":[
+[
+"Perazella MA. Drug-induced acute kidney injury: diverse mechanisms of tubular injury. Curr Opin Crit Care. 2019;25:550-557. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31483318",
+"target":"_blank"
+},
+"children":[
+"PMID: 31483318"
+]
+},
+" doi:10.1097/MCC.0000000000000653"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"ee1d36",
+"a8be9f",
+"7e0aa5",
+"831c59",
+"4d977a",
+"7c67a0",
+"608a6b",
+"86f8f9",
+"f60252"
+]
+}

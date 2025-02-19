@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_cv_q041",
+"number":41,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ecaeda",
+"children":[
+"A 69-year-old man is evaluated for persistent angina despite maximally tolerated antianginal therapy. Symptoms appear after walking less than one-half mile and interfere with his quality of life and occupation as a mail carrier. He has no pain at rest or heart failure symptoms. He frequently experiences light-headedness when arising from a seated position. He has a 20-pack-year history of smoking but stopped 25 years ago. Medications are aspirin, metoprolol, sublingual nitroglycerin, and rosuvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"a76b73",
+"children":[
+"On physical examination, blood pressure is 108/72 mm Hg, pulse rate is 54/min, and respiration rate is 20/min. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"edc669",
+"children":[
+"An ECG shows sinus rhythm. A chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Addition of clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Addition of isosorbide mononitrate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Coronary angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Exercise echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e9deba",
+"children":[
+"In the setting of persistent symptoms despite maximally tolerated medical therapy, invasive imaging for revascularization assessment is appropriate to improve symptom status and quality of life."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9881b6",
+"children":[
+"Coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate management for this patient who has persistent angina despite maximally tolerated medical therapy. In this setting, invasive imaging for revascularization assessment is appropriate to improve symptom status and quality of life. Revascularization targets are identified on the basis of anatomic and functional physiologic characteristics associated with myocardial ischemia. Techniques such as fractional flow reserve and instantaneous wave-free ratio provide information on the functional hemodynamic significance of indeterminate lesions identified on angiographic imaging, reducing both unnecessary stenting and the need for urgent revascularization. In contrast, in unstable or in many acute presentations, revascularization is indicated to prevent future events and improve survival. The risks and benefits of and alternatives to angiography should be discussed, along with potential findings and therapeutic options. Other indications for coronary artery imaging include the presence of clinical findings or indications on noninvasive testing that are associated with severe ischemic heart disease. Other patients who may benefit from coronary artery imaging are those with left ventricular systolic dysfunction and the presence of ischemia and other high-risk criteria on noninvasive testing."
+]
+},
+{
+"type":"p",
+"hlId":"6c1c33",
+"children":[
+"Aspirin reduces the risk for myocardial infarction and cardiovascular death in patients with stable angina. Guidelines recommend low-dose aspirin (75-162 mg/d) for secondary prevention because it is as effective as high-dose aspirin (325 mg/d) in preventing myocardial infarction and confers a lower bleeding risk. In aspirin-intolerant patients, clopidogrel, a platelet P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" receptor inhibitor, is an acceptable alternative. There is no role for dual antiplatelet therapy with aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in patients with chronic stable angina in the absence of revascularization."
+]
+},
+{
+"type":"p",
+"hlId":"a5eb48",
+"children":[
+"This patient's current medication regimen has been optimized. With a resting pulse rate in the range of 55 to 60/min and a well-controlled blood pressure, additional vasoactive medical therapy, such as isosorbide mononitrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is unlikely to be necessary. In addition, given the presence of orthostatic symptoms with his current regimen, he is unlikely to tolerate further uptitration of vasoactive medications."
+]
+},
+{
+"type":"p",
+"hlId":"185414",
+"children":[
+"Exercise testing, such as exercise echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), may provide additional prognostic information. However, it cannot identify target lesions that might be amenable to revascularization to improve this patient's quality of life."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_1_3_1",
+"objective":{
+"__html":"Manage persistent symptomatic chronic stable angina."
+},
+"references":[
+[
+"Katz D, Gavin MC. Stable ischemic heart disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201908060",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31382288",
+"target":"_blank"
+},
+"children":[
+"PMID: 31382288"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":14,
+"C":56,
+"D":28,
+"E":0
+},
+"hlIds":[
+"ecaeda",
+"a76b73",
+"edc669",
+"cb2b54",
+"e9deba",
+"9881b6",
+"6c1c33",
+"a5eb48",
+"185414"
+]
+}

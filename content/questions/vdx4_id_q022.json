@@ -1,0 +1,144 @@
+{
+"id":"vdx4_id_q022",
+"number":22,
+"bookId":"vdx_id",
+"correctAnswer":"D",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a72a31",
+"children":[
+"A 51-year-old man is evaluated for fever, headache, and anemia. He recently returned from an extended tour of the Amazon River."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_id_mcq_f022",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_id_mcq_f022"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Babesiosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Human granulocytic anaplasmosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Human monocytic ehrlichiosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Malaria"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9751ef",
+"children":[
+"The most likely diagnosis is malaria. This patient's peripheral smear shows red blood cells infected with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Plasmodium vivax;"
+]
+},
+" the trophozoite of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. vivax"
+]
+},
+" is ameboid shaped, and the enlarged infected erythrocyte contains numerous Schuffner dots. Diagnosis of malaria is made by identification of malarial parasites on the peripheral blood smear. Morphologic features help determine the specific species. Multiple sets of peripheral blood smears may be needed from patients to isolate malaria with low degrees of parasitemia. Rapid tests that detect malaria antigens are available but may lack sensitivity and specificity. Polymerase chain reaction and serologic assays exist, although each has limitations."
+]
+}
+],
+"relatedSection":"mk19_a_id_s14_2",
+"objective":{
+"__html":"Diagnose malaria based on peripheral blood smear findings."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figureCredits":[
+[
+"Image reproduced from the CDC Public Health Image Library."
+]
+],
+"figuresContent":{
+"vdx4_id_mcq_f022":{
+"id":"vdx4_id_mcq_f022",
+"number":22,
+"bookId":"vdx_id",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"2bc251e0213543d6d887c576efac40c2",
+"height":600,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"a72a31",
+"f3f1a8",
+"413696",
+"9751ef"
+]
+}

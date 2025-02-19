@@ -1,0 +1,273 @@
+{
+"id":"mk19_a_np_q010",
+"number":10,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"082eda",
+"children":[
+"A 63-year-old man is evaluated during a follow-up visit for gastroesophageal reflux disease and heartburn. His symptoms are worse after large meals and when lying down and have significantly decreased the quality of his life and disrupted his sleep. He also has stage G4 chronic kidney disease, obesity, and hypertension. Medications are atenolol, lisinopril, and nifedipine."
+]
+},
+{
+"type":"p",
+"hlId":"d1cb96",
+"children":[
+"On physical examination, vital signs are normal. BMI is 38. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"2cd905",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 29 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"f897f3",
+"children":[
+"Weight loss and other lifestyle management modifications for gastroesophageal reflux disease are discussed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"907369",
+"children":[
+"Which of the following is the most appropriate additional therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Famotidine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Omeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral calcium carbonate and magnesium hydroxide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sucralfate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f3e9e",
+"hvc":true,
+"children":[
+"Proton pump inhibitors may contribute to the development and progression of chronic kidney disease and should be avoided."
+]
+},
+{
+"type":"keypoint",
+"hlId":"63fd55",
+"hvc":true,
+"children":[
+"H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blocker therapy can be considered for patients with advanced chronic kidney disease provided appropriate dosing is used."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5cea3c",
+"children":[
+"The most appropriate additional therapy is famotidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has stage G4 chronic kidney disease (CKD) and symptoms of his gastroesophageal reflux disease (GERD). In patients with CKD, the nephrotoxic risk of medication or treatment used for comorbid medical conditions must be considered. As with all patients with GERD, first-line treatment should focus on lifestyle and diet modifications. Pharmacologic therapy includes antacids, H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blockers, and proton pump inhibitor (PPI) therapy. In this patient with significant symptoms, an H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blocker such as famotidine should be added to lifestyle modifications as treatment for GERD. In patients with advanced CKD, the dosing of H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blockers should be decreased or the dosing interval increased as guided by labeling instruction."
+]
+},
+{
+"type":"p",
+"hlId":"8f43f3",
+"children":[
+"In addition to their classic association with acute interstitial nephritis/acute kidney injury, PPIs such as omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may contribute to the development and progression of CKD. The association has been observed in case-control studies and affirmed in a systematic review and meta-analysis. Although the evidence comes from observational studies, caution is still advised when considering PPI use in patients with advanced CKD, particularly when alternative therapies are available."
+]
+},
+{
+"type":"p",
+"hlId":"e60b41",
+"children":[
+"Over-the-counter oral antacids containing calcium carbonate and magnesium hydroxide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are commonly used to treat symptoms of GERD. However, patients with advanced CKD are at risk for magnesium toxicity with the use of these antacids and therefore should be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"6266ae",
+"children":[
+"Sucralfate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a sulfated polysaccharide complexed with aluminum hydroxide used in the treatment of peptic ulcer disease. Sucralfate binds to injured mucosal surface, promotes healing, and provides a barrier to peptic injury. Sucralfate is less effective than PPI therapy for peptic ulcer disease. Sucralfate has no role in the treatment of GERD due to its short duration of action and reduced effectiveness compared with other therapies, including PPIs and H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blockers. Finally, sucralfate contains aluminum, which may accumulate in patients with advanced CKD and is thus not recommended."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_6_5",
+"objective":{
+"__html":"Treat gastroesophageal reflux disease in a patient with advanced chronic kidney disease."
+},
+"references":[
+[
+"Nochaiwong S, Ruengorn C, Awiphan R, et al. The association between proton pump inhibitor use and the risk of adverse kidney outcomes: a systematic review and meta-analysis. Nephrol Dial Transplant. 2018;33:331-342. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28339835",
+"target":"_blank"
+},
+"children":[
+"PMID: 28339835"
+]
+},
+" doi:10.1093/ndt/gfw470"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":43,
+"B":42,
+"C":4,
+"D":11,
+"E":0
+},
+"hlIds":[
+"082eda",
+"d1cb96",
+"2cd905",
+"f897f3",
+"907369",
+"6f3e9e",
+"63fd55",
+"5cea3c",
+"8f43f3",
+"e60b41",
+"6266ae"
+]
+}

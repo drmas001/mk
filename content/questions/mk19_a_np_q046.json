@@ -1,0 +1,235 @@
+{
+"id":"mk19_a_np_q046",
+"number":46,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"471e4e",
+"children":[
+"A 74-year-old woman is evaluated during a follow-up visit for hypertension and slowly progressive chronic kidney disease. She reports that she feels well and has no symptoms. Medications are atenolol, cholecalciferol, hydralazine, nifedipine, simvastatin, and sodium bicarbonate."
+]
+},
+{
+"type":"p",
+"hlId":"6e510c",
+"children":[
+"On physical examination, blood pressure is 130/70 mm Hg; other vital signs are normal. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"1b7d39",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 28 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Arteriovenous fistula placement evaluation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dialysis initiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney transplant evaluation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Renal replacement therapy education"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"795d86",
+"children":[
+"Patients with progressive chronic kidney disease and an estimated glomerular filtration rate <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" should be referred to a renal replacement therapy education program."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c9abf1",
+"children":[
+"This most appropriate management is renal replacement therapy (RRT) education (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient with slowly progressive chronic kidney disease (CKD) is at borderline stage G3/G4. When estimated glomerular filtration rate (eGFR) is <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", the patient should be referred for RRT education. It is appropriate to begin the education process for the patient to learn about RRT options, including in-center and home hemodialysis, peritoneal dialysis, kidney transplantation, and non-dialytic medical management, to make an informed decision in the future. An RRT education session empowers the patient to make decisions regarding venous access or preemptive kidney transplant to ensure a controlled initiation of RRT. It also helps prevents the risk for initiating dialysis emergently. Patients who receive preparatory RRT education before they are diagnosed with end-stage kidney disease are more likely to select a home modality for RRT, be listed for a kidney transplant, or receive a preemptive kidney transplant and may have a mortality benefit compared with patients who do not receive similar education."
+]
+},
+{
+"type":"p",
+"hlId":"49896c",
+"children":[
+"Evaluation for arteriovenous fistula (AVF) placement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated after the patient has learned about RRT options and chooses to receive hemodialysis in the future. After this decision, the patient is referred for arm-access evaluation. Patients with suitable anatomy should have AVF placement well in advance of anticipated ESKD to allow adequate maturation of the vein to allow robust blood flow needed for hemodialysis."
+]
+},
+{
+"type":"p",
+"hlId":"2469d9",
+"children":[
+"For patients amenable to dialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), studies demonstrate no benefit in starting it in asymptomatic patients or at a specific eGFR cutoff compared with watchful waiting and initiating dialysis for symptoms or metabolic abnormalities that are refractory to medical treatment."
+]
+},
+{
+"type":"p",
+"hlId":"b46a69",
+"children":[
+"Patients should be referred to a kidney transplant center for evaluation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") when the eGFR is 15 to 29 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Early referral is important because preemptive kidney transplants (transplants before needing dialysis) are associated with improved clinical outcomes compared with receiving a transplant after starting dialysis. Early referral also allows adequate time to identify suitable living donors; if no living donor is available, early listing is essential to begin the waiting process for a deceased-donor kidney. Referral for evaluation will be appropriate if this patient selects this mode of RRT following RRT education."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9",
+"objective":{
+"__html":"Prepare a patient for end-stage kidney disease by providing renal replacement therapy education."
+},
+"references":[
+[
+"Kurella Tamura M, Li S, Chen SC, et al. Educational programs improve the preparation for dialysis and survival of patients with chronic kidney disease. Kidney Int. 2014;85:686-692. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24067435",
+"target":"_blank"
+},
+"children":[
+"PMID: 24067435"
+]
+},
+" doi:10.1038/ki.2013.369"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":2,
+"C":15,
+"D":66,
+"E":0
+},
+"hlIds":[
+"471e4e",
+"6e510c",
+"1b7d39",
+"cb2b54",
+"795d86",
+"c9abf1",
+"49896c",
+"2469d9",
+"b46a69"
+]
+}

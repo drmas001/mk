@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_rm_q087",
+"number":87,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 87",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ea2fa2",
+"children":[
+"A 55-year-old woman is evaluated for a 5-day history of increasing pain, swelling, and warmth in the left knee. She has a 30-year history of rheumatoid arthritis. Current medications are etanercept, prednisone, methotrexate, folic acid, and meloxicam."
+]
+},
+{
+"type":"p",
+"hlId":"07e00c",
+"children":[
+"On physical examination, temperature is 37.5 °C (99.5 °F); other vital signs are normal. Joint examination of the hands reveals nonpainful deformities and restricted movement characteristic of advanced but quiescent rheumatoid arthritis. The left knee exhibits warmth and a moderate effusion without erythema; flexion is restricted because of pain. The right knee shows bony hypertrophy."
+]
+},
+{
+"type":"p",
+"hlId":"fdf2b8",
+"children":[
+"Laboratory evaluation shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 70 mm/h and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 13,500/μL (13.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"C-reactive protein"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Serum procalcitonin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Synovial biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Synovial fluid analysis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"654201",
+"children":[
+"The abrupt onset of acute monoarticular inflammatory arthritis in any patient should suggest a joint infection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f059ba",
+"children":[
+"In patients suspected of having infectious arthritis, the most important diagnostic procedure is expeditious arthrocentesis to obtain joint fluid and conduct synovial fluid analysis (Gram stain, culture, leukocyte count, and crystal analysis)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"92ec93",
+"children":[
+"The most appropriate diagnostic test to perform next is synovial fluid analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The abrupt onset of acute monoarticular inflammatory arthritis in any patient should suggest a joint infection. This patient has a history of long-standing rheumatoid arthritis that has damaged numerous joints. Previous joint damage increases the risk for joint infection. The patient also receives multiple immunosuppressive agents, which also increase risk for joint infection. Her joint examination, apart from the left knee, suggests quiescent rheumatoid arthritis rather than a generalized flare of disease, further raising suspicion for an infected joint. In patients suspected of having infectious arthritis, the most important diagnostic procedure is expeditious arthrocentesis to obtain joint fluid and conduct synovial fluid analysis (Gram stain, culture [bacterial and, when indicated, mycobacterial and/or fungal], leukocyte count, and crystal analysis)."
+]
+},
+{
+"type":"p",
+"hlId":"f81288",
+"children":[
+"C-reactive protein (CRP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an acute phase reactant. Although elevation of CRP level can signal an infection, it is a nonspecific indicator. Indeed, an elevated CRP level can be seen in a flare of rheumatoid arthritis, as well as in other conditions, and may not help distinguish between infection and a rheumatoid arthritis flare."
+]
+},
+{
+"type":"p",
+"hlId":"619a30",
+"children":[
+"Measurement of serum procalcitonin levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been proposed to help distinguish infectious arthritis from inflammatory arthritis. However, serum procalcitonin is not sensitive for the presence of joint infection, and a negative result does not eliminate infectious arthritis."
+]
+},
+{
+"type":"p",
+"hlId":"7b5f5f",
+"children":[
+"In patients suspected of having a joint infection, a synovial biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is rarely necessary. Synovial biopsies may be helpful in patients in whom concurrent contiguous osteomyelitis or tuberculosis (or infection with another slow-growing organism, such as a fungus) is a diagnostic possibility. The patient's short duration of symptoms makes concurrent osteomyelitis or infection with slow-growing organisms unlikely. Although tuberculosis or fungal infection cannot be absolutely excluded in this patient receiving immunosuppressant drugs, the first diagnostic test remains a synovial fluid analysis. A synovial biopsy may be considered in patients without an established diagnosis after joint fluid analysis or those in whom antibiotic therapy has failed."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s13_1_2",
+"objective":{
+"__html":"Evaluate new monoarticular pain in a patient with rheumatoid arthritis."
+},
+"references":[
+[
+"Ross JJ. Septic arthritis of native joints. Infect Dis Clin North Am. 2017;31:203-218. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28366221",
+"target":"_blank"
+},
+"children":[
+"PMID: 28366221"
+]
+},
+" doi:10.1016/j.idc.2017.01.001"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":4,
+"C":1,
+"D":93,
+"E":0
+},
+"hlIds":[
+"ea2fa2",
+"07e00c",
+"fdf2b8",
+"ab9d96",
+"654201",
+"f059ba",
+"92ec93",
+"f81288",
+"619a30",
+"7b5f5f"
+]
+}

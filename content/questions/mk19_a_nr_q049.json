@@ -1,0 +1,150 @@
+{
+"id":"mk19_a_nr_q049",
+"number":49,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e0dcda",
+"children":[
+"A 70-year-old woman is evaluated in the hospital for the recent onset of severe back pain and gait ataxia. Extensive-stage small cell lung cancer was diagnosed 1 month ago. Metastases to brain, liver, and adrenal glands were noted. She has decided to forego active therapy and has opted for comfort care. Until the past week she has experienced only modest pain. Her other medical problems include chronic kidney disease, diabetes mellitus, hypertension, and oxygen-dependent COPD. Medications are oral morphine, losartan, hydrochlorothiazide, metformin, albuterol, and tiotropium inhalers. Her predicted life expectancy is 3 months."
+]
+},
+{
+"type":"p",
+"hlId":"865a3b",
+"children":[
+"On physical examination, vital signs are normal. She has a wide-based gait and poor vibratory and position sense in the feet. Muscle strength testing shows 4/5 bilateral hip flexion."
+]
+},
+{
+"type":"p",
+"hlId":"33e0ab",
+"children":[
+"MRI of the thoracic spine reveals two contrast-enhancing masses involving the posterior vertebra and dura at T3 and T8. Both lesions cause cord compression with increased T2 signal in the cord."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Glucocorticoids, surgical decompression, and radiotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glucocorticoids and radiotherapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Glucocorticoids and surgical decompression"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiotherapy and surgical decompression"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24674d",
+"children":[
+"In patients with metastatic spinal compression, surgical decompression should be reserved for patients younger than 65 years with a single area of compression, paraplegia for less than 48 hours, and a predicted survival of longer than 6 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7d0a3e",
+"children":[
+"The most appropriate treatment is glucocorticoids and radiotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Neoplastic epidural spinal cord compression (ESCC) develops in approximately 2.5% of patients with metastatic cancer. Lung, breast, and prostate cancer, multiple myeloma, and lymphoma are the most common types of cancer that cause ESCC in adults. Emergent use of high-dose glucocorticoids is the first step. Systematic reviews of the evidence suggest that surgical decompression followed by radiotherapy is most beneficial for patients younger than 65 years who have a single area of compression, paraplegia with a duration of less than 48 hours, and a predicted survival of greater than 6 months. In patients not meeting these criteria, such as this patient, surgical intervention may be of little benefit, and radiotherapy alone may be used. Furthermore, certain radiosensitive tumor types, such as leukemia, lymphoma, myeloma, and germ cell tumors, may not require initial surgical decompression and instead may be treated urgently with radiation therapy."
+]
+},
+{
+"type":"p",
+"hlId":"c97d8e",
+"children":[
+"Emergent treatment of ESCC is usually indicated because the most important indicator of long-term neurologic function is the neurologic function at the time of decompression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, C, D"
+]
+},
+"). Neurologic function is rarely regained as a result of therapy, but further deterioration may be prevented. In properly selected patients, clinical trials have shown the superiority of surgical decompression in optimizing ambulation. However, it is unlikely that this patient with a limited life span will benefit from surgical intervention regardless of whether it is combined with glucocorticoids and/or radiation therapy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s8_2_3",
+"objective":{
+"__html":"Treat spinal cord compression due to metastatic disease in a patient with a poor prognosis."
+},
+"references":[
+[
+"George R, Jeba J, Ramkumar G, et al. Interventions for the treatment of metastatic extradural spinal cord compression in adults. Cochrane Database Syst Rev. 2015:CD006716. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26337716",
+"target":"_blank"
+},
+"children":[
+"PMID: 26337716"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":79,
+"C":7,
+"D":1,
+"E":0
+},
+"hlIds":[
+"e0dcda",
+"865a3b",
+"33e0ab",
+"1054f1",
+"24674d",
+"7d0a3e",
+"c97d8e"
+]
+}

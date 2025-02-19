@@ -1,0 +1,183 @@
+{
+"id":"mk19_a_gi_q053",
+"number":53,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7adadc",
+"children":[
+"A 70-year-old man is evaluated for follow-up 8 weeks after hospitalization for a bleeding duodenal ulcer. Upper endoscopy revealed multiple duodenal ulcers. Results of tests for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" (gastric biopsy and serology) were negative. He currently has no abdominal pain or melena. He has osteoarthritis, with pain in the neck, hips, knees, and feet, which he had been treating with ibuprofen. The ibuprofen was discontinued during hospitalization and replaced with acetaminophen. His only other medication is omeprazole. He would like to resume an NSAID because acetaminophen is ineffective."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0ab36f",
+"children":[
+"Which of the following is the most effective ulcer preventive strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Celecoxib and famotidine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Celecoxib and omeprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Naproxen and misoprostol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch from ibuprofen to naproxen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f17f54",
+"children":[
+"The combination of a cyclooxygenase-2–selective NSAID plus a proton pump inhibitor provides the best gastrointestinal protection from ulcer recurrence and ulcer complications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d56a6c",
+"children":[
+"The most effective ulcer preventive strategy for this patient is celecoxib and omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has experienced bleeding, a complication of NSAID-related peptic ulcer disease. Although more than 85% of cases of NSAID-related peptic ulcers heal after 6 to 8 weeks of proton pump inhibitor (PPI) therapy and avoidance of NSAIDs, reintroducing NSAIDs risks ulcer recurrence. Prevention of ulcer recurrence is therefore the most important long-term goal to reduce morbidity and mortality. If long-term NSAID use is necessary, potential treatment strategies include (1) an NSAID plus a gastroprotective agent, such as a PPI; (2) an NSAID and an H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-blocker (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or misoprostol; (3) a cyclooxygenase-2 (COX-2)–selective NSAID in place of a nonselective NSAID; or (4) a COX-2–selective NSAID plus a gastroprotective agent. A systematic review and meta-analysis of 82 clinical trials totaling more than 125,000 participants found the combination of a COX-2–selective NSAID plus a PPI provided the best gastrointestinal protection from ulcer recurrence and ulcer complications. Topical NSAIDs, such as diclofenac, are available by prescription for arthritis and pose a lower risk for systemic adverse effects than oral NSAIDs. They may be preferred for patients at high risk for toxicity from oral NSAIDs and/or for patients age 75 years and older. However, topical NSAIDs are often expensive. The use of a topical NSAID in this patient would be impractical considering his widespread pain. This review also showed that a COX-2–selective NSAID alone, a nonselective NSAID plus a PPI, and a nonselective NSAID plus misoprostol were more effective than a nonselective NSAID alone at reducing risk for ulcers and ulcer complications but were not as effective as a COX-2–selective NSAID and a PPI."
+]
+},
+{
+"type":"p",
+"hlId":"04ad36",
+"children":[
+"The use of nonselective NSAIDs with misoprostol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") was associated with higher risk for adverse events and adverse event–related withdrawals compared with nonselective NSAIDs alone."
+]
+},
+{
+"type":"p",
+"hlId":"65c07e",
+"children":[
+"Switching from one nonselective NSAID (ibuprofen) to another nonselective NSAID (naproxen) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") does not lower the risk for ulcer recurrence or ulcer complications."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_5_2",
+"objective":{
+"__html":"Prevent recurrence of NSAID-induced peptic ulcer disease."
+},
+"references":[
+[
+"Yuan JQ, Tsoi KK, Yang M, et al. Systematic review with network meta-analysis: comparative effectiveness and safety of strategies for preventing NSAID-associated gastrointestinal toxicity. Aliment Pharmacol Ther. 2016;43:1262-75. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27121479",
+"target":"_blank"
+},
+"children":[
+"PMID: 27121479"
+]
+},
+" doi:10.1111/apt.13642"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":77,
+"C":12,
+"D":1,
+"E":0
+},
+"hlIds":[
+"7adadc",
+"0ab36f",
+"f17f54",
+"d56a6c",
+"04ad36",
+"65c07e"
+]
+}

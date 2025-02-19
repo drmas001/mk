@@ -1,0 +1,212 @@
+{
+"id":"mk19_b_gm_q095",
+"number":95,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e7932f",
+"children":[
+"An 18-year-old woman is evaluated for sunburn of the dorsal hands and dorsal feet with burning and pruritus that began 6 hours after walking on the beach. Medical history is significant for acne. Medications are drospirenone-ethinyl estradiol oral contraceptive, doxycycline, and tretinoin cream."
+]
+},
+{
+"type":"p",
+"hlId":"66e1e6",
+"children":[
+"Skin findings on the feet are ",
+{
+"type":"figure-link",
+"target":"mk19_b_gm_mcq_f095",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_gm_mcq_f095"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bullous pemphigoid"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Photoallergic drug reaction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Phototoxic drug reaction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Porphyria cutanea tarda"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cdbae3",
+"children":[
+"Phototoxic reactions present as exaggerated sunburn within minutes to hours of sun exposure; tetracyclines are a common inciting agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"75819d",
+"children":[
+"The most likely diagnosis is phototoxic drug reaction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient presents with the characteristic erythema and blistering of a phototoxic drug reaction. Phototoxic drug reactions usually present as exaggerated sunburn due to direct cellular injury. Unlike photoallergic reactions, they are not immunologically mediated and do not require prior sensitization; reactions occur minutes to hours after sun exposure. Tetracyclines, including doxycycline, are one of the most common causes of phototoxic drug reactions. In addition to exaggerated sunburn, tetracycline-induced phototoxicity may present with photo-onycholysis (separation of the nail from the nail bed) and pseudoporphyria. Minocycline may cause less photosensitization than other tetracyclines. Other common causes of phototoxic reactions include sulfonamides, hydrochlorothiazide, fluoroquinolones, antimalarials, amiodarone, and voriconazole. Discontinuation of the photosensitizing drug and sun avoidance measures will lead to resolution of the reaction. Topical glucocorticoids can be used for symptomatic treatment."
+]
+},
+{
+"type":"p",
+"hlId":"5f1075",
+"children":[
+"Bullous pemphigoid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a pruritic autoimmune blistering disorder that presents most commonly in elderly persons. It does not present acutely after sun exposure and is a very unlikely diagnosis in this young patient."
+]
+},
+{
+"type":"p",
+"hlId":"66a6df",
+"children":[
+"A photoallergic drug reaction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a type IV hypersensitivity reaction that is less common than phototoxic drug reactions and occurs in patients with prior sensitization to the offending drug. This type of drug reaction typically presents more than 24 hours after exposure. It clinically presents as eczematous dermatitis and less commonly as exaggerated sunburn. Although many drugs can cause both a phototoxic and photoallergic drug reaction, doxycycline is not known to cause a photoallergic drug reaction."
+]
+},
+{
+"type":"p",
+"hlId":"8b64e2",
+"children":[
+"Porphyria cutanea tarda (PCT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a blistering disorder that presents most commonly in persons older than 40 years, usually on the dorsal hands. It is associated with hepatitis C virus infection, alcohol-related liver disease, hemochromatosis, and HIV infection. Although PCT is a photosensitive blistering disorder, it is not the most likely diagnosis in this young woman taking doxycycline."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s10_10_2",
+"objective":{
+"__html":"Diagnose phototoxic reaction to doxycycline."
+},
+"references":[
+[
+"Monteiro AF, Rato M, Martins C. Drug-induced photosensitivity: photoallergic and phototoxic reactions. Clin Dermatol. 2016;34:571-81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27638435",
+"target":"_blank"
+},
+"children":[
+"PMID: 27638435"
+]
+},
+" doi:10.1016/j.clindermatol.2016.05.006"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":19,
+"C":66,
+"D":7,
+"E":0
+},
+"figuresContent":{
+"mk19_b_gm_mcq_f095":{
+"id":"mk19_b_gm_mcq_f095",
+"number":95,
+"bookId":"gm2",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"6ceb90a84d0b1bd0c1bc16d376bfbee4",
+"height":577,
+"width":650,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e7932f",
+"66e1e6",
+"413696",
+"cdbae3",
+"75819d",
+"5f1075",
+"66a6df",
+"8b64e2"
+]
+}

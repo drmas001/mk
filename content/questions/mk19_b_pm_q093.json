@@ -1,0 +1,282 @@
+{
+"id":"mk19_b_pm_q093",
+"number":93,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6fe141",
+"children":[
+"A 24-year-old woman is evaluated for intermittent cough, wheezing, and chest tightness of 1 month's duration. She reports worsening symptoms with exercise and with cat exposure."
+]
+},
+{
+"type":"p",
+"hlId":"e978df",
+"children":[
+"On physical examination, vital signs are normal. She has end-expiratory wheezing. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"6a5831",
+"children":[
+"On spirometry, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" is 75% of predicted and improves significantly following inhaled albuterol."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5d49de",
+"children":[
+"Which of the following tests will help predict this patient's responsiveness to inhaled glucocorticoids?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchial challenge testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Diffusing capacity for carbon monoxide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fractional exhaled nitric oxide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulse oximetry"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"48e960",
+"children":[
+"In adults with respiratory symptoms, fractional exhaled nitric oxide levels above 50 ppb correlate with eosinophilic airway inflammation and predict response to inhaled glucocorticoids."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e3d2ec",
+"children":[
+"Serial measurement of fractional exhaled nitric oxide may be helpful to monitor patient response to inhaled glucocorticoid therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ee621e",
+"children":[
+"Fractional exhaled nitric oxide (FeNO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") will help predict this patient's responsiveness to inhaled glucocorticoids. Although FeNO should not be used as a diagnostic tool for asthma, it can be used to support this diagnosis in situations in which additional objective evidence is needed. FeNO may be useful if there is uncertainty in choosing, monitoring, or adjusting anti-inflammatory therapies based on history, clinical findings, and spirometry as part of an ongoing asthma monitoring and management strategy. In adults with respiratory symptoms, FeNO levels above 50 ppb correlate with eosinophilic airway inflammation and predict response to inhaled glucocorticoids. FeNO levels below 25 ppb indicate that eosinophilic airway inflammation and glucocorticoid responsiveness are less likely; values between 25 and 50 ppb should be interpreted cautiously. In patients with asthma that is being treated with inhaled glucocorticoids, serial measurement of FeNO may help to monitor patient response to glucocorticoid therapy."
+]
+},
+{
+"type":"p",
+"hlId":"3d7b7e",
+"children":[
+"Bronchial challenge testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used to identify bronchial hyperresponsiveness, a diagnostic feature of asthma. This is particularly helpful in patients whose symptoms are suggestive of asthma but for whom other pulmonary function test results are normal. Patients inhale increasing doses of a substance known to induce bronchospasm, such as methacholine or histamine, in a stepwise fashion. This is followed by repeated measurements of FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"; if FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" falls by 20% or more from the baseline value, the test is considered positive."
+]
+},
+{
+"type":"p",
+"hlId":"a5faab",
+"children":[
+"Diffusing capacity for carbon monoxide (D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+") measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") estimates the amount of gas transfer through the alveolar/capillary unit and is proportional to the surface area of a functional lung. D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" is measured by inhalation of a gas mixture containing carbon monoxide and helium; the resulting value is corrected for hemoglobin level. D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" is reduced in conditions in which functioning alveolar capillary units are destroyed, infiltrated, removed, or their function is compromised. Conditions that increase pulmonary capillary blood volume, such as pulmonary alveolar hemorrhage, left-to-right shunt, or asthma, can cause an elevation in D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+". D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" measurements do not predict responsiveness to glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"2a7058",
+"children":[
+"Pulse oximetry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provides a readily available noninvasive measurement of oxygen-bound hemoglobin in the circulation. A normal hemoglobin saturation measured by pulse oximetry is 95% to 100%, and values below 90% indicate hypoxemia. Pulse oximetry cannot predict responsiveness to glucocorticoids."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s1_1_7",
+"objective":{
+"__html":"Diagnose glucocorticoid-responsive asthma with fractional exhaled nitric oxide testing."
+},
+"references":[
+[
+"Jeppegaard M, Veidal S, Sverrild A, et al. Validation of ATS clinical practice guideline cut-points for FeNO in asthma. Respir Med. 2018;144:22-29. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30366580",
+"target":"_blank"
+},
+"children":[
+"PMID: 30366580"
+]
+},
+" doi:10.1016/j.rmed.2018.09.014"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":52,
+"B":6,
+"C":39,
+"D":3,
+"E":0
+},
+"hlIds":[
+"6fe141",
+"e978df",
+"6a5831",
+"5d49de",
+"48e960",
+"e3d2ec",
+"ee621e",
+"3d7b7e",
+"a5faab",
+"2a7058"
+]
+}

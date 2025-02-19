@@ -1,0 +1,225 @@
+{
+"id":"mk19_a_gm_q090",
+"number":90,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d0e0e0",
+"children":[
+"A 63-year-old man is evaluated in the emergency department for confusion after being found by his wife. He recently visited an urgent care center for symptoms of an upper respiratory tract infection and was prescribed codeine-guaifenesin. His wife reports that he took the medicine as directed."
+]
+},
+{
+"type":"p",
+"hlId":"b801da",
+"children":[
+"On physical examination, respiration rate is 10/min. All other vital signs are normal. The patient is somnolent. Miotic pupils and shallow inspirations are noted."
+]
+},
+{
+"type":"p",
+"hlId":"706cbf",
+"children":[
+"Treatment with naloxone rapidly improves mental status and respiration."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ca5497",
+"children":[
+"Which of the following is the most likely cause of this patient's adverse drug reaction?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Polymorphism of a cytochrome P450 gene"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Polymorphism of thiopurine methyltransferase gene"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Presence of HLA-B*57:01 allele"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Presence of HLA-B*58:01 allele"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4199a0",
+"children":[
+"Cytochrome P450 enzymes are primarily known for their role in the oxidative metabolism of drugs."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9b9701",
+"children":[
+"Significant pharmacokinetic alterations are most commonly caused by alleles in genes affecting the cytochrome P450 system."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"307278",
+"children":[
+"Polymorphism of a cytochrome P450 gene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is most likely responsible for this patient's adverse drug reaction. Cytochrome P450 enzymes are primarily known for their role in the oxidative metabolism of drugs. Both genetic and environmental factors can alter cytochrome P450 enzyme activity. Of the environmental factors, drug-drug interactions are the most relevant to clinicians. Of the genetic factors, significant pharmacokinetic alterations are most commonly caused by alleles in genes affecting the cytochrome P450 system, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2C19"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CYP2D6"
+]
+},
+". Clinical phenotypes of these genetic variations are assigned on the basis of enzyme activity: poor metabolizer, intermediate metabolizer, extensive/normal metabolizer, rapid metabolizer, and ultrarapid metabolizer. The effect of the phenotype on a particular medication depends on whether the medication is an active drug or a prodrug. Levels of drugs taken in their active form are reduced in patients who are ultrarapid metabolizers and increased in patients who are poor metabolizers. Prodrugs require conversion to their active form; ultrarapid metabolizers will have increased drug levels, whereas poor metabolizers will have reduced levels. The most likely cause of this patient's altered mental status is codeine toxicity. He has evidence of opioid toxicity on physical examination, with miotic pupils and bradypnea that responded to naloxone. Codeine is a prodrug that is converted to morphine by the CYP2D6 enzyme; patients with a rapid or ultrarapid metabolizer phenotype, such as this patient, are at increased risk for toxicity. Intake of CYP3A4 inhibitors, such as diltiazem, ketoconazole, or grapefruit, can also increase the risk for toxicity."
+]
+},
+{
+"type":"p",
+"hlId":"37197f",
+"children":[
+"Polymorphisms in the thiopurine methyltransferase (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"TPMT"
+]
+},
+") gene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are responsible for the metabolism of azathioprine and 6-mercaptopurine. Patients with low or absent enzyme levels are at significantly increased risk for bone marrow toxicity when prescribed these drugs."
+]
+},
+{
+"type":"p",
+"hlId":"55f66b",
+"children":[
+"Presence of the HLA-B*57:01 allele (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is associated with increased risk for hypersensitivity reaction when patients are prescribed abacavir; the FDA recommends testing before prescribing this drug."
+]
+},
+{
+"type":"p",
+"hlId":"7e0d43",
+"children":[
+"Presence of the HLA-B*58:01 allele (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is associated with increased risk for severe cutaneous adverse reactions when patients are prescribed allopurinol; the American College of Rheumatology conditionally recommends testing patients of Korean, Han Chinese, Thai, or African descent before prescribing allopurinol."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s11_3_1",
+"objective":{
+"__html":"Diagnose a pharmacogenetic variant as a cause of an adverse drug reaction."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Rheumatol. 2020;72:879-95. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32390306",
+"target":"_blank"
+},
+"children":[
+"PMID: 32390306"
+]
+},
+" doi:10.1002/art.41247"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":73,
+"B":16,
+"C":8,
+"D":3,
+"E":0
+},
+"hlIds":[
+"d0e0e0",
+"b801da",
+"706cbf",
+"ca5497",
+"4199a0",
+"9b9701",
+"307278",
+"37197f",
+"55f66b",
+"7e0d43"
+]
+}

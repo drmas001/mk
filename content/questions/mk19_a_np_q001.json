@@ -1,0 +1,879 @@
+{
+"id":"mk19_a_np_q001",
+"number":1,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a99327",
+"children":[
+"An 18-year-old man is evaluated in the emergency department for a severe asthma exacerbation unresponsive to intensification of his home program of albuterol and fluticasone-salmeterol inhalers. Intravenous magnesium sulfate, prednisone, and inhaled albuterol are initiated."
+]
+},
+{
+"type":"p",
+"hlId":"00b6fe",
+"children":[
+"On physical examination, the patient is in respiratory distress. Blood pressure is 145/88 mm Hg, respiratory rate is 32/min, pulse is 108/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% with the patient breathing ambient air. Pulmonary examination reveals diffuse wheezes. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"89662a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"Electrolytes"
+]
+},
+":"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"167259",
+"class":"cell text l",
+"children":[
+"140 mEq/L (140 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e92687",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Potassium, serum",
+"children":[
+"Potassium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"28b9c6",
+"class":"cell text l",
+"children":[
+"3.2 mEq/L (3.2 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a207b1",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Chloride, serum",
+"children":[
+"Chloride"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"80ce87",
+"class":"cell text l",
+"children":[
+"110 mEq/L (110 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"075484",
+"class":"cell text l",
+"children":[
+"24 mEq/L (24 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"847136",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"Glucose"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93f0c1",
+"class":"cell text l",
+"children":[
+"124 mg/dL (6.9 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"18044b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, arterial (ambient air)",
+"children":[
+"Arterial blood gases"
+]
+},
+":"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell text l",
+"children":[
+
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text li",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ad131",
+"class":"cell text l",
+"children":[
+"7.50"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1bf4d",
+"class":"cell text l",
+"children":[
+"32 mm Hg (4.2 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"02a781",
+"class":"cell text l",
+"children":[
+"77 mm Hg (10.2 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9a3394",
+"children":[
+"Which of the following is the most likely cause of this patient's hypokalemia?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Albuterol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hyperglycemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypermagnesemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Respiratory alkalosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"71e583",
+"children":[
+"β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-Agonists can cause hypokalemia by facilitating intercellular shifts of potassium."
+]
+},
+{
+"type":"keypoint",
+"hlId":"db05b4",
+"children":[
+"When hypokalemia is secondary to acute transcellular shifts, total body potassium is normal and potassium replacement may cause rebound hyperkalemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5ca8e7",
+"children":[
+"The most likely cause of this patient's hypokalemia is albuterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Hypokalemia is defined as a serum potassium level <3.5 mEq/L (3.5 mmol/L). It can be divided into disorders of internal balance (movement of potassium between the intracellular and extracellular compartments) and disorders of external balance (potassium intake and output). β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-Agonists such as albuterol that are administered intravenously or by inhalation increase the activity of the Na",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"/K",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"-ATPase, which drives potassium into cells. This causes a transient decline in the extracellular potassium concentration. The decline in serum potassium is dose dependent and related to the potency of the drug, averaging approximately 0.5 mEq/L (0.5 mmol/L) but can be much greater. In patients with underlying heart disease, the rapid decline in serum potassium can cause fatal arrhythmias. When significant hypokalemia is secondary to acute transcellular shifts, such as in this case, total body potassium is normal and excessive potassium replacement may cause rebound hyperkalemia."
+]
+},
+{
+"type":"p",
+"hlId":"745ab1",
+"children":[
+"Similar to β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonists, insulin increases Na",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"/K",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"-ATPase activity and will acutely lower the extracellular potassium concentration. This effect of insulin on potassium homeostasis is separate from its effect on glucose metabolism. In this patient, however, it is unlikely that his hyperglycemia with a serum glucose level of 124 mg/dL (6.9 mmol/L) is high enough (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to stimulate significant insulin release to cause hypokalemia."
+]
+},
+{
+"type":"p",
+"hlId":"37ade0",
+"children":[
+"Blockage of the cellular potassium channel by the divalent cation barium can cause acute decreases in serum potassium. Although magnesium is a divalent cation, it does not affect the potassium channel in cell membranes, and thus hypermagnesemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") cannot cause hypokalemia."
+]
+},
+{
+"type":"p",
+"hlId":"8b8184",
+"children":[
+"Although prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has mineralocorticoid activity, any mineralocorticoid increase in potassium excretion would not occur rapidly and would therefore not explain this patient's hypokalemia. In addition, hyperaldosteronism is associated with hypertension and a metabolic alkalosis."
+]
+},
+{
+"type":"p",
+"hlId":"d96b37",
+"children":[
+"Respiratory disturbances have minimal effect on potassium distribution, and thus respiratory alkalosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would not be expected to cause a significant decrease in potassium in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_np_s2_3_1_1",
+"objective":{
+"__html":"Diagnose β<sub>2</sub>-agonist–related hypokalemia."
+},
+"references":[
+[
+"Palmer BF, Clegg DJ. Physiology and pathophysiology of potassium homeostasis. Adv Physiol Educ. 2016;40:480-490. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27756725",
+"target":"_blank"
+},
+"children":[
+"PMID: 27756725"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":55,
+"B":0,
+"C":3,
+"D":2,
+"E":40
+},
+"hlIds":[
+"a99327",
+"00b6fe",
+"a462a3",
+"89662a",
+"d41d8c",
+"b99276",
+"167259",
+"e92687",
+"28b9c6",
+"a207b1",
+"80ce87",
+"6827e3",
+"075484",
+"847136",
+"93f0c1",
+"18044b",
+"d41d8c",
+"397dff",
+"4ad131",
+"dd372e",
+"f1bf4d",
+"acab5a",
+"02a781",
+"9a3394",
+"71e583",
+"db05b4",
+"5ca8e7",
+"745ab1",
+"37ade0",
+"8b8184",
+"d96b37"
+]
+}

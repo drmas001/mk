@@ -1,0 +1,239 @@
+{
+"id":"mk19_b_pm_q098",
+"number":98,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 98",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ed14da",
+"children":[
+"A 72-year-old man is evaluated for exertional dyspnea of 1 year's duration and recent onset of orthopnea. He has diabetes mellitus, hypertension, and coronary artery disease. Medications are atorvastatin, aspirin, lisinopril, metoprolol, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"448b80",
+"children":[
+"On physical examination, blood pressure is 150/82 mm Hg; the remaining vital signs are normal. Jugular venous pressure is elevated. An S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" is present. Pulmonary examination reveals occasional crackles. There is 2+ pitting edema to the knees."
+]
+},
+{
+"type":"p",
+"hlId":"51411c",
+"children":[
+"A chest radiograph shows an enlarged cardiac silhouette and pulmonary vascular congestion."
+]
+},
+{
+"type":"p",
+"hlId":"888730",
+"children":[
+"An echocardiogram reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 20% and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Right ventricle pressure",
+"children":[
+"right ventricular systolic pressure"
+]
+},
+" of 50 mm Hg."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"82af9b",
+"children":[
+"Which of the following is the most likely cause of the patient's pulmonary hypertension?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chronic thromboembolic pulmonary hypertension"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Idiopathic pulmonary arterial hypertension"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Interstitial lung disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Left ventricular failure"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c39c6",
+"children":[
+"Pulmonary hypertension (PH) related to left-sided heart disease accounts for 65% to 80% of all PH diagnoses."
+]
+},
+{
+"type":"keypoint",
+"hlId":"387bf7",
+"children":[
+"The diagnosis of pulmonary hypertension due to left-sided heart disease can usually be made by physical examination, chest radiography, and echocardiography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ba69f0",
+"children":[
+"The most likely diagnosis is left-sided heart failure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") leading to pulmonary hypertension (PH). PH occurs when a patient's pulmonary artery pressure is elevated. Normal mean pulmonary artery pressure in adults is rarely greater than 20 mm Hg. Accordingly, the Sixth World Symposium on Pulmonary Hypertension (WSPH) has defined PH as mean pulmonary pressure greater than 20 mm Hg. The WSPH has further classified PH into five groups based on the clinical, epidemiologic, and histologic profiles. PH related to left-sided heart disease (group 2) accounts for 65% to 80% of all PH diagnoses. This patient has several risk factors that support underlying left-sided heart disease, including advanced age, history of hypertension, diabetes, and coronary artery disease. The presence of orthopnea, elevated jugular venous pressure, an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", pulmonary congestion on chest radiography, and echocardiographic evidence of reduced ejection fraction support the diagnosis of PH related to left-sided heart disease."
+]
+},
+{
+"type":"p",
+"hlId":"fd4e6d",
+"children":[
+"Chronic thromboembolic pulmonary hypertension (CTEPH) (group 4) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is uncommon, even in patients with a history of venous thromboembolism. Approximately 20% of patients with CTEPH report no previous deep venous thrombosis or pulmonary embolism. This patient's history, physical examination, and echocardiographic findings support left-sided heart failure as the cause of PH."
+]
+},
+{
+"type":"p",
+"hlId":"cf1e71",
+"children":[
+"In patients with pulmonary arterial hypertension (group 1) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), the lung parenchyma usually appears normal on chest imaging. This patient has pulmonary vascular congestion on chest imaging."
+]
+},
+{
+"type":"p",
+"hlId":"de03a6",
+"children":[
+"This patient has findings of left-sided heart failure and no clinical or radiographic findings to suggest interstitial lung disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_4_1",
+"objective":{
+"__html":"Diagnose pulmonary hypertension due to left-sided heart failure."
+},
+"references":[
+[
+"Vachiéry JL, Tedford RJ, Rosenkranz S, et al. Pulmonary hypertension due to left heart disease. Eur Respir J. 2019;53. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30545974",
+"target":"_blank"
+},
+"children":[
+"PMID: 30545974"
+]
+},
+" doi:10.1183/13993003.01897-2018"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":8,
+"C":2,
+"D":84,
+"E":0
+},
+"hlIds":[
+"ed14da",
+"448b80",
+"51411c",
+"888730",
+"82af9b",
+"3c39c6",
+"387bf7",
+"ba69f0",
+"fd4e6d",
+"cf1e71",
+"de03a6"
+]
+}

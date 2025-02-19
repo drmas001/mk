@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_gm_q019",
+"number":19,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e1cc2b",
+"children":[
+"A 27-year-old man is evaluated for acute-onset pain on the radial aspect of the right wrist accompanied by stiffness and swelling. The patient fell onto outstretched hands while skiing yesterday. He reports no numbness or tingling in the hand or fingers. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"bfc301",
+"children":[
+"On physical examination, vital signs are normal. There is swelling of the entire wrist. Pain is elicited with palpation of the anatomic snuffbox. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"5f27cd",
+"children":[
+"Radiographs of the hand and wrist are negative for fracture."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone scintigraphy of the right wrist"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the right wrist"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat radiography in 2 weeks"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Splinting alone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Reassurance and acetaminophen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2c3f6d",
+"children":[
+"If scaphoid fracture is suspected and radiographs are normal, thumb splinting and repeat radiography in 1 to 2 weeks or immediate advanced imaging (MRI or CT) is recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e47783",
+"children":[
+"The most appropriate next step in management is MRI of the right wrist (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Falls onto outstretched hands resulting in pain in the anatomic snuffbox, especially in male athletes in the second or third decade of life, should raise high clinical suspicion for scaphoid fracture. The location of the scaphoid bone, articulating with the distal radius and four carpal bones, makes it prone to fracture. Because of the complexity of the anatomy, scaphoid fractures are often missed on initial radiographs, which are normal in up to 20% of patients. If scaphoid fracture is suspected and initial radiographs are normal, either splinting with repeat radiography in 1 to 2 weeks or immediate advanced imaging with MRI or CT is indicated. Several studies suggest that immediate MRI or CT is more cost-effective than splinting and repeat radiography when follow-up care, missed fracture, and lost productivity are taken into account. If diagnosed immediately, nondisplaced or minimally displaced scaphoid fractures may be managed with immobilization of the wrist in a cast or with splinting for 4 to 12 weeks. Undiagnosed, untreated scaphoid fracture may develop into scaphoid nonunion with degeneration of the distal radius, leading to progressive arthritis months to years after the initial injury."
+]
+},
+{
+"type":"p",
+"hlId":"2e24d1",
+"children":[
+"Bone scintigraphy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has the greatest sensitivity of all advanced imaging modalities for acute scaphoid fracture. However, to maximize sensitivity, scintigraphy must be delayed for 72 hours after the event. Scintigraphy also has the lowest specificity of all advanced imaging modalities, resulting in overtreatment of patients with positive scan results but no fracture. Bone scintigraphy is not the best option for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"6cc438",
+"children":[
+"Repeat radiography without splinting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would be insufficient in this patient, who probably has a nondisplaced or minimally displaced scaphoid fracture. The fracture may become displaced without splinting and could potentially require surgical fixation with screws or pinning."
+]
+},
+{
+"type":"p",
+"hlId":"da1491",
+"children":[
+"Splinting alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can result in a missed diagnosis of scaphoid fracture. In some cases, pain will resolve despite fracture, only to recur in the form of degenerative arthritis. Advanced imaging with CT or MRI is preferred to splinting alone."
+]
+},
+{
+"type":"p",
+"hlId":"82cd3a",
+"children":[
+"Reassurance and acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be inappropriate in this patient with a high likelihood of scaphoid fracture based on demographics and mechanism of injury. Radiographs are not sufficiently reassuring in this instance."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_4_4",
+"objective":{
+"__html":"Diagnose scaphoid fracture."
+},
+"references":[
+[
+"Fowler JR, Hughes TB. Scaphoid fractures. Clin Sports Med. 2015;34:37-50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25455395",
+"target":"_blank"
+},
+"children":[
+"PMID: 25455395"
+]
+},
+" doi:10.1016/j.csm.2014.09.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":50,
+"C":22,
+"D":18,
+"E":4
+},
+"hlIds":[
+"e1cc2b",
+"bfc301",
+"5f27cd",
+"1a5dcc",
+"2c3f6d",
+"e47783",
+"2e24d1",
+"6cc438",
+"da1491",
+"82cd3a"
+]
+}

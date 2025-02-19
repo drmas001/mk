@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_hm_q054",
+"number":54,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a3d60c",
+"children":[
+"A 65-year-old woman is hospitalized with a diagnosis of multiple segmental pulmonary emboli in the right and left lungs. Medical history is otherwise unremarkable. Her only medication is estrogen-medroxyprogesterone hormone replacement, which has been discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"76f70c",
+"children":[
+"On physical examination, blood pressure is 124/64 mm Hg, pulse rate is 124/min, and respiration rate is 24/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% breathing ambient air. Examination findings are otherwise noncontributory."
+]
+},
+{
+"type":"p",
+"hlId":"1c447f",
+"children":[
+"Complete blood count and metabolic profile are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"Estimated glomerular filtration rate"
+]
+},
+" is greater than 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inferior vena cava filter placement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thrombolytic therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Unfractionated heparin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d223af",
+"children":[
+"For patients with venous thromboembolism, the American Society of Hematology suggests using direct oral anticoagulants, such as apixaban, rivaroxaban, dabigatran, and edoxaban, over vitamin K antagonists, such as warfarin."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ebfbe1",
+"children":[
+"Dabigatran and edoxaban, like warfarin, require a transition period with parenteral therapy before continuing oral treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6b2e56",
+"children":[
+"The most appropriate treatment for this patient is apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Furthermore, she has a score of 1 (pulse rate ≥110/min) on the simplified Pulmonary Embolism Severity Index (PESI), which places her at high risk for adverse outcomes and necessitates treatment in the hospital. Apixaban is a direct factor Xa inhibitor that is approved to treat acute venous thromboembolism (VTE) without concomitant parenteral therapy on initiation; it can be used in patients with kidney injury and does not require dose adjustment for VTE treatment, even in patients undergoing dialysis. Rivaroxaban, another direct factor Xa inhibitor, would also be a treatment option for this patient. For patients with VTE, the American Society of Hematology (ASH) suggests using direct oral anticoagulants (DOACs), such as apixaban, rivaroxaban, dabigatran, and edoxaban, over vitamin K antagonists, such as warfarin. Dabigatran and edoxaban, like warfarin, require a transition period with parenteral therapy before continuing the oral treatment."
+]
+},
+{
+"type":"p",
+"hlId":"514f44",
+"children":[
+"For patients with VTE and significant preexisting cardiopulmonary disease, as well as for patients with pulmonary embolism (PE) and hemodynamic compromise, the ASH guideline suggests anticoagulation alone rather than anticoagulation plus insertion of an inferior vena cava (IVC) filter; the guideline also suggests that an IVC filter may be considered in patients with an absolute contraindication to anticoagulation. This patient has no contraindication to anticoagulation, so an IVC filter would not be indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Studies have shown that, in patients with severe PE, the use of an IVC filter with anticoagulation does not lead to a reduction in symptomatic recurrent PE compared with anticoagulation alone, so it should not be recommended in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"9167ea",
+"children":[
+"Thrombolytic therapy is generally recommended in the setting of massive PE resulting in shock, hypotension, or severe cardiac compromise (profound bradycardia or pulselessness) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). For patients with PE and echocardiographic evidence or biomarkers compatible with right ventricular dysfunction without hemodynamic compromise (submassive PE), the ASH guideline suggests anticoagulation alone instead of thrombolytic therapy and anticoagulation. The 2021 CHEST guideline recommends against thrombolytic therapy in most patients with acute PE not associated with hypotension. This patient does not have massive PE, so thrombolytic therapy would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"b54eb1",
+"children":[
+"Parenteral therapy with unfractionated heparin (UFH) is not preferred, because variations in bioavailability and potential delay in arriving at a therapeutic dose are more likely than with low-molecular-weight heparin (LMWH) or a DOAC (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). UFH should therefore be reserved for patients for whom LMWH is contraindicated or in those who require anticoagulation that can be stopped quickly, generally in anticipation of an invasive procedure or surgery."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_3_3",
+"objective":{
+"__html":"Treat acute pulmonary embolism in a patient requiring hospitalization."
+},
+"references":[
+[
+"Ortel TL, Neumann I, Ageno W, et al. American Society of Hematology 2020 guidelines for management of venous thromboembolism: Treatment of deep vein thrombosis and pulmonary embolism. Blood Adv. 2020;4:4693-4738. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33007077",
+"target":"_blank"
+},
+"children":[
+"PMID: 33007077"
+]
+},
+" doi:10.1182/bloodadvances.2020001830"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":56,
+"B":3,
+"C":8,
+"D":33,
+"E":0
+},
+"hlIds":[
+"a3d60c",
+"76f70c",
+"1c447f",
+"1054f1",
+"d223af",
+"ebfbe1",
+"6b2e56",
+"514f44",
+"9167ea",
+"b54eb1"
+]
+}

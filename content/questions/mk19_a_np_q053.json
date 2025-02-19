@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_np_q053",
+"number":53,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2f627b",
+"children":[
+"A 28-year-old woman seeks preconception counseling. She has a 3-year history of primary hypertension. Medical history is otherwise unremarkable, and her only medication is ramipril."
+]
+},
+{
+"type":"p",
+"hlId":"8bb1e9",
+"children":[
+"On physical examination, blood pressure is 138/78 mm Hg. Average blood pressure with home blood pressure monitoring is 126/72 mm Hg. Other vital signs are normal. BMI is 30. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"328cab",
+"children":[
+"Previous evaluation revealed no evidence of retinopathy, left ventricular hypertrophy, or kidney disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue ramipril"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue ramipril; start hydralazine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue ramipril; start spironolactone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No change in therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"43f798",
+"children":[
+"Renin-angiotensin system blocking agents (ACE inhibitors, angiotensin receptor blockers, direct renin inhibitors, and mineralocorticoid receptor antagonists) are contraindicated in pregnancy and should be discontinued before conception."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7fff31",
+"children":[
+"Chronic hypertension guidelines for pregnant women recommend a systolic blood pressure of 120 to <160 mm Hg and a diastolic pressure of 80 to <110 mm Hg."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"855a11",
+"children":[
+"The most appropriate management is to discontinue the ACE inhibitor ramipril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in this patient who is planning pregnancy. Renin-angiotensin system blocking agents, such as ACE inhibitors, angiotensin receptor blockers (ARBs), and direct renin inhibitors, are contraindicated in pregnancy and should be discontinued before conception. Exposure during the second and third trimesters of pregnancy has been associated with neonatal kidney failure and death."
+]
+},
+{
+"type":"p",
+"hlId":"3ea77a",
+"children":[
+"In pregnant patients with chronic hypertension, the 2019 American College of Obstetricians and Gynecologists (ACOG) guidelines recommend a systolic blood pressure during pregnancy of 120 to <160 mm Hg and a diastolic pressure of 80 to <110 mm Hg. In the setting of comorbidities or underlying impaired kidney function, treating at lower blood pressure thresholds may be appropriate. This patient's blood pressure is well within this range on treatment, and her blood pressure would be expected to decline during pregnancy. Therefore, monitoring her blood pressure after discontinuation of ramipril without the initiation of a replacement drug is a reasonable approach. If her blood pressure increases beyond the target range during pregnancy, initiation of a drug that is safe in pregnancy is recommended. In that event, first-line therapy includes methyldopa, labetalol, and nifedipine."
+]
+},
+{
+"type":"p",
+"hlId":"da4c70",
+"children":[
+"Pregnant patients with acute and severe hypertension have been successfully and safely treated with parenteral hydralazine. There is less experience in its use as a routine oral antihypertensive drug in pregnant women with chronic hypertension. Hydralazine is an unlikely first-line drug (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for pregnant women needing antihypertensive treatment because it causes reflex tachycardia, often necessitating combination with a β-blocking drug, and results in fluid retention, often requiring the addition of a diuretic."
+]
+},
+{
+"type":"p",
+"hlId":"b6f743",
+"children":[
+"Mineralocorticoid receptor antagonists such as spironolactone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and eplerenone also block the renin-angiotensin system. This class of drug is often used in patients with hyperaldosteronism and resistant hypertension, but it has not been shown to be safe in pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"cc46f7",
+"children":[
+"Not discontinuing the ramipril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in this patient at this point in time is unsafe. The safest approach is to discontinue any inhibitor of the renin-angiotensin system before conception."
+]
+}
+],
+"relatedSection":"mk19_a_np_s11_2_1",
+"objective":{
+"__html":"Manage chronic hypertension before conception."
+},
+"references":[
+[
+"ACOG practice bulletin no. 203: chronic hypertension in pregnancy. Obstet Gynecol. 2019;133:e26-e50. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30575676",
+"target":"_blank"
+},
+"children":[
+"PMID: 30575676"
+]
+},
+" doi:10.1097/AOG.0000000000003020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":30,
+"B":51,
+"C":2,
+"D":17,
+"E":0
+},
+"hlIds":[
+"2f627b",
+"8bb1e9",
+"328cab",
+"cb2b54",
+"43f798",
+"7fff31",
+"855a11",
+"3ea77a",
+"da4c70",
+"b6f743",
+"cc46f7"
+]
+}

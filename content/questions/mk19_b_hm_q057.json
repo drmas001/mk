@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_hm_q057",
+"number":57,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8b528c",
+"children":[
+"A 38-year-old woman is evaluated 1 week before elective cholecystectomy. Medical history is significant for hemoglobin SS sickle cell disease with approximately one or two vaso-occlusive pain events annually, which are managed in the outpatient setting. Medications are folic acid and oxycodone as needed during pain events."
+]
+},
+{
+"type":"p",
+"hlId":"c72102",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 7.9 g/dL (79 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9fa365",
+"children":[
+"Which of the following is the most appropriate perioperative management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Postoperative simple transfusion; target hemoglobin 10 g/dL (100 g/L)"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Preoperative hydroxyurea"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Preoperative exchange transfusion; target hemoglobin S less than 30%"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Preoperative simple transfusion; target hemoglobin 10 g/dL (100 g/L)"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d16b71",
+"children":[
+"Sickle cell disease carries an increased risk of perioperative complications with surgeries other than low-risk procedures."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5986af",
+"children":[
+"Patients with sickle cell disease, particularly hemoglobin SS disease, benefit from preoperative simple transfusion to achieve a hemoglobin level of 10 g/dL (100 g/L)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4e5589",
+"children":[
+"Preoperative simple transfusion should be performed, targeting a hemoglobin level of 10 g/dL (100 g/L) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Sickle cell disease (SCD) carries an increased risk of perioperative complications with surgeries other than low-risk procedures (e.g., skin biopsy). This increased risk is particularly true in those with hemoglobin SS or hemoglobin Sβ° disease. Evidence-based care for patients with hemoglobin SS disease undergoing surgeries other than low-risk procedures is to provide simple erythrocyte transfusion. This recommendation is based on results from a clinical trial in which patients were randomized either to no transfusion or to simple transfusion to achieve a hemoglobin level of 10 g/dL (100 g/L) preoperatively. A significant increase in serious adverse events was seen in those who did not receive transfusion. Patients who received transfusion also had a lower incidence of developing acute chest syndrome. No data are available on outcomes using postoperative transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"c6f2c5",
+"children":[
+"Hydroxyurea reduces vaso-occlusive events in SCD, with some data demonstrating improved survival with long-term use. Its efficacy appears to be partially related to increasing hemoglobin F production and decreasing the relative concentration of hemoglobin S. It should be considered for use in adults who have significant clinical manifestations, including three or more painful vaso-occlusive events per year. However, hydroxyurea use has not been studied specifically for the perioperative setting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Benefits are typically seen with chronic use, and it is unlikely to have a positive effect for this patient having a surgery in 1 week."
+]
+},
+{
+"type":"p",
+"hlId":"d9e656",
+"children":[
+"A more aggressive approach using exchange transfusion to reduce the hemoglobin S to less than 30% is no more effective at reducing adverse outcomes with surgery than preoperative simple transfusion, including no difference in rates of acute chest syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Additionally, fewer transfusion-related complications are experienced in those who receive simple transfusion."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_3_1_3",
+"objective":{
+"__html":"Manage sickle cell anemia perioperatively."
+},
+"references":[
+[
+"Davis BA, Allard S, Qureshi A, et al; British Society for Haematology. Guidelines on red cell transfusion in sickle cell disease part II: Indications for transfusion. Br J Haematol. 2017;176:192-209. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27858994",
+"target":"_blank"
+},
+"children":[
+"PMID: 27858994"
+]
+},
+" doi:10.1111/bjh.14383"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":9,
+"C":30,
+"D":54,
+"E":0
+},
+"hlIds":[
+"8b528c",
+"c72102",
+"9fa365",
+"d16b71",
+"5986af",
+"4e5589",
+"c6f2c5",
+"d9e656"
+]
+}

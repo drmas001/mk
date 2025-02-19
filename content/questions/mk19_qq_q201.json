@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q201",
+"number":201,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 201",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0efa04",
+"children":[
+"A 69-year-old woman is evaluated for acute left knee pain and swelling. She has gout, type 2 diabetes mellitus, and chronic kidney disease."
+]
+},
+{
+"type":"p",
+"hlId":"0350e1",
+"children":[
+"On physical examination, temperature is 37.5 °C (99.5 °F). The left knee is swollen, red, warm, and tender. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 1.7 mg/dL (150.3 µmol/L). Synovial fluid demonstrates intracellular urate crystals and negative Gram stain."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Febuxostat"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-dose colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intra-articular triamcinolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Naproxen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d674c0",
+"children":[
+"Treatment for acute gout should focus on anti-inflammatory therapy; colchicine, an NSAID, or a glucocorticoid is recommended."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5b10c4",
+"children":[
+"Intra-articular glucocorticoid injections for acute gout are a good treatment strategy when only one or two joints are affected, the presence of joint infection has been ruled out, and oral therapies have potential adverse events."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3ac1bd",
+"children":[
+"Intra-articular glucocorticoid therapy, such as triamcinolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is the most appropriate treatment for this patient with an acute gout flare of the knee. Gout is characterized by intermittent painful inflammatory joint flares in response to crystals formed because of excessive levels of urate (hyperuricemia). Intra-articular glucocorticoid injections are a good treatment strategy when only one or two joints are affected, the presence of joint infection has been ruled out, and oral therapies have potential adverse events. Given the documented presence of intracellular urate crystals (negatively birefringent needle-shaped crystals that are yellow when parallel and blue when perpendicular to a polarizing axis) and the negative synovial fluid on Gram stain, the probability of a joint infection is very low in this patient. Treatment for acute gout should focus on anti-inflammatory therapy, typically using colchicine, an NSAID, or a glucocorticoid. Although any of the three would effectively treat this patient's gout, the best choice would be a glucocorticoid because of potential adverse effects of other anti-inflammatory agents. Intra-articular glucocorticoids are preferred to systemic glucocorticoids in this patient to avoid the possible adverse effects of systemic glucocorticoids in a patient with diabetes mellitus."
+]
+},
+{
+"type":"p",
+"hlId":"950094",
+"children":[
+"Febuxostat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is as efficacious as or more efficacious than allopurinol in lowering serum urate levels. It is less likely to cause hypersensitivity reactions than allopurinol and does not require dose adjustment in mild to moderate chronic kidney disease. In February 2019, the FDA mandated a boxed warning regarding cardiovascular risk with febuxostat compared with allopurinol and has limited the approved use of febuxostat to patients who are unresponsive to or cannot tolerate allopurinol. Neither allopurinol nor febuxostat is an effective treatment for acute gout."
+]
+},
+{
+"type":"p",
+"hlId":"127215",
+"children":[
+"The simplest acute gout treatment is low-dose colchicine, 1.2 mg at the first symptoms of a gout flare, followed 1 hour later by a 0.6-mg dose. Colchicine is most effective when used within 24 hours after onset of an acute flare. High-dose colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") (1.2 mg initially, followed by 0.6 mg 1 hour later) is no more effective but is associated with an increased risk for adverse effects. High-dose colchicine could be particularly dangerous in patients with chronic kidney disease."
+]
+},
+{
+"type":"p",
+"hlId":"fe1865",
+"children":[
+"The presence of kidney disease makes the use of an NSAID such as naproxen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") undesirable because cyclooxygenase inhibition adversely affects the kidneys."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_1",
+"objective":{
+"__html":"Treat an acute monoarticular gout flare with intra-articular glucocorticoids."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Rheumatol. 2020;72:879-95. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32390306",
+"target":"_blank"
+},
+"children":[
+"PMID: 32390306"
+]
+},
+" doi:10.1002/art.41247"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"0efa04",
+"0350e1",
+"1054f1",
+"d674c0",
+"5b10c4",
+"3ac1bd",
+"950094",
+"127215",
+"fe1865"
+]
+}

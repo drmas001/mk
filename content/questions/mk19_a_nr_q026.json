@@ -1,0 +1,176 @@
+{
+"id":"mk19_a_nr_q026",
+"number":26,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"170209",
+"children":[
+"A 39-year-old woman is evaluated for a 3-month history of low energy, lack of interest in activities, and poor sleep. She has relapsing-remitting multiple sclerosis and a history of vitamin D deficiency. Medications are glatiramer acetate and a vitamin D supplement."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"4d7f54",
+"children":[
+"Two weeks ago, a routine MRI of the brain showed a stable number of T2 lesions, and none of these lesions demonstrated contrast enhancement on T1-weighted images."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate modafinil"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure serum 25-hydroxyvitamin D level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Screen for depression"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to natalizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1f60d5",
+"hvc":true,
+"children":[
+"Depression is very common in patients with multiple sclerosis, and clinicians should be vigilant for the signs of depression, and if present, screen for suicidality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"740b8c",
+"children":[
+"The most appropriate management is to screen for depression (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient presents with signs of depression, including low energy, lack of interest in activities, and poor sleep. Major depression is very common in patients with multiple sclerosis (MS) and likely occurs in approximately 50% of patients during their lifetime. Approximately 10% of patients with MS have experienced persistent thoughts of suicide. Furthermore, the suicide rate for patients with MS and depression is elevated compared with that of patients with depression only. MS-related depression is likely multifactorial, involving the emotional response to dealing with a chronic disease, the consequence of demyelinating lesions and inflammatory cytokines on neurotransmitter function, and the adverse effects of treatments (such as interferon beta). Clinicians should be vigilant for the signs of depression, and if present, screen for suicidality. If suicidal ideation is present, the lethality of the ideation should be evaluated. Clinicians should have a low threshold for initiating antidepressants and offering referrals to psychiatry or psychology for counseling. Referral to a psychiatrist is indicated for patients with severe depression, failure of initial therapy, complex psychiatric comorbidities, and high suicide risk."
+]
+},
+{
+"type":"p",
+"hlId":"1c86d9",
+"children":[
+"Initiation of modafinil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated. Although this patient reports low energy, and fatigue is a common symptom in MS, fatigue is not the only potential cause of her presenting symptoms. Patients with MS who are experiencing fatigue should be evaluated for depression and sleep disturbances before initiation of treatment for fatigue."
+]
+},
+{
+"type":"p",
+"hlId":"8c750c",
+"children":[
+"Measuring this patient's serum 25-hydroxy vitamin D level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not the most appropriate next step in management. Although the patient has a history of vitamin D deficiency, and optimization of vitamin D levels may have some benefit in patients with MS, the patient's presenting symptom of depression is not a symptom commonly associated with vitamin D deficiency, and deficiency is unlikely in a patient taking supplementation."
+]
+},
+{
+"type":"p",
+"hlId":"a285c7",
+"children":[
+"Discontinuing glatiramer acetate and initiating natalizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated. The patient does not have any new disease activity, and results of her MRI show stable lesions."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_3_4",
+"objective":{
+"__html":"Screen for depression in a patient with multiple sclerosis."
+},
+"references":[
+[
+"Kalb R, Feinstein A, Rohrig A, Sankary L, Willis A. Depression and suicidality in multiple sclerosis: red flags, management strategies, and ethical considerations. Curr Neurol Neurosci Rep. 2019 Aug 28;19(10):77. doi:10.1007/s11910-019-0992-1. PMID: 31463644"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":6,
+"C":89,
+"D":1,
+"E":0
+},
+"hlIds":[
+"170209",
+"a4ff4d",
+"4d7f54",
+"cb2b54",
+"1f60d5",
+"740b8c",
+"1c86d9",
+"8c750c",
+"a285c7"
+]
+}

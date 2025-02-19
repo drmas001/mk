@@ -1,0 +1,192 @@
+{
+"id":"mk19_qq_q188",
+"number":188,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 188",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5a77b6",
+"children":[
+"A 43-year-old woman is scheduled to undergo an emergency root canal for irreversible pulpitis. She has a prosthetic mitral valve. She has severe dental pain but is otherwise well and has never had an episode of endocarditis. She is able to take oral medications and has no drug allergies."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ba49fc",
+"children":[
+"Which of the following is the most appropriate endocarditis prophylaxis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Clindamycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No antibiotic prophylaxis is needed"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cddb86",
+"children":[
+"High-risk cardiac conditions requiring infective endocarditis prophylaxis include prosthetic cardiac valves, prosthetic material used for cardiac valve repair, a history of previous infective endocarditis, unrepaired cyanotic congenital heart disease, repaired congenital heart disease with residual defects or abnormalities, and cardiac transplantation with valvulopathy resulting in valvular regurgitation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fa9c52",
+"children":[
+"Endocarditis prophylaxis in high-risk patients is reasonable for dental procedures that involve manipulation of the gingival tissue or periapical region of the teeth or perforation of the oral mucosa but are not recommended for nondental procedures, including transesophageal echocardiography and genitourinary or gastrointestinal procedures in the absence of active infection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0025c2",
+"children":[
+"Amoxicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is appropriate prophylaxis before this patient's dental procedure. Antibiotic prophylaxis to prevent infective endocarditis (IE) is recommended for patients with underlying conditions with the highest risk for an adverse outcome from IE, which do not include heart murmurs associated with native valve abnormalities. Although prophylaxis previously had been widely provided to persons with murmurs before dental procedures, it has been found that the bacteremia associated with dental procedures is much less likely to cause IE than the bacteremia resulting from poor oral hygiene and gingival disease and that only an extremely small number of cases of community-acquired IE are prevented by prophylaxis. Therefore, antibiotic prophylaxis is now recommended only for high-risk patients and only when those patients undergo specific procedures in which risk for bacteremia is higher."
+]
+},
+{
+"type":"p",
+"hlId":"42e596",
+"children":[
+"High-risk cardiac conditions include prosthetic cardiac valves, prosthetic material used for cardiac valve repair, a history of prior IE, unrepaired cyanotic congenital heart disease, repaired congenital heart disease with residual defects or abnormalities, surgical or transcatheter pulmonary valve or conduit placement, and cardiac transplantation with valvulopathy resulting in valvular regurgitation. Endocarditis prophylaxis in high-risk patients is reasonable for dental procedures that involve manipulation of the gingival tissue or periapical region of the teeth or perforation of the oral mucosa. Antibiotic prophylaxis to prevent bacterial endocarditis is not recommended for nondental procedures, including transesophageal echocardiography and genitourinary or gastrointestinal procedures in the absence of active infection. In patients with an indication for treatment, antibiotics directed toward viridans streptococci are recommended. Oral amoxicillin and, in penicillin-allergic patients, oral cephalexin are recommended. In patients unable to take oral medications, ampicillin, cefazolin, or ceftriaxone can be given intramuscularly or intravenously; in penicillin-allergic patients (nonsevere, non–IgE-mediated penicillin allergy), cefazolin or ceftriaxone can also be given intramuscularly or intravenously."
+]
+},
+{
+"type":"p",
+"hlId":"1dd19a",
+"children":[
+"In an updated American Heart Association guideline, clindamycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is no longer a suggestive alternative to amoxicillin because it is associated with more frequent occurrence of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile infection"
+]
+},
+" and other adverse effects."
+]
+},
+{
+"type":"p",
+"hlId":"be7a8c",
+"children":[
+"Some fluoroquinolones have activity against a limited number of gram-positive organisms, but their potency is often less than that of other antibiotics. Ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") particularly has limited activity against gram-positive organisms and would be a poor choice for endocarditis prevention in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"b06695",
+"children":[
+"This patient with a prosthetic mitral valve has an indication for endocarditis prophylaxis; therefore, no prophylaxis is inappropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_9_2",
+"objective":{
+"__html":"Provide prophylaxis for infective endocarditis."
+},
+"references":[
+[
+"Wilson WR, Gewitz M, Lockhart PB, et al; American Heart Association Young Hearts Rheumatic Fever, Endocarditis and Kawasaki Disease Committee of the Council on Lifelong Congenital Heart Disease and Heart Health in the Young; Council on Cardiovascular and Stroke Nursing; and the Council on Quality of Care and Outcomes Research. Prevention of viridans group streptococcal infective endocarditis: a scientific statement from the American Heart Association. Circulation. 2021;e963-e978. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33853363",
+"target":"_blank"
+},
+"children":[
+"PMID: 33853363"
+]
+},
+". doi:10.1161/CIR.0000000000000969"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5a77b6",
+"ba49fc",
+"cddb86",
+"fa9c52",
+"0025c2",
+"42e596",
+"1dd19a",
+"be7a8c",
+"b06695"
+]
+}

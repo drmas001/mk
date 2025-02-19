@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q059",
+"number":59,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ab778b",
+"children":[
+"A 68-year-old man is evaluated for shortness of breath, headache, and swelling of the neck. He first noticed symptoms 3 weeks ago, which have worsened over the past 2 days."
+]
+},
+{
+"type":"p",
+"hlId":"ad27b4",
+"children":[
+"Medical history is significant for a 25-pack-year history of smoking."
+]
+},
+{
+"type":"p",
+"hlId":"b6c03b",
+"children":[
+"On physical examination, temperature is 36.5 °C (97.8 °F), blood pressure is 110/65 mm Hg, pulse rate is 112/min, and respiration rate is 18/min. Oxygen saturation is 92% breathing ambient air. The patient is cachectic but appears comfortable. His face is plethoric, and there are distended cutaneous vessels over the anterior thorax. An enlarged right supraclavicular lymph node is palpable. Pulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"28a802",
+"children":[
+"CT scan of the chest reveals bulky mediastinal adenopathy compressing the superior vena cava, right supraclavicular adenopathy, and a small right-sided pleural effusion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Biopsy of the supraclavicular node"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Glucocorticoids"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radiation therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection of the mediastinal lymphadenopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"633adf",
+"children":[
+"Most cases of superior vena cava syndrome are caused by malignancies with large mediastinal masses, and most patients do not require emergency intervention."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d306d5",
+"children":[
+"For superior vena cava syndrome, a tissue biopsy should be obtained to determine the underlying malignancy and guide further management."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5c5bd4",
+"children":[
+"This patient has superior vena cava (SVC) syndrome and should undergo a tissue biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to guide further management. Most cases of SVC syndrome are caused by malignancies with large mediastinal masses. Patients typically present with edema of the head, neck, and arms, often with cyanosis, plethora, and distended cutaneous collateral vessels. They may have headache, cough, dyspnea, hoarseness, or syncope. Most patients do not require emergency intervention. Treatment of patients presenting with SVC syndrome should be guided by the underlying malignancy. Although local therapies directed at mediastinal masses may yield symptomatic improvement, this may compromise treatment for the underlying disease. In this patient, the enlarged right supraclavicular lymph node is easily accessible for surgical biopsy with minimal risk. Many patients with SVC syndrome have highly chemotherapy-sensitive malignancies, such as small cell carcinoma of the lung or aggressive non-Hodgkin lymphoma. Even those who present with a heavy burden of symptoms or vital sign abnormalities such as hypoxia may be treated with standard chemotherapy to obtain shrinkage of the tumor and improvement in SVC syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"a511c0",
+"children":[
+"Glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be administered routinely to patients with SVC syndrome. Pretreatment with glucocorticoids can obscure the tissue diagnosis, particularly for patients with aggressive lymphomas, which may be very sensitive to glucocorticoids. These patients may benefit from glucocorticoids as part of the initial treatment regimen following tissue diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"68711a",
+"children":[
+"Radiation therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should only be performed after a tissue diagnosis is obtained and if it is otherwise indicated for management of the underlying disease. Radiation therapy may be used if the patient has highly symptomatic SVC syndrome in the setting of a malignancy that is unlikely to respond quickly to systemic therapy, or if the patient is not fit to receive systemic therapy."
+]
+},
+{
+"type":"p",
+"hlId":"c62760",
+"children":[
+"Surgical resection of the mediastinal adenopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to relieve SVC syndrome is not appropriate in this patient because treatment should be tailored to the underlying malignancy. The supraclavicular node is amenable to biopsy with less operative risk."
+]
+}
+],
+"relatedSection":"mk19_a_on_s12_1_1",
+"objective":{
+"__html":"Manage a patient with superior vena cava syndrome."
+},
+"references":[
+[
+"Zimmerman S, Davis M. Rapid fire: superior vena cava syndrome. Emerg Med Clin N Am. 2018;36:577-84. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30037444",
+"target":"_blank"
+},
+"children":[
+"PMID: 30037444"
+]
+},
+" doi:10.1016/j.emc.2018.04.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":48,
+"B":20,
+"C":28,
+"D":4,
+"E":0
+},
+"hlIds":[
+"ab778b",
+"ad27b4",
+"b6c03b",
+"28a802",
+"cb2b54",
+"633adf",
+"d306d5",
+"5c5bd4",
+"a511c0",
+"68711a",
+"c62760"
+]
+}

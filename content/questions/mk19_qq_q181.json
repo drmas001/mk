@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q181",
+"number":181,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 181",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9da489",
+"children":[
+"A 59-year-old man is evaluated before undergoing total left hip arthroplasty. He has dyslipidemia, hypertension, and a history of a minor stroke 3 years ago. His estimated risk for major adverse cardiac event is greater than 1%. He has heartburn with exertion. Medications include aspirin, atorvastatin, and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"c8b8e3",
+"children":[
+"Examination of the left hip shows restricted and painful passive range of motion. The remainder of the examination is normal. ECG shows no resting abnormalities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a5826f",
+"children":[
+"Which of the following is the most appropriate preoperative testing?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary artery calcium scoring"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pharmacologic stress testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing is necessary"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"929811",
+"children":[
+"In the preoperative evaluation of coronary artery disease, guidelines recommend noninvasive pharmacologic stress testing (either dobutamine stress echocardiography or pharmacologic stress myocardial perfusion imaging) for patients at increased risk of a major adverse cardiovascular event or if assessed functioning is less than four metabolic equivalents, provided that testing will change management."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"929000",
+"children":[
+"This patient should undergo pharmacologic stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") before his total left hip arthroplasty. Patients at highest risk for perioperative cardiac complications are those with pre-existing cardiovascular conditions. Risk factors that predispose to higher risk for a major adverse cardiac event (MACE) include ischemic heart disease, compensated heart failure, diabetes mellitus, cerebrovascular disease, and chronic kidney disease. Guidelines from the American College of Cardiology (ACC)/American Heart Association (AHA) are commonly used, in conjunction with validated risk assessment tools, such as the American College of Surgeons National Surgical Quality Improvement Program Surgical Risk Calculator and the Revised Cardiac Risk Index, to assess risk for MACE. This patient has cardiovascular risk factors, an estimated risk for MACE of greater than 1%, and no reliable means of assessing his functional capacity. In this situation, or if his assessed functional capacity was less than four metabolic equivalents, it is reasonable to perform additional testing. The ACC/AHA recommends noninvasive pharmacological stress testing (either dobutamine stress echocardiography or pharmacological stress myocardial perfusion imaging) if testing will change management."
+]
+},
+{
+"type":"p",
+"hlId":"4730d4",
+"children":[
+"Cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be used with dobutamine to assess wall motion abnormalities or with vasodilators to assess perfusion. It is commonly performed to evaluate degree of infarction. Viability can be determined by evaluating the extent of myocardial fibrosis within the left ventricle. Measures of right and left ventricular function can be obtained with gating. CMR imaging is limited by operator expertise, length of time for image acquisition, and availability and is not the best initial or recommended diagnostic test for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"dc0f24",
+"children":[
+"Calcification of the coronary arteries is indicative of atherosclerosis and may be quantified with CT. Although coronary artery calcium scoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") provides information regarding the burden of disease, it cannot determine the degree of obstruction or myocardial functioning."
+]
+},
+{
+"type":"p",
+"hlId":"110934",
+"children":[
+"Because this patient is at elevated risk for MACE and has uninvestigated exertional chest discomfort, no further testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would not be an appropriate choice because test results could change management."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_2_1",
+"objective":{
+"__html":"Assess perioperative cardiac risk with pharmacologic stress testing."
+},
+"references":[
+[
+"Smilowitz NR, Berger JS. Perioperative cardiovascular risk assessment and management for noncardiac surgery: A review. JAMA. 2020;324:279-290. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32692391",
+"target":"_blank"
+},
+"children":[
+"PMID: 32692391"
+]
+},
+" doi:10.1001/jama.2020.7840"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9da489",
+"c8b8e3",
+"a5826f",
+"929811",
+"929000",
+"4730d4",
+"dc0f24",
+"110934"
+]
+}

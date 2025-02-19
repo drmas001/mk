@@ -1,0 +1,271 @@
+{
+"id":"mk19_b_hm_q063",
+"number":63,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"498b6f",
+"children":[
+"A 44-year-old woman is evaluated for hemochromatosis. Her father was recently diagnosed with hemochromatosis following evaluation of cryptogenic cirrhosis. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"e2f12c",
+"children":[
+"On physical examination, vital signs and examination findings are normal."
+]
+},
+{
+"type":"p",
+"hlId":"1c6b19",
+"children":[
+"Iron studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Ferritin, serum",
+"children":[
+"ferritin"
+]
+},
+" level of 100 ng/mL (100 μg/L), an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Iron, serum",
+"children":[
+"iron"
+]
+},
+" level of 98 μg/dL (18 μmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Transferrin saturation",
+"children":[
+"transferrin saturation"
+]
+},
+" of 35%."
+]
+},
+{
+"type":"p",
+"hlId":"fdd753",
+"children":[
+"Heterozygous C282Y mutation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" gene is discovered on genetic testing, without H63D or S65C mutation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Iron chelation therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Phlebotomy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serial iron studies"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e4c525",
+"hvc":true,
+"children":[
+"The C282Y, H63D, and S65C mutations are the three most common in patients with hereditary hemochromatosis, and homozygosity for C282Y accounts for 80% to 90% of patients who have a genetic mutation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4ac6ad",
+"hvc":true,
+"children":[
+"Iron overload is extremely rare in persons with hereditary hemochromatosis and a heterozygous ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" mutation, so without symptoms or elevated iron indices, no treatment or monitoring is necessary in these patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"97b955",
+"children":[
+"This patient does not require any intervention currently (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She has hereditary hemochromatosis, with heterozygous C282Y mutation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" gene. Mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" gene comprise the most prevalent form of hereditary hemochromatosis, with a prevalence of 1 in 250 persons of northern European descent. The C282Y, H63D, and S65C mutations are the three most common, and homozygosity for C282Y accounts for 80% to 90% of patients with hemochromatosis who have a genetic mutation. Heterozygosity is common in patients of European ancestry. Iron overload is extremely rare in heterozygous individuals, and evidence of elevated iron indices (ferritin level >1000 ng/mL [1000 μg/L], transferrin saturation >45%) should raise suspicion for a concomitant rare mutation that may not be detected with standardized testing. The 2019 guideline from the American College of Gastroenterology (ACG) recommends treatment in patients with homozygous C282Y mutations with serum ferritin greater than 300 ng/mL (300 μg/L) in men and greater than 200 ng/mL (200 μg/L) in women, along with a transferrin saturation of 45% or more. Other sources recommend observation for serum ferritin levels less than 500 ng/mL (500 μg/L) regardless of genotype. This patient has a heterozygous C282Y mutation without elevated iron indices; therefore, without symptoms, no intervention or ongoing surveillance is required."
+]
+},
+{
+"type":"p",
+"hlId":"bce4e5",
+"children":[
+"Chelation with agents such as deferasirox is reserved for patients with iron overload who cannot undergo phlebotomy because of concomitant anemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient is not experiencing iron overload, so iron chelation is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"6726cf",
+"children":[
+"Phlebotomy is preferred for lowering iron levels in patients with hereditary hemochromatosis who require treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). However, phlebotomy is unnecessary in those who are asymptomatic, have a ferritin level less than 500 ng/mL (500 μg/L) (or less than 300 ng/mL [300 μg/L] in men and 200 ng/mL [200 μg/L] in women, according to the ACG), and have no evidence of organ iron deposition even with an ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" homozygous genetic mutation. However, those patients should be monitored for symptoms and have periodic evaluation of iron levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient, with a heterozygous C282Y mutation and normal iron stores, does not require monitoring."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s5_1",
+"objective":{
+"__html":"Manage newly diagnosed hereditary hemochromatosis."
+},
+"references":[
+[
+"Kowdley KV, Brown KE, Ahn J, Sundaram V. ACG clinical guideline: hereditary hemochromatosis. Am J Gastroenterol. 2019;114:1202-1218. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31335359",
+"target":"_blank"
+},
+"children":[
+"PMID: 31335359"
+]
+},
+" doi:10.14309/ajg.0000000000000315"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":10,
+"B":13,
+"C":28,
+"D":49,
+"E":0
+},
+"hlIds":[
+"498b6f",
+"e2f12c",
+"1c6b19",
+"fdd753",
+"cb2b54",
+"e4c525",
+"4ac6ad",
+"97b955",
+"bce4e5",
+"6726cf"
+]
+}

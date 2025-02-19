@@ -1,0 +1,190 @@
+{
+"id":"mk19_b_gm_q009",
+"number":9,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"17c327",
+"children":[
+"A 48-year-old man is evaluated during a follow-up visit for obesity. He has been unsuccessful in losing weight despite several weight loss diets, including structured meal plans, nutritionist referral, and weight loss medications. He walks 15 minutes daily but finds exercise difficult because of joint pain. Medical history is significant for type 2 diabetes mellitus, hypertension, obstructive sleep apnea, and osteoarthritis. Medications are metformin, empagliflozin, liraglutide, lisinopril, hydrochlorothiazide, topical diclofenac, and acetaminophen. He uses continuous positive airway pressure ventilation at night."
+]
+},
+{
+"type":"p",
+"hlId":"56e4f7",
+"children":[
+"On physical examination, blood pressure is 148/80 mm Hg, and pulse rate is 95/min; other vital signs are normal. BMI is 40. Crepitus in his knees bilaterally is noted, along with tenderness of the medial joint line. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ebd006",
+"children":[
+"Which of the following is the most appropriate management of this patient's obesity?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bariatric surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise, 150 minutes weekly"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Phentermine–topiramate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Very-low-calorie diet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1a43b3",
+"children":[
+"Bariatric surgery is indicated for motivated individuals with BMI of 40 or greater or BMI of 35 or greater with obesity-associated comorbid complications who have not responded to behavioral treatment or pharmacotherapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b25b94",
+"children":[
+"The most appropriate management of this patient's obesity is bariatric surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Bariatric surgery is indicated for motivated individuals with BMI of 40 or greater or BMI of 35 or greater and at least one serious weight-related comorbid condition, such as obstructive sleep apnea, osteoarthritis of the hip or knee, or type 2 diabetes. Additional criteria for bariatric surgery include sustained unsuccessful weight loss attempts using high-intensity lifestyle modification programs, structured meal plans, and/or pharmacotherapy. Bariatric surgery reliably results in weight loss and may also produce improvements in diabetes control, blood pressure, and lipid profiles. Cardiovascular and overall mortality may also be improved in patients with severe obesity. It may also durably improve or reverse some of the medical complications associated with obesity, such as obstructive sleep apnea and osteoarthritis. Patients should have acceptable operative risk, understand the necessity of lifelong dietary and lifestyle measures for sustained weight loss, and be willing to adhere to lifelong follow-up. Candidates should not have psychological conditions that impede adherence to these requirements."
+]
+},
+{
+"type":"p",
+"hlId":"0d1768",
+"children":[
+"Regular exercise (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has many important health benefits. However, exercise alone or combined with calorie restriction results in additional weight loss of no more than 3 kg (6.6 lb). This will not result in the weight loss required by this patient, and it is unlikely that he can comply owing to his hip and knee osteoarthritis."
+]
+},
+{
+"type":"p",
+"hlId":"865867",
+"children":[
+"Of all the weight loss medications, phentermine-topiramate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has the highest probability of achieving a 5% weight loss. However, contraindications include nephrolithiasis, uncontrolled hypertension, or resting tachycardia. A 5% weight loss will not be sufficient to treat this patient's many comorbid conditions. Finally, he is already taking a weight loss medication (liraglutide) and has resting tachycardia; therefore, phentermine-topiramate is contraindicated."
+]
+},
+{
+"type":"p",
+"hlId":"570dbb",
+"children":[
+"Recommending a very-low-calorie diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for this patient is unrealistic because he reports having not had success with other dietary interventions. It is unlikely that diet therapy alone will result in the weight loss that is needed to address his obesity-related complications."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s5_3_3",
+"objective":{
+"__html":"Treat obesity with bariatric surgery."
+},
+"references":[
+[
+"Tsai AG, Bessesen DH. Obesity. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201903050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;170:ITC33-48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30831593",
+"target":"_blank"
+},
+"children":[
+"PMID: 30831593"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":91,
+"B":5,
+"C":2,
+"D":2,
+"E":0
+},
+"hlIds":[
+"17c327",
+"56e4f7",
+"ebd006",
+"1a43b3",
+"b25b94",
+"0d1768",
+"865867",
+"570dbb"
+]
+}

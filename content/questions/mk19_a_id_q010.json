@@ -1,0 +1,297 @@
+{
+"id":"mk19_a_id_q010",
+"number":10,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0c6511",
+"children":[
+"A 53-year-old woman is evaluated in the emergency department for a 2-day history of watery diarrhea occurring 5 times daily. She recently had community-acquired pneumonia treated with levofloxacin 1 week ago. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"384295",
+"children":[
+"On physical examination, temperature is 37.6 °C (99.7 °F); other vital signs are normal. On abdominal examination, bowel sounds are present with diffuse tenderness to palpation but no distension or guarding."
+]
+},
+{
+"type":"p",
+"hlId":"b6bd87",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 12,000/µL (12 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.1 mg/dL (97.2 µmol/L). Stool testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" is positive."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fecal microbiota transplant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous vancomycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral metronidazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral vancomycin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Oral vancomycin plus intravenous metronidazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ffe6dd",
+"children":[
+"Treatment for initial nonsevere or severe ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection is either oral fidaxomicin or oral vancomycin."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1473ba",
+"children":[
+"Oral metronidazole may be used for an initial episode of nonsevere ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection if vancomycin and fidaxomicin are unavailable or intolerable."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d81ed7",
+"children":[
+"This patient has an initial episode of nonsevere ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection (CDI), which should be treated with oral vancomycin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Risk factors for infection include exposure to antibiotic and chemotherapeutic agents, older age, presence of inflammatory bowel disease, gastrointestinal surgery, and (possibly) gastric acid suppression with proton pump inhibitors. Antibiotic stewardship is paramount in reducing incidence of infection, and hand washing with soap and water is the gold standard for infection control; alcohol-based gels do not eliminate spores. Disease severity (nonsevere, severe, and fulminant) and initial or recurrent presentation guide treatment selection. Nonsevere CDI is defined by a leukocyte count of less than 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) and a serum creatinine level of less than 1.5 mg/dL (133 µmol/L). The 2021 Infectious Diseases Society of America and Society for Healthcare Epidemiology of America clinical practice guideline for CDI suggests either oral fidaxomicin (preferred) or oral vancomycin (alternative) for treatment of an initial episode of nonsevere or severe disease. If these agents are unavailable or intolerable, oral metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used for an initial episode of nonsevere disease."
+]
+},
+{
+"type":"p",
+"hlId":"41f634",
+"children":[
+"Fecal microbiota transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been recommended as a treatment approach for patients with multiple relapses of CDI. The rationale is that exogenous feces will restore the normal colonic microbiota. Fecal microbiota transplantation is not recommended for an initial episode of nonsevere CDI."
+]
+},
+{
+"type":"p",
+"hlId":"b30c28",
+"children":[
+"Intravenous vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not recommended for treatment of CDI because it is not excreted into the large intestine."
+]
+},
+{
+"type":"p",
+"hlId":"1438b6",
+"children":[
+"Oral vancomycin (by mouth or nasogastric tube) and intravenous metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is recommended for fulminant CDI. Fulminant CDI is associated with hypotension, shock, ileus, or megacolon. If an ileus is present, rectal instillation of vancomycin should be considered. Patients with fulminant disease warrant surgical evaluation."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_8",
+"objective":{
+"__html":"Treat a first episode of nonsevere <i>Clostridioides difficile</i> infection."
+},
+"references":[
+[
+"Johnson S, Lavergne V, Skinner AM, et al. Clinical practice guideline by the Infectious Diseases Society of America (IDSA) and Society for Healthcare Epidemiology of America (SHEA): 2021 focused update guidelines on management of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection in adults. Clin Infect Dis. 2021;73:755-757. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34492699",
+"target":"_blank"
+},
+"children":[
+"PMID: 34492699"
+]
+},
+" doi:10.1093/cid/ciab718"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":1,
+"C":19,
+"D":78,
+"E":3
+},
+"hlIds":[
+"0c6511",
+"384295",
+"b6bd87",
+"1054f1",
+"ffe6dd",
+"1473ba",
+"d81ed7",
+"41f634",
+"b30c28",
+"1438b6"
+]
+}

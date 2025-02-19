@@ -1,0 +1,160 @@
+{
+"id":"vdx4_pm_q028",
+"number":28,
+"bookId":"vdx_pm",
+"correctAnswer":"B",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7bb109",
+"children":[
+"A 33-year-old man is evaluated for cough, shortness of breath, and a new pulmonary infiltrate. He received mantle radiation for Hodgkin disease 12 weeks ago."
+]
+},
+{
+"type":"p",
+"hlId":"0f61f8",
+"children":[
+"Chest CT scan is ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f028a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_f028a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Heart failure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Radiation pneumonitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Recurrent Hodgkin disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"SARS-CoV-2 pneumonia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"586c12",
+"children":[
+"The most likely diagnosis is radiation pneumonitis, which typically occurs 4 to 12 weeks after initial radiation exposure. High-resolution CT in radiation pneumonitis will demonstrate ground-glass opacities, usually within the field of radiation exposure. A well-defined nonanatomic demarcation between normal and abnormal lung consistent with the radiation field is pathognomonic but not always present. This patient's chest CT scan ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f028b",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" nonanatomic straight-line demarcating involved from non-involved lung parenchyma (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"red arrows"
+]
+},
+"). Patients with radiation pneumonitis present with cough, shortness of breath, and a new radiographic infiltrate. Fever, pleuritic chest pain, fatigue, and weight loss are accompanying nonspecific symptoms. Differential diagnosis often includes infection and drug-induced lung injury."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f028b"
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_3_5",
+"objective":{
+"__html":"Diagnose radiation pneumonitis based on chest CT scan."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f028a":{
+"id":"vdx4_pm_mcq_f028a",
+"number":28,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3e2405aba04eb47c79bcec78e73e3d56",
+"height":304,
+"width":512,
+"extension":"jpg"
+}
+},
+"vdx4_pm_mcq_f028b":{
+"id":"vdx4_pm_mcq_f028b",
+"number":28,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"2525a8de8de4a484bc2a94d284112160",
+"height":304,
+"width":512,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"7bb109",
+"0f61f8",
+"413696",
+"586c12"
+]
+}

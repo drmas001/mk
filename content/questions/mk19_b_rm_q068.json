@@ -1,0 +1,245 @@
+{
+"id":"mk19_b_rm_q068",
+"number":68,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 68",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a459b2",
+"children":[
+"A 72-year-old woman is evaluated for a 3-month history of abdominal and back pain and 4-month history of an increasingly rounded face."
+]
+},
+{
+"type":"p",
+"hlId":"780f71",
+"children":[
+"On physical examination, vital signs are normal. BMI is 29. Bilateral lacrimal and parotid glands are enlarged."
+]
+},
+{
+"type":"p",
+"hlId":"1dc39b",
+"children":[
+"Laboratory evaluation shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" value of 5.4%, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"alkaline phosphatase"
+]
+},
+" level of 255 U/L, and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 59 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" (same as 1 year ago)."
+]
+},
+{
+"type":"p",
+"hlId":"6f5abc",
+"children":[
+"An abdominal CT scan shows periaortitis with a retroperitoneal mass that extends bilaterally and encircles both ureters without hydronephrosis."
+]
+},
+{
+"type":"p",
+"hlId":"d6eb23",
+"children":[
+"Needle biopsy of the mass reveals dense fibrous tissue in a storiform pattern, interspersed with an inflammatory infiltrate, including increased numbers of IgG4-positive plasmablasts. Serum IgG4 levels are not elevated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"365b8b",
+"children":[
+"In addition to prednisone, which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cevimeline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Rituximab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical debridement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"629fc7",
+"children":[
+"Treatment of IgG4-related disease most often consists of initial high-dose glucocorticoids and rituximab; rituximab can be used alone in patients with absolute or relative contraindications to glucocorticoid therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5d0c4e",
+"children":[
+"The most appropriate treatment is rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The infiltrative involvement of the parotid and lacrimal glands, together with retroperitoneal fibrosis and periaortitis, is most consistent with IgG4-related disease. IgG4-positive plasmablasts on biopsy confirm the diagnosis. The patient's elevated alkaline phosphatase level suggests associated biliary involvement. The absence of elevated serum IgG4 antibodies is not exclusionary because serum antibodies are often not present. Treatment of IgG4-related disease most often consists of initial high-dose glucocorticoids followed by a slow taper. Because the disease often recurs during taper, and because glucocorticoids bear significant toxicity, coadministration of rituximab (an anti-CD20 antibody that indirectly depletes plasmablasts) is often initiated to permit accelerated glucocorticoid taper. However, rituximab monotherapy is also effective and can be used alone in patients with absolute or relative contraindications to glucocorticoid therapy."
+]
+},
+{
+"type":"p",
+"hlId":"6183d1",
+"children":[
+"Cevimeline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a parasympathetic muscarinic agonist used to treat sicca in patients with Sjögren syndrome. Because this patient has parotid enlargement, she might have sicca and might benefit from cevimeline. However, cevimeline has not been studied in the context of IgG4 parotitis, and the patient has not reported dry mouth."
+]
+},
+{
+"type":"p",
+"hlId":"6bf673",
+"children":[
+"Methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a disease-modifying antirheumatic drug used as a glucocorticoid-sparing agent for many diseases, including ANCA vasculitis. Methotrexate has also been used extensively for idiopathic retroperitoneal fibrosis. However, limited evidence supports methotrexate to assist in glucocorticoid tapering or as a single agent in IgG4-related disease. It would therefore not be the first choice in this instance."
+]
+},
+{
+"type":"p",
+"hlId":"9d7b89",
+"children":[
+"Surgical debridement of the retroperitoneal mass (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be necessary if the mass threatens to erode into the aorta, but that is not the case in this patient. The mass is wrapped around both ureters; however, there is no hydronephrosis or deterioration of kidney function to suggest obstructive nephropathy, which would require ureteral stent placement. At this disease stage, medical treatment is more appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s15_6",
+"objective":{
+"__html":"Treat IgG4-related disease."
+},
+"references":[
+[
+"Perugino CA, Stone JH. IgG4-related disease: an update on pathophysiology and implications for clinical care. Nat Rev Rheumatol. 2020;16:702-714. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32939060",
+"target":"_blank"
+},
+"children":[
+"PMID: 32939060"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":9,
+"C":68,
+"D":15,
+"E":0
+},
+"hlIds":[
+"a459b2",
+"780f71",
+"1dc39b",
+"6f5abc",
+"d6eb23",
+"365b8b",
+"629fc7",
+"5d0c4e",
+"6183d1",
+"6bf673",
+"9d7b89"
+]
+}

@@ -1,0 +1,298 @@
+{
+"id":"mk19_b_cv_q025",
+"number":25,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"08e23d",
+"children":[
+"A 42-year-old woman is evaluated in the emergency department for abrupt-onset palpitations. For the past year, she has been having similar episodes with increasing frequency. She has been able to stop these previous episodes by coughing. She reports no syncopal episodes."
+]
+},
+{
+"type":"p",
+"hlId":"b74993",
+"children":[
+"On physical examination, blood pressure is 95/68 mm Hg, pulse rate is 200/min, and respiration rate is 16/min. All other physical examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"c41310",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f025a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". A previous ECG showed sinus rhythm with a heart rate of 72/min without any abnormalities."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f025a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"743338",
+"children":[
+"Which of the following is the most likely rhythm diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrial fibrillation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Atrial tachycardia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Atrioventricular nodal reentrant tachycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventricular tachycardia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d01b60",
+"children":[
+"Atrioventricular nodal reentrant tachycardia, the most common form of supraventricular tachycardia, typically has a narrow QRS complex; it often can be terminated by performing vagal maneuvers."
+]
+},
+{
+"type":"keypoint",
+"hlId":"63ac2c",
+"children":[
+"Atrioventricular nodal reentrant tachycardia is characterized electrocardiographically by a short RP interval with a retrograde P wave inscribed very close to the QRS complex, which is best seen in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", appearing as a pseudo r′ wave."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"498178",
+"children":[
+"This patient's presentation is typical for atrioventricular nodal reentrant tachycardia (AVNRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), the most common form of supraventricular tachycardia (SVT). SVTs are rapid heart rhythms that arise from the atrium or require conduction through the atrioventricular node. SVTs usually occur in the absence of structural heart disease, although echocardiography should be performed to exclude underlying cardiac dysfunction or structural defects. Patients often have repeated episodes of tachycardia and may report palpitations, a sensation of pounding in the neck, fatigue, light-headedness, chest discomfort, dyspnea, presyncope, and, less commonly, syncope. AVNRT accounts for approximately two thirds of all cases of SVT. It frequently occurs in women and is often terminated by performing vagal maneuvers, as with this patient. The ECG typically demonstrates a narrow QRS complex. AVNRT is characterized by a short RP interval with a retrograde P wave ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f025b",
+"wrapId":"2",
+"children":[
+"arrows"
+]
+}
+]
+},
+")"
+]
+},
+" inscribed very close to the QRS complex, which is best seen in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" (appearing as a pseudo r′ wave). In the emergency department, adenosine is commonly used for acute termination. Cardioversion is rarely required. Ultimately, catheter ablation may be curative and is often first-line therapy, but AVNRT also can be managed conservatively at the patient's discretion."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_b_cv_mcq_f025b"
+]
+},
+{
+"type":"p",
+"hlId":"2de414",
+"children":[
+"Atrial fibrillation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a narrow-complex tachycardia primarily defined by the absence of regular P waves and presence of an irregular ventricular response. The patient's ECG has a regular tachycardia with evidence of retrograde P waves, which is not consistent with atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"7de92d",
+"children":[
+"Atrial tachycardia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an automatic SVT that is less common than AVNRT, is less likely to start abruptly, and is not usually terminated with vagal maneuvers. The ECG more commonly shows discrete atrial activity, with an abnormal P-wave axis, and the rate is usually slower than that seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"acab46",
+"children":[
+"Ventricular tachycardia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a wide-complex tachycardia. In contrast, this patient presents with a narrow-complex tachycardia. Among patients with a structurally normal heart and no cardiac history, ventricular tachycardia would be much less common than AVNRT."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_5_2",
+"objective":{
+"__html":"Diagnose atrioventricular nodal reentrant tachycardia."
+},
+"references":[
+[
+"Kotadia ID, Williams SE, O'Neill M. Supraventricular tachycardia: an overview of diagnosis and management. Clin Med (Lond). 2020;20:43-7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31941731",
+"target":"_blank"
+},
+"children":[
+"PMID: 31941731"
+]
+},
+" doi:10.7861/clinmed.cme.20.1.3"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":16,
+"C":81,
+"D":2,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f025a":{
+"id":"mk19_b_cv_mcq_f025a",
+"number":25,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"7f941a854679ee6f9a9b8ca56654f193",
+"height":479,
+"width":900,
+"extension":"jpg"
+}
+},
+"mk19_b_cv_mcq_f025b":{
+"id":"mk19_b_cv_mcq_f025b",
+"number":25,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"d7c6315965ae89719567d806a1e7e6eb",
+"height":122,
+"width":349,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"08e23d",
+"b74993",
+"c41310",
+"743338",
+"d01b60",
+"63ac2c",
+"498178",
+"2de414",
+"7de92d",
+"acab46"
+]
+}

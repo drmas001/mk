@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_gm_q035",
+"number":35,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ded4a0",
+"children":[
+"A 52-year-old man is evaluated for decreased hearing and a 4-year history of tinnitus without vertigo. The patient does not notice hearing loss but has come for evaluation based on his wife's recommendation. He has no history of noise exposures. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"deb6fd",
+"children":[
+"On physical examination, the whispered voice test suggests left hearing loss. Otoscopy reveals no cerumen impaction or other blockage of the external auditory canal. Tympanic membranes appear normal. Placement of a 256-Hz vibrating tuning fork midline on the forehead results in a louder sound in the right ear. For each ear, the tuning fork sound is louder when placed in front of the external ear canal compared with placement on the mastoid process."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2dd62e",
+"children":[
+"Which of the following is the most likely cause of hearing loss in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Conductive hearing loss, left ear"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Conductive hearing loss, right ear"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sensorineural hearing loss, left ear"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sensorineural hearing loss, right ear"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0d7e6a",
+"children":[
+"Hearing loss is categorized according to the anatomic deficit: conductive, sensorineural, or mixed."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cc239c",
+"children":[
+"Conductive hearing loss is more often associated with pain or ear drainage, whereas sensorineural hearing loss is more often accompanied by tinnitus or vertigo."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4aee9a",
+"children":[
+"The most likely cause of hearing loss in this patient is sensorineural hearing loss of the left ear (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Hearing loss is categorized according to the anatomic deficit: conductive, sensorineural, or mixed. Conductive hearing loss is more often associated with pain or ear drainage, whereas sensorineural hearing loss is more often accompanied by tinnitus or vertigo. In patients with hearing loss, physical examination should include otoscopic examination as well as the Weber and Rinne tests. The Weber test assesses sensorineural hearing. In the Weber test, a 256-Hz vibrating tuning fork is applied to the midline forehead, bridge of the nose, or teeth. A normal result is no lateralization of loudness of the sound (sound loudness equal in both ears). In the presence of sensorineural hearing loss, the sound lateralizes (is louder) in the uninvolved ear. In this patient, the sound was louder in the right ear; thus, the left ear is impaired. The Rinne test assesses conductive hearing. In this test, the patient is asked to identify whether the tuning fork sound is louder when placed on the mastoid process (bone conduction) or when placed in front of the external auditory canal (air conduction). A normal test is associated with air conduction louder than bone conduction. This patient, with a Weber test that lateralizes to the right ear (the “good ear”) and normal conduction in the left ear (air conduction greater than bone conduction) has sensorineural hearing loss of the left ear. The most concerning condition causing chronic unilateral sensorineural hearing loss with tinnitus is an acoustic neuroma. The first diagnostic step is confirmation of the hearing loss with audiometry followed by MRI of the internal auditory meatus."
+]
+},
+{
+"type":"p",
+"hlId":"3d7052",
+"children":[
+"This patient has normal conductive hearing in both the right and left ears (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+") as confirmed by the bilaterally normal Rinne test (air conduction greater than bone conduction)."
+]
+},
+{
+"type":"p",
+"hlId":"199089",
+"children":[
+"The Weber test, because it bypasses the tympanic membrane and ossicles, tests sensorineural hearing. In this patient, the Weber test lateralized to the right ear (sound was louder in the right ear); this ear has normal sensorineural function (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The sound was heard less well in the ear with impaired sensorineural function, the left ear."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s9_1",
+"objective":{
+"__html":"Diagnose sensorineural hearing loss."
+},
+"references":[
+[
+"Cunningham LL, Tucci DL. Hearing loss in adults. N Engl J Med. 2017;377:2465-73. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29262274",
+"target":"_blank"
+},
+"children":[
+"PMID: 29262274"
+]
+},
+" doi:10.1056/NEJMra1616601"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":32,
+"B":5,
+"C":58,
+"D":5,
+"E":0
+},
+"hlIds":[
+"ded4a0",
+"deb6fd",
+"2dd62e",
+"0d7e6a",
+"cc239c",
+"4aee9a",
+"3d7052",
+"199089"
+]
+}

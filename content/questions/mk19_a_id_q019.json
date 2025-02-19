@@ -1,0 +1,216 @@
+{
+"id":"mk19_a_id_q019",
+"number":19,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"31e08a",
+"children":[
+"A 34-year-old woman is evaluated in the emergency department for a 3-day history of increasing urinary frequency, urgency, and burning accompanied by right flank pain, fever, chills, nausea, and vomiting. She was treated with trimethoprim-sulfamethoxazole for cystitis 2 weeks ago. Medical history is also significant for nephrolithiasis. Her only other medication is an oral contraceptive pill. She reports experiencing a rash with amoxicillin in childhood, but no adverse reactions to cephalosporin medications."
+]
+},
+{
+"type":"p",
+"hlId":"9b1a42",
+"children":[
+"On physical examination, temperature is 38.9 °C (102 °F), blood pressure is 92/60 mm Hg, and pulse rate is 96/min. Palpation elicits right-sided costovertebral angle punch tenderness."
+]
+},
+{
+"type":"p",
+"hlId":"b1a0ab",
+"children":[
+"Urinalysis reveals cloudy urine with greater than 100 leukocytes/hpf, 0-5 erythrocytes/hpf, and 4+ bacteria. A urine pregnancy test is negative."
+]
+},
+{
+"type":"p",
+"hlId":"bc24fc",
+"children":[
+"Bilateral, nonobstructing, small ureteral-pelvic junction calculi are seen on kidney ultrasound."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f79f7a",
+"children":[
+"Which of the following is the most appropriate intravenous treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aztreonam"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Levofloxacin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"185d0c",
+"children":[
+"Intravenous antimicrobial therapy with ceftriaxone (or another broad-spectrum cephalosporin or carbapenem) is appropriate initial treatment in patients with complicated acute pyelonephritis who require hospitalization."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a92c2",
+"children":[
+"Empiric intravenous fluoroquinolones are not recommended for treatment of complicated pyelonephritis in hospitalized patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f68c6a",
+"children":[
+"Intravenous antimicrobial therapy with ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or another broad-spectrum cephalosporin or carbapenem would be appropriate initial treatment options in this patient who has complicated acute pyelonephritis. Urinary tract infections in men, pregnant women, and persons with foreign bodies (e.g., indwelling catheters, calculi), kidney disease, immunocompromise, obstruction, urinary retention from neurologic disorders, health care–associated infections, or recent antibiotic use are considered to be complicated. This patient requires hospitalization because of potential hemodynamic instability, inability to tolerate oral medication, and concern for pathogen resistance because of recent antimicrobial therapies. Urine and blood cultures should be performed as well. A detailed antibiotic allergy history regarding possible reactions to penicillin is required to determine the patient has no clear contraindication to these β-lactam medications and serves to avoid the use of other potentially less effective and more costly antimicrobial therapies."
+]
+},
+{
+"type":"p",
+"hlId":"94f447",
+"children":[
+"The monobactam aztreonam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is safe to prescribe in persons with a known or suspected severe allergy to β-lactam antibiotics. However, this drug is unnecessary in a patient who reports having taken cephalosporin medications without a problem."
+]
+},
+{
+"type":"p",
+"hlId":"e2657f",
+"children":[
+"Empiric intravenous fluoroquinolones such as ciprofloxacin and levofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C, D"
+]
+},
+") are not recommended as initial treatment in hospitalized patients with complicated pyelonephritis because of the increased rate of resistance in common uropathogens."
+]
+},
+{
+"type":"p",
+"hlId":"c2428c",
+"children":[
+"Trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would not be an appropriate choice in this patient owing to high rates of community resistance and her recent exposure to this drug."
+]
+},
+{
+"type":"p",
+"hlId":"c09cbf",
+"children":[
+"Active oral antibiotics can be substituted to complete therapy in clinically stable patients who have reliable follow up. Choices may include fluoroquinolones or trimethoprim-sulfamethoxazole. β-Lactams (e.g., amoxicillin-clavulanate, cephalexin, cefdinir, cefpodoxime proxetil) are an alternative but may be less effective in eradication of the infection. Patients with bacteremia who exhibit adequate clinical responses do not require follow-up blood cultures or prolonged intravenous therapy."
+]
+}
+],
+"relatedSection":"mk19_a_id_s5_3_3",
+"objective":{
+"__html":"Treat acute pyelonephritis."
+},
+"references":[
+[
+"Johnson JR, Russo TA. Acute pyelonephritis in adults. N Engl J Med. 2018;378:48-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29298155",
+"target":"_blank"
+},
+"children":[
+"PMID: 29298155"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":66,
+"C":19,
+"D":10,
+"E":2
+},
+"hlIds":[
+"31e08a",
+"9b1a42",
+"b1a0ab",
+"bc24fc",
+"f79f7a",
+"185d0c",
+"0a92c2",
+"f68c6a",
+"94f447",
+"e2657f",
+"c2428c",
+"c09cbf"
+]
+}

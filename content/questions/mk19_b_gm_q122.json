@@ -1,0 +1,237 @@
+{
+"id":"mk19_b_gm_q122",
+"number":122,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 122",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2f09a6",
+"children":[
+"A 72-year-old man is evaluated for recurrent urinary tract infections (UTIs). He is currently asymptomatic. Seven days ago, he presented with dysuria, urgency, and suprapubic pain. A urine culture was obtained, and he was started on empiric trimethoprim-sulfamethoxazole. This is his third UTI in 12 months. All previous urine cultures grew ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" sensitive to trimethoprim-sulfamethoxazole. All episodes were treated with a 7-day course of antibiotics, with rapid resolution of symptoms. Medical history is otherwise unremarkable, and he takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"e014a0",
+"children":[
+"On physical examination, vital signs are normal. Digital rectal examination reveals a nontender prostate with no bogginess. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"c1c9dd",
+"children":[
+"Urine culture shows growth of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+" sensitive to trimethoprim-sulfamethoxazole."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the prostate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prostatic massage followed by urine culture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Six-week course of trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7c51f0",
+"hvc":true,
+"children":[
+"Chronic bacterial prostatitis commonly manifests as recurrent lower urinary tract infections with the same organism."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f5bed9",
+"hvc":true,
+"children":[
+"Patients with chronic bacterial prostatitis require an extended course (at least 4-6 weeks) of antimicrobial therapy that has good prostatic tissue penetration and covers the causative organism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"38257d",
+"children":[
+"The most appropriate management is a 6-week course of trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has chronic bacterial prostatitis. Chronic bacterial prostatitis involves persistent prostate infection lasting longer than 3 months. It commonly manifests as recurrent lower urinary tract infections (UTIs) with the same organism. On digital rectal examination, the prostate may be normal, tender, and/or boggy. It is not uncommon for these patients to have a normal digital rectal examination, especially between UTI episodes or during treatment. Patients with chronic bacterial prostatitis require an extended treatment course (at least 4-6 weeks) of antimicrobial therapy that has good prostatic tissue penetration and covers the causative organism. This patient's urine cultures have repeatedly grown ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" sensitive to trimethoprim-sulfamethoxazole, which has excellent prostatic tissue penetration and is an appropriate antibiotic choice for this patient. A fluoroquinolone, such as ciprofloxacin or levofloxacin, is also often a viable treatment option."
+]
+},
+{
+"type":"p",
+"hlId":"76c665",
+"children":[
+"CT of the prostate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated at this time. CT is helpful in identifying prostate abscess in patients with acute bacterial prostatitis in whom appropriate antimicrobial therapy has failed. This patient has improved with each course of antibiotics, making chronic bacterial prostatitis more likely than a prostate abscess."
+]
+},
+{
+"type":"p",
+"hlId":"7ca75c",
+"children":[
+"Prostatic massage followed by urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has diagnostic utility in patients with chronic bacterial prostatitis because it may lead to identification of a causative organism when an organism cannot be identified by standard urine culture. In this patient, urine culture has identified ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+" as the causative organism for each UTI episode, obviating the need for prostatic massage followed by urine culture."
+]
+},
+{
+"type":"p",
+"hlId":"ebea39",
+"children":[
+"No additional treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") will probably result in a cycle of recurrent infections and is not the best strategy for this patient. A prolonged treatment cycle with an antibiotic selected by culture sensitivity findings is recommended for patients with chronic bacterial prostatitis."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_7",
+"objective":{
+"__html":"Treat a patient with chronic bacterial prostatitis."
+},
+"references":[
+[
+"Gill BC, Shoskes DA. Bacterial prostatitis. Curr Opin Infect Dis. 2016;29:86-91. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26555038",
+"target":"_blank"
+},
+"children":[
+"PMID: 26555038"
+]
+},
+" doi:10.1097/QCO.0000000000000222"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":14,
+"B":10,
+"C":50,
+"D":26,
+"E":0
+},
+"hlIds":[
+"2f09a6",
+"e014a0",
+"c1c9dd",
+"cb2b54",
+"7c51f0",
+"f5bed9",
+"38257d",
+"76c665",
+"7ca75c",
+"ebea39"
+]
+}

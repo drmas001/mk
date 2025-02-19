@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_cv_q026",
+"number":26,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"60a157",
+"children":[
+"A 65-year-old woman is evaluated in follow-up for a recent diagnosis of nonischemic cardiomyopathy. Her symptoms included dyspnea with minimal exertion and orthopnea. The initial evaluation also revealed echocardiographic findings compatible with severe secondary mitral regurgitation (mitral annular dilation without any mitral leaflet abnormalities) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 40%. Image quality was excellent. Lisinopril, carvedilol, spironolactone, and furosemide have been titrated to achieve maximal therapeutic effectiveness. Her symptoms are now New York Heart Association functional class I."
+]
+},
+{
+"type":"p",
+"hlId":"e56902",
+"children":[
+"On physical examination, blood pressure is 95/62 mm Hg and pulse rate is 70/min; other vital signs are normal. A holosystolic murmur is loudest at the apex. Central venous pressure is slightly elevated. Lungs are clear."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac resynchronization therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical mitral valve repair"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ea517e",
+"hvc":true,
+"children":[
+"Left ventricular systolic dysfunction is the most common cause of chronic secondary mitral regurgitation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2636fe",
+"hvc":true,
+"children":[
+"Guideline-directed medical therapy is recommended as first-line therapy for patients with heart failure and secondary mitral regurgitation because it can reduce left ventricular volumes in many patients and, in so doing, reduces severity of secondary mitral regurgitation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b0587d",
+"children":[
+"No change in therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate management. This patient's echocardiogram is consistent with severe secondary mitral regurgitation (MR). Left ventricular systolic dysfunction is the most common cause of chronic secondary MR. Consequently, guideline-directed medical therapy (GDMT) is foundational in improving symptoms in patients such as this one. GDMT includes a β-blocker, an ACE inhibitor or angiotensin receptor blocker, and an aldosterone antagonist. Loop diuretics are used as needed. GDMT improves symptoms and prolongs life in patients with heart failure and probably does so when heart failure is complicated by chronic secondary MR. Current guidelines recommend GDMT as first-line therapy (class 1 recommendation) because it can reduce left ventricular volumes (reverse remodeling) in many patients and, in so doing, reduces severity of secondary MR."
+]
+},
+{
+"type":"p",
+"hlId":"840876",
+"children":[
+"Cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or transesophageal echocardiography may be pursued if transthoracic echocardiography is insufficient to determine either the exact severity or the mechanism of mitral regurgitation. However, in this case, the severity and mechanism of MR are not in question."
+]
+},
+{
+"type":"p",
+"hlId":"43933e",
+"children":[
+"GDMT also includes consideration of cardiac resynchronization therapy (CRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in appropriate patients. Among patients with a left ventricular ejection fraction (LVEF) of 35% or less and sinus rhythm, CRT is indicated in those with left bundle branch block, New York Heart Association functional class II to ambulatory class IV heart failure symptoms, and a QRS duration of 150 ms or longer despite GDMT. In addition, in patients with an LVEF of 35% or less and a QRS duration of 120 to 149 ms, CRT may be useful. This patient now has New York Heart Association functional class I symptoms with an LVEF greater than 35% and therefore does not qualify for CRT."
+]
+},
+{
+"type":"p",
+"hlId":"3ecb2c",
+"children":[
+"In patients with chronic severe secondary MR related to left ventricular systolic dysfunction who have persistent symptoms while receiving optimal GDMT, transcatheter edge-to-edge repair (TEER) is a reasonable option (class 2a recommendation), according to current guidelines. Surgical mitral valve repair (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is also reasonable if the patient is undergoing concomitant coronary artery bypass graft surgery. Surgery also may be considered if the patient has unfavorable anatomy for TEER. However, this patient should undergo a trial of GDMT before mitral valve repair is considered."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_6_2",
+"objective":{
+"__html":"Treat severe secondary mitral regurgitation with guideline-directed medical therapy."
+},
+"references":[
+[
+"Bonow RO, O'Gara PT, Adams DH, et al. 2020 Focused update of the 2017 ACC expert consensus decision pathway on the management of mitral regurgitation: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2020;75:2236-2270. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32068084",
+"target":"_blank"
+},
+"children":[
+"PMID: 32068084"
+]
+},
+" doi:10.1016/j.jacc.2020.02.005"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":7,
+"B":7,
+"C":46,
+"D":41,
+"E":0
+},
+"hlIds":[
+"60a157",
+"e56902",
+"1e31fb",
+"ea517e",
+"2636fe",
+"b0587d",
+"840876",
+"43933e",
+"3ecb2c"
+]
+}

@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_pm_q059",
+"number":59,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ad7c63",
+"children":[
+"A 29-year-old man is evaluated in the hospital for hemorrhagic shock. He has osteogenesis imperfecta and was admitted for a right hip fracture repair 2 days ago. He was placed on low-molecular-weight heparin postoperatively."
+]
+},
+{
+"type":"p",
+"hlId":"c283c8",
+"children":[
+"Blood pressure is 84/44 mm Hg, pulse rate is 132/min, and respiration rate is 31/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 91% using a nonrebreather mask. Cardiac examination reveals tachycardia but no murmurs or gallops. He has copious amounts of blood coming from his nose, and there is swelling, bruising, and oozing at the surgical site."
+]
+},
+{
+"type":"p",
+"hlId":"0bfdd5",
+"children":[
+"He has an 18-gauge peripheral intravenous catheter in his left forearm."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f2d366",
+"children":[
+"Which of the following is the most appropriate form of additional intravenous access in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Peripherally inserted central venous catheter"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"18-Gauge peripheral catheter in the right arm"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intraosseous needle in the right humerus"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Triple-lumen catheter in the left femoral vein"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f4c47c",
+"children":[
+"For rapid and large-volume fluid administration, choosing an access device that is short and has a wide-diameter lumen will maximize flow rates."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2f2286",
+"children":[
+"For this patient, the most appropriate additional intravenous (IV) access is a second 18-gauge peripheral IV catheter in the arm (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient has developed hemorrhagic shock. Patients with osteogenesis imperfecta have an increased propensity for bleeding due to dysfunctional interactions between platelets and endothelial cells. In addition, collagen defects can lead to increased fragility of capillary beds. Patients with hemorrhagic shock should be managed with volume repletion, and IV crystalloid solution should be initiated while waiting for blood products. This patient has a single peripheral IV with which to start resuscitation, but a second access point should be obtained in case the first IV becomes dysfunctional. According to the law of Poiseuille, the flow of fluid through a tube is dictated in part by the radius and length of the tube. If we apply this to venous access catheters, choosing a device that is short and has a wide diameter lumen will maximize flow rates through the catheter for volume resuscitation."
+]
+},
+{
+"type":"p",
+"hlId":"94dafb",
+"children":[
+"Although a peripherally inserted central catheter (PICC) line (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or triple-lumen catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") might seem more durable than a peripheral IV line, their long length and narrow-gauge lumens significantly limit the maximal flow rate of infused fluids. In fact, most 18-gauge IV catheters have a maximal flow rate that far exceeds that of a PICC line and is comparable to that of all three catheters combined in a triple-lumen catheter. In addition, femoral insertion of IV catheters should be avoided if possible due to increased risk of infection and thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"c8b9a9",
+"children":[
+"Intraosseous administration of fluid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is most commonly indicated when IV access is not available. In many situations, placement of an intraosseous needle device in the humerus or tibia is easy, and its short, large-bore lumen allows for rapid administration of IV fluids. However, this patient has IV access, and the device is contraindicated in patients with conditions such as osteogenesis imperfecta, osteopenia, and osteoporosis because placement of the needle may increase fracture risk. In addition, placement of a needle in a bone that is fractured or has already been accessed, or where a previous intraosseous device placement was recently performed, is contraindicated. An 18-gauge peripheral IV line has similar maximal flow rates and is preferred in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_9",
+"objective":{
+"__html":"Manage intravenous access for patients in shock."
+},
+"references":[
+[
+"Berman DJ, Schiavi A, Frank SM, et al. Factors that influence flow through intravascular catheters: the clinical relevance of Poiseuille's law. Transfusion. 2020;60:1410-1417. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32643172",
+"target":"_blank"
+},
+"children":[
+"PMID: 32643172"
+]
+},
+" doi:10.1111/trf.15898"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":58,
+"C":6,
+"D":19,
+"E":0
+},
+"hlIds":[
+"ad7c63",
+"c283c8",
+"0bfdd5",
+"f2d366",
+"f4c47c",
+"2f2286",
+"94dafb",
+"c8b9a9"
+]
+}

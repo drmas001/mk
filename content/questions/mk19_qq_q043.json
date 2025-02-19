@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q043",
+"number":43,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9843cc",
+"children":[
+"A 49-year-old man with alcohol use disorder is evaluated in the emergency department for a 36-hour history of nausea and vomiting associated with severe abdominal pain radiating to his back."
+]
+},
+{
+"type":"p",
+"hlId":"095fb6",
+"children":[
+"Temperature is 38.4 °C (101.2 °F), blood pressure is 150/90 mm Hg, and pulse rate is 110/min. The abdomen is distended, and epigastric tenderness to palpation is present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ba0aa5",
+"children":[
+"Which of the following is the best predictor of severe disease in this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Blood urea nitrogen measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lipase measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripancreatic edema on CT scan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Temperature elevation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cd4f78",
+"children":[
+"Risk factors for severe pancreatitis include age older than 55 years, medical comorbidities, obesity, and systemic inflammatory response syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2b5568",
+"children":[
+"Hypovolemia is a risk factor for acute pancreatitis–related morbidity, which can be identified by a serum blood urea nitrogen level greater than 20 mg/dL (7.14 mmol/L), hematocrit level greater than 44%, or elevated serum creatinine level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"927a4e",
+"children":[
+"Blood urea nitrogen (BUN) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the best predictor of severe disease in this patient with acute pancreatitis. He has abdominal pain with characteristic features, including acute onset, epigastric location, and radiation to the back. Serum amylase and lipase levels are usually elevated at least three times the upper limit of normal. Risk factors for severe pancreatitis include age older than 55 years, medical comorbidities, obesity, and systemic inflammatory response syndrome. Hypovolemia is also a risk factor for morbidity, which can be identified by a serum BUN level greater than 20 mg/dL (7.14 mmol/L), hematocrit level greater than 44%, or elevated serum creatinine level. BUN is the most reliable routine laboratory study to predict mortality. For every 5.0-mg/dL (1.79-mmol/L) increase in BUN during the first 24 hours, the age- and sex-adjusted odds ratio for mortality increases by 2.2 (95% confidence interval, 1.8-2.7)."
+]
+},
+{
+"type":"p",
+"hlId":"ab5b95",
+"children":[
+"Serum lipase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or amylase levels should be used only to diagnose acute pancreatitis; they do not provide any value in terms of predicting the severity of acute pancreatitis. In addition, they should not be used to monitor the patient's progress during hospitalization because the levels generally do not correlate with clinical improvement or decline."
+]
+},
+{
+"type":"p",
+"hlId":"a3b7c7",
+"children":[
+"Patients with acute pancreatitis should undergo transabdominal ultrasonography to assess for gallstones and biliary duct dilation. Transabdominal ultrasonography is preferred over CT because it has a higher sensitivity for detecting gallstones, avoids the risks of intravenous contrast material, and is more cost-effective. Although less useful for assessing the biliary system, CT may be indicated if the diagnosis is in question or clinical symptoms are not improved within the first 48 hours (especially because abdominal air can limit ultrasonographic visualization of the pancreas). Peripancreatic edema (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") blurs the margins of the pancreas on CT and signifies pancreatic inflammation. However, this finding is not a marker of the severity of acute pancreatitis."
+]
+},
+{
+"type":"p",
+"hlId":"2329b7",
+"children":[
+"Fever and leukocytosis may be seen in acute pancreatitis and are usually a part of the cytokine cascade. Neither temperature (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") nor leukocyte count is an independent marker of severity in acute pancreatitis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s3_1_2",
+"objective":{
+"__html":"Identify acute pancreatitis prognostic risk factors."
+},
+"references":[
+[
+"Crockett SD, Wani S, Gardner TB, et al; American Gastroenterological Association Institute Clinical Guidelines Committee. American Gastroenterological Association Institute guideline on initial management of acute pancreatitis. Gastroenterology. 2018;154:1096-1101. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29409760",
+"target":"_blank"
+},
+"children":[
+"PMID: 29409760"
+]
+},
+" doi:10.1053/j.gastro.2018.01.032"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"9843cc",
+"095fb6",
+"ba0aa5",
+"cd4f78",
+"2b5568",
+"927a4e",
+"ab5b95",
+"a3b7c7",
+"2329b7"
+]
+}

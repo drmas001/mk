@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_en_q005",
+"number":5,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"783025",
+"children":[
+"A 32-year-old woman is evaluated for a 3-month history of galactorrhea, fatigue, constipation, and weight gain of 3.6 kg (8.0 lb). With the onset of galactorrhea, her menstrual periods have become irregular and associated with excessive bleeding. Her most recent menstrual period was 5 weeks ago. She has no other medical concerns and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"19c2a8",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Spontaneous galactorrhea is present. Visual fields are intact. Deep tendon reflexes are delayed. The remainder of her physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"6675de",
+"children":[
+"Human chorionic gonadotropin testing is negative. Serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prolactin, serum",
+"children":[
+"prolactin"
+]
+},
+" level is 68 ng/mL (68 μg/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cabergoline therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Estrogen and progesterone therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pituitary MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid-stimulating hormone measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1657f2",
+"children":[
+"For a patient presenting with hyperprolactinemia and hypothyroidism, the hypothyroidism should be treated first and then the patient's prolactin level should be reevaluated to ensure that the hyperprolactinemia has resolved."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3e5160",
+"children":[
+"The most appropriate management is to measure thyroid-stimulating hormone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The most common cause of hyperprolactinemia is physiologic, related to pregnancy and lactation. Physiologic stress, coitus, sleep, and nipple stimulation are other nonpathologic causes of mild hyperprolactinemia. The most common cause of pathologic non-tumor-related hyperprolactinemia is medication; however, other causes of hyperprolactinemia must be considered for this patient. Her symptoms of fatigue, constipation, weight gain, and menorrhagia are consistent with hypothyroidism. Overt primary hypothyroidism is a cause of hyperprolactinemia. The mechanism of hyperprolactinemia in hypothyroidism is related to release of thyrotropin-releasing hormone from the hypothalamus, which stimulates both TSH and prolactin. For a patient presenting with both hyperprolactinemia and hypothyroidism, the hypothyroidism should be treated first and then the prolactin level should be retested to ensure that the hyperprolactinemia has resolved."
+]
+},
+{
+"type":"p",
+"hlId":"e972d5",
+"children":[
+"In patients with macroadenomas, dopamine agonist therapy is recommended to lower prolactin, reduce tumor size, and restore gonadal function. Cabergoline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a dopamine agonist, is the preferred agent because of its superior efficacy in lowering prolactin and tumor shrinkage compared with bromocriptine. For this patient, a pituitary prolactinoma has not yet been diagnosed; therefore, consideration of cabergoline is premature. Although cabergoline is an appropriate therapy for a patient with hyperprolactinemia caused by a prolactinoma, this patient's hyperprolactinemia may be explained by hypothyroidism."
+]
+},
+{
+"type":"p",
+"hlId":"3056cc",
+"children":[
+"Further evaluation is needed before initiating estrogen/progesterone therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to treat this patient's amenorrhea and to prevent bone loss. If hypothyroidism is the cause of this patient's hyperprolactinemia and menstrual irregularities, and if the patient does not currently want to become pregnant, estrogen/progesterone replacement therapy is reasonable."
+]
+},
+{
+"type":"p",
+"hlId":"25d16b",
+"children":[
+"Pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated at this time because this patient's hyperprolactinemia may be explained by hypothyroidism and there is no evidence of mass effect. If hypothyroidism is diagnosed, it will be necessary to ensure that the hyperprolactinemia normalizes after treatment with levothyroxine. If the prolactin level does not normalize, pituitary MRI is indicated."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_5_1",
+"objective":{
+"__html":"Diagnose hypothyroidism as the cause of hyperprolactinemia."
+},
+"references":[
+[
+"Petersenn S. Biochemical diagnosis in prolactinomas: some caveats. Pituitary. 2020;23:9-15. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31873848",
+"target":"_blank"
+},
+"children":[
+"PMID: 31873848"
+]
+},
+" doi:10.1007/s11102-019-01024-z"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":2,
+"C":43,
+"D":49,
+"E":0
+},
+"hlIds":[
+"783025",
+"19c2a8",
+"6675de",
+"cb2b54",
+"1657f2",
+"3e5160",
+"e972d5",
+"3056cc",
+"25d16b"
+]
+}

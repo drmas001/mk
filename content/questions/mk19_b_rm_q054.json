@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_rm_q054",
+"number":54,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"69d6d6",
+"children":[
+"A 56-year-old woman is evaluated for a 2-year history of osteoarthritis involving the fingers, bases of the thumbs, hips, and knees. She has tried physical and aquatic therapy with minimal benefit, and she is enrolled in a weight loss program. She has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d9e9f7",
+"children":[
+"On physical examination, vital signs are normal. BMI is 29. Heberden and Bouchard nodes and squaring of the bilateral first carpometacarpal joints are present. The first carpometacarpal joints and medial joint line of both knees are tender to palpation. There is pain in the anterior left groin on internal rotation of the hip. There is bony enlargement of the knees, with crepitus on range of motion."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Duloxetine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gabapentin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Piroxicam"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Tramadol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bda5cb",
+"children":[
+"NSAIDs are often the initial treatment of choice for osteoarthritis if used judiciously in low-risk patients, with minimizing and monitoring of adverse effects."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3789a7",
+"children":[
+"Acetaminophen provides no benefit for hip or knee osteoarthritis; it may be considered as add-on therapy for short-term and episodic use but not as initial therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9d47b3",
+"children":[
+"The most appropriate initial treatment for this patient with osteoarthritis (OA) is an NSAID, such as piroxicam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). NSAIDs inhibit cyclooxygenase enzymes, blocking generation of the lipid prostaglandin E",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". NSAIDs are efficacious in OA and are strongly recommended by the 2019 American College of Rheumatology/Arthritis Foundation for hand, hip, and knee OA. However, their adverse-effect profiles make sustained use problematic, especially in older persons and patients with comorbidities. Topical NSAIDs are effective and because of their safety profile are preferred to oral NSAIDs. However, topical NSAIDs are ineffective in the treatment of hip OA. For this patient with hand, knee, and hip OA, oral NSAIDs are the initial treatment of choice. This patient has no risk factors for common contraindications and adverse effects, such as peptic ulcer disease or kidney disease. Hence, piroxicam would be a reasonable choice as initial treatment and may adequately relieve her symptoms. It would also be prudent for the patient to take piroxicam regularly for a limited time and consider taking it as needed in the future."
+]
+},
+{
+"type":"p",
+"hlId":"a250fb",
+"children":[
+"Systematic reviews and meta-analyses suggest that acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") provides no benefit for hip or knee OA. Acetaminophen may be considered as add-on therapy for short-term and episodic use but is not appropriate as initial therapy for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"168996",
+"children":[
+"Duloxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a serotonin-norepinephrine reuptake inhibitor with central nervous system activity, has shown efficacy for OA pain and would also be reasonable for this patient. However, it should be used only if NSAIDs are inadequate and is not the best choice for initial therapy."
+]
+},
+{
+"type":"p",
+"hlId":"759f72",
+"children":[
+"Gabapentin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and pregabalin are more effective than placebo in the treatment of neuropathic pain conditions, such as postherpetic neuralgia and diabetic neuropathy. There is no evidence of their effectiveness for chronic OA pain. Furthermore, they may be associated with dose-dependent dizziness and sedation. Thus, gabapentin is not appropriate for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"8da569",
+"children":[
+"Opioid therapy provides limited benefit for chronic pain control in patients with OA and poses a high risk for toxicity and dependence. Opioid use should be avoided for OA treatment. Tramadol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), a partial opioid with fewer adverse effects and less addictive potential than pure opioids, may be considered in some patients, but it should be used only in limited circumstances, and never as an initial therapy."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s4_6_2_1",
+"objective":{
+"__html":"Use NSAIDs for initial osteoarthritis treatment."
+},
+"references":[
+[
+"Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. Arthritis Rheumatol. 2020;72:220-233. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31908163",
+"target":"_blank"
+},
+"children":[
+"PMID: 31908163"
+]
+},
+" doi:10.1002/art.41142"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":42,
+"B":14,
+"C":5,
+"D":37,
+"E":2
+},
+"hlIds":[
+"69d6d6",
+"d9e9f7",
+"1054f1",
+"bda5cb",
+"3789a7",
+"9d47b3",
+"a250fb",
+"168996",
+"759f72",
+"8da569"
+]
+}

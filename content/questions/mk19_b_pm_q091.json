@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_pm_q091",
+"number":91,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 91",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e53ac5",
+"children":[
+"A 63-year-old woman is evaluated for increasing shortness of breath for the past 2 months. She has ischemic cardiomyopathy and a history of breast cancer treated with surgery and irradiation 9 years ago. When she was between 20 and 30 years of age, she worked installing brakes on automobiles. She is on guideline-directed medical therapy for heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"fbe899",
+"children":[
+"On physical examination, vital signs normal. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", mitral regurgitation, hepatomegaly, possible ascites, and peripheral edema. There is dullness to percussion and absent breath sounds at the left base."
+]
+},
+{
+"type":"p",
+"hlId":"834637",
+"children":[
+"Chest radiograph shows a moderate left-sided pleural effusion but is otherwise normal."
+]
+},
+{
+"type":"p",
+"hlId":"3f3593",
+"children":[
+"A thoracentesis removes 600 mL of bloody fluid. The pleural fluid lactate dehydrogenase (LDH) level is 208 U/L, and the total protein level is 4.4 g/L. Simultaneous serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Lactate dehydrogenase, serum",
+"children":[
+"lactate dehydrogenase"
+]
+},
+" level is 279 U/L, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Total, serum",
+"children":[
+"total protein"
+]
+},
+" level is 7.6 U/L. Pleural fluid cytology is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benign asbestos pleural effusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Heart failure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hepatic hydrothorax"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Malignant pleural effusion"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"772ea0",
+"children":[
+"The presence of one or more of Light's criteria is very sensitive in the diagnosis of an exudative effusion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cc4ee7",
+"children":[
+"The most common causes of exudative effusions are infection and malignancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f9736f",
+"children":[
+"The most likely diagnosis is malignant pleural effusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient presented with increasing dyspnea in the setting of a new unilateral pleural effusion. The presence of heart failure, hepatomegaly and possible ascites, her occupational history, and her history of breast cancer broaden the differential diagnosis. Given the diagnostic uncertainty of the cause of the effusion, it should be sampled. The effusion was bloody in appearance and exudative by all three of Light's criteria (ratio of pleural fluid protein to serum protein >0.5, ratio of pleural-fluid lactate dehydrogenase [LDH] to serum LDH greater than 0.6, and pleural-fluid LDH greater than two thirds of the upper limit of normal for serum LDH). There are many causes of exudative effusions, but the most common are infection and malignancy. Given her history of breast cancer, the bloody appearance and exudative characteristic of the effusion make it highly suspicious for malignancy. While pleural fluid cytology is pending, it may not be very helpful. The sensitivity of pleural fluid cytology is approximately 60%, and some estimates suggest that it might even be lower (46%) when all types of malignancy are included. The sensitivity is highest for adenocarcinomas (79%) and lowest for mesothelioma (11%). Given the high suspicion of malignancy in this patient, additional testing should be pursued consisting of a repeat thoracentesis with cytology (if the first sample is negative) or thoracoscopic pleural biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"d7833e",
+"children":[
+"Benign asbestos pleural effusions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be bloody and are typically exudative, and they are seen in the context of asbestos exposure. However, benign asbestos pleural effusions are typically associated with pleural plaques not seen on this patient's radiograph."
+]
+},
+{
+"type":"p",
+"hlId":"28be02",
+"children":[
+"Both heart failure (typically bilateral effusions) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and hepatic hydrothorax (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") (more often right sided) are serous effusions that are transudates and as such are excluded from this patient's differential diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s5_1_1_4",
+"objective":{
+"__html":"Diagnose a malignant pleural effusion."
+},
+"references":[
+[
+"Feller-Kopman D, Light R. Pleural disease. N Engl J Med. 2018;378:740-751. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29466146",
+"target":"_blank"
+},
+"children":[
+"PMID: 29466146"
+]
+},
+" doi:10.1056/NEJMra1403503"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":14,
+"C":2,
+"D":73,
+"E":0
+},
+"hlIds":[
+"e53ac5",
+"fbe899",
+"834637",
+"3f3593",
+"413696",
+"772ea0",
+"cc4ee7",
+"f9736f",
+"d7833e",
+"28be02"
+]
+}

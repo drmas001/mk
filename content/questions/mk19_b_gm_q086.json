@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_gm_q086",
+"number":86,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"426ba2",
+"children":[
+"An 82-year-old woman is seen for a preoperative medical evaluation before undergoing cataract surgery. The patient is wheelchair bound. She reports stable shortness of breath with minimal to moderate exertion. Medical history is significant for hypertension, chronic kidney disease, COPD, and degenerative joint disease. Medications are albuterol, ipratropium, and beclomethasone inhalers; lisinopril; metoprolol; and oxygen by nasal cannula, 2 L/min continuously."
+]
+},
+{
+"type":"p",
+"hlId":"f61252",
+"children":[
+"On physical examination, blood pressure is 150/85 mm Hg, pulse rate is 97/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% on 2 L/min of oxygen by nasal cannula. Breath sounds are distant, with an occasional wheeze."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fe0afc",
+"children":[
+"Which of the following is the most appropriate preoperative testing for this patient",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"?"
+]
+}
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing is indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"250e52",
+"hvc":true,
+"children":[
+"In patients undergoing low-risk surgery, preoperative screening tests seldom predict perioperative complications and are not indicated even in patients with substantial comorbidities."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cef2f0",
+"children":[
+"No testing is indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for this patient before cataract surgery. Preoperative testing can help define risks before undergoing a procedure and is intended to guide management. However, there is considerable overuse of preoperative testing, particularly in low-risk procedures. When determining appropriate preoperative testing for elective procedures, the first branch-point is determining the risk of surgery. In general, low-risk surgeries (such as skin surgeries, hernia repair, cataract surgery, and arthroscopy) are of shorter duration, involve local anesthetics, incur minimal blood loss, and are associated with few complications (<1% major adverse cardiac events). Multiple studies have shown that preoperative testing has little value in low-risk procedures. Even when patients have substantial comorbidities, such as this patient, chest radiography, echocardiography, and ECG do not predict cardiac complications. Therefore, provided medical issues are stable, preoperative testing is not recommended for low-risk procedures."
+]
+},
+{
+"type":"p",
+"hlId":"f9c2ca",
+"children":[
+"Although this patient has cardiopulmonary disease, including COPD, her symptoms are stable and chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") results will not change perioperative management. Preoperative chest radiography in nonthoracic surgery is indicated only in patients with new signs or symptoms of pulmonary illness or underlying cardiac or pulmonary disease with new or unstable symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"bc5eb5",
+"children":[
+"Given the low rates of cardiovascular complications and minimal predictive value they provide, screening ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not helpful prior to low-risk procedures. Cardiac testing prior to low-risk surgery should be obtained only if the patient has new symptoms suggestive of cardiac disease (palpitations, chest pain, shortness of breath)."
+]
+},
+{
+"type":"p",
+"hlId":"249630",
+"children":[
+"Echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be routinely performed preoperatively and certainly not before low-risk surgery. Specific indications for echocardiography before surgery that is other than low risk include the presence of dyspnea of unknown origin, heart failure with worsening dyspnea or change in clinical status, known left ventricular dysfunction without echocardiographic assessment in the last year, and known or suspected moderate to severe valvular stenosis or regurgitation without echocardiographic assessment in the past year or with a change in clinical status."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_2_1",
+"objective":{
+"__html":"Avoid preoperative testing for low-risk surgery."
+},
+"references":[
+[
+"Cohn SL. Preoperative evaluation for noncardiac surgery. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201612060",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;165:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27919097",
+"target":"_blank"
+},
+"children":[
+"PMID: 27919097"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":14,
+"C":7,
+"D":67,
+"E":0
+},
+"hlIds":[
+"426ba2",
+"f61252",
+"fe0afc",
+"250e52",
+"cef2f0",
+"f9c2ca",
+"bc5eb5",
+"249630"
+]
+}

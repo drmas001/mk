@@ -1,0 +1,183 @@
+{
+"id":"mk19_a_nr_q041",
+"number":41,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ef6b3",
+"children":[
+"An 84-year-old man is evaluated for an 18-month history of increasing forgetfulness and one episode of getting lost while driving on a familiar route. He lost his car keys and had to have a new set made. He lives with his spouse and is independent in all of his instrumental and basic activities of daily living. He and his spouse report no signs and symptoms of depression. In high school and in college he was on the boxing team. He is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"063fbf",
+"children":[
+"On physical examination, vital signs are normal. His Montreal Cognitive Assessment score is 21/30, with difficulty copying the cube, recalling the five words, and naming the day, date, and month noted."
+]
+},
+{
+"type":"p",
+"hlId":"571198",
+"children":[
+"Depression screening is negative."
+]
+},
+{
+"type":"p",
+"hlId":"489d87",
+"children":[
+"Brain MRI shows significant hippocampal atrophy bilaterally with minimal white matter hyperintensities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alzheimer dementia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mild cognitive impairment"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Traumatic encephalopathy syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vascular cognitive impairment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a0a821",
+"children":[
+"The diagnosis of mild cognitive impairment requires a subjective report of a decline in cognitive abilities with relative preservation of day-to-day function and evidence of cognitive impairment on cognitive testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"239e68",
+"children":[
+"The patient has the typical clinical history, cognitive screening results, and imaging findings of Alzheimer disease. However, his functional status is independent in all instrumental and basic activities of daily living. The diagnosis of mild cognitive impairment (MCI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") includes patients with clear symptoms of cognitive decline who do not meet criteria for dementia. The formal criteria for MCI are a subjective report (from either the patient or a witness) of a decline in cognitive abilities with relative preservation of day-to-day function and evidence of cognitive impairment on cognitive testing. Because of wide variability in the risk of progression, steps should be taken to confirm the underlying cause of the symptoms. In patients with cognitive impairment lasting more than 3 months, evaluation should include laboratory testing for potentially reversible conditions. Examples include assessment for medication adverse events, sleep apnea, depression, and other common medical conditions and an MRI without contrast."
+]
+},
+{
+"type":"p",
+"hlId":"371b5e",
+"children":[
+"MRI of the brain supports the diagnosis of Alzheimer disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") when it shows evidence of decreased volume of the hippocampi, although this is a nonspecific finding. When seen in MCI, decreased hippocampal volume predicts a higher likelihood of progression to Alzheimer dementia. Because of his independence in activities of daily living, this patient does not have Alzheimer dementia."
+]
+},
+{
+"type":"p",
+"hlId":"57d9ae",
+"children":[
+"Traumatic encephalopathy syndrome (TES) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the progressive neurodegenerative syndrome associated with repetitive head trauma. Supportive clinical features include emotional dysregulation, behavior change, and motor disturbance with parkinsonian features. Global brain atrophy may be seen on brain imaging. This patient does not have the clinical or imaging characteristics of TES."
+]
+},
+{
+"type":"p",
+"hlId":"260ef8",
+"children":[
+"The likelihood of vascular cognitive impairment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") increases with age and is associated with systemic vascular risk factors and a history of stroke. In vascular cognitive impairment, MRIs typically display a pattern of diffuse and confluent changes in the white matter of the brain. This patient's lack of risk factors and MRI are not supportive of vascular cognitive impairment."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_4",
+"objective":{
+"__html":"Diagnose mild cognitive impairment."
+},
+"references":[
+[
+"Petersen RC, Lopez O, Armstrong MJ, et al. Practice guideline update summary: mild cognitive impairment: report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology. 2018;90:126-35."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":49,
+"B":16,
+"C":28,
+"D":6,
+"E":0
+},
+"hlIds":[
+"7ef6b3",
+"063fbf",
+"571198",
+"489d87",
+"413696",
+"a0a821",
+"239e68",
+"371b5e",
+"57d9ae",
+"260ef8"
+]
+}

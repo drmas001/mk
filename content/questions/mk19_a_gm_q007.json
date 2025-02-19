@@ -1,0 +1,178 @@
+{
+"id":"mk19_a_gm_q007",
+"number":7,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"90d999",
+"children":[
+"A 74-year-old man is evaluated for right posterior hip pain that has worsened over the past 6 months. He points to the middle of his right buttock to indicate the location of the pain. The pain worsens with prolonged standing or walking long distances. He has no pain at rest or at night, and the pain does not radiate. He is otherwise well and takes acetaminophen for pain."
+]
+},
+{
+"type":"p",
+"hlId":"9ba518",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. The patient has no pain with passive or active hip movement. The FADIR (Flexion, ADduction, and Internal Rotation) test is painless, with normal range of motion. The FABER (Flexion, ABduction, and External Rotation) test reproduces the posterior hip pain."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetabular labrum tear"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Greater trochanteric pain syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Osteoarthritis of the hip"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sacroiliac joint dysfunction"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bcf47d",
+"children":[
+"The diagnosis of sacroiliac joint dysfunction is supported by posterior hip pain and a positive result on FABER (Flexion, ABduction, and Externally Rotation) testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9c7ef7",
+"children":[
+"The most likely diagnosis is sacroiliac joint dysfunction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Sacroiliac joints are true synovial joints between the sacrum and ilium of the pelvis. The sacroiliac joint may be involved as part of a systemic inflammatory syndrome, such as spondyloarthritis (particularly ankylosing spondylitis) but may also be involved as an isolated musculoskeletal condition. Biomechanical factors that predispose to sacroiliac joint injury include repetitive torsional forces or unidirectional pelvic shear forces, as might occur with stepping off a curb. The diagnosis of sacroiliitis in this patient is supported by the posterior location of his hip pain and a positive FABER (Flexion, ABduction, and External Rotation of the hip) test result. This test has a high specificity but low sensitivity for sacroiliitis. Therapy for sacroiliitis is similar to that for other joint pain and includes rest, anti-inflammatory medications, and possibly physical therapy."
+]
+},
+{
+"type":"p",
+"hlId":"37438b",
+"children":[
+"Acetabular labrum tear (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is found most commonly in young competitive athletes. It presents with anterior hip pain, often localized to the groin. The FADIR (Flexion, ADduction, and Internal Rotation) test will demonstrate pain and restricted movement; these results were not found in this older patient with posterior hip pain."
+]
+},
+{
+"type":"p",
+"hlId":"064c29",
+"children":[
+"Patients with greater trochanteric pain syndrome (GTPS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") typically have pain localized to the greater trochanter that may radiate down the lateral leg to the knee. The pain is often exacerbated by lying on the affected side and climbing stairs. Pain onset is usually insidious. GTPS can be differentiated from hip joint pain in that GTPS does not usually radiate to the groin or posterior hip or limit hip range of motion. Diagnosis is made by the history and by eliciting pain with palpation over the greater trochanter or reproduction of the pain when the patient takes a step up."
+]
+},
+{
+"type":"p",
+"hlId":"6739d5",
+"children":[
+"Hip osteoarthritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") tends to present as pain of insidious onset in older patients. Physical examination typically reveals groin pain and restricted range of motion with internal rotation or with the FADIR test. This patient's posterior hip pain, normal FADIR test result, and pain upon FABER testing are most compatible with sacroiliac joint dysfunction."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_5_1_1",
+"objective":{
+"__html":"Diagnose sacroiliac joint dysfunction."
+},
+"references":[
+[
+"Telli H, Telli S, Topal M. The validity and reliability of provocation tests in the diagnosis of sacroiliac joint dysfunction. Pain Physician. 2018;21:E367-E376. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30045603",
+"target":"_blank"
+},
+"children":[
+"PMID: 30045603"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":16,
+"C":20,
+"D":51,
+"E":0
+},
+"hlIds":[
+"90d999",
+"9ba518",
+"413696",
+"bcf47d",
+"9c7ef7",
+"37438b",
+"064c29",
+"6739d5"
+]
+}

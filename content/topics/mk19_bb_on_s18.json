@@ -1,0 +1,788 @@
+{
+"id":"mk19_bb_on_s18",
+"subspecialtyId":"on",
+"title":"Effects of Cancer Therapy",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_on_s18",
+"title":{
+"__html":"Effects of Cancer Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"3932dc",
+"children":[
+"Effects of Cancer Therapy"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_on_s18_0",
+"children":[
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_on_s18_inline_t1"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_on_s18_1",
+"title":{
+"__html":"Test Yourself"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7866cc",
+"children":[
+"Test Yourself"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"da91f3",
+"class":"test",
+"children":[
+"A 44-year-old man is evaluated for cough and dyspnea 2 weeks after he completed his ",
+{
+"type":"abbreviation",
+"title":"doxorubicin (Adriamycin), bleomycin, vinblastine, dacarbazine",
+"children":[
+"ABVD"
+]
+},
+" therapy for Hodgkin lymphoma. The chest x-ray shows bilateral interstitial infiltrates."
+]
+},
+{
+"type":"p",
+"hlId":"f44ddf",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+"For diagnosis, choose bleomycin-induced lung injury."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_on_s18_inline_t1":{
+"id":"mk19_bb_on_s18_inline_t1",
+"number":1,
+"bookId":"on",
+"title":{
+"__html":"Study Table: Short- and Long-Term Effects of Cancer Therapy"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"7d4c88",
+"children":[
+"Study Table: Short- and Long-Term Effects of Cancer Therapy"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3adbdb",
+"class":"col hd l",
+"children":[
+"Category"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0bd52",
+"class":"col hd l",
+"children":[
+"Potential Complications"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"59ea4b",
+"class":"cell txt l",
+"children":[
+"Cardiovascular"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"687676",
+"class":"cell txt l",
+"children":[
+"Doxorubicin: dose-related ",
+{
+"type":"abbreviation",
+"title":"heart failure",
+"children":[
+"HF"
+]
+},
+" (irreversible)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ef994b",
+"class":"cell txt l",
+"children":[
+"Tamoxifen: ",
+{
+"type":"abbreviation",
+"title":"venous thromboembolism",
+"children":[
+"VTE"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"bcfb94",
+"class":"cell txt l",
+"children":[
+"Trastuzumab: non–dose-related HF (reversible)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"98e3d8",
+"class":"cell txt l",
+"children":[
+"Mediastinal radiation: myocardial, valvular, pericardial fibrosis, and premature ",
+{
+"type":"abbreviation",
+"title":"coronary artery disease",
+"children":[
+"CAD"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"705181",
+"class":"cell txt l",
+"children":[
+"Checkpoint inhibitors: myocarditis, pericarditis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a36efb",
+"class":"cell txt l",
+"children":[
+"Pulmonary"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"48dfd3",
+"class":"cell txt l",
+"children":[
+"Bleomycin: pulmonary toxicity, most commonly bleomycin-induced pneumonitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"acabdd",
+"class":"cell txt l",
+"children":[
+"Radiation: radiation-induced pneumonitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"346ce0",
+"class":"cell txt l",
+"children":[
+"Immunotherapy: pneumonitis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1c2eb5",
+"class":"cell txt l",
+"children":[
+"Reproductive"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"97a376",
+"class":"cell txt l",
+"children":[
+"Chemotherapy: premature ovarian failure, male infertility"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"de3c9d",
+"class":"cell txt l",
+"children":[
+"Tamoxifen: endometrial cancer"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"327a97",
+"class":"cell txt l",
+"children":[
+"Endocrine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f59d4d",
+"class":"cell txt l",
+"children":[
+"Radiation therapy to head and neck: hypothyroidism"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d52a8b",
+"class":"cell txt l",
+"children":[
+"Immunotherapy: thyroiditis, adrenalitis, hypophysitis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9b3d4d",
+"class":"cell txt l",
+"children":[
+"Musculoskeletal"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7814c1",
+"class":"cell txt l",
+"children":[
+"Aromatase inhibitors: osteoporosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f15fc8",
+"class":"cell txt l",
+"children":[
+"Leuprolide, goserelin, castration: osteoporosis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"746354",
+"class":"cell txt l",
+"children":[
+"Cancer"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a2da8a",
+"class":"cell txt l",
+"children":[
+"Mantle radiation: breast, lung, and esophageal cancer"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e52943",
+"class":"cell txt l",
+"children":[
+"Chemotherapy (breast cancer): ",
+{
+"type":"abbreviation",
+"title":"myelodysplastic syndromes",
+"children":[
+"MDS"
+]
+},
+" and acute leukemia"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f491b1",
+"class":"cell txt l",
+"children":[
+"Kidney and bladder"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0e8529",
+"class":"cell txt l",
+"children":[
+"Cisplatin and ifosfamide: renal tubular damage and ",
+{
+"type":"abbreviation",
+"title":"chronic kidney disease",
+"children":[
+"CKD"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"c35ba3",
+"class":"cell txt l",
+"children":[
+"Cyclophosphamide and ifosfamide: hemorrhage cystitis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6d595f",
+"class":"cell txt l",
+"children":[
+"Dermatology"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"007758",
+"class":"cell txt l",
+"children":[
+"Fluoropyrimidines: hand-foot syndrome (redness, peeling, tenderness)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5d1bee",
+"class":"cell txt l",
+"children":[
+{
+"type":"abbreviation",
+"title":"epidermal growth factor receptor",
+"children":[
+"EGFR"
+]
+},
+" inhibitors and monoclonal antibodies: pustular acneiform eruptions"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ef024b",
+"class":"cell txt l",
+"children":[
+"Gastrointestinal"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e18112",
+"class":"cell txt l",
+"children":[
+"Fluoropyrimidines: stomatitis, colitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"2357de",
+"class":"cell txt l",
+"children":[
+"Immunotherapy: colitis, hepatitis"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

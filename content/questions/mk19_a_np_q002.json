@@ -1,0 +1,261 @@
+{
+"id":"mk19_a_np_q002",
+"number":2,
+"bookId":"np",
+"correctAnswer":"C",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9487fa",
+"children":[
+"A 63-year-old woman is hospitalized for cardiac catheterization for unstable angina. History is significant for stage G3 chronic kidney disease attributed to diabetic nephropathy. Medications are heparin, metoprolol, losartan, amlodipine, atorvastatin, basal insulin, and prandial insulin."
+]
+},
+{
+"type":"p",
+"hlId":"dc0e10",
+"children":[
+"On physical examination, vital signs are normal. There is no jugular venous distension or lower extremity edema. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"3fbff3",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 2.4 mg/dL (212.2 µmol/L) and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 24 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"eeb944",
+"children":[
+"Which of the following is the most appropriate periprocedure measure to prevent acute kidney injury?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hemodialysis, postprocedure"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous isotonic bicarbonate, pre- and postprocedure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous 0.9% saline, pre- and postprocedure"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral N-acetylcysteine, preprocedure"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9bdbbc",
+"children":[
+"Contrast-associated nephropathy prophylaxis with intravenous 0.9% saline pre- and postprocedure is indicated for patients who have an estimated glomerular filtration rate <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or acute kidney injury."
+]
+},
+{
+"type":"keypoint",
+"hlId":"839057",
+"children":[
+"Contrast-associated nephropathy prophylaxis is not indicated for patients with a stable estimated glomerular filtration rate ≥45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b73cf6",
+"children":[
+"The most appropriate periprocedure measure to prevent contrast-associated nephropathy (CAN) is to administer intravenous 0.9% saline pre- and postprocedure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for this patient undergoing cardiac catheterization. Multiple patient-related risk factors have been associated with CAN. The primary risk factor is a reduced estimated glomerular filtration rate (eGFR). Some studies find an added risk of CAN from diabetes mellitus. Well-established additional risk factors include nephrotoxic agents and exposures, hypotension, hypovolemia, albuminuria, and impaired kidney perfusion (e.g., as occurs in heart failure). Although multiple myeloma has historically been considered a risk factor for CAN, this is not supported by more recent literature. A 2020 guideline from the American College of Radiology and the National Kidney Foundation recommends that the risk for CAN be determined primarily by using the chronic kidney disease stage and associated eGFR measurement. Patients at highest risk for CAN include those with recent acute kidney injury and those with an eGFR <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Prophylaxis with intravenous 0.9% saline pre- and postprocedure is indicated for patients not undergoing dialysis who have an eGFR <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or acute kidney injury. In individual high-risk circumstances, prophylaxis may be considered in patients with eGFR of 30 to 44 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" at the discretion of the ordering clinician. Prophylaxis is not indicated for patients with stable eGFR ≥45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". The presence of a solitary kidney should not independently influence decision-making regarding the risk for CAN."
+]
+},
+{
+"type":"p",
+"hlId":"87b64c",
+"children":[
+"Renal replacement therapy should neither be initiated nor have a schedule adjustment solely based on contrast media administration. Postprocedure initiation of hemodialysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") directed at removal of contrast from the blood has been attempted in a few small studies with mixed results."
+]
+},
+{
+"type":"p",
+"hlId":"a2f6e3",
+"children":[
+"Neither infusion of sodium bicarbonate pre- and postprocedure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") nor use of oral N-acetylcysteine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended to prevent CAN due to a lack of consistent evidence demonstrating efficacy."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_6_1",
+"objective":{
+"__html":"Prevent contrast-associated nephropathy."
+},
+"references":[
+[
+"Davenport MS, Perazella MA, Yee J, et al. Use of intravenous iodinated contrast media in patients with kidney disease: consensus statements from the American College of Radiology and the National Kidney Foundation. Radiology 2020;294:660. doi.org/10.1148/radiol.2019192094"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":4,
+"C":88,
+"D":7,
+"E":0
+},
+"hlIds":[
+"9487fa",
+"dc0e10",
+"3fbff3",
+"eeb944",
+"9bdbbc",
+"839057",
+"b73cf6",
+"87b64c",
+"a2f6e3"
+]
+}

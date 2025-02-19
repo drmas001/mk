@@ -1,0 +1,194 @@
+{
+"id":"mk19_b_pm_q047",
+"number":47,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a92cac",
+"children":[
+"A 66-year-old man who is undergoing annual low-dose CT for lung cancer screening is evaluated following the discovery of a solitary 1.5-cm lung nodule in the right upper lobe. There is no lymphadenopathy or effusion seen on the CT scan. He has a chronic cough and a 90-pack-year smoking history. His medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"2b24f4",
+"children":[
+"On physical examination, vital signs and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"989487",
+"children":[
+"Laboratory studies, including liver chemistry tests and measurement of sodium and calcium levels, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Endobronchial ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-resolution CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Integrated PET/CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sputum cytology"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1f82da",
+"children":[
+"PET/CT scans are widely used to evaluate risk of malignancy in lung nodules, to stage known thoracic tumors, and to evaluate for metastatic disease from other nonthoracic malignancies."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e66876",
+"children":[
+"PET scans are not useful for determining malignancy in lung nodules less than 8 mm in size."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c2aa6a",
+"children":[
+"An integrated PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be performed next. PET utilizes the radionuclide 18-fluoro-2-deoxyglucose, which accumulates within highly metabolically active cells such as cancer cells and can be visualized as discrete areas of uptake. Integrated PET/CT allows improved localization of the metabolic activity. PET scans are widely used to evaluate risk of malignancy in lung nodules, to stage known thoracic tumors, and to evaluate for metastatic disease from other nonthoracic malignancies. False-positive PET scans can occur in other hypermetabolic conditions, such as infection or inflammation, in which cells accumulate fluorodeoxyglucose. False-negative results can occur when tumors have low rates of metabolic activity, such as carcinoid, adenocarcinoma in situ, and, rarely, metastatic kidney, prostate, or testicular cancer. PET is not useful in determining malignancy in lung nodules less than 8 mm in size; however, a PET/CT scan can help in staging and needle positioning for biopsy targets. For example, in this patient with a solitary pulmonary nodule, a PET/CT scan may help determine whether any lymph node involvement is present that was not visible on the chest CT scan, providing a potentially more accessible and strategically important biopsy target."
+]
+},
+{
+"type":"p",
+"hlId":"98c54b",
+"children":[
+"Endobronchial ultrasound (EBUS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") permits visualization of mediastinal and hilar lymph nodes for needle aspiration. EBUS with transbronchial needle aspiration is the initial procedure for obtaining tissue from mediastinal and hilar lymph nodes in the diagnosis and staging of patients with known or suspected thoracic malignancy. An integrated PET/CT scan can guide where to biopsy, and it would be premature to perform an EBUS-guided transbronchial needle aspiration without this information."
+]
+},
+{
+"type":"p",
+"hlId":"d931f4",
+"children":[
+"For patients suspected of having interstitial lung disease, a high-resolution (slice thickness of 1 mm) CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be ordered. However, because the slice interval (the distance between individual slices) with high-resolution CT is larger than with conventional CT, this technique “skips” interval sections of the lung and should not be used to evaluate lung nodules. A high-resolution CT scan cannot stage lung cancer or guide where to biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"07570a",
+"children":[
+"Sputum cytology (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has a lower sensitivity than EBUS-guided transbronchial needle aspiration for diagnosis of lung cancer, does not produce sufficient sample material for molecular studies, and will not provide needed staging information."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s1_2_1_4",
+"objective":{
+"__html":"Evaluate a pulmonary nodule with an integrated PET/CT scan."
+},
+"references":[
+[
+"Colarinha P. Why and when to request for A Pet/Ct scan in A lung cancer patient? Rev Port Cir Cardiotorac Vasc. 2020 Jul-Sep;27:167-177. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33068505",
+"target":"_blank"
+},
+"children":[
+"PMID: 33068505"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":22,
+"C":64,
+"D":3,
+"E":0
+},
+"hlIds":[
+"a92cac",
+"2b24f4",
+"989487",
+"983777",
+"1f82da",
+"e66876",
+"c2aa6a",
+"98c54b",
+"d931f4",
+"07570a"
+]
+}

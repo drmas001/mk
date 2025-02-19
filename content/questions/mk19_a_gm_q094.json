@@ -1,0 +1,207 @@
+{
+"id":"mk19_a_gm_q094",
+"number":94,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dc4887",
+"children":[
+"A 54-year-old man is evaluated before starting statin therapy for dyslipidemia. He also has hypertension. He reports no exertional chest pain or dyspnea. Therapeutic lifestyle changes have been implemented. His only medication is losartan."
+]
+},
+{
+"type":"p",
+"hlId":"bc0c8c",
+"children":[
+"On physical examination, vital signs and other findings are normal. BMI is 24."
+]
+},
+{
+"type":"p",
+"hlId":"2ecc63",
+"children":[
+"His 10-year risk for atherosclerotic cardiovascular disease is 8.0%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"3bf391",
+"children":[
+"Which of the following is the most appropriate test to perform before starting statin therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aminotransferase measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Creatine kinase measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fasting blood glucose measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Treadmill stress testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d11323",
+"hvc":true,
+"children":[
+"Before initiation of statin therapy, aminotransferase levels should be measured."
+]
+},
+{
+"type":"keypoint",
+"hlId":"bfa09d",
+"hvc":true,
+"children":[
+"Measurement of aminotransferase levels should not be repeated during statin therapy in the absence of symptoms of liver injury."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2bd169",
+"children":[
+"The most appropriate test to perform before initiation of statin therapy is aminotransferase measurements (aspartate aminotransferase and alanine aminotransferase [ALT]) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Statins can cause asymptomatic, dose-related elevations in aminotransferase levels in approximately 1% of patients. Rarely, the initiation of statin therapy can be associated with severe liver injury (<0.001% of patients). When this occurs, it is often 3 to 4 months after initiation of therapy. Studies comparing statins with placebo have shown no difference in the incidence of persistently elevated aminotransferase levels, despite this finding being commonly attributed to the initiation of statin therapy. If the ALT level becomes elevated more than three times the upper limit of normal when measured for clinically relevant indications, the statin dose should be reduced or the drug should be discontinued. It is not necessary to repeat aminotransferase measurements during statin therapy in the absence of symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"e9e6c4",
+"children":[
+"Although the development of significant muscle injury and rhabdomyolysis is a concern of many patients and providers, it is rare, occurring in less than 0.1% of the population. Muscle-related side effects, including muscle pain and weakness, are common and often require dose adjustment or changing medications. Measurement of creatine kinase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") before initiation of therapy is not useful. This test should be performed only when clinical signs and symptoms point to muscle injury."
+]
+},
+{
+"type":"p",
+"hlId":"ab3dff",
+"children":[
+"Statin therapy has been associated with an increase in new-onset type 2 diabetes mellitus. This effect tends to be dose related and is often seen in patients with underlying metabolic syndrome or other risk factors for diabetes. The benefits of initiation of statin therapy in patients with elevated risk for atherosclerotic cardiovascular disease outweigh the small risk for diabetes associated with statin therapy. The American Diabetes Association recommends screening for type 2 diabetes with fasting blood glucose level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" measurement in patients with hypertension but not as a prerequisite for starting statin therapy."
+]
+},
+{
+"type":"p",
+"hlId":"13c478",
+"children":[
+"This patient is asymptomatic and specifically reports no chest pain or shortness of breath with exertion. Therefore, he has a low pretest probability of clinically significant coronary artery disease requiring intervention, and treadmill stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s8_2_2_3",
+"objective":{
+"__html":"Evaluate aminotransferase levels before initiating statin therapy."
+},
+"references":[
+[
+"Newman CB, Preiss D, Tobert JA, et al; American Heart Association Clinical Lipidology, Lipoprotein, Metabolism and Thrombosis Committee, a Joint Committee of the Council on Atherosclerosis, Thrombosis and Vascular Biology and Council on Lifestyle and Cardiometabolic Health; Council on Cardiovascular Disease in the Young; Council on Clinical Cardiology; and Stroke Council. Statin safety and associated adverse events: a scientific statement from the American Heart Association. Arterioscler Thromb Vasc Biol. 2019;39:e38-81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30580575",
+"target":"_blank"
+},
+"children":[
+"PMID: 30580575"
+]
+},
+" doi:10.1161/ATV.0000000000000073"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":58,
+"B":8,
+"C":32,
+"D":3,
+"E":0
+},
+"hlIds":[
+"dc4887",
+"bc0c8c",
+"2ecc63",
+"3bf391",
+"d11323",
+"bfa09d",
+"2bd169",
+"e9e6c4",
+"ab3dff",
+"13c478"
+]
+}

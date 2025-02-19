@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q100",
+"number":100,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a6507f",
+"children":[
+"A 69-year-old man is evaluated in the hospital for shortness of breath 24 hours after admission for left inferior pubic ramus fracture. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"74d123",
+"children":[
+"On physical examination, the patient is confused. Temperature is 38.2 °C (100.8 °F), blood pressure is 104/68 mm Hg, pulse rate is 110/min, and respiration rate is 26/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 90% breathing oxygen, 3 L/min by nasal cannula. There are crackles at both lung bases. Petechiae are present over the neck and upper trunk."
+]
+},
+{
+"type":"p",
+"hlId":"d2e03e",
+"children":[
+"Chest radiograph reveals patchy infiltrates at the bases."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Air embolism"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fat embolism syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hospital-acquired pneumonia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"364b10",
+"children":[
+"Fat embolism syndrome is most commonly associated with long bone and pelvic fractures but can also be associated with nontraumatic conditions such as pancreatitis, osteomyelitis, and lipid infusion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9bb812",
+"children":[
+"Clinical diagnosis of fat embolism syndrome is centered on the triad of respiratory insufficiency, neurologic dysfunction, and petechial rash in the appropriate clinical context."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2d7858",
+"children":[
+"The most likely diagnosis is fat embolism syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a rare but potentially lethal complication resulting from systemic manifestations of fat emboli. Most commonly associated with long bone and pelvic fractures, fat embolism syndrome can also be associated with nontraumatic conditions such as pancreatitis, osteomyelitis, and lipid infusion. It is a clinical diagnosis centered on the triad of respiratory insufficiency, neurologic dysfunction, and petechial rash in an appropriate clinical setting. Although not always present, the petechial rash is characteristically located on nondependent parts of the body such as the neck and chest. Onset of fat embolism syndrome typically occurs between 24 and 72 hours after a fracture but may occur as early as 12 hours after. Chest radiographs may be normal. Chest CT findings are nonspecific and primarily parenchymal; bilateral well-demarcated ground-glass opacities or ill-defined centrilobular nodules may be noted. Fat has low attenuation, and it is uncommon to find filling defects on CT angiography. Treatment is supportive, and most patients with fat embolism syndrome fully recover, although estimates of mortality range from 5% to 20%."
+]
+},
+{
+"type":"p",
+"hlId":"f5babb",
+"children":[
+"Air embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a potentially lethal illness, results from the introduction of air into the vasculature. Air embolism can also have respiratory and neurologic manifestations; however, a rash is unusual. Additionally, symptoms of air embolism develop immediately after the inciting event. A variety of mechanisms are responsible for air embolism, including neurosurgical and otolaryngologic surgical procedures, penetrating leg wounds or blunt chest trauma, insertion of vascular catheters, and barotrauma associated with positive pressure ventilation."
+]
+},
+{
+"type":"p",
+"hlId":"dcef5a",
+"children":[
+"Hospital-acquired pneumonia (HAP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), by definition, develops more than 48 hours after admission and is not the correct diagnosis in this patient with symptoms and pulmonary infiltrates within 24 hours of admission. Additionally, HAP cannot account for the petechial rash."
+]
+},
+{
+"type":"p",
+"hlId":"855f47",
+"children":[
+"Pulmonary embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") manifests with tachypnea, respiratory distress, and hypoxia. However, neurologic symptoms and rash are not seen in patients with pulmonary embolism. CT angiography in pulmonary embolism reveals intraluminal filling defects."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_6",
+"objective":{
+"__html":"Diagnose fat embolism syndrome."
+},
+"references":[
+[
+"Newbigin K, Souza CA, Torres C, et al. Fat embolism syndrome: State-of-the-art review focused on pulmonary imaging findings. Respir Med. 2016;113:93-100. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26895808",
+"target":"_blank"
+},
+"children":[
+"PMID: 26895808"
+]
+},
+" doi:10.1016/j.rmed.2016.01.018"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":89,
+"C":6,
+"D":4,
+"E":0
+},
+"hlIds":[
+"a6507f",
+"74d123",
+"d2e03e",
+"413696",
+"364b10",
+"9bb812",
+"2d7858",
+"f5babb",
+"dcef5a",
+"855f47"
+]
+}

@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_gm_q042",
+"number":42,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2017f0",
+"children":[
+"A 20-year-old woman is evaluated for a 2-day history of sore throat, nonproductive cough, nasal congestion, headache, and malaise. She has no other medical problems and does not smoke."
+]
+},
+{
+"type":"p",
+"hlId":"da24c8",
+"children":[
+"On physical examination, vital signs are normal. The nasal mucosa is boggy and inflamed, with clear discharge. The pharynx is erythematous. Tonsils are normal appearing. Tympanic membranes are clear. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ff58e2",
+"children":[
+"A SARS-CoV-2 rapid antigen test result is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Guaifenesin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intranasal zinc"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"acb477",
+"hvc":true,
+"children":[
+"Treatment for the common cold focuses on symptom management."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ff378f",
+"hvc":true,
+"children":[
+"Antibiotic therapy is ineffective in the treatment for the common cold and not recommended for either shortening duration of symptoms or preventing bacterial superinfection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9994e8",
+"children":[
+"The most appropriate treatment is acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's presentation of sore throat, cough, headache, nasal congestion, and malaise in the absence of fever, as well as the findings on physical examination, are consistent with an acute upper respiratory tract infection (URI), or the common cold. URIs are caused by a large variety of viruses, most commonly rhinovirus. Virus transmission is via inhalation or direct contact with secretions infected with viral particles. The overproduction of mucosal secretions is caused by infection of epithelial cells responsible for the mucociliary layer within the respiratory tract and oropharynx. Symptoms of an uncomplicated URI may persist for up to 2 weeks after initial infection, and cough may persist even after resolution of the acute illness. Treatment for the common cold focuses on symptom management, including reducing severity of discomfort caused by frequent coughing, sneezing, headache, sore throat, and malaise. Analgesics may help with myalgia and headache, whereas nasal symptoms may respond to intranasal cromolyn, intranasal ipratropium, or combination decongestant/antihistamines."
+]
+},
+{
+"type":"p",
+"hlId":"6d96bb",
+"children":[
+"Antibiotic therapy, such as amoxicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), is ineffective in the treatment for the common cold and is not recommended for either shortening duration of symptoms or preventing bacterial superinfection. Not prescribing antibiotics is supported by multiple guidelines as a means of decreasing health care costs, antibiotic resistance, and the potential adverse effects of antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"b4f6a1",
+"children":[
+"There is little evidence to support the use of expectorants and mucolytics, such as guaifenesin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), in the treatment of the common cold. Although the adverse effects of these agents are minimal, they should not be recommended because of the lack of beneficial effect."
+]
+},
+{
+"type":"p",
+"hlId":"1ef557",
+"children":[
+"Although there is some evidence that zinc lozenges may decrease the duration of URI symptoms, adverse effects, including nausea and bad taste, are common. Zinc-containing intranasal products (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in particular should be avoided owing to the risk for permanent anosmia."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s9_6_1",
+"objective":{
+"__html":"Treat the common cold."
+},
+"references":[
+[
+"Harris AM, Hicks LA, Qaseem A; High Value Care Task Force of the American College of Physicians and for the Centers for Disease Control and Prevention. Appropriate antibiotic use for acute respiratory tract infection in adults: advice for high-value care from the American College of Physicians and the centers for disease control and prevention. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-1840",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:425-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26785402",
+"target":"_blank"
+},
+"children":[
+"PMID: 26785402"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":65,
+"B":5,
+"C":27,
+"D":3,
+"E":0
+},
+"hlIds":[
+"2017f0",
+"da24c8",
+"ff58e2",
+"1054f1",
+"acb477",
+"ff378f",
+"9994e8",
+"6d96bb",
+"b4f6a1",
+"1ef557"
+]
+}

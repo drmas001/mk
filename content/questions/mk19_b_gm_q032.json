@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_gm_q032",
+"number":32,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 32",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e57f21",
+"children":[
+"A 76-year-old woman is seen for a preoperative medical evaluation before elective total ankle arthroplasty. She has heart failure with reduced ejection fraction and COPD. She has no chest pain, presyncope, or change in weight. Medications are tiotropium, budesonide, and albuterol inhalers; furosemide; metoprolol; lisinopril; and 2 L/min of oxygen via nasal cannula during exertion."
+]
+},
+{
+"type":"p",
+"hlId":"d498ac",
+"children":[
+"On physical examination, blood pressure is 145/80 mm Hg, pulse rate is 109/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 90% breathing ambient air. Jugular venous pressure is elevated. There is an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" and a grade 2/6 systolic murmur at the lower left sternal border. Breath sounds are distant without crackles."
+]
+},
+{
+"type":"p",
+"hlId":"55d25f",
+"children":[
+"A recent transthoracic echocardiogram showed an ejection fraction of 40%, moderate to severe right ventricle dysfunction, pulmonary artery systolic pressure of 65 mm Hg, and tricuspid regurgitation. ECG shows right bundle branch block."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"182359",
+"children":[
+"Which of the following is the most appropriate preoperative management of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cancel surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase furosemide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate tadalafil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start continuous oxygen therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"572624",
+"children":[
+"Patients with high-risk pulmonary hypertension undergoing noncardiac surgery have high risk for complications, including myocardial ischemia, venous thromboembolism, cardiogenic shock, and dysrhythmias, and should be evaluated by a pulmonary hypertension specialist before undergoing surgery."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"67340b",
+"children":[
+"The most appropriate preoperative management of this patient is to cancel surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and refer the patient for evaluation by a pulmonary hypertension (PH) specialist. In the perioperative period, PH, defined as pulmonary artery pressure (PAP) greater than 25 mm Hg, is associated with mortality rates of 4% to 24% and significant morbidity in up to 42% of patients. Potential complications of PH include myocardial infarction, arrhythmias, right ventricular (RV) failure, venous thromboembolism, and pulmonary failure. Patients with high-risk PH features, including group 1 PH (pulmonary arterial hypertension), PAP greater than 70 mm Hg, and moderate or severe RV dysfunction, should undergo a thorough preoperative risk assessment by a PH specialist. Surgery should generally be avoided in patients with severe PH. This patient has severe COPD and heart failure with reduced ejection fraction with evidence of PH and moderate to severe right ventricular dysfunction. She should be referred to a PH specialist for evaluation prior to the elective procedure."
+]
+},
+{
+"type":"p",
+"hlId":"dc5729",
+"children":[
+"Although increasing this patient's furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be indicated for heart failure and volume overload, changes to the medication regimen should be made as part of an overall treatment strategy and not as part of a preoperative evaluation. Decisions regarding medication management in the perioperative period in this patient should be made in conjunction with a PH specialist."
+]
+},
+{
+"type":"p",
+"hlId":"c8a60e",
+"children":[
+"Most cases of PH are caused by left-sided heart disease and hypoxic respiratory disorders. Treatment is directed toward the underlying disorder. Patients with group 1 PH (which includes idiopathic and heritable pulmonary arterial hypertension, and disease related to drugs and toxins, connective tissue diseases, HIV infection, schistosomiasis, and portal hypertension) may be treated with a calcium channel blocker or vasodilator therapy, such as tadalafil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") following vasoreactivity testing. Starting tadalafil is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"32c527",
+"children":[
+"Chronic hypoxia with resultant pulmonary vasoconstriction may be a major contributor to a patient's PH, but further evaluation is necessary prior to instituting continuous oxygen therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_2_2_5",
+"objective":{
+"__html":"Evaluate a patient with pulmonary hypertension prior to surgery."
+},
+"references":[
+[
+"Aguirre MA, Lynch I, Hardman B. Perioperative management of pulmonary hypertension and right ventricular failure during noncardiac surgery. Adv Anesth. 2018;36:201-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30414638",
+"target":"_blank"
+},
+"children":[
+"PMID: 30414638"
+]
+},
+" doi:10.1016/j.aan.2018.07.011"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":63,
+"B":15,
+"C":8,
+"D":13,
+"E":0
+},
+"hlIds":[
+"e57f21",
+"d498ac",
+"55d25f",
+"182359",
+"572624",
+"67340b",
+"dc5729",
+"c8a60e",
+"32c527"
+]
+}

@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q014",
+"number":14,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e040ef",
+"children":[
+"A 38-year-old man is evaluated for a 4-month history of painful, progressively enlarging breasts. Puberty was normal. He takes no medications or illicit drugs."
+]
+},
+{
+"type":"p",
+"hlId":"6dc71c",
+"children":[
+"Physical examination reveals symmetric tender gynecomastia but no other signs of feminization. Testicular volume is normal. Serum β-human chorionic gonadotropin level is normal, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Luteinizing hormone, serum",
+"children":[
+"luteinizing hormone"
+]
+},
+" level is 5 mU/mL (5 U/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"total morning testosterone"
+]
+},
+" level is 520 ng/dL (18 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adrenal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Estradiol level measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mammography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tamoxifen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2cacba",
+"children":[
+"The initial evaluation of gynecomastia includes measurement of estradiol, total testosterone, luteinizing hormone, and β-human chorionic gonadotropin levels."
+]
+},
+{
+"type":"keypoint",
+"hlId":"28dc94",
+"children":[
+"Unilateral, nontender, or fixed breast masses in a man should prompt an evaluation for breast cancer with a mammogram."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"10cc29",
+"children":[
+"In addition to morning total testosterone, luteinizing hormone, and β-human chorionic gonadotropin levels, an estradiol level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be obtained in this patient with recent onset of painful progressive gynecomastia and no clear cause identified on history and physical examination. Gynecomastia is the abnormal growth of large mammary glands in men causing breast enlargement. On physical examination, gynecomastia presents as a rubbery, concentric, subareolar mass. It is typically bilateral and may be tender if early in its course of development. Gynecomastia results from an imbalance in the testosterone-to-estrogen ratio. This imbalance may be caused by a low testosterone level or an elevated estradiol level. Associated conditions include obesity, substance use disorder, malnutrition, cirrhosis, primary or secondary hypogonadism, testicular germ cell tumors, adrenal tumors, hyperthyroidism, and chronic kidney disease. Because the total testosterone level is normal in this patient, an estradiol level must be obtained to check for any elevation."
+]
+},
+{
+"type":"p",
+"hlId":"611087",
+"children":[
+"Adrenal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is inappropriate in the evaluation of gynecomastia unless the estradiol level is elevated. If the estradiol level is elevated, testicular ultrasonography should be ordered before adrenal CT to exclude a testicular neoplasm. If the testicular ultrasound shows no neoplasms, adrenal CT should be ordered to exclude an adrenal neoplasm."
+]
+},
+{
+"type":"p",
+"hlId":"264451",
+"children":[
+"Gynecomastia is typically bilateral. Unilateral, nontender, or fixed breast masses should prompt an evaluation for breast cancer with a mammogram (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has bilateral and progressive gynecomastia over a relatively short period. Mammography is unlikely to be helpful."
+]
+},
+{
+"type":"p",
+"hlId":"1948e4",
+"children":[
+"Treatment of a specific cause of gynecomastia during the active proliferative phase may result in regression in size of the abnormal tissue. Selective estrogen receptor modulators, such as tamoxifen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), aromatase inhibitors, and androgens (for men with hypogonadism) are commonly used medications. If gynecomastia is longstanding, regression (spontaneously or with medical therapy) is unlikely owing to fibrotic changes. In this scenario, plastic surgery referral may be the best option for cosmetic improvement."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_9",
+"objective":{
+"__html":"Diagnose the cause of gynecomastia."
+},
+"references":[
+[
+"Sansone A, Romanelli F, Sansone M, et al. Gynecomastia and hormones. Endocrine. 2017;55:37-44. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27145756",
+"target":"_blank"
+},
+"children":[
+"PMID: 27145756"
+]
+},
+" doi:10.1007/s12020-016-0975-9"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"e040ef",
+"6dc71c",
+"cb2b54",
+"2cacba",
+"28dc94",
+"10cc29",
+"611087",
+"264451",
+"1948e4"
+]
+}

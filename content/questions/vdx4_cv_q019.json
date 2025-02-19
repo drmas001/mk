@@ -1,0 +1,129 @@
+{
+"id":"vdx4_cv_q019",
+"number":19,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b5cbba",
+"children":[
+"A 40-year-old woman is evaluated for hypotension. Blood pressure is 100/70 mm Hg, and pulse rate is 110/min. Heart sounds are distant. Jugular venous pressure is elevated."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f019",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f019"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute coronary syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac tamponade"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypertrophic cardiomyopathy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8099f0",
+"children":[
+"The most likely diagnosis is cardiac tamponade. This ECG demonstrates electrical alternans, a shifting of the QRS axis with each beat related to a swinging motion of the heart within the pericardial fluid. It is most clearly seen in this tracing in lead I and the precordial leads. Electrical alternans and low voltage (not seen on this ECG) are suggestive of cardiac tamponade. Clinical signs of tamponade include tachycardia, hypotension, muffled heart sounds, and elevation of the jugular venous pulse. The ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"y"
+]
+},
+" descent of the jugular venous pulse may be absent because passive filling of the ventricles is impeded by the intrapericardial pressure. The cardiac silhouette is also typically enlarged on chest radiograph if the accumulation of fluid has occurred slowly."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_2_2_1",
+"objective":{
+"__html":"Diagnose cardiac tamponade."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f019":{
+"id":"vdx4_cv_mcq_f019",
+"number":19,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"edb5c83321c6a9429263485e0ffdc774",
+"height":510,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"b5cbba",
+"4a9f79",
+"413696",
+"8099f0"
+]
+}

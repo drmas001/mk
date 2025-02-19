@@ -1,0 +1,200 @@
+{
+"id":"mk19_b_gm_q015",
+"number":15,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e01e7e",
+"children":[
+"A 45-year-old man is evaluated during a follow-up visit for type 2 diabetes mellitus. Over the past 3 months, his ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" has remained at 8.3%. Medications are metformin and liraglutide. The patient is not following a specific diet and does not exercise. He states he is not fully satisfied with his lifestyle but is ambivalent about change."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"acb141",
+"children":[
+"Which of the following is the most appropriate initial management step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add pioglitazone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Motivational interviewing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Refer to a dietitian"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Refer to a supervised exercise program"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"29ac64",
+"hvc":true,
+"children":[
+"Motivational interviewing is a counseling approach that uses directive, patient-centered techniques; its overall goal is to assist patients in addressing and changing unhealthy behaviors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b3b754",
+"hvc":true,
+"children":[
+"Foundational to motivational interviewing is an attempt by the physician to understand the patient's perspectives",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+","
+]
+},
+" followed by having the patient reflect on the need for change by highlighting the discrepancy between the patient's current and desired behavior."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0bd8c7",
+"children":[
+"The most appropriate initial management step is behavioral counseling that includes motivational interviewing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The basic elements in motivational interviewing include engagement, focusing, evoking, and planning. Motivational interviewing is a counseling approach that uses directive, patient-centered techniques. Its overall goal is to assist patients in addressing and changing unhealthy behaviors. Motivational interviewing capitalizes on the patient's intrinsic motivation to change and identifies reasons for ambivalence to change and discusses them without directly confronting the patient. Foundational to motivational interviewing is the physician's attempt to understand the patient's perspectives, followed by having the patient reflect on the need for change by highlighting the discrepancy between the patient's current and desired behavior. The physician attempts to build rapport and engage the patient with a supportive, nonjudgmental attitude. The physician elicits ideas and feelings about current behaviors and how they match the patient's desires and values, and has the patient reflect on the possibility of better options compared with current behaviors. The conversation allows identification of specific changes important to the patient. In a process known as change talk, the physician elicits the patient's own reasons and rationale for change. Motivational interviewing can be particularly effective in establishing a partnership to create lifestyle changes and may be highly relevant in this patient, who is currently not motivated to make lifestyle changes."
+]
+},
+{
+"type":"p",
+"hlId":"7e9167",
+"children":[
+"It may be desirable to increase this patient's medications for diabetes in an attempt to lower the hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" level. However, addressing only the pharmacologic aspects of this patient's care will not resolve the underlying issue of an unhealthy diet, lack of exercise, and ambivalence to change. In addition, pioglitazone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a drug that increases the peripheral uptake of glucose, is associated with weight gain and is not the best choice for this patient. Behavioral counseling with motivational interviewing and increasing the dose of metformin or liraglutide, if possible, are better choices."
+]
+},
+{
+"type":"p",
+"hlId":"6cc7b6",
+"children":[
+"Using a multidisciplinary team of health care professionals (dietitians, nurses, and psychologists) can be helpful when available. However, in the absence of motivation to change, referring the patient to a dietitian or supervised exercise program (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") is unlikely to be successful in achieving a healthier lifestyle in this ambivalent patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_5_2",
+"objective":{
+"__html":"Use motivational interviewing to help patients make lifestyle changes."
+},
+"references":[
+[
+"Mifsud JL, Galea J, Garside J, et al. Motivational interviewing to support modifiable risk factor change in individuals at increased risk of cardiovascular disease: a systematic review and meta-analysis. PLoS One. 2020;15:e0241193. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33175849",
+"target":"_blank"
+},
+"children":[
+"PMID: 33175849"
+]
+},
+" doi:10.1371/journal.pone.0241193"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":66,
+"C":17,
+"D":13,
+"E":0
+},
+"hlIds":[
+"e01e7e",
+"acb141",
+"29ac64",
+"b3b754",
+"0bd8c7",
+"7e9167",
+"6cc7b6"
+]
+}

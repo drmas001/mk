@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_nr_q082",
+"number":82,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 82",
+"stimulus":[
+{
+"type":"p",
+"hlId":"36e9df",
+"children":[
+"A 36-year-old woman is evaluated for left-sided facial weakness. Over the last 10 days she has developed progressive weakness on the left side of her face, which is apparent with eye closure, smiling, and chewing. She has also reduced tearing and diplopia. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"188f5d",
+"children":[
+"On physical examination, vital signs are normal. Left upper and lower facial muscles and muscles of mastication are weak. She has difficulty closing her left eye and diminished leftward gaze. Left corneal reflex is impaired. Facial sensation is preserved. The rest of the neurologic examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Electromyography of face muscles"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of brain"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral acyclovir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further testing or intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"404682",
+"children":[
+"Atypical Bell palsy, including subacute onset or involvement of multiple facial nerves, requires additional evaluation with imaging and other laboratory testing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fca52d",
+"children":[
+"Classic Bell palsy, characterized by the acute onset of a peripheral facial nerve neuropathy, is a clinical diagnosis requiring no additional evaluation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"356669",
+"children":[
+"The most appropriate next step in management is MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients with atypical features of Bell palsy, including multiple cranial nerve palsies, require additional evaluation. This patient should undergo MRI of the brain with and without gadolinium and with attention to the brainstem and internal auditory canal. Bell palsy is an acute-onset (usually over a period of hours) peripheral mononeuropathy involving the facial nerve (cranial nerve VII) that leads to weakness in the muscles of facial expression in both the upper and lower face, hyperacusis, and impaired taste. In classic Bell palsy, initial brain imaging and laboratory testing are not required. However, muscles of mastication are innervated by the motor branch of the trigeminal nerve (cranial nerve V) and ocular abduction (ability to bury the sclera on lateral gaze) is innervated by the abducens nerve (cranial nerve VI). Presence of these findings and a subacute progressive course over 10 days are red flags that should prompt further workup, including brain imaging. In addition, serologic testing for causes of multiple cranial neuropathies and, if needed, cerebrospinal fluid analysis with cytology should also be considered."
+]
+},
+{
+"type":"p",
+"hlId":"977eef",
+"children":[
+"Facial electromyography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be an appropriate next step. Electromyography can be nondiagnostic at an early phase (<3-4 weeks from onset) of most neuropathies and, even if abnormal, would not explain the presence of trigeminal and abducens nerve involvement."
+]
+},
+{
+"type":"p",
+"hlId":"e49b6c",
+"children":[
+"The benefit of oral acyclovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for classic Bell palsy remains controversial, and guidelines differ in their recommendations. Nevertheless, in this patient with atypical findings, initiation of acyclovir before further evaluation is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"216126",
+"children":[
+"In classic Bell palsy, a 10-day course of oral prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), started within 72 hours of onset, is recommended to expedite the rate and speed of full recovery. However, given this patient's 10-day course and atypical findings, MRI and, if needed, cerebrospinal fluid analysis should be prioritized."
+]
+},
+{
+"type":"p",
+"hlId":"29351a",
+"children":[
+"No further testing or intervention (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") would be inappropriate, given the progressive course and involvement of other cranial nerves. If this patient had presented more than 72 hours after the onset of classic Bell palsy, observation would have been appropriate."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_2_2_3",
+"objective":{
+"__html":"Evaluate atypical facial nerve palsy."
+},
+"references":[
+[
+"Fuller G, Morgan C. Bell's palsy syndrome: mimics and chameleons. Pract Neurol. 2016;16:439-444. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27034243",
+"target":"_blank"
+},
+"children":[
+"PMID: 27034243"
+]
+},
+" doi:10.1136/practneurol-2016-001383"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":30,
+"C":11,
+"D":42,
+"E":14
+},
+"hlIds":[
+"36e9df",
+"188f5d",
+"1a5dcc",
+"404682",
+"fca52d",
+"356669",
+"977eef",
+"e49b6c",
+"216126",
+"29351a"
+]
+}

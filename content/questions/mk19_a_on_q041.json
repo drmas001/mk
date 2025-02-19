@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_on_q041",
+"number":41,
+"bookId":"on",
+"correctAnswer":"C",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c73828",
+"children":[
+"A 69-year-old woman undergoes follow-up evaluation for stage III colon cancer, which was resected 2 years ago. She is asymptomatic and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"e436a6",
+"children":[
+"On physical examination, vital signs and examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"1e5fea",
+"children":[
+"Surveillance CT scan of the chest, abdomen, and pelvis reveals a new 3-cm lesion and a 2.5-cm lesion, both in the right lobe of the liver. No other abnormalities are noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatic artery embolization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Needle biopsy of the largest lesion"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Resection of the two lesions"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic chemotherapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"658cb3",
+"children":[
+"Postoperative surveillance following curative resection for colorectal cancer is used to identify oligometastatic disease in the liver or lung that may be resectable."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fcd8d0",
+"children":[
+"Surgical resection is a curative option for patients with oligometastatic colorectal cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"75bdca",
+"children":[
+"This patient has oligometastatic disease in the liver and is a candidate for surgery with curative intent (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Postoperative surveillance following curative resection for colorectal cancer is used to identify oligometastatic disease in the liver or lung that may be resectable. Contrast-enhanced CT of the chest, abdomen, and pelvis is recommended annually for up to 5 years postoperatively. Patients with metastatic lesions confined to the liver or lung should be referred for surgical evaluation. Surgery has become standard treatment for patients with resectable oligometastatic disease confined to the liver and can be curative in approximately 25% of these patients. Previous guidelines defined resectability of hepatic metastases based on the number of lesions, tumor size, and potential for clear surgical margins, but newer approaches define resectable disease as metastatic tumors that can be completely resected while leaving an adequate functional residual liver volume."
+]
+},
+{
+"type":"p",
+"hlId":"e2c6ba",
+"children":[
+"Hepatic arterial embolization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a technique that can be used for control of more vascular tumors such as hepatocellular carcinoma or neuroendocrine tumors, but it is not routinely used in colorectal cancer because these tumors tend to be relatively low in vascularity. Further, such embolizations are palliative, noncurative interventions, whereas surgery has curative potential."
+]
+},
+{
+"type":"p",
+"hlId":"04a0b8",
+"children":[
+"A needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should not be done because it will not affect management. This patient's clinical presentation is compelling enough for recurrent colorectal cancer that a negative needle biopsy would be assumed to be a false-negative result, and so would not alter management, and surgical resection would be the appropriate intervention regardless of the biopsy results. A needle biopsy may be appropriate if the diagnosis is in doubt or if there is consideration for neoadjuvant chemotherapy. Consideration of neoadjuvant chemotherapy in some treatment centers is based on the potential to convert patients with an initially unresectable large volume of liver metastases to resectable disease. Although data on the frequency of success with this strategy are not available, they are probably low."
+]
+},
+{
+"type":"p",
+"hlId":"e65885",
+"children":[
+"Because this patient is potentially curable, systemic chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), which is not curative, would not be a correct consideration."
+]
+}
+],
+"relatedSection":"mk19_a_on_s5_1_2_2",
+"objective":{
+"__html":"Treat oligometastatic liver metastases."
+},
+"references":[
+[
+"Creasy JM, Sadot E, Koerkamp BG, et al. Actual 10-year survival after hepatic resection of colorectal liver metastases: what factors preclude cure? Surgery. 2018;163:1238-44. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29455841",
+"target":"_blank"
+},
+"children":[
+"PMID: 29455841"
+]
+},
+" doi:10.1016/j.surg.2018.01.004"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":39,
+"C":48,
+"D":8,
+"E":0
+},
+"hlIds":[
+"c73828",
+"e436a6",
+"1e5fea",
+"1054f1",
+"658cb3",
+"fcd8d0",
+"75bdca",
+"e2c6ba",
+"04a0b8",
+"e65885"
+]
+}

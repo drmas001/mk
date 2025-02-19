@@ -1,0 +1,536 @@
+{
+"id":"mk19_b_hm_q074",
+"number":74,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"27844b",
+"children":[
+"A 27-year-old woman is diagnosed with acute femoral vein thrombosis. She has systemic lupus erythematosus diagnosed 3 months ago. Her only medication is hydroxychloroquine."
+]
+},
+{
+"type":"p",
+"hlId":"0fbeb3",
+"children":[
+"On physical examination, temperature is 37.9 °C (100.2 °F); other vital signs are normal. A faint malar rash is noted. The left leg shows 2+ edema."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d5fe2",
+"children":[
+"Laboratory studies: "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"20fe5e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Activated partial thromboplastin time",
+"children":[
+"Activated partial thromboplastin time"
+]
+},
+" (aPTT)"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"87e054",
+"class":"cell text l",
+"children":[
+"39 s"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7888b",
+"class":"cell text l",
+"children":[
+"10.8 g/dL (108 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b7c41e",
+"class":"cell text l",
+"children":[
+"3200/μL (3.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a2448a",
+"class":"cell text l",
+"children":[
+"302,000/μL (302 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93eab9",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"Prothrombin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"edf138",
+"class":"cell text l",
+"children":[
+"11 s"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"2e236c",
+"children":[
+"A mixing study does not correct the aPTT. Lupus anticoagulant is positive, and high-titer IgG β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein and IgG cardiolipin antibodies are measured."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c4ff97",
+"children":[
+"Which of the following is the most appropriate immediate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dabigatran"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fondaparinux"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Low-molecular-weight heparin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7eb2a",
+"children":[
+"The diagnosis of antiphospholipid antibody syndrome is based on the clinical criteria of thromboembolism or pregnancy morbidity and laboratory findings of medium or high-titer antiphospholipid antibodies present on two or more occasions at least 12 weeks apart."
+]
+},
+{
+"type":"keypoint",
+"hlId":"67c649",
+"children":[
+"Patients with “triple-positive” antiphospholipid antibody syndrome (presence of lupus anticoagulant, anticardiolipin antibody, and β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibody) should be treated with low-molecular-weight heparin followed by warfarin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7c3153",
+"children":[
+"The most appropriate treatment for this patient is initial low-molecular-weight heparin (LMWH) and transitioning later to warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She has systemic lupus erythematosus and now has a likely diagnosis of antiphospholipid antibody syndrome (APLAS). APLAS is an autoimmune disorder in which thrombosis and fetal demise (in pregnancy) may occur. Patients with APLAS are at risk for arterial and venous thrombosis. The diagnosis is based on the clinical criteria of thromboembolism or pregnancy morbidity and laboratory findings of medium or high-titer antiphospholipid antibodies present on two or more occasions at least 12 weeks apart. A clue to the presence of the lupus anticoagulant is activated partial thromboplastin time prolongation that fails to correct with a mixing study. This patient's diagnosis of APLAS is based on the presence of an acute thrombotic event and positive test results for all three antiphospholipid antibodies (lupus anticoagulant, anticardiolipin antibody, and β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibody). This patient's antiphospholipid measurements should be repeated after 12 weeks for final confirmation. Extended anticoagulation is needed now. The risk for recurrent thrombosis is reported to be higher in patients with “triple-positive” APLAS serologic tests when treated with a direct oral anticoagulant (DOAC) compared with LMWH followed by dose-adjusted warfarin."
+]
+},
+{
+"type":"p",
+"hlId":"2d2f30",
+"children":[
+"In general, the preferred treatment of acute venous thromboembolism in patients with APLAS is LMWH followed by warfarin. DOACs may be associated with a higher risk of thrombosis compared with warfarin in patients with “triple-positive” APLAS or in patients with arterial thrombosis. Therefore, apixaban and dabigatran would not be the most appropriate choices for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"26d775",
+"children":[
+"Evidence supporting the use of parenteral anticoagulants other than LMWH is extremely sparse and consists primarily of a few case reports. Fondaparinux cannot be recommended as an alternative to LMWH until sufficient data can confirm its effectiveness and safety (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Finally, fondaparinux has no reversal agent. Caution should be used in patients at risk for bleeding because the half-life is 17 hours."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_3_4",
+"objective":{
+"__html":"Treat a patient with antiphospholipid antibody syndrome."
+},
+"references":[
+[
+"Ordi-Ros J, Sáez-Comet L, Pérez-Conesa M, et al. Rivaroxaban versus vitamin K antagonist in antiphospholipid syndrome: A randomized noninferiority trial. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-0291",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:685-694. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31610549",
+"target":"_blank"
+},
+"children":[
+"PMID: 31610549"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":3,
+"C":9,
+"D":75,
+"E":0
+},
+"hlIds":[
+"27844b",
+"0fbeb3",
+"9d5fe2",
+"20fe5e",
+"87e054",
+"f9867c",
+"c7888b",
+"2989c0",
+"b7c41e",
+"fcac73",
+"a2448a",
+"93eab9",
+"edf138",
+"2e236c",
+"c4ff97",
+"b7eb2a",
+"67c649",
+"7c3153",
+"2d2f30",
+"26d775"
+]
+}

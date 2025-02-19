@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_rm_q005",
+"number":5,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 5",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c0043c",
+"children":[
+"A 32-year-old man is evaluated for low back pain of 6 months' duration. He experiences back pain at night and back pain and stiffness in the morning for more than 30 minutes. He feels less back pain when he exercises. He had an episode of left Achilles tendinitis 4 months ago and continues to have some pain and swelling at the Achilles insertion."
+]
+},
+{
+"type":"p",
+"hlId":"c8b340",
+"children":[
+"On physical examination, vital signs are normal. Peripheral joints are normal. Lumbar spine flexion is limited, and hip flexion, abduction, and external rotation cause discomfort in the buttocks bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"d57ee4",
+"children":[
+"Laboratory evaluation reveals normal erythrocyte sedimentation rate and blood C-reactive protein level."
+]
+},
+{
+"type":"p",
+"hlId":"025fa9",
+"children":[
+"Anteroposterior pelvic radiograph shows no evidence of sacroiliitis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Additional radiographic views of sacroiliac joints"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of sacroiliac joints"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"HLA-B27 antigen testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI of sacroiliac joints"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Rheumatoid factor and anti–cyclic citrullinated peptide antibodies"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7189ac",
+"children":[
+"A positive HLA-B27 test result in the setting of a compelling clinical picture confirms the diagnosis of axial spondyloarthritis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"86d362",
+"children":[
+"If a patient has many features of spondyloarthritis, then a positive HLA-B27 result adds little to the posttest probability; if there are few features of spondyloarthritis, then a positive HLA-B27 result is helpful."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"76a98c",
+"children":[
+"The most appropriate diagnostic test to perform next is HLA-B27 antigen testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The test assesses for the presence of the HLA-B27 antigen on the surface of cells and not the presence of the actual gene. This patient has inflammatory low back pain manifesting as night pain, morning stiffness, and pain that improves with activity. He also has enthesitis of the Achilles tendon, which is seen in spondyloarthritis. A positive HLA-B27 antigen test result in the setting of a compelling clinical picture confirms the diagnosis of axial spondyloarthritis. If the HLA-B27 antigen result is negative, MRI of the pelvis to evaluate for sacroiliac joint inflammation is warranted. In a patient with inflammatory low back pain and a positive HLA-B27 antigen result but no other features of spondyloarthritis, MRI is also indicated. In general, HLA-B27 antigen testing adds probabilistic certainty to the evaluation of low back pain. If diagnostic certainty is already high (i.e., the patient has many features of spondyloarthritis), then a positive test result adds little to the posttest probability; if there are few features of spondyloarthritis, then a positive HLA-B27 antigen result is helpful."
+]
+},
+{
+"type":"p",
+"hlId":"3285a1",
+"children":[
+"An anteroposterior radiographic view of the pelvis is useful and is the recommended view for detecting sacroiliitis. However, plain radiographs may not show evidence of sacroiliitis for 1 to 2 years after symptoms develop. Thus, if the anteroposterior radiograph is unremarkable, additional views (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are not needed."
+]
+},
+{
+"type":"p",
+"hlId":"eda639",
+"children":[
+"In cases of suspected sacroiliitis, low-dose CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful to clarify ambiguous changes seen on plain radiographs, whereas MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is more sensitive and can identify sacroiliac inflammation even in the absence of radiographic changes. Neither imaging test is indicated at this time, pending results of HLA-B27 testing."
+]
+},
+{
+"type":"p",
+"hlId":"1cf69b",
+"children":[
+"Rheumatoid arthritis is an inflammatory polyarthritis with a predilection for the small joints of the hands and feet. Rheumatoid arthritis can affect the cervical spine but not the lumbar spine or sacroiliac joints. This patient has no clinical findings that suggest rheumatoid arthritis; thus, serologic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s6_4_1",
+"objective":{
+"__html":"Evaluate for spondyloarthritis with HLA-B27 testing."
+},
+"references":[
+[
+"Danve A, Deodhar A. Axial spondyloarthritis in the USA: diagnostic challenges and missed opportunities. Clin Rheumatol. 2019;38:625-634. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30588555",
+"target":"_blank"
+},
+"children":[
+"PMID: 30588555"
+]
+},
+" doi:10.1007/s10067-018-4397-3"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":9,
+"C":30,
+"D":46,
+"E":4
+},
+"hlIds":[
+"c0043c",
+"c8b340",
+"d57ee4",
+"025fa9",
+"ab9d96",
+"7189ac",
+"86d362",
+"76a98c",
+"3285a1",
+"eda639",
+"1cf69b"
+]
+}

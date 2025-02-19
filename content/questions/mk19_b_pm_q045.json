@@ -1,0 +1,358 @@
+{
+"id":"mk19_b_pm_q045",
+"number":45,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 45",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dabb75",
+"children":[
+"A 48-year-old man is evaluated in the emergency department for an acute myocardial infarction. Medical history is significant for hyperlipidemia. His only medication is atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"a19b72",
+"children":[
+"On physical examination, pulse rate is 56/min. Other vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. Cardiac examination reveals an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+". Lungs are clear."
+]
+},
+{
+"type":"p",
+"hlId":"3a5636",
+"children":[
+"The initial serum troponin I level is elevated. An ECG shows ST-segment elevations in leads II, III, and aVF. A chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1ccafd",
+"children":[
+"Which of the following is the most appropriate oxygen management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Oxygen by nonrebreather mask"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oxygen by Venturi mask"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oxygen, 3 L/min by nasal cannula"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional oxygen management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bc80b5",
+"hvc":true,
+"children":[
+"Providing supplemental oxygen in acutely ill medical patients with normal oxygen saturation increases mortality in a dose-dependent manner."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5f070f",
+"children":[
+"The patient requires no additional oxygen management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A 2018 systematic review found that supplemental oxygen in patients with normal oxygen saturation increases mortality. This review focused on acutely ill adults with sepsis, critical illness, stroke, trauma, myocardial infarction, or cardiac arrest, and patients who had emergency surgery. In the liberal oxygen therapy group, the median baseline oxygen saturation as measured by pulse oximetry (Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") was 96% with a range of 94% to 99%. Compared with the conservative oxygen therapy group, patients with the highest Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" had increased in-hospital mortality, increased 30-day mortality, and increased mortality at longest follow-up. A dose-response curve was evident, with mortality highest in trials with the greatest increase in Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Providing supplemental oxygen for patients with an Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" higher than 96% increased mortality by approximately 1%. Based on these results, an international expert panel provided two strong recommendations: (1) an Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 96% or lower should be maintained in patients receiving oxygen therapy, and (2) oxygen therapy should not be started for patients with acute myocardial infarction or stroke and an Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 93% or higher. These guidelines do not apply to all acute medical conditions. For example, higher Sa",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" values of nearly 100% are likely beneficial for patients with carbon monoxide poisoning, cluster headache, sickle cell crisis, or pneumothorax."
+]
+},
+{
+"type":"p",
+"hlId":"86d61a",
+"children":[
+"A nonrebreather mask (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an oxygen delivery method that uses a mask, an oxygen reservoir, and a system of one-way valves that limits the mixing of the oxygen supply with exhaled gases and room air. As a short-term solution for significant hypoxemia, it supplies the highest concentration of oxygen (95%) that can be provided to a spontaneously breathing patient. This patient has no indication for delivery of such high concentrations of oxygen, and this therapy could prove to be detrimental for the patient."
+]
+},
+{
+"type":"p",
+"hlId":"6a6e86",
+"children":[
+"Venturi masks (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") consist of a device that mixes air and oxygen. The flow of oxygen through the device entrains air, which results in a consistent inhaled oxygen concentration. Venturi masks are indicated for patients in whom fixed oxygen concentrations are desired. This patient has no indication for oxygen therapy by any means, including Venturi mask."
+]
+},
+{
+"type":"p",
+"hlId":"0df0a5",
+"children":[
+"The patient has normal oxygen saturation. Oxygen, 3 L/min by nasal cannula (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is not indicated for this patient and may increase mortality if use results in increased Sp",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" above 96%."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_6_1",
+"objective":{
+"__html":"Prevent hyperoxia in a critically ill patient."
+},
+"references":[
+[
+"Siemieniuk RAC, Chu DK, Kim LH, et al. Oxygen therapy for acutely ill medical patients: a clinical practice guideline. BMJ. 2018;363:k4169. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30355567",
+"target":"_blank"
+},
+"children":[
+"PMID: 30355567"
+]
+},
+" doi:10.1136/bmj.k4169"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":3,
+"B":2,
+"C":19,
+"D":76,
+"E":0
+},
+"hlIds":[
+"dabb75",
+"a19b72",
+"3a5636",
+"1ccafd",
+"bc80b5",
+"5f070f",
+"86d61a",
+"6a6e86",
+"0df0a5"
+]
+}

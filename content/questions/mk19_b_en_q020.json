@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_en_q020",
+"number":20,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"13bdc3",
+"children":[
+"A 48-year-old woman is evaluated for a 6-month history of a 9.1-kg (20.1-lb) weight gain and easy bruising. She has newly diagnosed type 2 diabetes mellitus treated with metformin."
+]
+},
+{
+"type":"p",
+"hlId":"3c9727",
+"children":[
+"On physical examination, vital signs are normal. BMI is 38. The patient has central obesity, supraclavicular and dorsocervical fat pads, and wide violaceous striae on her abdomen."
+]
+},
+{
+"type":"p",
+"hlId":"575d31",
+"children":[
+"Laboratory studies show elevated 24-hour urine free cortisol and late-night salivary cortisol levels."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Adrenocorticotropic hormone level measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"8-mg Dexamethasone suppression test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Inferior petrosal sinus sampling"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"468fe2",
+"children":[
+"First-line diagnostic tests for Cushing syndrome include the overnight low-dose dexamethasone suppression test, 24-hour urine free cortisol measurement, and late-night salivary cortisol measurement; two of three tests must be abnormal."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e756df",
+"children":[
+"After the diagnosis of Cushing syndrome has been established, the most appropriate diagnostic test to perform next is adrenocorticotropic hormone measurement to determine whether the patient has adrenocorticotropic hormone-dependent or -independent Cushing syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bcbc18",
+"children":[
+"The most appropriate diagnostic test to perform next is adrenocorticotropic hormone (ACTH) level measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). “Cushing syndrome” is a term used to describe hypercortisolism, regardless of the cause. The initial step in evaluating suspected Cushing syndrome is to seek biochemical evidence of hypercortisolemia. At least two first-line tests must be abnormal to confirm the diagnosis. First-line tests include the overnight low-dose dexamethasone suppression test, 24-hour urine free cortisol measurement, and late-night salivary cortisol measurement. In this patient, the diagnosis of Cushing syndrome has been established given that both the urinary and late-night salivary cortisol levels are abnormal. After confirmation of Cushing syndrome, subsequent steps are to (1) determine if the Cushing syndrome is ACTH independent or dependent, and (2) localize the source of ACTH in ACTH-dependent disease or confirm the presence of adrenal mass (or masses) in ACTH-independent disease. In this patient, the next appropriate step is ACTH measurement to establish whether the patient has ACTH-dependent or -independent Cushing syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"fe59f9",
+"children":[
+"ACTH-independent Cushing syndrome is diagnosed when ACTH is suppressed (<5 pg/mL [1.1 pmol/L]). In this case, adrenal imaging with abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or MRI is indicated. Cortisol-secreting adrenal adenomas and, rarely, carcinomas account for 15% to 20% of endogenous causes of Cushing syndrome. Excess cortisol secretion from these tumors suppresses pituitary ACTH production and is ACTH independent. Demonstration of ACTH-independent Cushing syndrome is required, however, before adrenal CT imaging is ordered, so this step is not appropriate at this time for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"18beee",
+"children":[
+"In patients with ACTH-dependent Cushing syndrome without a pituitary tumor visualized on MRI, an 8-mg dexamethasone suppression test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used to help differentiate Cushing disease (pituitary Cushing syndrome) from an ectopic source of ACTH. A pituitary source of ACTH responds to negative feedback from high-dose dexamethasone, which suppresses plasma cortisol at 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" by more than 50%, whereas an ectopic source of ACTH does not have suppressible cortisol. This test would only be performed in ACTH-dependent disease without a visualized pituitary tumor and thus is not currently indicated in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"178dbb",
+"children":[
+"Inferior petrosal sinus sampling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is often recommended before exploratory pituitary surgery in patients with Cushing disease. In this test, ACTH levels in the petrosal sinus are compared with those in the periphery after administration of corticotropin-releasing hormone to definitively establish the diagnosis of Cushing disease. This test is not currently indicated in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_2_1",
+"objective":{
+"__html":"Diagnose the cause of Cushing syndrome."
+},
+"references":[
+[
+"Loriaux DL. Diagnosis and differential diagnosis of Cushing's syndrome. N Engl J Med. 2017;376:1451-1459. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28402781",
+"target":"_blank"
+},
+"children":[
+"PMID: 28402781"
+]
+},
+" doi:10.1056/NEJMra1505550"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":53,
+"C":37,
+"D":1,
+"E":0
+},
+"hlIds":[
+"13bdc3",
+"3c9727",
+"575d31",
+"ab9d96",
+"468fe2",
+"e756df",
+"bcbc18",
+"fe59f9",
+"18beee",
+"178dbb"
+]
+}

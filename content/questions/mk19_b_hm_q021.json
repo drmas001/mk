@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_hm_q021",
+"number":21,
+"bookId":"hm",
+"correctAnswer":"A",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"76a174",
+"children":[
+"A 68-year-old man is evaluated for a transfusion reaction. He was hospitalized for acute upper gastrointestinal bleeding. While receiving his first unit of packed red blood cells, he developed fever, dyspnea, and flank pain 15 minutes into the transfusion. The transfusion was stopped by the nursing staff. His only medication is omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"f7f64d",
+"children":[
+"On physical examination, temperature is 38.3 °C (100.9 °F), blood pressure is 80/40 mm Hg, pulse rate is 120/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% breathing ambient air. Cardiopulmonary examination reveals clear lungs, normal heart sounds, and low central venous pressure."
+]
+},
+{
+"type":"p",
+"hlId":"7e7a33",
+"children":[
+"Inspection of a collected urine specimen reveals a pink coloration."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute hemolytic transfusion reaction"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Allergic reaction"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transfusion-associated circulatory overload"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transfusion-related acute lung injury"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"61fa28",
+"hvc":true,
+"children":[
+"An acute hemolytic transfusion reaction is suggested by fever, dyspnea, hypotension, flank pain, and pink-colored urine appearing during or shortly after a transfusion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2bc346",
+"hvc":true,
+"children":[
+"Acute hemolytic transfusion reaction is treated with immediate discontinuation of the transfusion, volume expansion, and supportive care."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dc622a",
+"children":[
+"This patient is having an acute hemolytic transfusion reaction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). His symptoms, including fever, dyspnea, hypotension, and flank pain, appeared within 15 minutes of transfusion initiation and are typical for an acute hemolytic reaction. The pink color of the urine suggests the release of free hemoglobin resulting from intravascular hemolysis. An acute hemolytic transfusion reaction is most often caused by an ABO incompatibility, either because the pilot tube used to type and crossmatch the patient was mislabeled or because the unit of blood was administered to the wrong patient. Hemolysis may also be caused by an alloantibody that was too low to be detected in his pretransfusion evaluation, but this is more likely to cause a more gradual delayed hemolytic reaction rather than an acute and life-threatening event. The transfusion must be stopped because the degree of hemolysis and prognosis is proportional to the volume transfused. Volume expansion and supportive care for associated complications are also necessary. An investigation into the cause of the reaction is initiated in each case, including a repeat type and screen and a direct antiglobulin test. Additional laboratory evaluation will support the diagnosis of hemolysis and assess for the presence of disseminated intravascular coagulation."
+]
+},
+{
+"type":"p",
+"hlId":"1370ee",
+"children":[
+"Mild allergic reactions with pruritus and urticaria occur in 1% to 5% of recipients during or after the transfusion of plasma-rich components (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient displays no symptoms of urticaria that would suggest an allergic reaction. Pink urine is not seen in an allergic transfusion reaction."
+]
+},
+{
+"type":"p",
+"hlId":"ea708e",
+"children":[
+"Transfusion-associated circulatory overload (TACO) may be the most common serious complication of blood transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Signs and symptoms include respiratory distress within 6 hours of transfusion, positive fluid balance, elevated central venous pressure, and radiographic findings of pulmonary edema. Transfusion-related acute lung injury (TRALI) is noncardiogenic pulmonary edema that occurs within 6 hours of transfusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Most cases of TRALI occur because of HLA or neutrophil-specific antibodies in multiparous donors that bind to and activate recipient leukocytes in the pulmonary vasculature. This patient's normal cardiopulmonary examination, normal oxygen saturation, and pink urine suggesting intravascular hemolysis make TACO and TRALI unlikely diagnoses."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s8_4_1_1",
+"objective":{
+"__html":"Diagnose an acute hemolytic transfusion reaction."
+},
+"references":[
+[
+"Panch SR, Montemayor-Garcia C, Klein HG. Hemolytic transfusion reactions. N Engl J Med. 2019;381:150-162. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31291517",
+"target":"_blank"
+},
+"children":[
+"PMID: 31291517"
+]
+},
+" doi:10.1056/NEJMra1802338"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":87,
+"B":6,
+"C":4,
+"D":3,
+"E":0
+},
+"hlIds":[
+"76a174",
+"f7f64d",
+"7e7a33",
+"413696",
+"61fa28",
+"2bc346",
+"dc622a",
+"1370ee",
+"ea708e"
+]
+}

@@ -1,0 +1,211 @@
+{
+"id":"mk19_a_np_q026",
+"number":26,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ecfa00",
+"children":[
+"A 43-year-old man is evaluated during a routine follow-up visit for end-stage kidney disease due to IgA nephropathy. He received a living-donor related kidney transplant 5 years ago. He is asymptomatic. Medical history is also significant for hypertension. Medications are prednisone, mycophenolate mofetil, tacrolimus, lisinopril, metoprolol, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"cb6bca",
+"children":[
+"All physical examination findings, including vital signs, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"73f197",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 0.8 mg/dL (70.7 µmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"fasting blood glucose"
+]
+},
+" level of 99 mg/dL (5.5 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f5e940",
+"children":[
+"Which of the following is the most appropriate screening test at this time?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-dose chest CT"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral glucose tolerance test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Skin examination"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5e3a3c",
+"children":[
+"Kidney transplant recipients are at increased risk for multiple types of skin cancer and should undergo annual skin examination."
+]
+},
+{
+"type":"keypoint",
+"hlId":"88186a",
+"children":[
+"Although patients on immunosuppressive medications are at increased risk for various cancers, screening for non-skin cancers should follow guidelines for the general population."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"974797",
+"children":[
+"The most appropriate screening test to perform next is a skin examination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient, who is at increased risk for multiple types of skin cancer, should be referred to a dermatologist or a clinician with special expertise for annual screening; screening frequency is increased for patients who have a history of skin cancer. Kidney transplant recipients are at increased risk for various complications due to their original underlying end-stage kidney disease and the use of chronic immunosuppressive medications, which may be related to risks for altered immune surveillance or idiosyncratic medication side effects. Kidney transplant recipients are at increased risk for several other malignancies, including renal cell carcinoma, colon cancer, lung cancer, thyroid cancer, anogenital cancers, and posttransplant lymphoproliferative disease. These patients are also at increased risk for cardiovascular disease, and those treated with glucocorticoids, calcineurin inhibitors, and mTOR inhibitors are at increased risk for new-onset diabetes after transplant (NODAT)."
+]
+},
+{
+"type":"p",
+"hlId":"11baa5",
+"children":[
+"The U.S. Preventive Services Task Force (USPSTF) recommends screening for colorectal cancer in asymptomatic adults aged 50 to 75 years. The USPSTF supports using the test that is most likely to result in completion of screening. Options include colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), flexible sigmoidoscopy, CT colonography, stool-based testing, and combination of stool-based testing and flexible sigmoidoscopy. This patient should be screened for colon cancer beginning at 50 years of age."
+]
+},
+{
+"type":"p",
+"hlId":"7255ee",
+"children":[
+"A low-dose chest CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") to screen for lung cancer is not indicated. Although patients on immunosuppressive medications are at increased risk for various cancers, screening for non-skin cancers should follow guidelines for the general population. The criteria for screening include those who are aged 55 to 74-80 years (guidelines differ on ages to discontinue screening), have at least a 30-pack-year smoking history, and are current smokers or have quit within the last 15 years."
+]
+},
+{
+"type":"p",
+"hlId":"08e9be",
+"children":[
+"Kidney transplant recipients are at risk for NODAT. Posttransplant fasting glucose and symptoms should be monitored. Fasting glucose is monitored more frequently in the first year after transplant and then annually in the absence of symptoms to suggest hyperglycemia. The diagnosis of NODAT is made based on the same criteria as that for the general population. An oral glucose tolerance test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated for this patient with a normal fasting blood glucose."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_2_3_2",
+"objective":{
+"__html":"Screen for skin cancer in a kidney transplant recipient."
+},
+"references":[
+[
+"Voora S, Adey DB. Management of kidney transplant recipients by general nephrologists: core curriculum 2019. Am J Kidney Dis. 2019;73:866-879. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30981567",
+"target":"_blank"
+},
+"children":[
+"PMID: 30981567"
+]
+},
+" doi:10.1053/j.ajkd.2019.01.031"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":5,
+"C":24,
+"D":65,
+"E":0
+},
+"hlIds":[
+"ecfa00",
+"cb6bca",
+"73f197",
+"f5e940",
+"5e3a3c",
+"88186a",
+"974797",
+"11baa5",
+"7255ee",
+"08e9be"
+]
+}

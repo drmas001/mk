@@ -1,0 +1,240 @@
+{
+"id":"mk19_b_en_q049",
+"number":49,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bd0bf3",
+"children":[
+"A 60-year-old woman is evaluated during a follow-up visit for hypertension, coronary artery disease, obesity, and dyslipidemia. She reports a 5-kg (11.0-lb) weight gain in the past year. Her fasting blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" was 110 mg/dL (6.1 mmol/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level was 6.1% 6 months ago. Current medications are hydrochlorothiazide, lisinopril, carvedilol, low-dose aspirin, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"fa1696",
+"children":[
+"On physical examination, blood pressure is 135/84 mm Hg. BMI is 28. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"2cbad1",
+"children":[
+"Fasting ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" is 114 mg/dL (6.3 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c0acd5",
+"children":[
+"Which of the following is the most appropriate management for this patient's prediabetes?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Glipizide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intensive lifestyle modifications"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metformin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sitagliptin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cf93c7",
+"hvc":true,
+"children":[
+"The development of type 2 diabetes mellitus in individuals at high risk can be delayed or prevented with modifications to lifestyle (diet, exercise), pharmacologic intervention, or metabolic surgery."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f9f2ae",
+"hvc":true,
+"children":[
+"Lifestyle modifications can reduce the incidence of type 2 diabetes mellitus in persons with prediabetes by 58% and is the initial recommended therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0f5d29",
+"children":[
+"This patient has prediabetes, and intensive lifestyle modifications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be implemented to delay or prevent the development of type 2 diabetes mellitus. Prediabetes is defined as a hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" level between 5.7% and 6.4%, fasting glucose between 101 mg/dL (5.6 mmol/L) and 125 mg/dL (6.9 mmol/L), or impaired glucose tolerance test with 2-hour glucose between 140 mg/dL (7.7 mmol/L) and 199 mg/dL (11.0 mmol/L) after a 75-g oral glucose load. This patient had three laboratory test results consistent with prediabetes in the past 6 months. The development of type 2 diabetes in persons at high risk can be delayed or prevented with modifications to lifestyle (diet, exercise), pharmacologic intervention, or metabolic surgery. The initial step in management of prediabetes should be intensive lifestyle management. Lifestyle modifications have been shown to reduce the incidence of type 2 diabetes by 58% in persons with prediabetes. The American Diabetes Association recommends a program for intensive lifestyle behavioral changes that includes at least a 7% weight loss over 6 months and at least 150 minutes per week of moderate-intensity exercise. Patients with prediabetes should be retested yearly to monitor for the development of type 2 diabetes."
+]
+},
+{
+"type":"p",
+"hlId":"e49b55",
+"children":[
+"Although some pharmacologic agents, including α-glucosidase inhibitors, glucagon-like peptide 1 receptor agonists, and thiazolidinediones have been shown to reduce the incidence of diabetes in some trials, none are FDA approved for diabetes prevention. Glipizide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a sulfonylurea, is not indicated as a treatment for diabetes prevention. In addition, glipizide is associated with weight gain."
+]
+},
+{
+"type":"p",
+"hlId":"4dc64f",
+"children":[
+"In contrast, metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has demonstrated efficacy in diabetes risk reduction. In the Diabetes Prevention Program, metformin was not as effective as lifestyle modification but reduced the incidence of diabetes by 31% compared with placebo and by 18% at 10-year follow-up. Metformin may be considered for prevention of type 2 diabetes in patients with prediabetes unresponsive to lifestyle modifications, particularly in patients with BMI greater than 35, age younger than 60 years, or a history of gestational diabetes. If this patient fails to lose weight, metformin would be a reasonable addition."
+]
+},
+{
+"type":"p",
+"hlId":"8eeaf0",
+"children":[
+"Although weight neutral, sitagliptin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a dipeptidyl peptidase-4 inhibitor, is not indicated as a treatment for diabetes prevention."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_3_2_2",
+"objective":{
+"__html":"Treat prediabetes with intensive lifestyle modifications."
+},
+"references":[
+[
+"American Diabetes Association. 3. Prevention or delay of type 2 diabetes: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S34-S39. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298414",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298414"
+]
+},
+" doi:10.2337/dc21-S003"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":80,
+"C":16,
+"D":2,
+"E":0
+},
+"hlIds":[
+"bd0bf3",
+"fa1696",
+"2cbad1",
+"c0acd5",
+"cf93c7",
+"f9f2ae",
+"0f5d29",
+"e49b55",
+"4dc64f",
+"8eeaf0"
+]
+}

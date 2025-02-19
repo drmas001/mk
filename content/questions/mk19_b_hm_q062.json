@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_hm_q062",
+"number":62,
+"bookId":"hm",
+"correctAnswer":"B",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"24c59b",
+"children":[
+"A 68-year-old woman is evaluated in the emergency department for a 2-day history of melena, with shortness of breath and light-headedness that began today. Medical history is significant for atrial fibrillation. Her only medication is warfarin."
+]
+},
+{
+"type":"p",
+"hlId":"f784a1",
+"children":[
+"On physical examination, blood pressure is 82/50 mm Hg, pulse rate is 126/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% breathing ambient air. Hemorrhage of bright red blood per rectum is observed."
+]
+},
+{
+"type":"p",
+"hlId":"2d93bd",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 6.2 g/dL (62 g/L) and INR of 8.2."
+]
+},
+{
+"type":"p",
+"hlId":"654c61",
+"children":[
+"Resuscitation is initiated with intravenous 0.9% saline and erythrocyte transfusions. Intravenous vitamin K is administered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Andexanet alfa"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"4-Factor prothrombin complex concentrate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Idarucizumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Protamine sulfate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3b12dd",
+"children":[
+"In patients taking warfarin who are experiencing life-threatening bleeding, intravenous vitamin K plus 4-factor prothrombin complex concentrate should be used to reverse anticoagulation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"451db7",
+"children":[
+"In patients without bleeding, a supratherapeutic INR between 4.5 and 10 should be managed by withholding warfarin until the INR normalizes; an INR greater than 10 should be managed by withholding warfarin and administering oral vitamin K."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e97896",
+"children":[
+"This patient should also be given 4-factor prothrombin complex concentrate (4f-PCC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). She is taking warfarin, a vitamin K antagonist that inhibits vitamin K reductase, and has clinically significant bleeding and an elevated INR. Warfarin levels are monitored by prothrombin time and INR. Typically, a therapeutic warfarin level has an INR of 2 to 3. Bleeding risk increases as the INR level increases, and risk is also elevated in patients older than 75 years, in patients taking an antiplatelet agent, and in patients with previous stroke or gastrointestinal bleeding. For an INR between 4.5 and 10 in patients without bleeding, warfarin can be withheld without other treatment. In patients with an INR greater than 10 without bleeding, oral vitamin K should be given and warfarin withheld until the INR returns to a therapeutic range. However, patients with life-threatening bleeding, as in this patient, should be given 4f-PCC in addition to intravenous vitamin K. 4F-PCC is the preferred agent for warfarin reversal. If 4f-PCC is not available, then 3-factor PCC or fresh frozen plasma can be used. 4F-PCC is preferred over 3-factor PCC because it contains consistent amounts of factor VII and warfarin reversal is more reliable."
+]
+},
+{
+"type":"p",
+"hlId":"e2c4af",
+"children":[
+"Andexanet alfa, a recombinant modified factor Xa protein, is not indicated for warfarin reversal (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It is approved for reversal of factor Xa inhibitors such as rivaroxaban and apixaban. Alternatively, 4f-PCC can be used for factor Xa inhibitor reversal."
+]
+},
+{
+"type":"p",
+"hlId":"e505b1",
+"children":[
+"Idarucizumab is a humanized monoclonal antibody to dabigatran and is used to reverse dabigatran's anticoagulant effects in the setting of life-threatening bleeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). It is not indicated for warfarin-associated bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"5f2ae2",
+"children":[
+"Protamine sulfate is used to reverse heparin; it would not be appropriate for this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_5_2_1",
+"objective":{
+"__html":"Treat a patient with warfarin toxicity with 4-factor prothrombin complex concentrate."
+},
+"references":[
+[
+"Witt DM, Nieuwlaat R, Clark NP, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: Optimal management of anticoagulation therapy. Blood Adv. 2018;2:3257-3291. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482765",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482765"
+]
+},
+" doi:10.1182/bloodadvances.2018024893"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":87,
+"C":4,
+"D":8,
+"E":0
+},
+"hlIds":[
+"24c59b",
+"f784a1",
+"2d93bd",
+"654c61",
+"78ff87",
+"3b12dd",
+"451db7",
+"e97896",
+"e2c4af",
+"e505b1",
+"5f2ae2"
+]
+}

@@ -1,0 +1,304 @@
+{
+"id":"mk19_qq_q076",
+"number":76,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"60b548",
+"children":[
+"A 36-year-old man is evaluated for a 3-day history of fever, myalgia, and dry cough. He was previously healthy, has never been hospitalized, and has not recently been prescribed antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"aa578c",
+"children":[
+"Temperature is 38.3 °C (100.9 °F); the remainder of the vital signs is normal. Oxygen saturation is normal with the patient breathing ambient air. Lung examination reveals crackles at the left lung base. Result of a COVID-19 test is negative. Chest radiograph shows a left lower lobe infiltrate."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e850b6",
+"children":[
+"Which of the following oral agents is recommended for treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amoxicillin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Amoxicillin-clavulanate plus doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cefuroxime plus clarithromycin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ciprofloxacin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"556c48",
+"children":[
+"In healthy outpatients with community-acquired pneumonia (CAP) and no risk factors for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" and no comorbid conditions that would increase the likelihood of poor outcomes with CAP, the recommended agents include amoxicillin or doxycycline or macrolides (azithromycin or clarithromycin)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"720800",
+"children":[
+"Amoxicillin-clavulanate or cefuroxime is recommended in combination with a macrolide or doxycycline for outpatients with community-acquired pneumonia who have comorbid conditions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51c72f",
+"children":[
+"Amoxicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate treatment for this healthy young patient with a clinical presentation and radiographic findings consistent with community-acquired pneumonia (CAP). In 2019, the American Thoracic Society and the Infectious Diseases Society of America updated their guidelines for the diagnosis and treatment of adults with CAP. In these guidelines, comorbid conditions are identified as alcohol use disorder; cancer; asplenia; diabetes mellitus; and chronic liver, kidney, lung, or heart disease. In addition, risk factors for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" or methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MRSA) include recent hospitalization and use of parenteral antibiotics in the previous 90 days or respiratory isolation of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" or MRSA previously. In healthy outpatients with no risk factors for MRSA or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" and no comorbid conditions that would increase the likelihood of poor outcomes with CAP, the recommended agents include amoxicillin or doxycycline or macrolides (azithromycin or clarithromycin). Of note, macrolides no longer receive a strong recommendation for treatment because of increasing pneumococcal macrolide resistance in the United States."
+]
+},
+{
+"type":"p",
+"hlId":"0fd450",
+"children":[
+"Amoxicillin-clavulanate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or cefuroxime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is recommended in combination with a macrolide or doxycycline for outpatients with CAP who have comorbid conditions. These patients are at higher risk for poor outcomes if the initial regimen is ineffective and are also more likely to be at risk for infection with antibiotic-resistant organisms. Consequently, broader-spectrum coverage is recommended. Although amoxicillin-clavulanate and cefuroxime should treat typical bacterial pathogens such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae,"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Moraxella catarrhalis"
+]
+},
+", neither provides coverage for atypical pathogens, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila"
+]
+},
+" (which are covered by macrolides or doxycycline)."
+]
+},
+{
+"type":"p",
+"hlId":"31e389",
+"children":[
+"Ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has very poor activity against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+" and should never be used as empiric therapy for CAP. A respiratory fluoroquinolone, such as moxifloxacin or levofloxacin, provides appropriate coverage for the likely pathogens associated with CAP but is unnecessarily broad for this indication. A respiratory fluoroquinolone would be appropriate if this patient had risk factors for infection with drug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. pneumoniae"
+]
+},
+"."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_4_2",
+"objective":{
+"__html":"Treat community-acquired pneumonia in an outpatient."
+},
+"references":[
+[
+"Metlay JP, Waterer GW, Long AC, et al. Diagnosis and treatment of adults with community-acquired pneumonia. An official clinical practice guideline of the American Thoracic Society and Infectious Diseases Society of America. Am J Respir Crit Care Med. 2019;200:e45-e67. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31573350",
+"target":"_blank"
+},
+"children":[
+"PMID: 31573350"
+]
+},
+" doi:10.1164/rccm.201908-1581ST"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"60b548",
+"aa578c",
+"e850b6",
+"556c48",
+"720800",
+"51c72f",
+"0fd450",
+"31e389"
+]
+}

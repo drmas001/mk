@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_cv_q103",
+"number":103,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 103",
+"stimulus":[
+{
+"type":"p",
+"hlId":"78822f",
+"children":[
+"A 42-year-old woman is evaluated for an episode of syncope that occurred 2 weeks ago while she was hurrying to catch a bus. She has hypertrophic cardiomyopathy. Before this episode, her symptoms had been very well controlled. She continues to accomplish activities of daily living with only occasional mild dyspnea. She has no family history of sudden cardiac death. Her only medication is metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"e416e1",
+"children":[
+"Twenty-four–hour ambulatory ECG monitoring shows one three-beat run of nonsustained ventricular tachycardia. Echocardiogram shows maximum left ventricular wall thickness of 30 mm, asymmetric septal hypertrophy, and systolic anterior motion of the mitral valve. Resting left ventricular outflow tract gradient is 24 mm Hg, increasing to 36 mm Hg during Valsalva maneuver."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Disopyramide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Implantable cardioverter-defibrillator"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Septal reduction therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Verapamil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"153b2f",
+"children":[
+"An implantable cardioverter-defibrillator is recommended for patients with hypertrophic cardiomyopathy and previous documented cardiac arrest or sustained ventricular tachycardia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fabb1b",
+"children":[
+"In patients with hypertrophic cardiomyopathy (HCM) and risk factors for sudden cardiac death (SCD), such as SCD attributable to HCM in a first-degree or close relative aged 50 years or younger, left ventricular (LV) hypertrophy of 30 mm or greater in any LV segment, syncope suspected to be arrhythmic in nature, LV apical aneurysm, and LV ejection fraction less than 50%, it is reasonable to offer an implantable cardioverter-defibrillator."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6a3b2e",
+"children":[
+"Implantable cardioverter-defibrillator (ICD) therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment. Any unexplained episode of syncope in a patient with hypertrophic cardiomyopathy (HCM) represents a potential arrhythmic event and requires further risk stratification, including echocardiography and ambulatory ECG monitoring for arrhythmia. The 2020 American College of Cardiology/American Heart Association Guideline for the Diagnosis and Treatment of Patients With Hypertrophic Cardiomyopathy recommends ICD placement for patients with HCM and previous documented cardiac arrest or sustained ventricular tachycardia (class 1 recommendation). For adult patients with HCM and one or more major risk factors for sudden cardiac death (SCD), offering an ICD is reasonable (class 2a recommendation). Risk factors include SCD judged definitively or likely attributable to HCM in one or more first-degree or close relatives aged 50 years or younger, left ventricular (LV) hypertrophy of 30 mm or greater in any LV segment, one or more recent episodes of syncope suspected by clinical history to be arrhythmic in nature, LV apical aneurysm, and LV ejection fraction less than 50%. Based on the patient's recent episode of unexplained syncope and LV wall thickness of 30 mm, it is reasonable to refer her for consideration of an ICD to prevent SCD."
+]
+},
+{
+"type":"p",
+"hlId":"c2d752",
+"children":[
+"For patients with HCM and symptoms attributable to LV outflow tract obstruction, nonvasodilating β-blockers are recommended. Such symptoms typically include effort-related dyspnea or chest pain. If β-blockers are ineffective or not tolerated, a nondihydropyridine calcium channel blocker (verapamil or diltiazem) may be substituted. If symptoms persist despite β-blocker or nondihydropyridine calcium channel blocker therapy, adding disopyramide in combination with one of the other drugs or treatment with septal reduction therapy (SRT) is recommended. This patient's obstructive symptoms generally have been well managed on metoprolol, and her outflow tract gradient on echocardiography does not indicate severe LV outflow tract obstruction; thus, changing this patient's medications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, D"
+]
+},
+") is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"e7d57c",
+"children":[
+"A peak LV outflow tract gradient (resting or provoked) of 50 mm Hg or greater is generally considered the threshold for SRT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with drug-refractory symptoms. Referring this patient for SRT is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7_1_3",
+"objective":{
+"__html":"Prevent sudden cardiac death in a patient with hypertrophic cardiomyopathy."
+},
+"references":[
+[
+"Ommen SR, Mital S, Burke MA, et al. 2020 AHA/ACC guideline for the diagnosis and treatment of patients with hypertrophic cardiomyopathy: executive summary: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2020;142:e533-e557. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33215938",
+"target":"_blank"
+},
+"children":[
+"PMID: 33215938"
+]
+},
+" doi:10.1161/CIR.0000000000000938"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":43,
+"C":40,
+"D":8,
+"E":0
+},
+"hlIds":[
+"78822f",
+"e416e1",
+"1054f1",
+"153b2f",
+"fabb1b",
+"6a3b2e",
+"c2d752",
+"e7d57c"
+]
+}

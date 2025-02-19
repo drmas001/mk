@@ -1,0 +1,204 @@
+{
+"id":"mk19_a_nr_q072",
+"number":72,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"154546",
+"children":[
+"A 57-year-old woman is evaluated in the emergency department for a 70-minute history of right-sided weakness involving the face, arm, and leg. She has had no surgeries or recent gastrointestinal or genitourinary bleeding. Medical history is significant for hypertension and type 2 diabetes mellitus. Medications are metformin and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"08bc55",
+"children":[
+"On physical examination, blood pressure is 192/122 mm Hg; the remaining vital signs are normal. She has right facial weakness, dysarthria, and right arm and leg weakness with a downward drift, with the leg not touching the examination table."
+]
+},
+{
+"type":"p",
+"hlId":"78c61a",
+"children":[
+"ECG is normal. CT of the head shows no sign of hemorrhage or early infarcts."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78e525",
+"children":[
+"Which of the following is the most appropriate initial intravenous treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abciximab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Alteplase"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Labetalol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nitroprusside"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b89d3a",
+"children":[
+"For patients with mild but disabling stroke symptoms, intravenous alteplase is indicated within 3 hours from symptom onset of symptoms and up to 4.5 hours in select patients who meet treatment criteria."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1277d7",
+"children":[
+"Intravenous alteplase is recommended in patients with ischemic stroke whose blood pressure can be lowered safely to less than 185/110 mm Hg with antihypertensive agents."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3691dd",
+"children":[
+"The most appropriate treatment for this patient is intravenous labetalol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient has sudden-onset disabling focal neurologic symptoms without evidence of hemorrhage on imaging, with the most likely diagnosis being ischemic stroke. For patients with mild but disabling stroke symptoms, intravenous alteplase is indicated within 3 hours from symptom onset and up to 4.5 hours in select patients who meet treatment criteria. Because her blood pressure is above the recommended target of less than 185/110 mm Hg, she is ineligible for intravenous thrombolysis. Intravenous medications such as labetalol or nicardipine are therefore indicated to achieve that blood pressure target. Once this target blood pressure is achieved, intravenous alteplase can be administered. Blood pressure should be maintained at less than 180/105 mm Hg following alteplase administration."
+]
+},
+{
+"type":"p",
+"hlId":"83feaa",
+"children":[
+"Abciximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an intravenous glycoprotein IIb/IIIa receptor inhibitor that interferes with binding of fibrinogen on the platelet surface and subsequent platelet aggregation. A systematic review of glycoprotein IIb/IIIa receptor antagonists in the treatment of acute ischemic stroke found that these agents are associated with a significant risk for intracranial hemorrhage without a measurable improvement in death or disability. Most of the data were related to the use of abciximab. These agents are not recommended in the treatment of acute ischemic stroke."
+]
+},
+{
+"type":"p",
+"hlId":"d7dbbb",
+"children":[
+"The main complication of alteplase treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is symptomatic intracerebral hemorrhage (ICH), which occurs in up to 6% of treated patients, and mortality can be as high as 50% when present. Hypertension is a primary risk factor for hemorrhage, and therefore, blood pressure should be less than 185/110 mm Hg before treatment; this patient's blood pressure exceeds this goal. Treatment with alteplase without achieving the blood pressure target with pharmacologic intervention is associated with a higher risk of hemorrhagic complications."
+]
+},
+{
+"type":"p",
+"hlId":"b9458c",
+"children":[
+"Intravenous nitroprusside (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a vasodilator that can rapidly reduce blood pressure. The vasodilating effects of nitroprusside can increase intracranial pressure and should therefore be avoided in patients with preexisting increased intracranial pressure or with ischemic or hemorrhagic stroke."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_1_1",
+"objective":{
+"__html":"Treat blood pressure in a patient with ischemic stroke prior to thrombolytic therapy."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":30,
+"C":60,
+"D":11,
+"E":0
+},
+"hlIds":[
+"91054a",
+"154546",
+"08bc55",
+"78c61a",
+"78e525",
+"b89d3a",
+"1277d7",
+"3691dd",
+"83feaa",
+"d7dbbb",
+"b9458c"
+]
+}

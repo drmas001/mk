@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q028",
+"number":28,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 28",
+"stimulus":[
+{
+"type":"p",
+"hlId":"71b387",
+"children":[
+"A 74-year-old man is evaluated for a 6-month history of progressive bilateral calf pain. The discomfort is worse with walking and improves quickly with rest. Medical history is significant for hypertension and hyperlipidemia. He has a 50-pack-year history of smoking but quit 5 years ago. Medications are rosuvastatin, quinapril, and metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"4c6006",
+"children":[
+"On physical examination, vital signs are normal. A right femoral bruit is noted. Bilateral femoral pulses and pedal pulses are faint. Motor and sensory examinations are normal; reflexes are normal."
+]
+},
+{
+"type":"p",
+"hlId":"c86d58",
+"children":[
+"The ankle-brachial index is 0.92 on the right and 0.94 on the left."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Exercise ankle-brachial index testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Invasive angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Segmental lower extremity blood pressure testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"90c432",
+"children":[
+"Between 19% and 31% of patients with typical claudication symptoms have a normal or borderline ankle-brachial index."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4e9138",
+"children":[
+"Exercise ankle-brachial index (ABI) testing is useful to evaluate for peripheral artery disease in patients with normal ABI values (>0.90 and ≤1.40) and high pretest probability."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"03e1cb",
+"children":[
+"The most appropriate next step is exercise ankle-brachial index (ABI) testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has limb symptoms consistent with peripheral artery disease (PAD). Generally, patients with claudication have an ABI of 0.40 to 0.90, whereas patients with ischemic rest pain, ulceration, or gangrene have an ABI less than 0.40. A resting ABI greater than 1.40 indicates the presence of noncompressible, calcified arteries in the lower extremities and is considered uninterpretable. Between 19% and 31% of patients with typical claudication symptoms have a normal or borderline ABI. Because this patient with classic claudication symptoms and faint pulses has a nondiagnostic ABI, further testing is indicated. Exercise ABI testing is useful in patients with ABI values between 0.91 and 1.40 and high pretest probability of PAD. It requires ABI measurements at rest and after treadmill walking or plantar flexion exercises. A post-exercise ankle pressure drop of 30 mm Hg or more or significant decline in the ABI suggests PAD."
+]
+},
+{
+"type":"p",
+"hlId":"c95f11",
+"children":[
+"Invasive angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is often reserved for patients with an indication for revascularization, usually either intermittent claudication or chronic limb-threatening ischemia. Likewise, noninvasive anatomic imaging studies, including arterial duplex ultrasonography, CT angiography, and magnetic resonance angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are used to plan for endovascular or surgical revascularization. This patient with typical limb symptoms, normal resting ABI values, and no contraindication to exercise should undergo noninvasive physiologic testing, such as exercise ABI, to confirm the diagnosis of PAD before anatomic assessment is considered."
+]
+},
+{
+"type":"p",
+"hlId":"1af2bd",
+"children":[
+"Segmental blood pressure measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of the lower extremities are typically performed in patients with abnormal resting ABI values to localize diseased vessels or segments. This procedure involves pulse volume recordings (measurement of the magnitude and contour of blood pulse volume in the lower extremities) and blood pressure measurements at several locations in the lower extremities. In this patient, the resting ABI was normal; thus, the indication for segmental blood pressure measurement is unclear."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_3_2",
+"objective":{
+"__html":"Diagnose peripheral artery disease in a patient with normal ankle-brachial index values."
+},
+"references":[
+[
+"Mehta A, Sperling LS, Wells BJ. Postexercise ankle-brachial index testing. JAMA. 2020;324:796-7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32777001",
+"target":"_blank"
+},
+"children":[
+"PMID: 32777001"
+]
+},
+" doi:10.1001/jama.2020.10164"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":59,
+"B":22,
+"C":10,
+"D":8,
+"E":0
+},
+"hlIds":[
+"71b387",
+"4c6006",
+"c86d58",
+"983777",
+"90c432",
+"4e9138",
+"03e1cb",
+"c95f11",
+"1af2bd"
+]
+}

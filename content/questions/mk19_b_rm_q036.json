@@ -1,0 +1,202 @@
+{
+"id":"mk19_b_rm_q036",
+"number":36,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ec03ca",
+"children":[
+"A 58-year-old man is evaluated at a follow-up visit. He has had rheumatoid arthritis for 5 years. Increasing morning stiffness, fatigue, increasing joint pain, and swelling of small hand joints have developed in the past 6 months. His disease activity score shows moderate activity. He also has coronary artery disease, COPD, and a history of diverticulitis. Current medications are aspirin, lisinopril, metoprolol, a tiotropium inhaler, methotrexate, and sulfasalazine."
+]
+},
+{
+"type":"p",
+"hlId":"bafcf5",
+"children":[
+"On physical examination, blood pressure is 136/84 mm Hg. BMI is 29. Multiple metacarpophalangeal joints are tender to palpation, and there is active synovitis."
+]
+},
+{
+"type":"p",
+"hlId":"15ff4c",
+"children":[
+"Result of an interferon-gamma release assay is negative."
+]
+},
+{
+"type":"p",
+"hlId":"50c1de",
+"children":[
+"Hand radiographs show joint-space narrowing and three new erosions."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abatacept"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Adalimumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Anakinra"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tocilizumab"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Tofacitinib"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"263562",
+"children":[
+"Patients with rheumatoid arthritis not responding to methotrexate, with or without another nonbiologic disease-modifying antirheumatic drug, could receive triple therapy (methotrexate, sulfasalazine, and hydroxychloroquine) or a biologic agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"983b4b",
+"children":[
+"The most appropriate treatment is adalimumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Rheumatoid arthritis treatment is aimed at controlling clinical disease and joint damage. Patients whose condition is unresponsive to initial treatment with methotrexate, with or without another nonbiologic disease-modifying antirheumatic drug, could receive triple therapy (methotrexate, sulfasalazine, and hydroxychloroquine) or a biologic agent. The choice of a drug regimen in such patients depends on many factors, including disease activity, comorbid conditions, patient preferences for route of administration and frequency of dosing, adverse prognostic features, and regulatory and cost barriers to drug access. This patient has active clinical disease and radiographic evidence of worsening joint damage despite combination treatment with sulfasalazine and methotrexate. Escalation to additional therapy with a tumor necrosis factor (TNF) inhibitor, such as adalimumab, is an appropriate choice. Despite multiple comorbidities, this patient has no contraindications to treatment with a biologic (such as active infection or heart failure). All TNF inhibitors provide similar benefit and may be used in this patient based on the factors outlined above. These regimens may have a faster onset of action than triple therapy with nonbiologic disease-modifying antirheumatic drugs."
+]
+},
+{
+"type":"p",
+"hlId":"102b38",
+"children":[
+"Reasonable alternatives to a TNF inhibitor include several other parenterally administered agents, including abatacept (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), the anti–interleukin-6 receptor antibody tocilizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), and the oral targeted synthetic Janus kinase inhibitor tofacitinib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). However, these agents are usually used after failure or intolerance of a TNF inhibitor. Furthermore, this patient has significant comorbidities that should prompt caution with consideration of these therapies. Abatacept has been associated with exacerbations of COPD in clinical trials but not in real-world practice. However, it must be given cautiously in patients with COPD. Tocilizumab increases the risk for bowel perforation in patients with a history of diverticulitis, and tofacitinib poses an increased risk for thrombotic events."
+]
+},
+{
+"type":"p",
+"hlId":"068e60",
+"children":[
+"Anakinra (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an interleukin-1 blocker approved for rheumatoid arthritis, but it is less efficacious than other biologics and rarely used for this indication."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s2_4_2",
+"objective":{
+"__html":"Treat rheumatoid arthritis with the most appropriate biologic therapy."
+},
+"references":[
+[
+"Smolen JS, Landewé RBM, Bijlsma JWJ, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2019 update. Ann Rheum Dis. 2020;79:685-699. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31969328",
+"target":"_blank"
+},
+"children":[
+"PMID: 31969328"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":55,
+"C":9,
+"D":14,
+"E":6
+},
+"hlIds":[
+"ec03ca",
+"bafcf5",
+"15ff4c",
+"50c1de",
+"1054f1",
+"263562",
+"983b4b",
+"102b38",
+"068e60"
+]
+}

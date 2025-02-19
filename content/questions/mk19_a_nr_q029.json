@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q029",
+"number":29,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f9a5ec",
+"children":[
+"A 55-year-old man with relapsing-remitting multiple sclerosis is evaluated for a slow, labored gait that began after a relapse 1 year ago. The symptom has not worsened during this time, but he reports that it interferes with his ability to keep up with the physical demands of his job. His only medication is dimethyl fumarate."
+]
+},
+{
+"type":"p",
+"hlId":"11409c",
+"children":[
+"Physical examination reveals increased tone in the left leg. Muscle strength is 4/5 with hip flexion and ankle dorsiflexion. Gait is slow, and there is a slight outward swing of the left leg when ambulating. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f44d3e",
+"children":[
+"Which of the following interventions is most likely to improve this patient's ambulation?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate dalfampridine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate modafinil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate tizanidine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to natalizumab"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Switch to ocrelizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a530d8",
+"children":[
+"In patients with multiple sclerosis with ambulatory dysfunction, dalfampridine can improve gait speed and endurance."
+]
+},
+{
+"type":"keypoint",
+"hlId":"74c1ba",
+"children":[
+"The benefit of disease-modifying therapies is reducing risk for future relapses, MRI activity or disability progression, not symptomatic improvement of existing disability."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3f2147",
+"children":[
+"The intervention most likely to improve this patient's ambulatory function is dalfampridine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Maintenance of mobility in MS patients is essential to maintaining quality of life. An active healthy lifestyle is necessary to help stave off future disability. Physical and occupational therapy can provide gait safety training and improve balance and endurance. Assistive devices, such as braces, canes, walkers, and electrostimulatory walk-assist devices, can provide additional benefit. This patient's left leg findings are consistent with injury to the corticospinal tract from a prior relapse. Dalfampridine, an oral voltage-gated potassium channel antagonist, can improve gait speed and endurance in patients with relapsing-remitting multiple sclerosis (MS) with ambulatory dysfunction. Dalfampridine cannot induce healing or remyelination. However, this medication likely improves neuronal conduction, allowing signals to be processed through the corticospinal tract more efficiently and thus leading to improvements in gait in those with injury to this tract. Dalfampridine has a rare risk of seizures and should not be used in patients with known epilepsy or with kidney impairment."
+]
+},
+{
+"type":"p",
+"hlId":"78703f",
+"children":[
+"Initiation of modafinil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be an appropriate intervention at this time. This medication has potential benefit for those with fatigue related to MS, but it has no demonstrated efficacy for improvement in gait."
+]
+},
+{
+"type":"p",
+"hlId":"e4a639",
+"children":[
+"MS spasticity is due to corticospinal tract damage, resulting in increased muscle tone, painful muscle cramps, spasms, and contractures. The use of muscle relaxants, such as tizanidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), baclofen, cyclobenzaprine, and the benzodiazepines, may be helpful. However, this patient is not reporting painful muscle spasms or cramps, and these drugs are not proven to improve gait function."
+]
+},
+{
+"type":"p",
+"hlId":"780ab0",
+"children":[
+"Altering the patient's disease-modifying therapy, such as switching to natalizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or ocrelizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), would not be appropriate in this setting. Although these disease-modifying therapies have high efficacy, none have demonstrated benefit for symptomatic improvement for long-standing neurologic deficits. The benefit of these disease-modifying therapies is in prevention—reducing risk for future relapses, MRI activity, or disability progression. Altering this patient's disease-modifying therapy would thus not help improve his gait, which has been affected for 1 year."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_3_4",
+"objective":{
+"__html":"Treat gait dysfunction in multiple sclerosis."
+},
+"references":[
+[
+"Shi J, Wu X, Chen Y. Study on dalfampridine in the treatment of multiple sclerosis mobility disability: a meta-analysis. PLoS One. 2019;14(9):e0222288. Published 2019 Sep 12. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31513613",
+"target":"_blank"
+},
+"children":[
+"PMID: 31513613"
+]
+},
+" doi:10.1371/journal.pone.0222288"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":30,
+"B":8,
+"C":27,
+"D":22,
+"E":13
+},
+"hlIds":[
+"f9a5ec",
+"11409c",
+"f44d3e",
+"a530d8",
+"74c1ba",
+"3f2147",
+"78703f",
+"e4a639",
+"780ab0"
+]
+}

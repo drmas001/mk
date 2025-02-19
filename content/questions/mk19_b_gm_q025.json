@@ -1,0 +1,205 @@
+{
+"id":"mk19_b_gm_q025",
+"number":25,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"26010d",
+"children":[
+"A 23-year-old woman is evaluated for a 1-week history of vaginal discharge and odor. The patient is sexually active with men, and her last sexual encounter was 2 weeks ago. She takes an oral contraceptive pill for contraception. Her last menstrual period was 3 weeks ago. Medical history is otherwise unremarkable, and she takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"0dd591",
+"children":[
+"The external genitalia examination is normal. Pelvic examination shows a thin, gray homogenous discharge with a mild odor. The cervix is normal appearing, without discharge. Bimanual examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"0b1526",
+"children":[
+"Vaginal pH is 5.0. Wet mount shows 30% clue cells. There are no hyphae on a potassium hydroxide preparation. Whiff test result is positive. A pregnancy test result is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Nucleic acid amplification test for bacterial vaginosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral fluconazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral metronidazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"80659c",
+"children":[
+"Diagnosis of bacterial vaginosis is based on the presence of at least three of the four Amsel criteria: vaginal pH greater than 4.5; thin, homogeneous vaginal discharge; a positive amine (whiff) test result in which application of 10% potassium hydroxide to vaginal secretions results in a fishy odor; and at least 20% clue cells on saline wet mount."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2b866e",
+"children":[
+"Recommended treatment of bacterial vaginosis includes metronidazole (oral or vaginal gel) or clindamycin (vaginal cream)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3854c2",
+"children":[
+"The most appropriate management is oral metronidazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for bacterial vaginosis. Bacterial vaginosis is the most common cause of vaginitis. It results from the loss of the normal hydrogen peroxide–producing lactobacilli in the vagina, with an increase in the vaginal pH that contributes to an overgrowth of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Gardnerella vaginalis"
+]
+},
+" and other anaerobes. Anaerobic overgrowth results in the production of amines, causing the characteristically malodorous discharge. Diagnosis of bacterial vaginosis is based on the Amsel criteria, which requires presence of three of the following four criteria: vaginal pH greater than 4.5; thin, homogeneous vaginal discharge; a positive amine (whiff) test result in which application of 10% potassium hydroxide (KOH) to vaginal secretions results in a fishy odor; and at least 20% clue cells on saline wet mount. This patient meets all four Amsel criteria and can begin treatment for bacterial vaginosis. Recommended treatment of bacterial vaginosis includes metronidazole (oral or vaginal gel) or clindamycin (vaginal cream). Suggested alternative regimens include clindamycin (oral), secnidazole (oral), and tinidazole (oral)."
+]
+},
+{
+"type":"p",
+"hlId":"d84e46",
+"children":[
+"Although a nucleic acid amplification test (NAAT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can confirm the diagnosis of bacterial vaginosis, it is not required to make the diagnosis when the Amsel criteria are satisfied. Although NAAT and rapid antigen tests can be helpful in clinical settings in which there is no access to microscopy, such testing is not necessary in this situation."
+]
+},
+{
+"type":"p",
+"hlId":"43b55a",
+"children":[
+"Oral azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the appropriate treatment for chlamydia. However, results of this patient's examination do not suggest cervicitis; her cervix was normal appearing, and no purulence was noted at the os."
+]
+},
+{
+"type":"p",
+"hlId":"41c32b",
+"children":[
+"Oral fluconazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an appropriate treatment for vaginal candidiasis but not for bacterial vaginosis. Patients with vaginal yeast infections typically present with itching and a thick white discharge. The diagnosis is confirmed when KOH wet mount of the discharge demonstrates yeast, hyphae, and pseudohyphae."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s7_7_1",
+"objective":{
+"__html":"Treat bacterial vaginosis."
+},
+"references":[
+[
+"Workowski KA, Bachmann LH, Chan PA, et al. Sexually transmitted infections treatment guidelines, 2021. MMWR Recomm Rep. 2021;70:1-187. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34292926",
+"target":"_blank"
+},
+"children":[
+"PMID: 34292926"
+]
+},
+" doi:10.15585/mmwr.rr7004a1"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":3,
+"C":2,
+"D":88,
+"E":0
+},
+"hlIds":[
+"26010d",
+"0dd591",
+"0b1526",
+"cb2b54",
+"80659c",
+"2b866e",
+"3854c2",
+"d84e46",
+"43b55a",
+"41c32b"
+]
+}

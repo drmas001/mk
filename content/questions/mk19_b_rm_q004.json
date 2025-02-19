@@ -1,0 +1,465 @@
+{
+"id":"mk19_b_rm_q004",
+"number":4,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2ff620",
+"children":[
+"A 67-year-old woman is evaluated in the hospital for malaise, fatigue, arthralgia, and rash of 8 weeks' duration; dry cough and sinus congestion of 6 weeks' duration; and painless eye redness and dyspnea that began several days ago."
+]
+},
+{
+"type":"p",
+"hlId":"d40363",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F), blood pressure is 122/76 mm Hg, pulse rate is 104/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 92% with the patient breathing ambient air. Bilateral, localized ocular injection is seen. Scattered rhonchi are heard on lung auscultation, and petechiae and purpura are visible on the legs."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"82aa14",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"162b67",
+"class":"cell text l",
+"children":[
+"87 mm/h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c5718b",
+"class":"cell text l",
+"children":[
+"2.1 mg/dL (185.6 µmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8340e6",
+"class":"cell text l",
+"children":[
+"ANCA"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2d13df",
+"class":"cell text l",
+"children":[
+"Pending"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"90214b",
+"class":"cell text l",
+"children":[
+"3+ blood; 2+ protein; 20-30 dysmorphic erythrocytes/hpf; 5-10 leukocytes/hpf; erythrocyte casts"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"0f61f8",
+"children":[
+"Chest CT scan is ",
+{
+"type":"figure-link",
+"target":"mk19_b_rm_mcq_f004",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_rm_mcq_f004"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Kidney biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Sinus biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Skin biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thoracoscopic lung biopsy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e8bbea",
+"children":[
+"It is important to confirm a diagnosis of granulomatosis with polyangiitis by using tissue pathology before beginning treatment, given the many risks that accompany intensive immunosuppression."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f570f4",
+"children":[
+"Standard therapy for granulomatosis with polyangiitis includes high-dose glucocorticoids plus rituximab (preferred) or cyclophosphamide."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6492a6",
+"children":[
+"The most appropriate diagnostic test to perform next is kidney biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's presentation is highly suspicious for granulomatosis with polyangiitis (GPA). The disease course began with nonspecific symptoms but progressed to involve the upper and lower airways, eyes, skin, and kidneys. The skin rash, glomerulonephritis, and nodular lung disease are consistent with a vasculitic process. In GPA with kidney involvement, kidney biopsy is expected to show pathognomonic findings of pauci-immune crescentic necrotizing glomerulonephritis. Whenever possible, it is important to confirm a diagnosis of GPA with tissue pathology before beginning treatment, given the many risks that accompany intensive immunosuppression; prognostic data can help guide therapy as well. Guideline-directed initial therapy for active, severe GPA is either intravenous pulse glucocorticoids or high-dose oral glucocorticoids plus rituximab (preferred) or cyclophosphamide. If the diagnosis is clear and urgent treatment is necessary, however, biopsy may be bypassed (in this case, for example, if the ANCA panel were positive and the patient were more acutely ill)."
+]
+},
+{
+"type":"p",
+"hlId":"a5bab0",
+"children":[
+"Sinus biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), although less invasive than kidney or lung biopsy, has poor sensitivity and therefore should not be performed unless the diagnosis is in question and no other tissue is available."
+]
+},
+{
+"type":"p",
+"hlId":"e49cb5",
+"children":[
+"Although skin biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should show abnormalities consistent with a small-vessel vasculitis, the findings would be nonspecific."
+]
+},
+{
+"type":"p",
+"hlId":"41b587",
+"children":[
+"Thoracoscopic lung biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") might show vasculitic changes consistent with GPA, but this procedure has greater morbidity than kidney biopsy, particularly in a patient with tenuous respiratory status. Transbronchial biopsy is more benign than open lung biopsy but is generally not performed, given its low sensitivity (about 10%)."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s14_4_1_1_2",
+"objective":{
+"__html":"Diagnose granulomatosis with polyangiitis."
+},
+"references":[
+[
+"Geetha D, Jefferson JA. ANCA-associated vasculitis: core curriculum 2020. Am J Kidney Dis. 2020;75:124-137. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31358311",
+"target":"_blank"
+},
+"children":[
+"PMID: 31358311"
+]
+},
+" doi:10.1053/j.ajkd.2019.04.031"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":57,
+"B":15,
+"C":21,
+"D":7,
+"E":0
+},
+"figuresContent":{
+"mk19_b_rm_mcq_f004":{
+"id":"mk19_b_rm_mcq_f004",
+"number":4,
+"bookId":"rm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"46904206aea84ef8220515f8a643661e",
+"height":236,
+"width":325,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"2ff620",
+"d40363",
+"a462a3",
+"82aa14",
+"162b67",
+"f461b2",
+"c5718b",
+"8340e6",
+"2d13df",
+"747c2a",
+"90214b",
+"0f61f8",
+"ab9d96",
+"e8bbea",
+"f570f4",
+"6492a6",
+"a5bab0",
+"e49cb5",
+"41b587"
+]
+}

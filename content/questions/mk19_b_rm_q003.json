@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_rm_q003",
+"number":3,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3f1e64",
+"children":[
+"A 50-year-old woman is evaluated for a 6-month history of pain and swelling in the hands, knees, and feet. She reports 1 hour of joint stiffness in the morning."
+]
+},
+{
+"type":"p",
+"hlId":"96fb38",
+"children":[
+"On physical examination, vital signs are normal. The thumb and second and third fingers on the right hand are diffusely swollen, with tenderness and swelling at the metacarpophalangeal and proximal and distal interphalangeal joints. There are similar findings on the thumb and second finger on the left hand. Several of the affected proximal interphalangeal joints have a slight purple discoloration. There is a right knee effusion. The second and fourth toes on the right foot are diffusely swollen, as are the first and third toes on the left foot. Two small psoriatic plaques—one in the umbilicus and one on the scalp—are noted."
+]
+},
+{
+"type":"p",
+"hlId":"94a8e0",
+"children":[
+"Laboratory evaluation reveals a negative rheumatoid factor result."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Osteoarthritis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Psoriatic arthritis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Seronegative rheumatoid arthritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Systemic lupus erythematosus"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"37fa36",
+"children":[
+"Five clinical subtypes of psoriatic arthritis, which may overlap, are recognized: symmetric polyarthritis, asymmetric oligoarthritis, distal interphalangeal–predominant disease, spondyloarthritis, and arthritis mutilans."
+]
+},
+{
+"type":"keypoint",
+"hlId":"90e2ce",
+"children":[
+"Enthesitis, tenosynovitis, and dactylitis often occur in psoriatic arthritis; dactylitis is found in 40% to 50% of patients and should always prompt consideration of a spondyloarthropathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"58b9c4",
+"children":[
+"The most likely diagnosis is psoriatic arthritis (PsA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Five clinical subtypes of psoriatic arthritis, which often overlap, are recognized: symmetric polyarthritis, asymmetric oligoarthritis, distal interphalangeal–predominant disease, spondyloarthritis, and arthritis mutilans. Enthesitis, tenosynovitis, and dactylitis often occur. Dactylitis is found in 40% to 50% of patients with PsA and should always prompt consideration of a spondyloarthropathy. This patient has a classic distribution for PsA. The distal interphalangeal joints and an entire digit are involved (i.e., dactylitis), with sparing of other digits. This patient has evidence of limited psoriasis, but the extent of psoriatic skin involvement may not correlate with the extent of arthritis. In patients with PsA, affected peripheral joints sometimes take on a purplish discoloration due to hypervascularity. The Classification Criteria for Psoriatic Arthritis (CASPAR) include evidence of psoriasis (current, past, and family history in first- or second-degree relatives), nail dystrophy, dactylitis (current or past), radiographic findings showing new bone formation, and a negative rheumatoid factor result. Each of these is assigned 1 point except for current psoriasis, which is assigned 2 points. These criteria are 91% sensitive and 98% specific for the diagnosis of PsA if 3 or more points are present. This patient's score is greater than 3."
+]
+},
+{
+"type":"p",
+"hlId":"0c14b2",
+"children":[
+"This patient's symptoms are inflammatory, making osteoarthritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") unlikely despite involvement of the distal interphalangeal joints. In addition, osteoarthritis does not cause dactylitis."
+]
+},
+{
+"type":"p",
+"hlId":"c9c3d6",
+"children":[
+"Rheumatoid arthritis can be seronegative (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in 15% to 20% of patients classified as having the disease, but rheumatoid arthritis is typically a symmetric arthritis and does not affect all of the joints in an entire digit, including the distal interphalangeal joint, as seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"997854",
+"children":[
+"Joints are affected in 90% of patients with systemic lupus erythematosus (SLE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The most common involvement is polyarthralgia, with frank arthritis occurring in 40%. Typical distribution involves the small peripheral joints. Dactylitis is not seen in SLE. Most patients with SLE and arthritis also have characteristic mucocutaneous findings, including malar rash, discoid rash, and alopecia. This patient's presentation is not compatible with SLE."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s6_3_2",
+"objective":{
+"__html":"Diagnose psoriatic arthritis."
+},
+"references":[
+[
+"Ritchlin CT, Colbert RA, Gladman DD. Psoriatic arthritis. N Engl J Med. 2017;376:957-970. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28273019",
+"target":"_blank"
+},
+"children":[
+"PMID: 28273019"
+]
+},
+" doi:10.1056/NEJMra1505557"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":86,
+"C":11,
+"D":3,
+"E":0
+},
+"hlIds":[
+"3f1e64",
+"96fb38",
+"94a8e0",
+"413696",
+"37fa36",
+"90e2ce",
+"58b9c4",
+"0c14b2",
+"c9c3d6",
+"997854"
+]
+}

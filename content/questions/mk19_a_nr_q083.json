@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q083",
+"number":83,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1b7536",
+"children":[
+"A 75-year-old man is evaluated for progressive cognitive impairment over the past year that has led to loss of daily function. He loses his train of thought and misplaces items at home. His gait has slowed, and his behavior has changed. He has hypertension, hyperlipidemia, type 2 diabetes mellitus, and coronary artery disease. Current medications are lisinopril, carvedilol, atorvastatin, metformin, canagliflozin, and aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"d00c24",
+"children":[
+"On physical examination, blood pressure is 153/85 mm Hg and pulse rate is 65/min. Deep tendon reflexes are normal; gait is slowed. No hypomimia, hypophonia, tremor, rigidity, or shuffling gait is observed. He demonstrates slowed processing speed when generating word lists."
+]
+},
+{
+"type":"p",
+"hlId":"5d6fb0",
+"children":[
+"MRI of the brain shows diffuse, confluent white matter hyperintensities and no significant hippocampal atrophy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alzheimer disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dementia with Lewy bodies"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Frontotemporal dementia, behavioral-variant type"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vascular cognitive impairment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c2e9f",
+"children":[
+"Two major signs of vascular cognitive impairment are early gait impairment and personality or mood changes."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6c83e6",
+"children":[
+"The diagnosis of vascular dementia is based on the lack of hippocampal atrophy and presence of confluent white matter hyperintensities on MRI of the brain."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"74c2de",
+"children":[
+"The most likely diagnosis is vascular cognitive impairment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Vascular cognitive impairment is associated with systemic vascular risk factors and a history of stroke (either clinically diagnosed or based on neuroimaging evidence). Two major signs of vascular cognitive impairment are early gait impairment and personality or mood changes. The cognitive profile of vascular cognitive impairment most characteristically shows slowed processing speed out of proportion to deficits in other domains of cognition. The diagnosis of vascular dementia is based on the lack of hippocampal atrophy and presence of confluent white matter hyperintensities on MRI of the brain."
+]
+},
+{
+"type":"p",
+"hlId":"43800f",
+"children":[
+"The typical presentation of Alzheimer disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is that of an insidious worsening of memory, language, and visuospatial abilities. Manifestations include forgetfulness, word-finding difficulties, hesitation in speech, and visuospatial dysfunction (navigation problems). The inability to copy line drawings also suggests visuospatial dysfunction. MRI will show evidence of decreased volume of the hippocampi out of proportion to rest of the brain."
+]
+},
+{
+"type":"p",
+"hlId":"d2f758",
+"children":[
+"The clinical diagnosis of dementia with Lewy bodies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") rests on the key features of dementia, parkinsonian motor features, visual hallucinations, rapid eye movement sleep behavior disorder, and frequent fluctuations in attention, which may manifest as acute confusional episodes. Reduced dopamine transporter uptake in the basal ganglia on a single photon emission CT or PET scan is supportive of the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"58e89d",
+"children":[
+"The most prominent feature of behavioral-variant frontotemporal dementia (FTD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an alteration in personality and behavior that typically develops years before the onset of cognitive impairment. A clue to the diagnosis early in the disease is discordance between normal or near-normal performance on objective cognitive testing and a significant degree of functional impairment. Many patients with behavioral-variant FTD have frontotemporal lobe atrophy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_2_3_1",
+"objective":{
+"__html":"Diagnose vascular cognitive impairment."
+},
+"references":[
+[
+"van der Flier WM, Skoog I, Schneider JA, et al. Vascular cognitive impairment. Nat Rev Dis Primers. 2018;4:18003. Published 2018 Feb 15. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29446769",
+"target":"_blank"
+},
+"children":[
+"PMID: 29446769"
+]
+},
+" doi:10.1038/nrdp.2018.3"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":14,
+"C":15,
+"D":61,
+"E":0
+},
+"hlIds":[
+"1b7536",
+"d00c24",
+"5d6fb0",
+"413696",
+"3c2e9f",
+"6c83e6",
+"74c2de",
+"43800f",
+"d2f758",
+"58e89d"
+]
+}

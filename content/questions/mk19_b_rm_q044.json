@@ -1,0 +1,169 @@
+{
+"id":"mk19_b_rm_q044",
+"number":44,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 44",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f1f63c",
+"children":[
+"A 40-year-old woman is evaluated for a 6-month history of bilateral hand and wrist pain and swelling. She has morning stiffness lasting for 1 hour. Her hands and wrists are swollen."
+]
+},
+{
+"type":"p",
+"hlId":"a4fefc",
+"children":[
+"Soft tissue swelling and warmth and tenderness of the second through fourth metacarpophalangeal joints and wrists bilaterally are noted. Range of motion of these joints is normal but painful."
+]
+},
+{
+"type":"p",
+"hlId":"8fa674",
+"children":[
+"A diagnosis of rheumatoid arthritis is being considered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f1ba54",
+"children":[
+"Which of the following will be most helpful in establishing the diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anti–cyclic citrullinated peptide (CCP) antibodies"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Anti-CCP antibodies and rheumatoid factor"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"C3 and C4 complements"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rheumatoid factor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"573731",
+"children":[
+"Anti–cyclic citrullinated peptide antibodies are a diagnostic marker of rheumatoid arthritis and have a high specificity (95%) but may be absent in early disease when rheumatoid factor is positive."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2f5bcb",
+"children":[
+"The presence of both anti–cyclic citrullinated peptide antibodies and rheumatoid factor increases the diagnostic likelihood of rheumatoid arthritis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"363fc0",
+"children":[
+"The combination of anti–cyclic citrullinated peptide (CCP) antibodies and rheumatoid factor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") will be most helpful in establishing the diagnosis. Among some 100 genetic loci currently recognized as associated with rheumatoid arthritis (RA) risk, the most important is the class II HLA group, especially HLA-D alleles. These alleles code for the shared epitope, a five–amino acid sequence that binds and presents citrullinated peptide antigens important in the pathophysiology of RA. Because citrulline is an amino acid that does not normally occur in humans, citrullinated proteins are immunogenic, especially in people who also have the shared epitope. Citrulline is formed by the action of the enzyme peptidylarginine deiminase, which is found at sites of inflammation and deiminates arginine to form citrullinated peptides. Anti-CCP antibodies are closely associated with the pathogenesis of RA and are highly specific (95%). In addition, anti-CCP antibodies may be positive in patients with RA who are negative for rheumatoid factor. Rheumatoid factor is less specific for RA, is present in only about 70% of patients with RA, and may be seen in other diseases (such as hepatitis C virus infection, endocarditis, and systemic lupus erythematosus). However, a few patients, particularly early in the course of the disease, may be negative for anti-CCP antibodies but positive for rheumatoid factor; thus, both anti-CCP antibodies and rheumatoid factor, rather than either alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, D"
+]
+},
+"), should be measured to increase the diagnostic specificity and sensitivity of testing. When they are present together, their specificity is further increased. Both antibodies are included in the diagnostic criteria for RA."
+]
+},
+{
+"type":"p",
+"hlId":"5a92e7",
+"children":[
+"The complement system is an essential part of the immune response, promoting vasodilation, attracting leukocytes, and assisting in the lysis of opsonized bacteria during humoral immunity. Complement components, such as C3 and C4 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are acute phase reactants that are synthesized in the liver and rise in many inflammatory states. However, in response to diseases that lead to immune complex formation (systemic lupus erythematosus; cryoglobulinemic and urticarial vasculitis) and other states, such as infections (bacterial endocarditis, sepsis, viremia) and glomerulonephritis, complement cascades are activated, and serum C3 and C4 levels fall because of excessive consumption. Although serum C3 and C4 levels may be elevated in patients with RA, this nonspecific finding will not be helpful in establishing the diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s1_6_2",
+"objective":{
+"__html":"Confirm the diagnosis of rheumatoid arthritis with autoantibody testing."
+},
+"references":[
+[
+"Warburton L, Hider SL, Mallen CD, et al. Suspected very early inflammatory rheumatic diseases in primary care. Best Pract Res Clin Rheumatol. 2019;33:101419. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31810550",
+"target":"_blank"
+},
+"children":[
+"PMID: 31810550"
+]
+},
+" doi:10.1016/j.berh.2019.06.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":73,
+"C":1,
+"D":2,
+"E":0
+},
+"hlIds":[
+"f1f63c",
+"a4fefc",
+"8fa674",
+"f1ba54",
+"573731",
+"2f5bcb",
+"363fc0",
+"5a92e7"
+]
+}

@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_gi_q003",
+"number":3,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0bac62",
+"children":[
+"A 50-year-old man is evaluated for newly developed ascites. He has cirrhosis due to nonalcoholic steatohepatitis. Paracentesis confirms cirrhosis as a cause of the ascites and excludes infection, and a low-sodium diet is implemented. Medical history includes type 2 diabetes mellitus, hypertension, and dyslipidemia. Current medications are metformin, lisinopril, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"d0d48c",
+"children":[
+"On physical examination, vital signs are normal. The abdomen is nontender and mildly distended, with normal bowel sounds."
+]
+},
+{
+"type":"p",
+"hlId":"8c9f3f",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 1.1 mg/dL (97.2 μmol/L). Random ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein-creatinine ratio, urine",
+"children":[
+"urine protein-creatinine ratio"
+]
+},
+" is 16 mg/g."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue atorvastatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue lisinopril"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate lactulose"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Initiate low-protein diet"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a6a394",
+"hvc":true,
+"children":[
+"Medications that decrease renal perfusion pressures, such as ACE inhibitors, can worsen ascites in patients with portal hypertension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f7cedb",
+"hvc":true,
+"children":[
+"β-Blockers and NSAIDs should be used with caution or discontinued in patients with portal hypertension and ascites."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cf118f",
+"children":[
+"The most appropriate treatment is discontinuation of lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The development of ascites is often the first manifestation of decompensation of cirrhosis. Ascites results from portal hypertension and functional renal impairment, which leads to ineffective natriuresis and retention of sodium. In patients with ascites due to cirrhosis, the initial management of ascites consists of dietary sodium restriction, which may equalize the sodium balance in patients and prevent ascites. If this treatment does not resolve the sodium imbalance, a diuretic regimen with spironolactone and furosemide can be prescribed to increase natriuresis. Medications that decrease renal perfusion pressures, such as ACE inhibitors and angiotensin receptor blockers, can worsen ascites in patients with portal hypertension. Prostaglandin inhibitors, such as NSAIDs, can reduce urinary sodium excretion in patients with cirrhosis and can induce azotemia. Consequently, the 2021 guideline from the American Association for the Study of Liver Diseases recommends that NSAIDs; ACE inhibitors, such as lisinopril; and angiotensin receptor blockers should be avoided in patients with cirrhosis and ascites. Based on available data, nonselective β-blockers are not necessarily contraindicated in patients with refractory ascites. However, caution is recommended in patients with hypotension, hyponatremia, or acute kidney injury."
+]
+},
+{
+"type":"p",
+"hlId":"f854ec",
+"children":[
+"Statins (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for the treatment of dyslipidemia may increase hepatic aminotransferase levels. However, the overall benefits of these medications typically outweigh the potential harms, especially in patients with risk factors for coronary artery disease, such as in this patient with nonalcoholic steatohepatitis, type 2 diabetes, dyslipidemia, and hypertension. Therefore, discontinuation of atorvastatin is not appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"5b8c5a",
+"children":[
+"Nonabsorbed disaccharides, such as lactulose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are initiated for the management of hepatic encephalopathy. This manifestation of cirrhosis can develop in the same population as patients with ascites. However, this cathartic is poorly tolerated and should not be initiated in a patient without symptoms referable to hepatic encephalopathy."
+]
+},
+{
+"type":"p",
+"hlId":"48bd4b",
+"children":[
+"Patients with cirrhosis typically develop catabolic changes to their metabolism. The dietary protein needs of patients with decompensated cirrhosis exceed those of healthy persons, and dietary protein supplementation is indicated in this patient population. Therefore, a low-protein diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be initiated for this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_10_4",
+"objective":{
+"__html":"Treat ascites in a patient with cirrhosis by stopping an ACE inhibitor."
+},
+"references":[
+[
+"Biggins SW, Angeli P, Garcia-Tsao G, et al. Diagnosis, evaluation, and management of ascites, spontaneous bacterial peritonitis and hepatorenal syndrome: 2021 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2021;74:1014-1048. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33942342",
+"target":"_blank"
+},
+"children":[
+"PMID: 33942342"
+]
+},
+" doi:10.1002/hep.31884"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":16,
+"B":28,
+"C":23,
+"D":33,
+"E":0
+},
+"hlIds":[
+"0bac62",
+"d0d48c",
+"8c9f3f",
+"78ff87",
+"a6a394",
+"f7cedb",
+"cf118f",
+"f854ec",
+"5b8c5a",
+"48bd4b"
+]
+}

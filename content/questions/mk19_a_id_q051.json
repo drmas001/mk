@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_id_q051",
+"number":51,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"40167c",
+"children":[
+"A 20-year-old woman undergoes follow-up consultation. She developed an 8-mm induration on tuberculin skin testing during a pre-employment physical examination. She will work as a receptionist in a university internal medicine clinic. She reports no symptoms and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"6f8716",
+"children":[
+"On physical examination, vital signs are normal, and findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest radiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Interferon-γ release assay"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Isoniazid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f5dbde",
+"children":[
+"Criteria for tuberculin skin test positivity depend on individual risk factors for tuberculosis infection; in persons with no known risk factors for tuberculosis, a reaction of 15 mm or larger is considered positive."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ef5bae",
+"children":[
+"If diagnostic testing for tuberculosis is performed, an interferon-γ release assay (IGRA) is suggested rather than a tuberculin skin test (TST); TST is acceptable if an IGRA is unavailable, too expensive, or too burdensome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"24c4de",
+"children":[
+"This patient has a negative tuberculin skin test (TST), and no further management is necessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). She developed an 8-mm induration, which is a negative result for active or latent tuberculosis in persons without risk factors for infection. A TST reaction of 5 mm or greater is considered positive in persons at high risk, such as those with HIV, recent or known contacts of a person with active tuberculosis, persons with chronic fibrotic changes on chest radiography consistent with old tuberculosis, patients who have undergone solid organ transplantation, and other persons who are immunosuppressed. A TST reaction of 10 mm or greater should be considered positive in recent arrivals (<5 years) from high-prevalence countries; persons who inject drugs; residents or employees of high-risk settings, hospitals, other health care facilities, and homeless shelters; persons with clinical conditions that put them at high risk for active disease; and children younger than 4 years or those exposed to adults in high-risk categories. In patients with no known risk factors for tuberculosis, a reaction of 15 mm or greater is considered a positive result."
+]
+},
+{
+"type":"p",
+"hlId":"409829",
+"children":[
+"Chest radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not necessary because the patient's TST is negative."
+]
+},
+{
+"type":"p",
+"hlId":"4d540b",
+"children":[
+"In most cases of tuberculosis testing, an interferon-γ release assay (IGRA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is suggested rather than a TST; TST is acceptable if an IGRA is unavailable, too expensive, or too burdensome. Guidelines also suggest that if the initial test is positive, a different confirmatory test be administered. The confirmatory test may be either an IGRA or a TST. Because this patient's TST is negative, confirmatory testing with an IGRA is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"27f27e",
+"children":[
+"Isoniazid prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should only be instituted in patients who have documented latent tuberculosis. Because of its hepatotoxicity, isoniazid should never be started empirically. This patient does not have tuberculosis and treatment is not necessary."
+]
+}
+],
+"relatedSection":"mk19_a_id_s6_4_1",
+"objective":{
+"__html":"Evaluate tuberculin skin test results."
+},
+"references":[
+[
+"Lewinsohn DM, Leonard MK, LoBue PA, et al. Official American Thoracic Society/Infectious Diseases Society of America/Centers for Disease Control and Prevention clinical practice guidelines: Diagnosis of tuberculosis in adults and children. Clin Infect Dis. 2017;64:111-115. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28052967",
+"target":"_blank"
+},
+"children":[
+"PMID: 28052967"
+]
+},
+" doi:10.1093/cid/ciw778"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":34,
+"B":10,
+"C":2,
+"D":53,
+"E":0
+},
+"hlIds":[
+"40167c",
+"6f8716",
+"cb2b54",
+"f5dbde",
+"ef5bae",
+"24c4de",
+"409829",
+"4d540b",
+"27f27e"
+]
+}

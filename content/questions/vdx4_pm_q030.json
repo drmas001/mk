@@ -1,0 +1,153 @@
+{
+"id":"vdx4_pm_q030",
+"number":30,
+"bookId":"vdx_pm",
+"correctAnswer":"C",
+"title":"Question 30",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9a47ae",
+"children":[
+"A patient is evaluated for dyspnea. Focused ultrasonography of the lung is performed, with images obtained on both sides of the anterior and lateral chest."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for this ",
+{
+"type":"video-link",
+"target":"vdx4_pm_mcq_v030",
+"wrapId":"1",
+"children":[
+"video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_pm_mcq_v030"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8a92ba",
+"children":[
+"Which of the following is the most likely diagnosis based on the ultrasound findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Pleural effusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pneumothorax"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary edema"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Normal lung function"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8cf5bd",
+"children":[
+"This ultrasound video shows findings consistent with pulmonary edema. It depicts a hyperechoic (bright white) horizontal line in the near field moving with respiration (“lung sliding”) with vertical ",
+{
+"type":"figure-link",
+"target":"vdx4_pm_mcq_f030",
+"wrapId":"2",
+"children":[
+"hyperechoic lines"
+]
+},
+" extending downward from the pleural line like lasers or search lights (B lines)."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_pm_mcq_f030"
+]
+},
+{
+"type":"p",
+"hlId":"378441",
+"children":[
+"Analogous to Kerley B lines on a chest radiograph, a diffuse B-line pattern suggests interstitial thickening, most often caused by a fluid collection or pulmonary edema. Lung sliding and a B-line pattern throughout excludes pneumothorax, and pleural effusions will most often appear as anechoic (black) regions in dependent areas cephalad to the diaphragm."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s1_2_1_3",
+"objective":{
+"__html":"Diagnose pulmonary edema by using point-of-care ultrasonography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_pm_mcq_f030":{
+"id":"vdx4_pm_mcq_f030",
+"number":30,
+"bookId":"vdx_pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"43f12cca541189cd715aef710e4fca69",
+"height":530,
+"width":708,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"9a47ae",
+"497ecd",
+"8a92ba",
+"8cf5bd",
+"378441"
+]
+}

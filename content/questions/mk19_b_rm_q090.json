@@ -1,0 +1,212 @@
+{
+"id":"mk19_b_rm_q090",
+"number":90,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a47191",
+"children":[
+"A 57-year-old woman is evaluated for a 2.5-year history of pain and swelling in the hands and wrists. She also has joint stiffness for over an hour after awakening."
+]
+},
+{
+"type":"p",
+"hlId":"fc2571",
+"children":[
+"On physical examination, vital signs are normal. She has swelling and tenderness of the following: second, third, and fourth proximal interphalangeal joints of the right hand and third and fourth proximal interphalangeal joints of the left hand; the left second and right third metacarpophalangeal joints; and both wrists."
+]
+},
+{
+"type":"p",
+"hlId":"d5dd21",
+"children":[
+"Laboratory evaluation reveals a blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"C-reactive protein, blood",
+"children":[
+"C-reactive protein"
+]
+},
+" level of 4.8 mg/dL (48 mg/L) and positive results on tests for serum rheumatoid factor and anti–cyclic citrullinated peptide antibodies."
+]
+},
+{
+"type":"p",
+"hlId":"bce8b9",
+"children":[
+"Radiographs of the hands show periarticular osteopenia and joint-space narrowing of the proximal interphalangeal joints, periarticular osteopenia and marginal erosions at the second proximal interphalangeal and metacarpophalangeal joints of both hands, and radiocarpal joint-space narrowing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f93027",
+"children":[
+"Which of the following imaging studies should be done next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone scanning"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of hands"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ultrasonography of hands"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further imaging"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ccfb91",
+"hvc":true,
+"children":[
+"Plain radiography of the hands and/or feet is a standard imaging study for rheumatoid arthritis and can detect typical radiographic changes, including periarticular osteopenia, marginal erosions, and joint-space narrowing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b70a09",
+"hvc":true,
+"children":[
+"Hand and/or feet radiography can detect changes suggesting other diseases that may mimic rheumatoid arthritis, such as psoriatic arthritis, spondyloarthritis, gout, or chondrocalcinosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"76bc82",
+"children":[
+"The most appropriate next step in diagnosis is no further imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The history, physical examination, and laboratory studies are all consistent with a diagnosis of rheumatoid arthritis. Plain radiography of the hands and/or feet is the standard imaging study for rheumatoid arthritis and can aid in diagnosis. Radiography of the hands and/or feet may also detect changes suggesting other diseases that may mimic rheumatoid arthritis, such as psoriatic arthritis, spondyloarthritis, gout, or chondrocalcinosis. Although early radiographs may be normal, this patient has the typical radiographic changes of rheumatoid arthritis, including periarticular osteopenia, marginal erosions, and joint-space narrowing. These radiographic findings add to the diagnostic certainty that the patient has rheumatoid arthritis and are helpful not only in establishing the diagnosis but in monitoring the course of the disease."
+]
+},
+{
+"type":"p",
+"hlId":"a54fea",
+"children":[
+"Bone scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has no diagnostic value in rheumatoid arthritis and is not used in evaluation of this disease. No specific findings on bone scanning would point to the diagnosis of rheumatoid arthritis."
+]
+},
+{
+"type":"p",
+"hlId":"70eb1d",
+"children":[
+"In the setting of characteristic features of rheumatoid arthritis seen on plain radiographs, MRI of the hands (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has no additional diagnostic value. Although MRI can show findings that cannot be visualized on plain radiographs, such as bone edema and inflammatory synovitis, these are not diagnostic of rheumatoid arthritis and are not needed to confirm the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"c0280a",
+"children":[
+"Musculoskeletal ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has gained popularity in the diagnosis and treatment of rheumatoid arthritis because it is noninvasive and may demonstrate a variety of soft-tissue findings not visualized on plain radiographs. However, similar to MRI, when diagnostic features of rheumatoid arthritis are seen on plain radiographs, musculoskeletal ultrasonography is not needed to confirm the diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s3_2_3",
+"objective":{
+"__html":"Diagnose rheumatoid arthritis with appropriate imaging studies."
+},
+"references":[
+[
+"Shiraishi M, Fukuda T, Igarashi T, et al. Differentiating rheumatoid and psoriatic arthritis of the hand: multimodality imaging characteristics. Radiographics. 2020 Sep-Oct;40:1339-1354. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32735474",
+"target":"_blank"
+},
+"children":[
+"PMID: 32735474"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":5,
+"B":2,
+"C":4,
+"D":89,
+"E":0
+},
+"hlIds":[
+"a47191",
+"fc2571",
+"d5dd21",
+"bce8b9",
+"f93027",
+"ccfb91",
+"b70a09",
+"76bc82",
+"a54fea",
+"70eb1d",
+"c0280a"
+]
+}

@@ -1,0 +1,111 @@
+{
+"id":"vdx4_hm_q001",
+"number":1,
+"bookId":"vdx_hm",
+"correctAnswer":"B",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c66e36",
+"children":[
+"A 54-year-old woman is hospitalized with a painful skin lesion involving the breasts, as ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f001",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". She was started on warfarin 2 days ago for atrial fibrillation."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f001"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d709de",
+"children":[
+"Which of the following is the most likely diagnosis?′"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antiphospholipid antibody syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Protein C deficiency"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Purpura fulminans"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thrombotic thrombocytopenic purpura"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1e6009",
+"children":[
+"The most likely diagnosis is protein C deficiency or resistance. Protein C is a vitamin K–dependent protein that degrades activated factors V and VIII and has an anticoagulant effect. Many persons with protein C deficiency will experience a thrombotic event or pregnancy morbidity before 50 years of age and have a strong family history of thrombosis. The half-life of protein C is shorter than many of the other vitamin K–dependent proteins. When warfarin is initiated in patients with protein C deficiency, warfarin-induced thrombotic skin necrosis can result from rapid depletion of protein C with a subsequent transient hypercoagulable state following the loss of its anticoagulant effect."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_2_4",
+"objective":{
+"__html":"Diagnose protein C deficiency manifesting as warfarin-induced skin necrosis."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f001":{
+"id":"vdx4_hm_mcq_f001",
+"number":1,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"2e5b3ebd73660345d3425ddc950365a0",
+"height":626,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"c66e36",
+"d709de",
+"1e6009"
+]
+}

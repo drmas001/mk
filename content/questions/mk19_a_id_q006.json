@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_id_q006",
+"number":6,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dec90a",
+"children":[
+"A 28-year-old woman is evaluated for fatigue. Six months ago, she developed erythema migrans and was diagnosed with early localized Lyme disease. No serologic testing was performed. She was treated with a 10-day course of doxycycline. The skin lesion resolved, but she continues to experience malaise, myalgia, poor concentration, and disabling fatigue. She reports no fevers. Medical history is otherwise noncontributory, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"418244",
+"children":[
+"On physical examination, vital signs and the remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f2be4c",
+"children":[
+"Laboratory studies, including a complete blood count with differential, metabolic profile, and thyroid function tests, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Doxycycline for an additional 14 days"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lyme serologic testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reassurance and serial follow-up"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a7d825",
+"hvc":true,
+"children":[
+"Patients may experience nonspecific constitutional symptoms that linger for months after Lyme disease treatment, and reassurance, supportive care, and serial evaluation should be provided in the management of posttreatment Lyme disease syndrome."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2fe051",
+"hvc":true,
+"children":[
+"No evidence supports ongoing infection as a cause of posttreatment Lyme disease syndrome, and prolonged use of antibiotics in this population has not shown benefit."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4b55b4",
+"children":[
+"This patient has posttreatment Lyme disease syndrome (PTLDS), and providing reassurance, supportive care, and serial evaluation are the mainstays of management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Nonspecific constitutional symptoms that linger for months after Lyme disease treatment are common. Among patients with solitary or multiple erythema migrans (EM) skin lesions, posttreatment symptoms occur in up to 20% at 2 months, 16% at 6 months, and 6% at 12 months. PTLDS is defined as symptoms that are sufficiently severe as to limit the previous level of functioning persisting 6 months or more after antibiotic therapy. No evidence supports ongoing infection as a cause of these symptoms, and studies evaluating prolonged use of antibiotics in this population have not shown benefit. Recommendations for patients experiencing symptoms after being diagnosed with Lyme disease are to evaluate for alternative causes and provide therapy to lessen symptoms. Patients can be reassured that symptoms typically subside with time."
+]
+},
+{
+"type":"p",
+"hlId":"eea442",
+"children":[
+"EM is diagnostic of early localized Lyme disease in endemic areas (or Southern Tick–Associated Rash Illness outside of these regions). This patient was appropriately treated with doxycycline based on the clinical finding of EM. Alternative options include amoxicillin or cefuroxime axetil, which are also effective in preventing dissemination of infection and subsequent development of extracutaneous manifestations. Retreatment has no role in the management of patients with prolonged symptoms or PTLDS (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"916864",
+"children":[
+"Lyme disease encephalopathy is a subset of PTLDS in which neurocognitive symptoms such as fatigue, confusion, impaired memory, or poor concentration predominate. No evidence supports parenchymal infection as a cause of these vague symptoms, and lumbar puncture is not indicated in the absence of objective findings of neurologic dysfunction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"49f6d2",
+"children":[
+"Lyme serologies would likely be positive in this patient but would not be helpful in confirming the clinical diagnosis of Lyme disease or determining the cause of her ongoing symptoms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s4_1_4",
+"objective":{
+"__html":"Manage a patient with posttreatment Lyme disease syndrome."
+},
+"references":[
+[
+"Aucott JN. Posttreatment Lyme disease syndrome. Infect Dis Clin North Am. 2015;29(2):309–323. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25999226",
+"target":"_blank"
+},
+"children":[
+"PMID: 25999226"
+]
+},
+" doi:10.1016/j.idc.2015.02.012"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":7,
+"B":9,
+"C":16,
+"D":68,
+"E":0
+},
+"hlIds":[
+"dec90a",
+"418244",
+"f2be4c",
+"cb2b54",
+"a7d825",
+"2fe051",
+"4b55b4",
+"eea442",
+"916864",
+"49f6d2"
+]
+}

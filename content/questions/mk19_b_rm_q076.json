@@ -1,0 +1,244 @@
+{
+"id":"mk19_b_rm_q076",
+"number":76,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb1f24",
+"children":[
+"A 50-year-old man is evaluated for pain, swelling, tenderness, and redness of the right great toe that began last night. He has had several similar episodes over the past 2 years. He has type 2 diabetes mellitus and a recent diagnosis of deep venous thrombosis. Current medications are apixaban, metformin, and rosuvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"588c7f",
+"children":[
+"On physical examination, the right first metatarsophalangeal joint is tender, red, warm, and swollen."
+]
+},
+{
+"type":"p",
+"hlId":"ac0d77",
+"children":[
+"Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"serum urate"
+]
+},
+" level of 9.0 mg/dL (0.53 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"4fcea7",
+"children":[
+"Radiograph of the right foot is ",
+{
+"type":"figure-link",
+"target":"mk19_b_rm_mcq_f076",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_rm_mcq_f076"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Indomethacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"01322c",
+"children":[
+"In the absence of chronic kidney disease, colchicine, 1.2 mg, followed by a single 0.6-mg dose in 1 hour, is an effective treatment of acute gout within the first 24 hours."
+]
+},
+{
+"type":"keypoint",
+"hlId":"42e113",
+"children":[
+"Administering urate-lowering therapy, such as allopurinol, in the absence of anti-inflammatory therapy may result in recurrent flares of acute gout."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dabaea",
+"children":[
+"The most appropriate treatment is colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's presentation is consistent with an acute flare of classic podagra (gout of the great toe) with pain, swelling, and redness of the first metatarsophalangeal joint. His radiograph shows changes consistent with chronic gouty arthritis in the metatarsophalangeal joint, with soft tissue swelling, tophus, and well-defined erosions that have sclerotic borders and overhanging margins. Colchicine is an effective treatment of acute gout within the first 24 hours of the episode. In the absence of chronic kidney disease, the initial dose is 1.2 mg, followed by a single 0.6-mg dose 1 hour later and then 0.6 mg daily thereafter if needed. Colchicine, 0.6 mg daily, may be continued and used as prophylaxis while urate-lowering therapy is initiated. Colchicine may result in gastrointestinal toxicity, and dosing may be limited by gastrointestinal tolerance. Topical ice helps reduce duration of the flare and may be used as adjunctive therapy."
+]
+},
+{
+"type":"p",
+"hlId":"ade97f",
+"children":[
+"The American College of Rheumatology (ACR) strongly recommends initiating urate-lowering therapy for patients with gout and any of the following indications: one or more subcutaneous tophi; evidence of radiographic damage (any modality) attributable to gout; or frequent gout flares, with “frequent” being defined as two or more annually. The ACR recommends treating to a maximum serum urate level of less than 6.0 mg/dL (0.35 mmol/L). Allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in this patient for long-term treatment given the radiographic changes of gouty arthritis. Current ACR guidelines support initiating urate-lowering therapy during an acute flare, mainly to improve future adherence, but only if the patient is also being adequately treated for the acute flare. Allopurinol will not treat the acute flare and, if administered alone, may actually prolong the flare duration. When initiating allopurinol, patients should continue taking anti-inflammatory flare prophylaxis for at least 3 to 6 months because urate lowering transiently raises the frequency of flare occurrence."
+]
+},
+{
+"type":"p",
+"hlId":"f297c4",
+"children":[
+"NSAIDs, such as indomethacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), given for 5 to 7 days are also effective in treating acute gout. NSAIDs have an antiplatelet effect and are associated with risk for gastrointestinal ulceration and bleeding. This patient is receiving anticoagulation; thus, NSAIDs are contraindicated."
+]
+},
+{
+"type":"p",
+"hlId":"c2d63a",
+"children":[
+"Prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be an effective treatment of acute gout. However, it raises the blood glucose level and is not the best choice in a patient with type 2 diabetes mellitus."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5",
+"objective":{
+"__html":"Treat acute gout with colchicine."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":56,
+"C":26,
+"D":15,
+"E":0
+},
+"figuresContent":{
+"mk19_b_rm_mcq_f076":{
+"id":"mk19_b_rm_mcq_f076",
+"number":76,
+"bookId":"rm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"e26775f9f6d7da58e66d757221cc2863",
+"height":306,
+"width":312,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"bb1f24",
+"588c7f",
+"ac0d77",
+"4fcea7",
+"473b62",
+"01322c",
+"42e113",
+"dabaea",
+"ade97f",
+"f297c4",
+"c2d63a"
+]
+}

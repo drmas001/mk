@@ -1,0 +1,214 @@
+{
+"id":"mk19_qq_q100",
+"number":100,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ed071f",
+"children":[
+"A 29-year-old woman is evaluated for heat intolerance, tremor, palpitations, and anxiety at 7 weeks' gestation of an otherwise uncomplicated pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"0ef3aa",
+"children":[
+"On physical examination, pulse rate is 108/min. Fine resting tremor, brisk reflexes, and diffusely enlarged thyroid with bruit are present. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" level is below 0.008 µU/mL (0.008 mU/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level is 5.5 ng/dL (80.0 pmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Triiodothyronine (T3), total, serum",
+"children":[
+"total triiodothyronine"
+]
+},
+" level is 400 ng/dL (6.2 nmol/L). Thyroid-stimulating immunoglobulin level is elevated."
+]
+},
+{
+"type":"p",
+"hlId":"4b13d3",
+"children":[
+"Metoprolol is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Methimazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Potassium iodide solution"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Propylthiouracil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radioactive iodine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6abcf6",
+"children":[
+"Treatment of hyperthyroidism during pregnancy is typically with medical management; propylthiouracil is the drug of choice during the first trimester."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a8b426",
+"children":[
+"Radioactive iodine is contraindicated during pregnancy because it may cause destruction of the fetal thyroid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dee87f",
+"children":[
+"This patient has overt hyperthyroidism (low serum thyroid-stimulating hormone with elevated free thyroxine and total triiodothyronine levels) occurring during the first trimester of pregnancy and should be treated with propylthiouracil (PTU) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Based on this patient's age, sex, and clinical findings (diffuse thyromegaly, thyroid bruit, and elevated thyroid-stimulating immunoglobulin), the most likely cause of her hyperthyroidism is Graves disease. Treatment is typically with medical management. PTU, rather than methimazole, is the drug of choice during the first trimester. Although rare, methimazole has been associated with fetal development of aplasia cutis (absence of a portion of skin on the scalp in a localized or widespread area) and choanal atresia (blockage of the posterior nasal passage due to failed recanalization of the nasal fossae during fetal development) when used in the first trimester. Once organogenesis is complete, methimazole can be substituted for PTU. However, switching between antithyroid drugs in the middle of pregnancy may precipitate decompensation of control and thus must be carried out cautiously."
+]
+},
+{
+"type":"p",
+"hlId":"91ee64",
+"children":[
+"Methimazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is typically the preferred agent in nonpregnant patients with hyperthyroidism because it has a longer intrathyroidal half-life than PTU and usually can be administered once daily. There is also an increased risk for severe liver toxicity with PTU. Regardless of the antithyroid drug used, the lowest effective dosage should be administered during pregnancy to prevent fetal hypothyroidism."
+]
+},
+{
+"type":"p",
+"hlId":"7df25a",
+"children":[
+"Guidelines do not recommend routine potassium iodide solution (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for the primary treatment of pregnant women with Graves disease. Although iodine appears to be safe for the fetus, it is less effective than thionamides, such as PTU or methimazole, in controlling hyperthyroidism. Iodine may have a role in patients who cannot tolerate thionamide therapy."
+]
+},
+{
+"type":"p",
+"hlId":"d250dc",
+"children":[
+"Radioactive iodine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is contraindicated during pregnancy because it may cause destruction of the fetal thyroid."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_1_3",
+"objective":{
+"__html":"Treat hyperthyroidism during pregnancy."
+},
+"references":[
+[
+"Alexander EK, Pearce EN, Brent GA, et al. 2017 Guidelines of the American Thyroid Association for the diagnosis and management of thyroid disease during pregnancy and the postpartum. Thyroid. 2017;27:315-389. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28056690",
+"target":"_blank"
+},
+"children":[
+"PMID: 28056690"
+]
+},
+" doi:10.1089/thy.2016.0457"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"ed071f",
+"0ef3aa",
+"4b13d3",
+"78ff87",
+"6abcf6",
+"a8b426",
+"dee87f",
+"91ee64",
+"7df25a",
+"d250dc"
+]
+}

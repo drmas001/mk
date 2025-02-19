@@ -1,0 +1,239 @@
+{
+"id":"mk19_b_cv_q046",
+"number":46,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7662ad",
+"children":[
+"A 75-year-old man is evaluated in the emergency department for a 2-day history of left leg pain. The pain started abruptly and has been constant. He has diabetes mellitus, hypertension, peripheral artery disease, and hyperlipidemia. Medications are metformin, chlorthalidone, atorvastatin, cilostazol, and low-dose aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"1891e2",
+"children":[
+"On physical examination, pulse rate is 108/min and irregular; other vital signs are normal. Cardiac examination reveals an irregularly irregular rhythm. The left lower extremity is cold and mottled. The left popliteal and ankle pulses are absent. Passive range of motion is normal in the left leg, but the patient has significant pain and is unable to actively flex the left knee fully. Left leg sensation is intact. The remainder of the physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"98c2ad",
+"children":[
+"ECG shows atrial fibrillation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Apixaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous tenecteplase"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Unfractionated heparin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Venous duplex ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"69d588",
+"children":[
+"Classically, patients with acute limb ischemia present with at least one of the six ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+"'s: paresthesia, pain, pallor, pulselessness, poikilothermia (coolness), and paralysis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3fd5fc",
+"children":[
+"Patients with acute limb ischemia should receive emergent systemic anticoagulation and diagnostic angiography in preparation for revascularization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"598f52",
+"children":[
+"The most appropriate next step in management is to administer intravenous unfractionated heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Classically, patients with acute limb ischemia present with at least one of the six ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+"'s: paresthesia, pain, pallor, pulselessness, poikilothermia (coolness), and paralysis. Acute limb ischemia is most commonly caused by acute thrombosis of a lower extremity artery, stent, or bypass graft. Other causes include thromboembolism, vessel dissection (usually occurring periprocedurally), or trauma. This patient's presentation is consistent with acute limb ischemia due to atrial fibrillation–related thromboembolism, and the most appropriate first steps are to (1) initiate intravenous anticoagulation with unfractionated heparin, (2) perform angiography, and (3) establish a plan for reperfusion of the leg."
+]
+},
+{
+"type":"p",
+"hlId":"d44a50",
+"children":[
+"Invasive angiography of the lower extremity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be expedited, as endovascular or surgical revascularization is warranted to preserve limb function and prevent major amputation. However, anticoagulation, typically with unfractionated heparin, should be initiated as soon as the diagnosis is suspected, before performing diagnostic testing."
+]
+},
+{
+"type":"p",
+"hlId":"e4c0f5",
+"children":[
+"This patient, who has atrial fibrillation, needs anticoagulation following this event. However, because intervention is needed to restore blood flow, unfractionated heparin should be initiated now, not an oral anticoagulant such as apixaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Unfractionated heparin has a rapid onset and offset of action, allowing for more flexibility in dose titration or discontinuation when needed for invasive procedures."
+]
+},
+{
+"type":"p",
+"hlId":"e3233d",
+"children":[
+"Intravenous systemic thrombolysis, such as with tenecteplase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), has not been proved effective in most patients with acute limb ischemia. However, catheter-based thrombolysis is effective for patients with acute limb ischemia and a salvageable limb."
+]
+},
+{
+"type":"p",
+"hlId":"b254f4",
+"children":[
+"Venous duplex ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated in this patient who has no evidence of massive venous thrombosis. Iliofemoral venous thrombosis is a rare cause of acute limb ischemia and should be suspected in patients with sudden severe pain, swelling, cyanosis, and edema. These findings are not present in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_6",
+"objective":{
+"__html":"Treat acute limb ischemia with anticoagulation."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2017;135:e686-e725. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27840332",
+"target":"_blank"
+},
+"children":[
+"PMID: 27840332"
+]
+},
+" doi:10.1161/CIR.0000000000000470"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":46,
+"B":4,
+"C":10,
+"D":37,
+"E":3
+},
+"hlIds":[
+"7662ad",
+"1891e2",
+"98c2ad",
+"1a5dcc",
+"69d588",
+"3fd5fc",
+"598f52",
+"d44a50",
+"e4c0f5",
+"e3233d",
+"b254f4"
+]
+}

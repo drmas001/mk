@@ -1,0 +1,222 @@
+{
+"id":"mk19_a_np_q035",
+"number":35,
+"bookId":"np",
+"correctAnswer":"A",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9e199f",
+"children":[
+"An 87-year-old man is evaluated in the emergency department for a 36-hour history of lower abdominal discomfort, urinary frequency, and nocturia. He has no other symptoms. Medical history is significant for type 2 diabetes mellitus, hypertension, and IgG4-related autoimmune pancreatitis. Medications are metformin, hydrochlorothiazide, and rituximab. He began taking over-the-counter chlorpheniramine last week for symptoms related to seasonal allergies."
+]
+},
+{
+"type":"p",
+"hlId":"4ec302",
+"children":[
+"On physical examination, he is afebrile. Blood pressure is 158/64 mm Hg, and pulse rate is 78/min. There is tenderness to palpation of the lower abdomen. The prostate is diffusely enlarged."
+]
+},
+{
+"type":"p",
+"hlId":"2e7de9",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood urea nitrogen",
+"children":[
+"blood urea nitrogen"
+]
+},
+" level of 50 mg/dL (17.9 mmol/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 2.4 mg/dL (212.2 µmol/L). Urinalysis shows a specific gravity of 1.012, 1+ blood, 1+ protein, 1+ leukocytes, 3 nondysmorphic erythrocytes/hpf, 1-3 leukocytes/hpf, and no casts."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"573da9",
+"children":[
+"Which of the following is the most appropriate initial step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bladder ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Kidney ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the abdomen and pelvis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Noncontrast CT of the abdomen and pelvis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6b18ee",
+"children":[
+"Postrenal acute kidney injury results from urinary tract obstruction that is readily reversible if recognized early and corrected promptly."
+]
+},
+{
+"type":"keypoint",
+"hlId":"16f6eb",
+"children":[
+"Postrenal obstruction should be suspected in patients with a history of benign prostatic hyperplasia, diabetes mellitus, nephrolithiasis, abdominal or pelvic surgeries or radiation, pelvic malignancies, or retroperitoneal fibrosis or lymphadenopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f46c1a",
+"children":[
+"The most appropriate initial step in management is bladder ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient most likely has postrenal obstructive uropathy secondary to benign prostatic hyperplasia (BPH) and the recent introduction of chlorpheniramine, a drug with anticholinergic properties. Postrenal acute kidney injury (AKI) results from urinary tract obstruction. If left uncorrected, the elevated tubular pressure can cause chronic and end-stage kidney disease. Postrenal obstruction due to bladder outlet obstruction should be suspected in patients with a history of BPH and diabetes mellitus (neurogenic bladder). Symptoms of bladder outlet obstruction may include abdominal fullness or pain; urinary frequency, urgency, and hesitancy; nocturia; and incomplete voiding. The diagnosis is supported by a distended bladder and prostate enlargement on physical examination. In postrenal obstruction, urine sediment is often unremarkable, but microscopic hematuria may be present. Bladder outlet obstruction is confirmed by an elevated postvoid residual bladder volume by ultrasonography. If the obstruction is relieved within 1 to 2 weeks, recovery of kidney function is excellent."
+]
+},
+{
+"type":"p",
+"hlId":"b685e0",
+"children":[
+"Obstruction of the upper tract (ureters or renal pelvis) must be bilateral to cause AKI (unless obstruction occurs in a single kidney); causes may include nephrolithiasis, abdominal or pelvic surgeries or radiation, pelvic malignancies, or retroperitoneal fibrosis or lymphadenopathy. Kidney ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the initial modality of choice for diagnosing upper tract obstruction. Although kidney ultrasonography may ultimately be performed, the next management step is bladder ultrasonography and possible bladder catheterization because bladder outlet obstruction is more likely to occur in a man with BPH recently exposed to a medication with anticholinergic effects."
+]
+},
+{
+"type":"p",
+"hlId":"211a34",
+"children":[
+"IgG4-related autoimmune pancreatitis can be associated with other IgG4-related diseases, including retroperitoneal fibrosis and obstructive uropathy. CT with contrast or MRI of the abdomen and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are the initial imaging studies. However, in this patient with BPH, the initial diagnostic modality is bladder ultrasonography. Failure to establish a diagnosis should prompt appropriate imaging tests."
+]
+},
+{
+"type":"p",
+"hlId":"b4dfab",
+"children":[
+"Patients with acute ureteral obstruction caused by nephrolithiasis may present with ureteral colic. In this scenario, a noncontrast CT of the abdomen and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may provide the correct diagnosis. However, there are no symptoms to support this diagnosis, and bladder ultrasonography will establish the most likely diagnosis."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_3",
+"objective":{
+"__html":"Diagnose postrenal obstructive uropathy."
+},
+"references":[
+[
+"Levey AS, James MT. Acute kidney injury. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201711070",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2017;167:ITC66-ITC80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29114754",
+"target":"_blank"
+},
+"children":[
+"PMID: 29114754"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":60,
+"B":16,
+"C":2,
+"D":22,
+"E":0
+},
+"hlIds":[
+"9e199f",
+"4ec302",
+"2e7de9",
+"573da9",
+"6b18ee",
+"16f6eb",
+"f46c1a",
+"b685e0",
+"211a34",
+"b4dfab"
+]
+}

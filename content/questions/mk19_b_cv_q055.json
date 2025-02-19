@@ -1,0 +1,254 @@
+{
+"id":"mk19_b_cv_q055",
+"number":55,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f23b5f",
+"children":[
+"A 45-year-old woman is evaluated in the office for palpitations. She has no other symptoms at rest or with exertion. The palpations make her anxious and are intolerable. They seem to subside with exercise and at night. She does not smoke cigarettes or drink alcohol or caffeinated beverages, and she has no other pertinent personal or family history. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"2720d2",
+"children":[
+"On physical examination, pulse rate is 65/min and irregular; other vital signs are normal. Heart sounds are regular, with premature beats associated with cannon ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" waves on neck examination. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"346d56",
+"children":[
+"Laboratory studies, including complete blood count and thyroid-stimulating hormone level, are normal. Pregnancy test results are negative."
+]
+},
+{
+"type":"p",
+"hlId":"076dc2",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f055",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". Echocardiogram is normal."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f055"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amiodarone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Propranolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reassurance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4d5725",
+"children":[
+"First-line treatment for symptomatic premature ventricular contraction suppression is β-blocker or calcium channel blocker therapy; β-blockers are preferred in patients with ventricular dysfunction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"eadb5d",
+"children":[
+"Ambulatory ECG monitoring can help clarify the burden of premature ventricular contractions (PVCs); patients with PVCs that account for more than 10% to 15% of beats may be at risk for PVC-induced cardiomyopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3ec0d0",
+"children":[
+"The most appropriate treatment is propranolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has symptomatic premature ventricular contractions (PVCs) with a normal heart on echocardiogram. Laboratory studies have excluded common secondary causes of PVCs (anemia, hyperthyroidism, pregnancy). The PVCs are likely contributing to her anxiety, which may in turn increase their number. β-Blockers, particularly those with some anxiolytic effect (such as propranolol), are first-line therapy for PVCs. β-Blockers are also preferred in patients with ventricular dysfunction. Among patients with depression or very poor tolerance of β-blockers, a nondihydropyridine calcium channel blocker, such as verapamil, may be used."
+]
+},
+{
+"type":"p",
+"hlId":"2a8e68",
+"children":[
+"This patient's PVC burden may be quite high if she has several PVCs on a standard 12-lead ECG. Ambulatory ECG monitoring can help clarify whether her PVCs are episodic and of low overall burden or if they persist throughout the day. Patients with PVCs that account for more than 10% to 15% of beats may be at risk for developing PVC-induced cardiomyopathy and subsequent heart failure, which is an additional reason to treat this patient's symptomatic PVCs. If she develops cardiomyopathy, it may be reversible with more aggressive treatment of PVCs (e.g., catheter ablation)."
+]
+},
+{
+"type":"p",
+"hlId":"f134ba",
+"children":[
+"Amiodarone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an antiarrhythmic agent that may be very effective at suppressing this patient's PVCs. However, it may be toxic over the long term, potentially causing devastating injury to the lungs, liver, and/or thyroid. Furthermore, it may be unnecessary in this young patient. Amiodarone is therefore not an appropriate first-line choice in this clinical setting. When amiodarone is used, it should be taken for the shortest possible time at the lowest effective dose, with close monitoring."
+]
+},
+{
+"type":"p",
+"hlId":"c88582",
+"children":[
+"This patient has no exertional symptoms, no specific risk factors for coronary ischemia, and normal echocardiogram results. Exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is unlikely to be high yield in this setting. However, PVCs often cease during exercise in a structurally normal heart, which would be reassuring."
+]
+},
+{
+"type":"p",
+"hlId":"0a4465",
+"children":[
+"This patient's symptoms are likely attributable to PVCs and are described as intolerable; therefore, she warrants treatment, and reassurance alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_1",
+"objective":{
+"__html":"Treat symptomatic premature ventricular contractions with a β-blocker."
+},
+"references":[
+[
+"Marcus GM. Evaluation and management of premature ventricular complexes. Circulation. 2020;141:1404-18. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32339046",
+"target":"_blank"
+},
+"children":[
+"PMID: 32339046"
+]
+},
+" doi:10.1161/CIRCULATIONAHA.119.042434"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":11,
+"C":43,
+"D":42,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f055":{
+"id":"mk19_b_cv_mcq_f055",
+"number":55,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"68e350f70af733f0c4559864fc1423fd",
+"height":415,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f23b5f",
+"2720d2",
+"346d56",
+"076dc2",
+"cb2b54",
+"4d5725",
+"eadb5d",
+"3ec0d0",
+"2a8e68",
+"f134ba",
+"c88582",
+"0a4465"
+]
+}

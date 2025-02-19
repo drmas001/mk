@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q042",
+"number":42,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8ec157",
+"children":[
+"A 70-year-old man is referred for evaluation after a 6.1-cm abdominal aortic aneurysm was discovered on routine screening ultrasonography. Medical history is significant for hypertension and hyperlipidemia. He has a 50-pack-year history of cigarette smoking, stopping 6 years ago. Medications are rosuvastatin and chlorthalidone."
+]
+},
+{
+"type":"p",
+"hlId":"62038b",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. A bruit is heard over the abdomen, and a pulsatile abdominal mass is present to the left of the midline."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal aortography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"ACE inhibitor therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Open abdominal aortic aneurysm repair"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Repeat duplex ultrasonography in 6 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dacd30",
+"children":[
+"The U.S. Preventive Services Task Force recommends one-time screening with duplex ultrasonography in all men aged 65 to 75 years who have smoked at least 100 cigarettes in their lifetime and selective screening in men in this age group who have never smoked."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fbf1aa",
+"children":[
+"CT angiography or magnetic resonance angiography is the imaging procedure of choice to identify the exact location of an abdominal aneurysm and plan operative repair."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49ae12",
+"children":[
+"In this patient with an abdominal aortic aneurysm (AAA) greater than 5.5 cm in diameter, the most appropriate next step is CT angiography (CTA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to identify the location of the AAA (suprarenal, juxtarenal, or infrarenal) and plan for repair. Because of the high mortality rate associated with aneurysm rupture, the U.S. Preventive Services Task Force recommends one-time screening with duplex ultrasonography in all men aged 65 to 75 years who have smoked at least 100 cigarettes in their lifetime and selective screening in men in this age group who have never smoked. The choice between open surgical repair and endovascular aneurysm repair (EVAR) is driven by the location of the AAA and involvement of the renal and mesenteric arteries. Suprarenal and juxtarenal aneurysms often necessitate open surgical repair, whereas infrarenal aneurysms often can be treated with EVAR. Other factors, including patient age, comorbid conditions, and ability to tolerate open surgical repair, also determine which procedure should be performed in patients with an infrarenal AAA."
+]
+},
+{
+"type":"p",
+"hlId":"968848",
+"children":[
+"Although abdominal aortography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been used for AAA sizing and location, the advent of CTA and magnetic resonance angiography has relegated invasive aortography to a second- or third-line option."
+]
+},
+{
+"type":"p",
+"hlId":"dce5ff",
+"children":[
+"There is limited evidence that ACE inhibitors (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and angiotensin receptor blockers can halt the progression of AAA growth. However, this patient has an AAA greater than 5.5 cm in diameter and thus needs aortic repair following CTA."
+]
+},
+{
+"type":"p",
+"hlId":"37ceab",
+"children":[
+"A decision to perform open surgical repair (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is premature. The most prudent next step is to determine the anatomic location of the AAA with CTA to plan for surgical or endovascular repair."
+]
+},
+{
+"type":"p",
+"hlId":"12599c",
+"children":[
+"Repeat duplex ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated in this patient because the maximal diameter of this patient's aneurysm is greater than 5.5 cm. The risk for rupture is significantly higher once the maximal diameter is greater than 5.5 cm or if the AAA grows quickly (>0.5 cm/year); therefore, proceeding with a plan for aortic repair is warranted."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s10_3_1",
+"objective":{
+"__html":"Perform noninvasive anatomic imaging to identify the location of an abdominal aortic aneurysm."
+},
+"references":[
+[
+"Chaikof EL, Dalman RL, Eskandari MK, et al. The Society for Vascular Surgery practice guidelines on the care of patients with an abdominal aortic aneurysm. J Vasc Surg. 2018;67:2-77.e2. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29268916",
+"target":"_blank"
+},
+"children":[
+"PMID: 29268916"
+]
+},
+" doi:10.1016/j.jvs.2017.10.044"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":3,
+"C":35,
+"D":41,
+"E":5
+},
+"hlIds":[
+"8ec157",
+"62038b",
+"1a5dcc",
+"dacd30",
+"fbf1aa",
+"49ae12",
+"968848",
+"dce5ff",
+"37ceab",
+"12599c"
+]
+}

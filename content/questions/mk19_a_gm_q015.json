@@ -1,0 +1,216 @@
+{
+"id":"mk19_a_gm_q015",
+"number":15,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9779be",
+"children":[
+"A 79-year-old man is evaluated for an 8-month history of forgetfulness, memory loss, and confusion. He is a retired banker. He is widowed, lives alone, and independently managed his own affairs until recently. His daughter now helps with paying bills and shopping."
+]
+},
+{
+"type":"p",
+"hlId":"cb7123",
+"children":[
+"On physical examination, vital signs are normal. BMI is 25 and unchanged from his last visit. Screening physical examination, including neurologic examination, is normal. Screen for depression is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Apolipoprotein-E (<i>ApoE</i>-ε4) allele testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the head without contrast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fluorodeoxyglucose PET"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mini-Cog testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4a0da8",
+"hvc":true,
+"children":[
+"Objective in-office evaluation for cognitive impairment should be performed when patients or their family members report concerning symptoms, such as confusion, forgetfulness, and memory impairment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"428161",
+"children":[
+"This older patient has symptoms suggestive of cognitive impairment and should be tested using a screening instrument, such as the Mini-Cog (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Cognitive impairment, defined as a progressive decline in at least two cognitive domains (memory, attention, language, visuospatial function, and executive function) that negatively affects patient functioning, is increasingly common with older age. Cognitive impairment is associated with increased risk for falls and loss of independence and is a barrier to appropriate control of chronic medical conditions. Screening for cognitive impairment is an important component of comprehensive geriatric assessment. Objective in-office screening should be performed when patients or family members report symptoms concerning for cognitive impairment. The Mini-Cog, which consists of a three-item recall test followed by a clock-drawing test if three-item recall is abnormal, has appropriate test characteristics to reliably identify cognitive impairment. On the basis of this patient's symptoms, it is most appropriate to perform Mini-Cog testing."
+]
+},
+{
+"type":"p",
+"hlId":"6cd66a",
+"children":[
+"A major risk factor for Alzheimer disease is the presence of the apolipoprotein-E ε4 (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ApoE"
+]
+},
+"-ε4) allele. However, genetic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not recommended in the diagnostic evaluation of dementia, and testing for specific causes of dementia is not indicated until the presence of cognitive impairment is established."
+]
+},
+{
+"type":"p",
+"hlId":"490429",
+"children":[
+"Noncontrast MRI of the brain is preferred to CT of the head (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in the evaluation of cognitive impairment. Before obtaining neuroimaging, the diagnosis of dementia should be established, and the initial step is an office-based cognitive assessment."
+]
+},
+{
+"type":"p",
+"hlId":"61a059",
+"children":[
+"Advanced neuroimaging is helpful in the assessment of cognitive impairment. When neuroimaging is performed, noncontrast MRI of the brain is preferred. When the MRI is normal and the diagnosis is in question, or a non–Alzheimer disease process is being considered, functional brain scans, such as fluorodeoxyglucose PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), can be used to evaluate for specific patterns of decreased brain function. However, this patient first requires documentation of cognitive impairment before either MRI or functional PET is obtained."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_1_5",
+"objective":{
+"__html":"Screen for cognitive impairment in an elderly patient."
+},
+"references":[
+[
+"Oh ES, Rabins PV. Dementia. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201909030",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31476229",
+"target":"_blank"
+},
+"children":[
+"PMID: 31476229"
+]
+}
+],
+[
+"Seematter-Bagnoud L, Büla C. Brief assessments and screening for geriatric conditions in older primary care patients: a pragmatic approach. Public Health Rev. 2018;39:8. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29744236",
+"target":"_blank"
+},
+"children":[
+"PMID: 29744236"
+]
+},
+" doi:10.1186/s40985-018-0086-7"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":6,
+"C":1,
+"D":93,
+"E":0
+},
+"hlIds":[
+"9779be",
+"cb7123",
+"983777",
+"4a0da8",
+"428161",
+"6cd66a",
+"490429",
+"61a059"
+]
+}

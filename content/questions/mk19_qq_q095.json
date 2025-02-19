@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q095",
+"number":95,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 95",
+"stimulus":[
+{
+"type":"p",
+"hlId":"98acd1",
+"children":[
+"A 69-year-old man is evaluated because of worsening cancer–related bone pain. He has metastatic prostate cancer. His pain management regimen consists of ibuprofen and immediate-release morphine every 6 hours, but he experiences breakthrough pain 4 hours after dosing. The pain interferes with sleep and has diminished his quality of life. He has no symptoms of cord compression."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add pregabalin three times daily"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase immediate-release morphine to every 4 hours"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch to immediate-release hydrocodone every 4 hours"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to sustained-release morphine twice daily"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"12a921",
+"children":[
+"When adding a sustained-release opioid, a strategy to avoid overmedication is to give a starting dose of 30% to 50% of the patient's average 24-hour opioid dosage."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1151b1",
+"children":[
+"The dose of the opioid for breakthrough pain is calculated as 10% of the total daily opioid dosage given as an immediate-release opioid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"44fd6d",
+"children":[
+"The most appropriate pain management strategy for this patient is sustained-release morphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Pain control is a common issue in terminally ill patients. NSAIDs and acetaminophen are effective first-line strategies for mild to moderate cancer pain, although dose limits exist for both. When these medications no longer provide sufficient control or if moderate to severe pain is present, adding as-needed short-acting, immediate-release (IR) opioid therapy is appropriate. This patient has moderate pain that returns before his next scheduled dose of IR opioid therapy and requires four doses per day continuously. He would benefit from use of a sustained-release (SR) opioid. An appropriate solution would be SR morphine twice daily. A breakthrough pain strategy should be available so that the patient has options if the SR medication does not provide complete relief. When adding an SR opioid, a strategy to avoid overmedication is to give a starting dose of 30% to 50% of the patient's average 24-hour opioid dosage. The dose of the opioid for breakthrough pain is calculated as 10% of the total daily opioid dosage given as an IR opioid. Titration is more easily achieved if both SR and IR medications are the same drug."
+]
+},
+{
+"type":"p",
+"hlId":"78a781",
+"children":[
+"Gabapentin or pregabalin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be useful in treating neuropathic pain and is used in postoperative patients and patients with cancer pain as an opioid-sparing strategy. This practice is supported by only modest-quality data, which are often extrapolated from studies of other pain syndromes. Adverse effects of gabapentinoids include dizziness, disequilibrium, somnolence, weight gain, peripheral edema, and cognitive difficulties. In 2019, the FDA issued a warning that gabapentinoids may cause serious breathing difficulties in patients with respiratory risk factors, including opioid use and COPD."
+]
+},
+{
+"type":"p",
+"hlId":"5d59c5",
+"children":[
+"Increasing the frequency of the IR medication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not the best answer because of the patient's need for frequent doses, given the recurrent bouts of pain. The goal of palliative therapy for pain is to relieve the patient of significant pain for most of the day, which will result in the infrequent need for additional doses of IR pain medication."
+]
+},
+{
+"type":"p",
+"hlId":"bb33f6",
+"children":[
+"Switching the medication from one IR drug to another (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is also unlikely to make the patient more comfortable."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_3",
+"objective":{
+"__html":"Treat moderate to severe cancer-related pain with sustained-release morphine."
+},
+"references":[
+[
+"Alexander K, Goldberg J, Korc-Grodzicki B. Palliative care and symptom management in older patients with cancer. Clin Geriatr Med. 2016;32:45-62. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26614860",
+"target":"_blank"
+},
+"children":[
+"PMID: 26614860"
+]
+},
+" doi:10.1016/j.cger.2015.08.004"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"98acd1",
+"1054f1",
+"12a921",
+"1151b1",
+"44fd6d",
+"78a781",
+"5d59c5",
+"bb33f6"
+]
+}

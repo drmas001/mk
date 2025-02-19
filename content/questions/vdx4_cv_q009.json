@@ -1,0 +1,238 @@
+{
+"id":"vdx4_cv_q009",
+"number":9,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ec9a7d",
+"children":[
+"A 44-year-old man with a newly diagnosed ischemic stroke is evaluated in the emergency department."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f009",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f009"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b1916c",
+"children":[
+"Which of the following abnormalities is seen on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Left bundle branch block"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left ventricular hypertrophy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Myocardial ischemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nonspecific intraventricular conduction delay"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54dd09",
+"children":[
+"This ECG demonstrates features of left ventricular hypertrophy, including both of the Sokolow-Lyon electrocardiographic criteria for left ventricular hypertrophy:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"a395f6",
+"children":[
+"The sum of the deepest S wave in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" or V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and the tallest R wave in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"5"
+]
+},
+" or V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+" is 35 mm or greater; ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"or"
+]
+}
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"0ce10d",
+"children":[
+"The R wave in lead aVL is 11 mm or greater."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"2a6191",
+"children":[
+"Alternatively, if the deepest S wave plus the S wave in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" sums to 23 mm or greater for women or 28 mm or greater for men, this finding has been found to be more sensitive than the traditional electrocardiographic criteria for diagnosis of left ventricular hypertrophy, with preserved specificity."
+]
+},
+{
+"type":"p",
+"hlId":"aaaada",
+"children":[
+"Secondary ST-T wave abnormalities (asymmetric ST-segment depression and T-wave inversion) is another indication of left ventricular hypertrophy and are seen in leads I, aVL, and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+" in this tracing."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s7",
+"objective":{
+"__html":"Identify ECG features of left ventricular hypertrophy."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f009":{
+"id":"vdx4_cv_mcq_f009",
+"number":9,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"deb90da712d61902584f2a4a7a66bf8b",
+"height":421,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"ec9a7d",
+"4a9f79",
+"b1916c",
+"54dd09",
+"a395f6",
+"0ce10d",
+"2a6191",
+"aaaada"
+]
+}

@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_nr_q084",
+"number":84,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4f4c0c",
+"children":[
+"A 74-year-old man is evaluated for fatigue and lack of energy. He had a pontine infarction 2 months ago. He has hypertension, diabetes mellitus, and dyslipidemia. Current medications are aspirin, hydrochlorothiazide, atorvastatin, and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"68f581",
+"children":[
+"On physical examination, vital signs are normal. BMI is 26. He has left facial weakness, slurred speech, left arm and leg weakness (grade 4+/5 muscle strength) with slower finger and toe tapping, and a wide-based gait using a cane. The remainder of the neurologic and medical examinations is normal."
+]
+},
+{
+"type":"p",
+"hlId":"d85207",
+"children":[
+"Depression screening with the PHQ-9 survey is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bupropion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fluoxetine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methylphenidate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Polysomnography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f44470",
+"children":[
+"In patients with poststroke fatigue, polysomnography to evaluate for sleep-disordered breathing should be considered."
+]
+},
+{
+"type":"keypoint",
+"hlId":"59a91a",
+"children":[
+"Depression is highly prevalent in stroke survivors and is one of the leading modifiable risk factors for long-term disability."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"8e986e",
+"children":[
+"This patient should have polysomnography to evaluate for sleep-disordered breathing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). He has poststroke fatigue, which is highly prevalent (23% to 77%) in survivors of stroke and can significantly affect recovery, rehabilitation, and quality of life. There is likely a neuroanatomic and physiologic basis for poststroke fatigue; however, reversible causes need to be identified and treated first. Sleep-disordered breathing after stroke is highly prevalent (50% to 70%) and may not necessarily present with symptoms of snoring or be purely obstructive. Treatment of sleep-disordered breathing in stroke patients can reduce poststroke fatigue and cognitive impairment. Certain strokes may be more likely to lead to sleep-disordered breathing, including those involving the brainstem (such as in this patient); a normal BMI does not rule out sleep-disordered breathing."
+]
+},
+{
+"type":"p",
+"hlId":"a36e9e",
+"children":[
+"Depression after stroke is common and may present with lack of energy and fatigue. It is one of the leading modifiable risk factors for long-term disability in stroke. In this patient, depression is unlikely given the negative screening for depression. As such, bupropion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not an appropriate option."
+]
+},
+{
+"type":"p",
+"hlId":"3a72bf",
+"children":[
+"Fluoxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is commonly used to promote stroke recovery based on a small clinical trial showing improvement in arm function. A more recently completed trial, however, showed that fluoxetine in the acute setting did not change the long-term degree of disability after stroke."
+]
+},
+{
+"type":"p",
+"hlId":"042204",
+"children":[
+"The use of stimulants such as methylphenidate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has not been shown to be effective at promoting stroke recovery and could pose harm by increasing blood pressure. In patients for whom reversible causes of fatigue have been ruled out and who may have an anatomic basis for fatigue and slowness, such as a bilateral thalamic or medial frontal infarct, stimulants could be considered on a case-by-case basis. In this patient, however, reversible causes such as sleep-disordered breathing have not yet been investigated."
+]
+},
+{
+"type":"p",
+"hlId":"fed8ce",
+"children":[
+"MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not necessary because the patient has not had any new acute focal neurologic symptoms, such as sensory loss or aphasia. Reversible causes of poststroke fatigue should be considered before pursuing additional imaging, which has low yield for identifying reversible causes."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_7_3",
+"objective":{
+"__html":"Evaluate a patient with poststroke fatigue."
+},
+"references":[
+[
+"Hinkle JL, Becker KJ, Kim JS, et al; American Heart Association Council on Cardiovascular and Stroke Nursing and Stroke Council. Poststroke Fatigue: Emerging Evidence and Approaches to Management: A Scientific Statement for Healthcare Professionals From the American Heart Association. Stroke. 2017;48:e159-e170. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28546322",
+"target":"_blank"
+},
+"children":[
+"PMID: 28546322"
+]
+},
+" doi:10.1161/STR.0000000000000132"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":6,
+"C":16,
+"D":25,
+"E":51
+},
+"hlIds":[
+"4f4c0c",
+"68f581",
+"d85207",
+"cb2b54",
+"f44470",
+"59a91a",
+"8e986e",
+"a36e9e",
+"3a72bf",
+"042204",
+"fed8ce"
+]
+}

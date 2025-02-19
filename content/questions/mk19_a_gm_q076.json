@@ -1,0 +1,240 @@
+{
+"id":"mk19_a_gm_q076",
+"number":76,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2b16b7",
+"children":[
+"A 70-year-old man is evaluated for a 1-year history of fatigue and sleeping difficulties that he finds distressing. He reports going to bed at 10 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"PM"
+]
+},
+" and watching television for 20 minutes before attempting sleep. However, it takes up to 2 hours to fall asleep. He wakes once a night to urinate and takes about an hour to fall back asleep. He takes a 2-hour nap every afternoon."
+]
+},
+{
+"type":"p",
+"hlId":"2dc718",
+"children":[
+"Vital signs and physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"12cb32",
+"children":[
+"The patient has no access to cognitive behavioral therapy in his community."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Avoid daytime naps"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Avoid watching television in bed"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Brief behavioral therapy for insomnia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Melatonin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Sleep restriction therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"255f74",
+"children":[
+"Brief behavioral therapy for insomnia is an alternative to cognitive behavioral therapy for first-line treatment of chronic insomnia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"920870",
+"children":[
+"Sleep hygiene may be used as a component of behavioral therapies for insomnia but has not been shown to be effective as a standalone therapy for chronic insomnia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"10f9dd",
+"children":[
+"The most appropriate treatment for this patient is brief behavioral therapy for insomnia (BBT-I) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Multiple guidelines now issue a strong recommendation that cognitive behavioral therapy for insomnia (CBT-I) should be the initial treatment for chronic insomnia; however, CBT-I is not available to many patients. The 2020 U.S. Department of Veterans Affairs and U.S. Department of Defense guidelines on the management of chronic insomnia disorder recommend BBT-I as an alternative that may be more accessible and less time consuming for patients. BBT-I focuses on sleep restriction, stimulus control, and some sleep hygiene techniques, whereas CBT-I also includes relaxation therapy, counter-arousal strategies, and cognitive restructuring to address maladaptive thoughts or beliefs about sleep. These interventions can be delivered in person in an individual or group setting, or via online or telephone-based modules. Data are insufficient to make recommendations on the optimal delivery strategy, but most analyses have been performed on in-person interventions."
+]
+},
+{
+"type":"p",
+"hlId":"babc3f",
+"children":[
+"Certain environmental factors and patient behaviors, such as daytime napping (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), may lead to difficulty in falling asleep and poor sleep quality. Together, identification and correction of these factors and behaviors is known as sleep hygiene. Addressing sleep hygiene is part of BBT-I and CBT-I. Evidence supporting sleep hygiene as effective standalone therapy for chronic insomnia is not available. The 2020 U.S. Department of Veterans Affairs and U.S. Department of Defense guidelines on chronic insomnia recommend against sleep hygiene education as a standalone treatment for chronic insomnia, given this lack of evidence."
+]
+},
+{
+"type":"p",
+"hlId":"a9fc17",
+"children":[
+"Avoidance of watching television before attempting sleep (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is also recommended as part of a sleep hygiene program, although whether this factor contributes to insomnia or poor sleep quality is unknown. This issue may be addressed in patients who are participating in BBT-I, but it should not be recommended as a single therapeutic intervention for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"c142af",
+"children":[
+"Pharmacotherapy is second-line treatment for insomnia and should be reserved for patients who have not responded to nonpharmacologic therapies. There is limited evidence for efficacy of many over-the-counter sleep aids, including melatonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fe2c3f",
+"children":[
+"Sleep restriction therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), which entails limiting the amount of time in bed to increase sleep efficiency, is a component of BBT-I and CBT-I. Like improving sleep hygiene, it is not recommended as a standalone therapy."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_6_2_1",
+"objective":{
+"__html":"Treat insomnia with brief behavioral therapy for insomnia."
+},
+"references":[
+[
+"Mysliwiec V, Martin JL, Ulmer CS, et al. The management of chronic insomnia disorder and obstructive sleep apnea: synopsis of the 2019 U.S. Department of Veterans Affairs and U.S. Department of Defense clinical practice guidelines. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-3575",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:325-36. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32066145",
+"target":"_blank"
+},
+"children":[
+"PMID: 32066145"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":27,
+"B":44,
+"C":23,
+"D":2,
+"E":4
+},
+"hlIds":[
+"2b16b7",
+"2dc718",
+"12cb32",
+"1054f1",
+"255f74",
+"920870",
+"10f9dd",
+"babc3f",
+"a9fc17",
+"c142af",
+"fe2c3f"
+]
+}

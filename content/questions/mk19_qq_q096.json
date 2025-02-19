@@ -1,0 +1,202 @@
+{
+"id":"mk19_qq_q096",
+"number":96,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 96",
+"stimulus":[
+{
+"type":"p",
+"hlId":"30dda5",
+"children":[
+"A 58-year-old woman is evaluated for 15 hours of anterior crushing chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"98ffbe",
+"children":[
+"On physical examination, blood pressure is 110/78 mm Hg and pulse rate is 100/min. The skin is warm. Mentation is normal. ECG shows 2-mm ST-segment elevation (leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") and 1-mm ST-segment depression (leads II and III). Troponin I is elevated. Emergent cardiac catheterization shows complete occlusion of the proximal left anterior descending artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Emergency coronary artery bypass grafting surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intra-aortic balloon pump"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous thrombolytic therapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Primary percutaneous coronary intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8913f5",
+"children":[
+"Percutaneous coronary intervention is the preferred reperfusion strategy in patients with ST-elevation myocardial infarction and symptoms of less than 12 hours' duration."
+]
+},
+{
+"type":"keypoint",
+"hlId":"48fe3b",
+"children":[
+"In late-presenting ST-elevation myocardial infarction (more than 12 hours), primary percutaneous coronary intervention for reperfusion is recommended if the patient has continuing symptoms or if hemodynamic or electrical instability is present."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a7ffbe",
+"children":[
+"This patient should undergo primary percutaneous coronary intervention (PCI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). PCI is the preferred reperfusion strategy in patients with ST-elevation myocardial infarction (STEMI) and symptoms of less than 12 hours' duration. She is being evaluated 15 hours after STEMI onset, with clinical (chest pain) and ECG evidence (ST-segment elevation) of ongoing ischemia. In late-presenting STEMI, primary PCI for reperfusion is recommended if the patient has continuing symptoms or if hemodynamic or electrical instability is present."
+]
+},
+{
+"type":"p",
+"hlId":"b19fdf",
+"children":[
+"Emergency coronary artery bypass grafting surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not a routine method of revascularization in patients with STEMI. Urgent coronary artery bypass grafting surgery or mechanical circulatory support is indicated in patients with STEMI and coronary anatomy not amenable to PCI who have high-risk features, such as refractory ischemia or cardiogenic shock. Logistical issues include performing cardiac catheterization, having access to an operating room, assembling a surgical team, and performing surgery within the time frame needed to salvage the greatest amount of myocardium."
+]
+},
+{
+"type":"p",
+"hlId":"3aa846",
+"children":[
+"Cardiogenic shock is a common complication of STEMI. It typically results from a large anterior myocardial infarction due to severely reduced left ventricular systolic function. Patients with cardiogenic shock, particularly those younger than 75 years, have a higher rate of survival if they receive emergent revascularization. In these cases, an intra-aortic balloon pump (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or left ventricular assist device may be implanted temporarily, although limited data support their benefits in cardiogenic shock. Low blood pressure alone should not be considered diagnostic of end-organ hypoperfusion. Instead, blood pressure should be considered in the context of other physical examination findings that may suggest end-organ hypoperfusion (cool clammy skin, altered mentation, low urine output). This patient has no indication for intra-aortic balloon pump."
+]
+},
+{
+"type":"p",
+"hlId":"e96dfa",
+"children":[
+"Intravenous thrombolytic therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has no clear benefit for patients with STEMI more than 12 hours from symptom onset. Patients best suited for thrombolytic therapy are those who present early after symptom onset and with low bleeding risk; however, PCI is always preferred if the patient is in a PCI-capable facility and the procedure is performed as soon as possible or if the patient can be transferred from an index hospital to a PCI-capable center quickly (time from first medical contact to primary PCI of 120 minutes or less)."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_2_2_1",
+"objective":{
+"__html":"Treat ST-elevation myocardial infarction with percutaneous coronary intervention."
+},
+"references":[
+[
+"Levine GN, Bates ER, Blankenship JC, et al. 2015 ACC/AHA/SCAI focused update on primary percutaneous coronary intervention for patients with ST-elevation myocardial infarction: an update of the 2011 ACCF/AHA/SCAI guideline for percutaneous coronary intervention and the 2013 ACCF/AHA guideline for the management of ST-elevation myocardial infarction: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Society for Cardiovascular Angiography and Interventions. Circulation. 2016;133:1135-47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26490017",
+"target":"_blank"
+},
+"children":[
+"PMID: 26490017"
+]
+},
+" doi:10.1161/CIR.0000000000000336."
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"30dda5",
+"98ffbe",
+"1054f1",
+"8913f5",
+"48fe3b",
+"a7ffbe",
+"b19fdf",
+"3aa846",
+"e96dfa"
+]
+}

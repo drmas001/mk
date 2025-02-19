@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_id_q103",
+"number":103,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 103",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4d5594",
+"children":[
+"A 67-year-old man is hospitalized with new-onset blurred vision, trouble speaking, and dysphagia. He returned home 48 hours ago from a 5-day Caribbean cruise. He felt well until the last day, when he developed nausea and loose stools followed by constipation. Twenty other attendees have been hospitalized with similar symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"dd0696",
+"children":[
+"On physical examination, vital signs are normal. He exhibits dysphonia and dysarthria. The neck is supple. Lateral gaze nystagmus, abnormal ocular adduction, and sluggish dilated pupils are noted. Upper extremity motor weakness is present. Abdominal examination reveals distension and absent bowel sounds. Sensory examination, deep tendon reflexes, and the remainder of the examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute flaccid myelitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Botulism"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Campylobacter</i>-associated Guillain-Barré syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Paralytic shellfish poisoning"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d6f9c6",
+"children":[
+"In patients with botulism, cranial nerve defects and bulbar signs (the 4 Ds: diplopia, dysphonia, dysarthria, and dysphagia) appear first, followed by weakness and flaccid paralysis in the upper extremities, descending to the trunk and lower limbs."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"79d3b2",
+"children":[
+"This man's signs and symptoms are consistent with botulism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), which was likely acquired from ingesting botulinum toxin–contaminated food during his cruise. Cranial nerve defects and bulbar signs (the 4 Ds: diplopia, dysphonia, dysarthria, and dysphagia) appear approximately 12 to 36 hours after toxin ingestion, followed by weakness and flaccid paralysis in the upper extremities, descending to the trunk and lower limbs. Obstructive upper airway issues and diaphragmatic weakness can lead to respiratory failure requiring mechanical ventilation. Deep tendon reflexes can become diminished, but sensation remains intact. Constipation is the most common gastrointestinal manifestation but may be preceded by nausea and mild diarrhea. Botulism is not a febrile disease; however, alterations in parasympathetic autonomic function commonly occur. Mentation is not altered. No specific diagnostic laboratory abnormalities are associated with botulism. Imaging studies help exclude other neurologic entities. Confirmation relies on detecting toxin in foods, gastric secretions, stool, or serum. Supportive care and prompt administration of heptavalent botulinum antitoxin are the mainstays of management. Botulism can also be acquired by inhalation of purified toxin deliberately released in the air."
+]
+},
+{
+"type":"p",
+"hlId":"eb66a3",
+"children":[
+"Acute flaccid myelitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a newly described paralytic neurologic disease linked to respiratory infections involving neuroinvasive enteroviruses. It presents with the acute onset of arm or leg weakness and loss of reflexes. Other manifestations include facial, ocular, and oropharyngeal muscle weakness."
+]
+},
+{
+"type":"p",
+"hlId":"7cd957",
+"children":[
+"Guillain-Barré syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an acute inflammatory polyneuropathy often preceded by a respiratory or gastrointestinal infection, most often ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+". It is considered an autoimmune process triggered by the infectious agent. Lower extremity proximal muscle weakness and areflexia, ascending to involve the arms and trunk, is the typical early presentation. Cranial nerve dysfunction usually does not become prominent until later in the course of disease."
+]
+},
+{
+"type":"p",
+"hlId":"f95c58",
+"children":[
+"Paralytic shellfish poisoning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is associated with the consumption of bivalve mollusks (clams, mussels) that have accumulated saxitoxin, produced by algae. Symptoms usually commence within minutes to 1 hour after ingestion, manifesting with circumoral and extremity paresthesias. Cranial nerve involvement and muscle weakness are variable. Gastrointestinal symptoms may occur."
+]
+},
+{
+"type":"p",
+"hlId":"3bf4e2",
+"children":[
+"The early appearance of cranial nerve findings and lack of sensory symptoms make botulism more likely than acute flaccid myelitis, Guillain-Barré syndrome, and paralytic shellfish poisoning."
+]
+}
+],
+"relatedSection":"mk19_a_id_s13_5",
+"objective":{
+"__html":"Diagnose botulism."
+},
+"references":[
+[
+"Adalja AA, Toner E, Inglesby TV. Clinical management of potential bioterrorism-related conditions. N Engl J Med. 2015;372:954-62. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25738671",
+"target":"_blank"
+},
+"children":[
+"PMID: 25738671"
+]
+},
+" doi:10.1056/NEJMra1409755"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":56,
+"C":19,
+"D":21,
+"E":0
+},
+"hlIds":[
+"4d5594",
+"dd0696",
+"413696",
+"d6f9c6",
+"79d3b2",
+"eb66a3",
+"7cd957",
+"f95c58",
+"3bf4e2"
+]
+}

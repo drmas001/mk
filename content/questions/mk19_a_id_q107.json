@@ -1,0 +1,275 @@
+{
+"id":"mk19_a_id_q107",
+"number":107,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 107",
+"stimulus":[
+{
+"type":"p",
+"hlId":"67a158",
+"children":[
+"A 76-year-old woman is being evaluated in follow-up for hospital-acquired pneumonia that was diagnosed 48 hours ago. Sputum Gram stain showed gram-positive cocci in clusters. The patient had no risk factors for multidrug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" or methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus;"
+]
+},
+" cefepime was started empirically."
+]
+},
+{
+"type":"p",
+"hlId":"348c0e",
+"children":[
+"On physical examination today, temperature is 38.4 °C (101.2 °F), blood pressure is 122/78 mm Hg, pulse rate is 96/min, and respiration rate is 20/min. Crackles are heard at the left lung base."
+]
+},
+{
+"type":"p",
+"hlId":"15c6d7",
+"children":[
+"Sputum culture is now positive for methicillin-sensitive ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+". Blood cultures show no growth."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue cefepime"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Switch to cefazolin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Switch to cephalexin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch to piperacillin-tazobactam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cffd9a",
+"children":[
+"Broad-spectrum empiric antibiotic therapy should always be narrowed to a specific agent based on culture results."
+]
+},
+{
+"type":"keypoint",
+"hlId":"00188e",
+"children":[
+"Most patients with hospital-acquired pneumonia only require treatment for 7 days; exceptions include patients who have bacteremia, have a metastatic infection, show slow response to therapy, are immunocompromised, or have pyogenic complications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ee5295",
+"children":[
+"The most appropriate treatment is switching from cefepime to cefazolin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has hospital-acquired pneumonia (HAP) caused by methicillin-sensitive ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MSSA), and antibiotic treatment for 7 days is recommended. HAP occurs 48 hours or more after admission and excludes infections incubating at the time of admission (e.g., ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella"
+]
+},
+" pneumonia has an incubation period of 2-10 days). Empiric therapy regimens should be adjusted based on culture results, so cefepime should be changed to cefazolin, which has a narrower spectrum and good activity against MSSA. Other treatment options are oxacillin and nafcillin. Treatment for most patients with HAP is 7 days unless they have bacteremia, have a metastatic infection, show slow response to therapy, are immunocompromised, or have pyogenic complications (empyema, lung abscess), in which case a longer course of antibiotics may be warranted."
+]
+},
+{
+"type":"p",
+"hlId":"5945c8",
+"children":[
+"The approach to empiric therapy for HAP is similar to that for ventilator-associated pneumonia. Patients should be assessed for risks for multidrug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" and other gram-negative bacilli and methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+". In the absence of risk factors for multidrug-resistant organisms or MRSA, guidelines recommend empiric treatment for HAP with piperacillin-tazobactam, cefepime, levofloxacin, imipenem, or meropenem. This patient did not have risk factors for multidrug-resistant organisms, so cefepime (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") as an empiric agent was appropriate; however, empiric regimens should be adjusted based on culture results to the most narrow-spectrum antibiotic appropriate. Therefore, continuing cefepime is no longer appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"5fadfe",
+"children":[
+"Cephalexin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an appropriate oral antibiotic option for treating MSSA HAP. However, this patient does not meet the criteria to switch from intravenous to oral antibiotic therapy at this time. Criteria include stabilized vital signs (heart rate <90/min, respiration rate <20/min, stable blood pressure), temperature <38 °C (100.4 °F) for at least 24 hours, resolving leukocytosis (leukocyte count <15,000/µL [15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L]), and symptomatic improvement."
+]
+},
+{
+"type":"p",
+"hlId":"d8cc22",
+"children":[
+"Piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is overly broad coverage for MSSA HAP. It includes gram-negative and anaerobic activity, which is not needed."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_7_2",
+"objective":{
+"__html":"Treat hospital-acquired pneumonia."
+},
+"references":[
+[
+"Kalil AC, Metersky ML, Klompas M, et al. Management of adults with hospital-acquired and ventilator-associated pneumonia: 2016 clinical practice guidelines by the Infectious Diseases Society of America and the American Thoracic Society. Clin Infect Dis. 2016;63:e61-e111. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27418577",
+"target":"_blank"
+},
+"children":[
+"PMID: 27418577"
+]
+},
+" doi:10.1093/cid/ciw353"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":61,
+"C":13,
+"D":8,
+"E":0
+},
+"hlIds":[
+"67a158",
+"348c0e",
+"15c6d7",
+"1054f1",
+"cffd9a",
+"00188e",
+"ee5295",
+"5945c8",
+"5fadfe",
+"d8cc22"
+]
+}

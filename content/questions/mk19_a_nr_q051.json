@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_nr_q051",
+"number":51,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"177dfb",
+"children":[
+"An 18-year-old woman is evaluated for a 5-year history of recurrent headaches. Headaches occur approximately 12 days per month; three of these episodes are severe, occurring without a trigger or premonitory symptoms, and last for a full day, followed by profound fatigue the next day. She describes the pain as bilateral, frontotemporal, steady and throbbing, associated with sensitivities to light and noise, worsening with movement, and causing her to miss 2 or 3 days of school per month. The severe headaches have not responded to ibuprofen or naproxen. The patient also has seasonal allergies. Other medications are fexofenadine and a combination estrogen-progestin oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"cb6bca",
+"children":[
+"All physical examination findings, including vital signs, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin oral zolmitriptan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue the oral contraceptive"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain a brain MRI"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Substitute loratadine for fexofenadine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c005f5",
+"children":[
+"Guidelines recommend the use of triptans in patients with moderate to severe migraine who have not responded to appropriate NSAID therapy over a series of at least three migraine attacks."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1d896a",
+"children":[
+"In the absence of aura, there is no indication to discontinue estrogen-containing oral contraceptives in patients with migraine headaches."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cb352f",
+"children":[
+"This patient has episodic migraine without aura and should be treated with an oral triptan such as zolmitriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Migraine is thought to be a manifestation of a central nervous system that is biologically hypersensitive and prone to episodes of disabling headache. Once initiated, the migraine attack may possess not only the phases of aura and headache, but also of prodrome and postdrome. Prodromal or premonitory symptoms may precede these other phases by hours or sometimes days and, given that timing, they occasionally may be confused for a triggering influence. After severe attacks, postdrome is quite common and often described as a “headache hangover.” Evidence-based guidelines recommend several simple and combination analgesic agents as first-line therapies for acute migraine. Aspirin administered alone or in combination with acetaminophen and caffeine, ibuprofen, naproxen sodium, and dissolvable diclofenac potassium are all supported by strong evidence. Triptans are migraine-specific selective agonists at 5-hydroxytryptamine 1B and 1D receptors with direct impact on trigeminovascular activation associated with migraine attacks. Guidelines recommend the use of triptans (such as zolmitriptan) in patients with moderate to severe migraine who have not responded to NSAID therapy over a series of at least three migraine attacks. Current evidence suggests that all oral triptans possess nearly similar clinical efficacy."
+]
+},
+{
+"type":"p",
+"hlId":"3089fd",
+"children":[
+"In the absence of aura, there is no indication to discontinue estrogen-containing oral contraceptives (OCPs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). There appears to be no significant increase in stroke risk from OCPs in patients with migraine without aura."
+]
+},
+{
+"type":"p",
+"hlId":"6047c1",
+"children":[
+"In the presence of a stable clinical pattern of migraine and a normal neurologic examination, guidelines recommend against brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"7e37e4",
+"children":[
+"Neither fexofenadine nor loratadine have any demonstrated benefit in migraine management, so there would be no indication for switching agents (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s1_3_1_2",
+"objective":{
+"__html":"Treat acute migraine with a triptan."
+},
+"references":[
+[
+"Pringsheim T, Davenport WJ, Marmura MJ, et al. How to apply the AHS evidence assessment of the acute treatment of migraine in adults to your patient with migraine. Headache. 2016;56:1194-200. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27322907",
+"target":"_blank"
+},
+"children":[
+"PMID: 27322907"
+]
+},
+" doi:10.1111/head.12870"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":31,
+"B":54,
+"C":11,
+"D":4,
+"E":0
+},
+"hlIds":[
+"177dfb",
+"cb6bca",
+"1a5dcc",
+"c005f5",
+"1d896a",
+"cb352f",
+"3089fd",
+"6047c1",
+"7e37e4"
+]
+}

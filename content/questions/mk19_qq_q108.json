@@ -1,0 +1,174 @@
+{
+"id":"mk19_qq_q108",
+"number":108,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 108",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c55e55",
+"children":[
+"A 52-year-old man is evaluated for an incidentally discovered pulmonary nodule on a chest radiograph obtained for minor trauma to the chest wall. He is otherwise asymptomatic and has no risk factors for lung cancer. Chest radiograph 10 years ago was normal."
+]
+},
+{
+"type":"p",
+"hlId":"f56fc5",
+"children":[
+"CT reveals a 5-mm solid nodule with a smooth, well-defined border in the peripheral right lung."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT in 6 to 12 months"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"PET now"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transthoracic needle biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No follow-up"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e31c83",
+"children":[
+"Fleischner Society guidelines recommend that nodules smaller than 6 mm in a patient at low risk for lung cancer do not require follow-up evaluation; in patients at higher risk, repeat CT may be considered (optional) in 12 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9124bc",
+"children":[
+"This patient requires no follow-up (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for the pulmonary nodule. Nodules measuring 8 mm or less in diameter are less likely than larger nodules to be malignant, are not reliably characterized by PET, and are difficult to biopsy. Benign nodules are more likely to be solid in appearance with well-defined, smooth borders. Nodules smaller than 6 mm in a patient at low risk for lung cancer do not require follow-up evaluation; in patients at higher risk, repeat CT may be considered (optional) in 12 months. The patient has a solitary pulmonary nodule of 5 mm in diameter and is at low risk for lung cancer. Therefore, no follow-up is appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"00f150",
+"children":[
+"Fleischner Society guidelines recommend that nodules 6 to 8 mm in size be followed by repeat CT in 6 to 12 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient with a 5-mm nodule has no indication for repeat CT in 6 to 12 months."
+]
+},
+{
+"type":"p",
+"hlId":"23b9a9",
+"children":[
+"PET functional imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is usually normal in a subcentimeter pulmonary nodule, even if the nodule is malignant. PET is reserved for characterization of larger nodules with a low to moderate probability of malignancy; a negative PET scan of these nodules supports continued surveillance rather than biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"31d859",
+"children":[
+"Transthoracic needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for evaluation of an enlarging or suspicious-appearing peripheral nodule (spiculated or lobular border, intense uptake on PET scan, diameter >1 cm). Biopsy is not warranted in this patient with a low pretest probability of cancer and a nodule smaller than 8 mm."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_1_2",
+"objective":{
+"__html":"Manage a solitary pulmonary nodule."
+},
+"references":[
+[
+"MacMahon H, Naidich DP, Goo JM, et al. Guidelines for management of incidental pulmonary nodules detected on CT images: from the Fleischner Society 2017. Radiology. 2017;284:228-43. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28240562",
+"target":"_blank"
+},
+"children":[
+"PMID: 28240562"
+]
+},
+" doi:10.1148/radiol.2017161659"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c55e55",
+"f56fc5",
+"1a5dcc",
+"e31c83",
+"9124bc",
+"00f150",
+"23b9a9",
+"31d859"
+]
+}

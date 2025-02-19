@@ -1,0 +1,213 @@
+{
+"id":"mk19_a_id_q031",
+"number":31,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 31",
+"stimulus":[
+{
+"type":"p",
+"hlId":"47580f",
+"children":[
+"A 46-year-old woman is evaluated in the emergency department for a 2-day history of fever. She is also experiencing tenderness at the laparoscopy site for a cholecystectomy performed 9 days ago. Medical history is otherwise noncontributory, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"89626f",
+"children":[
+"On physical examination, temperature is 38.3 °C (101 °F); the remainder of the vital signs are normal. She has moderate tenderness and fullness in the right upper quadrant with deep palpation. Minimal clear drainage is seen from one of the incision sites, but no erythema or tenderness is noted."
+]
+},
+{
+"type":"p",
+"hlId":"3b0dc9",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 14,300/µL (14.3 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abdominal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cephalexin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gram stain and culture of incision site drainage"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Piperacillin-tazobactam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e1f882",
+"children":[
+"Most surgical site infections occur within 30 days following surgery (90 days for surgery involving placement of an implant)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8074e9",
+"children":[
+"Deep/organ space surgical site infections usually present with systemic signs of infection such as fever and leukocytosis, and imaging with CT is necessary to identify abscesses and plan drainage and specimen collection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"743897",
+"children":[
+"This patient likely has a deep incisional or deep/organ space infection, which should be evaluated by abdominal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The risk of surgical site infection (SSI) associated with laparoscopic cholecystectomy is lower than that with open cholecystectomy, but acute cholecystitis or common bile duct stones significantly increases the risk of SSI with laparoscopic cholecystectomy. Most SSIs occur within 30 days following surgery (90 days for surgery involving placement of an implant). SSIs are categorized as superficial incisional, deep incisional, and deep/organ space infections. Deep incisional (involving fascia and/or muscle layers) SSIs and deep/organ space (tissue deep to the fascia) infections usually present with systemic signs of infection such as fever and leukocytosis. Differentiating between the two types of infection based on examination alone can be difficult, so imaging is necessary. CT is useful for identifying deep/organ space SSI abscesses and planning necessary drainage procedures, including obtaining material for culture to guide definitive antibiotic therapy. Bacteremia may occur with deep/organ space infections, so blood cultures should also be considered."
+]
+},
+{
+"type":"p",
+"hlId":"88ffe7",
+"children":[
+"A superficial incisional infection involves the underlying soft tissue and presents with inflammatory changes at the incision site (e.g., erythema, tenderness), with or without purulent drainage, and few if any systemic signs of infection such as fever. Cephalexin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an acceptable antibiotic option for a superficial incisional infection, which commonly involves skin flora, but it is best to wait until culture results are available to initiate antibiotics. More importantly, this patient does not have a superficial incisional infection, but a deep incisional or deep/organ space infection, for which cephalexin would be inadequate."
+]
+},
+{
+"type":"p",
+"hlId":"3277ac",
+"children":[
+"A superficial incisional infection may need to be reopened to determine the extent of infection, allow complete drainage, and obtain proper specimens for Gram stain and culture to guide antibiotic therapy. A superficial swab of the incision site drainage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not adequate for determining organisms causing deeper infections."
+]
+},
+{
+"type":"p",
+"hlId":"f92b75",
+"children":[
+"Empiric therapy with piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not warranted in a stable patient before deep tissue/abscess cultures have been obtained."
+]
+}
+],
+"relatedSection":"mk19_a_id_s17_4_2",
+"objective":{
+"__html":"Diagnose a deep/organ space surgical site infection."
+},
+"references":[
+[
+"Garner BH, Anderson DJ. Surgical site infections: an update. Infect Dis Clin North Am. 2016;30:909-929. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27816143",
+"target":"_blank"
+},
+"children":[
+"PMID: 27816143"
+]
+},
+" doi:10.1016/j.idc.2016.07.010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":81,
+"B":1,
+"C":12,
+"D":5,
+"E":0
+},
+"hlIds":[
+"47580f",
+"89626f",
+"3b0dc9",
+"cb2b54",
+"e1f882",
+"8074e9",
+"743897",
+"88ffe7",
+"3277ac",
+"f92b75"
+]
+}

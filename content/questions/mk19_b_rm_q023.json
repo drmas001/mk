@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_rm_q023",
+"number":23,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"49dc7e",
+"children":[
+"A 62-year-old man is evaluated in the hospital for an arthrocentesis-confirmed diagnosis of acute polyarticular gout involving the right knee, left ankle, and forefoot. Joint fluid Gram stain and culture were negative. He was hospitalized 4 days ago with heart failure complicated by pulmonary embolism. He has a history of recurrent acute gout. The first night of his hospital stay, he developed polyarticular gout that has not responded to appropriate prednisone doses. He also has hypertension, hyperlipidemia, type 2 diabetes mellitus, and stage G3a chronic kidney disease; he underwent kidney transplantation 10 years ago. Current medications include low-molecular-weight heparin, metoprolol, losartan, furosemide, insulin glargine, and tacrolimus."
+]
+},
+{
+"type":"p",
+"hlId":"2ca974",
+"children":[
+"The right knee, left ankle, and forefoot are swollen, tender, and warm."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anakinra"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Colchicine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intra-articular triamcinolone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Naproxen"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9a3afd",
+"children":[
+"In patients with severe refractory gout that has not responded fully to other agents or in whom other agents are contraindicated, anakinra, a recombinant human interleukin-1 receptor antagonist, may be used as off-label treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b41d84",
+"children":[
+"The most appropriate treatment is anakinra (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Anakinra is a recombinant human interleukin (IL)-1 receptor antagonist. IL-1 cytokine activity is an important part of the inflammatory process in acute gout. This patient has a severe polyarticular gout flare likely provoked by diuresis. In patients with severe refractory gout that has not responded fully to other agents or in whom other agents are contraindicated, anakinra may be used as off-label treatment. It has a short half-life and is given by subcutaneous injection, 100 mg/d, usually for 3 to 5 days. The dose is decreased in patients with stage 4 or 5 chronic kidney disease (CKD). Canakinumab, a monoclonal antibody to IL-1β, which blocks binding to the IL-1 receptor, is a longer-acting IL-1 inhibitor that may be used in refractory gout flares but is more expensive than anakinra."
+]
+},
+{
+"type":"p",
+"hlId":"c4dc45",
+"children":[
+"Colchicine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate because this patient has CKD and is receiving tacrolimus. Colchicine use should be avoided in patients taking concomitant cytochrome P450 3A and P-glycoprotein inhibitors, particularly in the setting of CKD. Long-term use of colchicine with tacrolimus or cyclosporine may result in neuromyopathy."
+]
+},
+{
+"type":"p",
+"hlId":"16a247",
+"children":[
+"Intra-articular, intravenous, or intramuscular glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be used to treat acute gout in hospitalized patients in whom both NSAIDs and colchicine are contraindicated or those who cannot take medications orally. This patient has not responded to appropriate doses of oral glucocorticoids, and his comorbidities (hypertension, hyperlipidemia, type 2 diabetes mellitus, heart failure) present relative contraindications to additional or higher-dose glucocorticoid use in any form. In addition, the polyarticular nature of his gout flare makes the use of intra-articular glucocorticoid injection more challenging."
+]
+},
+{
+"type":"p",
+"hlId":"4a3d07",
+"children":[
+"Naproxen, an NSAID (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), is contraindicated in this patient because he has heart failure and is taking low-molecular-weight heparin. NSAIDs can contribute to worsening heart and kidney failure and increase the risk for bleeding in patients taking anticoagulants."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_1",
+"objective":{
+"__html":"Treat refractory gout with anakinra."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":34,
+"C":22,
+"D":1,
+"E":0
+},
+"hlIds":[
+"49dc7e",
+"2ca974",
+"1054f1",
+"9a3afd",
+"b41d84",
+"c4dc45",
+"16a247",
+"4a3d07"
+]
+}

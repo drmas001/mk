@@ -1,0 +1,257 @@
+{
+"id":"mk19_a_id_q027",
+"number":27,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bd7661",
+"children":[
+"A 35-year-old man is evaluated for recurrent sinus infections. He indicates experiencing sinus infections lasting more than 2 weeks requiring antibiotics one to two times per year for the past 10 years. He reports frequent episodes of bronchitis and has been hospitalized twice for pneumonia. Two years ago, he was diagnosed with giardiasis. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"0a1a1b",
+"children":[
+"On physical examination, vital signs are normal. The examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"a1b9c1",
+"children":[
+"Laboratory studies show a quantitative ",
+{
+"type":"reference-range-link",
+"referenceRange":"Immunoglobulins, IgG",
+"children":[
+"IgG"
+]
+},
+" level of less than 500 mg/dL (5 g/L) and a normal complete blood count with differential."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CD4 T-cell subset measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Booster measles vaccination"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"IgG subset (IgG 1-4 levels) measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serologic response to pneumococcal and tetanus vaccination"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole prophylaxis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0bcc1b",
+"children":[
+"Common variable immunodeficiency increases the risk of upper and lower respiratory tract infections caused by encapsulated bacteria, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" species, and respiratory viruses as well as chronic diarrhea caused by giardiasis or chronic norovirus infection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d93ee1",
+"children":[
+"Common variable immunodeficiency can be diagnosed in persons with documented low IgG levels, impaired antibody production to pneumococcal or tetanus vaccines, and variably decreased IgA and IgM antibody levels."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1dadbd",
+"children":[
+"Pneumococcal and tetanus antibodies should be measured before and after vaccination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has had recurrent sinopulmonary infections and has low quantitative immunoglobulin levels, which suggests common variable immunodeficiency (CVID). Several diagnostic criteria have been proposed for CVID, but all require documentation of low IgG levels, with variable presence of decreased IgA and IgM antibody, and demonstration of impaired antibody production to antigenic stimulation. Antibody synthesis should be assessed by measuring antibody levels before and after pneumococcal polysaccharide and tetanus vaccinations. CVID increases risk of upper and lower respiratory tract infections caused by encapsulated bacteria, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" species, and respiratory viruses. Chronic diarrhea with malabsorption suggests giardiasis or chronic norovirus infection. Additionally, patients with CVID are at increased risk of autoimmune disease, inflammatory bowel disease, granulomatous disease (noncaseating granulomas in the lymphoid or solid organs), bronchiectasis, and malignancy. Unlike many primary immunodeficiencies, CVID is often diagnosed in adults rather than during childhood. Diagnosing CVID is important because immunoglobulin replacement therapy decreases the risk of subsequent infections."
+]
+},
+{
+"type":"p",
+"hlId":"35619f",
+"children":[
+"Severe combined immunodeficiency (SCID) is an inherited primary immunodeficiency involving humoral and cellular immunity. Typical manifestations include chronic mucocutaneous candidiasis, recurrent, chronic diarrhea, and severe opportunistic infections such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis jirovecii"
+]
+},
+". SCID is a pediatric disease, with patients rarely surviving to adulthood; therefore, CD4 T-cell subset measurement is not necessary in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"7d2e44",
+"children":[
+"Patients with CVID should receive appropriate immunizations with inactivated vaccines, recognizing that the immunologic response is likely to be blunted. The measles vaccine is a live attenuated virus and is contraindicated in patients with immunodeficiency, including CVID (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"aacc2b",
+"children":[
+"Measurement of IgG subsets would not provide useful information in this setting when the total IgG level is low and would not change management in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"970da1",
+"children":[
+"Antibiotic therapy is indicated for active infections, but prophylaxis is not routinely recommended in patients with CVID because it can select for increasingly resistant organisms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Prophylaxis is recommended in patients with CD4 cell counts less than 200/µL or with chronic granulomatous disease."
+]
+}
+],
+"relatedSection":"mk19_a_id_s12_2_2",
+"objective":{
+"__html":"Diagnose common variable immunodeficiency."
+},
+"references":[
+[
+"Ameratunga R, Woon ST. Perspective: evolving concepts in the diagnosis and understanding of common variable immunodeficiency disorders (CVID). Clin Rev Allergy Immunol. 2019. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31720921",
+"target":"_blank"
+},
+"children":[
+"PMID: 31720921"
+]
+},
+" doi:10.1007/s12016-019-08765-6"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":1,
+"C":60,
+"D":24,
+"E":6
+},
+"hlIds":[
+"bd7661",
+"0a1a1b",
+"a1b9c1",
+"cb2b54",
+"0bcc1b",
+"d93ee1",
+"1dadbd",
+"35619f",
+"7d2e44",
+"aacc2b",
+"970da1"
+]
+}

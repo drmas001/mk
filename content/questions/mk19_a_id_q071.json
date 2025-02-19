@@ -1,0 +1,177 @@
+{
+"id":"mk19_a_id_q071",
+"number":71,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bf6a57",
+"children":[
+"A 62-year-old man is evaluated for a 1-week history of burning pain and a rash over the chest and low back. Medical history is notable for idiopathic pulmonary fibrosis and a single lung transplantation 3 years ago. Medications are tacrolimus, mycophenolate, and prednisone."
+]
+},
+{
+"type":"p",
+"hlId":"93851b",
+"children":[
+"On physical examination, vital signs are normal. Vesicular lesions on an erythematous base are densely present in several dermatomes on the right posterior and anterior thorax and lumbar areas."
+]
+},
+{
+"type":"p",
+"hlId":"57bb8f",
+"children":[
+"The patient is admitted to the hospital with contact and airborne precautions. Polymerase chain reaction testing for varicella-zoster virus is pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous acyclovir"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oral famciclovir"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral valacyclovir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Recombinant herpes zoster vaccine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"103c8e",
+"children":[
+"Oral acyclovir, famciclovir, or valacyclovir speeds recovery and decreases the severity and duration of neuropathic pain if begun within 72 hours of varicella-zoster virus rash onset."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1e29da",
+"children":[
+"Immunosuppressed patients with severe or disseminated varicella-zoster virus infection should be admitted to the hospital for treatment with intravenous acyclovir."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d5fc43",
+"children":[
+"This patient should be given intravenous acyclovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Varicella-zoster virus (VZV) is a common opportunistic infection in solid organ transplant recipients or older adults. VZV reactivation (shingles) presents with pain or paresthesias in a specific dermatome; the characteristic rash develops several days later. In order of frequency, the thoracic, trigeminal, lumbar, and cervical cutaneous dermatomes are most often involved. VZV can present without the typical vesicular rash (zoster sine herpete), the absence of which should not deter physicians from ordering polymerase chain reaction testing for VZV in the appropriate clinical settings (e.g., central nervous system infections). Immunosuppressed patients, including pregnant women, can present with multiple dermatomes affected (disseminated cutaneous disease) or with disseminated visceral disease, which is associated with a high mortality rate. Patients with disseminated cutaneous disease may have disseminated visceral disease. Disseminated cutaneous zoster may also appear as a generalized eruption. Most patients with VZV can be managed in the outpatient setting with oral medications. However, immunocompromised patients with disseminated or otherwise severe herpes zoster should be admitted to the hospital for intravenous acyclovir."
+]
+},
+{
+"type":"p",
+"hlId":"badcd6",
+"children":[
+"Oral acyclovir, famciclovir, or valacyclovir (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, C"
+]
+},
+") speeds recovery and decreases the severity and duration of neuropathic pain if begun within 72 hours of VZV rash onset. However, this immunocompromised patient with cutaneous dissemination should be admitted to the hospital for intravenous acyclovir."
+]
+},
+{
+"type":"p",
+"hlId":"82cb2a",
+"children":[
+"Zoster vaccination (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be considered for this patient after recovery. The Advisory Committee on Immunization Practices recommends vaccination with two doses of the recombinant zoster vaccine (regardless of history of zoster infection or receipt of the live zoster vaccine) in patients aged 50 years and older and in those aged 19 years and older who are immunocompromised."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_3_2",
+"objective":{
+"__html":"Treat disseminated cutaneous herpes zoster infection."
+},
+"references":[
+[
+"Le P, Rothberg M. Herpes zoster infection. BMJ. 2019;364:k5095. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30630827",
+"target":"_blank"
+},
+"children":[
+"PMID: 30630827"
+]
+},
+" doi:10.1136/bmj.k5095"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":76,
+"B":1,
+"C":20,
+"D":2,
+"E":0
+},
+"hlIds":[
+"bf6a57",
+"93851b",
+"57bb8f",
+"1e31fb",
+"103c8e",
+"1e29da",
+"d5fc43",
+"badcd6",
+"82cb2a"
+]
+}

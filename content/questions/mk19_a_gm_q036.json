@@ -1,0 +1,172 @@
+{
+"id":"mk19_a_gm_q036",
+"number":36,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"38bf56",
+"children":[
+"A study evaluated the test characteristics of a new rapid diagnostic test for influenza. Polymerase chain reaction–based testing of nasal secretions was used as the gold standard for diagnosis. The study was performed during the summer, when influenza rates are at their nadir."
+]
+},
+{
+"type":"p",
+"hlId":"77da2d",
+"children":[
+"The sensitivity and specificity of the rapid diagnostic test are 70.6% and 92.8%, respectively. The positive and negative predictive values are 90.7% and 75.9%, respectively."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"53f4b9",
+"children":[
+"Which of the following reflects how the new test will perform at the peak of influenza season?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Negative predictive value will increase"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Positive predictive value will increase"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sensitivity will increase"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Specificity will increase"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5743ae",
+"children":[
+"The positive predictive value is the proportion of persons with a positive test result who have the disease; the negative predictive value is the proportion of persons with a negative test result who are disease free."
+]
+},
+{
+"type":"keypoint",
+"hlId":"20f667",
+"children":[
+"Positive predictive value increases as disease prevalence increases, and negative predictive value decreases as disease prevalence increases."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5607d9",
+"children":[
+"At the peak of influenza season, the positive predictive value of the new test will increase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Positive and negative predictive values reflect the ability of a test to predict the presence or absence of disease in a specific population. The positive predictive value is the proportion of persons with a positive test result who have the disease. Stated another way, the positive predictive value is the likelihood that a person with a positive test result actually has the disease. The negative predictive value is the proportion of persons with a negative test result who are disease free; that is, the likelihood that a person who has a negative test result does not have the disease. Predictive values are influenced by disease prevalence: Positive predictive value increases as disease prevalence increases, and negative predictive value decreases (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") as disease prevalence increases. The converse of these is true as well. Because the prevalence of influenza increases during the peak of influenza season, positive predictive value will increase."
+]
+},
+{
+"type":"p",
+"hlId":"53c309",
+"children":[
+"Sensitivity and specificity reflect the accuracy of the test. Sensitivity is the proportion of persons with the disease who have a positive test result; sensitive tests are those with low rates of false-negative results. Specificity is the proportion of persons without the disease who have a negative test result; specific tests are those with low rates of false-positive results. Sensitivity and specificity do not change with disease prevalence (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_3_3_1",
+"objective":{
+"__html":"Understand the relationship between prevalence and predictive values."
+},
+"references":[
+[
+"Armstrong KA, Metlay JP. Annals clinical decision making: using a diagnostic test. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-1940",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:604-9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32311733",
+"target":"_blank"
+},
+"children":[
+"PMID: 32311733"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":56,
+"C":22,
+"D":9,
+"E":0
+},
+"hlIds":[
+"38bf56",
+"77da2d",
+"53f4b9",
+"5743ae",
+"20f667",
+"5607d9",
+"53c309"
+]
+}

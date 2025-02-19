@@ -1,0 +1,462 @@
+{
+"id":"mk19_a_gi_q021",
+"number":21,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5711eb",
+"children":[
+"A 42-year-old man is evaluated after screening laboratory tests obtained before initiation of statin therapy revealed isolated elevated aminotransferase levels. He is asymptomatic. His only active medical condition is type 2 diabetes mellitus. Medications are metformin and moderate-intensity atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"f48526",
+"children":[
+"On physical examination, vital signs and other findings are normal. Waist circumference is normal. BMI is 23."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c946f0",
+"class":"cell text l",
+"children":[
+"18 g/dL (180 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1e47fa",
+"class":"cell text l",
+"children":[
+"43 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"07a5ac",
+"class":"cell text l",
+"children":[
+"56 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a5c037",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Iron studies, Ferritin, serum",
+"children":[
+"Ferritin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b74cff",
+"class":"cell text l",
+"children":[
+"1200 ng/mL (1200 μg/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"α<sub>1</sub>-Antitrypsin antibody measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transferrin saturation measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine porphyrin measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0094c9",
+"children":[
+"Hereditary hemochromatosis is suggested by the presence of an elevated serum ferritin level and transferrin saturation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0eb38c",
+"children":[
+"The diagnosis of hereditary hemochromatosis is confirmed by testing for mutations in the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" gene."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e01af8",
+"children":[
+"The most appropriate diagnostic test to perform next is transferrin saturation measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient's elevated ferritin level suggests a diagnosis of hereditary hemochromatosis, an autosomal recessive disorder of excessive accumulation of iron in the liver due to a mutation in the genes that control hepcidin synthesis. Cirrhosis and cardiomyopathy are major causes of morbidity; small-joint arthritis is common; and diabetes mellitus and other endocrinopathies may be seen. Early diagnosis may be made through evaluation of abnormal aminotransferase levels. In these patients, the diagnosis is suspected by finding elevated transferrin saturation greater than 45% (guidelines vary) and an elevated serum ferritin level; diagnosis is confirmed through genetic testing. Typically, patients have homozygosity of C282Y polymorphism of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"HFE"
+]
+},
+" gene, but other polymorphisms, such as H63D, may be present."
+]
+},
+{
+"type":"p",
+"hlId":"ce2ed2",
+"children":[
+"α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-Antitrypsin (AAT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") deficiency is an autosomal co-dominant genetic disorder that results in accumulation of a variant protein in the liver. Homozygosity for this condition may result in liver injury and eventual cirrhosis. The hepatic accumulation of AAT results in decreased circulating AAT, leading to lung disease. AAT deficiency does not cause elevations of serum ferritin."
+]
+},
+{
+"type":"p",
+"hlId":"bf2af1",
+"children":[
+"MRI with special software is used to noninvasively assess the extent of cardiac and liver iron overload and generally obviates the need to perform organ biopsy to quantitate iron deposits. Liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used if it is also necessary to grade the degree of fibrosis or evaluate for other liver diseases. Liver biopsy is not indicated for this patient at this time and is not the appropriate next diagnostic test."
+]
+},
+{
+"type":"p",
+"hlId":"d0f895",
+"children":[
+"Porphyria cutanea tarda is diagnosed by plasma or urine porphyrin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This disorder is a less common cause of secondary iron overload associated with acquired abnormalities in porphyrin metabolism and underlying liver disease, especially hepatitis C virus infection. Porphyria cutanea tarda is characterized by cutaneous blisters, often on the hands, and hypertrichosis. This patient has no findings of porphyria cutanea tarda."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_7_3",
+"objective":{
+"__html":"Diagnose hereditary hemochromatosis."
+},
+"references":[
+[
+"Kowdley KV, Brown KE, Ahn J, et al. ACG clinical guideline: hereditary hemochromatosis. Am J Gastroenterol. 2019;114:1202-1218. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31335359",
+"target":"_blank"
+},
+"children":[
+"PMID: 31335359"
+]
+},
+" doi:10.14309/ajg.0000000000000315"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":14,
+"C":79,
+"D":2,
+"E":0
+},
+"hlIds":[
+"5711eb",
+"f48526",
+"a462a3",
+"f9867c",
+"c946f0",
+"62ea29",
+"1e47fa",
+"c7d329",
+"07a5ac",
+"a5c037",
+"b74cff",
+"ab9d96",
+"0094c9",
+"0eb38c",
+"e01af8",
+"ce2ed2",
+"bf2af1",
+"d0f895"
+]
+}

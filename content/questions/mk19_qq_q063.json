@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q063",
+"number":63,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cb56ca",
+"children":[
+"A 55-year-old woman is evaluated because of a 5-day history of insidiously progressive left knee pain worse with weight bearing and relieved with rest. She recently started training for a 5-kilometer road race. She is postmenopausal."
+]
+},
+{
+"type":"p",
+"hlId":"9da697",
+"children":[
+"Physical examination reveals only medial joint line tenderness. Plain radiograph is normal; MRI reveals a subchondral hypointensity with adjacent bone marrow edema of the medial femoral condyle. No other findings are present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Iliotibial band syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Medial tibial stress syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meniscal tear"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stress fracture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1235f7",
+"children":[
+"Typically, patients with stress fractures present with pain on activity that is relieved with rest, and point tenderness."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e7174a",
+"children":[
+"Radiography is first-line diagnostic testing for stress fracture but may fail to reveal a fracture; MRI should be performed when plain films are unrevealing but clinical probability is high."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"051f38",
+"children":[
+"This patient has a stress fracture of the knee (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), specifically a subchondral insufficiency fracture. Stress fractures can be categorized as two types: fatigue fracture and insufficiency fracture. A fatigue fracture occurs when there is abnormal loading on normal bone (e.g., athletes with heavy cyclical weight bearing), and an insufficiency fracture occurs when there is normal loading on abnormal bone (e.g., osteoporotic bone). Typically, patients present with pain on activity that is relieved with rest, and point tenderness. The most common location for fatigue fracture is the tibia. Insufficiency fractures typically occur in the spine, sacrum, pelvis, or knee. Insufficiency fracture of the knee has previously been known as spontaneous osteonecrosis of the knee, but it is now recognized that this entity likely represents subchondral microfractures. It is more common in women and associated with meniscal tears in 80% of cases. Radiography is first-line diagnostic testing but may fail to reveal a fracture. MRI has greater sensitivity; it should be performed when plain films are unrevealing but clinical probability is high. This patient is postmenopausal, putting her at risk for osteoporosis and insufficiency fracture, and MRI findings are consistent with this diagnosis. Management is usually conservative with NSAIDs or analgesics and protected weight bearing; studies indicate conflicting results for bisphosphonate therapy. Surgery may be required for severe or large lesions."
+]
+},
+{
+"type":"p",
+"hlId":"17ad30",
+"children":[
+"Iliotibial band syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is characterized by diffuse, poorly localized lateral knee and distal thigh pain. Pain is initially present at the end of exercise that involves knee flexion and extension, but it may occur earlier in exercise or with rest as the condition progresses. Running outdoors or downhill may worsen symptoms. On examination, there is often tenderness approximately 2 to 3 cm proximal to the lateral femoral condyle. This patient's joint line pain and imaging study exclude iliotibial band syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"530930",
+"children":[
+"Medial tibial stress syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") (shin splints) presents as pain in the mid to distal shins, usually after activity. Diffuse tenderness is often found over the affected area. Diagnosis is clinical, although imaging may be required to rule out stress fracture. Treatment includes avoidance of high-impact activities (e.g., running) and using shock-absorbing insoles. The patient's pain description, pain location, and imaging results do not support medial tibial stress syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"a281af",
+"children":[
+"Meniscal tears (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") usually result from an acute twisting knee injury or can develop more insidiously as a result of chronic degeneration. Symptoms include pain, locking, catching, and grinding. This patient does not have a meniscal tear on knee MRI."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_5_2_1",
+"objective":{
+"__html":"Diagnose stress fracture."
+},
+"references":[
+[
+"Matcuk GR Jr, Mahanty SR, Skalski MR, et al. Stress fractures: pathophysiology, clinical presentation, imaging features, and treatment options. Emerg Radiol. 2016;23:365-75. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27002328",
+"target":"_blank"
+},
+"children":[
+"PMID: 27002328"
+]
+},
+" doi:10.1007/s10140-016-1390-5"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"cb56ca",
+"9da697",
+"413696",
+"1235f7",
+"e7174a",
+"051f38",
+"17ad30",
+"530930",
+"a281af"
+]
+}

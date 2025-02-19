@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q026",
+"number":26,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"638244",
+"children":[
+"A 55-year-old woman is admitted to the hospital for chemotherapy following a diagnosis of Burkitt lymphoma. She is considered to be at high risk for tumor lysis syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"893528",
+"children":[
+"On physical examination, blood pressure is 110/60 mm Hg and pulse rate is 110/min; the remainder of her vital signs are normal. The patient has large, palpable, bilateral cervical, supraclavicular, and axillary lymphadenopathy. Cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"97254c",
+"children":[
+"CT imaging of the chest, abdomen, and pelvis at the time of diagnosis revealed bulky mediastinal and periaortic lymphadenopathy."
+]
+},
+{
+"type":"p",
+"hlId":"685e3e",
+"children":[
+"Intravenous isotonic saline is administered at 200 mL/hour."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4735ae",
+"children":[
+"Which of the following is the most appropriate additional preventive therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetazolamide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Furosemide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rasburicase"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4ffdc0",
+"children":[
+"Tumor lysis syndrome is seen most often in patients with highly proliferative hematologic malignancies, such as acute leukemia and high-grade lymphomas, such as Burkitt lymphoma."
+]
+},
+{
+"type":"keypoint",
+"hlId":"90e0b6",
+"children":[
+"Patients at high risk for tumor lysis syndrome should receive vigorous intravenous hydration and rasburicase."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ec5610",
+"children":[
+"This patient should receive rasburicase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to prevent tumor lysis syndrome (TLS). TLS occurs when tumor cells release their contents into the bloodstream, either spontaneously or as a result of treatment, leading to hyperuricemia, hyperkalemia, hyperphosphatemia, and hypocalcemia. These electrolyte abnormalities can lead to acute kidney injury, cardiac arrhythmias, seizures, and death. The risk of TLS can be categorized based on the volume of cancer mass present, the cell-lysis potential of the cancer, and patient characteristics of preexisting kidney failure, dehydration, acidosis, hypotension, or nephrotoxin exposure. TLS is seen most often in patients with highly proliferative hematologic malignancies, such as acute leukemia and high-grade lymphomas, such as Burkitt lymphoma, but can develop in other cancers. Patients at intermediate risk for TLS can be managed with monitoring of laboratory values, hydration, and allopurinol, and those at high risk, such as this patient, should receive vigorous intravenous hydration and rasburicase, a urate oxidase enzyme that metabolizes urate to allantoin, before receiving chemotherapy. Rasburicase is contraindicated in patients with glucose-6-phosphate dehydrogenase deficiency, and allopurinol should be used instead."
+]
+},
+{
+"type":"p",
+"hlId":"fa9e13",
+"children":[
+"Acetazolamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or bicarbonate is not recommended in the prevention of TLS because urine alkalization will increase the risk of hyperphosphatemia and the precipitation of calcium phosphate crystals."
+]
+},
+{
+"type":"p",
+"hlId":"3da0dc",
+"children":[
+"Allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used to prevent TLS in patients at intermediate risk. Allopurinol is not the first-line agent for prophylaxis in patients at high risk for TLS because it does not work as quickly or consistently as rasburicase. Allopurinol prevents the formation of serum urate through xanthine oxidase inhibition but does not reduce existing serum urate levels by metabolizing urate to a more soluble metabolic end product as does rasburicase."
+]
+},
+{
+"type":"p",
+"hlId":"ea3878",
+"children":[
+"Furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") might be considered in some patients to increase urine flow, particularly in those who become volume overloaded with aggressive intravenous volume expansion. This patient displays some evidence of hypovolemia with low blood pressure and tachycardia, however, and furosemide is contraindicated."
+]
+}
+],
+"relatedSection":"mk19_a_on_s12_2_1",
+"objective":{
+"__html":"Prevent tumor lysis syndrome."
+},
+"references":[
+[
+"Jones GL, Will A, Jackson GH, et al; British Committee for Standards in Haematology. Guidelines for the management of tumour lysis syndrome in adults and children with haematological malignancies on behalf of the British Committee for Standards in Haematology. Br J Haematol. 2015;169:661-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25876990",
+"target":"_blank"
+},
+"children":[
+"PMID: 25876990"
+]
+},
+" doi:10.1111/bjh.13403"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":41,
+"C":3,
+"D":54,
+"E":0
+},
+"hlIds":[
+"638244",
+"893528",
+"97254c",
+"685e3e",
+"4735ae",
+"4ffdc0",
+"90e0b6",
+"ec5610",
+"fa9e13",
+"3da0dc",
+"ea3878"
+]
+}

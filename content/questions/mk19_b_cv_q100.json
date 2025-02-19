@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q100",
+"number":100,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"660ce6",
+"children":[
+"A 55-year-old man is evaluated for easy bruising. The patient underwent mechanical mitral valve replacement 1 year ago. He reports no bleeding. His only medication is warfarin."
+]
+},
+{
+"type":"p",
+"hlId":"776927",
+"children":[
+"On physical examination, vital signs are normal. Cardiac examination reveals a normal mechanical valve sound without murmur. The remainder of the cardiopulmonary examination is normal. Examination of the arms reveals numerous ecchymoses."
+]
+},
+{
+"type":"p",
+"hlId":"9bd9bc",
+"children":[
+"Laboratory studies reveal a normal hemoglobin level; INR is 3.4 and has ranged between 2.6 and 3.5 over the past 3 months."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Continue current warfarin dosage"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Decrease warfarin dosage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue warfarin and start aspirin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Discontinue warfarin and start dabigatran"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Discontinue warfarin and start rivaroxaban"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1884de",
+"children":[
+"Patients with a mechanical cardiac valve require warfarin anticoagulation for thromboembolic prophylaxis; dabigatran is associated with excess bleeding and thrombosis, and the safety of other direct oral anticoagulants has not been assessed."
+]
+},
+{
+"type":"keypoint",
+"hlId":"13168f",
+"children":[
+"In patients with a prosthetic cardiac valve, the appropriate INR goal varies by type of valve and valve position, with a goal INR of 3.0 (range 2.5-3.5) for a mechanical valve in the mitral position."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1ed7e0",
+"children":[
+"The most appropriate antithrombotic therapy is to continue the current dosage of warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's history and examination findings are consistent with a normally functioning mechanical mitral valve. Patients with a mechanical cardiac valve require antithrombotic therapy for thromboembolic prophylaxis. Given the increased thrombogenicity associated with mechanical versus bioprosthetic cardiac valves, antithrombotic management requires anticoagulant therapy rather than antiplatelet monotherapy. With the advent of direct oral anticoagulants (dabigatran, apixaban, rivaroxaban, edoxaban), there has been interest in using these agents in patients with mechanical and bioprosthetic cardiac valves. However, given the data from the randomized RE-ALIGN trial, which showed that dabigatran was associated with excess bleeding and thromboembolic events compared with warfarin, dabigatran (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be avoided. The safety of other direct oral anticoagulants, including rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), has not been assessed, and these agents should not be used. Instead, warfarin and/or aspirin should be used, depending on valve type (bioprosthetic or mechanical) and position (aortic, mitral, pulmonary, or tricuspid). With mechanical valves in the mitral position, guidelines recommend anticoagulation with warfarin, with a goal INR of 3.0. A range of 2.5 to 3.5 is acceptable to balance the risks of under- and over-anticoagulation in a patient with a mechanical mitral valve."
+]
+},
+{
+"type":"p",
+"hlId":"c83ac5",
+"children":[
+"Although this patient has ecchymoses, he has a normal hemoglobin level, no clinical evidence of overt bleeding, and a therapeutic INR. As a result, no change should be made to his warfarin dosing or his goal INR (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In practice, it is difficult to control the INR exactly, and in the absence of clinically significant overt bleeding, the risk for under-anticoagulation precludes a change in INR range for ecchymoses."
+]
+},
+{
+"type":"p",
+"hlId":"5b9d93",
+"children":[
+"Aspirin monotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be used for thromboembolic prophylaxis in patients with a mechanical valve. Adding aspirin (75-100 mg/d) to warfarin may be considered in patients who have an indication for antiplatelet therapy (cardiovascular or cerebrovascular disease) if their bleeding risk is low. Aspirin (75-100 mg/d) monotherapy is also reasonable in patients with a bioprosthetic valve and no additional indication for anticoagulation."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_8",
+"objective":{
+"__html":"Treat a patient with a mechanical mitral valve with warfarin."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":68,
+"B":26,
+"C":1,
+"D":2,
+"E":2
+},
+"hlIds":[
+"660ce6",
+"776927",
+"9bd9bc",
+"1054f1",
+"1884de",
+"13168f",
+"1ed7e0",
+"c83ac5",
+"5b9d93"
+]
+}

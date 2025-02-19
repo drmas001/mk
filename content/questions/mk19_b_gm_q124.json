@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_gm_q124",
+"number":124,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 124",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f8c009",
+"children":[
+"A 66-year-old man is evaluated in the postanesthesia care unit after undergoing elective lumbar laminectomy. He has snoring and oxygen desaturations. Medical history is significant for obesity, hypertension, and diabetes mellitus. Medications are metoprolol, amlodipine, metformin (withheld preoperatively), and hydromorphone."
+]
+},
+{
+"type":"p",
+"hlId":"610063",
+"children":[
+"On physical examination, temperature is 37 °C (98.7 °F), blood pressure is 149/88 mm Hg, pulse rate is 89/min, and respiration rate is 16/min. While awake and upright, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+"s are 95% on 2 L of oxygen and 93% breathing room air; while sleeping supine, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" intermittently dips to 88% on 2 L of oxygen. BMI is 42. His neck is large. On pulmonary examination, lungs are clear. The abdomen is soft and protuberant, with a large pannus."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chest CT angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Elevate head of the bed and limit sedating medications"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start albuterol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start bilevel positive airway pressure ventilation"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Start empiric antibiotics"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"955e54",
+"hvc":true,
+"children":[
+"All surgical patients should be screened preoperatively for obstructive sleep apnea (OSA); a commonly used screening tool for OSA is the STOP-BANG score."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1a32ee",
+"hvc":true,
+"children":[
+"Initial perioperative risk-reduction strategies for a patient at high risk for obstructive sleep apnea include continuous pulse oximetry monitoring, elevation of the head of the bed, and limiting sedating medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2f1a24",
+"children":[
+"The most appropriate management is to continue pulse oximetry monitoring, elevate the head of bed, and limit sedating medications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This hospitalized patient has oxygen desaturations that correspond with his physical position and sleep status but no examination findings suggestive of a primary pulmonary process. He has several risk factors for obstructive sleep apnea (OSA), including an elevated BMI, hypertension, snoring, a large neck, and male sex. This clinical scenario is most consistent with OSA-related desaturations in the setting of supine positioning and somnolence due to recent anesthesia. OSA is exceedingly common in both men and women older than 50 years, and it remains undiagnosed in the majority of patients with the condition. Before surgery, all patients should be screened for OSA, which is associated with adverse perioperative outcomes, including cardiac events, pulmonary complications, and ICU admissions. A commonly used preoperative screening tool for OSA is the STOP-BANG score (1 point each for Snoring, Tiredness, Observed apneas, elevated blood Pressure, BMI >35, Age >50 years, Neck circumference >40 cm, and male Gender)."
+]
+},
+{
+"type":"p",
+"hlId":"e4ac19",
+"children":[
+"Although postoperative pulmonary embolism can occur, this patient has neither consistent hypoxemia nor tachycardia and, most important, has an excellent alternative explanation for his symptoms. Chest CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should not be pursued unless clinical findings to suggest pulmonary embolism emerge."
+]
+},
+{
+"type":"p",
+"hlId":"3cd03b",
+"children":[
+"Given the absence of wheezing on examination and no history of obstructive pulmonary disease, there is no indication for a β-agonist bronchodilator, such as albuterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"405a2d",
+"children":[
+"Continuous or bilevel positive pressure therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is effective for established OSA; however, there is objective evidence that this patient will likely respond to conservative measures. Positive pressure ventilation should be reserved for a lack of response or clinical worsening. However, after hospital discharge, evaluation for OSA is indicated."
+]
+},
+{
+"type":"p",
+"hlId":"25e2c7",
+"children":[
+"Starting empiric antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not indicated because there is no evidence of infection. Although bacterial pneumonia can occur after surgery, it would not become clinically apparent in anesthesia recovery, and this patient has no features consistent with pneumonia."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_3_2",
+"objective":{
+"__html":"Treat obstructive sleep apnea in the postanesthesia care unit."
+},
+"references":[
+[
+"Chung F, Memtsoudis SG, Ramachandran SK, et al. Society of Anesthesia and Sleep Medicine guidelines on preoperative screening and assessment of adult patients with obstructive sleep apnea. Anesth Analg. 2016;123:452-73. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27442772",
+"target":"_blank"
+},
+"children":[
+"PMID: 27442772"
+]
+},
+" doi:10.1213/ANE.0000000000001416"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":59,
+"C":1,
+"D":38,
+"E":0
+},
+"hlIds":[
+"f8c009",
+"610063",
+"cb2b54",
+"955e54",
+"1a32ee",
+"2f1a24",
+"e4ac19",
+"3cd03b",
+"405a2d",
+"25e2c7"
+]
+}

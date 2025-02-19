@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_on_q063",
+"number":63,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5bc1f8",
+"children":[
+"A 61-year-old man is evaluated in the emergency department for chronic low back pain, which has worsened rapidly over the past week and is now associated with new-onset weakness in his legs. Medical history includes metastatic non–small cell carcinoma of the lung. Previous to this event, the patient had good functional status."
+]
+},
+{
+"type":"p",
+"hlId":"ce23e0",
+"children":[
+"On physical examination, vital signs are normal. He has 4/5 muscle strength with flexion at the bilateral hips and knees."
+]
+},
+{
+"type":"p",
+"hlId":"85aa89",
+"children":[
+"MRI of the entire spine reveals a 5-cm mass centered in the posterior elements of L1 and L2 with extension into the epidural space and spinal cord compression."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8e8a00",
+"children":[
+"Which of the following is the most appropriate treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dexamethasone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dexamethasone, surgical resection, and irradiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Irradiation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical resection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"109198",
+"hvc":true,
+"children":[
+"Spinal cord compression from metastatic disease requires emergent use of high-dose glucocorticoids and urgent surgical decompression, followed by irradiation for most tumor types."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0257b3",
+"hvc":true,
+"children":[
+"Spinal cord compression from radiosensitive tumor types, such as leukemia, lymphoma, myeloma, and germ cell tumors, may not require initial surgical decompression and instead, patients may be treated urgently with radiation therapy alone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"352cf1",
+"children":[
+"This patient has epidural spinal cord compression, and treatment with dexamethasone, surgical resection, and irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is associated with the highest likelihood of ambulation. Spinal cord compression occurs in 2.5% of patients with metastatic cancer and may impair lower extremity strength and ambulation. The most common types of cancer that cause epidural spinal cord compression in adults are lung, breast, and prostate cancer, as well as myeloma and lymphoma. Approximately 85% of epidural spinal cord compression cases are caused by epidural extension from vertebral body metastases. Lymphomas are more likely to involve a paraspinal mass that extends through the neural foramina to cause cord compression. Pain, often worse with recumbency, is present in more than 80% of patients and usually precedes neurologic symptoms by several weeks. The patient's neurologic status at diagnosis is the most important predictor of outcome. Of patients who are able to walk when starting treatment, 80% remain ambulatory; however, less than 20% of nonambulatory patients regain the ability to walk. Spinal cord compression from metastatic disease requires emergent use of high-dose glucocorticoids and urgent surgical decompression, followed by irradiation for most tumor types."
+]
+},
+{
+"type":"p",
+"hlId":"91ad5b",
+"children":[
+"Patients are initially treated with glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") at either a moderate or high dose if paraparesis or paraplegia is present, but there is a time-limited duration of benefit. More definitive therapy will be needed."
+]
+},
+{
+"type":"p",
+"hlId":"91b20b",
+"children":[
+"Certain radiosensitive tumor types, such as leukemia, lymphoma, myeloma, and germ cell tumors, may not require initial surgical decompression and instead may be treated urgently with irradiation alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, metastatic lung cancer should be treated with both surgery and radiation therapy if amenable to surgery and for a patient with a good prognosis, particularly in this patient with good functional status before this event."
+]
+},
+{
+"type":"p",
+"hlId":"781ea3",
+"children":[
+"Postsurgical irradiation is required to achieve optimal local tumor control. Surgery followed by irradiation increases the likelihood of ambulation compared with irradiation therapy alone. Glucocorticoids supplement both surgical and radiation treatment and are associated with a rapid reduction in spinal cord edema, pain, and weakness. Surgery without glucocorticoid treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not recommended for patients with acute malignant spinal cord compression."
+]
+}
+],
+"relatedSection":"mk19_a_on_s12_1_3_2",
+"objective":{
+"__html":"Treat a patient with spinal cord compression due to metastatic cancer."
+},
+"references":[
+[
+"Lawton AJ, Lee KA, Cheville AL, et al. Assessment and management of patients with metastatic spinal cord compression: a multidisciplinary review. J Clin Oncol. 2019;37:61-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30395488",
+"target":"_blank"
+},
+"children":[
+"PMID: 30395488"
+]
+},
+" doi:10.1200/JCO.2018.78.1211"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":82,
+"C":5,
+"D":2,
+"E":0
+},
+"hlIds":[
+"5bc1f8",
+"ce23e0",
+"85aa89",
+"8e8a00",
+"109198",
+"0257b3",
+"352cf1",
+"91ad5b",
+"91b20b",
+"781ea3"
+]
+}

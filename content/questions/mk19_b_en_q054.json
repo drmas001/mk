@@ -1,0 +1,233 @@
+{
+"id":"mk19_b_en_q054",
+"number":54,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a879aa",
+"children":[
+"A 75-year-old woman is evaluated in follow-up for abnormal thyroid function test results. The test was obtained to evaluate unexplained weight gain over the previous 6 months. She reports no additional symptoms such as fatigue, cold intolerance, or constipation. She has no other medical concerns."
+]
+},
+{
+"type":"p",
+"hlId":"607780",
+"children":[
+"On physical examination, pulse rate is 82/min. BMI is 26. The thyroid is normal size and without nodules."
+]
+},
+{
+"type":"p",
+"hlId":"b8dd42",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of 9 μU/mL (9 mU/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 1.0 ng/dL (12.9 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate levothyroxine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measure triiodothyronine level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat thyroid function studies in 6 to 8 weeks"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"329882",
+"hvc":true,
+"children":[
+"Subclinical hypothyroidism is typically asymptomatic and diagnosed by a serum thyroid-stimulating hormone level above the upper limit of the reference range and a normal free thyroxine level."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f359d4",
+"hvc":true,
+"children":[
+"No evidence supports that treatment of subclinical hypothyroidism improves quality of life, cognitive function, blood pressure, or weight."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0509f2",
+"children":[
+"The most appropriate management is to repeat the thyroid function studies in 6 to 8 weeks (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has subclinical hypothyroidism. Subclinical hypothyroidism is typically asymptomatic and diagnosed by a serum thyroid-stimulating hormone (TSH) level above the upper limit of the reference range and a normal free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") level. It affects 5% to 10% of the general population. Transient elevation of serum TSH should be ruled out by repeating the measurement in 6 to 8 weeks. The rate of progression from subclinical to overt hypothyroidism is 2% to 4% per year, whereas normal thyroid function will spontaneously return in one third of patients. The normal range for TSH increases with age; a TSH level of up to 10 μU/mL (10 mU/L) is within the normal range for persons 80 years and older."
+]
+},
+{
+"type":"p",
+"hlId":"70cabc",
+"children":[
+"Initiating levothyroxine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for subclinical hypothyroidism with TSH less than 20 μU/mL (20 mU/L) should be considered in younger patients, those attempting to become pregnant, or if severe symptoms are present. This patient fulfills none of these criteria. Subclinical hypothyroidism with TSH greater than 10 μU/mL (10 mU/L) may be a risk factor for coronary artery disease and heart failure. There is no evidence that treating subclinical hypothyroidism improves quality of life, cognitive function, blood pressure, or weight; however, in patients with elevated LDL cholesterol, normalizing the TSH will lower LDL cholesterol. Overtreatment, however, is seen in more than one third of patients older than 65 years, which may increase risk for dysrhythmia and bone loss."
+]
+},
+{
+"type":"p",
+"hlId":"7278f5",
+"children":[
+"Measuring the triiodothyronine level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in the setting of hypothyroidism is not necessary or recommended; normal levels are maintained unless hypothyroidism is severe. TSH will become elevated in hypothyroidism first, followed by abnormalities in the T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" level."
+]
+},
+{
+"type":"p",
+"hlId":"c9d165",
+"children":[
+"This patient should have thyroid function tests repeated in 6 to 8 weeks to confirm the diagnosis of subclinical hypothyroidism and the need for ongoing monitoring. In this context, no additional management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is incorrect."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_5_2_2_2",
+"objective":{
+"__html":"Manage subclinical hypothyroidism."
+},
+"references":[
+[
+"Bekkering GE, Agoritsas T, Lytvyn L, et al. Thyroid hormones treatment for subclinical hypothyroidism: a clinical practice guideline. BMJ. 2019;365:l2006. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31088853",
+"target":"_blank"
+},
+"children":[
+"PMID: 31088853"
+]
+},
+" doi:10.1136/bmj.l2006"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":26,
+"B":6,
+"C":49,
+"D":18,
+"E":0
+},
+"hlIds":[
+"a879aa",
+"607780",
+"b8dd42",
+"cb2b54",
+"329882",
+"f359d4",
+"0509f2",
+"70cabc",
+"7278f5",
+"c9d165"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q048",
+"number":48,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"de2df3",
+"children":[
+"A 42-year-old man is evaluated in the emergency department for sudden-onset right-sided weakness. His symptoms resolved fully over the past hour. He has no known medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"84b227",
+"children":[
+"On physical examination, vital signs are normal. His heart rhythm is regular. Neurologic examination is normal. No carotid bruits or heart murmurs are noted."
+]
+},
+{
+"type":"p",
+"hlId":"496f92",
+"children":[
+"Laboratory study results are normal."
+]
+},
+{
+"type":"p",
+"hlId":"45d983",
+"children":[
+"Magnetic resonance angiogram of the brain demonstrates a small left-sided ischemic stroke but no other lesions. ECG, carotid ultrasound, telemetry, and lower extremity ultrasound are normal. A transesophageal echocardiogram demonstrates a patent foramen ovale (PFO) with right-to-left shunt noted with cough and Valsalva release. No other abnormalities are identified."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"PFO device closure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Warfarin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f62cb4",
+"children":[
+"In patients younger than 60 years with a patent foramen ovale (PFO) and embolic stroke of undetermined source, current guidelines recommend PFO closure following a discussion of potential benefits and risks."
+]
+},
+{
+"type":"keypoint",
+"hlId":"347370",
+"children":[
+"In patients 60 years or older, patent foramen ovale closure may be considered for those who have few traditional risk factors for stroke and no other mechanism of stroke detected, although the benefit is more uncertain than in younger patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"265e96",
+"children":[
+"The most appropriate management is patent foramen ovale (PFO) device closure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The foramen ovale, a passage in the superior portion of the fossa ovalis that allows oxygenated placental blood to transfer to the fetal circulation, remains patent in 25% to 30% of the population. Patients are usually asymptomatic. PFO has been identified at increased rates in patients with embolic stroke of undetermined source, and several randomized studies have demonstrated that percutaneous PFO closure is more effective for preventing recurrent ischemic stroke than antiplatelet therapy for patients younger than 60 years who have an embolic stroke of undetermined source with PFO. Device closure decreases the risk for recurrent stroke by approximately 60% compared with medical therapy. Current guidelines recommend PFO closure in this population following a discussion of potential benefits (absolute recurrent stroke risk reduction of 3.4% at 5 years) and risks (periprocedural complication rate of 3.9% and increased absolute rate of non-periprocedural atrial fibrillation of 0.33% per year). Data regarding benefit of PFO closure in patients older than 60 years are lacking. However, current guidelines indicate that PFO closure may be considered in patients aged 60 to 65 years with few traditional vascular risk factors for stroke and no other mechanism of stroke detected after a thorough evaluation, including prolonged monitoring for atrial fibrillation."
+]
+},
+{
+"type":"p",
+"hlId":"e08971",
+"children":[
+"Young patients with a PFO and embolic stroke of undetermined source should be treated with PFO closure in addition to antiplatelet therapy. Aspirin alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is generally recommended for patients who are older than 60 years or patients who decline PFO closure."
+]
+},
+{
+"type":"p",
+"hlId":"fe91d0",
+"children":[
+"In patients who opt to receive medical therapy alone without PFO closure, either an antiplatelet medication, such as aspirin, or anticoagulation (using a vitamin K antagonist [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"], a direct thrombin inhibitor, or a factor Xa inhibitor) seems to be equally effective in reducing the risk for stroke by about 30%, but confidence intervals are wide, leading to uncertainty of benefit. In patients with a history of venous thromboembolism or hypercoagulable state, expert opinion endorses anticoagulation."
+]
+},
+{
+"type":"p",
+"hlId":"84e0ad",
+"children":[
+"Observation alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has been associated with higher event rates in patients with PFO and stroke. Therefore, it is not appropriate to simply observe without therapy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s9_2",
+"objective":{
+"__html":"Treat patent foramen ovale in a patient with embolic stroke of undetermined source."
+},
+"references":[
+[
+"Messé SR, Gronseth GS, Kent DM, et al. Practice advisory update summary: patent foramen ovale and secondary stroke prevention: report of the Guideline Subcommittee of the American Academy of Neurology. Neurology. 2020;94:876-85. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32350058",
+"target":"_blank"
+},
+"children":[
+"PMID: 32350058"
+]
+},
+" doi:10.1212/WNL.0000000000009443"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":16,
+"B":69,
+"C":10,
+"D":4,
+"E":0
+},
+"hlIds":[
+"de2df3",
+"84b227",
+"496f92",
+"45d983",
+"cb2b54",
+"f62cb4",
+"347370",
+"265e96",
+"e08971",
+"fe91d0",
+"84e0ad"
+]
+}

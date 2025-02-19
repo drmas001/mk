@@ -1,0 +1,486 @@
+{
+"id":"mk19_a_gi_q051",
+"number":51,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 51",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9be019",
+"children":[
+"A 56-year-old man is evaluated for right-upper-quadrant abdominal pain of several months' duration. He otherwise has been well. He does not drink alcohol, has not been exposed to other hepatotoxins, and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"3bfbf5",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals hepatosplenomegaly. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3da59c",
+"class":"cell text l",
+"children":[
+"109,000/μL (109 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"1cc80b",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Alkaline phosphatase, serum",
+"children":[
+"Alkaline phosphatase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"18a3ac",
+"class":"cell text l",
+"children":[
+"450 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fa83e2",
+"class":"cell text l",
+"children":[
+"105 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d4bb80",
+"class":"cell text l",
+"children":[
+"103 U/L"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"271b74",
+"children":[
+"Chest radiograph shows bilateral hilar lymphadenopathy. Result of an interferon-γ release assay is negative."
+]
+},
+{
+"type":"p",
+"hlId":"2d8385",
+"children":[
+"Abdominal ultrasound shows a slightly enlarged, mildly nodular liver, with normal bile ducts. Spleen is 14 cm in length. Liver biopsy reveals changes of non-necrotizing hepatic granulomas without hepatic fibrosis."
+]
+},
+{
+"type":"p",
+"hlId":"2b6ac7",
+"children":[
+"Culture results of liver biopsy specimens are negative for fungal, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Brucella"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coxiella burnetii"
+]
+},
+" infections."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of abdomen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hepatobiliary iminodiacetic acid scintigraphy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance cholangiopancreatography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f2054e",
+"children":[
+"The organ most commonly affected by sarcoidosis is the lung, although the liver is also often affected."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f84f62",
+"children":[
+"In addition to sarcoidosis, conditions such as tuberculosis, fungal infections, brucellosis, Q fever, Hodgkin lymphoma and drug toxicity can also cause granulomatous lesions in the liver."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b1c733",
+"children":[
+"The most appropriate diagnostic test to perform next is upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Granulomatous inflammation of the liver can result in portal hypertension, even in the absence of hepatic fibrosis. Hepatic sarcoidosis is an idiopathic condition that results in non-necrotizing granulomas. The organ most commonly affected by sarcoidosis is the lung, although the liver is also often affected. Most patients with hepatic sarcoidosis are asymptomatic; if symptoms do exist, they are typically mild and may consist of pruritus or abdominal pain due to hepatic capsule stretch. It is unclear whether immunosuppressive therapy affects the clinical course of hepatic sarcoidosis, and treatment is usually not initiated unless symptoms are severe or markers of liver inflammation are significantly abnormal. Conditions such as tuberculosis, fungal infections, brucellosis, Q fever, Hodgkin lymphoma, and drug toxicity can also cause granulomatous lesions in the liver, and steps should be undertaken to exclude these conditions before a diagnosis of sarcoidosis is accepted. The presence of skin or chest imaging findings typical of sarcoidosis also supports the diagnosis of hepatic sarcoidosis. Hepatic sarcoidosis rarely results in liver failure, but portal hypertension is common. Therefore, upper endoscopy to evaluate for esophageal varices is warranted, particularly in this patient with splenomegaly and thrombocytopenia."
+]
+},
+{
+"type":"p",
+"hlId":"0ccba0",
+"children":[
+"This patient's abdominal ultrasound demonstrates a mildly nodular liver, which can be seen in sarcoidosis. However, because liver biopsy specimens do not demonstrate cirrhosis and ultrasound shows no masses, further imaging with CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"22f6e3",
+"children":[
+"Hepatobiliary iminodiacetic acid scintigraphy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") evaluates for pathology associated with gallbladder disease or for a bile leak. In a patient without colicky pain concerning for gallbladder disease or a history of recent biliary interventions, this test would not be useful."
+]
+},
+{
+"type":"p",
+"hlId":"441763",
+"children":[
+"Magnetic resonance cholangiopancreatography (MRCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be useful if biliary stricture is a concern. Although this patient does have an elevated alkaline phosphatase level, which can occur in the setting of biliary strictures, his ultrasound does not demonstrate dilated bile ducts. Therefore, MRCP is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_12_6",
+"objective":{
+"__html":"Diagnose hepatic sarcoidosis."
+},
+"references":[
+[
+"Kumar M, Herrera JL. Sarcoidosis and the liver. Clin Liver Dis. 2019;23:331-343. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30947880",
+"target":"_blank"
+},
+"children":[
+"PMID: 30947880"
+]
+},
+" doi:10.1016/j.cld.2018.12.012"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":44,
+"B":11,
+"C":36,
+"D":9,
+"E":0
+},
+"hlIds":[
+"9be019",
+"3bfbf5",
+"a462a3",
+"fcac73",
+"3da59c",
+"1cc80b",
+"18a3ac",
+"62ea29",
+"fa83e2",
+"c7d329",
+"d4bb80",
+"271b74",
+"2d8385",
+"2b6ac7",
+"ab9d96",
+"f2054e",
+"f84f62",
+"b1c733",
+"0ccba0",
+"22f6e3",
+"441763"
+]
+}

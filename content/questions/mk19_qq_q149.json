@@ -1,0 +1,185 @@
+{
+"id":"mk19_qq_q149",
+"number":149,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 149",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f1ab9",
+"children":[
+"A 60-year-old woman is evaluated after fecal immunochemical test obtained for colorectal cancer screening was positive. A routine screening colonoscopy performed at the age of 50 years was normal. She has no gastrointestinal symptoms. She has no other medical problems that would increase her colorectal cancer risk, and she takes no medications. Family history is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"d1c8c4",
+"children":[
+"On physical examination, vital signs are normal. The remainder of the examination is normal. Complete blood count is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT colonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat fecal immunochemical testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stool DNA testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"df3d93",
+"children":[
+"Any single positive stool test for colorectal cancer should prompt diagnostic colonoscopy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"382d47",
+"children":[
+"This patient should have colonoscopy now (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Any single positive stool test for colorectal cancer should prompt diagnostic colonoscopy. The fecal immunochemical test (FIT) has improved accuracy compared with guaiac fecal occult blood test, but the U.S. Preventive Services Task Force has reported that sensitivity remains only about 73% to 88%, with specificity ranges from 91% to 96%. The lower sensitivity is the main indication for performing stool-based FIT screening at least every other year. This woman with average risk for colorectal cancer and a positive FIT screening result should be advised to have diagnostic colonoscopy."
+]
+},
+{
+"type":"p",
+"hlId":"322939",
+"children":[
+"The U.S. Multi-Society Task Force on Colorectal Cancer recommends CT colonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") as a second-tier test for colorectal cancer screening every 5 years in average-risk patients. CT colonography provides a computer-simulated endoluminal perspective of the air-inflated colon. As for colonoscopy, bowel preparation is required. Colonoscopy is more accurate in the diagnosis of colorectal cancer compared with colonography and has the added ability to biopsy suspicious lesions; CT colonography is only an imaging test, and biopsy cannot be performed."
+]
+},
+{
+"type":"p",
+"hlId":"a5d7b0",
+"children":[
+"Repeat FIT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may result in a false-negative result because of the test's lower sensitivity than specificity; repeat FIT should not be used to delay or avoid diagnostic colonoscopy. Repeat FIT every other year is appropriate for continued screening when FIT results are negative, but in this woman with a positive FIT result, a diagnostic colonoscopy should not be delayed for repeat FIT."
+]
+},
+{
+"type":"p",
+"hlId":"8d9670",
+"children":[
+"Stool DNA testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") increases sensitivity but lowers specificity for detection of colon cancer. In this patient with a positive FIT result, stool DNA testing would not provide added diagnostic information. A negative result from a less specific stool DNA test would not negate the concern for colorectal cancer raised by this patient's more specific FIT result."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_3",
+"objective":{
+"__html":"Diagnose colorectal cancer."
+},
+"references":[
+[
+"Qaseem A, Crandall CJ, Mustafa RA, et al; Clinical Guidelines Committee of the American College of Physicians. Screening for colorectal cancer in asymptomatic average-risk adults: a guidance statement from the American College of Physicians. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-0642",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:643-54. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31683290",
+"target":"_blank"
+},
+"children":[
+"PMID: 31683290"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5f1ab9",
+"d1c8c4",
+"ab9d96",
+"df3d93",
+"382d47",
+"322939",
+"a5d7b0",
+"8d9670"
+]
+}

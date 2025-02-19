@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q010",
+"number":10,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"722860",
+"children":[
+"A 42-year-old man is evaluated for fatigue, dyspnea, and lightheadedness. He was diagnosed with a provoked pulmonary embolism 5 months ago and has been taking apixaban since then. Initially, his dyspnea and tachycardia improved, but over the past 2 months, he has had progressive exertional dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"517b9f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"6f598d",
+"children":[
+"An echocardiogram reveals right atrial enlargement and right ventricular hypertrophy and an elevated mean pulmonary artery pressure."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography of the chest"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"D-dimer assay"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right heart catheterization and pulmonary angiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventilation/perfusion scan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"79be18",
+"children":[
+"A ventilation/perfusion scan is recommended for all patients with pulmonary hypertension to rule out chronic thromboembolic pulmonary hypertension."
+]
+},
+{
+"type":"keypoint",
+"hlId":"560e41",
+"children":[
+"For patients with suspected chronic thromboembolic pulmonary hypertension and an abnormal ventilation/perfusion scan, right heart catheterization and pulmonary angiography will confirm pulmonary hypertension, exclude competing diagnoses, and provide vital information related to potential therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"79e149",
+"children":[
+"The most appropriate diagnostic test is ventilation/perfusion (V/Q) scanning (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to screen for chronic thromboembolic pulmonary hypertension (CTEPH). The diagnosis of CTEPH is difficult and can be overlooked as a cause of pulmonary hypertension (PH). In patients diagnosed with PH, evaluation for CTEPH is warranted even when a history of acute pulmonary embolism is absent. The incidence of CTEPH following acute pulmonary embolism is likely less than 5%. More than 20% of patients with CTEPH do not have a previous diagnosis of pulmonary embolism. Therefore, the diagnosis of CTEPH should not automatically be excluded in patients without a history of pulmonary embolism. In patients who develop or continue to have symptoms suggesting PH after 3 months of appropriate anticoagulation for pulmonary embolism, screening for CTEPH is warranted. A normal V/Q scan is sufficient to exclude CTEPH as its sensitivity for detecting chronic thrombus approaches 100%. An abnormal V/Q requires additional investigation, typically with right heart catheterization and pulmonary angiography."
+]
+},
+{
+"type":"p",
+"hlId":"1bac31",
+"children":[
+"CT angiography (CTA) of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is capable of detecting chronic thromboembolic material within dilated central pulmonary arteries but is less sensitive than pulmonary angiography or V/Q scanning in detecting CTEPH."
+]
+},
+{
+"type":"p",
+"hlId":"10981d",
+"children":[
+"D-dimer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful for evaluating patients with suspected acute pulmonary embolism, but it has no utility in the evaluation of patients for CTEPH. This patient is taking apixaban and therefore is at very low risk for acute pulmonary embolism. In addition, his symptoms are progressive in nature, supporting a chronic condition over a recurrent thromboembolic event."
+]
+},
+{
+"type":"p",
+"hlId":"3ed089",
+"children":[
+"For patients with suspected CTEPH and an abnormal V/Q lung scan, right heart catheterization and pulmonary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") will confirm pulmonary hypertension, exclude competing diagnoses, and provide vital information related to potential therapy. Right heart catheterization and pulmonary angiography can be avoided in patients with a normal V/Q scan, and they should not be used as the initial tests in patients with suspected CTEPH."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_3_1",
+"objective":{
+"__html":"Diagnose chronic thromboembolic pulmonary hypertension."
+},
+"references":[
+[
+"Kim NH, Delcroix M, Jais X, et al. Chronic thromboembolic pulmonary hypertension. Eur Respir J. 2019;53. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30545969",
+"target":"_blank"
+},
+"children":[
+"PMID: 30545969"
+]
+},
+" doi:10.1183/13993003.01915-2018"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":2,
+"C":52,
+"D":27,
+"E":0
+},
+"hlIds":[
+"722860",
+"517b9f",
+"6f598d",
+"2eb226",
+"79be18",
+"560e41",
+"79e149",
+"1bac31",
+"10981d",
+"3ed089"
+]
+}

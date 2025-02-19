@@ -1,0 +1,112 @@
+{
+"id":"vdx4_cv_q043",
+"number":43,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f0bb84",
+"children":[
+"A 63-year-old man is evaluated for hypotension and orthopnea. The neck veins are examined with the patient in a semirecumbent position."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for this ",
+{
+"type":"video-link",
+"target":"vdx4_cv_mcq_v043",
+"wrapId":"1",
+"children":[
+"video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_v043"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anaphylaxis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Blood loss"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Heart failure"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sepsis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2afe4f",
+"children":[
+"This patient's neck examination reveals jugular venous distention, reflecting increased right atrial pressure, which is most likely caused by left-sided heart failure. Other causes of jugular venous distension include cardiac tamponade, right ventricular failure, and massive pulmonary embolism."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_1",
+"objective":{
+"__html":"Diagnose heart failure based on jugular venous distention."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"f0bb84",
+"497ecd",
+"413696",
+"2afe4f"
+]
+}

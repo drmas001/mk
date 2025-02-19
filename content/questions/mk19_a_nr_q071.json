@@ -1,0 +1,194 @@
+{
+"id":"mk19_a_nr_q071",
+"number":71,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5d15ea",
+"children":[
+"A 25-year-old woman is evaluated during a follow-up visit for a generalized tonic-clonic seizure diagnosed yesterday after a comprehensive evaluation. She reports having a similar seizure 1 year ago for which she did not seek medical attention. She also reports that for the past year she has had brief episodes of muscle twitches on awakening that cause her to drop her coffee cup. She has no other medical problems and takes no medications. She is planning a pregnancy."
+]
+},
+{
+"type":"p",
+"hlId":"ddeb1c",
+"children":[
+"CT scan of the head without contrast and follow-up MRI obtained yesterday were normal. An electroencephalogram showed 4- to 6-Hz spike-and-wave discharges consistent with generalized epilepsy."
+]
+},
+{
+"type":"p",
+"hlId":"199fd5",
+"children":[
+"Pregnancy test is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Gabapentin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Levetiracetam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Topiramate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Valproic acid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"69cb59",
+"children":[
+"In adults, juvenile myoclonic epilepsy is the most common form of idiopathic generalized epilepsy; associated myoclonic seizures are often called “college seizures” because of the age of onset (teens or twenties) and associated triggers (sleep deprivation, alcohol use, and stress)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8876a0",
+"children":[
+"In a woman with childbearing potential, lamotrigine and levetiracetam are the safest antiepileptic drug options."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bce2d5",
+"children":[
+"The most appropriate management is to start levetiracetam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient most likely has juvenile myoclonic epilepsy (JME). In adults, JME is the most common form of idiopathic generalized epilepsy. JME seizures often are called “college seizures” because of the age of onset (teens or twenties) and associated triggers (sleep deprivation, alcohol use, and stress). Epilepsy may not be diagnosed until the first generalized tonic-clonic seizure (GTCS) occurs because myoclonic seizures often remain unrecognized. The presence of myoclonic seizures is required for the diagnosis of JME; patients may report dropping items from their hands, commonly a coffee cup or hairbrush, because myoclonic seizures in JME generally occur in the morning. Most affected patients have GTCSs, and approximately 30% of patients have absence seizures. Seizures are often controlled with one or two antiepileptic drugs (AEDs). Lifelong AED therapy is typically required. Because she is planning a pregnancy, lamotrigine and levetiracetam are the preferred treatment options and are considered among the safest seizure medications from a teratogenicity standpoint and for general, long-term safety. However, since lamotrigine has been reported to worsen myoclonic seizures in some patients, levetiracetam may be preferred."
+]
+},
+{
+"type":"p",
+"hlId":"40ecc9",
+"children":[
+"Gabapentin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is used to treat focal seizures, not generalized seizures. Both tonic-clonic and myoclonic seizures are considered generalized seizures."
+]
+},
+{
+"type":"p",
+"hlId":"558a5c",
+"children":[
+"Topiramate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a reasonable treatment option for patients with generalized epilepsy, and it is often used in patients with comorbid migraine. However, topiramate should not be considered first-line treatment for patients with childbearing potential because it is known for its teratogenicity and is associated with cleft lip/palate in offspring."
+]
+},
+{
+"type":"p",
+"hlId":"9100f4",
+"children":[
+"Valproic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can also be considered first-line treatment for JME, but given the negative adverse effects for women (weight gain, polycystic ovary syndrome, teratogenicity), it is a less appropriate management choice for this patient, unless she is resistant to other treatments."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_6_2_2",
+"objective":{
+"__html":"Treat juvenile myoclonic epilepsy in a woman with childbearing potential."
+},
+"references":[
+[
+"Sazgar M. Treatment of women with epilepsy. Continuum (Minneap Minn). 2019;25:408-30. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30921016",
+"target":"_blank"
+},
+"children":[
+"PMID: 30921016"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":87,
+"C":3,
+"D":7,
+"E":0
+},
+"hlIds":[
+"5d15ea",
+"ddeb1c",
+"199fd5",
+"cb2b54",
+"69cb59",
+"8876a0",
+"bce2d5",
+"40ecc9",
+"558a5c",
+"9100f4"
+]
+}

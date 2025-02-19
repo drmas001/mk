@@ -1,0 +1,233 @@
+{
+"id":"mk19_a_on_q009",
+"number":9,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dacade",
+"children":[
+"A 64-year-old man is evaluated in the emergency department for 5 days of increasing bouts of diarrhea. He was diagnosed with metastatic melanoma 2 months ago and has received three doses of immunotherapy with ipilimumab and nivolumab. He was seen 3 days ago for diarrhea (two loose stools daily). Evaluation for infectious causes of diarrhea, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+", was initiated, and loperamide was begun. Today he reports increased diarrhea, with up to five loose stools per day. He takes no additional medications."
+]
+},
+{
+"type":"p",
+"hlId":"940d77",
+"children":[
+"On physical examination, temperature is 36.7 °C (98.0 °F), blood pressure is 95/70 mm Hg, and pulse rate is 100/min. Abdomen is slightly tender and distended without hepatosplenomegaly."
+]
+},
+{
+"type":"p",
+"hlId":"018035",
+"children":[
+"Complete blood count, metabolic panel, and thyroid-stimulating hormone level are normal, and stool studies, including nucleic acid amplification testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" toxin genes, are negative. Fecal calprotectin and fecal lactoferrin levels are elevated."
+]
+},
+{
+"type":"p",
+"hlId":"191840",
+"children":[
+"Ipilimumab and nivolumab are discontinued. The patient is admitted to the hospital for intravenous fluids and additional treatment."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Budesonide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Infliximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mesalamine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Methylprednisolone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b9c334",
+"children":[
+"The more common immunotherapy-related adverse events include dermatitis/mucositis, autoimmune endocrinopathies (thyroiditis, adrenalitis, hypophysitis), pneumonitis, and hepatotoxicity."
+]
+},
+{
+"type":"keypoint",
+"hlId":"24715e",
+"children":[
+"The most appropriate treatment for immunotherapy-induced adverse events is stopping the checkpoint inhibitors and beginning high-dose glucocorticoid therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5e6f03",
+"children":[
+"The most appropriate treatment for this patient is to stop ipilimumab and nivolumab and begin intravenous methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). He most likely has immunotherapy-induced colitis. Colitis is just one of myriad potential autoimmune complications of immunotherapy. The more common complications include dermatitis/mucositis, autoimmune endocrinopathies (thyroiditis, adrenalitis, and hypophysitis), pneumonitis, and hepatotoxicity. Colitis is a relatively frequent complication with immunotherapy and is most common with the combination of the CTLA-4 antibody ipilimumab and a programmed death-1 antibody such as nivolumab. It can, however, occur with either drug alone. It presents with mild to severe diarrhea and can be life-threatening. Prompt recognition, discontinuation of immunotherapy, and initiation of glucocorticoid therapy are crucial for moderate or severe cases. Infections with enteric pathogens and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" should be ruled out. Stool testing for lactoferrin and calprotectin suggest bowel inflammation and can be used to monitor disease activity. Proctoscopy or colonoscopy with biopsy can confirm the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"256044",
+"children":[
+"Oral budesonide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") might be considered in patients with mild noninfectious diarrhea (<4 stools daily) associated with immunotherapy but is inadequate for symptomatic patients with moderate to severe diarrhea."
+]
+},
+{
+"type":"p",
+"hlId":"f62396",
+"children":[
+"For patients who do not respond to glucocorticoids, addition of a tumor necrosis factor inhibitor such as infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be helpful. However, high-dose glucocorticoids are the initial therapy of choice."
+]
+},
+{
+"type":"p",
+"hlId":"eec789",
+"children":[
+"5-Aminosalicylates such as mesalamine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are believed to have an anti-inflammatory mechanism of action and are the mainstay of treatment of mild to moderate ulcerative colitis. This patient is much more likely to have an immunotherapy-related adverse event (colitis) than ulcerative colitis, and treatment with mesalamine is not indicated and will not be helpful."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_1_7",
+"objective":{
+"__html":"Treat moderately severe diarrhea related to immunotherapy."
+},
+"references":[
+[
+"Brahmer JR, Lacchetti C, Schneider BJ, et al; National Comprehensive Cancer Network. Management of immune-related adverse events in patients treated with immune checkpoint inhibitor therapy: American Society of Clinical Oncology Clinical Practice Guideline. J Clin Oncol. 2018;36:1714-68. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29442540",
+"target":"_blank"
+},
+"children":[
+"PMID: 29442540"
+]
+},
+" doi:10.1200/JCO.2017.77.6385"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":23,
+"B":4,
+"C":8,
+"D":66,
+"E":0
+},
+"hlIds":[
+"dacade",
+"940d77",
+"018035",
+"191840",
+"78ff87",
+"b9c334",
+"24715e",
+"5e6f03",
+"256044",
+"f62396",
+"eec789"
+]
+}

@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gi_q063",
+"number":63,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e204f6",
+"children":[
+"A 54-year-old man is evaluated for an 8-week history of postprandial, gnawing, epigastric abdominal pain after every meal. Pain begins 30 minutes after eating, persists for 1 hour, and gradually resolves. He has had an associated 4.5-kg (9.9-lb) weight loss. He has hypertension, coronary artery disease, and peripheral vascular disease. Current medications are aspirin, atorvastatin, lisinopril, and metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"6199b8",
+"children":[
+"Vital signs are normal. BMI is 24. Physical examination reveals epigastric tenderness and an abdominal bruit."
+]
+},
+{
+"type":"p",
+"hlId":"322228",
+"children":[
+"Upper endoscopy findings are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Capsule endoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT mesenteric angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gastric emptying study"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ultrasonography of gallbladder"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eef2c9",
+"children":[
+"The diagnosis of chronic mesenteric ischemia requires exclusion of alternative causes of postprandial abdominal pain and weight loss, along with compatible imaging findings."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5d0e75",
+"children":[
+"CT or magnetic resonance angiography findings suggesting chronic mesenteric ischemia include severe stenosis (>70%) of two of the three mesenteric arteries."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6abdc8",
+"children":[
+"The most appropriate diagnostic test to perform next is CT mesenteric angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Chronic mesenteric ischemia (CMI) is an uncommon condition most often resulting from atherosclerotic narrowing of the mesenteric arteries. The classic symptom triad of CMI is postprandial abdominal pain, sitophobia (fear of eating), and weight loss, but this set of symptoms is seen in only 30% of patients with CMI. In the setting of recurrent postprandial abdominal pain, CMI should be suspected. Pain begins approximately 30 minutes after food ingestion as the fixed narrowing of the mesenteric arteries prevents blood flow from increasing and meeting the increased functional demand of the small bowel, with resultant ischemia. The diagnosis of CMI requires exclusion of alternative causes of postprandial abdominal pain and weight loss, along with compatible imaging findings. CT or magnetic resonance angiography findings suggesting CMI include severe stenosis (>70%) of two of the three mesenteric arteries. If the patient has compatible symptoms and suggestive angiographic findings, and alternative explanations for postprandial abdominal pain have been excluded, then the diagnosis of CMI is secure. In patients with symptoms suggestive of CMI, CT mesenteric angiography is the recommended initial diagnostic imaging test because it allows for rapid and accurate assessment of the mesenteric vasculature. Duplex ultrasonography of the mesenteric vessels is a reasonable screening modality to detect high-grade stenosis of the celiac and superior mesenteric arteries for patients being evaluated in an outpatient setting."
+]
+},
+{
+"type":"p",
+"hlId":"63db99",
+"children":[
+"Capsule endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can visualize the small intestine and is often used in the evaluation of small-bowel bleeding. However, this patient's symptoms suggest ischemic pain rather than bleeding, so capsule endoscopy will provide no diagnostic value."
+]
+},
+{
+"type":"p",
+"hlId":"02aad1",
+"children":[
+"A gastric emptying study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") helps assess for gastroparesis as a cause of postprandial symptoms. Gastroparesis entails delayed gastric emptying without mechanical obstruction and with the cardinal symptoms of nausea, vomiting, early satiety, and postprandial upper abdominal pain. For this patient, however, the presence of atherosclerotic vascular disease, an abdominal bruit and absent nausea, early satiety, and risk factors for gastroparesis support CT mesenteric angiography as the next diagnostic step."
+]
+},
+{
+"type":"p",
+"hlId":"a15d7e",
+"children":[
+"Ultrasonography of the gallbladder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be appropriate if biliary colic were suspected. Abdominal pain from biliary colic is episodic, severe, and steady and is often located in the epigastrium or right upper quadrant, as in this patient. However, biliary pain recurs at different intervals, whereas this patient's pain occurs daily. Therefore, ultrasonography would not be appropriate for this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_9_2_2",
+"objective":{
+"__html":"Diagnose chronic mesenteric ischemia."
+},
+"references":[
+[
+"Kolkman JJ, Geelkerken RH. Diagnosis and treatment of chronic mesenteric ischemia: an update. Best Pract Res Clin Gastroenterol. 2017;31:49-57. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28395788",
+"target":"_blank"
+},
+"children":[
+"PMID: 28395788"
+]
+},
+" doi:10.1016/j.bpg.2017.01.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":90,
+"C":6,
+"D":4,
+"E":0
+},
+"hlIds":[
+"e204f6",
+"6199b8",
+"322228",
+"ab9d96",
+"eef2c9",
+"5d0e75",
+"6abdc8",
+"63db99",
+"02aad1",
+"a15d7e"
+]
+}

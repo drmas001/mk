@@ -1,0 +1,585 @@
+{
+"id":"mk19_b_en_q022",
+"number":22,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fe7d40",
+"children":[
+"A 58-year-old woman with type 2 diabetes mellitus is evaluated in the emergency department for nausea, vomiting, and malaise. She was diagnosed with type 2 diabetes 9 months ago. Medical history is significant for hypertension, hyperlipidemia, and obesity. Medications are metformin, canagliflozin, lisinopril, hydrochlorothiazide, and simvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"4220a7",
+"children":[
+"On physical examination, temperature is normal, blood pressure is 95/65 mm Hg, pulse rate is 118/min, and respiration rate is 28/min. Dry mucous membranes, decreased skin turgor, and diffuse abdominal pain without guarding are noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d5fe2",
+"children":[
+"Laboratory studies: "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"170a24",
+"class":"cell text l",
+"children":[
+"Anion gap"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f1e327",
+"class":"cell text l",
+"children":[
+"22 mEq/L (22 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6827e3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Bicarbonate, serum",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"20d759",
+"class":"cell text l",
+"children":[
+"12 mEq/L (12 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"67e9e6",
+"class":"cell text l",
+"children":[
+"1.2 mg/dL (107 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"39309a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"Glucose, plasma"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"aa13c1",
+"class":"cell text l",
+"children":[
+"183 mg/dL (10 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c74755",
+"class":"cell text l",
+"children":[
+"β-Hydroxybutyrate"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"705e67",
+"class":"cell text l",
+"children":[
+"Elevated"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"5ee98a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Lactate, plasma",
+"children":[
+"Lactate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2d3031",
+"class":"cell text l",
+"children":[
+"1.1 mEq/L (1.1 mmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b99276",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"Sodium"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0e7e50",
+"class":"cell text l",
+"children":[
+"135 mEq/L (135 mmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diabetic ketoacidosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lactic acidosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Gastroenteritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Septic shock"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2490f0",
+"children":[
+"The presence of an anion gap metabolic acidosis and elevated β-hydroxybutyrate levels suggests the diagnosis of diabetic ketoacidosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4b70e8",
+"children":[
+"Euglycemic diabetic ketoacidosis is a severe and potentially lethal complication of sodium-glucose cotransporter 2 inhibitor use."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2d0357",
+"children":[
+"The most likely diagnosis is euglycemic diabetic ketoacidosis (DKA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). DKA is a severe and potentially lethal complication of sodium-glucose cotransporter 2 (SGLT2) inhibitor use. SGLT2 inhibitors promote renal excretion of glucose by blocking the SGLT2 receptor in the proximal tubule. Euglycemic DKA associated with SGLT2 inhibitor use is believed to be initiated by glucosuria, which results in decreased plasma glucose levels and decreased insulin release. The resultant relative insulin deficiency may be insufficient to suppress lipolysis and ketogenesis. In addition, carbohydrate deficiency, volume depletion, and upregulation of counterregulatory stress hormones promote increased lipolysis and ketogenesis, while also maintaining euglycemia. A high level of suspicion is necessary to promptly identify DKA in these individuals, and serum ketones should be checked in those with nausea, vomiting, or malaise while taking an SGLT2 inhibitor. The presence of an increased anion gap metabolic acidosis and elevated β-hydroxybutyrate levels in the setting of SGLT2 use suggests the diagnosis of DKA."
+]
+},
+{
+"type":"p",
+"hlId":"616d7e",
+"children":[
+"Metformin use rarely results in lactic acidosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") but occurs most often in patients with preexisting hepatic or renal dysfunction (estimated glomerular filtration rate <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"). Other risk factors are heart failure and alcohol use. Metformin-induced lactic acidosis may present with nausea, vomiting, and abdominal pain as well as tachycardia, tachypnea, and hypotension, as in this patient. Her serum lactate level is normal, however, making metformin-induced lactic acidosis a less likely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"c85400",
+"children":[
+"Gastroenteritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may present with nausea, vomiting, and malaise as well as hypotension secondary to volume losses. In the absence of shock with hypoperfusion and resultant lactic acidosis, however, this diagnosis would not explain the increased anion gap metabolic acidosis."
+]
+},
+{
+"type":"p",
+"hlId":"4b03f0",
+"children":[
+"Septic shock (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") could cause many of this patient's symptoms as well as a significant increased anion gap metabolic acidosis. The end-organ hypoperfusion secondary to shock, however, would typically cause lactic acidosis, but this patient's serum lactate level is normal."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_4_1",
+"objective":{
+"__html":"Diagnose euglycemic diabetic ketoacidosis in a patient taking a sodium-glucose cotransporter 2 inhibitor."
+},
+"references":[
+[
+"Taylor SI, Blau JE, Rother KI. SGLT2 Inhibitors may predispose to ketoacidosis. J Clin Endocrinol Metab. 2015;100:2849-52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26086329",
+"target":"_blank"
+},
+"children":[
+"PMID: 26086329"
+]
+},
+" doi:10.1210/jc.2015-1884"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":84,
+"B":8,
+"C":4,
+"D":4,
+"E":0
+},
+"hlIds":[
+"fe7d40",
+"4220a7",
+"9d5fe2",
+"170a24",
+"f1e327",
+"6827e3",
+"20d759",
+"f461b2",
+"67e9e6",
+"39309a",
+"aa13c1",
+"c74755",
+"705e67",
+"5ee98a",
+"2d3031",
+"b99276",
+"0e7e50",
+"413696",
+"2490f0",
+"4b70e8",
+"2d0357",
+"616d7e",
+"c85400",
+"4b03f0"
+]
+}

@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q019",
+"number":19,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 19",
+"stimulus":[
+{
+"type":"p",
+"hlId":"33edf2",
+"children":[
+"A 49-year-old man is transferred from a psychiatric hospital to the emergency department because of a change in vital signs and encephalopathy. He has schizophrenia and depression. He was hospitalized 3 days ago for acute psychosis and attempted suicide. In the psychiatric hospital, he was treated with risperidone and fluoxetine. He subsequently developed nausea and vomiting and was prescribed promethazine."
+]
+},
+{
+"type":"p",
+"hlId":"74a219",
+"children":[
+"On physical examination, temperature is 39.5 °C (103.1 °F), blood pressure is 173/112 mm Hg, pulse rate is 132/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 99% with the patient breathing ambient air. He is diaphoretic and tachypneic, with clear lungs. He has tachycardia without murmur, gallops, or rubs. Muscles are rigid. Deep tendon reflexes are normal."
+]
+},
+{
+"type":"p",
+"hlId":"57eb31",
+"children":[
+"Promethazine is discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue fluoxetine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue risperidone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start cyproheptadine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start dantrolene"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"916751",
+"children":[
+"Neuroleptic malignant syndrome is characterized by fever, mental status changes, muscle rigidity, and dysautonomia and is seen with both first-generation antipsychotics and newer atypical antipsychotics and antiemetics."
+]
+},
+{
+"type":"keypoint",
+"hlId":"14db70",
+"children":[
+"Treatment of neuroleptic malignant syndrome includes discontinuation of the triggering agent, active cooling, and supportive care."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"12c85f",
+"children":[
+"The most appropriate initial treatment is discontinuation of risperidone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient developed neuroleptic malignant syndrome as a result of risperidone (an atypical antipsychotic) and promethazine (an antiemetic agent). Neuroleptic malignant syndrome is characterized by fever, mental status changes, muscle rigidity, and dysautonomia. The syndrome is seen both with first-generation antipsychotics and with newer atypical antipsychotics and antiemetics. It is most common at times of medication initiation or escalation of medication doses. It can also be caused by rapid withdrawal of dopaminergic medications. In addition to discontinuation of the triggering agents, active cooling and supportive care (including intravenous fluids) may be used. The mortality rate associated with neuroleptic malignant syndrome may exceed 10%."
+]
+},
+{
+"type":"p",
+"hlId":"d8d19c",
+"children":[
+"Serotonin syndrome is most commonly associated with the use of selective serotonin reuptake inhibitors (SSRIs) such as fluoxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and is typically precipitated by the addition of a second medication that affects the release or uptake of serotonin. Serotonin syndrome is characterized by mental status changes, dysautonomia, hyperthermia, myoclonus, and hyperreflexia. The two features that are most helpful in distinguishing serotonin syndrome from neuroleptic malignant syndrome are the presence of hyperreflexia and myoclonus. Initial management includes removal of the offending agents and supportive care, including benzodiazepines."
+]
+},
+{
+"type":"p",
+"hlId":"205c28",
+"children":[
+"Cyproheptadine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may also be used off-label for serotonin syndrome if symptoms persist despite benzodiazepines. Because this patient does not have serotonin syndrome, these medications are not appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"184eac",
+"children":[
+"Malignant hyperthermia is an autosomal dominant condition resulting from deranged intracellular calcium metabolism in response to inhaled anesthetic agents and succinylcholine. It is characterized by severe hyperthermia, muscle rigidity, rhabdomyolysis, and arrhythmias. Treatment includes cessation of the triggering agent, active cooling, and administration of dantrolene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has not received agents known to trigger malignant hyperthermia, and the patient's symptoms are not consistent with this diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_3",
+"objective":{
+"__html":"Treat neuroleptic malignant syndrome."
+},
+"references":[
+[
+"Ware MR, Feller DB, Hall KL. Neuroleptic malignant syndrome: diagnosis and management. Prim Care Companion CNS Disord. 2018;20. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29325237",
+"target":"_blank"
+},
+"children":[
+"PMID: 29325237"
+]
+},
+" doi:10.4088/PCC.17r02185"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":27,
+"C":17,
+"D":37,
+"E":0
+},
+"hlIds":[
+"33edf2",
+"74a219",
+"57eb31",
+"473b62",
+"916751",
+"14db70",
+"12c85f",
+"d8d19c",
+"205c28",
+"184eac"
+]
+}

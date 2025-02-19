@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_id_q073",
+"number":73,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 73",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a833d0",
+"children":[
+"A 57-year-old man is evaluated for persistent redness and drainage at the site of a puncture wound from a nail he stepped on 17 days ago. He has not responded to initial therapy with cephalexin. Culture obtained 2 days ago is positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" sensitive to ceftazidime, cefepime, piperacillin-tazobactam, and ciprofloxacin. A previous radiograph of the left foot showed no evidence of osteomyelitis. Medical history is notable for recurrent paroxysmal atrial fibrillation, for which he takes amiodarone."
+]
+},
+{
+"type":"p",
+"hlId":"51ca33",
+"children":[
+"On physical examination, vital signs are normal. A small amount of purulent drainage is seen at the puncture wound at the left first metatarsophalangeal joint with some surrounding erythema."
+]
+},
+{
+"type":"p",
+"hlId":"c5a591",
+"children":[
+"Ciprofloxacin will be prescribed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413982",
+"children":[
+"Which screening activity should take place before treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aminotransferase levels"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electrocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lipase level"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Visual acuity"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d2b3f8",
+"children":[
+"Fluoroquinolones are associated with QT-interval prolongation, and baseline electrocardiography should be performed and repeated during therapy if other risk factors for QT-interval prolongation are present."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ef31eb",
+"children":[
+"Fluoroquinolones should be avoided in patients with an aortic aneurysm or those at risk for an aortic aneurysm unless no other treatment options are available."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"31fc73",
+"children":[
+"This patient should undergo electrocardiography before ciprofloxacin is initiated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Fluoroquinolones have been associated with QT-interval prolongation. Patients particularly at risk are those with hypokalemia, hypomagnesemia, and concomitant use of other drugs that cause QT-interval prolongation (e.g., macrolides, azoles, amiodarone). Electrocardiography and corrected QT measurement should be performed before starting a fluoroquinolone in patients at increased risk and periodically thereafter for the duration of treatment. In the absence of additional risk factors, routine electrocardiography screening is not necessary. Additional adverse effects of fluoroquinolones include increased risk of tendinitis and tendon rupture (most commonly the Achilles tendon); hypoglycemia or hyperglycemia; peripheral neuropathy; and neurologic side effects such as delirium, agitation, nervousness, and memory impairment. Fluoroquinolones also carry a two-fold increased risk of rupture and dissection of the aorta; they should be avoided in persons who have an aortic aneurysm or are at risk for an aortic aneurysm (e.g., older adults and those with peripheral atherosclerotic vascular diseases, uncontrolled hypertension, certain genetic conditions) unless no other treatment options are available."
+]
+},
+{
+"type":"p",
+"hlId":"2bf486",
+"children":[
+"Mild elevations of aminotransferase levels are an observed effect of fluoroquinolones, but severe liver disease and liver failure are rare. Obtaining pretreatment aminotransferase levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary. Statins are an example of a drug class for which pretreatment aminotransferase measurements are recommended."
+]
+},
+{
+"type":"p",
+"hlId":"33a106",
+"children":[
+"The gastrointestinal effects of fluoroquinolones (anorexia, nausea, vomiting, mild abdominal discomfort) do not include pancreatitis, so monitoring the serum lipase level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is unnecessary; regardless, the serum lipase level would not be measured unless the patient had symptoms compatible with acute pancreatitis."
+]
+},
+{
+"type":"p",
+"hlId":"6c03a5",
+"children":[
+"Diminished visual acuity is not an adverse effect of fluoroquinolone therapy, and visual acuity screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not necessary before therapy initiation. Changes in visual acuity or red-green color blindness is a known adverse effect of treatment with ethambutol and requires visual acuity testing before starting the drug."
+]
+}
+],
+"relatedSection":"mk19_a_id_s20_2",
+"objective":{
+"__html":"Prevent fluoroquinolone adverse effects."
+},
+"references":[
+[
+"Gorelik E, Masarwa R, Perlman A, et al. Fluoroquinolones and cardiovascular risk: A systematic review, meta-analysis and network meta-analysis. Drug Saf. 2019;42:529-538. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30368737",
+"target":"_blank"
+},
+"children":[
+"PMID: 30368737"
+]
+},
+" doi:10.1007/s40264-018-0751-2"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":86,
+"C":0,
+"D":4,
+"E":0
+},
+"hlIds":[
+"a833d0",
+"51ca33",
+"c5a591",
+"413982",
+"d2b3f8",
+"ef31eb",
+"31fc73",
+"2bf486",
+"33a106",
+"6c03a5"
+]
+}

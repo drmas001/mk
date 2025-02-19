@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_cv_q086",
+"number":86,
+"bookId":"cv",
+"correctAnswer":"E",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f037a",
+"children":[
+"A 56-year-old man is evaluated for a 3-month history of progressive left calf discomfort that is exacerbated when walking stairs and hills and is absent at rest. Medical history is significant for hypertension, hyperlipidemia, and coronary artery disease. He also has a 50-pack-year smoking history but quit smoking 3 years ago. Medications are aspirin, rosuvastatin, metoprolol, and amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"443377",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Left femoral, popliteal, and pedal pulses are faint."
+]
+},
+{
+"type":"p",
+"hlId":"9de0c8",
+"children":[
+"The ankle-brachial index is 0.68 on the left and 0.98 on the right."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ethylenediaminetetraacetic acid"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Revascularization"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Supervised exercise training"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"de7123",
+"hvc":true,
+"children":[
+"In patients with peripheral artery disease and intermittent claudication, supervised exercise training is the most effective treatment to improve maximal walking distance and pain-free walking distance."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3e2b71",
+"hvc":true,
+"children":[
+"Cilostazol, a phosphodiesterase inhibitor, is recommended in addition to a supervised exercise program to improve symptoms and increase walking distance in patients with claudication."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa4162",
+"children":[
+"The most appropriate treatment for this patient with symptomatic peripheral artery disease (PAD) is to start a supervised exercise program (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), regardless of the ankle-brachial index value. In patients with intermittent claudication, supervised exercise training is recommended to improve functional status (maximal walking distance and pain-free walking distance) and quality of life and to reduce leg symptoms. Studies with intermediate- and long-term follow-up also have demonstrated a persistent benefit of supervised exercise in these patients. The risk-benefit ratio for supervised exercise is favorable for patients with PAD (including those with comorbid conditions), and training is recommended for a minimum of 30 to 45 minutes, at least three times weekly for a minimum of 12 weeks. The Centers for Medicare & Medicaid Services provides reimbursement for supervised exercise programs in patients with symptomatic PAD. Cilostazol, a phosphodiesterase inhibitor, is also recommended to improve symptoms and increase walking distance in patients with claudication."
+]
+},
+{
+"type":"p",
+"hlId":"1dc29e",
+"children":[
+"Noninvasive imaging, such as CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), magnetic resonance angiography, or duplex ultrasonography, should be reserved for patients being considered for revascularization. In this patient, guideline-directed medical therapy and a supervised exercise program should be started before consideration of CT angiography."
+]
+},
+{
+"type":"p",
+"hlId":"26ba52",
+"children":[
+"Chelation therapy with ethylenediaminetetraacetic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not beneficial for treatment of claudication (American Heart Association/American College of Cardiology class 3 recommendation). A Cochrane systematic review and meta-analysis concluded that there was no significant difference in maximal and pain-free walking distance with chelation therapy versus placebo."
+]
+},
+{
+"type":"p",
+"hlId":"e8de75",
+"children":[
+"Pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has no benefit for the treatment of symptomatic PAD (class 3 recommendation) and should not be prescribed to this patient."
+]
+},
+{
+"type":"p",
+"hlId":"801df9",
+"children":[
+"Although this patient has progressive symptoms, revascularization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate at this time. Patients with intermittent claudication should be started on a supervised exercise program and medical therapy (e.g., cilostazol, vascular disease risk reduction) before referral for revascularization. If symptoms persist despite these interventions, counseling about the risks and benefits of revascularization (endovascular or surgical) is appropriate."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_4_2",
+"objective":{
+"__html":"Treat a patient with intermittent claudication with supervised exercise training."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2017;135:e686-e725. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27840332",
+"target":"_blank"
+},
+"children":[
+"PMID: 27840332"
+]
+},
+" doi:10.1161/CIR.0000000000000470"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":22,
+"B":1,
+"C":5,
+"D":21,
+"E":51
+},
+"hlIds":[
+"8f037a",
+"443377",
+"9de0c8",
+"cb2b54",
+"de7123",
+"3e2b71",
+"aa4162",
+"1dc29e",
+"26ba52",
+"e8de75",
+"801df9"
+]
+}

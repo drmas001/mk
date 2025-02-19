@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q047",
+"number":47,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d9473a",
+"children":[
+"A 49-year-old woman is evaluated in the emergency department for sudden-onset severe headache of 24 hours' duration. The headache reached its peak intensity within 1 minute. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"530ca9",
+"children":[
+"On physical examination, vital signs are normal. Nuchal rigidity is present. Findings on mental status and funduscopic examinations are normal. There are no cranial nerve deficits."
+]
+},
+{
+"type":"p",
+"hlId":"eb3dcb",
+"children":[
+"A CT scan of the head is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cerebral catheter angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Magnetic resonance venography of the brain"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral sumatriptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4e9aef",
+"children":[
+"Thunderclap headache is a severe headache that reaches maximum intensity within 1 minute and is a medical emergency that warrants immediate evaluation with a head CT scan."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2baf5a",
+"children":[
+"Patients with suspected subarachnoid hemorrhage but a normal head CT scan require a lumbar puncture."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"587f72",
+"children":[
+"The most appropriate next step in management is lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient is seen 24 hours after sudden onset of severe headache (thunderclap headache). Thunderclap headache is defined as a severe attack of headache pain developing abruptly and reaching maximum intensity within 1 minute. Although occasionally of primary origin, thunderclap headache is a medical emergency that warrants immediate diagnostic evaluation. Thunderclap headache has a broad differential diagnosis; the most serious is aneurysmal subarachnoid hemorrhage (SAH). A small proportion (less than 5%) of patients with aneurysmal SAH will have a CT scan of the head that is negative for bleeding and require a lumbar puncture to rule out this condition. In patients with SAH, results on lumbar puncture performed 12 to 24 hours after symptom onset will reveal elevated erythrocyte counts and xanthochromia (yellow color caused by breakdown of red blood cells). If lumbar puncture is performed within 12 hours of symptom onset, it may be challenging to distinguish a traumatic process from the acute presence of erythrocytes from aneurysmal bleeding because xanthochromia may not yet have developed."
+]
+},
+{
+"type":"p",
+"hlId":"d12cd5",
+"children":[
+"Cerebral catheter angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not appropriate because SAH has not been confirmed and an invasive diagnostic test is not yet indicated. If evidence suggests SAH, vascular imaging is indicated to first evaluate for an aneurysm; usually this is done with a less invasive test, such as CT angiography. Noninvasive vascular imaging will also allow for evaluation of other causes of thunderclap headache, such as reversible cerebral vasoconstriction syndrome (RCVS). RCVS manifests as multifocal distal arterial narrowing on imaging."
+]
+},
+{
+"type":"p",
+"hlId":"d74a6d",
+"children":[
+"Magnetic resonance venography of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated because the patient has no historical features or risk factors for dural sinus thrombosis, such as a hypercoagulable state or oral contraceptive use; SAH is the initial possible diagnosis of highest risk. If SAH is ruled out, venous imaging should be considered, particularly if CT findings suggest thrombosis (hyperdensity on noncontrast CT of the head)."
+]
+},
+{
+"type":"p",
+"hlId":"407154",
+"children":[
+"Oral sumatriptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be administered because the patient has an atypical presentation for migraine, and sumatriptan may worsen outcomes in patients with aneurysmal SAH or RCVS."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_2",
+"objective":{
+"__html":"Evaluate suspected subarachnoid hemorrhage with lumbar puncture."
+},
+"references":[
+[
+"Lawton MT, Vates GE. Subarachnoid hemorrhage. N Engl J Med. 2017;377:257-266. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28723321",
+"target":"_blank"
+},
+"children":[
+"PMID: 28723321"
+]
+},
+" doi:10.1056/NEJMcp1605827"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":86,
+"C":8,
+"D":2,
+"E":0
+},
+"hlIds":[
+"d9473a",
+"530ca9",
+"eb3dcb",
+"1a5dcc",
+"4e9aef",
+"2baf5a",
+"587f72",
+"d12cd5",
+"d74a6d",
+"407154"
+]
+}

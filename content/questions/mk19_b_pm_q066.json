@@ -1,0 +1,236 @@
+{
+"id":"mk19_b_pm_q066",
+"number":66,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 66",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a5e5ef",
+"children":[
+"A 70-year-old man is evaluated with overnight polysomnography because of fatigue, nocturnal awakenings, and nocturnal dyspnea. He has heart failure with reduced ejection fraction and atrial fibrillation. Medications are metoprolol, valsartan-sacubitril, spironolactone, and rivaroxaban."
+]
+},
+{
+"type":"p",
+"hlId":"0e4963",
+"children":[
+"Polysomnogram tracing from the respiratory flow channel is ",
+{
+"type":"figure-link",
+"target":"mk19_b_pm_mcq_f066",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". An upward deflection indicates inspiration and a downward deflection indicates exhalation."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_pm_mcq_f066"
+]
+},
+{
+"type":"p",
+"hlId":"097efd",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. BMI is 23.5. Neck circumference is 39.4 cm (15.5 in). Heart rhythm is irregularly irregular. Lungs are clear."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Central sleep apnea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obstructive sleep apnea"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sleep-related hypoventilation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Treatment-emergent central sleep apnea"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c16054",
+"children":[
+"Central sleep apnea is defined by pauses in breathing due to a loss of output from the central respiratory generators in the brainstem to the muscles that make up the respiratory pump."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ad20e1",
+"children":[
+"Central sleep apnea is most commonly associated with heart failure, atrial fibrillation, and opioid use."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bdef02",
+"children":[
+"The most likely diagnosis is central sleep apnea (CSA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The clinical history, risk factors in the form of medical comorbidities, and respiratory tracing from the polysomnogram are most compatible with CSA. CSA is defined by pauses in breathing due to a loss of output from the central respiratory generators in the brainstem to the muscles that make up the respiratory pump. CSA is typically associated with comorbid conditions, most commonly heart failure. Other risk factors include atrial fibrillation and opioid use. The respiratory tracing from the polysomnogram shows the classic configuration of Cheyne-Stokes breathing in CSA, with a crescendo-decrescendo pattern of airflow and intervening breathing pauses as blood carbon dioxide tension falls and the stimulus to breathe dissipates."
+]
+},
+{
+"type":"p",
+"hlId":"1953ea",
+"children":[
+"Although obstructive sleep apnea (OSA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") can coexist with CSA, this patient lacks some important risk factors (obesity and a thick neck). Respiratory flow in OSA would demonstrate cessation of airflow rather than the waxing and waning of ventilation seen here. In OSA, the full polysomnogram tracing would show continued respiratory effort of the rib cage and abdomen despite lack of airflow. This patient's presentation is more consistent with CSA."
+]
+},
+{
+"type":"p",
+"hlId":"614ef6",
+"children":[
+"Sleep-related hypoventilation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") syndromes are associated with advanced COPD, obesity, restrictive lung diseases related to kyphoscoliosis or neuromuscular disorders, and other diseases. Sustained reductions in oxyhemoglobin saturation (<90% for at least 5 minutes or >30% total sleep time by oximetry or polysomnography) in the setting of a compatible medical condition signify a hypoventilation syndrome. OSA may or may not be an associated feature. The patient's clinical picture and Cheyne-Stokes respiratory tracing are not consistent with sleep-related hypoventilation syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"dbe5e4",
+"children":[
+"Approximately 10% of OSA patients treated with positive airway pressure (PAP) exhibit “treatment-emergent CSA” (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), the significance of which is a matter of debate. In many patients, the central apneas dissipate as patients acclimate to PAP therapy. This patient has no evidence of OSA and is not receiving treatment with PAP, making this an untenable diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_4_2",
+"objective":{
+"__html":"Diagnose central sleep apnea."
+},
+"references":[
+[
+"Costanzo MR. Central sleep apnea in patients with heart failure-how to screen, how to treat. Curr Heart Fail Rep. 2020;17:277-287. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32803641",
+"target":"_blank"
+},
+"children":[
+"PMID: 32803641"
+]
+},
+" doi:10.1007/s11897-020-00472-0"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":64,
+"B":21,
+"C":5,
+"D":10,
+"E":0
+},
+"figuresContent":{
+"mk19_b_pm_mcq_f066":{
+"id":"mk19_b_pm_mcq_f066",
+"number":66,
+"bookId":"pm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"a11936b2e47cbc8b24606834c7e8a073",
+"height":89,
+"width":268,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"a5e5ef",
+"0e4963",
+"097efd",
+"413696",
+"c16054",
+"ad20e1",
+"bdef02",
+"1953ea",
+"614ef6",
+"dbe5e4"
+]
+}

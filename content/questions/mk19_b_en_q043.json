@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q043",
+"number":43,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c8a4ba",
+"children":[
+"A 37-year-old transgender woman (genetic male, identifies as a female) requests feminizing hormone therapy. She was diagnosed with gender dysphoria by her psychiatrist in accordance with DSM-5 criteria. She has not previously taken estrogen or antiandrogen medications and currently takes no medications. She smokes one pack of cigarettes daily."
+]
+},
+{
+"type":"p",
+"hlId":"abc498",
+"children":[
+"Laboratory studies, including lipid panel, electrolytes, and complete blood count, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"302cda",
+"children":[
+"Initiation of transdermal estradiol and spironolactone is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"8de3f3",
+"children":[
+"Which of the following treatment risks should be reviewed with the patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Reduction of bone mineral density"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythrocytosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Hypokalemia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Venous thromboembolic disease"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9bcba0",
+"children":[
+"Tobacco cessation should be encouraged before initiation of estrogen therapy in transgender females because of increased risk for venous thromboembolic disease, particularly in those older than 35 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bd2cca",
+"children":[
+"Venous thromboembolism (VTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a risk of estrogen therapy, and this risk increases with age and tobacco use. This patient is older than 35 years and uses tobacco, putting her at higher risk for VTE with estrogen therapy. Studies of transgender females show a significant increase in VTE with use of synthetic estrogens (ethinyl estradiol); therefore, current practice guidelines recommend only the use of estradiol preparations (oral, transdermal, or parenteral routes). This approach also facilitates monitoring the therapy because estradiol measurements are inaccurate in patients taking synthetic or conjugated estrogens. Avoiding supraphysiologic doses of estrogen and maintaining serum estradiol levels between 100 and 200 pg/mL (367-734 pmol/L) is recommended to reduce the risk for VTE. Assessment for VTE risk should be performed before starting estrogen therapy. Transgender patients who seek feminizing hormone therapy, particularly those at high risk, should be counseled on this potential adverse outcome of estrogen therapy. Smoking cessation should be encouraged before initiating therapy. Family or personal history of VTE may be a contraindication to estrogen therapy."
+]
+},
+{
+"type":"p",
+"hlId":"5f52ee",
+"children":[
+"Reduction of bone mineral density (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in transgender patients undergoing gender-affirming hormone therapy is being investigated, but study results are not yet available. Risk for reduced bone density is of highest concern in transgender females who undergo gonadectomy and choose to stop sex hormone treatment. Current practice guidelines recommend obtaining dual-energy x-ray absorptiometry for assessment of bone mineral density when risk factors for osteoporosis exist, specifically in patients who stop sex hormone therapy after gonadectomy. This patient does not meet these criteria, making her risk for fracture low."
+]
+},
+{
+"type":"p",
+"hlId":"23c7e5",
+"children":[
+"Erythrocytosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a potential complication of testosterone therapy, not estrogen therapy. The risk for erythrocytosis should be discussed with all transgender males before initiating testosterone therapy. Current guidelines recommend measurement of hematocrit or hemoglobin every 3 months for the first year, then annually or semiannually."
+]
+},
+{
+"type":"p",
+"hlId":"13958b",
+"children":[
+"Hyperkalemia, not hypokalemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), is a potential risk of antiandrogen therapy. Spironolactone is an antiandrogen agent that competes with aldosterone for receptor sites in the distal renal tubules, leading to increased sodium and water excretion while retaining potassium. Current guidelines recommend monitoring serum electrolytes, particularly potassium, every 2 to 3 months in the first year and periodically thereafter for patients taking spironolactone."
+]
+}
+],
+"relatedSection":"mk19_b_en_s6",
+"objective":{
+"__html":"Identify risks associated with gender-affirming therapy."
+},
+"references":[
+[
+"Hembree WC, Cohen-Kettenis PT, Gooren L, et al. Endocrine treatment of gender-dysphoric/gender-incongruent persons: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2017;102:3869-3903. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28945902",
+"target":"_blank"
+},
+"children":[
+"PMID: 28945902"
+]
+},
+" doi:10.1210/jc.2017-01658"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":2,
+"C":3,
+"D":87,
+"E":0
+},
+"hlIds":[
+"c8a4ba",
+"abc498",
+"302cda",
+"8de3f3",
+"9bcba0",
+"bd2cca",
+"5f52ee",
+"23c7e5",
+"13958b"
+]
+}

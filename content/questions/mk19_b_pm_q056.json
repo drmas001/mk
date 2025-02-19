@@ -1,0 +1,296 @@
+{
+"id":"mk19_b_pm_q056",
+"number":56,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"66250f",
+"children":[
+"A 23-year-old woman is evaluated for chronic cough. She reports several episodes of chronic bronchitis as a child and persistent cough productive of thick purulent sputum since childhood. She also has chronic nasal congestion and chronic diarrhea. Medications are albuterol and glucocorticoid inhalers and benzonatate as needed."
+]
+},
+{
+"type":"p",
+"hlId":"ce7880",
+"children":[
+"On physical examination, vital signs are normal; ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. BMI is 18. Lung examination reveals bilateral diffuse crackles. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"004a5d",
+"children":[
+"Complete blood count and immunoglobulin levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"19608c",
+"children":[
+"Chest CT scan shows bilateral upper-lobe-predominant bronchiectasis with luminal filling."
+]
+},
+{
+"type":"p",
+"hlId":"40bbd8",
+"children":[
+"Spirometry shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 68% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allergic bronchopulmonary aspergillosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"α<sub>1</sub>-Antitrypsin deficiency"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cystic fibrosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"IgA deficiency"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"58cd4a",
+"children":[
+"The diagnosis of cystic fibrosis should be considered in young adults with any symptom or combination of symptoms such as chronic productive cough, recurrent sinusitis, recurrent pulmonary infections, and bronchiectasis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"32ce1a",
+"children":[
+"Sweat chloride testing is the initial test for cystic fibrosis, with genetic testing confirming the diagnosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"796686",
+"children":[
+"The most likely diagnosis is cystic fibrosis (CF) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Cystic fibrosis is an autosomal recessive genetic disorder affecting the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CFTR"
+]
+},
+" gene. The most common genetic variant resulting in disease is ΔF508. The abnormal ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"CFTR"
+]
+},
+" genotype results in abnormally thick secretions that are difficult to clear. These secretions lead to chronic bacterial infection and inflammation in the lungs, which eventually lead to bronchiectasis. Pulmonary symptoms include chronic productive cough, recurrent sinusitis, and recurrent pulmonary infections. Many patients also develop liver disease (from impaired bile flow), endocrine and exocrine pancreatic insufficiency, and malabsorption. Male infertility is common. CF is most commonly diagnosed in children after an abnormal newborn screening but is sometimes not diagnosed until adulthood. Sweat chloride testing is the initial test for CF, with genetic testing confirming the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"6df5d0",
+"children":[
+"Allergic bronchopulmonary aspergillosis (ABPA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an ongoing immunologic response to inhaled ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+" species that leads to persistent eosinophilic airway inflammation, increased IgE levels (both total and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+" specific), and eventually tissue damage with airway remodeling. Patients present with difficult-to-control asthma, productive cough, and expectoration of brownish mucus plugs. Radiographs may demonstrate pulmonary infiltrates and bronchiectasis. The normal immunoglobulin levels and presence of chronic diarrhea make ABPA an unlikely diagnosis in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"b17f41",
+"children":[
+"In α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), proteases that would normally be inactivated by antiproteases (e.g., α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin) lead to destruction of lung tissue. This condition most commonly leads to emphysema, although bronchiectasis can also occur. However, this condition is unlikely given the patient's constellation of pulmonary, sinus, and gastrointestinal symptoms and lack of emphysematous changes on chest imaging."
+]
+},
+{
+"type":"p",
+"hlId":"6d9594",
+"children":[
+"Although selective IgA deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most common primary antibody deficiency, most patients remain asymptomatic. IgA provides mucosal immunity; therefore, patients with IgA deficiency are susceptible to infections of the respiratory tract and, less frequently, gastrointestinal tract. Sinopulmonary infections are the most common presenting manifestation. Patients with IgA deficiency may also develop celiac disease with associated chronic diarrhea. Consideration of IgA deficiency is reasonable in this patient, but immunoglobulin testing is normal, excluding this disorder."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_4",
+"objective":{
+"__html":"Diagnose cystic fibrosis."
+},
+"references":[
+[
+"Boucher RC. Muco-obstructive lung diseases. N Engl J Med. 2019;380:1941-1953. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31091375",
+"target":"_blank"
+},
+"children":[
+"PMID: 31091375"
+]
+},
+" doi:10.1056/NEJMra1813799"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":10,
+"C":79,
+"D":8,
+"E":0
+},
+"hlIds":[
+"66250f",
+"ce7880",
+"004a5d",
+"19608c",
+"40bbd8",
+"413696",
+"58cd4a",
+"32ce1a",
+"796686",
+"6df5d0",
+"b17f41",
+"6d9594"
+]
+}

@@ -1,0 +1,492 @@
+{
+"id":"mk19_b_rm_q033",
+"number":33,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 33",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5fc917",
+"children":[
+"A 73-year-old woman is hospitalized for progressive dyspnea. Six months ago, she developed chronic sinusitis and nose bleeds. Four months ago, a persistent dry chronic cough developed, followed by myalgia and distal paresthesia. She has lost 13.6 kg (30 lb)."
+]
+},
+{
+"type":"p",
+"hlId":"f56209",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F), blood pressure is 148/96 mm Hg, pulse rate is 104/min, respiration rate is 24/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 94% with the patient breathing ambient air. Dry crackles are heard at the lung bases. There is loss of sensation to light touch in the left foot. Numerous small palpable red-purple lesions are present on the lower legs."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"82aa14",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8f4bc2",
+"class":"cell text l",
+"children":[
+"120 mm/h"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f461b2",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8704ba",
+"class":"cell text l",
+"children":[
+"1.7 mg/dL (150.3 μmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8340e6",
+"class":"cell text l",
+"children":[
+"ANCA"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"328929",
+"class":"cell text l",
+"children":[
+"Positive"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8377f4",
+"class":"cell text l",
+"children":[
+"Antiproteinase-3 antibodies"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"96e9c0",
+"class":"cell text l",
+"children":[
+"70 antibody index (normal <1 antibody index)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell text l",
+"children":[
+"Urinalysis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"690908",
+"class":"cell text l",
+"children":[
+"3+ blood; 2+ protein; 20-30 dysmorphic erythrocytes/hpf; 5-10 leukocytes/hpf"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"de20c5",
+"children":[
+"Chest radiograph shows peripheral pulmonary parenchymal opacities. Chest CT scan shows multiple opacities and nodules throughout both lungs."
+]
+},
+{
+"type":"p",
+"hlId":"387a1a",
+"children":[
+"Kidney biopsy results are pending."
+]
+},
+{
+"type":"p",
+"hlId":"896089",
+"children":[
+"High-dose glucocorticoids are started."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"aaf1e2",
+"children":[
+"Which of the following will most likely be the appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azathioprine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rituximab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c9573b",
+"children":[
+"High-dose glucocorticoids alone are not sufficient for induction and maintenance treatment of ANCA-associated vasculitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4b8571",
+"children":[
+"High-dose glucocorticoids plus rituximab are the preferred treatment for induction of remission in severe organ-threatening or life-threatening granulomatosis with polyangiitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54b5df",
+"children":[
+"The most appropriate treatment is high-dose glucocorticoids and rituximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has granulomatosis with polyangiitis (GPA). ANCA-associated vasculitis is suggested by the severe and inflammatory multisystemic illness. Clues that this is GPA specifically include sinus, kidney, and lung involvement; the skin findings (palpable purpura is not specific for GPA but strongly suggests a small-vessel vasculitis); peripheral nervous system involvement (left foot sensory loss); and the presence of antiproteinase-3 antibodies. To confirm the diagnosis and guide management, tissue biopsy (in this case, kidney) may be done if possible. High-dose glucocorticoids plus either rituximab (preferred) or cyclophosphamide is the appropriate treatment for induction of remission in severe organ-threatening or life-threatening GPA. Selected patients may benefit from plasma exchange. Once remission is achieved, patients should receive maintenance therapy consisting of rituximab, methotrexate, or azathioprine; rituximab appears to be most effective for preventing relapse and is guideline preferred. On their own, high-dose glucocorticoids are not sufficient for induction and maintenance treatment of ANCA-associated vasculitis. Mortality rates in patients receiving only glucocorticoids are high. Observational studies from the 1970s and 1980s demonstrated that glucocorticoids plus cyclophosphamide was associated with a significant improvement in survival, five times that of historical controls, and a lower frequency of relapse."
+]
+},
+{
+"type":"p",
+"hlId":"b7cecd",
+"children":[
+"Glucocorticoids plus azathioprine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not adequate for inducing remission of GPA. Azathioprine has been used to maintain remission once achieved (although rituximab is superior for maintenance of remission), but this combination has never been shown to induce remission in active ANCA-associated vasculitis."
+]
+},
+{
+"type":"p",
+"hlId":"e8f116",
+"children":[
+"Although glucocorticoids plus methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are preferred for active, nonsevere GPA, this patient has severe systemic GPA and therefore requires high-dose glucocorticoids plus rituximab."
+]
+},
+{
+"type":"p",
+"hlId":"44c726",
+"children":[
+"Although glucocorticoids plus mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can induce remission in ANCA-associated vasculitis, patients treated with this therapy have a higher rate of relapse than those treated with glucocorticoids plus rituximab. Because ANCA-associated vasculitis is a chronic condition, the treatment least associated with relapse is the most preferable."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s14_4_1_1_3",
+"objective":{
+"__html":"Treat newly diagnosed ANCA-associated vasculitis."
+},
+"references":[
+[
+"Chung SA, Langford CA, Maz M, et al. 2021 American College of Rheumatology/Vasculitis Foundation Guideline for the Management of Antineutrophil Cytoplasmic Antibody-Associated Vasculitis. Arthritis Rheumatol. 2021;73:1366-1383. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34235894",
+"target":"_blank"
+},
+"children":[
+"PMID: 34235894"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":10,
+"C":23,
+"D":54,
+"E":0
+},
+"hlIds":[
+"5fc917",
+"f56209",
+"a462a3",
+"82aa14",
+"8f4bc2",
+"f461b2",
+"8704ba",
+"8340e6",
+"328929",
+"8377f4",
+"96e9c0",
+"747c2a",
+"690908",
+"de20c5",
+"387a1a",
+"896089",
+"aaf1e2",
+"c9573b",
+"4b8571",
+"54b5df",
+"b7cecd",
+"e8f116",
+"44c726"
+]
+}

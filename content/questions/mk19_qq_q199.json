@@ -1,0 +1,205 @@
+{
+"id":"mk19_qq_q199",
+"number":199,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 199",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dbcde8",
+"children":[
+"A 60-year-old woman with exertional dyspnea is evaluated for pulmonary arterial hypertension. She has limited cutaneous systemic sclerosis."
+]
+},
+{
+"type":"p",
+"hlId":"3cc609",
+"children":[
+"Physical examination shows jugular venous distention, a prominent S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", right ventricular heave, peripheral edema, and sclerodactyly. Lungs are clear. Chest radiograph shows right ventricular (RV) enlargement. CT angiography is negative. Pulmonary function tests show a diffusing capacity of 47% of predicted and are otherwise normal. RV systolic pressure is 52 mm Hg by echocardiography."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fractional exhaled nitric oxide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-resolution CT of the chest"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Right heart catheterization"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"6-Minute walk test"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2ad822",
+"children":[
+"In the evaluation of pulmonary hypertension, echocardiography may underestimate true pulmonary artery pressures; therefore, right heart catheterization is required to confirm pulmonary hemodynamics and determine whether there is a specific response to vasodilator infusion, which may help guide therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"09d4b0",
+"children":[
+"The most appropriate diagnostic test to perform next is right heart catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Systemic sclerosis, particularly limited cutaneous systemic sclerosis, is associated with pulmonary vascular disease caused by direct proliferative effects on the vascular wall that obliterate pulmonary arterioles and capillaries. These changes result in pulmonary arterial hypertension (PAH), which eventually leads to right ventricular (RV) dysfunction, or cor pulmonale. This patient's symptoms (exertional dyspnea), physical examination findings (jugular venous distention, prominent S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and right ventricular heave), and echocardiographic findings (RV enlargement, elevated pulmonary artery pressure) are consistent with PAH. Because echocardiography may underestimate true pulmonary artery pressures, right heart catheterization is required to confirm pulmonary hemodynamics, diagnose PAH, and determine whether there is a specific response to vasodilator infusion, which may help guide therapy."
+]
+},
+{
+"type":"p",
+"hlId":"b3a087",
+"children":[
+"Measurement of fractional exhaled nitric oxide (FeNO) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") provides a noninvasive way to quantify eosinophilic airway inflammation and serves as a complementary tool in the diagnosis and management of lung diseases—in particular, asthma. Elevated FeNO levels correlate modestly with blood and sputum eosinophilia and can predict glucocorticoid responsiveness in patients with respiratory symptoms. More than half of patients with asthma have eosinophilic (type 2) airway inflammation, and FeNO levels may be useful in patients in whom treatment is being considered. Measurement of FeNO does not assist in the diagnosis of pulmonary arterial hypertension."
+]
+},
+{
+"type":"p",
+"hlId":"8538a2",
+"children":[
+"In the evaluation of suspected pulmonary hypertension, a high-resolution CT (HRCT) scan of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be obtained if there is suspicion for interstitial lung disease. However, this patient has lungs clear to auscultation, a normal chest radiograph, and except for a low diffusing capacity, normal pulmonary function tests. HRCT is not necessary in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"a04978",
+"children":[
+"The 6-minute walk test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provides a useful baseline before initiation of specific PAH therapy. This test or cardiopulmonary exercise testing can be performed to assess functional status and contribute to prognostic assessment. However, neither test provides the specific diagnostic information obtained by right heart catheterization and would not be the appropriate next diagnostic test."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s6_2_2",
+"objective":{
+"__html":"Diagnose pulmonary arterial hypertension."
+},
+"references":[
+[
+"Poch D, Mandel J. Pulmonary hypertension. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC202104200",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:ITC49-ITC64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33844574",
+"target":"_blank"
+},
+"children":[
+"PMID: 33844574"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"dbcde8",
+"3cc609",
+"ab9d96",
+"2ad822",
+"09d4b0",
+"b3a087",
+"8538a2",
+"a04978"
+]
+}

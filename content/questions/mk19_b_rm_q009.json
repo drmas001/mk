@@ -1,0 +1,212 @@
+{
+"id":"mk19_b_rm_q009",
+"number":9,
+"bookId":"rm",
+"correctAnswer":"E",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"93b2ff",
+"children":[
+"A 36-year-old woman is evaluated during a routine wellness visit. She is asymptomatic and has no medical problems. She works as an accountant and rarely engages in physical activity. She drinks a glass of red wine with dinner five times weekly. Her diet is rich in protein and starches and low in fruits, vegetables, and nuts. She has smoked one pack of cigarettes per day for 5 years. Her mother has rheumatoid arthritis, and the patient is concerned that she might also develop the disease. Her only medication is a combined oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"209ab2",
+"children":[
+"Physical examination, including vital signs, is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7586bb",
+"children":[
+"Which of the following is most likely to reduce this patient's risk for developing rheumatoid arthritis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alcohol cessation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinuation of combined oral contraceptive"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increased physical activity"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mediterranean diet"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Smoking cessation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3f617b",
+"hvc":true,
+"children":[
+"Patients who smoke are at increased risk for rheumatoid arthritis, particularly those with a family history of rheumatoid arthritis, and should be counseled to stop smoking."
+]
+},
+{
+"type":"keypoint",
+"hlId":"74c58b",
+"hvc":true,
+"children":[
+"Exercise, alcohol use, and dietary factors are not firmly associated with either increased or decreased risk for rheumatoid arthritis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"21f3d8",
+"children":[
+"The intervention most likely to reduce this patient's risk for developing rheumatoid arthritis is counseling for smoking cessation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). One of the most provocative environmental factors for the development of rheumatoid arthritis is smoking. A dose-dependent relationship exists between smoking and the development of seropositive rheumatoid arthritis. Smoking can lead to lung inflammation, which activates such enzymes as peptidylarginine deiminase, which deaminates arginine to form citrullinated peptides. HLA-D alleles code for the shared epitope. The shared epitope, a five–amino acid sequence, preferentially binds and presents citrullinated peptide antigens. This leads to the production of anti–cyclic citrullinated peptide antibodies that could initiate inflammation by fixing complement in the tissues. Patients who smoke are at increased risk for rheumatoid arthritis, particularly those with a family history of rheumatoid arthritis, and should be counseled about smoking cessation. The risk for RA increases with an increasing number of smoking pack-years, and the risk decreases as the interval of smoking cessation increases. Combining behavioral counseling with pharmacotherapy is more effective than either modality alone in achieving long-term smoking abstinence."
+]
+},
+{
+"type":"p",
+"hlId":"359456",
+"children":[
+"A reduced risk for rheumatoid arthritis has been associated with moderate alcohol consumption in some observational studies. There is no reason for this patient to discontinue alcohol consumption (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to reduce her risk for rheumatoid arthritis."
+]
+},
+{
+"type":"p",
+"hlId":"2cc408",
+"children":[
+"This patient should not be counseled to discontinue her combined oral contraceptive pill (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Observational studies have detected either a reduced risk for rheumatoid arthritis or no impact on its development in patients taking a combined oral contraceptive."
+]
+},
+{
+"type":"p",
+"hlId":"f10b3e",
+"children":[
+"Increasing physical activity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been inconsistently associated with a reduced risk for developing rheumatoid arthritis. There are other reasons to recommend increased physical activity to this patient, but this recommendation should not be based on the possibility of reducing the risk for rheumatoid arthritis."
+]
+},
+{
+"type":"p",
+"hlId":"123993",
+"children":[
+"Consumption of a Mediterranean diet (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not specifically shown to reduce the risk for rheumatoid arthritis. Higher intake of fish may be associated with a lower risk for rheumatoid arthritis, but studies on this association are inconclusive, as are studies on the effect of red meat, coffee consumption, and use of antioxidants."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s3_1",
+"objective":{
+"__html":"Advise smoking cessation in a patient at risk for rheumatoid arthritis."
+},
+"references":[
+[
+"Salliot C, Nguyen Y, Boutron-Ruault MC, et al. Environment and lifestyle: their influence on the risk of RA. J Clin Med. 2020;9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32993091",
+"target":"_blank"
+},
+"children":[
+"PMID: 32993091"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":1,
+"C":11,
+"D":10,
+"E":77
+},
+"hlIds":[
+"93b2ff",
+"209ab2",
+"7586bb",
+"3f617b",
+"74c58b",
+"21f3d8",
+"359456",
+"2cc408",
+"f10b3e",
+"123993"
+]
+}

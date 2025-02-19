@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q011",
+"number":11,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"de63e8",
+"children":[
+"A 25-year-old man is evaluated for a 2-week history of an enlarging mass in the left testicle. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"0fb599",
+"children":[
+"On physical examination, vital signs are normal. There is a 3-cm, hard, left testicular mass on examination."
+]
+},
+{
+"type":"p",
+"hlId":"505f9c",
+"children":[
+"Results of laboratory studies show an α-fetoprotein level of 2500 ng/mL (2500 µg/L) and a β-human chorionic gonadotropin level of 5120 IU."
+]
+},
+{
+"type":"p",
+"hlId":"1a98c4",
+"children":[
+"Ultrasound reveals a solid mass in the left testicle. CT of the abdomen and pelvis reveals no enlargement of retroperitoneal nodes or other abnormalities. Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Needle biopsy of the testicular mass"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET/CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radical inguinal orchiectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"888d13",
+"children":[
+"Patients with testicular cancer most commonly present with swelling or a solid mass, and the initial diagnostic study is scrotal ultrasonography."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ceb28c",
+"children":[
+"Testicular cancer is most commonly managed with radical inguinal orchiectomy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"369bdc",
+"children":[
+"This patient's findings are consistent with testicular cancer, and the most appropriate management is radical inguinal orchiectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with testicular cancer most commonly present with swelling or a solid testicular mass. Although pain is commonly present, not all patients report it. Keeping this diagnosis in mind is important even in men who present with testicular pain without a clearly evident mass. Initial evaluation is typically made with scrotal ultrasound. Cancers are characteristically solid, so cystic masses are rarely indicative of cancer. Seminoma and nonseminomatous germ cell tumors have different ultrasound characteristics, but identification of any solid mass contained within the testicle should prompt further evaluation for cancer. Other studies commonly performed are serum tumor markers and other imaging studies, such as CT of the abdomen and pelvis and chest radiograph. In patients who have findings consistent with a possible diagnosis of testicular cancer, resection by radical inguinal orchiectomy is indicated. This step is both diagnostic and therapeutic, as it provides important local tumor control."
+]
+},
+{
+"type":"p",
+"hlId":"32dd68",
+"children":[
+"Tumors with elevated α-fetoprotein levels are classified as nonseminomatous germ cell tumors. Following resection, patients with early-stage nonseminomatous germ cell tumors can be managed with active surveillance (in selected patients), retroperitoneal lymph node dissection (RPLND), or limited chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Adjuvant chemotherapy is recommended in patients with nodal involvement on RPLND. Persistence of tumor marker elevation after orchiectomy without abnormal imaging findings is also an indication for chemotherapy. Staging includes evaluation with chest radiography, CT of the abdomen and pelvis, and tumor marker levels after orchiectomy. Because the staging process has not been completed, chemotherapy is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"6d39ad",
+"children":[
+"Needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is contraindicated due to an increase in risk of recurrence associated with this procedure. Patients who have scrotal violation may be at increased risk of inguinal node metastases from tumor seeding to the scrotum and inguinal nodes."
+]
+},
+{
+"type":"p",
+"hlId":"a042be",
+"children":[
+"PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") does not play a role in the initial evaluation of patients suspected of having testicular cancer. It is not a standard test in this setting but does play a role in the evaluation of residual masses after treatment is completed."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_2",
+"objective":{
+"__html":"Manage testicular cancer with radical inguinal orchiectomy."
+},
+"references":[
+[
+"Smith ZL, Werntz RP, Eggener SE. Testicular cancer: epidemiology, diagnosis, and management. Med Clin North Am. 2018;102:251-64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29406056",
+"target":"_blank"
+},
+"children":[
+"PMID: 29406056"
+]
+},
+" doi:10.1016/j.mcna.2017.10.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":5,
+"D":89,
+"E":0
+},
+"hlIds":[
+"de63e8",
+"0fb599",
+"505f9c",
+"1a98c4",
+"cb2b54",
+"888d13",
+"ceb28c",
+"369bdc",
+"32dd68",
+"6d39ad",
+"a042be"
+]
+}

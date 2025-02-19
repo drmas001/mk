@@ -1,0 +1,256 @@
+{
+"id":"mk19_b_cv_q071",
+"number":71,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 71",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ddcb0a",
+"children":[
+"A 25-year-old man is evaluated for recurrent syncope. The syncopal episodes are abrupt and without prodrome and have occurred several times during the past year. He reports no chest pain or exertional symptoms. He has no other pertinent personal history. His father died in his sleep at age 45 years. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"26c4ae",
+"children":[
+"On physical examination, vital signs are normal. There is no heart murmur. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"8dee4d",
+"children":[
+"Laboratory studies, including a comprehensive metabolic panel, are within normal limits."
+]
+},
+{
+"type":"p",
+"hlId":"076dc2",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f071",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+". Echocardiogram is normal."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f071"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brugada syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary artery disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Long QT syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vasovagal syncope"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6bc70a",
+"children":[
+"Cardiovascular syncopal events often occur suddenly and usually without a significant prodrome, although chest pain and palpitations may be present."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a88f0d",
+"children":[
+"Causes of cardiovascular syncope include cardiac arrhythmia; coronary artery disease; and structural and obstructive disease, including aortic and pulmonary valve stenosis, obstructive hypertrophic cardiomyopathy, aortic dissection, and cardiac tamponade."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c148a9",
+"children":[
+"The most likely diagnosis in this patient with recurrent syncope is Brugada syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Cardiovascular syncopal events often occur suddenly and usually without a significant prodrome, although chest pain and palpitations may be present. Causes of cardiovascular syncope include cardiac arrhythmia; coronary artery disease; and structural and obstructive disease, including aortic and pulmonary valve stenosis, obstructive hypertrophic cardiomyopathy, aortic dissection, and cardiac tamponade. Brugada pattern is distinguished by a structurally normal heart (normal echocardiogram) and right precordial ECG abnormalities, including ST-segment coving (concave or linear downsloping ST segment) in leads V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" with or without right bundle branch block. Brugada syndrome is the association of Brugada pattern with ventricular fibrillation, arrhythmogenic syncope, or cardiac arrest. Brugada syndrome has an increased prevalence in men and persons of Asian descent. Arrhythmic events, including sudden cardiac death, in patients with Brugada syndrome are more common at night, during sleep. Abnormalities on ECG may be intermittent and may be elicited by fever or pharmacologic challenge with sodium channel blockade, such as procainamide infusion. The presence of Brugada pattern on ECG, an unexplained syncopal event, and relevant family history (father who died in his sleep at age 45 years) are highly suggestive of Brugada syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"ca8ca0",
+"children":[
+"This patient has no exertional symptoms or ischemic changes on ECG, and his symptoms are paroxysmal. Intermittent syncope would be a very unusual presentation of coronary artery disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), particularly in this age group."
+]
+},
+{
+"type":"p",
+"hlId":"fbbf6e",
+"children":[
+"Long QT syndrome (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is among the most common inherited arrhythmias, affecting between 1 in 1000 and 1 in 5000 persons. The presence of a prolonged QTc (>440 ms in men and >460 ms in women) alone is insufficient to diagnose long QT syndrome. This patient's QTc interval is normal, and long QT syndrome is not associated with the findings seen on this patient's ECG."
+]
+},
+{
+"type":"p",
+"hlId":"b10a83",
+"children":[
+"This patient has no prodrome of flushing, light-headedness, or dizziness, which is typical of vasovagal syncope (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Finally, his syncope and associated ECG findings are of great concern and are consistent with Brugada syndrome."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_9",
+"objective":{
+"__html":"Diagnose Brugada syndrome."
+},
+"references":[
+[
+"Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018;72:e91-e220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29097296",
+"target":"_blank"
+},
+"children":[
+"PMID: 29097296"
+]
+},
+" doi:10.1016/j.jacc.2017.10.054"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":82,
+"B":2,
+"C":13,
+"D":3,
+"E":0
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f071":{
+"id":"mk19_b_cv_mcq_f071",
+"number":71,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"3ff97fd38e6868934274772420aa362f",
+"height":343,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"ddcb0a",
+"26c4ae",
+"8dee4d",
+"076dc2",
+"413696",
+"6bc70a",
+"a88f0d",
+"c148a9",
+"ca8ca0",
+"fbbf6e",
+"b10a83"
+]
+}

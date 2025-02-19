@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_cv_q061",
+"number":61,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"79a201",
+"children":[
+"A 76-year-old woman is evaluated in the emergency department for acute-onset substernal chest discomfort with associated dyspnea. The symptoms developed this morning after her husband's unexpected death. She has hypertension treated with chlorthalidone."
+]
+},
+{
+"type":"p",
+"hlId":"18f016",
+"children":[
+"On physical examination, blood pressure is 140/70 mm Hg and pulse rate is 90/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. Other than an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+", the cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8cbb6e",
+"children":[
+"Serum high-sensitivity cardiac troponin level is elevated (>99th percentile upper reference limit)."
+]
+},
+{
+"type":"p",
+"hlId":"67e7a4",
+"children":[
+"An ECG demonstrates ST-segment elevation in the anterior precordial leads, and echocardiogram shows preserved basal left ventricular function with apical and mid-ventricular hypokinesis. The ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" is 35%. Valve function and the ascending aorta appear normal. Coronary angiography shows normal coronary arteries."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ascending aortic dissection"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary artery dissection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Coronary artery embolism"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Takotsubo cardiomyopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"47fa9f",
+"children":[
+"Takotsubo cardiomyopathy is a syndrome characterized by transient regional systolic ventricular dysfunction mimicking myocardial infarction in the absence of angiographic evidence of obstructive coronary artery disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ee0d62",
+"children":[
+"Treatment of takotsubo cardiomyopathy is similar to that for heart failure of other causes; most patients recover cardiac function over several months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa0ea6",
+"children":[
+"The most likely diagnosis is takotsubo (stress-induced) cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Takotsubo cardiomyopathy is a syndrome characterized by transient regional systolic ventricular dysfunction mimicking myocardial infarction (reduced ejection fraction, elevated cardiac enzymes, and signs of ischemia on ECG) in the absence of angiographic evidence of obstructive coronary artery disease. In most cases of takotsubo cardiomyopathy, the regional wall motion abnormality extends beyond the territory perfused by a single epicardial coronary artery. The syndrome is often precipitated by extreme emotional stress, such as death of a loved one. The pathogenesis of takotsubo cardiomyopathy is unknown, but the condition is postulated to result from reversible myocardial toxicity induced by very high catecholamine levels. Women are affected more frequently than are men. Treatment is generally supportive and is similar to that for heart failure of other causes; most patients recover cardiac function over several months. Additional imaging studies may include cardiac magnetic resonance imaging to exclude myocarditis."
+]
+},
+{
+"type":"p",
+"hlId":"0be0e6",
+"children":[
+"Acute ascending aortic dissection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") classically presents as severe, sudden-onset chest or back pain that has a tearing or ripping quality. Other presenting features may include hypertension, syncope, a murmur of aortic regurgitation, and heart failure. Acute ascending aortic dissection may cause acute coronary occlusion; however, wall motion abnormalities would most likely involve a single coronary artery distribution, and obstruction would be detected by angiography. In addition, acute ascending aortic dissection can be visualized on echocardiogram."
+]
+},
+{
+"type":"p",
+"hlId":"93231e",
+"children":[
+"Coronary artery dissection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is usually identified by coronary angiography, although the findings may be subtle. A single coronary artery dissection causes regional wall motion abnormalities in a single coronary artery distribution pattern rather than global mid- and apical ventricular dysfunction."
+]
+},
+{
+"type":"p",
+"hlId":"fc2fd9",
+"children":[
+"Coronary artery embolism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a potential cause of acute myocardial infarction, resulting in abnormal ventricular function in a patient with no obstructive coronary artery disease; however, a coronary artery embolism generally causes regional wall motion abnormalities in a single coronary artery distribution rather than global mid- and apical ventricular dysfunction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_5_1",
+"objective":{
+"__html":"Diagnose takotsubo (stress-induced) cardiomyopathy."
+},
+"references":[
+[
+"Pal S, Broker M, Wagner H, et al. Stress (takotsubo) cardiomyopathy: a review of its pathophysiology, manifestations, and factors that affect prognosis. Cardiol Rev. 2021 Jul-Aug 01;29:205-209. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32282392",
+"target":"_blank"
+},
+"children":[
+"PMID: 32282392"
+]
+},
+" doi:10.1097/CRD.0000000000000309"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":2,
+"D":93,
+"E":0
+},
+"hlIds":[
+"79a201",
+"18f016",
+"8cbb6e",
+"67e7a4",
+"413696",
+"47fa9f",
+"ee0d62",
+"aa0ea6",
+"0be0e6",
+"93231e",
+"fc2fd9"
+]
+}

@@ -1,0 +1,222 @@
+{
+"id":"mk19_b_cv_q010",
+"number":10,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"0a4c6d",
+"children":[
+"A 43-year-old man is evaluated during a follow-up visit for heart failure with reduced ejection fraction (ejection fraction, 45%) and type 2 diabetes mellitus. He is currently asymptomatic. Medications are metformin, valsartan-sacubitril, metoprolol, spironolactone, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"e995f6",
+"children":[
+"On physical examination, blood pressure is 108/72 mm Hg and pulse rate is 64/min. There is no S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", jugular venous distention, or peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"0b9f1f",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"Hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level is 6.9%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Digoxin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Empagliflozin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Furosemide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ivabradine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7d6c20",
+"children":[
+"A sodium-glucose cotransporter 2 inhibitor is recommended to reduce risk for worsening heart failure and cardiovascular death in patients with type 2 diabetes mellitus and established heart failure with reduced ejection fraction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"580fd1",
+"children":[
+"The most appropriate additional treatment is empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Sodium-glucose cotransporter 2 (SGLT2) inhibitors have been studied in patients with diabetes mellitus and in patients with heart failure with or without diabetes. For patients with diabetes, studies have shown a reduction in cardiovascular events, including heart failure–related mortality and hospitalizations, with use of these agents. SGLT2 inhibitors (empagliflozin, canagliflozin, and dapagliflozin) seem to reduce the risk for heart failure hospitalization and cardiovascular death by 1.9% and death from any cause by 2.3%, independent of glucose control. The mechanisms of this reduction are unclear but are thought to be independent of increased diuresis due to glucose excretion. The American Diabetes Association Standards of Medical Care in Diabetes, endorsed by the American College of Cardiology, recommends initiating an SGLT2 inhibitor with proven cardiovascular benefit to reduce the risk for worsening heart failure and cardiovascular death in patients with type 2 diabetes and established heart failure with reduced ejection fraction."
+]
+},
+{
+"type":"p",
+"hlId":"b5be08",
+"children":[
+"Digoxin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") reduces the risk for heart failure hospitalization but does not reduce mortality. It is occasionally used in patients with heart failure symptoms refractory to optimal therapy, but because of its associated toxicity, digoxin is not recommended as routine therapy in most patients with heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"40ef4a",
+"children":[
+"Loop diuretics, such as furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are the primary diuretic therapy for volume overload in heart failure because of increased potency compared with other diuretics. However, this patient has no clinical evidence of volume overload, and furosemide is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"798f29",
+"children":[
+"Ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a sinoatrial node modulator that slows the heart rate. It decreases heart failure–associated hospitalizations and the combined end point of mortality and heart failure hospitalization in patients with heart failure with reduced ejection fraction and a heart rate greater than 70 despite maximally tolerated doses of a β-blocker. There is no support for its use, however, in patients with heart failure with preserved ejection fraction."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_1_12",
+"objective":{
+"__html":"Treat a patient with diabetes mellitus and heart failure with a sodium-glucose cotransporter 2 inhibitor."
+},
+"references":[
+[
+"Dunlay SM, Givertz MM, Aguilar D, et al; American Heart Association Heart Failure and Transplantation Committee of the Council on Clinical Cardiology. Type 2 diabetes mellitus and heart failure, a scientific statement from the American Heart Association and Heart Failure Society of America. J Card Fail. 2019;25:584-619. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31174952",
+"target":"_blank"
+},
+"children":[
+"PMID: 31174952"
+]
+},
+" doi:10.1016/j.cardfail.2019.05.007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":90,
+"C":3,
+"D":3,
+"E":0
+},
+"hlIds":[
+"91054a",
+"0a4c6d",
+"e995f6",
+"0b9f1f",
+"78ff87",
+"7d6c20",
+"580fd1",
+"b5be08",
+"40ef4a",
+"798f29"
+]
+}

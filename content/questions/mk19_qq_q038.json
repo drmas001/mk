@@ -1,0 +1,193 @@
+{
+"id":"mk19_qq_q038",
+"number":38,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"90c147",
+"children":[
+"A 72-year-old woman is evaluated for a progressive asymmetric hand tremor. She also reports difficulty with buttoning clothes, smaller handwriting, and softening of her voice. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"f9619a",
+"children":[
+"On physical examination, vital signs are normal. There is increased tone and a resting tremor in the right upper extremity. Repetitive alternating movements are slow and decrementing. Gait is normal. The Montreal Cognitive Assessment score is within the normal range."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a3643d",
+"children":[
+"Which of the following is the most appropriate next diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dopamine transporter scan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Urinary copper and ceruloplasmin measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"652714",
+"children":[
+"The diagnosis of Parkinson disease requires the presence of bradykinesia and at least one other cardinal feature (resting tremor, rigidity, or postural instability)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d1fff1",
+"children":[
+"In addition to bradykinesia and resting tremor, rigidity, or postural instability, asymmetry of symptoms and absence of early dementia and early falls support the diagnosis of Parkinson disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"108b7f",
+"children":[
+"This patient most likely has early Parkinson disease (PD) based on her clinical examination findings and does not require additional diagnostic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Diagnosis of PD is clinical. It requires the presence of bradykinesia (in this patient, the decrements in speed and amplitude of repetitive movements) and at least one other cardinal feature (resting tremor, rigidity, or postural instability). In addition, asymmetry of symptoms and absence of atypical features, such as early dementia and early falls, are consistent with the diagnosis of PD. In the absence of atypical features in her history or physical examination, additional testing is usually not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"fea087",
+"children":[
+"A dopamine transporter scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can confirm degeneration of nigrostriatal dopaminergic terminals in PD and differentiate between PD and essential tremor in patients in whom the diagnosis cannot be made on clinical grounds, which is not the case in this patient. The sensitivity of this expensive test, however, is not superior to that of expert clinical assessment. Conventional neuroimaging is not mandatory in patients with a typical clinical presentation and no red flags. However, it is common to perform MRI of the brain to rule out such structural abnormalities as hydrocephalus, diffuse vascular disease or mass lesions that may present with parkinsonism."
+]
+},
+{
+"type":"p",
+"hlId":"50206a",
+"children":[
+"Lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and subsequent analysis of cerebrospinal fluid is used in the diagnosis of central nervous system infections and can be helpful in the diagnosis of demyelinating diseases, central nervous system tumors, Guillain-Barré syndrome, idiopathic intracranial hypertension, and subarachnoid hemorrhage. Recent efforts to develop specific biomarkers for PD are underway and include assays to measure α-synuclein in cerebrospinal fluid, but the clinical utility of this test remains unclear."
+]
+},
+{
+"type":"p",
+"hlId":"e0a2ff",
+"children":[
+"In patients younger than 40 years with symptoms of parkinsonism, Wilson disease should be ruled out by measuring serum ceruloplasmin as well as 24-hour urine copper level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Wilson disease is a rare autosomal recessive disorder that causes accumulation of copper in the liver. The accumulation of copper can result in sudden liver failure and Coombs-negative hemolytic anemia due to the sudden release of copper from hepatocytes. Neurological changes can be seen in patients with Wilson disease (tremor, early-onset PD, dystonia). Kayser-Fleischer rings can be seen on slit-lamp examination of patients with Wilson disease and neurologic findings. This 72-year-old woman with typical features of PD without red flags does not require testing for Wilson disease."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_2_1_2",
+"objective":{
+"__html":"Diagnose Parkinson disease."
+},
+"references":[
+[
+"Homayoun H. Parkinson disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201809040",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;169:ITC33-ITC48. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30178019",
+"target":"_blank"
+},
+"children":[
+"PMID: 30178019"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"90c147",
+"f9619a",
+"a3643d",
+"652714",
+"d1fff1",
+"108b7f",
+"fea087",
+"50206a",
+"e0a2ff"
+]
+}

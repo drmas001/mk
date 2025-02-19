@@ -1,0 +1,263 @@
+{
+"id":"mk19_b_pm_q103",
+"number":103,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 103",
+"stimulus":[
+{
+"type":"p",
+"hlId":"16b63f",
+"children":[
+"A 72-year-old woman is evaluated for exacerbation of bronchiectasis symptoms over the past 3 days. Chronic productive cough has worsened in frequency and severity, and her sputum has increased in amount, become thicker, and changed in color from white to dark yellow. She has been using albuterol and hypertonic saline nebulization with a positive expiratory pressure device three times daily since her symptoms increased."
+]
+},
+{
+"type":"p",
+"hlId":"d5f144",
+"children":[
+"On physical examination, vital signs are normal. Lung examination reveals bibasilar crackles. There is no accessory muscle use."
+]
+},
+{
+"type":"p",
+"hlId":"91e734",
+"children":[
+"Prior sputum cultures have grown ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus parainfluenzae"
+]
+},
+"."
+]
+},
+{
+"type":"p",
+"hlId":"972d63",
+"children":[
+"Chest radiograph reveals chronic interstitial markings but no acute change."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Azithromycin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Inhaled dornase alfa"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Prednisone"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f22df0",
+"children":[
+"In addition to continuing airway clearance, bronchiectasis exacerbations are treated with antibiotics tailored by previous sputum culture results."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a70564",
+"children":[
+"If sputum culture results are not available, empiric antibiotic therapy is recommended, often with a fluoroquinolone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9b1e28",
+"children":[
+"The most appropriate management is ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In patients with bronchiectasis, the presence of chronic symptoms of cough and sputum production typically indicates irreversible airway dilation. Treatment of the underlying cause may not lead to improvement in current symptoms but could prevent further progression. Otherwise, treatment of bronchiectasis focuses on airway clearance and preventing and treating exacerbations. This patient is experiencing a bronchiectasis exacerbation, which is often characterized as a change in sputum volume, viscosity, or purulence; increased cough; wheezing; shortness of breath; hemoptysis; or decline in lung function. In addition to continuing airway clearance therapies with albuterol and hypertonic saline nebulization, exacerbations of bronchiectasis are treated with antibiotics tailored by previous sputum culture results. If sputum culture results are not available, empiric antibiotic therapy is recommended, often with a fluoroquinolone, to ensure ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" coverage until sputum culture results are available. The standard course of antibiotics for a bronchiectasis exacerbation is 14 days, but shorter courses may be used for mild bronchiectasis in the absence of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+". This patient has previously grown ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" and should begin taking an antibiotic with appropriate coverage, such as ciprofloxacin."
+]
+},
+{
+"type":"p",
+"hlId":"d8cc3e",
+"children":[
+"Although azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is commonly used for community-acquired pneumonia and COPD exacerbations, it has inadequate coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+". Of note, azithromycin can be used for long-term treatment in some patients with bronchiectasis and frequent exacerbations to reduce airway inflammation. When deciding whether to use macrolide antibiotics, the physician should weigh the risk of future exacerbations against the possibility of developing macrolide resistance."
+]
+},
+{
+"type":"p",
+"hlId":"07e1db",
+"children":[
+"Inhaled dornase alfa (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used in patients with cystic fibrosis to reduce sputum viscosity; it improves lung function and decreases the frequency of exacerbations. However, it is potentially harmful in patients with non–cystic fibrosis bronchiectasis, as patients who were treated with it had more frequent exacerbations, hospitalizations, and antibiotic and glucocorticoid courses than those who received placebo. Thus inhaled dornase alfa is not routinely used for management of bronchiectasis exacerbations."
+]
+},
+{
+"type":"p",
+"hlId":"40d0dd",
+"children":[
+"Glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are not indicated in the treatment of bronchiectasis exacerbations in the absence of concomitant asthma or COPD, although they may be used in some patients with significant bronchospasm. This patient has no indication for glucocorticoids."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_3_5_1",
+"objective":{
+"__html":"Treat exacerbation of bronchiectasis."
+},
+"references":[
+[
+"Hill AT, Sullivan AL, Chalmers JD, et al. British thoracic society guideline for bronchiectasis in adults. Thorax. 2019;74:1-69. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30545985",
+"target":"_blank"
+},
+"children":[
+"PMID: 30545985"
+]
+},
+" doi:10.1136/thoraxjnl-2018-212463"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":65,
+"C":14,
+"D":4,
+"E":0
+},
+"hlIds":[
+"16b63f",
+"d5f144",
+"91e734",
+"972d63",
+"1054f1",
+"f22df0",
+"a70564",
+"9b1e28",
+"d8cc3e",
+"07e1db",
+"40d0dd"
+]
+}

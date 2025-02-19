@@ -1,0 +1,194 @@
+{
+"id":"mk19_a_gi_q065",
+"number":65,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 65",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f3074d",
+"children":[
+"An 80-year-old woman is evaluated in the emergency department. She has a 48-hour history of six maroon stools and mild lower abdominal pain. No bleeding is witnessed during 6 hours in the emergency department. She has hypertension and coronary artery disease. Current medications are atorvastatin, metoprolol, lisinopril, omeprazole, and low-dose aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"dd113e",
+"children":[
+"On physical examination, blood pressure is 150/85 mm Hg and pulse rate is 70/min. Abdomen is soft and nontender."
+]
+},
+{
+"type":"p",
+"hlId":"be46c9",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 10 g/dL (100 g/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tagged red cell scintigraphy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e402d1",
+"children":[
+"In hemodynamically stable patients without evidence of rapid lower gastrointestinal bleeding, colonoscopy is the first test of choice."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ce0420",
+"children":[
+"Although nuclear studies may be able to detect lower gastrointestinal bleeding, precise anatomic location is inferior to that provided by first-line diagnostic tests, such as colonoscopy, CT angiography, and conventional angiography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ac006c",
+"children":[
+"The most appropriate next diagnostic test is colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient likely has lower gastrointestinal bleeding. She has no signs of active bleeding and is hemodynamically stable. Given her age, comorbid conditions, and significant decrease in hemoglobin, observation and urgent colonoscopy are warranted. Colonoscopy should be performed within 24 hours of presentation after adequate colon preparation, which may include rapid preparation. Colonoscopy identifies a source of lower gastrointestinal bleeding in two thirds of patients."
+]
+},
+{
+"type":"p",
+"hlId":"d1ea37",
+"children":[
+"There is no need for CT angiography (CTA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or tagged red cell scintigraphy (technetium-99m–labeled red cell scintigraphy) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to detect and localize a site for active bleeding. CTA is the initial diagnostic test in patients who are hemodynamically unstable or have rapid ongoing bleeding, followed by immediate upper endoscopy if CTA does not reveal a source of bleeding. Because this patient is hemodynamically stable and does not have active bleeding, CTA would not be appropriate. Although tagged red cell scintigraphy can detect bleeding rates as low as 0.1 mL/min, its usefulness in acute lower gastrointestinal bleeding is debated. Sensitivity of nuclear studies for the detection of a lower gastrointestinal bleeding site varies from 60% to 93%. Although nuclear studies may be able to detect lower gastrointestinal bleeding, precise anatomic location is inferior to that provided by first-line diagnostic tests. Tagged red cell scintigraphy may be considered when results of first-line tests, such as CTA, angiography, or colonoscopy, are negative."
+]
+},
+{
+"type":"p",
+"hlId":"63a5a4",
+"children":[
+"Although this patient takes aspirin, her presentation of multiple maroon stools does not suggest upper gastrointestinal bleeding. Furthermore, she is receiving long-term gastric protective therapy with omeprazole, further reducing the risk for upper gastrointestinal bleeding. If colonoscopy results fail to reveal a cause of bleeding, upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be considered as a secondary test. This patient's aspirin therapy is prescribed for secondary prevention of atherosclerotic cardiovascular disease and should be continued uninterrupted. If discontinuation of aspirin is necessary in these cases, it should be reinstated as soon as possible following hemostasis."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_3_3",
+"objective":{
+"__html":"Evaluate lower gastrointestinal bleeding in a hemodynamically stable patient."
+},
+"references":[
+[
+"Strate LL, Gralnek IM. ACG clinical guideline: management of patients with acute lower gastrointestinal bleeding. Am J Gastroenterol. 2016;111:459-74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26925883",
+"target":"_blank"
+},
+"children":[
+"PMID: 26925883"
+]
+},
+" doi:10.1038/ajg.2016.41"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":54,
+"B":13,
+"C":7,
+"D":26,
+"E":0
+},
+"hlIds":[
+"f3074d",
+"dd113e",
+"be46c9",
+"2eb226",
+"e402d1",
+"ce0420",
+"ac006c",
+"d1ea37",
+"63a5a4"
+]
+}

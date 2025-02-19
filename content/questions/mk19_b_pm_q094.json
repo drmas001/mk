@@ -1,0 +1,223 @@
+{
+"id":"mk19_b_pm_q094",
+"number":94,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5e546e",
+"children":[
+"A 44-year-old woman is evaluated 1 day after right mastectomy for breast cancer. Desaturations throughout the night necessitated oxygen initiation. Medications are an oral opioid and subcutaneous enoxaparin."
+]
+},
+{
+"type":"p",
+"hlId":"1a73c7",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.0 °F), blood pressure is 140/60 mm Hg, pulse rate is 90/min, and respiration rate is 28/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% breathing oxygen, 6 L/min by nasal cannula. The patient has shallow breathing with splinting. Lung examination reveals diminished breath sounds at the right lung base, dullness on percussion, egophony in the right lower lobe, and rhonchi. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"da38bb",
+"children":[
+"Chest radiograph shows plate-like opacities in the lung bases consistent with atelectasis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inhaled albuterol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Inhaled <i>N</i>-acetylcysteine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pain management"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d9d687",
+"children":[
+"Postoperative atelectasis is associated with increased morbidity, including hypoxemia, retained secretions, and pneumonia, and may trigger the development of acute lung injury."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ab4f93",
+"children":[
+"In patients with postoperative atelectasis caused by pain, improved pain management should lead to decreased pain and increased chest expansion and may result in resolution of the atelectasis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5617e7",
+"children":[
+"Pain control is the most appropriate management (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for this patient's atelectasis. The patient has postmastectomy pain that is impairing chest wall expansion, and she has developed atelectasis. Atelectasis is reported to occur in up to 90% of all anesthetized subjects, and it may persist for several days following surgery. Atelectasis can be the result of impaired respiratory mechanics after thoracic and abdominal surgeries resulting in shallow breathing patterns and avoidance of coughing. Atelectasis is associated with increased morbidity, including hypoxemia, retained secretions, and pneumonia. The management of atelectasis starts with focusing on the cause, in this case, pain. The patient is receiving inadequate pain control; the addition of multimodal pain control, which may include increased dosage of morphine, NSAIDs, acetaminophen, gabapentin, or nerve blocks, will improve pain control and chest expansion and may resolve the atelectasis. In addition to pain control, the application of chest physiotherapy is one of the first steps in management of atelectasis, if it can be tolerated by the patient."
+]
+},
+{
+"type":"p",
+"hlId":"ef6a8a",
+"children":[
+"For patients with atelectasis who fail to respond to pain control and chest physiotherapy, suctioning and bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be of some value, particularly if secretions are tenacious and abundant. Bronchoscopy is not indicated in this patient who has yet to receive the most basic treatments."
+]
+},
+{
+"type":"p",
+"hlId":"7488ae",
+"children":[
+"There is no evidence that inhalation of aerosolized bronchodilators such as albuterol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), salmeterol, or ipratropium are helpful in the resolution of atelectasis in a patient without airway disease. In addition, there is the possibility of adverse effects, drug interactions, and increased cost without evidence of benefit."
+]
+},
+{
+"type":"p",
+"hlId":"45e75e",
+"children":[
+"Although ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is frequently used, low-quality evidence from clinical trials has failed to demonstrate that either oral or inhaled ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine prevents or improves postoperative atelectasis; thus, it is not recommended."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_1_6",
+"objective":{
+"__html":"Treat postoperative atelectasis with pain management."
+},
+"references":[
+[
+"Odor PM, Bampoe S, Gilhooly D, et al. Perioperative interventions for prevention of postoperative pulmonary complications: systematic review and meta-analysis. BMJ. 2020;368:m540. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32161042",
+"target":"_blank"
+},
+"children":[
+"PMID: 32161042"
+]
+},
+" doi:10.1136/bmj.m540"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":6,
+"C":5,
+"D":84,
+"E":0
+},
+"hlIds":[
+"5e546e",
+"1a73c7",
+"da38bb",
+"cb2b54",
+"d9d687",
+"ab4f93",
+"5617e7",
+"ef6a8a",
+"7488ae",
+"45e75e"
+]
+}

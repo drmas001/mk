@@ -1,0 +1,200 @@
+{
+"id":"mk19_b_gm_q123",
+"number":123,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 123",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d676d1",
+"children":[
+"A 40-year-old woman is evaluated during a routine wellness visit. She asks about breast cancer screening. She has no medical problems or concerning family history, including no history of breast cancer, and has no risk factors for breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"c276ed",
+"children":[
+"On physical examination, breast examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ba5da8",
+"children":[
+"Which of the following is the most reasonable breast cancer screening management strategy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Breast MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Digital breast tomosynthesis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mammography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Shared decision making"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b646d7",
+"hvc":true,
+"children":[
+"Although screening mammography in women aged 40 to 49 years may reduce the risk for breast cancer death, the number of deaths averted is smaller than that in older women and the number of false-positive results and unnecessary biopsies is larger."
+]
+},
+{
+"type":"keypoint",
+"hlId":"11f075",
+"hvc":true,
+"children":[
+"For patients younger than 50 years who are interested in breast cancer screening, shared decision making that includes consideration of the patient's level of risk, values, and preferences is a reasonable strategy to inform the screening decision."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"027de8",
+"children":[
+"The most appropriate initial breast cancer screening management strategy for this patient is engagement in shared decision making (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient is younger than 50 years and is at average risk for breast cancer. Women at average risk include those without family history of breast cancer or prior irradiation therapy to the chest region. Guidelines from multiple specialty societies and the U.S. Preventive Services Task Force (USPSTF) unanimously encourage annual or biennial screening mammography in women beginning at age 50 years. Although screening mammography in women aged 40 to 49 years may reduce the risk for breast cancer death, the number of deaths averted is smaller than that in older women and the number of false-positive results and unnecessary biopsies is larger. In addition to false-positive results and unnecessary biopsies, all women undergoing regular screening mammography are at risk for the diagnosis and treatment of noninvasive and invasive breast cancer that would otherwise not have become a threat to their health, or even apparent, during their lifetime (overdiagnosis). Beginning mammography screening at a younger age and screening more frequently may increase the risk for overdiagnosis and subsequent overtreatment. For patients younger than 50 years who are interested in screening, shared decision making is a reasonable strategy. Shared decision making includes consideration of the patient's level of risk, values, and preferences that will help inform the screening decision."
+]
+},
+{
+"type":"p",
+"hlId":"bd3001",
+"children":[
+"Breast MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not currently recommended as first-line strategy for breast cancer screening because data are limited to suggest it lowers breast cancer mortality when utilized in women at average risk, such as this patient."
+]
+},
+{
+"type":"p",
+"hlId":"0dc0df",
+"children":[
+"The USPSTF concludes that the current evidence is insufficient to assess the benefits and harms of digital breast tomosynthesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") as a primary screening method for breast cancer, and digital breast tomosynthesis is therefore not a reasonable option for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"a5b927",
+"children":[
+"Although mammography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the imaging modality of choice for breast cancer screening in average-risk patients, the benefit and harms of screening are very finely balanced in patients younger than 50 years. Before mammography is offered, a shared decision-making approach should be undertaken with this young patient at average risk for breast cancer."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_5_1",
+"objective":{
+"__html":"Use shared decision making in breast cancer screening discussions."
+},
+"references":[
+[
+"Siu AL; U.S. Preventive Services Task Force. Screening for breast cancer: U.S. preventive services task force recommendation statement. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-2886",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:279-96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26757170",
+"target":"_blank"
+},
+"children":[
+"PMID: 26757170"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":0,
+"B":1,
+"C":26,
+"D":72,
+"E":0
+},
+"hlIds":[
+"d676d1",
+"c276ed",
+"ba5da8",
+"b646d7",
+"11f075",
+"027de8",
+"bd3001",
+"0dc0df",
+"a5b927"
+]
+}

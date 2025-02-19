@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_en_q081",
+"number":81,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 81",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2901e0",
+"children":[
+"A 46-year-old man is evaluated during a routine physical examination. His medical history is significant for hypertension, hyperlipidemia, obesity, and depression. Medications are hydrochlorothiazide, atorvastatin, and escitalopram."
+]
+},
+{
+"type":"p",
+"hlId":"9ccec5",
+"children":[
+"On physical examination, blood pressure is 132/80 mm Hg. BMI is 32. The remainder of the vital signs and examination are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"d5c76d",
+"children":[
+"His calculated 10-year risk for atherosclerotic cardiovascular disease using the Pooled Cohort Equations is 2.4%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"73e94c",
+"children":[
+"Which of the following is the most appropriate screening test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Hemoglobin A<sub>1c</sub> measurement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sleep study"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid-stimulating hormone measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"66bd3a",
+"children":[
+"The American Diabetes Association recommends screening for type 2 diabetes mellitus in patients aged 35 years or older; screening should be considered in patients of any age with overweight or obesity and one additional risk factor for diabetes."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3e5e48",
+"children":[
+"The U.S. Preventive Services Task Force recommends screening for diabetes mellitus in patients aged 35 to 70 years with overweight or obesity as part of a cardiovascular risk assessment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"29a6e0",
+"children":[
+"The most appropriate screening test is hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient should be screened for type 2 diabetes mellitus because he has several risk factors. The American Diabetes Association recommends screening for type 2 diabetes in adults aged 35 years or older and considering screening in adults of any age with a BMI of 25 or greater (or ≥23 in Asian Americans) who have one or more additional risk factors for diabetes. These risk factors include a first-degree relative with diabetes, high-risk race or ethnicity (e.g., African American, Latino, Native American, Asian American, Pacific Islander), history of cardiovascular disease, physical inactivity, hypertension (≥140/90 mm Hg or taking antihypertensive therapy), HDL cholesterol level less than 35 mg/dL (0.90 mmol/L), triglyceride level greater than 250 mg/dL (2.82 mmol/L), polycystic ovary syndrome, or other conditions associated with insulin resistance."
+]
+},
+{
+"type":"p",
+"hlId":"8d9739",
+"children":[
+"The U.S. Preventive Services Task Force (USPSTF) also recommends screening for diabetes in patients aged 35 to 70 years with overweight or obesity as part of a cardiovascular risk assessment."
+]
+},
+{
+"type":"p",
+"hlId":"cc698b",
+"children":[
+"The USPSTF does not recommend screening for coronary artery disease with either resting or exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in asymptomatic patients at low risk, defined as a 10-year cardiovascular event risk of less than 10% using the pooled cohort equations. In patients at intermediate or high risk for such events, evidence was inadequate to assess the relative benefits and harms of screening."
+]
+},
+{
+"type":"p",
+"hlId":"bd7e55",
+"children":[
+"According to the USPSTF, evidence is insufficient to assess the balance of benefits and harms of screening for obstructive sleep apnea in asymptomatic adults with the currently available tools, so a sleep study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is inappropriate. Because obstructive sleep apnea is widely underrecognized, clinicians should have a low threshold for investigating sleep apnea in patients with symptoms consistent with the disease. This patient is asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"9f87bf",
+"children":[
+"The USPSTF concludes that evidence is insufficient to recommend for or against screening for thyroid disease, so thyroid-stimulating hormone measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is incorrect. The American Thyroid Association and the American Association of Clinical Endocrinologists, however, recommend measuring thyroid-stimulating hormone in individuals at risk for hypothyroidism (e.g., personal history of autoimmune disease, neck irradiation, or thyroid surgery); they additionally recommend considering screening in adults aged 60 years and older. This patient has no indication for screening."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_1",
+"objective":{
+"__html":"Screen for type 2 diabetes mellitus."
+},
+"references":[
+[
+"American Diabetes Association Professional Practice Committee. 2. Classification and diagnosis of diabetes: standards of medical care in diabetes—2022. Diabetes Care. 2022;45:S17-S38. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34964875",
+"target":"_blank"
+},
+"children":[
+"PMID: 34964875"
+]
+},
+" doi:10.2337/dc22-S002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":81,
+"C":12,
+"D":3,
+"E":0
+},
+"hlIds":[
+"2901e0",
+"9ccec5",
+"d5c76d",
+"73e94c",
+"66bd3a",
+"3e5e48",
+"29a6e0",
+"8d9739",
+"cc698b",
+"bd7e55",
+"9f87bf"
+]
+}

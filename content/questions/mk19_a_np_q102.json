@@ -1,0 +1,241 @@
+{
+"id":"mk19_a_np_q102",
+"number":102,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 102",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b8c16b",
+"children":[
+"A 31-year-old woman is evaluated during a follow-up visit for progressive autosomal dominant polycystic kidney disease. She has a recent history of an infected kidney cyst. She also has hypertension. Family history is significant for end-stage kidney disease in her father at 50 years of age due to autosomal dominant polycystic kidney disease. Her only medication is lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"2bf91b",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals a palpable kidney on the right side. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"1226d4",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.3 mg/dL (114.9 µmol/L), representing a decrease in ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of >5 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" from 1 year ago. Liver chemistry tests are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue lisinopril; start telmisartan"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obtain ultrasonography of the kidneys"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start octreotide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start tolvaptan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0625e0",
+"children":[
+"Tolvaptan can slow kidney function decline in adults at risk for progressive autosomal dominant polycystic kidney disease."
+]
+},
+{
+"type":"keypoint",
+"hlId":"904741",
+"children":[
+"Blockade of the renin-aldosterone system is a staple of treating patients with autosomal dominant polycystic kidney disease, including those on tolvaptan."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ce945e",
+"children":[
+"The most appropriate treatment for this patient is tolvaptan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In 2018, tolvaptan was approved by the FDA to slow kidney function decline in adults at risk for progressive autosomal dominant polycystic kidney disease (ADPKD). This patient has four known risk factors associated with progression to end-stage kidney disease (ESKD): onset of hypertension before 35 years of age; urologic events (gross hematuria, cyst infection, and/or flank pain) before 35 years of age; an estimated glomerular filtration rate decrease >5 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" within 1 year; and a family history of ESKD at or before 58 years of age. Other risk factors associated with progression to ESKD include male sex, total kidney volume greater than expected for age, and truncating ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"PKD1"
+]
+},
+" variant."
+]
+},
+{
+"type":"p",
+"hlId":"e2ea44",
+"children":[
+"Before the availability of tolvaptan, blood pressure control using blockade of the renin-aldosterone system was the only validated therapeutic strategy for management of ADPKD. This conservative therapy should still be a staple of treating patients with ADPKD, including those on tolvaptan. This patient is already taking an ACE inhibitor with blood pressure at goal; she would not be expected to have any benefit from switching to an angiotensin receptor blocker such as telmisartan at this point (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"d55df3",
+"children":[
+"Measurement of total kidney volume can be important in assessing risk for ESKD in patients with ADPKD; volume can be compared to expected volume for age, and changes in volume over time can also be assessed. Ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an acceptable modality for kidney size and cyst burden but is inferior to MRI for measurement of total kidney volume. This patient, however, does not require a measurement of total kidney volume to be considered high risk given her confluence of other risk factors; she can proceed directly to tolvaptan therapy without a kidney volume measurement."
+]
+},
+{
+"type":"p",
+"hlId":"f3738f",
+"children":[
+"Octreotide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been shown to reduce kidney cyst fluid accumulation in selected patients with ADPKD but has not been shown to slow the decline in kidney function as seen with tolvaptan."
+]
+}
+],
+"relatedSection":"mk19_a_np_s8_1_1_3",
+"objective":{
+"__html":"Treat autosomal dominant polycystic kidney disease with tolvaptan."
+},
+"references":[
+[
+"Chebib FT, Perrone RD, Chapman AB, et al. A practical guide for treatment of rapidly progressive ADPKD with tolvaptan. J Am Soc Nephrol. 2018;29:2458-2470. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30228150",
+"target":"_blank"
+},
+"children":[
+"PMID: 30228150"
+]
+},
+" doi:10.1681/ASN.2018060590"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":63,
+"C":2,
+"D":34,
+"E":0
+},
+"hlIds":[
+"b8c16b",
+"2bf91b",
+"1226d4",
+"cb2b54",
+"0625e0",
+"904741",
+"ce945e",
+"e2ea44",
+"d55df3",
+"f3738f"
+]
+}

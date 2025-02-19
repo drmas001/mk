@@ -1,0 +1,206 @@
+{
+"id":"mk19_qq_q024",
+"number":24,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dcf190",
+"children":[
+"A 68-year-old man is evaluated because of urinary frequency and urgency despite taking tamsulosin for benign prostatic hyperplasia. He has no other medical problems and takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"85e485",
+"children":[
+"On examination, the prostate gland is modestly enlarged, smooth, and nontender. Urinalysis and prostatic specific antigen level are normal. Urodynamic studies and postvoid bladder volume determined by ultrasonography exclude bladder outlet obstruction."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Saw palmetto"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Tadalafil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Testosterone gel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tolterodine"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transurethral resection of the prostate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8a6733",
+"children":[
+"In men with lower urinary tract symptoms due to benign prostatic hyperplasia, the recommended initial pharmacologic therapy is an α-blocker."
+]
+},
+{
+"type":"keypoint",
+"hlId":"98e5d6",
+"children":[
+"In men with persistent lower urinary tract symptoms despite treatment with an α-blocker and no evidence of bladder outlet obstruction, the addition of an anticholinergic drug is a reasonable next step."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ac58f5",
+"children":[
+"This patient should receive an approved anticholinergic agent such as tolterodine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), oxybutynin, darifenacin, solifenacin, fesoterodine, or trospium for his lower urinary tract symptoms (LUTS). LUTS can be grouped into irritative symptoms (urinary urgency with or without urinary incontinence, increasing daytime frequency, and nocturia) and obstructive symptoms (hesitancy, weak urinary stream, straining, incomplete voiding, urinary retention, and overflow incontinence). This patient was appropriately initially treated with tamsulosin for benign prostatic hyperplasia (BPH), which is the most common cause of LUTS in men. However, the persistence of symptoms, absence of bladder outlet obstruction on urodynamic studies and bladder ultrasonography, and presence of irritative symptoms points to overactive bladder as the diagnosis. Medical treatment is aimed at reducing involuntary detrusor contractions during filling of the bladder. Because no evidence of postvoid residuals was found, it is safe to initiate a trial of an anticholinergic medication, such as tolterodine, in this patient. The combination of the α-blocker (such as tamsulosin) and an anticholinergic agent (such as tolterodine) is more effective in treating LUTS than monotherapy with either drug."
+]
+},
+{
+"type":"p",
+"hlId":"b7338b",
+"children":[
+"Saw palmetto (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is frequently used to treat LUTS secondary to BPH; however, the data on effectiveness is mixed. A Cochrane database review concluded that saw palmetto provided mild-to-moderate improvement in symptoms (like finasteride), but a subsequent, high-quality randomized controlled trial found no benefit. Efficacy data consistently demonstrates improved symptoms for patients with LUTS following treatment with an α-blocker."
+]
+},
+{
+"type":"p",
+"hlId":"01fa59",
+"children":[
+"Chronic use of the phosphodiesterase-5 (PDE-5) inhibitor tadalafil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been shown to improve erectile dysfunction and LUTS. However, caution should be exercised with concomitant PDE-5 inhibitor and α-blocker use due to the increased risk of hypotension. Monotherapy with tadalafil may be a reasonable option in concomitant BPH and erectile dysfunction but in this case, an anticholinergic agent would be preferred add-on therapy to an α-blocker."
+]
+},
+{
+"type":"p",
+"hlId":"8348fd",
+"children":[
+"Testosterone therapy with testosterone gel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") will not ameliorate LUTS but will likely worsen BPH. In addition, it may result in polycythemia, hypertension, and increases the risk for prostate cancer and cannot be recommended for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"143755",
+"children":[
+"Transurethral resection of the prostate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is indicated for patients with medically refractory BPH-related voiding symptoms or with BPH-related complications. BPH-related complications include recurrent urinary tract infection, bladder stone, obstructive nephropathy, persistent hematuria, and urinary retention. This patient's LUTS are irritative, not obstructive, and surgery is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_4",
+"objective":{
+"__html":"Treat overactive bladder in a patient with lower urinary tract symptoms."
+},
+"references":[
+[
+"Lightner DJ, Gomelsky A, Souter L, et al. Diagnosis and treatment of overactive bladder (Non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. J Urol. 2019;202:558-563. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31039103",
+"target":"_blank"
+},
+"children":[
+"PMID: 31039103"
+]
+},
+" doi:10.1097/JU.0000000000000309"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"dcf190",
+"85e485",
+"78ff87",
+"8a6733",
+"98e5d6",
+"ac58f5",
+"b7338b",
+"01fa59",
+"8348fd",
+"143755"
+]
+}

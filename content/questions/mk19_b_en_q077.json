@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_en_q077",
+"number":77,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"59183e",
+"children":[
+"A 55-year-old man is evaluated for primary aldosteronism. He has resistant hypertension despite therapy with three drugs at adequate dosages, including a diuretic. He has no other medical concerns. Medications are hydrochlorothiazide, amlodipine, and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"fc8108",
+"children":[
+"On physical examination, blood pressure is 152/98 mm Hg and pulse rate is 72/min. The remainder of the vital signs and physical examination are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"08d1ca",
+"children":[
+"Serum electrolytes are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adrenal CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Aldosterone measurement after oral sodium loading"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"24-Hour urine potassium measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Plasma renin activity measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a4a371",
+"children":[
+"Screening for primary hyperaldosteronism in patients with hypertension is recommended if any of the following are present: resistant hypertension, hypokalemia (spontaneous or substantial, if diuretic induced), incidentally discovered adrenal mass, family history of early-onset hypertension, or stroke at younger than 40 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6e8a12",
+"children":[
+"In patients with suspected primary hyperaldosteronism taking an ACE inhibitor or an angiotensin receptor blocker, an elevated serum renin level excludes hyperaldosteronism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"04adc2",
+"children":[
+"The next step in this patient's management is plasma renin activity (PRA) measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Screening for primary hyperaldosteronism in patients with hypertension is recommended if any of the following are present: resistant hypertension, hypokalemia (spontaneous or substantial, if diuretic induced), incidentally discovered adrenal mass, family history of early-onset hypertension, or stroke at younger than 40 years. The most reliable case-detection test is calculation of plasma aldosterone concentration (PAC)/PRA by measuring PAC and PRA (or direct renin concentration) in a midmorning seated sample. In patients taking an ACE inhibitor or an angiotensin receptor blocker, PRA should be elevated; therefore, a simple initial test in these patients is a PRA measurement. If PRA is suppressed, the likelihood of primary aldosteronism is high and then PAC/PRA should be calculated; if PRA is elevated, hyperaldosteronism is ruled out. This patient is taking losartan, an angiotensin receptor blocker, and the initial test can be a PRA measurement."
+]
+},
+{
+"type":"p",
+"hlId":"e30686",
+"children":[
+"After the diagnosis of primary aldosteronism has been established, the localization study of choice is a dedicated adrenal CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Findings may include normal adrenal glands or unilateral or bilateral adenoma(s)/hyperplasia. However, adrenal CT is not indicated in this patient because biochemical hyperaldosteronism has not been documented."
+]
+},
+{
+"type":"p",
+"hlId":"7d6d09",
+"children":[
+"Calculation of PAC/PRA is used for screening, with a very high ratio suggesting the diagnosis. Confirmatory diagnostic testing is needed with aldosterone measurement after oral sodium loading (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or a saline suppression test. Failure of sodium loading to suppress elevated aldosterone levels confirms the diagnosis of hyperaldosteronism. Salt loading should not precede appropriate screening with PAC/PRA."
+]
+},
+{
+"type":"p",
+"hlId":"b47eef",
+"children":[
+"The gold standard to distinguish between renal and extrarenal causes of total body potassium depletion is a 24-hour urine potassium (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"); however, this test is often impractical. The preferred alternative is a spot urine potassium-creatinine ratio. A value lower than 13 mEq/g identifies hypokalemia secondary to lack of intake, transcellular shifts, or gastrointestinal losses. However, this patient is not hypokalemic, and urine studies for potassium loss are not helpful in screening for primary hypoaldosteronism."
+]
+}
+],
+"relatedSection":"mk19_b_en_s3_2_2",
+"objective":{
+"__html":"Diagnose primary aldosteronism in a patient taking an angiotensin receptor blocker."
+},
+"references":[
+[
+"Funder JW, Carey RM, Mantero F, et al. The management of primary aldosteronism: case detection, diagnosis, and treatment: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2016;101:1889-916. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26934393",
+"target":"_blank"
+},
+"children":[
+"PMID: 26934393"
+]
+},
+" doi:10.1210/jc.2015-4061"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":29,
+"C":4,
+"D":58,
+"E":0
+},
+"hlIds":[
+"59183e",
+"fc8108",
+"08d1ca",
+"c5165c",
+"a4a371",
+"6e8a12",
+"04adc2",
+"e30686",
+"7d6d09",
+"b47eef"
+]
+}

@@ -1,0 +1,252 @@
+{
+"id":"mk19_qq_q053",
+"number":53,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d07b41",
+"children":[
+"A 26-year-old woman is evaluated for a progressive 7-month history of postprandial bloating and early satiety that now occur daily. She has no alarm features to suggest ulcer, inflammatory bowel disease, or cancer."
+]
+},
+{
+"type":"p",
+"hlId":"e534e7",
+"children":[
+"Abdominal examination reveals minimal epigastric tenderness to palpation without a succussion splash. Bowel sounds are normal. Result of a stool antigen test for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Duloxetine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lansoprazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metoclopramide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nortriptyline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"91ba83",
+"children":[
+"In the evaluation of dyspepsia, guidelines recommend routine use of upper endoscopy only in patients aged 60 years and older to exclude malignancy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"60bcec",
+"children":[
+"Patients with dyspepsia who test positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" should receive eradication therapy; if the test result is negative or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" eradication fails to relieve the dyspepsia, proton pump inhibitor therapy should be pursued for 4 weeks."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1ce9b5",
+"children":[
+"A proton pump inhibitor (PPI) such as lansoprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate treatment for this patient with dyspepsia. The diagnosis of dyspepsia may be challenging, as symptoms overlap with other gastrointestinal disorders, including gastroesophageal reflux disease, gastroparesis, and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection. The American College of Gastroenterology (ACG) defines dyspepsia as predominant epigastric pain for at least 1 month. Other symptoms, such as early satiety, nausea, and vomiting, also may be present. The diagnosis of functional dyspepsia requires negative results on upper endoscopy and other tests for organic diseases. Given the low incidence of malignancy and with consideration given to the cost-effectiveness of evaluating dyspepsia in younger adults, the ACG and the Canadian Association of Gastroenterology (CAG) have jointly recommended routine use of upper endoscopy only in patients aged 60 years and older to exclude malignancy. The ACG/CAG guidelines recommend against routine use of upper endoscopy in patients younger than 60 years with dyspepsia, even in most patients with alarm features (weight loss, anemia, dysphagia, and vomiting) because these features poorly predict organic structural pathology, such as malignancy, peptic ulcer disease, or esophagitis. Consideration of endoscopy at a younger age is reasonable for patients at higher risk of malignancy, such as those with childhood years spent in a region where gastric cancer is endemic (Asia, Russia, and South America) or those with a positive family history."
+]
+},
+{
+"type":"p",
+"hlId":"f75357",
+"children":[
+"Management of dyspepsia is directed at treating the underlying cause. The first step includes the “test and treat” strategy. Patients who test positive for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" should receive eradication therapy. If the test result is negative or if ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" eradication fails to relieve the dyspepsia, an empiric trial of a PPI should be pursued for 4 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"bfdbb3",
+"children":[
+"No evidence supports the use of selective serotonin reuptake inhibitors or serotonin-norepinephrine reuptake inhibitors, such as duloxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), in the treatment of dyspepsia."
+]
+},
+{
+"type":"p",
+"hlId":"507d00",
+"children":[
+"In patients without evidence of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+" infection who are unresponsive to PPI therapy, prokinetic therapies (such as metoclopramide [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"]) or tricyclic antidepressants (such as nortriptyline [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"]) can be tried."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_1_2",
+"objective":{
+"__html":"Treat dyspepsia."
+},
+"references":[
+[
+"Moayyedi P, Lacy BE, Andrews CN, et al. ACG and CAG clinical guideline: management of dyspepsia. Am J Gastroenterol. 2017;112:988-1013. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28631728",
+"target":"_blank"
+},
+"children":[
+"PMID: 28631728"
+]
+},
+" doi:10.1038/ajg.2017.154"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d07b41",
+"e534e7",
+"1054f1",
+"91ba83",
+"60bcec",
+"1ce9b5",
+"f75357",
+"bfdbb3",
+"507d00"
+]
+}

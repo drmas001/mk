@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_gm_q008",
+"number":8,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"11ebc7",
+"children":[
+"A 76-year-old man is evaluated for a year-long history of urinary frequency and hesitancy and a sensation of incomplete bladder emptying. He has no other symptoms. He has hypertension treated with lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"854a96",
+"children":[
+"Digital rectal examination reveals a uniformly enlarged and nontender prostate with no bogginess or nodules. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8cd06c",
+"children":[
+"Urinalysis is normal."
+]
+},
+{
+"type":"p",
+"hlId":"e5fa82",
+"children":[
+"Bladder ultrasonography reveals 35 mL of postvoid residual urine volume."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Finasteride"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Scheduled voiding"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tamsulosin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urodynamic testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c43e75",
+"children":[
+"α-Blockers, such as tamsulosin, are first-line therapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia; symptom improvement can be seen within 48 hours of initiation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"619827",
+"children":[
+"5α-Reductase inhibitors, such as finasteride, are second-line therapy for lower urinary tract symptoms secondary to benign prostatic hyperplasia; clinical improvement is not seen for several months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"54b8db",
+"children":[
+"The most appropriate management is tamsulosin, an α-blocker (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has lower urinary tract symptoms (LUTS). His age, physical examination findings, and normal urinalysis support benign prostatic hyperplasia (BPH) as the cause of LUTS. BPH is a histologic diagnosis that is found in more than 80% of men aged 70 years or older. The American Urological Association Symptom Index (AUA-SI) is a validated seven-item questionnaire that can be used to objectively assess LUTS severity and subsequently determine appropriate treatment and treatment response. For patients with bothersome symptoms, such as this patient, pharmacologic treatment is warranted. α-Blockers, such as tamsulosin, are first-line therapy for LUTS secondary to BPH. α-Blockers function by promoting smooth-muscle relaxation in the prostate. Symptom improvement can be seen within 48 hours of initiation, with maximum response within several weeks."
+]
+},
+{
+"type":"p",
+"hlId":"efc4dd",
+"children":[
+"5α-Reductase inhibitors (5-ARIs), such as finasteride (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), are second-line therapy for LUTS secondary to BPH. 5-ARIs function by preventing the conversion of testosterone to dihydroxytestosterone, inhibiting prostate growth. These agents are effective only in patients who have an enlarged prostate; efficacy increases with increasing prostate size. 5-ARIs require several months' use before showing a clinical benefit. 5-ARIs can be initiated when α-blocker therapy alone does not control symptoms or if a patient is intolerant of maximum-dose α-blocker therapy."
+]
+},
+{
+"type":"p",
+"hlId":"fabcfc",
+"children":[
+"Scheduled or timed voiding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a technique to manage urge urinary incontinence, not LUTS associated with BPH. This behavioral strategy includes scheduled voiding attempts at intervals shorter than the usual time between incontinence episodes, regardless of the urge to void, with a gradual increase in the time between voids. In patients with cognitive impairment–related functional urinary incontinence, timed voiding with prompting by the caregiver may also be useful. This patient does not report incontinence."
+]
+},
+{
+"type":"p",
+"hlId":"46478d",
+"children":[
+"Urodynamic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated for patients who have not yet attempted pharmacotherapy and have no evidence of urinary retention or urinary incontinence, as is the case for this patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_4",
+"objective":{
+"__html":"Treat lower urinary tract symptoms secondary to benign prostatic hyperplasia."
+},
+"references":[
+[
+"Bortnick E, Brown C, Simma-Chiang V, Kaplan SA. Modern best practice in the management of benign prostatic hyperplasia in the elderly. Ther Adv Urol. 2020;12:1756287220929486. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32547642",
+"target":"_blank"
+},
+"children":[
+"PMID: 32547642"
+]
+},
+" doi:10.1177/1756287220929486"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":15,
+"C":67,
+"D":10,
+"E":0
+},
+"hlIds":[
+"11ebc7",
+"854a96",
+"8cd06c",
+"e5fa82",
+"cb2b54",
+"c43e75",
+"619827",
+"54b8db",
+"efc4dd",
+"fabcfc",
+"46478d"
+]
+}

@@ -1,0 +1,266 @@
+{
+"id":"mk19_qq_q139",
+"number":139,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 139",
+"stimulus":[
+{
+"type":"p",
+"hlId":"922dc9",
+"children":[
+"A 75-year-old man is evaluated for an incidentally discovered elevated hemoglobin level. He has a 1-year history of pruritus without skin rash. He has no other medical problems and has never smoked cigarettes."
+]
+},
+{
+"type":"p",
+"hlId":"bca870",
+"children":[
+"Blood pressure is 150/86 mm Hg. Facial plethora and splenomegaly are present. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" level is 17.9 g/dL (179 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" is 11,700/µL (11.7 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" is 450,000/µL (450 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). Urinalysis results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"30cea7",
+"children":[
+"Which of the following tests will confirm the diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Erythropoietin level and <i>JAK2</i> V617F testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Kidney ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Peripheral blood flow cytometry"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sleep study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0cc6e3",
+"children":[
+"Polycythemia vera is a myeloproliferative neoplasm characterized by excess erythrocyte mass; leukocytosis and thrombocythemia are also frequently present."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ff5adc",
+"children":[
+"More than 95% of patients with polycythemia vera (PV) have the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" mutation, so it is an appropriate confirmatory test for suspected PV; serum erythropoietin level should also be measured, because it is usually low in PV."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dd02b5",
+"children":[
+"This patient most likely has polycythemia vera (PV), a myeloproliferative neoplasm characterized by excess erythrocyte mass, and the diagnosis can be confirmed by measuring the erythropoietin level and testing for the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" V617F mutation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Most patients are incidentally diagnosed with elevated hemoglobin on laboratory studies. Presenting symptoms may include fatigue, headache, generalized pruritus that often worsens after bathing, erythromelalgia (a burning sensation in the palms and soles), hypertension, and arterial/venous thrombosis. On physical examination, patients may have plethora and splenomegaly. Twenty percent of patients have arterial or venous thrombosis as their initial symptom. More than 95% of patients with PV have the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" mutation, so it is an appropriate confirmatory test for suspected PV. Serum erythropoietin level should also be measured because it is usually low in PV. Bone marrow biopsy shows hypercellular marrow with erythroid, granulocytic, and megakaryocytic hyperplasia. Treatment of PV is required at diagnosis. In addition to receiving antiplatelet and other stroke prevention therapy, if PV is confirmed in this patient, he will have to undergo phlebotomy to normalize his hematocrit concentration (goal <45%). He will also need treatment with the myelosuppressive agent hydroxyurea to decrease thrombotic events."
+]
+},
+{
+"type":"p",
+"hlId":"614af2",
+"children":[
+"Kidney ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used to diagnose renal cell carcinoma. Many different paraneoplastic syndromes may be seen in patients with renal cell carcinoma, including erythrocytosis, anemia, hepatic dysfunction in the absence of liver metastases (known as Stauffer syndrome), fever, hypercalcemia, amyloid A (secondary) amyloidosis, thrombocytosis, and polymyalgia rheumatica. Polycythemia is associated with renal cell carcinoma in 1% to 2% of cases and is a result of increased erythropoietin production. Renal cell carcinoma is not a likely cause of leukocytosis, thrombocythemia, and pruritus."
+]
+},
+{
+"type":"p",
+"hlId":"a9cec7",
+"children":[
+"Peripheral blood flow cytometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would not add useful information, because this patient has isolated polycythemia and no evidence of abnormal lymphocytes or immature myeloid precursors. Flow cytometry is best used to help establish a diagnosis when evaluating for lymphomas and leukemia."
+]
+},
+{
+"type":"p",
+"hlId":"0112e2",
+"children":[
+"Most causes of secondary erythrocytosis share the mechanism of an elevated erythropoietin level, which is most commonly driven by hypoxemia. Polycythemia may be the presenting symptom of undiagnosed sleep apnea, and all patients with polycythemia should be screened for symptoms and signs of sleep apnea. However, in this patient with splenomegaly, leukocytosis, and thrombocythemia, PV is much more likely, and measurement of the erythropoietin level and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"JAK2"
+]
+},
+" mutational analysis should be performed rather than a sleep study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_3_2",
+"objective":{
+"__html":"Diagnose polycythemia vera."
+},
+"references":[
+[
+"Spivak JL. How I treat polycythemia vera. Blood. 2019;134:341-352. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31151982",
+"target":"_blank"
+},
+"children":[
+"PMID: 31151982"
+]
+},
+" doi:10.1182/blood.2018834044"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"922dc9",
+"bca870",
+"30cea7",
+"0cc6e3",
+"ff5adc",
+"dd02b5",
+"614af2",
+"a9cec7",
+"0112e2"
+]
+}

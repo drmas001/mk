@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_pm_q061",
+"number":61,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"226c04",
+"children":[
+"A 28-year-old woman is evaluated in the emergency department for severe agitation. The patient is uncooperative. A friend reports that the patient had been snorting cocaine. Paroxetine and tramadol are found in the patient's backpack."
+]
+},
+{
+"type":"p",
+"hlId":"4fb09a",
+"children":[
+"On physical examination, temperature is 39.4 °C (102.9 °F), blood pressure is 164/82 mm Hg, pulse rate is 112/min, respiration rate is 22/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. She is diaphoretic and tremulous. Myoclonus and hyperreflexia are present."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetaminophen"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fentanyl"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lorazepam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Propranolol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0abb70",
+"children":[
+"Common signs and symptoms of serotonin syndrome include mental status changes, hyperthermia, diaphoresis, tremor, autonomic instability, muscle and ocular clonus, and hyperreflexia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b62402",
+"children":[
+"Treatment of serotonin syndrome includes supportive measures, such as avoidance of any further serotonergic agents, and sedation with benzodiazepines to reduce agitation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6a93e7",
+"children":[
+"The most appropriate treatment is lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") intravenously. This patient has serotonin syndrome. Risk factors for serotonin syndrome include use of selective serotonin reuptake inhibitors and other medications (sometimes more than one) that increase nervous system serotonin activity. This patient takes paroxetine, a selective serotonin reuptake inhibitor. Tramadol and cocaine also increase serotonin release in the central nervous system. Common signs and symptoms of serotonin syndrome include mental status changes, hyperthermia, diaphoresis, tremor, autonomic instability, muscle and ocular clonus, and hyperreflexia. Treatment includes supportive measures, such as avoidance of any further serotonergic agents, and sedation with benzodiazepines to reduce agitation. Sedation blunts autonomic surges and reduces the muscle activity that contributes to hyperthermia. Cyproheptadine, an antihistamine with antiserotonergic activity, is used off-label as an antidote in serotonin syndrome in patients who do not respond to benzodiazepine therapy. Its effectiveness has not been established in clinical trials, and use is based on expert opinion and case series. It is available only in pill and syrup formulations so must be administered orally, which is sometimes a challenge in uncooperative patients."
+]
+},
+{
+"type":"p",
+"hlId":"322b8f",
+"children":[
+"Because hyperthermia in serotonin syndrome is a consequence of excessive muscle activity, the centrally acting antipyretic acetaminophen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will not affect temperature elevation in this patient. In extreme cases of hyperthermia, intubation and neuromuscular blockade might be indicated."
+]
+},
+{
+"type":"p",
+"hlId":"3c64be",
+"children":[
+"Fentanyl (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is also a serotonin receptor agonist and should be avoided as a sedative-analgesic agent in the patient with serotonin syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"2e7bbf",
+"children":[
+"In patients who have taken sympathomimetic agents such as cocaine or amphetamines, benzodiazepines are the cornerstone of therapy for agitation. β-Blocker medications such as propranolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be avoided in patients with cocaine toxicity because they block the β-adrenergic receptors and theoretically leave the activated α-receptors unopposed, leading to severe hypertension. In this case, the patient's blood pressure does not require acute intervention, and sedation will probably reduce blood pressure independently."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_2_3",
+"objective":{
+"__html":"Treat serotonin syndrome."
+},
+"references":[
+[
+"Werneke U, Truedson-Martiniussen P, Wikström H, et al. Serotonin syndrome: a clinical review of current controversies. J Integr Neurosci. 2020;19:719-727. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33378846",
+"target":"_blank"
+},
+"children":[
+"PMID: 33378846"
+]
+},
+" doi:10.31083/j.jin.2020.04.314"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":2,
+"C":80,
+"D":12,
+"E":0
+},
+"hlIds":[
+"226c04",
+"4fb09a",
+"1054f1",
+"0abb70",
+"b62402",
+"6a93e7",
+"322b8f",
+"3c64be",
+"2e7bbf"
+]
+}

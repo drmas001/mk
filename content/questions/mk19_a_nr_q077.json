@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_nr_q077",
+"number":77,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 77",
+"stimulus":[
+{
+"type":"p",
+"hlId":"820adc",
+"children":[
+"A 72-year-old woman is evaluated in the emergency department for a 1-hour history of left-sided weakness. The patient has hypertension and dyslipidemia. She has had no recent surgery or history of gastrointestinal, genitourinary, or intracranial bleeding. Medications are amlodipine and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"abdf5f",
+"children":[
+"On physical examination, blood pressure is 168/92 mm Hg; the remaining vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. Left facial weakness, dysarthria, decreased sensation to pinprick on the left side of the body, and left arm and leg drift are noted. A bedside swallow examination is positive for dysphagia. Her score on the National Institutes of Health Stroke Scale is 6. Neurologic examination reveals a normal mental status. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"4eab31",
+"children":[
+"A CT scan of the head without contrast shows no intracerebral hemorrhages or early hypodensities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous alteplase"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous low-molecular-weight heparin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous nicardipine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral aspirin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"00c46f",
+"children":[
+"Alteplase administration within 3 hours of ischemic stroke onset with disabling symptoms is associated with a significant reduction in disability at 3 months."
+]
+},
+{
+"type":"keypoint",
+"hlId":"658f19",
+"children":[
+"Acute administration of anticoagulation in ischemic strokes does not reduce the short-term risk of recurrent stroke and increases the risk of intracerebral hemorrhage."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a62858",
+"children":[
+"This patient should receive intravenous alteplase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). She has an acute ischemic stroke and is seen within 3 hours of onset of symptoms, which include the disabling neurologic feature of hemiparesis involving the left face, left arm and leg, and left-sided sensation. Her National Institutes of Health Stroke Scale score is 6. The patient does not have any absolute or relative exclusion criteria for thrombolysis, including recent surgery, prior or current intracranial hemorrhage, extensive hypodensity on imaging, or blood pressure above the target of 185/110 mm Hg. The benefits of intravenous alteplase in acute ischemic stroke, including the lower likelihood of neurologic disability at 3 months poststroke, are generally thought to outweigh the small risk of hemorrhage."
+]
+},
+{
+"type":"p",
+"hlId":"10d0b4",
+"children":[
+"Acute administration of anticoagulation in ischemic strokes (whether related to atrial fibrillation or not) does not reduce the short-term risk of recurrent stroke and increases the risk of hemorrhage into the territory of cerebral infarction (hemorrhagic conversion). Low-molecular-weight heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"da21ad",
+"children":[
+"Treatment of blood pressure with antihypertensive agents (such as nicardipine [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"]) is not indicated in acute ischemic stroke unless the blood pressure of a patient eligible for alteplase is greater than 185/110 mm Hg (or is greater than 220/120 mm Hg for patients who are not candidates for thrombolysis). If intravenous alteplase is administered, target blood pressure is less than 180/105 mm Hg."
+]
+},
+{
+"type":"p",
+"hlId":"cb08e0",
+"children":[
+"Aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be held for 24 hours after thrombolysis to reduce the risk of intracerebral hemorrhage. If this patient were not a candidate for thrombolysis, aspirin administered within 48 hours is indicated in order to reduce the risk of subsequent stroke but should not be administered now given the positive dysphagia screen and the need for thrombolytic therapy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_1_1",
+"objective":{
+"__html":"Treat acute ischemic stroke with thrombolysis."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":87,
+"B":2,
+"C":5,
+"D":6,
+"E":0
+},
+"hlIds":[
+"820adc",
+"abdf5f",
+"4eab31",
+"1054f1",
+"00c46f",
+"658f19",
+"a62858",
+"10d0b4",
+"da21ad",
+"cb08e0"
+]
+}

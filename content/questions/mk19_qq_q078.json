@@ -1,0 +1,212 @@
+{
+"id":"mk19_qq_q078",
+"number":78,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"37a94f",
+"children":[
+"A 50-year-old man reports heartburn and regurgitation of gastric contents several times a week for the past 3 months despite lifestyle modifications and attempts at weight loss. No other symptoms are reported. He has taken omeprazole twice daily for 2 months with minimal relief."
+]
+},
+{
+"type":"p",
+"hlId":"e1e769",
+"children":[
+"Other than a BMI of 29, the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add famotidine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Esophageal manometry"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Esophageal pH monitoring"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e48e4e",
+"children":[
+"Refractory gastroesophageal reflux disease, defined as a failure to improve after 8 weeks of twice-daily proton pump inhibitor therapy, requires evaluation with upper endoscopy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"216b9e",
+"children":[
+"Esophageal pH monitoring is most commonly used to confirm gastroesophageal reflux disease in patients who are refractory to medical therapy when upper endoscopy does not show erosive esophagitis or Barrett esophagus."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4c380a",
+"children":[
+"Refractory gastroesophageal reflux disease (GERD), defined as a failure to improve after 8 weeks of twice-daily proton pump inhibitor (PPI) therapy, requires upper endoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") to evaluate for complications of acid reflux, such as stricture, as well as alternative diagnoses, such as malignancy and eosinophilic esophagitis. Other indications for upper endoscopy in patients with GERD are dysphagia, odynophagia, weight loss, bleeding, and anemia. GERD is a highly prevalent disease, with the most common symptoms being heartburn and regurgitation. PPIs are the most effective medications in controlling heartburn, but atypical manifestations of GERD (e.g., cough, hoarseness, and chest pain) may also respond to these medications. In addition to medical treatment and surgery (e.g., laparoscopic fundoplication), new therapeutic modalities have been developed in recent years, including the placement of a titanium ring around the lower esophagus and endoluminal treatments (transoral incisionless fundoplication and radiofrequency heat delivered to the muscle of the lower esophagus and cardia)."
+]
+},
+{
+"type":"p",
+"hlId":"2c5a8f",
+"children":[
+"PPIs are much more effective than histamine-2 receptor (H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") blockers such as famotidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in the treatment of GERD, and substituting an H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blocker for a PPI will not improve symptoms. The addition of a daily H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blocker to maximal PPI therapy does not result in meaningful additional acid blockade."
+]
+},
+{
+"type":"p",
+"hlId":"07d3d1",
+"children":[
+"Esophageal manometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has limited value in diagnosing GERD, but it should be considered part of the evaluation for antireflux surgery to rule out motility disorders such as achalasia. The most commonly performed antireflux surgery is laparoscopic fundoplication. However, before surgery is considered, patients should undergo upper endoscopy, pH monitoring, and esophageal manometry to confirm the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"ed1514",
+"children":[
+"Esophageal pH monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is most commonly used to confirm GERD in patients who are refractory to medical therapy when upper endoscopy does not show erosive esophagitis or Barrett esophagus. If upper endoscopy is unrevealing in this patient, ambulatory pH monitoring should be considered to document acid reflux, correlate reflux with symptoms, and differentiate acid reflux from nonacid reflux."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s1_2_1_4",
+"objective":{
+"__html":"Treat gastroesophageal reflux disease refractory to proton pump inhibitor therapy."
+},
+"references":[
+[
+"Maret-Ouda J, Markar SR, Lagergren J. Gastroesophageal reflux disease. JAMA. 2020;324:2565. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33351044",
+"target":"_blank"
+},
+"children":[
+"PMID: 33351044"
+]
+},
+" doi:10.1001/jama.2020.21573"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"37a94f",
+"e1e769",
+"1a5dcc",
+"e48e4e",
+"216b9e",
+"4c380a",
+"2c5a8f",
+"07d3d1",
+"ed1514"
+]
+}

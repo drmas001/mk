@@ -1,0 +1,145 @@
+{
+"id":"vdx4_cv_q006",
+"number":6,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"61d13c",
+"children":[
+"A 69-year-old woman is evaluated in the emergency department for a 1-week history of progressive exertional dyspnea and bendopnea. Vital signs are normal. Focused point-of-care cardiac ultrasonography is performed."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for ",
+{
+"type":"video-link",
+"target":"vdx4_cv_mcq_v006",
+"wrapId":"1",
+"children":[
+"this video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_v006"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic stenosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac tamponade"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Heart failure with reduced ejection fraction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mitral stenosis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"27eae9",
+"children":[
+"This patient's left ventricular function is severely reduced. The ultrasound ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f006",
+"wrapId":"2",
+"children":[
+"shows"
+]
+},
+" a parasternal long-axis view of the left ventricle. The chamber of the left ventricle is abnormally large and round, and its size decreases minimally during systole. Although the posterior wall appears to thicken during systole, the interventricular septum does not. Additionally, the anterior leaflet of the mitral valve is quite far from the interventricular septum when opening during diastole. By using the markers on the right of the screen, the distance between the anterior leaflet and the interventricular septum can be approximated to be more than 1 cm, which is considered the upper limit of normal for this measurement. Together, these findings strongly suggest severely reduced left ventricular function. There is no pericardial effusion to suggest cardiac tamponade and the aortic and mitral valves show no signs of significant restriction of leaflet opening (AV = aortic valve; IVS = interventricular septum; LA = left atrium; LV = left ventricle; MV = mitral valve)."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_cv_mcq_f006"
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_2",
+"objective":{
+"__html":"Evaluate left ventricular function with point-of-care ultrasonography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f006":{
+"id":"vdx4_cv_mcq_f006",
+"number":6,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"da5709a98289b78d9ee488fc69c5026d",
+"height":554,
+"width":413,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"61d13c",
+"497ecd",
+"413696",
+"27eae9"
+]
+}

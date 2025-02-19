@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_nr_q025",
+"number":25,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f7f42",
+"children":[
+"A 60-year-old woman comes to the office to discuss the best strategy to prevent cognitive impairment. She has no medical problems and takes no medications. She does not use tobacco, has 1 to 2 alcoholic drinks per week, and is sedentary."
+]
+},
+{
+"type":"p",
+"hlId":"5d7efa",
+"children":[
+"On physical examination, vital signs and other findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"6ebb6d",
+"children":[
+"Results of cognitive screening testing are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"86ce61",
+"children":[
+"Which of the following is the most effective preventive measure?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cognitive training"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Donepezil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Physical exercise training"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin E supplementation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dd698a",
+"hvc":true,
+"children":[
+"Physical exercise is the most important modifiable lifestyle factor to prevent the onset of cognitive impairment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"960aae",
+"hvc":true,
+"children":[
+"Medications, vitamin, and herbal supplements do not prevent cognitive decline in healthy people or in patients with mild cognitive impairment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ee1cb1",
+"children":[
+"The most important measure to help this patient prevent dementia is to begin a regular program of physical exercise (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). With the growth of the aging population, the prevalence of mild cognitive impairment and dementia is increasing. However, the incidence of dementia is declining with the control of vascular risk factors (diabetes mellitus, hypertension, hyperlipidemia). Adjustments to diet will mitigate many of the risk factors for developing cognitive decline. Diets rich in fruits and vegetables, unsaturated fats, fish and whole-grain cereal products are being studied and show some promise for increasing brain health. However, these benefits have not been confirmed. Exercise is the most important modifiable lifestyle factor to prevent the onset of cognitive impairment. Results from systematic reviews suggest that exercise training is associated with moderate positive effects for global cognition, logical memory, inhibitory control, and divided attention. Even exercise that is initiated in mid to late life can still provide benefits. The 2018 Physical Activity Guidelines for Americans recommend that adults perform at least 150 to 300 minutes per week of moderate-intensity exercise. Other options include 75 to 150 minutes per week of vigorous-intensity aerobic activity or equivalent combinations of moderate- and vigorous-intensity exercise."
+]
+},
+{
+"type":"p",
+"hlId":"01fdcc",
+"children":[
+"Although evidence suggests that higher educational attainment and mid-life intellectual and social activities lead to more late-life cognitive reserve, there is insufficient evidence to support or refute the use of any individual cognitive intervention strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in the prevention of cognitive impairment."
+]
+},
+{
+"type":"p",
+"hlId":"676b22",
+"children":[
+"There is no role for donepezil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or any other pharmacologic agent in preventing cognitive decline in patients with normal cognitive function."
+]
+},
+{
+"type":"p",
+"hlId":"e79a97",
+"children":[
+"In patients with MCI, use of vitamin E 2000 U daily (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is ineffective for reducing progression to Alzheimer disease. In the absence of a specific vitamin deficiency, there is no role for herbal or vitamin supplementation to prevent cognitive decline in adults without cognitive impairment."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_4_2",
+"objective":{
+"__html":"Prevent cognitive impairment."
+},
+"references":[
+[
+"Kivipelto M, Mangialasche F, Ngandu T. Lifestyle interventions to prevent cognitive impairment, dementia and Alzheimer disease. Nat Rev Neurol. 2018;14(11):653–66. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30291317",
+"target":"_blank"
+},
+"children":[
+"PMID: 30291317"
+]
+},
+" doi:10.1038/s41582-018-0070-3"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":18,
+"B":0,
+"C":82,
+"D":0,
+"E":0
+},
+"hlIds":[
+"8f7f42",
+"5d7efa",
+"6ebb6d",
+"86ce61",
+"dd698a",
+"960aae",
+"ee1cb1",
+"01fdcc",
+"676b22",
+"e79a97"
+]
+}

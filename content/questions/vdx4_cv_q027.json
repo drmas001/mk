@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q027",
+"number":27,
+"bookId":"vdx_cv",
+"correctAnswer":"D",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e47915",
+"children":[
+"A 70-year-old man is evaluated in the emergency department for acute worsening of dyspnea."
+]
+},
+{
+"type":"p",
+"hlId":"885988",
+"children":[
+"Chest radiograph is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f027",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f027"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac tamponade"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eosinophilic pneumonia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lymphangioleiomyomatosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary edema"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"20a217",
+"children":[
+"This patient's chest radiograph shows cardiomegaly and bilateral perihilar alveolar infiltrates, consistent with a diagnosis of pulmonary edema due to heart failure. A small left pleural effusion is seen, as well as fluid in the minor fissure, also consistent with heart failure. Although cardiomegaly can be seen in tamponade, diffuse alveolar infiltrates are not a feature of this diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_2",
+"objective":{
+"__html":"Diagnose pulmonary edema on chest radiography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f027":{
+"id":"vdx4_cv_mcq_f027",
+"number":27,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"5b4aef8f5bda4949b4a8e57d6cec0c69",
+"height":720,
+"width":782,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"e47915",
+"885988",
+"413696",
+"20a217"
+]
+}

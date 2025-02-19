@@ -1,0 +1,220 @@
+{
+"id":"mk19_b_en_q055",
+"number":55,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9c4d00",
+"children":[
+"A 55-year-old man is evaluated for recurrent episodes of neuroglycopenic symptoms while using his wife's fingerstick blood glucose monitor; his blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level was 46 mg/dL (2.6 mmol/L) during one of these episodes. His symptoms resolve with food. He has had three similar episodes within the past month. He has no other medical concerns and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"9895a5",
+"children":[
+"On physical examination, vital signs are normal. BMI is 33. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"802f5d",
+"children":[
+"A random blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" reading is 78 mg/dL (4.3 mmol/L). Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 4.7%. All other laboratory results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"72-Hour fast"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Mixed meal test"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral glucose tolerance test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pancreatic imaging study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d4c031",
+"children":[
+"Symptoms of fasting hypoglycemia are evaluated with a prolonged fast, up to 72 hours, with measurement of plasma glucose, C-peptide, insulin, proinsulin, and β-hydroxybutyrate."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2830c3",
+"children":[
+"The most appropriate diagnostic test to perform next is a monitored 72-hour fast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has symptoms compatible with fasting hypoglycemia, which is rare without diabetes mellitus and thus requires careful investigation. Causes include medications, alcohol, kidney or liver dysfunction, adrenal insufficiency, malnutrition, previous Roux-en-Y gastric bypass surgery and, rarely, pancreatogenous insulinoma or noninsulinoma (endogenous hyperinsulinemic hypoglycemia that is not caused by an insulinoma). If the hypoglycemia occurs while fasting, a prolonged fast, up to 72 hours, should be initiated. Plasma glucose should be drawn every 6 hours and sent to the laboratory immediately. If the level is less than 60 mg/dL (3.3 mmol/L), four tests should be sent: C-peptide, insulin, proinsulin, and β-hydroxybutyrate. Insulin antibodies and an oral hypoglycemic agent screen should also be measured at the beginning of the fast. Blood sample collection should increase to every 1 to 2 hours when the glucose measurement is less than 60 mg/dL (3.3 mmol/L). Testing is complete when one of the following two sets of parameters is met: plasma glucose 45 mg/dL (2.5 mmol/L) or less with neuroglycopenia (neurologic symptoms, most commonly confusion), or plasma glucose less than 55 mg/dL (3.1 mmol/L) with previously documented Whipple triad, defined as plasma glucose less than 55 mg/dL (3.1 mmol/L), neuroglycopenic symptoms, and resolution of symptoms with glucose ingestion. Point-of-care glucose values and hyperadrenergic symptoms (palpitations, diaphoresis, headache, tremor, pallor) should not be used to determine the end of the fast. Blood samples should be collected again at the end of the 72-hour period if none of the complete testing criteria has been met."
+]
+},
+{
+"type":"p",
+"hlId":"4b1734",
+"children":[
+"The mixed meal test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate diagnostic test to perform for patients with postprandial hypoglycemia, but it is not indicated in fasting hypoglycemia."
+]
+},
+{
+"type":"p",
+"hlId":"a36709",
+"children":[
+"An oral glucose tolerance test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used to diagnose diabetes. It is not useful for diagnosis of fasting or postprandial hypoglycemia."
+]
+},
+{
+"type":"p",
+"hlId":"709bc3",
+"children":[
+"A pancreatic imaging study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should only be performed after biochemical confirmation of endogenous hyperinsulinism. Imaging before biochemical confirmation exposes the patient to unnecessary risks and costs."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_7_3",
+"objective":{
+"__html":"Evaluate fasting hypoglycemia in a patient without diabetes mellitus."
+},
+"references":[
+[
+"Cryer PE, Axelrod L, Grossman AB, et al; Endocrine Society. Evaluation and management of adult hypoglycemic disorders: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2009;94:709-28. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/19088155",
+"target":"_blank"
+},
+"children":[
+"PMID: 19088155"
+]
+},
+" doi:10.1210/jc.2008-1410"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":16,
+"C":13,
+"D":28,
+"E":0
+},
+"hlIds":[
+"9c4d00",
+"9895a5",
+"802f5d",
+"2eb226",
+"d4c031",
+"2830c3",
+"4b1734",
+"a36709",
+"709bc3"
+]
+}

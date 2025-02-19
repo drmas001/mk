@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q048",
+"number":48,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0bd4e5",
+"children":[
+"A 34-year-old man is evaluated because of subacute worsening of nontraumatic chronic low back pain. Last night, he developed paresthesia over the inner thighs and perineum, and he could not urinate this morning. He has no other medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"39b232",
+"children":[
+"On physical examination, vital signs are normal. There is bilateral foot drop, saddle anesthesia, and absent lower extremity reflexes."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lumbar puncture"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plain radiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent MRI"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"97a11a",
+"children":[
+"Classic clinical findings of cauda equina syndrome include acute low back pain, radicular pain, and bilateral leg weakness; other associated findings may include perineal sensory symptoms; bowel, bladder, and sexual dysfunction; and decreased or absent distal reflexes."
+]
+},
+{
+"type":"keypoint",
+"hlId":"97ed86",
+"children":[
+"Urgent neuroimaging with MRI and surgical treatment offer the best chance of avoiding permanent neurologic damage from cauda equina syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5aa931",
+"children":[
+"This patient has signs and symptoms consistent with cauda equina syndrome (CES), and an urgent MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be obtained. CES is an uncommon but potentially catastrophic condition caused by compression and ischemia of some or all of the 18 descending nerve roots that make up the cauda equina, with resulting neurologic impairment. Causes may be benign (such as degenerative changes, disk herniation, spondylosis, and other structural abnormalities of the spine; infection; or bleeding) or malignant (with multiple myeloma, lymphoma, and prostate cancer being the most commonly associated cancers). Classic clinical findings include acute low back pain, radicular pain, and bilateral leg weakness. CES may be associated with perineal sensory symptoms; bowel, bladder, and sexual dysfunction; and decreased or absent distal reflexes. However, not all of these features present early in the syndrome. For example, pain is the most common early symptom and may precede other neurologic findings; bowel and bladder dysfunction are usually late manifestations and do not occur in all patients. Urgent neuroimaging with MRI and surgical treatment offer the best chance of avoiding permanent neurologic damage."
+]
+},
+{
+"type":"p",
+"hlId":"e5e845",
+"children":[
+"CT myelography can show compressive myelopathy when MRI is not feasible but often does not reveal the cause of compression. Additionally, this type of imaging may be difficult to arrange emergently and is problematic in patients with allergies to contrast dyes or impaired kidney function. CT without myelography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will not be helpful in this patient with potential cauda equina compression due to the limited ability to visualize the nerve roots."
+]
+},
+{
+"type":"p",
+"hlId":"0f94be",
+"children":[
+"Evaluation of the cerebrospinal fluid (CSF) obtained through a lumbar puncture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has no role in the evaluation of suspected cauda equina syndrome or cord compression. It is possible that sudden clinical deterioration may occur in patients with complete subarachnoid block when CSF pressure below the block has been reduced by the lumbar puncture. Lumbar puncture will be required to introduce contrast if CT myelography is performed, and neurosurgical input is often recommended."
+]
+},
+{
+"type":"p",
+"hlId":"275f30",
+"children":[
+"Plain radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be considered to evaluate for ankylosing spondylitis or vertebral compression fracture. When malignancy is suspected, plain radiography in addition to measuring the erythrocyte sedimentation rate is the recommended management. If results of these initial tests are negative and significant concern remains, MRI should then be obtained."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_1_2",
+"objective":{
+"__html":"Manage cauda equina syndrome."
+},
+"references":[
+[
+"Long B, Koyfman A, Gottlieb M. Evaluation and management of cauda equina syndrome in the emergency department. Am J Emerg Med. 2020;38:143-148. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31471075",
+"target":"_blank"
+},
+"children":[
+"PMID: 31471075"
+]
+},
+" doi:10.1016/j.ajem.2019.158402"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"0bd4e5",
+"39b232",
+"2eb226",
+"97a11a",
+"97ed86",
+"5aa931",
+"e5e845",
+"0f94be",
+"275f30"
+]
+}

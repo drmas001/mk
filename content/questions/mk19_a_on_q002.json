@@ -1,0 +1,230 @@
+{
+"id":"mk19_a_on_q002",
+"number":2,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 2",
+"stimulus":[
+{
+"type":"p",
+"hlId":"521463",
+"children":[
+"A 65-year-old man is evaluated for a single episode of painless gross hematuria that occurred 1 month ago. Medical history is notable only for atrial fibrillation managed with metoprolol and rivaroxaban."
+]
+},
+{
+"type":"p",
+"hlId":"74b309",
+"children":[
+"On physical examination, vital signs are normal. Cardiac examination reveals an irregularly irregular rhythm."
+]
+},
+{
+"type":"p",
+"hlId":"8cd06c",
+"children":[
+"Urinalysis is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8860c7",
+"children":[
+"Ultrasound of the kidneys and bladder is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cystoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat urinalysis in 1 week"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Substitute warfarin for rivaroxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine cytology"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Reassurance and no additional intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e95202",
+"children":[
+"A single incidental finding of hematuria is sufficient to warrant investigation into its cause."
+]
+},
+{
+"type":"keypoint",
+"hlId":"eeef61",
+"children":[
+"Evaluation of hematuria should be pursued even in patients with bleeding diatheses or those taking antiplatelet or anticoagulation therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"47d262",
+"children":[
+"This patient requires prompt referral to a urologist for cystoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in the evaluation of unexplained gross hematuria. Hematuria is defined as the presence of ≥3 erythrocytes/hpf in the urine sediment and may be microscopic (detectable only on urine testing) or macroscopic (grossly visible). A single incidental finding of hematuria is sufficient to warrant further investigation. Evaluation should be pursued even in patients with bleeding diatheses, or in those taking antiplatelet or anticoagulation therapy. If menstruation, viral illness, vigorous exercise, or some other benign cause is suspected, urinalysis should be repeated after the cause is resolved. If infection is confirmed, urinalysis should be repeated after treatment to document resolution of hematuria. Although CT urography (contrast CT with kidney-specific imaging) has the highest sensitivity and specificity for renal malignancy, noncontrast helical CT is more appropriate if a kidney stone is suspected. Ultrasonography is a reasonable first imaging step because of availability, lower cost, and no ionizing radiation. Cystoscopy is indicated when imaging results are negative."
+]
+},
+{
+"type":"p",
+"hlId":"8e376e",
+"children":[
+"Discontinuing rivaroxaban and choosing warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") as an alternative anticoagulant is not appropriate. Gross hematuria requires a thorough evaluation regardless of the use of anticoagulant therapy. Finally, there is no evidence that warfarin is any safer than rivaroxaban in preventing hematuria."
+]
+},
+{
+"type":"p",
+"hlId":"a77987",
+"children":[
+"The American College of Physicians and the American Urological Association recommend against obtaining urine cytology (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in the initial evaluation of hematuria due to poor sensitivity."
+]
+},
+{
+"type":"p",
+"hlId":"0db64f",
+"children":[
+"Reassurance without additional intervention (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") or repeating a urinalysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not appropriate, as a single episode of gross hematuria should trigger an evaluation for the cause."
+]
+}
+],
+"relatedSection":"mk19_a_on_s8_4",
+"objective":{
+"__html":"Evaluate a patient with gross hematuria while taking an anticoagulant."
+},
+"references":[
+[
+"Nielsen M, Qaseem A; High Value Care Task Force of the American College of Physicians. Hematuria as a marker of occult urinary tract cancer: advice for high-value care from the American College of Physicians. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M15-1496",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2016;164:488-97. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26810935",
+"target":"_blank"
+},
+"children":[
+"PMID: 26810935"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":60,
+"B":18,
+"C":0,
+"D":6,
+"E":17
+},
+"hlIds":[
+"521463",
+"74b309",
+"8cd06c",
+"8860c7",
+"cb2b54",
+"e95202",
+"eeef61",
+"47d262",
+"8e376e",
+"a77987",
+"0db64f"
+]
+}

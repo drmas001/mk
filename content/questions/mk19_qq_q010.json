@@ -1,0 +1,250 @@
+{
+"id":"mk19_qq_q010",
+"number":10,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 10",
+"stimulus":[
+{
+"type":"p",
+"hlId":"866a17",
+"children":[
+"A 68-year-old woman is referred for evaluation by an addiction specialist for alcohol use disorder. She has no history of encephalopathy, gastrointestinal bleeding, or ascites. Her only medication is naltrexone."
+]
+},
+{
+"type":"p",
+"hlId":"9675fc",
+"children":[
+"Vital signs are normal. There is no evidence of encephalopathy, jaundice, petechiae, ecchymoses, or ascites. Splenomegaly is present. Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"platelet count"
+]
+},
+" of 85,000/µL (85 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Platelet transfusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Propranolol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transjugular intrahepatic portosystemic shunt"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Upper endoscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6204f2",
+"children":[
+"Upper endoscopy should be performed on all patients with cirrhosis to assess for the presence of varices."
+]
+},
+{
+"type":"keypoint",
+"hlId":"79477a",
+"children":[
+"Nonselective β-blockers (propranolol, nadolol, carvedilol) are first-line agents in the primary prevention of bleeding in patients with moderate and severe esophageal varices."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a28413",
+"children":[
+"The most appropriate management is upper endoscopy to evaluate for esophageal varices (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Portal venous hypertension develops in the setting of advanced cirrhosis due to obstruction of blood flow caused by intrahepatic fibrosis, the development of regenerating liver nodules, and increased intrahepatic vascular resistance. Hypersplenism, often also associated with thrombocytopenia, further increases flow within the portal vein, exacerbating portal hypertension. Complications of portal hypertension include gastroesophageal varices, ascites, and hepatic encephalopathy. Esophageal varices are enlarged vessels within the lumen of the lower esophagus that provide extrahepatic pathways of blood flow from the portal circulation to the systemic circulation. Over time, esophageal varices enlarge and may spontaneously rupture, leading to bleeding and possible death. Upper endoscopy should be performed on all patients with cirrhosis to assess for the presence of varices. Management of varices in patients with cirrhosis depends on the size of the varix and whether the cirrhosis is compensated. Although patients in the early stages of cirrhosis may be asymptomatic, metabolic encephalopathy and portal hypertension leading to ascites and gastroesophageal variceal disease indicate decompensated cirrhosis and a poor prognosis."
+]
+},
+{
+"type":"p",
+"hlId":"74261e",
+"children":[
+"Patients with asymptomatic thrombocytopenia due to hypersplenism do not typically require treatment. Platelet transfusions (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be required in actively bleeding patients and before certain procedures associated with a high risk of bleeding. Platelet counts greater than 100,000/µL (100 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) do not increase bleeding risk. Counts between 50,000 and 100,000/µL (50-100 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) do not require treatment and are adequate for surgical procedures, although 100,000/µL (100 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) is desirable for neurosurgery. Platelet counts between 30,000 and 50,000/µL (30-50 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) must be corrected before surgical intervention, and counts less than 10,000/µL (10 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) are associated with risk of spontaneous bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"80f271",
+"children":[
+"Nonselective β-blockers (propranolol [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"], nadolol, carvedilol) are first-line agents in the primary prevention of bleeding in patients with moderate and severe esophageal varices but should not be given empirically. There is no evidence that β-blockers prevent de novo formation of varices. Endoscopic variceal ligation is preferred when patients have contraindications to β-blockers or are unable to tolerate these medications."
+]
+},
+{
+"type":"p",
+"hlId":"d6bfc0",
+"children":[
+"Transjugular intrahepatic portosystemic shunt (TIPS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated for recurrent variceal hemorrhage when β-blockers and variceal ligation fail, but it is not used to prevent the first episode of bleeding. TIPS also improves survival more than large-volume paracentesis in patients with refractory ascites."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_4",
+"objective":{
+"__html":"Diagnose variceal disease in cirrhosis with upper endoscopy."
+},
+"references":[
+[
+"Garcia-Tsao G, Abraldes JG, Berzigotti A, et al. Portal hypertensive bleeding in cirrhosis: risk stratification, diagnosis, and management: 2016 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2017;65:310-335. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27786365",
+"target":"_blank"
+},
+"children":[
+"PMID: 27786365"
+]
+},
+" doi:10.1002/hep.28906"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"866a17",
+"9675fc",
+"cb2b54",
+"6204f2",
+"79477a",
+"a28413",
+"74261e",
+"80f271",
+"d6bfc0"
+]
+}

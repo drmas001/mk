@@ -1,0 +1,194 @@
+{
+"id":"mk19_a_np_q011",
+"number":11,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 11",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b9329c",
+"children":[
+"A 38-year-old woman is evaluated in the emergency department for a 4-hour history of left flank pain that radiates to the groin. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"42450c",
+"children":[
+"A noncontrast helical CT scan of the abdomen shows an 11-mm stone in the proximal ureter. There is dilation of the renal calyces."
+]
+},
+{
+"type":"p",
+"hlId":"b6e3e7",
+"children":[
+"Analgesics are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous 0.9% saline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Lithotripsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Tamsulosin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"31f148",
+"children":[
+"Stone passage decreases with increasing size; only 50% of stones >6 mm will pass, and stones >10 mm are extremely unlikely to pass spontaneously."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f70e62",
+"children":[
+"Urologic intervention is required in all patients with evidence of infection, acute kidney injury, intractable pain, stones that fail to pass, or large stones that are unlikely to pass."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"49e4ec",
+"children":[
+"The most appropriate treatment is lithotripsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). A kidney stone >10 mm, as seen in this patient, is unlikely to pass into the bladder and must be removed promptly because there are signs of ureteral obstruction, which can result in kidney damage. Acute management of symptomatic nephrolithiasis is aimed at pain management and facilitation of stone passage. Pain can be relieved by NSAIDs and opioids as needed. Stone passage decreases with increasing size. Only 50% of stones >6 mm will pass, generally within 2 weeks, and stones >10 mm are extremely unlikely to pass spontaneously. Urologic intervention is required in all patients with evidence of infection, acute kidney injury, intractable pain, and stones that fail to pass. The most effective method for removal of this patient's stone is to break it up using either shock wave or laser lithotripsy. The former is noninvasive, whereas the latter is accomplished using an ureteroscope and requires anesthesia. Both methods have similar rates of stone clearance. Laser lithotripsy is more expensive but is associated with less postlithotripsy discomfort."
+]
+},
+{
+"type":"p",
+"hlId":"48e6ae",
+"children":[
+"Administering intravenous 0.9% saline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would not be beneficial. There is no evidence that increasing urinary flow with the use of intravenous hydration results in a more rapid transit of kidney stones or decreased use of pain medication but may add to discomfort and patient inconvenience."
+]
+},
+{
+"type":"p",
+"hlId":"86f40e",
+"children":[
+"Although tamsulosin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has been used to facilitate stone passage, data suggest it may be less effective than previously believed reported. The data, however, remain controversial and, because risk is minimal, use of tamsulosin to aid in stone passage can still be considered. Trials of assisted passage may last up to 4 weeks. Regardless, this patient's stone is too large to pass into the ureter with or without tamsulosin therapy."
+]
+},
+{
+"type":"p",
+"hlId":"44cd3c",
+"children":[
+"Observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") with frequent reevaluation may be an acceptable strategy for select patients with small stones and mild, easily managed pain, no evidence of infection, and no evidence of impending kidney damage. This patient has a stone that is too large to pass spontaneously and has evidence of hydroureter. Treatment with lithotripsy is a better option in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_np_s10_5",
+"objective":{
+"__html":"Treat a kidney stone with lithotripsy."
+},
+"references":[
+[
+"Preminger GM, Tiselius HG, Assimos DG, et al; EAU/AUA Nephrolithiasis Guideline Panel. 2007 guideline for the management of ureteral calculi. J Urol. 2007;178:2418-2434. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/17993340",
+"target":"_blank"
+},
+"children":[
+"PMID: 17993340"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":59,
+"C":12,
+"D":3,
+"E":0
+},
+"hlIds":[
+"b9329c",
+"42450c",
+"b6e3e7",
+"78ff87",
+"31f148",
+"f70e62",
+"49e4ec",
+"48e6ae",
+"86f40e",
+"44cd3c"
+]
+}

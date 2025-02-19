@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q003",
+"number":3,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5b58ea",
+"children":[
+"A 76-year-old man is evaluated in follow-up for a 4-month history of intermittent claudication, for which he completed an exercise rehabilitation program. He continues to experience left lower extremity discomfort with exertion, which has limited his walking ability. Medical history is significant for hypertension and hyperlipidemia. He quit smoking 2 years ago. Medications are low-dose aspirin, atorvastatin, and enalapril."
+]
+},
+{
+"type":"p",
+"hlId":"f47baf",
+"children":[
+"Serum total cholesterol level is 150 mg/dL (3.8 mmol/L), serum LDL cholesterol level is 68 mg/dL (1.7 mmol/L), and serum HDL cholesterol level is 49 mg/dL (1.3 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c0eaf2",
+"children":[
+"Which of the following is the most appropriate additional treatment to improve this patient's leg pain?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cilostazol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Evolocumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vitamin B-complex supplementation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b7b762",
+"children":[
+"In patients with peripheral artery disease and intermittent claudication, cilostazol is recommended to improve limb symptoms in addition to smoking cessation, aspirin, statin therapy, and supervised exercise."
+]
+},
+{
+"type":"keypoint",
+"hlId":"7a637c",
+"children":[
+"Cilostazol is contraindicated in patients with heart failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e18965",
+"children":[
+"The most appropriate additional treatment is cilostazol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Cilostazol, a phosphodiesterase inhibitor with antiplatelet and vasodilator activity, increases pain-free walking distance and overall walking distance in patients with claudication. This patient with established peripheral artery disease (PAD) is receiving guideline-directed medical therapy and has completed a supervised exercise program, but he has persistent symptoms. The most appropriate treatment is to add cilostazol to his medication regimen. As with other oral phosphodiesterase inhibitors (e.g., milrinone), the FDA has placed a black box warning on use of cilostazol in patients with heart failure. Side effects of cilostazol include headache, diarrhea, dizziness, and palpitations. Up to 20% of patients discontinue cilostazol within 3 months due to side effects."
+]
+},
+{
+"type":"p",
+"hlId":"68d371",
+"children":[
+"Guidelines from the American College of Cardiology/American Heart Association (ACC/AHA) recommend antiplatelet monotherapy for patients with PAD to reduce the risk for myocardial infarction, stroke, or vascular death. This patient does not have an indication for dual antiplatelet therapy (e.g., recent acute coronary syndrome or percutaneous coronary intervention), and there is no evidence to support the use of dual antiplatelet therapy with aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") over antiplatelet monotherapy in patients with PAD."
+]
+},
+{
+"type":"p",
+"hlId":"06558e",
+"children":[
+"PAD is considered a coronary heart disease risk equivalent, and the ACC/AHA guideline recommends that patients with PAD be treated with a high-intensity statin to prevent cardiovascular events. Although there is emerging evidence from subgroup analyses that patients with lower extremity PAD benefit from the proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors evolocumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and alirocumab, there is no evidence that the addition of a PCSK9 inhibitor in a patient with an LDL cholesterol level less than 70 mg/dL (1.8 mmol/L) is associated with improved outcomes."
+]
+},
+{
+"type":"p",
+"hlId":"5cc52b",
+"children":[
+"Pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has not been associated with an improvement in symptoms in patients with intermittent claudication and PAD, and the ACC/AHA guideline does not recommend pentoxifylline for treatment of claudication."
+]
+},
+{
+"type":"p",
+"hlId":"357745",
+"children":[
+"Elevated homocysteine levels are associated with an increased risk for cerebrovascular and cardiovascular disease. Patients with PAD have higher plasma homocysteine levels than those without PAD. However, there is no evidence that B-complex vitamin supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") to lower homocysteine levels improves clinical outcomes, including cardiovascular death, myocardial infarction, or stroke. Vitamin B-complex vitamins are not recommended."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_4_2",
+"objective":{
+"__html":"Treat intermittent claudication with cilostazol."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2017;69:e71-e126. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27851992",
+"target":"_blank"
+},
+"children":[
+"PMID: 27851992"
+]
+},
+" doi:10.1016/j.jacc.2016.11.007"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":80,
+"B":7,
+"C":1,
+"D":12,
+"E":1
+},
+"hlIds":[
+"5b58ea",
+"f47baf",
+"c0eaf2",
+"b7b762",
+"7a637c",
+"e18965",
+"68d371",
+"06558e",
+"5cc52b",
+"357745"
+]
+}

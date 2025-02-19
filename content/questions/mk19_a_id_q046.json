@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_id_q046",
+"number":46,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1f873d",
+"children":[
+"A 45-year-old man is evaluated in December with a 1-day history of runny nose, low-grade fever, headache, myalgia, and cough. He received the inactivated influenza vaccine 3 months ago. Medical history is notable for rheumatoid arthritis. His medications are methotrexate, etanercept, and low-dose prednisone."
+]
+},
+{
+"type":"p",
+"hlId":"ad8a67",
+"children":[
+"On physical examination, temperature is 39.1 °C (102.3 °F); the remainder of the vital signs and physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"decb61",
+"children":[
+"COVID-19 testing is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Obtain influenza polymerase chain reaction test; start oseltamivir"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Obtain influenza serology; start baloxavir"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain rapid influenza antigen test; start zanamivir"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain viral culture; start peramivir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8a8dd1",
+"children":[
+"Influenza polymerase chain reaction testing is recommended over rapid influenza antigen tests."
+]
+},
+{
+"type":"keypoint",
+"hlId":"31a641",
+"children":[
+"Antiviral treatment is recommended as soon as possible for adults with documented or suspected influenza who are hospitalized, for outpatients with severe or progressive illness regardless of illness duration, and for older adults and immunosuppressed patients."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cbe1d8",
+"children":[
+"The most appropriate management is to obtain influenza polymerase chain reaction (PCR) testing and start influenza treatment as soon as possible (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Infectious Diseases Society of America (IDSA) guidelines recommend initiating antiviral treatment as soon as possible for adults with documented or suspected influenza who are hospitalized and for outpatients with severe or progressive illness regardless of illness duration. Treatment should also be initiated as soon as possible for all other patients at high risk for influenza-related complications such as older adults and immunosuppressed persons, such as this patient. Treatment can also be considered for otherwise healthy outpatients if started within 48 hours, household contacts of severely immunosuppressed patients, and health care workers who care for patients at high risk of developing complications from influenza. Neuraminidase inhibitors have activity against influenza A and B. They can be given orally (oseltamivir), intranasally (zanamivir), or intravenously (peramivir). Baloxavir is a polymerase acidic endonuclease inhibitor that can be given as single-dose therapy for uncomplicated influenza. It must be started within 48 hours of symptom onset and appears to be as effective as a 5-day course of oseltamivir."
+]
+},
+{
+"type":"p",
+"hlId":"e2b478",
+"children":[
+"The serologic diagnosis of seasonal influenza virus infection requires paired acute and convalescent serum specimens that must be collected and tested together and cannot inform clinical management. No validated IgM assay exists to diagnose seasonal influenza virus infection in a single serum specimen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"fbc3cb",
+"children":[
+"Influenza PCR is recommended over rapid antigen tests (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Rapid antigen tests of respiratory samples from nasopharyngeal swabs can detect influenza A and B, but their sensitivity ranges from 59% to 93%. Detection of viral nucleic acid by PCR is rapid, has high sensitivity and specificity, and can determine the type and subtype of influenza virus."
+]
+},
+{
+"type":"p",
+"hlId":"c85ad3",
+"children":[
+"The IDSA recommends that clinicians not use viral culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") for initial or primary diagnosis of influenza because results will not be available in a timely manner to inform clinical management."
+]
+}
+],
+"relatedSection":"mk19_a_id_s19_1_3",
+"objective":{
+"__html":"Manage a patient with influenza."
+},
+"references":[
+[
+"Uyeki TM, Bernstein HH, Bradley JS, et al. Clinical practice guidelines by the Infectious Diseases Society of America: 2018 update on diagnosis, treatment, chemoprophylaxis, and institutional outbreak management of seasonal influenza. Clin Infect Dis. 2019;68:e1-e47. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30566567",
+"target":"_blank"
+},
+"children":[
+"PMID: 30566567"
+]
+},
+" doi:10.1093/cid/ciy866"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":82,
+"B":0,
+"C":16,
+"D":1,
+"E":0
+},
+"hlIds":[
+"1f873d",
+"ad8a67",
+"decb61",
+"cb2b54",
+"8a8dd1",
+"31a641",
+"cbe1d8",
+"e2b478",
+"fbc3cb",
+"c85ad3"
+]
+}

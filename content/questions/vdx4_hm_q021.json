@@ -1,0 +1,170 @@
+{
+"id":"vdx4_hm_q021",
+"number":21,
+"bookId":"vdx_hm",
+"correctAnswer":"C",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"04b54e",
+"children":[
+"A 26-year-old man is evaluated following an episode of acute hemolytic anemia."
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f021a",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_hm_mcq_f021a"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anaplasmosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Babesiosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Glucose-6-phosphate dehydrogenase deficiency"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Warm autoimmune hemolytic anemia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f7a31b",
+"children":[
+"The most likely diagnosis is glucose-6-phosphate dehydrogenase (G6PD) deficiency. The peripheral blood smear is notable for the presence of bite cells at the center of the slide (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"black arrow"
+]
+},
+"). ",
+{
+"type":"figure-link",
+"target":"vdx4_hm_mcq_f021b",
+"wrapId":"2",
+"children":[
+"Bite cells"
+]
+},
+" are typical findings in G6PD deficiency and are characterized by a membrane defect that appears as though a semicircular bite has been taken out of the erythrocyte. The defect is caused by removal of denatured hemoglobin by macrophages in the spleen. A polychromatophilic macro-ovalocyte can also be seen (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"blue arrow"
+]
+},
+"), indicating a reticulocyte response. Hemolysis occurs in patients with G6PD deficiency when exposed to an oxidative stress, most commonly medications. The diagnosis is confirmed by a low G6PD level, although testing performed immediately after a hemolytic episode may be falsely negative, as many of the G6PD-deficient cells were hemolyzed. Repeat testing after recovery may be necessary."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_hm_mcq_f021b"
+]
+}
+],
+"relatedSection":"mk19_b_hm_s4_3_1_2",
+"objective":{
+"__html":"Diagnose glucose-6-phosphate dehydrogenase deficiency."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_hm_mcq_f021a":{
+"id":"vdx4_hm_mcq_f021a",
+"number":21,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"128bfc300a7532d24616097ed50e354c",
+"height":900,
+"width":900,
+"extension":"jpg"
+}
+},
+"vdx4_hm_mcq_f021b":{
+"id":"vdx4_hm_mcq_f021b",
+"number":21,
+"bookId":"vdx_hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"01806d2eb332194d8d6bac4caa16064b",
+"height":900,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"04b54e",
+"f3f1a8",
+"413696",
+"f7a31b"
+]
+}

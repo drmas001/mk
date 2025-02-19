@@ -1,0 +1,186 @@
+{
+"id":"mk19_a_id_q012",
+"number":12,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb56b7",
+"children":[
+"A 26-year-old woman is seen for follow-up discussion of test results. Three days ago, she was evaluated for a 1-week history of a nonpruritic rash that appears to be resolving since the initial evaluation. The patient reports no recent history of oral or genital ulcers. She is transgender. She has multiple sexual partners (men and women) and reports consistent use of condoms except for oral sex. Medical history is notable for two instances of gonorrhea and treatment for early latent syphilis 1 year ago. Medications are combination tenofovir-emtricitabine."
+]
+},
+{
+"type":"p",
+"hlId":"2f50da",
+"children":[
+"On physical examination, temperature is 37.9 °C (100.2 °F); other vital signs are normal. Enlarged cervical, axillary, and epitrochlear lymph nodes are present. Faint, erythematous macules and papules are spread over the trunk and extremities; a few lesions are noted on the left palm."
+]
+},
+{
+"type":"p",
+"hlId":"2b2083",
+"children":[
+"Rapid plasma reagin (RPR) is 1:128; RPR 3 months ago was 1:2. Testing of urine and throat and anal swabs for gonorrhea and chlamydia is negative. HIV testing is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benzathine penicillin, intramuscularly (single dose)"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Benzathine penicillin, intramuscularly (weekly for three doses)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ceftriaxone, intramuscularly (single dose)"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Doxycycline, orally (for 14 days)"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"353a44",
+"children":[
+"The recommended treatment for secondary syphilis is a single dose of intramuscular benzathine penicillin."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"46ee18",
+"children":[
+"A single dose of benzathine penicillin is the most appropriate treatment for this patient who has secondary syphilis, which presented as a rash that is now resolving (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The clinical manifestations of secondary syphilis can resolve without treatment. Systemic symptoms and generalized lymphadenopathy are common, and epitrochlear lymph nodes are characteristic. The absence of a history of genital or oral ulcers does not exclude the possibility of syphilis because chancres are painless and may heal spontaneously without being noticed. Because the patient has a documented history of syphilis, it is expected that an enzyme immunoassay result would remain positive; however, the significant increase in the rapid plasma reagin (RPR) titer indicates a new infection. In this transgender woman at high risk for STI, if she were unlikely to return for follow up, the clinical presentation would support providing empiric therapy for syphilis before laboratory results returned. This patient should be counseled about the risk for STIs related to unprotected oral sex, and condoms and dental dams should be recommended to reduce this risk. The patient should have follow-up syphilis serology testing at 6 and 12 months, with an expected four-fold decrease in the RPR titer by 12 months."
+]
+},
+{
+"type":"p",
+"hlId":"e19ab5",
+"children":[
+"The three-dose regimen of benzathine penicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is used to treat late-latent syphilis or syphilis of unknown duration."
+]
+},
+{
+"type":"p",
+"hlId":"d1d322",
+"children":[
+"Data support the use of ceftriaxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to manage neurosyphilis in patients who are allergic to penicillin; however, it is not recommended for syphilis in any other setting."
+]
+},
+{
+"type":"p",
+"hlId":"b160cf",
+"children":[
+"Doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an alternate therapy for all forms of syphilis with the exception of neurosyphilis, and a 14-day course would be appropriate for management of secondary syphilis; however, doxycycline should only be used in patients with a penicillin allergy or if benzathine penicillin is unavailable."
+]
+}
+],
+"relatedSection":"mk19_a_id_s9_6_2",
+"objective":{
+"__html":"Treat secondary syphilis."
+},
+"references":[
+[
+"Workowski KA, Bolan GA; Centers for Disease Control and Prevention. Sexually transmitted diseases treatment guidelines, 2015. MMWR Recomm Rep. 2015;64:1-137. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26042815",
+"target":"_blank"
+},
+"children":[
+"PMID: 26042815"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":34,
+"B":62,
+"C":4,
+"D":0,
+"E":0
+},
+"hlIds":[
+"bb56b7",
+"2f50da",
+"2b2083",
+"1054f1",
+"353a44",
+"46ee18",
+"e19ab5",
+"d1d322",
+"b160cf"
+]
+}

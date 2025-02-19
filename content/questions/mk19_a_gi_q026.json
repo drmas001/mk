@@ -1,0 +1,548 @@
+{
+"id":"mk19_a_gi_q026",
+"number":26,
+"bookId":"gi",
+"correctAnswer":"B",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"69192f",
+"children":[
+"A 50-year-old man is evaluated at a routine follow-up appointment. He has a history of cirrhosis due to hepatitis C virus (HCV) infection. He previously underwent successful antiviral therapy for HCV infection. He has never had symptoms referable to liver disease and feels well. He is not taking any medications."
+]
+},
+{
+"type":"p",
+"hlId":"1fb1d8",
+"children":[
+"On physical examination, vital signs are normal and other findings are unremarkable."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"25ade8",
+"class":"cell text l",
+"children":[
+"155,000/μL (155 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4ffae8",
+"class":"cell text l",
+"children":[
+"INR"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e4c2e8",
+"class":"cell text l",
+"children":[
+"1.0"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"4590ed",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"Albumin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"08dd37",
+"class":"cell text l",
+"children":[
+"3.4 g/dL (34 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"62ea29",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, alanine (ALT)",
+"children":[
+"Alanine aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"6c6bb7",
+"class":"cell text l",
+"children":[
+"25 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c7d329",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Aminotransferase, aspartate (AST)",
+"children":[
+"Aspartate aminotransferase"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"55fc51",
+"class":"cell text l",
+"children":[
+"34 U/L"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c6e520",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, Total, serum",
+"children":[
+"Total bilirubin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"85913e",
+"class":"cell text l",
+"children":[
+"1.2 mg/dL (20.5 μmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"bd90b3",
+"children":[
+"Routine abdominal ultrasound screening and follow-up MRI show a 1.5-cm lesion in the left liver consistent with hepatocellular cancer. There is no evidence of metastatic disease."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Liver transplantation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Surgical resection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transarterial chemoembolization"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ongoing surveillance"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"89156c",
+"children":[
+"Patients with hepatocellular carcinoma who have well-compensated cirrhosis, no symptoms referable to liver disease, no evidence of portal hypertension, and normal liver function markers should be referred for surgical resection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2a0a78",
+"children":[
+"Liver transplantation for hepatocellular cancer is the best therapy for patients who also have portal hypertension or features of liver dysfunction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"383962",
+"children":[
+"The most appropriate management is surgical resection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients with hepatocellular carcinoma who have well-compensated cirrhosis, no symptoms referable to liver disease, no evidence of portal hypertension, and normal liver function markers, like this patient, typically can tolerate surgical resection. The left liver is smaller than the right liver; therefore, in this patient, resection of cancer that spares the right liver should be undertaken. Screening for hepatocellular carcinoma is important in patients with cirrhosis, even those who have undergone successful antiviral therapy for hepatitis C virus infection. Although successful antiviral therapy decreases the risk for hepatocellular carcinoma, the risk is not eliminated and screening with abdominal ultrasonography should be performed indefinitely at 6-month intervals. Patients who undergo surgical resection are at risk for recurrent hepatocellular cancer, and surveillance imaging should continue after resection."
+]
+},
+{
+"type":"p",
+"hlId":"5418ab",
+"children":[
+"Liver transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") for hepatocellular cancer is the best therapy for patients who also have portal hypertension or features of liver dysfunction, such as jaundice, and cannot undergo liver resection. This patient has well-compensated cirrhosis and should be referred for resection rather than liver transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"5a9be5",
+"children":[
+"Liver-directed cytoreductive therapies, including transarterial chemoembolization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), transarterial radioembolization, stereotactic body radiotherapy, and radiofrequency ablation, are considered when patients are not candidates for surgical resection or liver transplantation. These locoregional procedures typically decrease the size of liver tumors and may be curative, but they are not as definitive as resection and thus are considered second-line therapies. This patient is a candidate for surgical resection as first-line therapy."
+]
+},
+{
+"type":"p",
+"hlId":"09c8a3",
+"children":[
+"Ongoing surveillance (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate in a patient who can be considered for resection of hepatocellular carcinoma. The only potential role for ongoing surveillance of this condition is for a suspected lesion being monitored for growth at short intervals in the context of potential liver transplantation. In this patient with potentially resectable hepatocellular carcinoma, surveillance is not warranted."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_12_7",
+"objective":{
+"__html":"Treat hepatocellular carcinoma with surgical resection."
+},
+"references":[
+[
+"Marrero JA, Kulik LM, Sirlin CB, et al. Diagnosis, staging, and management of hepatocellular carcinoma: 2018 practice guidance by the American Association for the Study of Liver Diseases. Hepatology. 2018;68:723-750. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29624699",
+"target":"_blank"
+},
+"children":[
+"PMID: 29624699"
+]
+},
+" doi:10.1002/hep.29913"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":62,
+"C":23,
+"D":4,
+"E":0
+},
+"hlIds":[
+"69192f",
+"1fb1d8",
+"a462a3",
+"fcac73",
+"25ade8",
+"4ffae8",
+"e4c2e8",
+"4590ed",
+"08dd37",
+"62ea29",
+"6c6bb7",
+"c7d329",
+"55fc51",
+"c6e520",
+"85913e",
+"bd90b3",
+"cb2b54",
+"89156c",
+"2a0a78",
+"383962",
+"5418ab",
+"5a9be5",
+"09c8a3"
+]
+}

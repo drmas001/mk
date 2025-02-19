@@ -1,0 +1,474 @@
+{
+"id":"mk19_bb_cv_s15",
+"subspecialtyId":"cv",
+"title":"Ventricular Tachycardia",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_cv_s15",
+"title":{
+"__html":"Ventricular Tachycardia"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"655633",
+"children":[
+"Ventricular Tachycardia"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_cv_s15_1",
+"title":{
+"__html":"Diagnosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"523223",
+"children":[
+"Diagnosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"345f4e",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Premature ventricular complexes (PVCs)"
+]
+},
+" can be single, in pairs (couplets), or alternating with sinus beats. In healthy adults, occasional ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"premature ventricular complex",
+"children":[
+"PVC"
+]
+},
+"s"
+]
+},
+" are benign."
+]
+},
+{
+"type":"p",
+"hlId":"eed0ac",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Ventricular tachyarrhythmias"
+]
+},
+" consist of ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"ventricular tachycardia",
+"children":[
+"VT"
+]
+},
+","
+]
+},
+" ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"ventricular fibrillation",
+"children":[
+"VF"
+]
+},
+","
+]
+},
+" and torsades de pointes. Ventricular tachyarrhythmias are characterized by:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"483e64",
+"children":[
+"QRS >0.12 s"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"f0dea0",
+"children":[
+{
+"type":"abbreviation",
+"title":"atrioventricular",
+"children":[
+"AV"
+]
+},
+" dissociation"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"6e2d3d",
+"children":[
+"VT can be further classified as sustained or nonsustained. Nonsustained VT lasts <30 s."
+]
+},
+{
+"type":"p",
+"hlId":"d5fa1a",
+"children":[
+"VT is also categorized by the morphology of the QRS complexes:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"6898b0",
+"children":[
+"Monomorphic VT: QRS complexes in the same leads do not vary in contour."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"023322",
+"children":[
+"Polymorphic VT: QRS complexes in the same leads do vary in contour."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"c5439c",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Differentiating VT from "
+]
+},
+{
+"type":"abbreviation",
+"title":"supraventricular tachycardia",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"SVT"
+]
+}
+]
+},
+" with aberrant conduction is important because the treatment differs markedly. VT is more common than SVT with aberrancy, particularly in persons with structural heart disease. ",
+{
+"type":"alert",
+"children":[
+"Any wide QRS tachycardia should be considered to be VT until proven otherwise."
+]
+},
+" In the presence of known structural heart disease, especially a previous ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"myocardial infarction",
+"children":[
+"MI"
+]
+},
+","
+]
+},
+" the diagnosis of VT is almost certain."
+]
+},
+{
+"type":"p",
+"hlId":"0d3070",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Torsades de pointes"
+]
+},
+" is a specific form of polymorphic VT associated with long QT interval. Torsades de pointes episodes are typically short-lived and terminate spontaneously, but multiple successive episodes may result in syncope or VF."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_cv_s15_2",
+"title":{
+"__html":"Testing"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"fa6a5a",
+"children":[
+"Testing"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"17ad29",
+"children":[
+"Evaluation with resting ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"electrocardiogram",
+"children":[
+"ECG"
+]
+},
+","
+]
+},
+" exercise treadmill testing (to provoke arrhythmias), and cardiac imaging (to identify structural heart disease) is indicated in all patients with VT."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_cv_s15_3",
+"title":{
+"__html":"Treatment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4c4ac0",
+"children":[
+"Treatment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"925080",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Patients without identifiable structural heart disease:"
+]
+},
+" First-line treatment for symptomatic PVC suppression is β-blocker or calcium channel blocker therapy. Calcium channel blockers, especially verapamil, and β-blockers are first-line therapy for idiopathic VT."
+]
+},
+{
+"type":"p",
+"hlId":"7f8d5d",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Patients with structural heart disease:"
+]
+},
+" Patients with ischemic cardiomyopathy who present with VT should be considered for angiography and revascularization, if appropriate. In patients with recurrent VT despite β-blocker therapy, antiarrhythmic drug therapy or catheter ablation may be considered. ",
+{
+"type":"abbreviation",
+"title":"implantable cardioverter defibrillator",
+"children":[
+"ICD"
+]
+},
+" placement is indicated for prevention of ",
+{
+"type":"abbreviation",
+"title":"sudden cardiac death",
+"children":[
+"SCD"
+]
+},
+" in patients with structural heart disease or cardiomyopathy who have sustained VT/VF, if reversible causes have been excluded."
+]
+},
+{
+"type":"p",
+"hlId":"17b3d8",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Acute treatment of sustained VT:"
+]
+},
+" "
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"8a0ffc",
+"children":[
+"For unstable patients, immediate electrical cardioversion is indicated. Pulseless VT is treated in the same way as VF."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"d1f6d0",
+"children":[
+"For hemodynamically stable patients, IV procainamide, amiodarone, and sotalol are therapeutic options."
+]
+},
+" "
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"40b0da",
+"children":[
+"In patients with structural heart disease, therapy to suppress PVCs does not affect outcomes."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_cv_s15_4",
+"title":{
+"__html":"Test Yourself"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"7866cc",
+"children":[
+"Test Yourself"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"5113ab",
+"class":"test",
+"children":[
+"A 65-year-old woman with chronic stable angina and a history of an anterior MI is evaluated in the emergency department for palpitations and lightheadedness. Vital signs are stable. ECG shows a wide-complex tachycardia with an ",
+{
+"type":"abbreviation",
+"title":"right bundle branch block",
+"children":[
+"RBBB"
+]
+},
+" pattern. No previous ECGs are immediately available."
+]
+},
+{
+"type":"p",
+"hlId":"b1b8c2",
+"class":"test_answer",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Answer:"
+]
+},
+" ",
+"The diagnosis is most likely sustained VT. The acute treatment is IV lidocaine or amiodarone."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_cv_f18"
+],
+"forceOpen":true
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_bb_cv_f19"
+],
+"forceOpen":true
+}
+]
+}
+]
+},
+"tablesContent":{
+}
+}

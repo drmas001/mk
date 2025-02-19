@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_gm_q098",
+"number":98,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 98",
+"stimulus":[
+{
+"type":"p",
+"hlId":"63ab26",
+"children":[
+"A 40-year-old man is evaluated for a 5-day history of sore throat and fever. He has no cough or nasal congestion. Medical history is otherwise unremarkable. He does not smoke."
+]
+},
+{
+"type":"p",
+"hlId":"917069",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F). The oropharynx is erythematous, with enlarged tonsils with purulent exudate. The anterior cervical lymph nodes are tender and enlarged. The remainder of the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Penicillin VK"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Rapid antigen detection test for group A <i>Streptococcus</i>"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Throat culture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No testing or therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bec600",
+"hvc":true,
+"children":[
+"The Centor criteria (fever, tonsillar exudates, tender anterior cervical lymphadenopathy, and absence of cough) can used to guide the need for testing (rapid antigen detection test) for group A streptococcal pharyngitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ab3b55",
+"hvc":true,
+"children":[
+"Patients presenting with acute pharyngitis and two or fewer Centor criteria do not need to be tested for group A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus."
+]
+}
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"85c4f1",
+"children":[
+"The most appropriate next step in management is a rapid antigen detection test (RADT) for group A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus"
+]
+},
+" (GAS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Acute pharyngitis symptoms typically last less than 1 week. Most cases are viral in etiology, and only 5% to 15% of pharyngitis cases are caused by bacteria, most frequently GAS. The Centor criteria (fever, tonsillar exudates, tender anterior cervical lymphadenopathy, and absence of cough) can help guide the need for testing for bacterial pharyngitis. The Centor criteria have a low positive predictive value for determining the presence of GAS infection and are best used to exclude infection. Patients with two or fewer Centor criteria are very unlikely to have GAS pharyngitis and do not need to be tested or treated with antibiotics. Patients with three or more Centor criteria should be tested by using a RADT for GAS pharyngitis. This patient presents with four Centor criteria, placing him at risk for streptococcal pharyngitis, and a RADT is needed to guide therapy."
+]
+},
+{
+"type":"p",
+"hlId":"f5c707",
+"children":[
+"Antibiotic therapy with penicillin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or amoxicillin is indicated for GAS pharyngitis to reduce the likelihood of cardiac complications, such as valvular damage from rheumatic fever; lower the risk for pharyngeal abscess; and reduce the duration of symptoms and transmission of infection. Even with multiple findings suggestive of a bacterial etiology, a viral cause is still reasonably likely, and RADT should be completed to confirm GAS pharyngitis before antibiotic treatment. No guideline recommends empiric treatment without testing."
+]
+},
+{
+"type":"p",
+"hlId":"d78139",
+"children":[
+"RADT has comparable sensitivity and specificity to throat culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). In patients who are at high risk for complications (immunocompromised, high-risk contacts or environment), a negative RADT result should be confirmed by throat culture; otherwise, it is unnecessary. Results of throat culture generally take 24 to 48 hours. Empiric treatment with antibiotics while results are pending is not recommended because short delays in therapy have not been associated with higher complication rates."
+]
+},
+{
+"type":"p",
+"hlId":"7bbf6f",
+"children":[
+"No testing or therapy is inappropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Because this patient meets four Centor criteria, placing him at risk for streptococcal pharyngitis, RADT is needed to guide therapy."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s9_6_4",
+"objective":{
+"__html":"Evaluate a patient with acute pharyngitis."
+},
+"references":[
+[
+"Mustafa Z, Ghaffari M. Diagnostic methods, clinical guidelines, and antibiotic treatment for group A streptococcal pharyngitis: a narrative review. Front Cell Infect Microbiol. 2020;10:563627. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33178623",
+"target":"_blank"
+},
+"children":[
+"PMID: 33178623"
+]
+},
+" doi:10.3389/fcimb.2020.563627"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":40,
+"B":52,
+"C":7,
+"D":2,
+"E":0
+},
+"hlIds":[
+"63ab26",
+"917069",
+"1a5dcc",
+"bec600",
+"ab3b55",
+"85c4f1",
+"f5c707",
+"d78139",
+"7bbf6f"
+]
+}

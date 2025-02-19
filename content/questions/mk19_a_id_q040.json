@@ -1,0 +1,238 @@
+{
+"id":"mk19_a_id_q040",
+"number":40,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 40",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ac36dc",
+"children":[
+"An 18-year-old man is evaluated for a 2-day history of pruritic rash. He sits nightly in his hot tub. He has not had a rash like this before. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4f2de1",
+"children":[
+"On physical examination, vital signs are normal. Several tender erythematous papulopustules are located primarily over his buttocks."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"804e50",
+"children":[
+"Which of the following is the most appropriate management for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cephalexin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Observation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0daba3",
+"children":[
+"“Hot tub” folliculitis is a self-limited skin infection associated with the use of hot tubs, swimming pools, saunas, and whirlpools containing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+"."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"82f459",
+"children":[
+"Observation is appropriate at this time (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has folliculitis. Folliculitis results from inflammation of the hair follicles. It typically presents as perifollicular erythematous papules and pustules over the face, scalp, trunk, and thigh; however, it can appear over any hair-bearing area of skin. The diagnosis of folliculitis can be made from history and clinical presentation. Bacterial cultures can be performed from pustules but are usually unnecessary. Skin biopsies can be performed when causes other than bacterial infection, such as fungal or herpetic infections, are suspected. This patient most likely has ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+" folliculitis, which is associated with the use of hot tubs, swimming pools, saunas, and whirlpools. It is typically self-limited, resolving within 7 to 10 days. Anyone exposed to water containing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" can develop this infection, particularly in areas where the skin is in contact with water for prolonged periods of time (i.e., under swimsuits). In addition to multiple erythematous pruritic papulopustular or nodular lesions, patients may also develop slight temperature elevations and malaise. Appropriate pH and chlorine disinfectant levels can decrease the risk for this infection. The incubation period is usually about 2 days."
+]
+},
+{
+"type":"p",
+"hlId":"ef2175",
+"children":[
+"Cephalexin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a first-generation oral cephalosporin, is active against gram-positive pathogens like staphylococci and streptococci and some gram-negative Enterobacteriaceae but not ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa."
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"9802fe",
+"children":[
+"If the rash is persistent, severe, or occurs in an immunocompromised patient, then targeted antibiotic therapy against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" with a quinolone like ciprofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or levofloxacin can be considered. This patient has no indication for antibiotic treatment at this time."
+]
+},
+{
+"type":"p",
+"hlId":"179d5a",
+"children":[
+"In nonaquatic settings, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" is a common cause of folliculitis. Treatment is not usually indicated when only a few lesions are present because these infections are usually self-limited. More extensive staphylococcal folliculitis infection may require treatment with topical agents such as clindamycin or mupirocin or oral agents such as dicloxacillin or cephalexin (if sensitive to methicillin); trimethoprim-sulfamethoxazole or doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used for methicillin-resistant strains."
+]
+}
+],
+"relatedSection":"mk19_a_id_s2_4",
+"objective":{
+"__html":"Manage “hot tub” folliculitis."
+},
+"references":[
+[
+"Hlavsa MC, Cikesh BL, Roberts VA, et al. Outbreaks associated with treated recreational water - United States, 2000-2014. MMWR Morb Mortal Wkly Rep. 2018;67(19):547-551. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29771872",
+"target":"_blank"
+},
+"children":[
+"PMID: 29771872"
+]
+},
+" doi:10.15585/mmwr.mm6719a3"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":31,
+"C":12,
+"D":48,
+"E":0
+},
+"hlIds":[
+"ac36dc",
+"4f2de1",
+"804e50",
+"0daba3",
+"82f459",
+"ef2175",
+"9802fe",
+"179d5a"
+]
+}

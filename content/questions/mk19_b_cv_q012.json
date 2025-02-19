@@ -1,0 +1,198 @@
+{
+"id":"mk19_b_cv_q012",
+"number":12,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f14ca",
+"children":[
+"A 57-year-old man is evaluated for a 6-month history of stable chest pain. He experiences chest pressure that occurs after walking 1 mile and resolves promptly with rest. He has no symptoms at rest. His history includes aspirin allergy manifesting as hives and difficulty breathing after taking 325 mg of aspirin as a teenager. He is a never smoker. He has hyperlipidemia. His only medication is atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"c687c0",
+"children":[
+"On physical examination, vital signs are normal. BMI is 30. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"0023e0",
+"children":[
+"Resting ECG is normal, and an exercise ECG is scheduled. The patient receives counseling on lifestyle interventions to reduce his risk for disease progression. Antianginal medications will be initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"fdd829",
+"children":[
+"Which of the following is the most appropriate cardioprotective treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Low-dose aspirin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prasugrel"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ticagrelor"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24a8e6",
+"children":[
+"All patients with stable ischemic heart disease should receive guideline-directed therapies consisting of lifestyle modification, cardioprotective therapy, and antianginal medication."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f39768",
+"children":[
+"Patients with stable ischemic heart disease should receive antiplatelet therapy (low-dose aspirin or clopidogrel in aspirin-intolerant patients) for secondary prevention of cardiovascular events."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ce6424",
+"children":[
+"Clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate cardioprotective medication for this patient. The patient's chest pain symptoms, which occur with exertion and subside with rest, are consistent with angina. Therefore, he has a high pretest likelihood of coronary artery disease and is a candidate for secondary preventive therapy. All patients with stable ischemic heart disease should receive guideline-directed therapies consisting of risk factor modification with regular physical exercise, attention to diet, weight loss, and smoking cessation, as well as cardioprotective therapy to improve prognosis and antianginal medication as needed to improve functional capacity. The Antithrombotic Trialists' Collaboration collaborative meta-analysis of nearly 3000 patients with stable ischemic heart disease found an association between aspirin use and reduced risk for serious vascular events, including a 46% decrease in the risk for unstable angina and a 53% risk reduction in the need for coronary angioplasty. Therefore, in the absence of contraindications, antiplatelet therapy in the form of low-dose aspirin (75-162 mg/d) is indicated indefinitely for secondary prevention to reduce the risk for myocardial infarction and cardiovascular death. In patients who have an intolerance or allergy to aspirin, clopidogrel therapy is considered an acceptable alternative. Aspirin desensitization is another approach."
+]
+},
+{
+"type":"p",
+"hlId":"4d4a13",
+"children":[
+"This patient has experienced an adverse reaction to aspirin. Aspirin desensitization can be performed safely under medical supervision in patients who require initiation of aspirin (for example, those who require dual antiplatelet therapy after percutaneous coronary intervention). However, in a patient with aspirin allergy or sensitivity, lowering the aspirin dose (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") will not improve tolerance."
+]
+},
+{
+"type":"p",
+"hlId":"e0f158",
+"children":[
+"Prasugrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and ticagrelor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are newer, more potent, and more costly antiplatelet agents with potential for increased bleeding events, and their use as monotherapy has not been studied in the context of secondary prevention for patients with stable ischemic heart disease; they are not suggested for this indication in current guidelines."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_1_2_1",
+"objective":{
+"__html":"Treat stable angina pectoris in an aspirin-intolerant patient."
+},
+"references":[
+[
+"Katz D, Gavin MC. Stable ischemic heart disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201908060",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31382288",
+"target":"_blank"
+},
+"children":[
+"PMID: 31382288"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":72,
+"B":14,
+"C":6,
+"D":9,
+"E":0
+},
+"hlIds":[
+"8f14ca",
+"c687c0",
+"0023e0",
+"fdd829",
+"24a8e6",
+"f39768",
+"ce6424",
+"4d4a13",
+"e0f158"
+]
+}

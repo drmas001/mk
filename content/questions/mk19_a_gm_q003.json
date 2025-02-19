@@ -1,0 +1,205 @@
+{
+"id":"mk19_a_gm_q003",
+"number":3,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"166c20",
+"children":[
+"A 54-year-old man is evaluated for a 3-week history of worsening bilateral lower extremity edema. He has no other symptoms. One month ago, he was diagnosed with hypertension. Other medical problems include dyslipidemia and type 2 diabetes mellitus. Current medications are metformin, empagliflozin, atorvastatin, and amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"9b5ad3",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. Bilateral lower extremity edema with pitting to the mid-tibia is present. Jugular venous pressure and heart sounds are normal."
+]
+},
+{
+"type":"p",
+"hlId":"87ffd1",
+"children":[
+"Urinalysis results are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"05e85f",
+"children":[
+"Which of the following is the most likely cause of the edema?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amlodipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Atorvastatin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Empagliflozin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metformin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"309fae",
+"children":[
+"Medications are a common cause of bilateral lower extremity edema."
+]
+},
+{
+"type":"keypoint",
+"hlId":"337d6a",
+"children":[
+"The drugs most commonly implicated in edema formation are calcium channel blockers, gabapentin, NSAIDs, oral contraceptives, glucocorticoids, and thiazolidinediones."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1ae812",
+"children":[
+"The most likely cause of the edema is amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Acute bilateral lower extremity edema has a broad differential diagnosis. Most diagnoses can be established on the basis of the history or physical examination findings. Medications are a common cause of bilateral lower extremity edema. The most commonly implicated drugs are calcium channel blockers, gabapentin, NSAIDs, oral contraceptives, glucocorticoids, and thiazolidinediones. Dihydropyridine calcium channel blockers, such as amlodipine, are associated with lower extremity edema in up to 30% of patients in a dose-dependent fashion. Lower extremity edema occurs because these drugs cause vasodilation, leading to increased capillary hydrostatic pressure, which is exacerbated by gravitational forces with standing. The swelling subsides with dose reduction of the dihydropyridine calcium channel blocker or switching to a different class of antihypertensive medication."
+]
+},
+{
+"type":"p",
+"hlId":"3eb96e",
+"children":[
+"Statins, such as atorvastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are generally well tolerated. Although muscle pain and weakness with or without increased creatine kinase levels are commonly reported by patients, muscle symptoms in randomized trials appear to occur equally often in patients taking placebo. Statins may be associated with increases in serum aminotransferase levels, but statin-induced liver injury is rare. Statins also have been associated with the onset of diabetes mellitus, but typically only in patients with preexisting risk factors for diabetes; the beneficial effects of statins on cardiovascular mortality appear to overshadow the risks associated with drug-induced diabetes. Statins are not known to increase peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"812878",
+"children":[
+"Empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a sodium-glucose cotransporter-2 (SGLT2) inhibitor that decreases renal glucose reabsorption and increases urinary glucose excretion, resulting in lower blood glucose levels. SGLT2 inhibitors also increase urinary sodium excretion, cause weight loss, and lower blood pressure. Empagliflozin is not associated with the formation of peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"c6afac",
+"children":[
+"The mechanism of glucose lowering with metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is complex and not completely understood. Metformin decreases hepatic glucose production and increases secretion of glucagon-like peptide-1. Metformin also may reduce intestinal absorption of glucose and increase peripheral glucose uptake. Commonly reported adverse effects include a metallic taste in the mouth; nausea; diarrhea; vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency; and, rarely, lactic acidosis. Peripheral edema is not associated with metformin."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_7",
+"objective":{
+"__html":"Diagnose medication-related peripheral edema."
+},
+"references":[
+[
+"Ratchford EV, Evans NS. Approach to lower extremity edema. Curr Treat Options Cardiovasc Med. 2017;19:16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28290004",
+"target":"_blank"
+},
+"children":[
+"PMID: 28290004"
+]
+},
+" doi:10.1007/s11936-017-0518-6"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":99,
+"B":0,
+"C":1,
+"D":0,
+"E":0
+},
+"hlIds":[
+"166c20",
+"9b5ad3",
+"87ffd1",
+"05e85f",
+"309fae",
+"337d6a",
+"1ae812",
+"3eb96e",
+"812878",
+"c6afac"
+]
+}

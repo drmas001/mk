@@ -1,0 +1,254 @@
+{
+"id":"mk19_a_id_q076",
+"number":76,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8d50e9",
+"children":[
+"A 52-year-old woman is evaluated for a 1-month history of fever, malaise, and weight loss. She has a history of cardiomyopathy, for which she received a heart transplant 5 years ago; 3 months ago, an episode of rejection occurred, and high-dose glucocorticoids were initiated. At the time of transplantation, studies were significant for donor seropositivity for Epstein-Barr virus and cytomegalovirus; the patient was negative for both. Medications are tacrolimus, mycophenolate mofetil, prednisone, and trimethoprim-sulfamethoxazole."
+]
+},
+{
+"type":"p",
+"hlId":"c18071",
+"children":[
+"On physical examination, temperature is 37.7 °C (99.9 °F), and other vital signs are normal. Cervical lymphadenopathy is noted. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"eb4a1d",
+"children":[
+"CT scan of the chest shows an anterior mediastinal mass."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2e16e3",
+"children":[
+"Which of the following infections is the most likely cause of the patient's findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adenovirus"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epstein-Barr virus"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"\n          <i>Escherichia coli</i>\n        "
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"\n          <i>Pneumocystis jirovecii</i>\n        "
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4fe0cc",
+"children":[
+"Episodes of organ rejection with intensified immunosuppression put patients at higher risk for posttransplant infections."
+]
+},
+{
+"type":"keypoint",
+"hlId":"861cff",
+"children":[
+"Nonspecific symptoms such fever, weight loss, and fatigue can be the initial presentation of Epstein-Barr virus–related posttransplant lymphoproliferative disorder."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"25f1ab",
+"children":[
+"The most likely diagnosis in this patient is posttransplant lymphoproliferative disorder (PTLD) secondary to Epstein-Barr virus (EBV) infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). She is immunocompromised and at very high risk for EBV-related complications (donor and recipient EBV and cytomegalovirus mismatch at the time of transplantation, recent intensification of immunosuppression). Her history of weight loss and presence of a mediastinal mass on imaging is also worrisome for malignancy. It is likely that she acquired primary EBV infection from the donated heart in the first year after transplantation, which may have presented as a mononucleosis-like syndrome. Afterward, intensification of ongoing immunosuppression would be the most significant factor in development of PTLD related to EBV infection. A substantial increase in the EBV viral load supports the diagnosis, which can be confirmed with tissue biopsy of the mediastinal mass or involved lymph nodes. Management of EBV-related complications, including PTLD, focuses primarily on reducing immunosuppression; antiviral therapy is not effective. Late-onset PTLD can also be EBV negative."
+]
+},
+{
+"type":"p",
+"hlId":"29252e",
+"children":[
+"Adenovirus infections can cause significant morbidity and mortality in organ transplant recipients and could cause disseminated infections involving not only the grafted organ but also lungs and liver in patients with heart transplants. However, this patient's presentation of a mediastinal mass is not typical for adenovirus infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"cfcba7",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" infection is unlikely with this patient's symptoms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). A more acute onset with high fevers and an obvious genitourinary or gastrointestinal focus would point more clearly toward ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+" as the cause."
+]
+},
+{
+"type":"p",
+"hlId":"50087d",
+"children":[
+"The risk of other opportunistic infections, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis jirovecii"
+]
+},
+" also increases after transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Often, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" prophylaxis is discontinued 1 year after transplantation, but this timeline is reset in episodes of rejection and intensification of immunosuppression. Patients with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" infection most commonly present with fever, cough, dyspnea, and diffuse, bilateral interstitial infiltrates. This patient's presentation is unusual for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pneumocystis"
+]
+},
+" infection, and the likelihood of this pathogen would be low with ongoing trimethoprim-sulfamethoxazole prophylaxis."
+]
+}
+],
+"relatedSection":"mk19_a_id_s16_3_2",
+"objective":{
+"__html":"Diagnose Epstein-Barr virus–related posttransplant lymphoproliferative disorder."
+},
+"references":[
+[
+"Dierickx D, Habermann TM. Post-transplantation lymphoproliferative disorders in adults. N Engl J Med. 2018;378:549-562. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29414277",
+"target":"_blank"
+},
+"children":[
+"PMID: 29414277"
+]
+},
+" doi:10.1056/NEJMra1702693"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":84,
+"C":1,
+"D":10,
+"E":0
+},
+"hlIds":[
+"8d50e9",
+"c18071",
+"eb4a1d",
+"2e16e3",
+"4fe0cc",
+"861cff",
+"25f1ab",
+"29252e",
+"cfcba7",
+"50087d"
+]
+}

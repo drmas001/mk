@@ -1,0 +1,229 @@
+{
+"id":"mk19_a_id_q039",
+"number":39,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c9346a",
+"children":[
+"A 42-year-old man is evaluated in the emergency department for a 2-day history of redness and pain at the site of a recent insect bite. Medical history is otherwise noncontributory, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c3d428",
+"children":[
+"On physical examination, temperature is 38.8 °C (101.9 °F), blood pressure is 110/70 mm Hg, pulse rate is 105/min, and respiration rate is 18/min. A poorly defined, diffuse, 4- × 5-cm erythematous area is located on the distal left lower extremity; it is warm and edematous but without purulence, induration, or fluctuance. No other findings are present."
+]
+},
+{
+"type":"p",
+"hlId":"59cde5",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"leukocyte count"
+]
+},
+" of 15,000/µL (15 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"bb94f6",
+"children":[
+"Which of the following is the most appropriate antibiotic therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cefazolin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vancomycin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vancomycin and piperacillin-tazobactam"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c52067",
+"children":[
+"Empiric treatment of moderate severity nonpurulent cellulitis (fever, tachycardia, leukocytosis) includes intravenous penicillin, ceftriaxone, cefazolin, or clindamycin."
+]
+},
+{
+"type":"keypoint",
+"hlId":"af1ff8",
+"children":[
+"Empiric antibiotic treatment of moderate severity purulent cellulitis (with systemic signs of infection) includes oral doxycycline or trimethoprim-sulfamethoxazole."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"62cd99",
+"children":[
+"The most appropriate antibiotic therapy for this patient is cefazolin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). He has systemic signs of infection (fever, tachycardia, leukocytosis) indicating moderate severity nonpurulent cellulitis of the left lower extremity. For moderate severity cellulitis, the Infectious Diseases Society of America recommends intravenous antibiotics directed against β-hemolytic streptococci, including penicillin, ceftriaxone, cefazolin, or clindamycin. Nonpurulent skin infections include erysipelas and cellulitis. Erysipelas refers to infection of the epidermis, upper dermis, and superficial lymphatics. Usually involving the face or lower extremities, this infection is brightly erythematous with distinct, elevated borders and associated fever, lymphangitis, and regional lymphadenopathy. Cellulitis refers to infection involving the deeper dermis and subcutaneous fat tissue. Inflammatory signs of infection are similar to erysipelas, but the area of involvement is less well demarcated. For immunocompetent patients with cellulitis or erysipelas who have no systemic signs or symptoms (i.e., mild infection), oral therapy, including penicillin VK, cephalexin, dicloxacillin, or clindamycin, directed against streptococci is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"a6d08c",
+"children":[
+"In addition to incision and drainage, empiric therapy against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MRSA) with doxycycline or trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, C"
+]
+},
+") is recommended for moderate purulent skin infections with systemic signs of infection, which is not apparent in this case."
+]
+},
+{
+"type":"p",
+"hlId":"d27532",
+"children":[
+"Vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") provides coverage against streptococci and MRSA and is recommended when nonpurulent cellulitis requiring intravenous antibiotics is associated with penetrating trauma, nasal colonization or infection with MRSA elsewhere, or injection drug use. None of these conditions is evident in this patient, so vancomycin is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"2d0bcf",
+"children":[
+"Necrotizing soft tissue infections, which involve subdermal compartments (fascia and possibly muscle) are uncommon but potentially life threatening. Necrotizing fasciitis initially resembles cellulitis before potentially rapid progression with edema, severe pain, hemorrhagic bullous lesions, skin necrosis, and local crepitus. Systemic toxicity manifests with fever, hypotension, tachycardia, mental status changes, and tachypnea. A hallmark of infection is “woody” induration appreciated by palpation of involved subcutaneous tissues. Pending culture results, empiric antibiotic treatment includes broad-spectrum coverage for aerobic and anaerobic organisms (including MRSA) and consists of vancomycin, daptomycin, or linezolid plus piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"); a carbapenem; ceftriaxone plus metronidazole; or a fluoroquinolone plus metronidazole. This patient has no findings of a necrotizing skin infection."
+]
+}
+],
+"relatedSection":"mk19_a_id_s2_2",
+"objective":{
+"__html":"Treat a patient with moderate nonpurulent cellulitis."
+},
+"references":[
+[
+"Stevens DL, Bisno AL, Chambers HF, et al; Infectious Diseases Society of America. Practice guidelines for the diagnosis and management of skin and soft tissue infections: 2014 update by the Infectious Diseases Society of America. Clin Infect Dis. 2014;59:e10-52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24973422",
+"target":"_blank"
+},
+"children":[
+"PMID: 24973422"
+]
+},
+" doi:10.1093/cid/ciu444"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":39,
+"B":26,
+"C":19,
+"D":8,
+"E":8
+},
+"hlIds":[
+"c9346a",
+"c3d428",
+"59cde5",
+"bb94f6",
+"c52067",
+"af1ff8",
+"62cd99",
+"a6d08c",
+"d27532",
+"2d0bcf"
+]
+}

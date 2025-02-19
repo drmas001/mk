@@ -1,0 +1,5418 @@
+{
+"id":"mk19_a_np_s3",
+"subspecialtyId":"np",
+"title":"Acid-Base Disorders",
+"jsonContent":{
+"type":"section",
+"id":"mk19_a_np_s3",
+"title":{
+"__html":"Acid-Base Disorders"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"60ef45",
+"children":[
+"Acid-Base Disorders"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_np_s3_1",
+"title":{
+"__html":"Overview"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"3b8782",
+"children":[
+"Overview"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"8956ba",
+"children":[
+"Hydrogen ions are maintained within narrow limits and determine pH ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t07",
+"wrapId":"1",
+"children":[
+"Table 7"
+]
+}
+]
+},
+")"
+]
+},
+". Any change in pH results in a predictable response to limit that change."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_np_t07"
+]
+},
+{
+"type":"p",
+"hlId":"2e2c9b",
+"children":[
+"Causes of acid-base disorders can be determined by using blood gas pH, P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", serum bicarbonate measurements, and the serum anion gap. Arterial blood provides the most accurate measurement, although venous blood gases may be useful in following response to therapy. Venous gases are least useful in patients with shock, due to lower pH and higher P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" values than in arterial gases."
+]
+},
+{
+"type":"p",
+"hlId":"381414",
+"children":[
+"Primary acid-base disorders are classified according to the underlying mechanism (metabolic or respiratory) and their effect on acid-base balance (acidosis or alkalosis) ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_a_np_f10",
+"wrapId":"2",
+"children":[
+"Figure 10"
+]
+}
+]
+},
+")"
+]
+},
+". Expected compensatory response to the primary disorder is then assessed ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t08",
+"wrapId":"2",
+"children":[
+"Table 8"
+]
+}
+]
+},
+")"
+]
+},
+". A mixed acid-base disorder is present when measured values fall outside the range of the predicted compensatory response. The primary disorder is usually reflected by the blood pH, although a normal pH may occur in the context of a mixed disorder. Appropriate compensation may result in near-normal pH."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_a_np_f10",
+"mk19_a_np_t08"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"577e52",
+"children":[
+"Primary metabolic acidosis is defined by low serum bicarbonate and primary metabolic alkalosis by elevated serum bicarbonate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f71797",
+"children":[
+"In primary respiratory acidosis, arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is above normal; in primary respiratory alkalosis, P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is below normal."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2",
+"title":{
+"__html":"Metabolic Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"2eb150",
+"children":[
+"Metabolic Acidosis"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_1",
+"title":{
+"__html":"General Approach"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"20b2bb",
+"children":[
+"General Approach"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d26e8",
+"children":[
+"A stepwise approach to assessment provides appropriate diagnosis of the underlying acid-base disorder. First, both pH and P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" are needed to confirm the primary disorder because low serum bicarbonate may be a compensatory response to respiratory alkalosis."
+]
+},
+{
+"type":"p",
+"hlId":"5a3f04",
+"children":[
+"Next, the serum anion gap is calculated to assess whether the low serum bicarbonate is due to loss of serum bicarbonate (no anion gap) or is a result of unmeasured anion (increased anion gap metabolic acidosis). The anion gap is calculated as follows:"
+]
+},
+{
+"type":"p",
+"hlId":"b21543",
+"class":"equation",
+"children":[
+"Anion Gap = Serum Sodium (mEq/L) − (Serum Chloride [mEq/L] + Serum Bicarbonate [mEq/L])"
+]
+},
+{
+"type":"p",
+"hlId":"30a043",
+"children":[
+"The normal range for the anion gap is 8.0 to 10 mEq/L ± 2 mEq/L (8-10 mmol/L ± 2 mmol/L). In normal subjects, negatively charged albumin is a major contributor to the anion gap. Therefore, changes in albumin need to be taken into account. This is most important in the context of a low albumin wherein failure to correct the anion gap will result in underestimation of the true anion gap. The albumin-corrected anion gap (with normal albumin being 4.0 g/dL [40 g/L]) is calculated as follows:"
+]
+},
+{
+"type":"p",
+"hlId":"83a6e5",
+"class":"equation",
+"children":[
+"Albumin-Corrected Anion Gap = Anion Gap + 2.5 × (Normal Albumin – Measured Albumin [g/dL])"
+]
+},
+{
+"type":"p",
+"hlId":"1b74f3",
+"children":[
+"If the corrected anion gap is increased, patients should next be assessed for coexistent normal anion gap acidosis or metabolic alkalosis. One method for detection of a coexistent additional acid-base disorder is to assess the ratio of the amount of anion gap abnormality (Δ anion gap) to the amount of bicarbonate abnormality (Δ bicarbonate), also known as the “delta-delta (Δ-Δ) ratio,” as follows:"
+]
+},
+{
+"type":"p",
+"hlId":"53aef9",
+"class":"equation",
+"children":[
+"Δ−Δ Ratio = Δ Anion Gap/Δ Bicarbonate = (Anion Gap – 12)/(25 – Bicarbonate)"
+]
+},
+{
+"type":"p",
+"hlId":"ff65dd",
+"children":[
+"A Δ-Δ ratio of <0.5 to 1 may reflect the presence of concurrent normal anion gap metabolic acidosis; a ratio between 1 and 2 generally confirms the primary high anion gap metabolic acidosis; and a ratio of >2 may indicate the presence of metabolic alkalosis."
+]
+},
+{
+"type":"p",
+"hlId":"252384",
+"children":[
+"Patients with metabolic acidosis due to acute or chronic kidney disease may have either a normal anion gap (more modest disease) or an increased anion gap (more severe chronic kidney disease). When the glomerular filtration rate (GFR) decreases to <45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", decreased urine ammonium excretion leads to a normal anion gap metabolic acidosis, often associated with hyperkalemia. When the GFR decreases to <15 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", retention of sulfates, phosphates, and organic acids results in an increased anion gap metabolic acidosis."
+]
+},
+{
+"type":"p",
+"hlId":"d4e4c2",
+"children":[
+"Most of the adverse effects that occur in patients with metabolic acidosis arise from the underlying cause rather than the low pH. But with severe acidosis, patients are susceptible to life-threatening arrhythmia and impaired cardiac function."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"03b895",
+"children":[
+"The serum anion gap assesses whether the metabolic acidosis is due to an unmeasured organic anion (increased anion gap metabolic acidosis) or to a loss of bicarbonate (normal anion gap metabolic acidosis)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1e4e47",
+"children":[
+"In the presence of an increased anion gap metabolic acidosis, a delta-delta (Δ-Δ) ratio of <0.5 to 1 may indicate a concurrent normal anion gap metabolic acidosis, and a ratio of >2 may indicate a concurrent metabolic alkalosis."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_2",
+"title":{
+"__html":"Increased Anion Gap Metabolic Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"4f48e8",
+"children":[
+"Increased Anion Gap Metabolic Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"c19898",
+"children":[
+"Increased anion gap metabolic acidosis occurs when unmeasured anions accumulate. Lactic acidosis is the most common cause ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t09",
+"wrapId":"3",
+"children":[
+"Table 9"
+]
+}
+]
+},
+")"
+]
+},
+". Less common causes include ketoacidosis (diabetic, alcoholic, or starvation), acute or chronic kidney injury, or poisoning (methanol, ethylene glycol, salicylate, or propylene glycol). The plasma osmolal gap may assist in identifying a cause. The plasma osmolal gap is the difference between the measured and calculated plasma osmolality. The calculated plasma osmolality is determined as follows:"
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"3",
+"contentIds":[
+"mk19_a_np_t09"
+]
+},
+{
+"type":"p",
+"hlId":"3da3b1",
+"class":"equation",
+"children":[
+"Plasma Osmolality (mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O) = ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(2 × Serum Sodium [mEq/L])"
+]
+},
+" ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"+ Plasma Glucose (mg/dL)/18"
+]
+},
+" ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"+ Blood Urea Nitrogen (mg/dL)/2.8"
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"51b887",
+"children":[
+"A high osmolal gap (>10 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O) indicates the presence of unmeasured osmoles such as alcohol, methanol, or ethylene glycol, which are metabolized to organic acids, thereby increasing the anion gap. The patient's history should guide further testing for unmeasured anions."
+]
+},
+{
+"type":"p",
+"hlId":"b586b2",
+"children":[
+"Diabetic ketoacidosis usually presents with an increased anion gap metabolic acidosis due to accumulation of β-hydroxybutyrate and acetoacetate, although it may present with a normal anion gap due to excretion of ketoacids. Urine dipstick assays for ketones detect acetoacetate using the nitroprusside assay; however, β-hydroxybutyrate is the dominant ketoacid in diabetic ketoacidosis, so urine dipstick results can be falsely negative or underestimate the total ketone load (see ",
+{
+"type":"cross-reference",
+"target":"mk19_a_np_s1_2_1_6",
+"children":[
+"Clinical Evaluation of Kidney Function"
+]
+},
+" and ",
+{
+"type":"cross-reference",
+"target":"mk19_b_en_s1_4_1",
+"children":[
+"MKSAP 19 Endocrinology and Metabolism"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"90291f",
+"children":[
+"Alcoholic ketoacidosis occurs in patients with chronic ethanol abuse who typically have a history of recent binge drinking, low caloric intake, and persistent vomiting. Treatment with intravenous saline and intravenous glucose typically results in rapid resolution of ketones due to induction of insulin secretion and suppression of glucagon release. For patients with chronic malnutrition related to alcohol use, thiamine should be administered before glucose to decrease the risk for precipitating Wernicke encephalopathy."
+]
+},
+{
+"type":"p",
+"hlId":"5c738f",
+"children":[
+"Medication and toxin exposures that cause increased anion gap metabolic acidosis are described in ",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t10",
+"wrapId":"4",
+"children":[
+"Table 10"
+]
+}
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"4",
+"contentIds":[
+"mk19_a_np_t10"
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"3fd81c",
+"children":[
+"Lactic acidosis is the most common cause of increased anion gap metabolic acidosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"47bf9d",
+"children":[
+"Ethylene glycol or methanol ingestion should be suspected in patients with an increased anion gap metabolic acidosis associated with a serum bicarbonate level <10 mEq/L (10 mmol/L) and a plasma osmolal gap >10 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_3",
+"title":{
+"__html":"Normal Anion Gap Metabolic Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"e70356",
+"children":[
+"Normal Anion Gap Metabolic Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"7ab59b",
+"children":[
+"Normal anion gap metabolic acidoses most often result from gastrointestinal bicarbonate losses (diarrhea), kidney bicarbonate losses (type 2 renal tubular acidosis), or inability of the kidney to adequately excrete acid (types 1 and 4 renal tubular acidosis; chronic kidney disease). Although a patient history may elucidate the cause, the urine anion gap may help to narrow down the cause."
+]
+},
+{
+"type":"p",
+"hlId":"d75270",
+"children":[
+"In response to acidemia, the kidneys should increase acid excretion. This is achieved primarily by increased tubular production of ammonia (NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") and secretion of protons, resulting in increased urine ammonium (NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"). The amount of urine ammonium reflects the ability of the kidneys to respond appropriately to acidemia and indicates if the kidney is a cause of the acidosis. Because urine ammonium is difficult to measure, the urine anion gap is used as a surrogate to assess kidney acid excretion:"
+]
+},
+{
+"type":"p",
+"hlId":"3a2e16",
+"class":"equation",
+"children":[
+"Urine Anion Gap = (Urine Sodium + Urine Potassium) – Urine Chloride"
+]
+},
+{
+"type":"p",
+"hlId":"994cc1",
+"children":[
+"In patients with gastrointestinal losses of bicarbonate (diarrhea; laxative abuse) or those exposed to an acid load, urine NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" should increase. Ammonium cation excretion results in proportionately less excretion of sodium and potassium (the predominant urine cations). Chloride anion excretion continues with ammonium cation excretion to maintain electrical neutrality. In the context of increased urine NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" production, therefore, the urine anion gap will be negative (less than zero). A positive urine anion gap in a patient with acidemia suggests the presence of a distal renal tubular acidosis. Proton secretion in the distal nephron generates NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+", and in distal renal tubular acidosis there is a defect in this proton secretion. Therefore, urine NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" will be low, with proportionately greater sodium and potassium excretion resulting in a positive urine anion gap."
+]
+},
+{
+"type":"p",
+"hlId":"07c339",
+"children":[
+"The urine anion gap, together with serum potassium levels and urine pH, can help further distinguish the causes of normal anion gap metabolic acidosis ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t11",
+"wrapId":"5",
+"children":[
+"Table 11"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"5",
+"contentIds":[
+"mk19_a_np_t11"
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_3_1",
+"title":{
+"__html":"Type 2 (Proximal) Renal Tubular Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a337be",
+"children":[
+"Type 2 (Proximal) Renal Tubular Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"03bd29",
+"children":[
+"The primary defect in type 2 (proximal) renal tubular acidosis (RTA) is failure of the proximal tubule to adequately absorb filtered bicarbonate, resulting in bicarbonate loss and acidosis. Type 2 RTA is usually accompanied by other evidence of proximal tubular dysfunction, including complete or partial Fanconi syndrome (glycosuria, phosphaturia, aminoaciduria, hypouricemia). As blood bicarbonate levels decrease, less bicarbonate is filtered and eventually the resorptive threshold is reached, such that serum bicarbonate levels stabilize (around 12-14 mEq/L [12-14 mmol/L]). Because the distal nephron functions appropriately in type 2 RTA, urine can still be acidified to a pH <5.5 and NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" production will be normal, usually making the urine anion gap negative. Hypokalemia is also often present due to increased distal tubular potassium secretion. This occurs because sodium accompanies bicarbonate to the distal tubule, where sodium is reabsorbed in exchange for potassium."
+]
+},
+{
+"type":"p",
+"hlId":"c4fb75",
+"children":[
+"The most common causes of type 2 RTA include myeloma light chains as well as nephrotoxic medications such as ifosfamide, carbonic anhydrase inhibitors (acetazolamide and topiramate), and tenofovir disoproxil fumarate (although toxicity is much less likely with tenofovir alafenamide)."
+]
+},
+{
+"type":"p",
+"hlId":"8072cc",
+"children":[
+"Alkali replacement is the mainstay of treatment for type 2 RTA. Thiazide diuretics may help by causing mild volume depletion with subsequent aldosterone-driven proximal reabsorption of sodium and bicarbonate."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_3_2",
+"title":{
+"__html":"Type 1 (Hypokalemic Distal) Renal Tubular Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"008f05",
+"children":[
+"Type 1 (Hypokalemic Distal) Renal Tubular Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f0c229",
+"children":[
+"In type 1 (hypokalemic distal) RTA, a distal tubular defect results in impaired excretion of hydrogen ions by the distal nephron (hence, low urine ammonium and positive urine anion gap) with inability to acidify urine below a pH of 6.0. Serum bicarbonate may fall below 10 mEq/L (10 mmol/L) as levels fail to stabilize as is seen with type 2 (proximal) RTA; despite lower filtered bicarbonate, continued impairment in acid excretion will worsen the acidosis."
+]
+},
+{
+"type":"p",
+"hlId":"9c3bbd",
+"children":[
+"The most common causes include Sjögren syndrome and other tubulointerstitial diseases, including reflux uropathy and obstructive uropathy. Type 1 RTA can also be caused by medications such as amphotericin B and lithium and has been described in dysproteinemias, sickle cell disease, and Wilson disease."
+]
+},
+{
+"type":"p",
+"hlId":"7e102b",
+"children":[
+"Urinary potassium wasting in the setting of diminished proton secretion underlies the development of hypokalemia. Hypercalciuria and hyperphosphatemia are frequent in untreated type 1 RTA because of increased calcium and phosphate release from bone due to buffering of acid. Reduced tubular calcium resorption in the context of acidosis exacerbates hypercalciuria. Increased proximal reabsorption of citrate in the context of acidosis and hypokalemia causes hypocitraturia. Citrate usually inhibits calcium crystallization; therefore, hypocitraturia, in addition to hypercalciuria, increases the risk for calcium phosphate stones and nephrocalcinosis."
+]
+},
+{
+"type":"p",
+"hlId":"97c307",
+"children":[
+"Treatment consists of potassium citrate (citrate is metabolized to bicarbonate), with the dose titrated to response."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_3_3",
+"title":{
+"__html":"Type 4 (Hyperkalemic Distal) Renal Tubular Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"ddcdd8",
+"children":[
+"Type 4 (Hyperkalemic Distal) Renal Tubular Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"572272",
+"children":[
+"Type 4 (hyperkalemic distal) RTA is caused by aldosterone deficiency or resistance. Primary adrenal insufficiency (Addison disease) may cause aldosterone deficiency. Hyporeninemic hypoaldosteronism is a more common cause and may occur in the presence of various kidney diseases, most often diabetic kidney disease. Aldosterone resistance can occur in those with tubulointerstitial disease, including urinary obstruction, sickle cell disease, medullary cystic kidney disease, and kidney transplant rejection. Drug-induced type 4 RTA can be caused by numerous drugs that reduce aldosterone production, including ACE inhibitors, angiotensin receptor blockers, direct renin inhibitors, heparin, and cyclooxygenase-2 inhibitors."
+]
+},
+{
+"type":"p",
+"hlId":"d137fc",
+"children":[
+"Type 4 RTA is associated with a positive urine anion gap but a urine pH <5.5 (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t11",
+"wrapId":"6",
+"children":[
+"Table 11"
+]
+}
+]
+},
+")"
+]
+},
+". Hyperkalemia decreases NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" production (and therefore NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+"), resulting in a positive urine anion gap. Even if the distal nephron is able to decrease urine pH appropriately, reduced NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" excretion will lead to insufficient acid excretion, generating a metabolic acidosis."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"6",
+"contentIds":[
+"mk19_a_np_t11"
+]
+},
+{
+"type":"p",
+"hlId":"9c0a69",
+"children":[
+"Treatment is focused on correcting the underlying cause if possible; offending medications should be discontinued when identified. Because many patients are also hypertensive and volume expanded, thiazide or loop diuretics may help increase serum bicarbonate and decrease serum potassium. Fludrocortisone can be used to replace mineralocorticoids in hyporeninemic hypoaldosteronism in those without hypertension or heart failure."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_2_3_4",
+"title":{
+"__html":"Mixed Forms of Renal Tubular Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"5a08b0",
+"children":[
+"Mixed Forms of Renal Tubular Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"63299a",
+"children":[
+"Topiramate may cause mixed RTA through inhibition of carbonic anhydrase in both proximal and distal tubules. Because of consequent high urine pH (>6.0) and hypocitraturia, topiramate is associated with increased risk for calcium phosphate stones. Rare hereditary carbonic anhydrase deficiencies also result in combined mixed RTA."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"9c129e",
+"children":[
+"In normal anion gap metabolic acidosis, a negative urine anion gap identifies a nonrenal cause, whereas a positive urine anion gap is associated with distal renal tubular acidoses."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b7f1fb",
+"children":[
+"In type 2 (proximal) renal tubular acidosis, failure of the proximal tubule to adequately absorb filtered bicarbonate causes bicarbonate loss; treatment consists of alkali replacement and a thiazide diuretic."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4cb501",
+"children":[
+"In type 1 (hypokalemic distal) renal tubular acidosis, impaired distal hydrogen ion excretion causes citrate reabsorption and increases the risk for nephrocalcinosis; treatment consists of potassium citrate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"86c014",
+"children":[
+"In type 4 (hyperkalemic distal) renal tubular acidosis, aldosterone deficiency or resistance causes hyperkalemia and decreased NH",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"+"
+]
+},
+" excretion; treatment includes correction of the underlying cause and treatment of hyperkalemia."
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_3",
+"title":{
+"__html":"Metabolic Alkalosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"5c5dbe",
+"children":[
+"Metabolic Alkalosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"14f793",
+"children":[
+"Metabolic alkalosis results either from a loss of acid or from administration or retention of bicarbonate (alkali). Metabolic alkalosis occurs in two phases: a generation phase in which the primary disorder (such as vomiting or the accumulation of alkali) occurs, and a maintenance phase in which typical renal compensatory excretion of excess bicarbonate is ineffective. The generation phase usually involves the gastrointestinal (GI) tract (in vomiting-induced acid loss) or the kidney (typically a mineralocorticoid effect, either primary or in response to intravascular volume depletion, with resulting sodium and bicarbonate retention at the expense of acid and potassium secretion). Conditions that contribute to maintenance of metabolic alkalosis include volume contraction, ineffective arterial blood volume (e.g., in cirrhosis or heart failure), hypokalemia, chloride depletion, hyperaldosteronism, and decreased glomerular filtration."
+]
+},
+{
+"type":"p",
+"hlId":"a06ddc",
+"children":[
+"Symptoms of metabolic alkalosis are usually related to the underlying disorder. Coexisting hypokalemia markedly increases the risk for cardiac arrhythmias. Severe metabolic alkalosis (serum bicarbonate >50 mEq/L [50 mmol/L]) can cause hypocalcemia, hypoventilation, and hypoxemia, with seizures, delirium, and stupor."
+]
+},
+{
+"type":"p",
+"hlId":"5b1817",
+"children":[
+"Thorough history and physical examination, including assessment of blood pressure and volume status, are essential to identifying the likely cause ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"figure-link",
+"target":"mk19_a_np_f11",
+"wrapId":"7",
+"children":[
+"Figure 11"
+]
+}
+]
+},
+")"
+]
+},
+". Laboratory evaluation is based on urine chloride rather than urine sodium."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"7",
+"contentIds":[
+"mk19_a_np_f11"
+]
+},
+{
+"type":"p",
+"hlId":"974e3b",
+"children":[
+"The most common causes of metabolic alkalosis are associated with chloride depletion: vomiting, nasogastric suction, and diuretic use. Although upper GI losses are far more common, lower GI chloride-secretory diarrheas (villous adenoma, congenital chloridorrhea) can rarely cause chloride depletion with bicarbonate retention. A “contraction alkalosis” results from loss of extracellular fluid containing low amounts of bicarbonate, leaving a contracted extracellular volume containing a constant amount of existing circulating bicarbonate."
+]
+},
+{
+"type":"p",
+"hlId":"04b4cb",
+"children":[
+"In patients with low urine chloride (<15 mEq/L [15 mmol/L]), normal/low intravascular volume, and normal/low extracellular volume, treatment consists of saline administration plus repletion of potassium (saline-responsive metabolic alkalosis) while addressing the primary cause of the alkalosis. In contrast, those with a low urine chloride (<15 mEq/L [15 mmol/L]) and normal/low intravascular volume but with an increased extravascular volume (heart failure, cirrhosis) have secondary hyperaldosteronism with sodium and bicarbonate retention manifested by edema; treatment is tailored to improving effective arterial blood volume and diuresis."
+]
+},
+{
+"type":"p",
+"hlId":"eab1b5",
+"children":[
+"Mineralocorticoid excess presents with a high urine chloride (>15 mEq/L [15 mmol/L]) with elevated blood pressure and hypokalemia without volume overload (saline-resistant metabolic alkalosis). The lack of an overt increase in extravascular volume is often described as “aldosterone escape”: After initial sodium retention, sodium balance is attained through spontaneous diuresis that returns vascular volume toward normal. Mineralocorticoid excess is treated with potassium repletion and treatment of the underlying condition."
+]
+},
+{
+"type":"p",
+"hlId":"a5c243",
+"children":[
+"Rarely, patients may have clinical features consistent with saline-responsive metabolic alkalosis but with a urine chloride of >15 mEq/L (15 mmol/L); ongoing diuretic use can present this way. Two autosomal recessive genetic conditions, Bartter and Gitelman syndromes, result in disordered renal sodium and chloride transporters and clinically mimic loop diuretic and thiazide diuretic use, respectively. These diagnoses should be considered only after urine diuretic screening."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"ed589b",
+"children":[
+"The most common causes of metabolic alkalosis are associated with low urine chloride and chloride depletion (vomiting, nasogastric suction, and diuretic use)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cb8b76",
+"children":[
+"Metabolic alkalosis from mineralocorticoid excess presents with hypertension, hypokalemia, euvolemia, and an elevated urine chloride."
+]
+},
+{
+"type":"keypoint",
+"hlId":"46a689",
+"children":[
+"Patients with metabolic alkalosis, volume overload, and a low urine chloride usually have low effective arterial blood volume from cirrhosis or heart failure."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_4",
+"title":{
+"__html":"Respiratory Acidosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"048045",
+"children":[
+"Respiratory Acidosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"7a3a53",
+"children":[
+"Respiratory acidosis is characterized by retention of arterial CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". The most common causes are impaired arterial-alveolar gas exchange (pneumonia, pulmonary edema, interstitial lung diseases), airway obstruction (COPD, status asthmaticus, upper airway obstruction), disordered regulation of ventilation (central or obstructive sleep apnea), or inadequate ventilation (musculoskeletal disease, neuromuscular disorders)."
+]
+},
+{
+"type":"p",
+"hlId":"c57fe7",
+"children":[
+"With acute respiratory acidosis, excess CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" is initially buffered by water, leading to formation of hydrogen ions and bicarbonate. Thus, the acute arterial blood gas reveals increased P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", decreased pH, and a slight increase in bicarbonate. Over 3 to 5 days, compensatory increases in renal acid excretion (with bicarbonate reabsorption) reach a new steady state (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t07",
+"wrapId":"8",
+"children":[
+"Table 7"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"8",
+"contentIds":[
+"mk19_a_np_t07"
+]
+},
+{
+"type":"p",
+"hlId":"a974c4",
+"children":[
+"Clinical manifestations of respiratory acidosis are complicated by frequently associated hypoxemia. Symptoms are predominantly neurologic, including headache, anxiety, blurred vision, and tremor. Severe acidosis can cause confusion, somnolence, or seizures. Chronic respiratory acidosis may have milder neurologic effects such as memory loss, inattentiveness, or irritability. Cardiovascular manifestations include vasodilation and tachycardia that may evolve to cardiac arrhythmias and decreased cardiac output."
+]
+},
+{
+"type":"p",
+"hlId":"6dca04",
+"children":[
+"Treatment involves correcting the underlying mechanism if possible and may necessitate mechanical ventilation to reduce CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and oxygen supplementation."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"874aad",
+"children":[
+"In respiratory acidosis, arterial blood gases demonstrate elevated P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" (hypercapnia), decreased pH, and increased bicarbonate."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_5",
+"title":{
+"__html":"Respiratory Alkalosis"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"ace312",
+"children":[
+"Respiratory Alkalosis"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"1693da",
+"children":[
+"Respiratory alkalosis is defined by a reduction in arterial P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" due to increased ventilation. The most common causes are an enhanced respiratory drive (sepsis, hepatic failure, anxiety, iatrogenic hyperventilation, pregnancy, nicotine, salicylate intoxication, subarachnoid hemorrhage), hypoxemia, and pulmonary disease with stimulation of thoracic stretch receptors (pneumonia, acute respiratory distress syndrome, pulmonary embolism)."
+]
+},
+{
+"type":"p",
+"hlId":"8c7220",
+"children":[
+"Acute hypocapnia leads to a rapid increase in arterial pH. However, immediate compensatory diffusion of hydrogen ions from intracellular stores, and subsequent reduction in serum bicarbonate through regeneration of CO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", limits the magnitude of alkalosis. The typical arterial blood gas in this setting demonstrates a decrease in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", an increase in pH, and a slight decrease in bicarbonate. Over 2 to 3 days, bicarbonate levels decrease further as compensatory kidney excretion of bicarbonate reaches a new steady state (see ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_np_t08",
+"wrapId":"9",
+"children":[
+"Table 8"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"9",
+"contentIds":[
+"mk19_a_np_t08"
+]
+},
+{
+"type":"p",
+"hlId":"fdbcfc",
+"children":[
+"Respiratory alkalosis may cause increased cellular lactic acid production. Increases in negatively charged albumin may cause a mildly increased anion gap and decreased ionized calcium (from enhanced albumin binding). Finally, severe hypophosphatemia can occur due to a shift of phosphate from extracellular to intracellular fluid."
+]
+},
+{
+"type":"p",
+"hlId":"a1d2c3",
+"children":[
+"Clinical presentation includes underlying tachypnea and neurologic findings such as lightheadedness, numbness and paresthesia, cramps, confusion, and, rarely, seizures. An important consideration is salicylate intoxication, which in its early phases presents as respiratory alkalosis and an increased anion gap metabolic acidosis with mental status changes."
+]
+},
+{
+"type":"p",
+"hlId":"f6ce6c",
+"children":[
+"Treatment is directed at correction of the primary disorder. Treatment of salicylate intoxication includes forced diuresis, urine alkalization, or hemodialysis. For anxiety-induced or psychogenic hyperventilation, increasing inspired P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" by closed bag rebreathing may be effective. In rare circumstances of severe alkalemia (pH >7.55) with hemodynamic instability, arrhythmias, or altered mental status, strategies to reduce bicarbonate include acetazolamide or controlled mechanical hypoventilation."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"b28980",
+"children":[
+"Respiratory alkalosis is associated with a decrease in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", an increase in pH, and a slight decrease in bicarbonate."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8fdccd",
+"children":[
+"Salicylate intoxication presents in its early phase as respiratory alkalosis and an increased anion gap metabolic acidosis."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_np_s3_6",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Berend K, de Vries AP, Gans RO. Physiological approach to assessment of acid-base disturbances. N Engl J Med. 2014;371:1434-45. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25295502",
+"target":"_blank"
+},
+"children":[
+"PMID: 25295502"
+]
+},
+" doi:10.1056/NEJMra1003327"
+]
+},
+{
+"type":"reference",
+"children":[
+"Kraut JA, Mullins ME. Toxic alcohols. N Engl J Med. 2018;378:270-80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29342392",
+"target":"_blank"
+},
+"children":[
+"PMID: 29342392"
+]
+},
+" doi:10.1056/NEJMra1615295"
+]
+},
+{
+"type":"reference",
+"children":[
+"Levanovich PE, Diaczok A, Rossi NF. Clinical and molecular perspectives of monogenic hypertension. Curr Hypertens Rev. 2020;16:91-107. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30963979",
+"target":"_blank"
+},
+"children":[
+"PMID: 30963979"
+]
+},
+" doi:10.2174/1573402115666190409115330"
+]
+},
+{
+"type":"reference",
+"children":[
+"Mumford E, Unwin RJ, Walsh SB. Liquorice, Liddle, Bartter or Gitelman-how to differentiate? Nephrol Dial Transplant. 2019;34:38-9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29982819",
+"target":"_blank"
+},
+"children":[
+"PMID: 29982819"
+]
+},
+" doi:10.1093/ndt/gfy199"
+]
+},
+{
+"type":"reference",
+"children":[
+"Raphael KL. Metabolic acidosis in CKD: core curriculum 2019. Am J Kidney Dis. 2019;74:263-75. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31036389",
+"target":"_blank"
+},
+"children":[
+"PMID: 31036389"
+]
+},
+" doi:10.1053/j.ajkd.2019.01.036"
+]
+},
+{
+"type":"reference",
+"children":[
+"Rastegar M, Nagami GT. Non-anion gap metabolic acidosis: a clinical approach to evaluation. Am J Kidney Dis. 2017;69:296-301. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28029394",
+"target":"_blank"
+},
+"children":[
+"PMID: 28029394"
+]
+},
+" doi:10.1053/j.ajkd.2016.09.013"
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_a_np_t07":{
+"id":"mk19_a_np_t07",
+"number":7,
+"bookId":"np",
+"title":{
+"__html":"Physiologic Levels of Tests Used in the Assessment of Acid-Base Status"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"371abb",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 7. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_np_t07"
+}
+]
+},
+"Physiologic Levels of Tests Used in the Assessment of Acid-Base Status"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"col hd l",
+"children":[
+
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"397dff",
+"class":"col hd l",
+"children":[
+"pH"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cfe45f",
+"class":"col hd l",
+"children":[
+"Pco",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2a23fe",
+"class":"col hd l",
+"children":[
+"Bicarbonate"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"36bcb1",
+"class":"cell txt l",
+"children":[
+"Arterial blood"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"df88e9",
+"class":"cell txt l",
+"children":[
+"7.37-7.44"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f28e27",
+"class":"cell txt l",
+"children":[
+"36-44 mm Hg (4.8-5.9 kPa)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"af6320",
+"class":"cell txt l",
+"children":[
+"22-26 mEq/L (22-26 mmol/L)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"344381",
+"class":"cell txt l",
+"children":[
+"Venous blood"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"798250",
+"class":"cell txt l",
+"children":[
+"7.32-7.38"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3bc594",
+"class":"cell txt l",
+"children":[
+"42-50 mm Hg (5.6-6.7 kPa)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"55edf4",
+"class":"cell txt l",
+"children":[
+"23-27 mEq/L (23-27 mmol/L)"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_a_np_t08":{
+"id":"mk19_a_np_t08",
+"number":8,
+"bookId":"np",
+"title":{
+"__html":"Compensation in Acid-Base Disorders"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"18cb47",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 8. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_np_t08"
+}
+]
+},
+"Compensation in Acid-Base Disorders"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9e2941",
+"class":"col hd l",
+"children":[
+"Condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"7f6dda",
+"class":"col hd l",
+"children":[
+"Expected Compensation"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"412a70",
+"class":"cell txt l",
+"children":[
+"Metabolic acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4a43e4",
+"class":"cell txt l",
+"children":[
+"Maximally compensated: expected P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" = (1.5) [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] + 8 ± 2 (Winter's formula)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7558da",
+"class":"cell txt l",
+"children":[
+"Measured P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" > expected: complicating primary respiratory acidosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"df2aba",
+"class":"cell txt l",
+"children":[
+"Measured P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" < expected: complicating primary respiratory alkalosis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e75871",
+"class":"cell txt l",
+"children":[
+"Metabolic alkalosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"379192",
+"class":"cell txt l",
+"children":[
+"For each ↑ 1.0 mEq/L (1.0 mmol/L) in [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"], P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" ↑ 0.7 mm Hg (0.09 kPa)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a4741e",
+"class":"cell txt l",
+"children":[
+"Respiratory acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"588241",
+"class":"cell txt l",
+"children":[
+"Acute: 1.0 mEq/L (1.0 mmol/L) ↑ [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↑ in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"88cff3",
+"class":"cell txt l",
+"children":[
+"Chronic: 3.5 mEq/L (3.5 mmol/L) ↑ [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↑ in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"26029a",
+"class":"cell txt l",
+"children":[
+"[HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] < expected value: complicating metabolic acidosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5f3886",
+"class":"cell txt l",
+"children":[
+"[HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] > expected value: complicating metabolic alkalosis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f4b01b",
+"class":"cell txt l",
+"children":[
+"Respiratory alkalosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b12599",
+"class":"cell txt l",
+"children":[
+"Acute: 2.0 mEq/L (2.0 mmol/L) ↓ [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↓ in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"eac4f1",
+"class":"cell txt l",
+"children":[
+"Chronic: 4.0-5.0 mEq/L (4.0-5.0 mmol/L) ↓ [HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] for each 10 mm Hg (1.3 kPa) ↓ in P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"26029a",
+"class":"cell txt l",
+"children":[
+"[HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] < expected value: complicating metabolic acidosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5f3886",
+"class":"cell txt l",
+"children":[
+"[HCO",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"] > expected value: complicating metabolic alkalosis"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+},
+"mk19_a_np_t09":{
+"id":"mk19_a_np_t09",
+"number":9,
+"bookId":"np",
+"title":{
+"__html":"Causes of Lactic Acidosis"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"f08e54",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 9. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_np_t09"
+}
+]
+},
+"Causes of Lactic Acidosis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9e2941",
+"class":"col hd l",
+"children":[
+"Condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"50fc9b",
+"class":"col hd l",
+"children":[
+"Cause"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5ccf0",
+"class":"col hd l",
+"children":[
+"Clinical and Laboratory Manifestations"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4c4ac0",
+"class":"col hd l",
+"children":[
+"Treatment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8413c6",
+"class":"col hd l",
+"children":[
+"Comments"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4d44ec",
+"class":"col hd l",
+"children":[
+"Lactic Acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a05697",
+"class":"col hd l",
+"children":[
+"See below"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cb3e2d",
+"class":"col hd l",
+"children":[
+"Serum lactate level >4.0 mEq/L (4.0 mmol/L)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"47d4ad",
+"class":"col hd l",
+"children":[
+"Treat underlying cause; sodium bicarbonate when arterial pH is <7.1 to raise to 7.2"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"627687",
+"class":"col hd l",
+"children":[
+"Most common cause of increased anion gap metabolic acidosis"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"81ef86",
+"class":"cell txt l",
+"children":[
+"Type A lactic acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1ec004",
+"class":"cell txt l",
+"children":[
+"Tissue hypoperfusion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8c8293",
+"class":"cell txt l",
+"children":[
+"Multisystem organ dysfunction typically present"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"91d63e",
+"class":"cell txt l",
+"children":[
+"Correct cause of hypoperfusion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"26aeab",
+"class":"cell txt l",
+"children":[
+"—"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9213d2",
+"class":"cell txt l",
+"children":[
+"Type B lactic acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c82fe5",
+"class":"cell txt l",
+"children":[
+"Absent tissue hypoperfusion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"757b0a",
+"class":"cell txt l",
+"children":[
+"Often related to drug/toxin-related impairment of metabolism"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"772d18",
+"class":"cell txt l",
+"children":[
+"Discontinue/remove toxin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d41d8c",
+"class":"cell txt l",
+"children":[
+
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c5bed4",
+"class":"cell txt li",
+"children":[
+"Propofol"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2ae4fc",
+"class":"cell txt l",
+"children":[
+"Propofol >4 mg/kg/h for >24 h"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cab334",
+"class":"cell txt l",
+"children":[
+"Rhabdomyolysis; hyperlipidemia; cardiogenic shock"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e79e8",
+"class":"cell txt l",
+"children":[
+"Discontinue propofol; hemodialysis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f8fc98",
+"class":"cell txt l",
+"children":[
+"Seen with continuous infusion, not bolus dosing"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3a4960",
+"class":"cell txt li",
+"children":[
+"Metformin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6f2aea",
+"class":"cell txt l",
+"children":[
+"Metformin use in patients with impaired kidney function"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"69f1cd",
+"class":"cell txt l",
+"children":[
+"Most likely to occur in those with acute kidney injury"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f122f0",
+"class":"cell txt l",
+"children":[
+"Hemodialysis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"36c2ba",
+"class":"cell txt l",
+"children":[
+"Contraindicated if eGFR <30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c554f1",
+"class":"cell txt li",
+"children":[
+"HIV nucleoside reverse transcriptase inhibitor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d3912c",
+"class":"cell txt l",
+"children":[
+"Mitochondrial toxicity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1d125b",
+"class":"cell txt l",
+"children":[
+"Possible myopathy, peripheral neuropathy, hepatic steatosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bf6dd1",
+"class":"cell txt l",
+"children":[
+"Discontinue medication; supportive care"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c98c92",
+"class":"cell txt l",
+"children":[
+"Risk factors: female sex, pregnancy, obesity, poor liver function, lower CD4 count; mostly: ddI, d4T > AZT; rare: TFV, ABC, FTC, 3TC"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"398e6d",
+"class":"cell txt li",
+"children":[
+"Hematologic malignancy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"19935d",
+"class":"cell txt l",
+"children":[
+"Thought to be due to anaerobic metabolism in cancer cells"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f8f006",
+"class":"cell txt l",
+"children":[
+"Hypoglycemia"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"63c987",
+"class":"cell txt l",
+"children":[
+"Treat underlying malignancy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"272665",
+"class":"cell txt l",
+"children":[
+"Portends very poor prognosis; seen in high-grade B-cell lymphomas"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fbe54e",
+"class":"cell txt l",
+"children":[
+"D-Lactic acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a279d1",
+"class":"cell txt l",
+"children":[
+"Short-bowel syndrome",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"; undigested carbohydrates in the colon are metabolized to D-lactate by bacteria"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ea9a40",
+"class":"cell txt l",
+"children":[
+"Intermittent confusion; slurred speech; ataxia; increased anion gap metabolic acidosis with normal serum lactate level"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e2bc60",
+"class":"cell txt l",
+"children":[
+"Antibiotics (e.g., metronidazole or neomycin) directed toward bowel flora; restriction of dietary carbohydrates"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0f39b2",
+"class":"cell txt l",
+"children":[
+"Diagnosis requires measurement of D-lactate because D-isomer is not measured by conventional assays for serum lactate"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"3TC = lamivudine; ABC = abacavir; AZT = zidovudine; d4T = stavudine; ddI = didanosine; eGFR = estimated glomerular filtration rate; FTC = emtricitabine; TFV = tenofovir."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"After jejunoileal bypass or small-bowel resection."
+]
+]
+},
+"mk19_a_np_t10":{
+"id":"mk19_a_np_t10",
+"number":10,
+"bookId":"np",
+"title":{
+"__html":"Medication and Toxin Exposures that Cause Increased Anion Gap Metabolic Acidosis"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"95c1fe",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 10. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_np_t10"
+}
+]
+},
+"Medication and Toxin Exposures that Cause Increased Anion Gap Metabolic Acidosis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9e2941",
+"class":"col hd l",
+"children":[
+"Condition"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"50fc9b",
+"class":"col hd l",
+"children":[
+"Cause"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5ccf0",
+"class":"col hd l",
+"children":[
+"Clinical and Laboratory Manifestations"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4c4ac0",
+"class":"col hd l",
+"children":[
+"Treatment"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8413c6",
+"class":"col hd l",
+"children":[
+"Comments"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"71c528",
+"class":"cell txt l",
+"children":[
+"Ethylene glycol ingestion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"918c68",
+"class":"cell txt l",
+"children":[
+"Glycolic acid accumulation; calcium oxalate precipitation in renal tubules and crystals in the urine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3e0d48",
+"class":"cell txt l",
+"children":[
+"AKI and flank pain due to precipitation of calcium oxalate in kidneys; hypocalcemic symptoms; cardiovascular collapse; pulmonary edema"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9163f1",
+"class":"cell txt l",
+"children":[
+"Serum bicarbonate level <10 mEq/L (10 mmol/L); plasma osmolal gap >10 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"073002",
+"class":"cell txt l",
+"children":[
+"Fomepizole"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d81ac8",
+"class":"cell txt l",
+"children":[
+"IV hydration"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7b5b8c",
+"class":"cell txt l",
+"children":[
+"Hemodialysis: in severe acidemia, very large ingestions, severe CNS depression, AKI, systemic collapse"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"5c27aa",
+"class":"cell txt l",
+"children":[
+"Pyridoxine and thiamine: in suspected ethylene glycol toxicity"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"8e1a99",
+"class":"cell txt l",
+"children":[
+"Sodium bicarbonate"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"072e51",
+"class":"cell txt l",
+"children":[
+"Found in antifreeze, solvents, cosmetics"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"4fe081",
+"class":"cell txt l",
+"children":[
+"May be difficult to differentiate from methanol ingestion"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"479fd7",
+"class":"cell txt l",
+"children":[
+"Methanol ingestion"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0f9c9",
+"class":"cell txt l",
+"children":[
+"Formic acid accumulation"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a22969",
+"class":"cell txt l",
+"children":[
+"CNS damage; optic nerve/eye damage with blindness; papilledema; mydriasis; afferent pupillary defect; abdominal pain; pancreatitis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9163f1",
+"class":"cell txt l",
+"children":[
+"Serum bicarbonate level <10 mEq/L (10 mmol/L); plasma osmolal gap >10 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"073002",
+"class":"cell txt l",
+"children":[
+"Fomepizole"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"7477b6",
+"class":"cell txt l",
+"children":[
+"Hemodialysis: in severe acidemia, very large ingestions, severe CNS depression, any visual impairment"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"4f8169",
+"class":"cell txt l",
+"children":[
+"Folic acid: in suspected methanol toxicity"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"8e1a99",
+"class":"cell txt l",
+"children":[
+"Sodium bicarbonate"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"31e4df",
+"class":"cell txt l",
+"children":[
+"Found in windshield-washing fluid, commercial solvents, paints, some antifreezes"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1f9080",
+"class":"cell txt l",
+"children":[
+"May be difficult to differentiate from ethylene glycol ingestion"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"9d9062",
+"class":"cell txt l",
+"children":[
+"80%-90% mortality rate with methanol ingestion; permanent blindness may occur"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e1e7d4",
+"class":"cell txt l",
+"children":[
+"Salicylate toxicity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c9327b",
+"class":"cell txt l",
+"children":[
+"Salicylate anion accumulation; ingestion of as little as 10 grams of aspirin in adults"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"718244",
+"class":"cell txt l",
+"children":[
+"Respiratory alkalosis; tinnitus; nausea/vomiting; impaired mental status; cerebral edema and brainstem herniation; tachypnea; noncardiogenic pulmonary edema; hepatic injury; lactic acidosis or ketoacidosis with severe intoxication"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b08ad7",
+"class":"cell txt l",
+"children":[
+"Bicarbonate infusion: alkalinization mitigates CNS toxicity; aim for urine pH >7.5"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"dccc77",
+"class":"cell txt l",
+"children":[
+"Hemodialysis: in AKI, impaired mental status, cerebral edema, serum salicylate levels >100 mg/dL with acute ingestion and levels >60 mg/dL with chronic ingestion, refractory acidemia, pulmonary edema"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"075385",
+"class":"cell txt l",
+"children":[
+"Toxicity can develop from ingestion or mucocutaneous exposure to salicylate preparations such as methyl salicylate (oil of wintergreen)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d3ae0b",
+"class":"cell txt l",
+"children":[
+"Propylene glycol toxicity"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bb2e9b",
+"class":"cell txt l",
+"children":[
+"Large doses of propylene glycol (a solvent used for IV medications), most commonly lorazepam diluted in propylene glycol (80%)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"40eef1",
+"class":"cell txt l",
+"children":[
+"AKI; anion gap metabolic acidosis with increased plasma osmolal gap; toxicity when propylene glycol levels >25 mg/dL or plasma osmolal gap >10 mOsm/kg H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8862ea",
+"class":"cell txt l",
+"children":[
+"Discontinue infusion"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f122f0",
+"class":"cell txt l",
+"children":[
+"Hemodialysis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c0512d",
+"class":"cell txt l",
+"children":[
+"Monitor acid-base status and serum osmolality when lorazepam doses >1 mg/kg/d; unlikely to develop if 24-h lorazepam dose is limited to <166 mg/d"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"3c9035",
+"class":"cell txt l",
+"children":[
+"Pyroglutamic (5-oxoproline) acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"67e366",
+"class":"cell txt l",
+"children":[
+"Chronic acetaminophen ingestion; most common in critically ill patients, those with poor nutrition, liver disease, or CKD, and in vegetarians"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b79d6a",
+"class":"cell txt l",
+"children":[
+"Impaired mental status; on urine testing for organic anions, high concentrations of urine pyroglutamate (5-oxoproline)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a70eff",
+"class":"cell txt l",
+"children":[
+"Discontinue acetaminophen"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"61875a",
+"class":"cell txt l",
+"children":[
+"Consider ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"N"
+]
+},
+"-acetylcysteine to regenerate depleted glutathione stores"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a50604",
+"class":"cell txt l",
+"children":[
+"Female preponderance (80%); genetic factors may play a role"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"AKI = acute kidney injury; CKD = chronic kidney disease; CNS = central nervous system; IV = intravenous."
+]
+]
+},
+"mk19_a_np_t11":{
+"id":"mk19_a_np_t11",
+"number":11,
+"bookId":"np",
+"title":{
+"__html":"Diagnostic Approach to Normal Anion Gap Metabolic Acidosis"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"825049",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 11. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_np_t11"
+}
+]
+},
+"Diagnostic Approach to Normal Anion Gap Metabolic Acidosis"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"523223",
+"class":"col hd l",
+"children":[
+"Diagnosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1cd741",
+"class":"col hd l",
+"children":[
+"Urine Anion Gap"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ec1534",
+"class":"col hd l",
+"children":[
+"(U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+" + U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"K"
+]
+},
+") – U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Cl"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c4f96e",
+"class":"col hd l",
+"children":[
+"Serum Potassium"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0c6c7",
+"class":"col hd l",
+"children":[
+"Urine pH"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ec69df",
+"class":"cell txt l",
+"children":[
+"Ammonium chloride ingestion (acid load)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell txt l",
+"children":[
+"Negative"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell txt l",
+"children":[
+"Normal"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d05ce5",
+"class":"cell txt l",
+"children":[
+"<5.5"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d3b30b",
+"class":"cell txt l",
+"children":[
+"Diarrhea and acidosis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell txt l",
+"children":[
+"Negative"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"960b44",
+"class":"cell txt l",
+"children":[
+"Normal"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d05ce5",
+"class":"cell txt l",
+"children":[
+"<5.5"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf3d23",
+"class":"cell txt l",
+"children":[
+"Type 2 (proximal) RTA",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffb935",
+"class":"cell txt l",
+"children":[
+"Negative"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e24d3",
+"class":"cell txt l",
+"children":[
+"Decreased"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f00fca",
+"class":"cell txt l",
+"children":[
+"Variable",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d89b5f",
+"class":"cell txt l",
+"children":[
+"Type 1 (hypokalemic distal) RTA"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"328929",
+"class":"cell txt l",
+"children":[
+"Positive"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4e24d3",
+"class":"cell txt l",
+"children":[
+"Decreased"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"65288c",
+"class":"cell txt l",
+"children":[
+">5.5"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bd6a22",
+"class":"cell txt l",
+"children":[
+"Type 4 (hyperkalemic distal) RTA"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"328929",
+"class":"cell txt l",
+"children":[
+"Positive"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e72433",
+"class":"cell txt l",
+"children":[
+"Increased"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d05ce5",
+"class":"cell txt l",
+"children":[
+"<5.5"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"RTA = renal tubular acidosis; U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Cl"
+]
+},
+" = urine chloride; U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"K"
+]
+},
+" = urine potassium; U",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"Na"
+]
+},
+" = urine sodium."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"Type 2 (proximal) RTA is often associated with Fanconi or partial Fanconi syndrome (glycosuria, phosphaturia, aminoaciduria, hypouricemia)."
+],
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"b"
+]
+},
+"Patients with type 2 (proximal) RTA have normal distal renal tubular function and can acidify the urine after the serum bicarbonate decreases to a point at which the filtered load of bicarbonate can be normally reabsorbed."
+]
+]
+}
+}
+}

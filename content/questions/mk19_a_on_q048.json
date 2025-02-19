@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_on_q048",
+"number":48,
+"bookId":"on",
+"correctAnswer":"A",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"eceb1f",
+"children":[
+"A 73-year-old woman is evaluated in the office following a diagnosis of right-sided breast cancer 2 months ago. The cancer was estrogen receptor-positive, progesterone receptor–positive, and human epidermal growth factor receptor 2–negative. She is asymptomatic and her only medications are anastrozole, vitamin D, and calcium."
+]
+},
+{
+"type":"p",
+"hlId":"104484",
+"children":[
+"On physical examination, prior right lumpectomy and sentinel node sampling incisions are well-healed. The remaining physical examination findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"5255eb",
+"children":[
+"Which of the following is the most appropriate management of this patient's bone health?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dual-energy x-ray absorptiometry screening"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin alendronate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Begin denosumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Substitute raloxifene for anastrozole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"da964c",
+"children":[
+"Aromatase inhibitors are associated with an increased risk of osteoporosis and fracture."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1ba9f5",
+"children":[
+"Calcium and vitamin D supplements are recommended for patients taking aromatase inhibitors, as is screening for osteoporosis with dual-energy x-ray absorptiometry."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f05fab",
+"children":[
+"The most appropriate management of this patient's bone health is to screen for osteoporosis with dual-energy x-ray absorptiometry (DEXA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Bone loss occurs at an increased rate in cancer survivors who have taken long-term glucocorticoids and in women who have undergone surgical, irradiation, or chemotherapy-induced premature menopause or who are taking aromatase inhibitors such as anastrozole for breast cancer. Adverse effects of aromatase inhibitors include arthralgia, vaginal dryness, sexual dysfunction, cardiovascular events, hyperlipidemia, and higher risks of osteoporosis and fractures. Compared with tamoxifen, aromatase inhibitors have a lower risk of venous thrombosis and endometrial cancer. Up to one third of women develop aromatase inhibitor–associated symmetric arthralgia, joint stiffness, and bone pain. Assessment of bone density and treatment or prophylaxis should be considered to reduce the risk of fracture. Management commonly includes routine supplements of vitamin D and calcium (while monitoring serum calcium levels), DEXA screening for osteoporosis, and for patients with confirmed osteoporosis, bisphosphonate or denosumab therapy. Vigilance is required to detect bisphosphonate complications such as osteonecrosis of the jaw and atypical subtrochanteric spiral fractures of the femur."
+]
+},
+{
+"type":"p",
+"hlId":"38f132",
+"children":[
+"Alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), a bisphosphonate, or denosumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a monoclonal antibody directed against the receptor activator of nuclear factor κB ligand, could be considered if the patient is diagnosed with osteoporosis. In the absence of a bone density measurement, initiating treatment for osteoporosis is premature. Bone mineral density should be measured now, and in the absence of osteoporosis, repeated in 2 years. If the patient develops more severe osteopenia (T-score less than 2) or osteoporosis (T-score less than 2.5), then a bisphosphonate or denosumab would be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"45a210",
+"children":[
+"Raloxifene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is in the same family as tamoxifen and works as a selective estrogen receptor modulator. It also has positive effects on bone density but is an inferior agent for breast cancer, so substituting raloxifene for anastrozole is not indicated. Raloxifene is approved for osteoporosis and for breast cancer chemoprevention in patients with high risk of breast cancer but not for adjuvant therapy of breast cancer, as is needed in this case."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_2_1_1",
+"objective":{
+"__html":"Screen for osteoporosis in a patient taking an aromatase inhibitor."
+},
+"references":[
+[
+"Bruyère O, Bergmann P, Cavalier E, et al. Skeletal health in breast cancer survivors. Maturitas. 2017;105:78-82. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28838807",
+"target":"_blank"
+},
+"children":[
+"PMID: 28838807"
+]
+},
+" doi:10.1016/j.maturitas.2017.08.008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":65,
+"B":18,
+"C":6,
+"D":12,
+"E":0
+},
+"hlIds":[
+"eceb1f",
+"104484",
+"5255eb",
+"da964c",
+"1ba9f5",
+"f05fab",
+"38f132",
+"45a210"
+]
+}

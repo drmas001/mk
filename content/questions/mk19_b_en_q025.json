@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_en_q025",
+"number":25,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1cd8ae",
+"children":[
+"A 70-year-old woman is evaluated for follow-up of osteoporosis, diagnosed 5 years ago. At that time, her left femur neck dual-energy x-ray absorptiometry (DEXA) T-score was -2.5. Treatment was initiated with denosumab. She has had no fractures. The most recent dose of denosumab was given 6 months ago."
+]
+},
+{
+"type":"p",
+"hlId":"811c59",
+"children":[
+"Today, the left femur neck DEXA T-score is -1.8."
+]
+},
+{
+"type":"p",
+"hlId":"e2dc92",
+"children":[
+"Discontinuation of denosumab is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alendronate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Drug holiday"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Raloxifene"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Romosozumab"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Teriparatide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e104cd",
+"children":[
+"The effects of denosumab on bone mineral density (BMD) are transient, and initiation of antiresorptive therapy on discontinuation of denosumab is necessary to prevent loss of accrued BMD."
+]
+},
+{
+"type":"keypoint",
+"hlId":"437646",
+"children":[
+"Alendronate is effective to prevent bone loss during denosumab withdrawal when it is initiated 6 months after the last denosumab treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f800c0",
+"children":[
+"The most appropriate choice is to start alendronate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Denosumab decreases bone turnover and increases bone mineral density (BMD), yielding robust antifracture efficacy. Optimal duration of use is unknown, but current recommendations suggest reassessing fracture risk and need for ongoing therapy after 5 to 10 years of use. This patient's fracture risk is no longer high; thus, discontinuation of denosumab is appropriate. The effects of denosumab on BMD, however, are transient, and alternative antiresorptive therapy to prevent loss of accrued BMD should be initiated on discontinuation of denosumab."
+]
+},
+{
+"type":"p",
+"hlId":"b0ae42",
+"children":[
+"Because the efficacy of denosumab is transient, a drug holiday (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") strategy is not advisable, and antiresorptive therapy should be initiated after discontinuation of denosumab."
+]
+},
+{
+"type":"p",
+"hlId":"60d2c0",
+"children":[
+"The oral bisphosphonate alendronate, initiated 6 months after the last denosumab treatment, effectively prevents bone loss during denosumab withdrawal. Although intravenous bisphosphonates may be used beginning 6 months after the last denosumab treatment, intermittent oral bisphosphonate administration throughout the period of denosumab withdrawal is advantageous. Bisphosphonates are preferentially taken up into bone at sites of active bone remodeling, making optimal timing of intravenous bisphosphonate dosing unclear."
+]
+},
+{
+"type":"p",
+"hlId":"fbe8b0",
+"children":[
+"Given its antiresorptive effects, raloxifene (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") could be used following denosumab withdrawal. However, it suppresses bone resorption less than bisphosphonates, and its effectiveness in this setting is unproven. Raloxifene should be avoided in patients at risk for cardiovascular disease but may be useful in women at high risk for breast cancer because it reduces the risk for invasive breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"070232",
+"children":[
+"Although romosozumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has both bone-formative and antiresorptive effects, its bone formative effect is blunted when used subsequent to antiresorptive therapy, including denosumab. As a net anabolic drug, romosozumab would not be indicated in a patient whose bone density and fracture risk no longer justify highly potent pharmacotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"051559",
+"children":[
+"Teriparatide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is effective in improving BMD and reducing fracture risk by increasing bone formation. Teriparatide combined with denosumab therapy yields greater improvement in BMD than either alone. However, teriparatide accentuates the increased bone resorption and rapid loss of BMD associated with denosumab withdrawal; thus, it should not be substituted for denosumab."
+]
+}
+],
+"relatedSection":"mk19_b_en_s7_4_1_6_3",
+"objective":{
+"__html":"Manage postmenopausal osteoporosis in a patient discontinuing denosumab."
+},
+"references":[
+[
+"Eastell R, Rosen CJ, Black DM, et al. Pharmacological management of osteoporosis in postmenopausal women: an Endocrine Society* clinical practice guideline. J Clin Endocrinol Metab. 2019;104:1595-1622. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30907953",
+"target":"_blank"
+},
+"children":[
+"PMID: 30907953"
+]
+},
+" doi:10.1210/jc.2019-00221"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":52,
+"B":39,
+"C":3,
+"D":4,
+"E":3
+},
+"hlIds":[
+"1cd8ae",
+"811c59",
+"e2dc92",
+"cb2b54",
+"e104cd",
+"437646",
+"f800c0",
+"b0ae42",
+"60d2c0",
+"fbe8b0",
+"070232",
+"051559"
+]
+}

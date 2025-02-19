@@ -1,0 +1,139 @@
+{
+"id":"vdx4_cv_q004",
+"number":4,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 4",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3cc732",
+"children":[
+"A 61-year-old man is evaluated following the recent diagnosis of hypertension."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f004",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f004"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b1916c",
+"children":[
+"Which of the following abnormalities is seen on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Accelerated idioventricular rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left bundle branch block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Old inferior myocardial infarction"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right bundle branch block"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"850cbe",
+"children":[
+"This ECG demonstrates left bundle branch block. Left bundle branch block is characterized by the following features: (1) QRS widening of at least 120 ms, (2) upright monophasic QRS complex in leads I and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+" (the QRS complex may also be notched), and (3) a predominantly negative QRS complex in lead V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+". In the ECG shown, all three features are evident. In both left and right bundle branch block, the ST-T–wave pattern is inscribed in the opposite direction of the main QRS vectors; these ST-T–wave abnormalities are secondary to the bundle branch block and do not indicate additional underlying pathology."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Identify ECG features of left bundle branch block."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f004":{
+"id":"vdx4_cv_mcq_f004",
+"number":4,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"bfe6260a1c8a6e2a63ca2c292f86b6ce",
+"height":512,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"3cc732",
+"4a9f79",
+"b1916c",
+"850cbe"
+]
+}

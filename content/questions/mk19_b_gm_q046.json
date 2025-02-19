@@ -1,0 +1,220 @@
+{
+"id":"mk19_b_gm_q046",
+"number":46,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 46",
+"stimulus":[
+{
+"type":"p",
+"hlId":"671a6a",
+"children":[
+"A 56-year-old man is evaluated during a follow-up visit for diabetes mellitus, hypertension, and hyperlipidemia. His father had a myocardial infarction before the age of 55 years, as did his younger brother. Has a 35–pack-year smoking history but quit smoking 3 months ago. He is sedentary. He has no other medical problems, including no history of gastrointestinal bleeding, upper gastrointestinal pain, uncontrolled hypertension, chronic kidney disease, NSAID use, or thrombocytopenia. Medications are varenicline, metformin, lisinopril, hydrochlorothiazide, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"5ad285",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"bc12c8",
+"children":[
+"His 10-year atherosclerotic cardiovascular disease risk is 25% using the Pooled Cohort Equations."
+]
+},
+{
+"type":"p",
+"hlId":"c3523e",
+"children":[
+"The patient receives counseling on therapeutic lifestyle changes, including diet, exercise, and weight control and encouragement regarding continued smoking cessation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d0fa82",
+"children":[
+"Which of the following is the best advice regarding antithrombotic therapy for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspirin and clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Low-dose aspirin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rivaroxaban"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No antithrombotic therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ed9291",
+"hvc":true,
+"children":[
+"Aspirin may be considered in adults aged 40 to 70 years who are at higher atherosclerotic cardiovascular disease risk and are not at increased bleeding risk."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d2fd73",
+"children":[
+"The most appropriate antithrombotic therapy for this patient is low-dose aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Daily low-dose aspirin may be considered for primary prevention of atherosclerotic cardiovascular disease (ASCVD) events, but the potential benefit must be balanced against the increased risk for bleeding. The American College of Cardiology/American Heart Association guidelines recommend that aspirin should be used infrequently in the routine primary prevention of ASCVD because of a lack of net benefit; specifically, low-dose aspirin may be considered for primary prevention of ASCVD in adults aged 40 to 70 years who are at higher ASCVD risk but not at increased bleeding risk. This patient is not at high risk for bleeding but is at high risk for ASCVD, making low-dose aspirin an appropriate choice."
+]
+},
+{
+"type":"p",
+"hlId":"8ddd81",
+"children":[
+"Dual antiplatelet therapy (DAPT), such as the combination of aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), plays an essential role in the treatment of established ASCVD. It is particularly important after myocardial infarction and in preventing thrombotic events after percutaneous intervention for coronary artery disease. Because of the increased risk for bleeding, however, DAPT does not have a role in the primary prevention of ASCVD events."
+]
+},
+{
+"type":"p",
+"hlId":"2e4e6c",
+"children":[
+"In the secondary prevention of ASCVD events, clopidogrel is recommended for patients who are aspirin intolerant. There is no indication that this patient is aspirin intolerant, and there is no recommendation to substitute clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") for aspirin for the primary prevention of ASCVD."
+]
+},
+{
+"type":"p",
+"hlId":"76a756",
+"children":[
+"Anticoagulation has no role in the primary prevention of ASCVD. In patients with peripheral artery disease, the use of low-dose rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") plus aspirin compared with aspirin alone has been associated with a significant decrease in cardiovascular mortality (1.7% vs. 2.2%) and stroke (0.7% vs. 1.4%) but a higher incidence of gastrointestinal bleeding. This patient does not have an indication for low-dose rivaroxaban."
+]
+},
+{
+"type":"p",
+"hlId":"b2e457",
+"children":[
+"Not recommending further management is incorrect (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Adding low-dose aspirin to his medication regimen is an appropriate choice for this patient in light of his high risk for ASCVD and acceptable bleeding risk."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_4",
+"objective":{
+"__html":"Prevent cardiovascular disease with low-dose aspirin."
+},
+"references":[
+[
+"Arnett DK, Blumenthal RS, Albert MA, et al. 2019 ACC/AHA guideline on the primary prevention of cardiovascular disease: a report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. Circulation. 2019;140:e596-646. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30879355",
+"target":"_blank"
+},
+"children":[
+"PMID: 30879355"
+]
+},
+" doi:10.1161/CIR.0000000000000678"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":1,
+"C":70,
+"D":0,
+"E":27
+},
+"hlIds":[
+"671a6a",
+"5ad285",
+"bc12c8",
+"c3523e",
+"d0fa82",
+"ed9291",
+"d2fd73",
+"8ddd81",
+"2e4e6c",
+"76a756",
+"b2e457"
+]
+}

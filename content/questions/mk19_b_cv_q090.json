@@ -1,0 +1,233 @@
+{
+"id":"mk19_b_cv_q090",
+"number":90,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 90",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b41065",
+"children":[
+"A 76-year-old man is evaluated for a 4-week history of shortness of breath and chest discomfort with minimal exertion. Medical history is significant for hypertension, hyperlipidemia, and coronary artery disease. Medications are low-dose aspirin, amlodipine, atorvastatin, lisinopril, and metoprolol."
+]
+},
+{
+"type":"p",
+"hlId":"5a5806",
+"children":[
+"On physical examination, blood pressure is 135/83 mm Hg; other vital signs are normal. Cardiac examination reveals a late-peaking crescendo-decrescendo systolic murmur heard at the right upper sternal border with loss of S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Central venous pressure is elevated. There are crackles at the lung bases."
+]
+},
+{
+"type":"p",
+"hlId":"86d77b",
+"children":[
+"Laboratory studies demonstrate a ",
+{
+"type":"reference-range-link",
+"referenceRange":"B-type natriuretic peptide level",
+"children":[
+"B-type natriuretic peptide level"
+]
+},
+" of 2000 pg/mL (2000 ng/L)."
+]
+},
+{
+"type":"p",
+"hlId":"2520be",
+"children":[
+"An ECG shows normal sinus rhythm without ST-T–wave changes. An echocardiogram shows a moderately thickened, partially mobile aortic valve, with ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 45% and hemodynamic measurements compatible with low-flow, low-gradient severe aortic stenosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dobutamine stress echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical aortic valve replacement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"24b33e",
+"children":[
+"Dobutamine stress echocardiography can be used to differentiate between pseudosevere aortic stenosis and low-flow, low-gradient severe aortic stenosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"598677",
+"children":[
+"The most appropriate next step in management is dobutamine stress echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's examination findings (late-peaking crescendo-decrescendo murmur at the right upper sternal border, crackles, and elevated central venous pressure) and elevated B-type natriuretic peptide level are consistent with significant aortic stenosis and associated volume overload. On echocardiography, low-flow, low-gradient severe aortic stenosis is suggested by a severely reduced valve area (≤1.0 cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and a modestly increased peak aortic velocity (<4 m/s) in the setting of a reduced ejection fraction (<50%). The most appropriate next step in management is to confirm the diagnosis of severe aortic stenosis with low-dose dobutamine stress echocardiography. If dobutamine infusion results in an increase in stroke volume by at least 20%, severe aortic stenosis is diagnosed by an increase in peak velocity to 4.0 m/s or greater with the valve area remaining 1.0 cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or less. In patients with suspected low-flow, low-gradient severe aortic stenosis with normal or reduced left ventricular ejection fraction, measurement of aortic valve calcium score by CT is also reasonable to further define aortic stenosis severity."
+]
+},
+{
+"type":"p",
+"hlId":"7fff04",
+"children":[
+"In this patient who likely has low cardiac output, direct measurement of the aortic valve gradient by cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would result in low gradients that underestimate the severity of the aortic stenosis, similar to gradient and velocity values on resting echocardiography. Dobutamine catheterization may be performed in lieu of dobutamine echocardiography in this case."
+]
+},
+{
+"type":"p",
+"hlId":"ae98e4",
+"children":[
+"Proceeding to surgical (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or transcatheter aortic valve implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate at this time; the resting echocardiogram does not adequately differentiate between pseudosevere aortic stenosis due to insufficient stroke volume and low-flow, low-gradient severe aortic stenosis."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_2_1",
+"objective":{
+"__html":"Diagnose low-flow, low-gradient severe symptomatic aortic stenosis."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":40,
+"B":19,
+"C":12,
+"D":29,
+"E":0
+},
+"hlIds":[
+"b41065",
+"5a5806",
+"86d77b",
+"2520be",
+"cb2b54",
+"24b33e",
+"598677",
+"7fff04",
+"ae98e4"
+]
+}

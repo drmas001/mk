@@ -1,0 +1,120 @@
+{
+"id":"vdx4_id_q043",
+"number":43,
+"bookId":"vdx_id",
+"correctAnswer":"A",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"31b9e7",
+"children":[
+"A patient is evaluated for erythema, warmth, pain, and swelling on the medial thigh. Ultrasonography is performed."
+]
+},
+{
+"type":"p",
+"hlId":"497ecd",
+"children":[
+" ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"(Note that there is no sound for this ",
+{
+"type":"video-link",
+"target":"vdx4_id_mcq_v043",
+"wrapId":"1",
+"children":[
+"video"
+]
+},
+".)"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_id_mcq_v043"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"45b811",
+"children":[
+"Which of the following is the most likely diagnosis based on these ultrasound findings?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Abscess"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cellulitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Deep venous thrombosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rhabdomyolysis"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"92bca3",
+"children":[
+"These ultrasound findings are consistent with an abscess. The round, hypoechoic (dark) object is a fluid-filled structure with evidence of hyperechoic debris inside. As the probe is moved along the skin, the structure is seen to be spherical and not tubular, as would be found in deep venous thrombosis."
+]
+},
+{
+"type":"p",
+"hlId":"483ec5",
+"children":[
+"Cellulitis findings on ultrasound appear as edema of the soft tissue with a “cobblestone” appearance and without a discrete collection of fluid. No significant amount of muscle is seen on this examination. However, if present, rhabdomyolysis may disrupt the normal fascicular architecture of muscle with both hypoechoic areas and areas of increased echogenicity."
+]
+}
+],
+"relatedSection":"mk19_a_id_s2_4",
+"objective":{
+"__html":"Diagnose soft tissue abscess using point-of-care ultrasonography."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"31b9e7",
+"497ecd",
+"45b811",
+"92bca3",
+"483ec5"
+]
+}

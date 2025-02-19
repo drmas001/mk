@@ -1,0 +1,332 @@
+{
+"id":"mk19_a_id_q059",
+"number":59,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5dae10",
+"children":[
+"A 55-year-old woman is admitted to the ICU with acute respiratory failure following a 2-day history of fever, cough, and shortness of breath. She required prolonged hospitalization in the ICU 10 months ago following a motor vehicle accident. During that time, she was treated with ciprofloxacin for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" hospital-acquired pneumonia. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"922c7a",
+"children":[
+"On physical examination, the patient is intubated and mechanically ventilated. Temperature is 39.2 °C (102.6 °F), blood pressure is 102/64 mm Hg, pulse rate is 120/min, and respiration rate is 18/min. Oxygen saturation is 94% with a positive end-expiratory pressure of 10 cm H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"O, and an F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" of 0.5. Crackles are heard at the lung bases bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"c1539d",
+"children":[
+"Gram stain of endotracheal tube aspirate shows moderate leukocytes, moderate gram-negative rods, and some yeast. COVID-19 testing is negative."
+]
+},
+{
+"type":"p",
+"hlId":"297dd9",
+"children":[
+"Chest radiograph shows bilateral opacities."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"935bcf",
+"children":[
+"Which of the following is the most appropriate initial antimicrobial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cefepime and levofloxacin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cefepime, vancomycin, and levofloxacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cefepime, vancomycin, azithromycin, and micafungin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ceftaroline and azithromycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"21b93d",
+"children":[
+"Empiric therapy for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" community-acquired pneumonia is recommended in two situations: growth from a respiratory tract culture in the previous year, or hospitalization and parenteral antibiotics in the preceding 3 months."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"32c559",
+"children":[
+"The most appropriate initial treatment for this patient is cefepime and levofloxacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). She has severe community-acquired pneumonia (CAP) that requires an antibiotic regimen with coverage for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa."
+]
+},
+" Guidelines recognize two scenarios when empiric therapy for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" is indicated: (1) growth from a respiratory tract culture in the previous year, or (2) hospitalization and parenteral antibiotics in the preceding 3 months (which is also a risk factor for methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" [MRSA] CAP). ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" accounts for less than 5% of all CAP infections; however, previous isolation of the organism from sputum is associated with a 16-fold increased risk of subsequent infection. Other risk factors for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" CAP include previous tracheostomy, bronchiectasis, and severe COPD. In patients who have been hospitalized in the preceding 3 months and received parenteral antibiotics, empiric therapy for both ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" and MRSA is recommended for severe (e.g., requiring ICU care) CAP. Antibiotic de-escalation can be pursued if cultures are negative at 48 hours."
+]
+},
+{
+"type":"p",
+"hlId":"5c8073",
+"children":[
+"Vancomycin is unnecessary in this patient who does not have risk factors for MRSA pneumonia (e.g., previous MRSA growth in a respiratory specimen, recent hospitalization with parenteral antibiotics, injection drug use), so the combination of cefepime, vancomycin, and levofloxacin is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"7c505c",
+"children":[
+"No antifungal therapy is necessary in this patient despite the Gram stain findings, so the regimen containing micafungin would be unnecessary (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The presence of yeast in a respiratory specimen is rarely clinically significant but rather represents oropharyngeal colonization with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Candida"
+]
+},
+" species. Furthermore, the acute onset of symptoms in this patient argues against a fungal cause."
+]
+},
+{
+"type":"p",
+"hlId":"4beb68",
+"children":[
+"Ceftaroline (combined with a second agent such as azithromycin) could be a CAP therapy option for a patient who does not have risk factors for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). However, this antibiotic lacks antipseudomonal activity, so it would not be an appropriate choice for this patient."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_4_2",
+"objective":{
+"__html":"Treat severe community-acquired pneumonia in a patient with risk factors for <i>Pseudomonas</i> infection."
+},
+"references":[
+[
+"Restrepo MI, Babu BL, Reyes LF, et al; GLIMP. Burden and risk factors for Pseudomonas aeruginosa community-acquired pneumonia: a multinational point prevalence study of hospitalised patients. Eur Respir J. 2018;52. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29976651",
+"target":"_blank"
+},
+"children":[
+"PMID: 29976651"
+]
+},
+" doi:10.1183/13993003.01190-2017"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":30,
+"B":38,
+"C":30,
+"D":2,
+"E":0
+},
+"hlIds":[
+"5dae10",
+"922c7a",
+"c1539d",
+"297dd9",
+"935bcf",
+"21b93d",
+"32c559",
+"5c8073",
+"7c505c",
+"4beb68"
+]
+}

@@ -1,0 +1,215 @@
+{
+"id":"mk19_qq_q213",
+"number":213,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 213",
+"stimulus":[
+{
+"type":"p",
+"hlId":"71a2d2",
+"children":[
+"A 21-year-old man is evaluated for a racing heart that began 30 minutes ago. He also has palpitations, fullness in the neck, and some anxiety. Previous short episodes of tachycardia have responded to Valsalva maneuver, but this episode has not."
+]
+},
+{
+"type":"p",
+"hlId":"6e33e5",
+"children":[
+"On physical examination, blood pressure is 110/80 mm Hg; pulse rate is 214/min. ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_qq_mcq_f213",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_qq_mcq_f213"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"473b62",
+"children":[
+"Which of the following is the most appropriate initial treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adenosine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Catheter ablation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Electrical cardioversion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ibutilide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"95bb45",
+"children":[
+"A narrow-complex regular tachycardia with no obvious P waves is consistent with supraventricular tachycardia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e09e99",
+"children":[
+"Adenosine is a short-acting blocker of atrioventricular node conduction and is highly effective at termination of nodal-dependent supraventricular tachycardia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5a340b",
+"children":[
+"Adenosine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate treatment for this patient. He has hemodynamically stable narrow-complex tachycardia consistent with supraventricular tachycardia (SVT). The rhythm is regular, and no obvious P waves are visible on his ECG. Atrioventricular nodal reentrant tachycardia (AVNRT), which accounts for up to two thirds of SVT, is the most likely cause. Patients often report neck pulsations, which are caused by simultaneous contraction of the atria and ventricles. The ventricular rate is generally between 120/min and 220/min. Vagal maneuvers block the atrioventricular (AV) node by increasing vagal tone and can help diagnose and treat SVT. Because the patient could not terminate his tachycardia with vagal maneuvers, adenosine should be administered. Adenosine is an endogenous nucleotide that is a short-acting blocker of AV node conduction. It is highly effective at termination of nodal-dependent rhythms and can help identify the underlying cause. For example, continued atrial activity (P waves) during AV block can help identify atrial flutter and atrial tachycardia. Patients given adenosine should be on a cardiac monitor with a running paper rhythm strip to document the results. Before taking adenosine, patients should be warned that they may experience nausea, flushing, chest pain, or a sense of dread. Patients with bronchospastic lung disease should not receive adenosine."
+]
+},
+{
+"type":"p",
+"hlId":"b9f0c9",
+"children":[
+"AV nodal blockers (β-blockers or calcium channel blockers) are used to prevent recurrent AVNRT. In patients with recurrent AVNRT and those who do not tolerate or prefer to avoid long-term medical therapy, catheter ablation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be considered. Catheter ablation of AVNRT has a high success rate, although it is associated with a 1% risk for injury to the AV node necessitating pacemaker implantation. Catheter ablation is not appropriate for the acute treatment of SVT."
+]
+},
+{
+"type":"p",
+"hlId":"5d8459",
+"children":[
+"Electrical cardioversion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated because the patient is hemodynamically stable, and pharmacologic attempts at cardioversion, such as adenosine, have not been attempted yet."
+]
+},
+{
+"type":"p",
+"hlId":"2900f5",
+"children":[
+"Ibutilide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an FDA-approved intravenous Vaughan-Williams class III antiarrhythmic drug for pharmacologic cardioversion of atrial fibrillation. The patient has regular SVT, not atrial fibrillation."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_3_2",
+"objective":{
+"__html":"Treat acute supraventricular tachycardia."
+},
+"references":[
+[
+"Shah RL, Badhwar N. Approach to narrow complex tachycardia: non-invasive guide to interpretation and management. Heart. 2020;106:772-83. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32303628",
+"target":"_blank"
+},
+"children":[
+"PMID: 32303628"
+]
+},
+" doi:10.1136/heartjnl-2019-315304"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"mk19_qq_mcq_f213":{
+"id":"mk19_qq_mcq_f213",
+"number":213,
+"bookId":"qq",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"b6dac75d6e9751baf9a3dbe8141def4f",
+"height":414,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"71a2d2",
+"6e33e5",
+"473b62",
+"95bb45",
+"e09e99",
+"5a340b",
+"b9f0c9",
+"5d8459",
+"2900f5"
+]
+}

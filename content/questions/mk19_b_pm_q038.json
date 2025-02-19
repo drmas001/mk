@@ -1,0 +1,181 @@
+{
+"id":"mk19_b_pm_q038",
+"number":38,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a58ba3",
+"children":[
+"A 52-year-old man is evaluated following a diagnosis of severe obstructive sleep apnea 8 weeks ago. He was prescribed auto-adjusting positive airway pressure therapy. He uses a nasal mask with heated humidification. He still feels drowsy during the day."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Assess adherence"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bilevel positive airway pressure ventilation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Eszopiclone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Modafinil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0902f1",
+"hvc":true,
+"children":[
+"The treatment response for patients with sleep apnea depends on adherence to positive airway pressure therapy and should be assessed in all patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6b86e3",
+"hvc":true,
+"children":[
+"Download of adherence data from the positive airway pressure device yields important information about use that can be discussed with the patient with sleep apnea to explore barriers and formulate a plan to promote adherence."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"beec91",
+"children":[
+"The most appropriate management is to assess the patient's adherence to positive airway pressure (PAP) therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has severe, symptomatic obstructive sleep apnea (OSA), for which PAP is preferred therapy. The response to treatment depends on adherence; a substantial proportion of patients, particularly early in the course of therapy, do not use PAP as intended (all night, every night). Symptom burden probably drives adherence, but for those who lack motivation, educational programs can help, as can direct-to-patient reports wirelessly transmitted from the device to smartphones or computers. Adherence might be improved by addressing common adverse effects. Side effects such as xerostomia and nasal dryness and congestion can be ameliorated by in-line humidification. Intranasal glucocorticoids or anticholinergics may be useful for recalcitrant nasal congestion or rhinitis. Modified pressure profiles that slightly reduce pressure on exhalation may enhance comfort. Proper mask fit enhances comfort and mitigates air leak. PAP interfaces, ranging from nasal pillows that sit at the nasal openings to nasal masks that cover the nose to oronasal (full face) masks that cover the nose and mouth, are frequently updated and improved and may improve adherence. Download of data from the PAP device yields important information about use that the physician can discuss with the patient to explore barriers and formulate a plan to promote adherence."
+]
+},
+{
+"type":"p",
+"hlId":"8abeed",
+"children":[
+"Bilevel positive airway pressure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is considered preferred therapy in hypoventilation syndromes such as those associated with neuromuscular disease or severe COPD, but little evidence supports its superiority in promoting treatment adherence for OSA."
+]
+},
+{
+"type":"p",
+"hlId":"73e249",
+"children":[
+"Two small randomized controlled trials showed that eszopiclone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") administered early in the course of continuous positive airway pressure (CPAP) led to modest improvements in CPAP adherence. However, the role of such hypnotic agents in promoting CPAP adherence remains controversial. Their use later in the course of PAP, as in this patient, is unknown, and the risk for adverse effects may outweigh their benefit."
+]
+},
+{
+"type":"p",
+"hlId":"49a919",
+"children":[
+"Modafinil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a stimulant medication that can be used for residual excessive sleepiness in patients with OSA who are using PAP optimally. The patient's adherence to PAP therapy is not yet known, so it is not appropriate to prescribe modafinil."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_3_4_2",
+"objective":{
+"__html":"Assess adherence to positive airway pressure therapy."
+},
+"references":[
+[
+"Patil SP, Ayappa IA, Caples SM, et al. Treatment of adult obstructive sleep apnea with positive airway pressure: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2019;15:335-343. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30736887",
+"target":"_blank"
+},
+"children":[
+"PMID: 30736887"
+]
+},
+" doi:10.5664/jcsm.7640"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":88,
+"B":9,
+"C":0,
+"D":3,
+"E":0
+},
+"hlIds":[
+"a58ba3",
+"cb2b54",
+"0902f1",
+"6b86e3",
+"beec91",
+"8abeed",
+"73e249",
+"49a919"
+]
+}

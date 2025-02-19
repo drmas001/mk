@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q248",
+"number":248,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 248",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d6fad7",
+"children":[
+"A 54-year-old man is evaluated for fever and altered mental status of 12 hours' duration. He has diabetes mellitus and underwent a prostate biopsy 5 days ago."
+]
+},
+{
+"type":"p",
+"hlId":"323fce",
+"children":[
+"Temperature is 37.8 °C (100.0 °F), blood pressure is 80/50 mm Hg, pulse rate is 118/min, and respiration rate is 27/min. He is confused. Extremities are cool with livedo reticularis."
+]
+},
+{
+"type":"p",
+"hlId":"95994a",
+"children":[
+"Blood cultures are obtained, serum lactate is measured, and empiric broad-spectrum antibiotics are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydrocortisone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous fluid bolus"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Norepinephrine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vasopressin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0b3099",
+"children":[
+"Guidelines support collection of blood cultures, measurement of serum lactate levels, and administration of broad-spectrum antibiotics and initiation of intravenous crystalloid fluid in patients with hypotension or signs of hypoperfusion, all within 1 hour."
+]
+},
+{
+"type":"keypoint",
+"hlId":"5d14b4",
+"children":[
+"Guidelines recommend against the routine use of glucocorticoids in patients with sepsis; glucocorticoid therapy is appropriate in patients with septic shock that is refractory to adequate fluid resuscitation and vasopressor administration."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"da02a3",
+"children":[
+"This patient should receive a bolus of intravenous (IV) fluids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Guidelines support collection of blood cultures, measurement of serum lactate levels, administration of broad-spectrum antibiotics, and initiation of intravenous crystalloid fluid in patients with hypotension or signs of hypoperfusion, all within 1 hour. The goal of initial fluid resuscitation of a patient with severe sepsis or septic shock is maintaining adequate tissue perfusion. The defining features of inadequate tissue perfusion may include any of the following: low arterial or venous pressure, tachycardia, tachypnea, central venous oxygen saturation less than 70%, oliguria, acidosis, delirium, cold extremities, elevated blood lactate, and livedo reticularis."
+]
+},
+{
+"type":"p",
+"hlId":"d79289",
+"children":[
+"Guidelines recommend against the routine use of glucocorticoids, such as hydrocortisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), in patients with sepsis. However, glucocorticoid therapy is appropriate in patients with septic shock that is refractory to adequate fluid resuscitation and vasopressor administration. This patient should not be given a glucocorticoid until he has had adequate volume resuscitation and a trial of vasopressors, if indicated."
+]
+},
+{
+"type":"p",
+"hlId":"3588de",
+"children":[
+"Vasopressor therapy with norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be necessary when appropriate fluid challenge of at least 30 mL/kg of IV crystalloid fluid given within the first 3 hours of presentation fails to restore adequate tissue perfusion or during life-threatening hypotension. Vasopressor therapy should not be administered before adequate volume replacement. The Surviving Sepsis Campaign guidelines support using norepinephrine as first-line therapy in patients who require vasopressor support, as it increases systemic vascular resistance without compromising myocardial performance (stroke volume or cardiac output). In cases in which norepinephrine alone is insufficient, secondary agents, including epinephrine, vasopressin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), and dobutamine, may be considered."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3",
+"objective":{
+"__html":"Manage sepsis in a hospitalized patient."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d6fad7",
+"323fce",
+"95994a",
+"765904",
+"0b3099",
+"5d14b4",
+"da02a3",
+"d79289",
+"3588de"
+]
+}

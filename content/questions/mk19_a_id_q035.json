@@ -1,0 +1,256 @@
+{
+"id":"mk19_a_id_q035",
+"number":35,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0adfc9",
+"children":[
+"A 43-year-old man is hospitalized for shortness of breath, tingling in the extremities, and weakness. Three weeks ago, he had watery diarrhea that lasted 5 days. He reports no travel and no sexual contact in the past year. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"988bc3",
+"children":[
+"On physical examination, temperature is 37.2 °C (98.9 °F), blood pressure is 140/90 mm Hg, pulse rate is 101/min, and respiration rate is 22/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 93% breathing ambient air. Neurologic examination reveals no movement in the lower extremities and only 3/5 upper extremity strength bilaterally. Diminished or absent deep tendon reflexes are present throughout. Sensory examination is intact. Lung sounds are diminished, with poor inspiratory effort."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"88c942",
+"children":[
+"Which of the following is the most likely cause of this patient's neurologic syndrome?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Botulism"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>Campylobacter</i> infection"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"West Nile virus infection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Zika virus infection"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1e301f",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+" is the most commonly diagnosed trigger of Guillain-Barré syndrome; less common infectious triggers include Epstein-Barr virus, cytomegalovirus, Zika virus, and HIV."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"752bd3",
+"children":[
+"This patient has developed Guillain-Barré syndrome (GBS) after a gastrointestinal infection; ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+" is the most commonly diagnosed trigger of GBS (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). In the United States, an estimated 10% to 40% of GBS results from ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+"-like diarrheal illness. This acute demyelinating polyradiculoneuropathy is thought to result from autoantibodies directed against the infecting organism that also cross-react with neuronal tissue. Other less common infectious triggers include Epstein-Barr virus, cytomegalovirus, Zika virus, and HIV as well as respiratory influenza-like infections. GBS symptoms usually develop 1 to 3 weeks after ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Campylobacter"
+]
+},
+"-associated diarrhea begins. Symmetric weakness typically begins in the lower extremities before ascending to the upper limbs and respiratory and bulbar muscles. Low back pain and paresthesias are common, and patients may exhibit dysautonomia with arrhythmias and labile blood pressures; respiratory failure may develop. In addition to flaccid paralysis, the physical examination typically reveals diffuse areflexia and little sensory loss. Treatment consists of either plasmapheresis or intravenous immune globulin."
+]
+},
+{
+"type":"p",
+"hlId":"767ee0",
+"children":[
+"Botulism (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a toxin-mediated disease acquired from ingestion or wound contamination. Within 5 days of exposure, patients develop a classic triad of descending flaccid paralysis with prominent bulbar palsies, normal mental status, and normal body temperature. Bulbar signs include the “4 Ds”: dysarthria, dysphonia, dysphagia, and diplopia. Diagnostic confirmation relies on identifying the botulinum toxin. Antitoxin therapy and supportive care should be provided."
+]
+},
+{
+"type":"p",
+"hlId":"6eec2c",
+"children":[
+"West Nile virus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is transmitted by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Culex"
+]
+},
+" mosquitoes during the summer or early fall. Neuroinvasive disease occurs in less than 1% of infected persons, usually in those older than 50 years or immunocompromised transplant recipients. The clinical presentation may manifest as an encephalitis, meningitis, or acute asymmetric flaccid paralysis with associated respiratory failure that resembles poliomyelitis."
+]
+},
+{
+"type":"p",
+"hlId":"d41f2f",
+"children":[
+"Zika virus infection (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is transmitted by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aedes"
+]
+},
+" mosquitoes or through sexual contact. Symptomatic infection is associated with fever, rash, headache, and arthralgia; conjunctivitis is often noted. Most patients have self-limited illness lasting about 1 week, although some patients may develop GBS. It is unlikely that this patient, who has been sexually abstinent and without a history of travel, has Zika virus infection."
+]
+}
+],
+"relatedSection":"mk19_a_id_s15_2",
+"objective":{
+"__html":"Diagnose <i>Campylobacter</i>-related Guillain-Barré syndrome."
+},
+"references":[
+[
+"Halpin AL, Gu W, Wise ME, et al. Post-Campylobacter Guillain Barré Syndrome in the USA: secondary analysis of surveillance data collected during the 2009-2010 novel Influenza A (H1N1) vaccination campaign. Epidemiol Infect. 2018;146:1740-1745. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29986777",
+"target":"_blank"
+},
+"children":[
+"PMID: 29986777"
+]
+},
+" doi:10.1017/S0950268818001802"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":70,
+"C":6,
+"D":2,
+"E":0
+},
+"hlIds":[
+"0adfc9",
+"988bc3",
+"88c942",
+"1e301f",
+"752bd3",
+"767ee0",
+"6eec2c",
+"d41f2f"
+]
+}

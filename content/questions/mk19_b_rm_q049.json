@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_rm_q049",
+"number":49,
+"bookId":"rm",
+"correctAnswer":"E",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"9209d8",
+"children":[
+"A 55-year-old man is evaluated for urate-lowering therapy. He has experienced three gout flares over the past year. He also has hypertension and chronic stable angina. Current medications are low-dose aspirin, metoprolol, atorvastatin, and lisinopril. He is of Han Chinese descent."
+]
+},
+{
+"type":"p",
+"hlId":"f5edd4",
+"children":[
+"Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Urate, serum",
+"children":[
+"serum urate"
+]
+},
+" level of 9.8 mg/dL (0.58 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allopurinol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinuation of aspirin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Febuxostat"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"HLA-B*57:01 allele testing"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"HLA-B*58:01 allele testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4f18d1",
+"children":[
+"Presence of the HLA-B*58:01 allele has been associated with a higher incidence of allopurinol hypersensitivity and is more prevalent in persons of Korean, Han Chinese, Thai, and African descent."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e57472",
+"children":[
+"Testing for the HLA-B*58:01 allele is recommended in high-risk populations before initiation of allopurinol given the potential severity of a hypersensitivity reaction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"aa56c0",
+"children":[
+"The most appropriate management is HLA-B*58:01 allele testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Presence of this allele has been associated with a higher incidence of allopurinol hypersensitivity. Testing for this allele is conditionally recommended by the American College of Rheumatology (ACR) in high-risk populations (including persons of Korean, Han Chinese, Thai, and African descent, in whom HLA-B*58:01 is more common) before initiation of allopurinol given the potential severity of a hypersensitivity reaction. This reaction is heralded by a rash that may progress to DRESS (drug reaction with eosinophilia and systemic symptoms) syndrome (DRESS is also increasingly being referred to as drug-induced hypersensitivity syndrome [DIHS] and drug hypersensitivity syndrome [DHS]). Hypersensitivity to allopurinol may also include Stevens-Johnson syndrome and toxic epidermal necrolysis. This patient has risk factors for allopurinol hypersensitivity, including Han Chinese descent, and should undergo HLA-B*58:01 allele testing. Additional risk factors for severe cutaneous reactions include female sex, history of rash with allopurinol, and concurrent use of thiazide or loop diuretics. Drug hypersensitivity can still occur in patients negative for the HLA-B*58:01 allele, and patients must be counseled to stop the drug immediately if a rash occurs."
+]
+},
+{
+"type":"p",
+"hlId":"cc8dec",
+"children":[
+"If the allele is present, allopurinol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be avoided and a different urate-lowering agent, such as febuxostat (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), should be used. However, allopurinol remains the urate-lowering drug of choice, and caution should be used when prescribing febuxostat to patients with a history of cardiovascular disease. Allele testing remains the best choice for this patient. Allopurinol desensitization is conditionally recommended for patients with a previous allergic response to allopurinol who cannot be treated with other oral urate-lowering agents, such as febuxostat or probenecid."
+]
+},
+{
+"type":"p",
+"hlId":"4bd237",
+"children":[
+"Low-dose aspirin can raise the serum urate level through renal uric acid retention. However, the ACR conditionally recommends against stopping aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in patients with gout who are taking it for appropriate indications. This patient should continue his low-dose aspirin as secondary prevention of coronary artery disease events."
+]
+},
+{
+"type":"p",
+"hlId":"8e7c87",
+"children":[
+"Abacavir is a nucleoside analog used in the treatment of HIV infection. Abacavir is associated with a severe hypersensitivity reaction in individuals identified by the HLA-B*57:01 allele (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients who are prescribed abacavir must first undergo testing to show they are HLA-B*57:01 negative in order to reduce the risk for a hypersensitivity reaction. As with allopurinol, absence of the allele does not protect patients from hypersensitivity reactions, and appropriate counseling should be provided."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s12_1_5_2_1",
+"objective":{
+"__html":"Screen for HLA-B*58:01 allele before starting allopurinol therapy."
+},
+"references":[
+[
+"FitzGerald JD, Dalbeth N, Mikuls T, et al. 2020 American College of Rheumatology guideline for the management of gout. Arthritis Care Res (Hoboken). 2020;72:744-760. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32391934",
+"target":"_blank"
+},
+"children":[
+"PMID: 32391934"
+]
+},
+" doi:10.1002/acr.24180"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":6,
+"C":11,
+"D":25,
+"E":39
+},
+"hlIds":[
+"9209d8",
+"f5edd4",
+"cb2b54",
+"4f18d1",
+"e57472",
+"aa56c0",
+"cc8dec",
+"4bd237",
+"8e7c87"
+]
+}

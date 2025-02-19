@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_cv_q084",
+"number":84,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 84",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d0e3cd",
+"children":[
+"A 55-year-old man is evaluated for a 6-week history of cough and worsening exertional dyspnea and orthopnea. He has heart failure, for which he has received guideline-directed medical therapy for 4 months."
+]
+},
+{
+"type":"p",
+"hlId":"de77f8",
+"children":[
+"On physical examination, blood pressure is 130/67 mm Hg and pulse rate is 90/min and regular. There is an early systolic click and a holosystolic murmur loudest at the apex and radiating to the back. The central venous pressure is elevated, and there are crackles at both lung bases."
+]
+},
+{
+"type":"p",
+"hlId":"0c43ff",
+"children":[
+"An ECG is normal. A chest radiograph reveals pulmonary edema. A transthoracic echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" greater than 55%. The echocardiographic data are consistent with moderate mitral regurgitation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Repeat echocardiography in 1 year"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical mitral valve repair"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transcatheter mitral valve repair"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a57bb8",
+"children":[
+"For patients in whom there is a discrepancy between physical examination findings and transthoracic echocardiographic assessment of mitral regurgitation severity, cardiac magnetic resonance imaging or transesophageal echocardiography should be used to quantitatively assess mitral regurgitation and resolve the discrepancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7596e1",
+"children":[
+"The most appropriate next step in management is cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient's history and examination findings are consistent with heart failure and volume overload (dyspnea, orthopnea, S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+", elevated central venous pressure, pulmonary crackles, pulmonary edema on the chest radiograph) despite guideline-directed medical therapy. The systolic click and radiation of the murmur to the back suggest posteriorly directed mitral regurgitation (MR) with prolapse (primary MR). Despite these findings, the quantitative echocardiographic data are consistent with moderate MR. However, two-dimensional quantitative echocardiographic data may underestimate the severity of MR. In that case, additional imaging is required. In patients with primary MR, if transthoracic echocardiography provides insufficient or discordant information, current guidelines recommend either transesophageal echocardiography or CMR imaging to assess the severity of MR (class 1 recommendations). This assessment is important in determining whether mitral valve intervention is indicated. Surgical and transcatheter interventions are performed primarily in patients with severe valvular heart disease, but diagnosis, patient education, periodic monitoring, and medical therapy are essential elements in the management of patients with mild to moderate valve dysfunction."
+]
+},
+{
+"type":"p",
+"hlId":"63a1ad",
+"children":[
+"In symptomatic patients with confirmed mild to moderate MR, starting guideline-directed medical therapy with periodic imaging surveillance is appropriate. Repeat echocardiographic imaging is recommended every 1 to 2 years (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in patients with moderate primary MR. However, the severity of this patient's symptoms is at odds with the echocardiographic findings, and additional imaging is required to establish the degree of valve dysfunction and select the appropriate treatment."
+]
+},
+{
+"type":"p",
+"hlId":"d55db3",
+"children":[
+"Neither surgical (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") nor transcatheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") mitral valve repair is appropriate before confirming the severity of MR. Documentation of severe MR would be an indication for surgical mitral valve repair. In patients with high or prohibitive surgical risk, transcatheter mitral valve repair (transcatheter edge-to-edge repair) is reasonable."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_6_1",
+"objective":{
+"__html":"Assess the severity of mitral regurgitation with cardiac magnetic resonance imaging."
+},
+"references":[
+[
+"Bonow RO, O'Gara PT, Adams DH, et al. 2020 Focused update of the 2017 ACC expert consensus decision pathway on the management of mitral regurgitation: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2020;75:2236-2270. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32068084",
+"target":"_blank"
+},
+"children":[
+"PMID: 32068084"
+]
+},
+" doi:10.1016/j.jacc.2020.02.005"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":15,
+"C":36,
+"D":37,
+"E":0
+},
+"hlIds":[
+"d0e3cd",
+"de77f8",
+"0c43ff",
+"1a5dcc",
+"a57bb8",
+"7596e1",
+"63a1ad",
+"d55db3"
+]
+}

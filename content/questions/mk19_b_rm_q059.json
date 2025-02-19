@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_rm_q059",
+"number":59,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 59",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6c30d5",
+"children":[
+"A 40-year-old woman is evaluated for a 9-month history of Raynaud phenomenon. She reports no difficulty swallowing, dyspnea on exertion, or hand stiffness. She has recently developed gastroesophageal reflux disease."
+]
+},
+{
+"type":"p",
+"hlId":"30331a",
+"children":[
+"On physical examination, vital signs are normal. The skin between the distal and proximal interphalangeal joints of the fingers is difficult to tent. Three telangiectasias on the right hand and four on the left are noted. She also has two small telangiectasias on the face and one on the inside bottom lip. No digital pitting is seen."
+]
+},
+{
+"type":"p",
+"hlId":"c1cf05",
+"children":[
+"Laboratory evaluation reveals a positive antinuclear antibody titer (1:320) and positive anticentromere antibody titer (1:160)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diffuse cutaneous systemic sclerosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Eosinophilic fasciitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Limited cutaneous systemic sclerosis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mixed connective tissue disease"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f2a457",
+"children":[
+"The finding of anticentromere antibodies in the setting of Raynaud phenomenon is 60% sensitive and 98% specific for the development of limited cutaneous systemic sclerosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f1866b",
+"children":[
+"Anti–Scl-70 antibodies are generally associated with diffuse cutaneous systemic sclerosis, with a prevalence approaching 30%, and these antibodies are associated with a higher risk for interstitial lung disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"684998",
+"children":[
+"The most likely diagnosis is limited cutaneous systemic sclerosis (LcSSc) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Anticentromere antibodies (titer of 1:80 or higher) are rare in healthy people. The finding of anticentromere antibodies (ACAs) in the setting of Raynaud phenomenon is 60% sensitive and 98% specific for LcSSc, which was previously known as the CREST syndrome. Patients with LcSSc have manifestations that can include calcinosis, Raynaud phenomenon, esophageal dysmotility, sclerodactyly, and telangiectasia (CREST); all five conditions may not be present. The presence of anticentromere antibodies increases the risk for pulmonary hypertension, which occurs in 20% of these patients. Patients who have only Raynaud phenomenon and ACA must be followed for development of LcSSc. This patient with recent onset of Raynaud phenomenon is showing features of LcSSc. Although gastroesophageal reflux disease is common in the general population, the recent onset of telangiectasias and sclerodactyly suggests LcSSc. The telangiectasias seen in LcSSc are matted; these clusters of dilated vessels appear as small pink or red macules that blanch on light pressure. They are most commonly seen on the face, mucous membrane, and hands."
+]
+},
+{
+"type":"p",
+"hlId":"d2be37",
+"children":[
+"Patients with diffuse cutaneous systemic sclerosis (DcSSc) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") have skin involvement that is more extensive than that found in LcSSc and additionally includes the arms, trunk, and lower extremities. Anti–Scl-70 antibodies are generally associated with DcSSc, with a prevalence approaching 30%, and these antibodies are associated with a higher risk for interstitial lung disease. ACAs are uncommon in DcSSc."
+]
+},
+{
+"type":"p",
+"hlId":"aa6f56",
+"children":[
+"Eosinophilic fasciitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is associated with orange peel induration (peau d'orange) of proximal extremities, with sparing of hands and face, and the presence of peripheral eosinophilia. The presence of Raynaud phenomenon and the positive ACA result make eosinophilic fasciitis an unlikely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"2c0847",
+"children":[
+"Mixed connective tissue disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a specific overlap syndrome that includes clinical manifestations of at least two of the following: systemic lupus erythematosus, polymyositis, and systemic sclerosis. Positive results for anti–U1-ribonucleoprotein antibodies are the primary laboratory feature in many patients. The absence of findings associated with another connective tissue disease and a positive ACA titer support the diagnosis of LcSSc rather than mixed connective tissue disease."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s10_3",
+"objective":{
+"__html":"Diagnose limited cutaneous systemic sclerosis."
+},
+"references":[
+[
+"Stochmal A, Czuwara J, Trojanowska M, et al. Antinuclear antibodies in systemic sclerosis: an update. Clin Rev Allergy Immunol. 2020;58:40-51. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30607749",
+"target":"_blank"
+},
+"children":[
+"PMID: 30607749"
+]
+},
+" doi:10.1007/s12016-018-8718-8"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":2,
+"C":60,
+"D":14,
+"E":0
+},
+"hlIds":[
+"6c30d5",
+"30331a",
+"c1cf05",
+"413696",
+"f2a457",
+"f1866b",
+"684998",
+"d2be37",
+"aa6f56",
+"2c0847"
+]
+}

@@ -1,0 +1,202 @@
+{
+"id":"mk19_a_gm_q017",
+"number":17,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e7df47",
+"children":[
+"A 79-year-old man is evaluated in the emergency department for a 30-hour history of dizziness. He describes a constant “room spinning” sensation that is worse with position changes and when he tries to ambulate. Symptoms are associated with nausea, and he has vomited twice. He reports no change in hearing, tinnitus, or recent viral symptoms. The patient has a history of hypertension and hyperlipidemia. Medications are amlodipine, enalapril, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"e7f0a1",
+"children":[
+"On physical examination, blood pressure is 156/92 mm Hg, and pulse rate is 84/min; other vital signs are normal. The patient is ataxic. HINTS (Head Impulse, Nystagmus, and Test of Skew) examination is positive only for the presence of vertical skew."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Audiometry"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Canalith repositioning maneuver"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Meclizine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI of the brain"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vestibular and balance rehabilitation therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e77ba1",
+"children":[
+"Patients with central vertigo should be urgently evaluated for vertebrobasilar stroke using MRI of the brain."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51e4ad",
+"children":[
+"MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate next step in management. This patient presents with a clinical history and examination findings concerning for vertebrobasilar stroke. About 20% of patients with vertebrobasilar stroke present with isolated vertigo, and these symptoms can be misclassified as peripheral vertigo. Clues to the diagnosis are the patient's advanced age, vascular disease risk factors, and constant vertigo. An abnormal result on any one of the three HINTS (Head Impulse, Nystagmus, and Test of Skew) examination components suggests a central rather than peripheral cause of acute vertigo; this patient demonstrated vertical skew. Patients with central vertigo secondary to vertebrobasilar stroke frequently, but not invariably, display neurologic findings in addition to vertigo, such as this patient's ataxia and postural instability. Urgent brain MRI would confirm the diagnosis. For acute stroke, either noncontrast CT or MRI is recommended to exclude hemorrhage before administration of alteplase. However, this patient has exceeded the 3-hour window for thrombolytic therapy, and hemorrhagic stroke in the territory of the posterior circulation is an unlikely cause of persistent and isolated vertigo. MRI is more sensitive than CT in the diagnosis of ischemic stroke and is the preferred imaging test in this situation."
+]
+},
+{
+"type":"p",
+"hlId":"a1d189",
+"children":[
+"Audiometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be important to obtain if Meniere disease were suspected in order to document sensorineural hearing loss, but Meniere disease is unlikely to present with acute vertigo. Initial symptoms of Meniere disease are typically peripheral vertigo with hearing loss and tinnitus, making it unlikely in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"de3124",
+"children":[
+"A canalith repositioning maneuver (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be effective for benign paroxysmal positional vertigo, characterized by sudden-onset, short-lasting peripheral vertigo occurring with abrupt head movement. This patient's constant central vertigo symptoms are not consistent with benign paroxysmal positional vertigo."
+]
+},
+{
+"type":"p",
+"hlId":"e3fe59",
+"children":[
+"Meclizine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may offer some symptom relief in the setting of motion sickness and Meniere disease. It has no role in the treatment of central vertigo."
+]
+},
+{
+"type":"p",
+"hlId":"d6d1cf",
+"children":[
+"Vestibular and balance rehabilitation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can be useful for persistent vertiginous symptoms, but it would not aid in the diagnosis or acute management of this patient."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_3_2_2",
+"objective":{
+"__html":"Diagnose the cause of central vertigo."
+},
+"references":[
+[
+"Venhovens J, Meulstee J, Verhagen WI. Acute vestibular syndrome: a critical review and diagnostic algorithm concerning the clinical differentiation of peripheral versus central aetiologies in the emergency department. J Neurol. 2016;263:2151-7. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26984607",
+"target":"_blank"
+},
+"children":[
+"PMID: 26984607"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":0,
+"B":33,
+"C":2,
+"D":57,
+"E":7
+},
+"hlIds":[
+"e7df47",
+"e7f0a1",
+"1a5dcc",
+"e77ba1",
+"51e4ad",
+"a1d189",
+"de3124",
+"e3fe59",
+"d6d1cf"
+]
+}

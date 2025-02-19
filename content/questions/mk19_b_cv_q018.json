@@ -1,0 +1,231 @@
+{
+"id":"mk19_b_cv_q018",
+"number":18,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 18",
+"stimulus":[
+{
+"type":"p",
+"hlId":"058006",
+"children":[
+"A 75-year-old man is evaluated for a 3-week history of shortness of breath and intermittent fevers. He underwent transcatheter aortic valve implantation for aortic stenosis 3 years ago. He was admitted to the hospital 1 month ago with diverticulitis and was treated with antibiotic therapy; he developed intermittent fevers 1 week later. His only medication is low-dose aspirin."
+]
+},
+{
+"type":"p",
+"hlId":"f48b74",
+"children":[
+"On physical examination, temperature is 37.6 °C (99.7 °F), blood pressure is 145/72 mm Hg, and pulse rate is 90/min. Cardiac examination reveals a normal S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" and S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and no murmurs. There is no evidence of heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"61098e",
+"children":[
+"An ECG shows no notable findings. A transthoracic echocardiogram shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 55% with normal right ventricular function. A bioprosthetic aortic valve is evident, with fully mobile and normal-appearing leaflets."
+]
+},
+{
+"type":"p",
+"hlId":"7f430c",
+"children":[
+"Three sets of blood cultures are negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac CT"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"64235f",
+"children":[
+"In patients with suspected infective endocarditis, transthoracic echocardiography is recommended as the initial imaging choice in most clinical situations."
+]
+},
+{
+"type":"keypoint",
+"hlId":"da596e",
+"children":[
+"In all patients with known or suspected infective endocarditis and nondiagnostic transthoracic echocardiographic results, or if complications have developed or are clinically suspected or if intracardiac device leads are present, transesophageal echocardiography is recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1374e1",
+"children":[
+"The most appropriate management is transesophageal echocardiography (TEE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient's history of intermittent fevers and dyspnea is concerning for infective endocarditis (IE), possibly due to diverticulitis-related episodes of transient bacteremia. Of note, anyone with a bioprosthetic valve is at high risk for endocarditis with any significant episode of bacteremia. This patient has a bioprosthetic valve, symptoms of infection, and a possible source of bacteremia. According to current guidelines, in patients with suspected IE, transthoracic echocardiography (TTE) is recommended to identify vegetations, characterize the hemodynamic severity of valvular lesions, assess ventricular function and pulmonary pressures, and detect complications. In all patients with known or suspected IE and nondiagnostic TTE results, or if complications have developed or are clinically suspected or if intracardiac device leads are present, TEE is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"8fb21d",
+"children":[
+"Cardiac CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is less accurate than TTE and TEE for identifying valvular vegetation and valvular perforations. However, in patients in whom the anatomy cannot be clearly delineated by echocardiography in the setting of suspected paravalvular infections, PET-CT imaging is reasonable and superior to cardiac CT alone. This patient has no indication for cardiac CT."
+]
+},
+{
+"type":"p",
+"hlId":"9486ea",
+"children":[
+"Although cardiac magnetic resonance imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is useful in the diagnosis of many conditions, it is not the appropriate or gold-standard test for diagnosing IE."
+]
+},
+{
+"type":"p",
+"hlId":"d14108",
+"children":[
+"In patients with suspected IE, TTE is recommended to identify vegetations, characterize the hemodynamic severity of valvular lesions, assess ventricular function and pulmonary pressures, and detect complications. Given the suspicion for prosthetic valve endocarditis, a potentially lethal condition, not pursuing further testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_9_1",
+"objective":{
+"__html":"Evaluate possible infective endocarditis with transesophageal echocardiography."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":3,
+"C":79,
+"D":14,
+"E":0
+},
+"hlIds":[
+"058006",
+"f48b74",
+"61098e",
+"7f430c",
+"2eb226",
+"64235f",
+"da596e",
+"1374e1",
+"8fb21d",
+"9486ea",
+"d14108"
+]
+}

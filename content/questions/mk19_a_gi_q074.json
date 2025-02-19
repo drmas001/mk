@@ -1,0 +1,245 @@
+{
+"id":"mk19_a_gi_q074",
+"number":74,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"edce38",
+"children":[
+"A 42-year-old woman is evaluated in the emergency department for right-upper-quadrant pain that has worsened over the preceding 2 days. She has otherwise been well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"b56ce6",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.2 °F). All other vital signs are normal. Abdominal examination reveals right-upper-quadrant tenderness and guarding."
+]
+},
+{
+"type":"p",
+"hlId":"0ac344",
+"children":[
+"Laboratory studies show normal hemoglobin level, elevated leukocyte count, and normal liver chemistries and lipase values."
+]
+},
+{
+"type":"p",
+"hlId":"1bfa84",
+"children":[
+"An ultrasound demonstrates gallbladder wall thickening; a sonographic Murphy sign is present. There is no common bile duct dilation."
+]
+},
+{
+"type":"p",
+"hlId":"d1b69e",
+"children":[
+"Piperacillin-tazobactam is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cholecystectomy before hospital discharge"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cholecystectomy in 4 weeks"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Emergent cholecystectomy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Percutaneous gallbladder drainage"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"43c616",
+"children":[
+"Acute cholecystitis can be diagnosed by ultrasonography showing gallbladder wall thickening and/or edema and a positive Murphy sign elicited during ultrasonography."
+]
+},
+{
+"type":"keypoint",
+"hlId":"27adbb",
+"children":[
+"Treatment of acute cholecystitis includes analgesia, intravenous antibiotics with gram-negative and anaerobic coverage, and cholecystectomy before hospital discharge."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"765c55",
+"children":[
+"The most appropriate treatment is cholecystectomy before hospital discharge (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has acute cholecystitis. This condition is associated with severe right-upper-quadrant or epigastric pain lasting longer than 6 hours, accompanied by fever and tenderness in the right upper quadrant. A positive Murphy sign (inspiratory arrest during right-upper-quadrant palpation) may be seen on physical examination. Laboratory studies may show leukocytosis. Results of liver chemistries are not usually abnormal in acute cholecystitis unless choledocholithiasis is present. Acute cholecystitis can be diagnosed by ultrasonography showing gallbladder wall thickening and/or edema and a sonographic Murphy sign, elicited with compression of the right upper abdomen with the ultrasound probe. Treatment includes analgesia, intravenous antibiotics with gram-negative and anaerobic coverage, and cholecystectomy before hospital discharge."
+]
+},
+{
+"type":"p",
+"hlId":"22d9c9",
+"children":[
+"Cholecystectomy during the initial hospitalization is associated with improved clinical outcomes and lower costs compared with delayed cholecystectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"3e4516",
+"children":[
+"Emergency surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is necessary for suspected gallbladder perforation or emphysematous cholecystitis (infection of gallbladder wall with gas-forming organisms, such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridium perfringens"
+]
+},
+"). These conditions can be fatal if not treated urgently. The previous good health of the patient and her clinical stability argue against these rare diagnoses, and emergency cholecystectomy is not necessary in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"08971b",
+"children":[
+"Endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be indicated if choledocholithiasis (stones in the bile ducts) or cholangitis (infection of the bile ducts) were present. Common duct stones can be visualized on transabdominal ultrasonography, but in the absence of visualization, an elevated serum bilirubin level and dilated common duct on ultrasonography make the diagnosis likely. Cholangitis is suggested by fever, jaundice, and right-upper-quadrant abdominal pain. Cholangitis is potentially life-threatening; identified common bile duct stones should be removed urgently with ERCP, after which elective cholecystectomy should be performed during the initial hospitalization. This patient's laboratory and imaging findings do not suggest choledocholithiasis or cholangitis."
+]
+},
+{
+"type":"p",
+"hlId":"4d21a0",
+"children":[
+"In patients who are not good candidates for cholecystectomy and do not respond to antibiotics, a percutaneous cholecystostomy tube or endoscopic drainage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") can be considered. This patient is otherwise healthy and is a good candidate for surgery."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s7_3",
+"objective":{
+"__html":"Treat acute cholecystitis with early surgery."
+},
+"references":[
+[
+"Bagla P, Sarria JC, Riall TS. Management of acute cholecystitis. Curr Opin Infect Dis. 2016;29(5):508–513. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27429137",
+"target":"_blank"
+},
+"children":[
+"PMID: 27429137"
+]
+},
+" doi:10.1097/QCO.0000000000000297"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":59,
+"B":20,
+"C":13,
+"D":4,
+"E":3
+},
+"hlIds":[
+"edce38",
+"b56ce6",
+"0ac344",
+"1bfa84",
+"d1b69e",
+"1054f1",
+"43c616",
+"27adbb",
+"765c55",
+"22d9c9",
+"3e4516",
+"08971b",
+"4d21a0"
+]
+}

@@ -1,0 +1,191 @@
+{
+"id":"mk19_qq_q212",
+"number":212,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 212",
+"stimulus":[
+{
+"type":"p",
+"hlId":"60fd74",
+"children":[
+"A 69-year-old man is evaluated for mild lower abdominal pain, tenesmus, and bloody diarrhea that began 36 hours ago. His only other medical problem is peripheral vascular disease."
+]
+},
+{
+"type":"p",
+"hlId":"603790",
+"children":[
+"Vital signs are normal. Examination shows active bowel sounds with tenderness of the lower abdominal quadrants without guarding or rigidity. Maroon-colored stool is present in the rectal vault."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acute diverticulitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Acute mesenteric ischemia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Clostridioides difficile</i> infection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Colonic ischemia"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"59799d",
+"children":[
+"Most patients with colonic ischemia experience abdominal pain, tenesmus, and bloody diarrhea and follow a favorable course that requires only observation and supportive therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"54f92e",
+"children":[
+"Contrast CT is the preferred initial imaging test for most patients with colonic ischemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9a5de9",
+"children":[
+"This patient has features consistent with colonic ischemia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), and abdominal CT with contrast should be performed to confirm the diagnosis and evaluate the extent of colonic involvement. Colonic ischemia is more common in women and commonly affects older persons with diabetes mellitus, hypertension, and vascular disease. However, other risk factors, such as hypercoagulability, atrial fibrillation, hypotension, opioids, chemotherapeutics agents, and immunomodulators, have been associated with colonic ischemia. In most instances, the precipitating factor remains unidentified. Most patients experience abdominal pain, tenesmus, and bloody diarrhea and follow a favorable course that requires only observation and supportive therapy. In severe cases, colonic gangrene, perforation, and peritonitis may occur; these patients require surgery and have a poor prognosis. Contrast abdominal CT may show circumferential colonic thickening, thumbprinting, and pericolonic fat stranding. The left colon is most frequently affected, particularly in areas of marginal blood flow (\"watershed\" areas), but any segment may be involved. Patients with right-sided colonic ischemia require noninvasive imaging of the mesenteric vasculature to exclude an occlusive process of the superior mesenteric artery. Colonoscopy, which allows diagnostic confirmation and collection of tissue samples, should be performed within 48 hours of the onset of symptoms. Common colonoscopic findings include hemorrhagic nodules, mucosal edema, and ulceration."
+]
+},
+{
+"type":"p",
+"hlId":"000802",
+"children":[
+"The clinical presentation of uncomplicated acute diverticulitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is colicky abdominal pain that is relieved with flatus or a bowel movement. On physical examination, left-lower-quadrant abdominal tenderness is often present. Patients with complicated diverticulitis may present with dysuria, urinary frequency, pneumaturia, fecaluria, and recurrent urinary infection concerning for colovesical fistula. It is uncommon for patients with diverticulitis to present with rectal bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"87aa87",
+"children":[
+"Acute mesenteric ischemia (AMI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") most commonly presents with abrupt onset of severe, periumbilical abdominal pain followed by the urge to defecate. The abdominal pain is constant, and the patient may subsequently have loose, nonbloody stools. Hematochezia occurs in a minority of cases of AMI (15%), and its presence signifies concomitant right colon ischemia. In the early course of AMI, the abdominal examination may be falsely reassuring: Despite the patient's reporting severe abdominal pain, the physical examination reveals a soft, nontender, nondistended abdomen without peritoneal signs. This is called “pain out of proportion to physical examination findings” and should immediately raise suspicion for early AMI."
+]
+},
+{
+"type":"p",
+"hlId":"fd0b10",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") produces both an enterotoxin (toxin A) and a cytotoxin (toxin B) that are pathogenic. Symptomatic patients typically have watery diarrhea (rarely bloody), crampy abdominal pain, malaise, and sometimes nausea and fever. Abnormal laboratory study findings are nonspecific but can include leukocytosis, an elevated serum creatinine level, and hypoalbuminemia."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_9_3_2",
+"objective":{
+"__html":"Diagnose colonic ischemia."
+},
+"references":[
+[
+"Oglat A, Quigley EM. Colonic ischemia: usual and unusual presentations and their management. Curr Opin Gastroenterol. 2017;33:34-40. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27798439",
+"target":"_blank"
+},
+"children":[
+"PMID: 27798439"
+]
+},
+" doi:10.1097/MOG.0000000000000325"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"60fd74",
+"603790",
+"413696",
+"59799d",
+"54f92e",
+"9a5de9",
+"000802",
+"87aa87",
+"fd0b10"
+]
+}

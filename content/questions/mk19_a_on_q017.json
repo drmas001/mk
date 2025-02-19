@@ -1,0 +1,227 @@
+{
+"id":"mk19_a_on_q017",
+"number":17,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6ecfe5",
+"children":[
+"A 55-year-old woman is evaluated in the office following a recent diagnosis of metastatic adenocarcinoma of the lung. She has excellent performance status. Medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"34e7fb",
+"children":[
+"There are no molecular alterations (epidermal growth factor receptor",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+", ALK, ROS1"
+]
+},
+"). Programmed death ligand-1 expression is negative."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Combination chemotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Combination chemotherapy plus pembrolizumab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pembrolizumab monotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Single-agent chemotherapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ed2a31",
+"children":[
+"In the absence of a driver mutation (epidermal growth factor receptor",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+", ALK, ROS1"
+]
+},
+"), combination of pembrolizumab with chemotherapy has been shown to improve survival in patients who have good performance with metastatic non–small cell lung cancer regardless of programmed cell death ligand-1 level."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4a1be4",
+"children":[
+"In the absence of a driver mutation (epidermal growth factor receptor",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+", ALK, ROS1"
+]
+},
+"), pembrolizumab monotherapy is first-line therapy in patients with programmed cell death ligand-1 expression greater than 50%."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"107c81",
+"children":[
+"This patient should be treated with pembrolizumab plus chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Immunotherapy is playing an increasingly important role in the management of patients with metastatic non–small cell lung cancer. Many different immunotherapy agents, mostly directed against the programmed death-1/programmed cell death ligand-1 (PD-1/PD-L1) axis, have been shown to be effective for the treatment of advanced non–small cell lung cancer. Immunotherapy can be used as single-agent therapy based on expression of the PD-L1 biomarker. However, in patients without a driver mutation (epidermal growth factor receptor",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+", ALK, ROS1"
+]
+},
+"), the combination of pembrolizumab with carboplatin and pemetrexed has been shown to improve survival in those with metastatic non–small cell lung cancer regardless of PD-L1 level. This was shown in a randomized phase III trial that tested this combination in comparison to carboplatin/pemetrexed in the first-line treatment setting. This study found that the combination of chemotherapy and pembrolizumab improved survival regardless of PD-L1 status. Based on this result, the combination of pembrolizumab and platinum-based chemotherapy is the preferred therapy for patients with good performance status who do not have a driver mutation. Contraindications to immunotherapy include connective tissue disease, rheumatologic diseases, or interstitial lung disease."
+]
+},
+{
+"type":"p",
+"hlId":"32e87d",
+"children":[
+"Combination chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") without pembrolizumab has been shown to be inferior to chemotherapy plus pembrolizumab in patients who have good performance status with metastatic non–small cell lung cancer. Use of combination chemotherapy alone is only indicated in patients who are not candidates for immunotherapy treatment. This patient has no apparent contraindication to immunotherapy treatment."
+]
+},
+{
+"type":"p",
+"hlId":"c6b113",
+"children":[
+"Pembrolizumab alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can be used in patients with PD-L1 expression greater than 50%. Furthermore, it is also approved as initial therapy in patients with PD-L1 expression from 1% to 49%, although it is less active in this setting, and combined pembrolizumab and chemotherapy is preferred for such patients. This patient has negative PD-L1 expression, however, and single-agent pembrolizumab plays no role in the treatment of such patients."
+]
+},
+{
+"type":"p",
+"hlId":"78cc70",
+"children":[
+"Single-agent chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not a standard treatment option for first-line treatment of patients with non–small cell lung cancer."
+]
+}
+],
+"relatedSection":"mk19_a_on_s6_1_3",
+"objective":{
+"__html":"Treat metastatic non–small cell lung cancer without a driver mutation with pembrolizumab plus chemotherapy."
+},
+"references":[
+[
+"Gandhi L, Rodríguez-Abreu D, Gadgeel S, et al; KEYNOTE-189 Investigators. Pembrolizumab plus chemotherapy in metastatic non-small-cell lung cancer. N Engl J Med. 2018;378:2078-92. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29658856",
+"target":"_blank"
+},
+"children":[
+"PMID: 29658856"
+]
+},
+" doi:10.1056/NEJMoa1801005"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":45,
+"B":50,
+"C":3,
+"D":2,
+"E":0
+},
+"hlIds":[
+"6ecfe5",
+"34e7fb",
+"1054f1",
+"ed2a31",
+"4a1be4",
+"107c81",
+"32e87d",
+"c6b113",
+"78cc70"
+]
+}

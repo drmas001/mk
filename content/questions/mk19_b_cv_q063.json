@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_cv_q063",
+"number":63,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 63",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d3c424",
+"children":[
+"A 45-year-old woman is evaluated for occasional palpitations. She also has hypertension. Medications are chlorthalidone and diltiazem."
+]
+},
+{
+"type":"p",
+"hlId":"6b323e",
+"children":[
+"On physical examination, vital signs are normal. Cardiac examination reveals an irregular rhythm. There is a midsystolic click and late systolic murmur at the apex, radiating to the back. There are no signs of heart failure."
+]
+},
+{
+"type":"p",
+"hlId":"6e4f8c",
+"children":[
+"An ECG shows atrial fibrillation, with a ventricular rate of 80/min."
+]
+},
+{
+"type":"p",
+"hlId":"746f41",
+"children":[
+"A transthoracic echocardiogram shows severe posteriorly directed mitral regurgitation, with a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 55% and left ventricular end-systolic dimension of 60 mm. There is severe anterior mitral valve prolapse; hemodynamic measurements indicate severe mitral regurgitation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Surgical mitral valve repair"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transcatheter mitral valve repair"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7e6df0",
+"children":[
+"Surgery for chronic primary severe mitral regurgitation is indicated in the presence of symptoms, left ventricular dilation, or reduced ejection fraction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"416203",
+"children":[
+"Surgical mitral valve repair is first-line therapy for patients with primary severe mitral regurgitation meeting indications for intervention."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6058e2",
+"children":[
+"The most appropriate next step in management is surgical mitral valve repair (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's echocardiogram is consistent with severe mitral regurgitation, defined as an effective regurgitant orifice area of 0.4 cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or greater, a regurgitant volume of 60 mL or greater, or a vena contracta of 0.7 cm or greater. The mitral regurgitation is primary (degenerative), as indicated by the patient's midsystolic click and late mitral regurgitation (both seen in mitral valve prolapse) and the demonstration of anterior prolapse by echocardiography. Although the presence of symptoms resulting from severe mitral regurgitation (such as shortness of breath and volume overload) is an indication for intervention, class 1 indications for intervention in asymptomatic patients include a left ventricular (LV) ejection fraction of 60% or less and/or an LV end-systolic dimension of 40 mm or greater. Surgical mitral valve repair is first-line therapy for patients with primary severe mitral regurgitation meeting indications for intervention."
+]
+},
+{
+"type":"p",
+"hlId":"7f153d",
+"children":[
+"In most cases, transthoracic echocardiography (TTE) provides the data needed for adequate cardiac evaluation of the patient with mitral regurgitation. However, in cases in which TTE image quality is poor, cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be of value in mitral regurgitation evaluation. This patient does not have an indication for CMR imaging."
+]
+},
+{
+"type":"p",
+"hlId":"72803a",
+"children":[
+"In severely symptomatic patients (New York Heart Association class III or IV) with primary severe mitral regurgitation and high or prohibitive surgical risk, transcatheter mitral valve repair (transcatheter edge-to-edge repair [TEER]) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is reasonable if mitral valve anatomy is favorable for the repair procedure and the patient's life expectancy is at least 1 year. This patient meets no indication for TEER."
+]
+},
+{
+"type":"p",
+"hlId":"a4634e",
+"children":[
+"Transesophageal echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be pursued when TTE is insufficient to determine either the exact severity or the mechanism of mitral regurgitation (primary versus secondary); this patient's TTE was sufficient to identify the nature and severity of the mitral regurgitation."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_6_2",
+"objective":{
+"__html":"Treat primary (degenerative) severe mitral regurgitation with surgical mitral valve repair."
+},
+"references":[
+[
+"Bonow RO, O'Gara PT, Adams DH, et al. 2020 Focused update of the 2017 ACC expert consensus decision pathway on the management of mitral regurgitation: a report of the American College of Cardiology Solution Set Oversight Committee. J Am Coll Cardiol. 2020;75:2236-2270. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32068084",
+"target":"_blank"
+},
+"children":[
+"PMID: 32068084"
+]
+},
+" doi:10.1016/j.jacc.2020.02.005"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":48,
+"C":27,
+"D":22,
+"E":0
+},
+"hlIds":[
+"d3c424",
+"6b323e",
+"6e4f8c",
+"746f41",
+"1a5dcc",
+"7e6df0",
+"416203",
+"6058e2",
+"7f153d",
+"72803a",
+"a4634e"
+]
+}

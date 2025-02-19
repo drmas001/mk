@@ -1,0 +1,226 @@
+{
+"id":"mk19_b_pm_q052",
+"number":52,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3dba23",
+"children":[
+"A 36-year-old woman is hospitalized with community-acquired pneumonia. She has a history of systemic lupus erythematosus and Raynaud phenomenon, which have been clinically stable with nifedipine and hydroxychloroquine. Levofloxacin was initiated 2 hours ago in the emergency department."
+]
+},
+{
+"type":"p",
+"hlId":"68fe3c",
+"children":[
+"On physical examination, temperature is 37.8 °C (100.0 °F); the remainder of the vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" by finger pulse oximetry was initially 92% but has decreased to 84% despite the addition of supplemental oxygen at 3 L/min by nasal cannula. Pulmonary examination reveals scattered coarse rhonchi and crackles in the right lower lobe. Cardiac examination is normal. Extremities are cool."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Change to F<small>IO</small><sub>2</sub> of 0.50 by large-reservoir oxygen mask"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Change to earlobe pulse oximetry probe"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Obtain arterial blood gases"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Obtain CT angiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5a8ac0",
+"hvc":true,
+"children":[
+"Inaccurate pulse oximetry reading by finger probe can be caused by vasoconstriction, low perfusion states, skin pigmentation, motion artifact, or nail polish."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fd865e",
+"hvc":true,
+"children":[
+"In cases of suspected inaccurate pulse oximetry by finger probe, changing to an earlobe probe or forehead probe is indicated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e75dce",
+"children":[
+"The most appropriate management is to change the pulse oximetry probe to an earlobe probe (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Pulse oximetry calculates the differential between absorption of infrared light by oxygenated and deoxygenated blood and is widely used to monitor oxygenation. Conventional probes used on the finger, toe, and earlobe rely on transmission technology, utilizing emitting and detecting sensors applied on opposing sides of the digit or earlobe. Inaccurate readings can be caused by vasoconstriction, low perfusion states, skin pigmentation, motion artifact, or nail polish. The clinician should examine the pulse oximeter waveform to determine if the reading is accurate; a normal signal shows a sharp waveform with a clear dicrotic notch. The absence of a clear dicrotic notch suggests the device is not providing an accurate reading. In a patient with Raynaud phenomenon and clinical signs of peripheral vasoconstriction, pulse oximetry with a finger probe is likely to be erroneous. Options include changing to an earlobe probe or use of reflectance technology with a forehead probe in which the emitter and detector sensors are adjacent to each other."
+]
+},
+{
+"type":"p",
+"hlId":"42d1dc",
+"children":[
+"Increasing the oxygen therapy to an F",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"IO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" of 0.50 (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be appropriate only after pulse oximeter has been verified for accuracy. A 2018 systematic review found that supplemental oxygen in patients with normal oxygen saturation increases mortality. The review focused on acutely ill adults with sepsis, critical illness, stroke, trauma, myocardial infarction, or cardiac arrest, and patients who had emergency surgery."
+]
+},
+{
+"type":"p",
+"hlId":"8a0670",
+"children":[
+"Arterial blood gases (ABGs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be measured to assess for underlying hypercapnia in patients with a low FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+", a change in mental status, acute COPD or asthma exacerbations, elevated level of serum bicarbonate, or in some patients, oxygen desaturation on pulse oximetry. Before ABGs are obtained in this patient, the pulse oximetry reading needs to be verified by replacing the finger probe with an earlobe or forehead probe."
+]
+},
+{
+"type":"p",
+"hlId":"fdb8e9",
+"children":[
+"CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") has significantly improved the accuracy of evaluating pulmonary embolism. For patients who present with symptoms suspicious for an acute venous thromboembolism (VTE), such as sudden drop in oxygenation, CT angiography provides a rapid, noninvasive means of diagnosis. Initiating an evaluation for VTE in this patient should be considered only if the pulse oximetry reading is verified to be accurate."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s1_1_6",
+"objective":{
+"__html":"Manage an abnormal pulse oximetry reading."
+},
+"references":[
+[
+"Jubran A. Pulse oximetry. Crit Care. 2015;19:272. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26179876",
+"target":"_blank"
+},
+"children":[
+"PMID: 26179876"
+]
+},
+" doi:10.1186/s13054-015-0984-8"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":46,
+"C":37,
+"D":6,
+"E":0
+},
+"hlIds":[
+"3dba23",
+"68fe3c",
+"cb2b54",
+"5a8ac0",
+"fd865e",
+"e75dce",
+"42d1dc",
+"8a0670",
+"fdb8e9"
+]
+}

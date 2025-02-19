@@ -1,0 +1,220 @@
+{
+"id":"mk19_qq_q055",
+"number":55,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a34607",
+"children":[
+"A 37-year-old man is evaluated for a 5-month history of diminishing libido. He has no additional symptoms. Puberty was normal. He fathered one child 4 years ago. He drinks two beers weekly and takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"287b24",
+"children":[
+"Secondary sex characteristics, testicular size, and BMI are normal. Depression screening is negative. His 3 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"PM"
+]
+},
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Testosterone, total, serum",
+"children":[
+"total testosterone"
+]
+},
+" level is 200 ng/dL (6.9 nmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Morning serum free testosterone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Morning serum total testosterone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat 3 <small>PM</small> total testosterone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum luteinizing and follicle-stimulating hormone levels"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9da586",
+"children":[
+"In the evaluation of male hypogonadism, initial morning measurement of a patient's total testosterone level should be performed; if results are abnormal, a second confirmatory morning measurement should be obtained."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8b2676",
+"children":[
+"If low testosterone is confirmed with two morning measurements, serum luteinizing hormone and follicle-stimulating hormone measurements are indicated to differentiate primary from secondary hypogonadism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9a0e44",
+"children":[
+"Obtaining a morning (8:00 to 10:00 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM)"
+]
+},
+" serum total testosterone level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is the most appropriate next diagnostic test for this patient with decreased libido. Male hypogonadism is a clinical syndrome that results from failure of the testes to produce physiologic levels of testosterone and a normal number of spermatozoa caused by disruption of the hypothalamic-pituitary-testicular axis. Specific symptoms of hypogonadism in the adult male include decreased morning and spontaneous erections, mastodynia, gynecomastia, decreased need for shaving, and/or decreased axillary and genital hair. According to Endocrine Society guidelines, an initial morning measurement of a patient's total testosterone level should be performed to assess for hypogonadism; if results are abnormal, a second confirmatory morning measurement should be obtained before additional testing is begun. This recommendation is based on many studies showing that variability in testosterone levels from day to day or diurnally is common, with morning total testosterone levels being the most accurate in indicating a patient's androgen status."
+]
+},
+{
+"type":"p",
+"hlId":"fd0d17",
+"children":[
+"Many free testosterone assays (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are grossly inaccurate and thus are not currently recommended to diagnose hypogonadism, unless the assay measures free testosterone by equilibrium dialysis. In addition, this patient has no risk factors for altered sex hormone–binding globulin levels (obesity and older age), which would make a total testosterone level less reliable. Therefore, he has no need for a free testosterone assessment."
+]
+},
+{
+"type":"p",
+"hlId":"3ec6cc",
+"children":[
+"A repeat 3 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"PM"
+]
+},
+" total testosterone measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated. Because of the daily variability of testosterone levels, including diurnal variation, morning testosterone measurements are indicated as the most accurate representation of the patient's hormone status."
+]
+},
+{
+"type":"p",
+"hlId":"5e177e",
+"children":[
+"If low testosterone is confirmed with two morning measurements, serum luteinizing hormone (LH) and follicle-stimulating hormone (FSH) measurements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are indicated. Low or normal LH or FSH levels reflect secondary hypogonadism. However, a diagnosis of hypogonadism has not yet been confirmed in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_5_1_3",
+"objective":{
+"__html":"Diagnose male hypogonadism."
+},
+"references":[
+[
+"Bhasin S, Brito JP, Cunningham GR, et al. Testosterone therapy in men with hypogonadism: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2018;103:1715-1744. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29562364",
+"target":"_blank"
+},
+"children":[
+"PMID: 29562364"
+]
+},
+" doi:10.1210/jc.2018-00229"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"a34607",
+"287b24",
+"ab9d96",
+"9da586",
+"8b2676",
+"9a0e44",
+"fd0d17",
+"3ec6cc",
+"5e177e"
+]
+}

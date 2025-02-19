@@ -1,0 +1,251 @@
+{
+"id":"mk19_b_pm_q020",
+"number":20,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6cf878",
+"children":[
+"A 38-year-old man is evaluated for shortness of breath and a dry cough for the past 3 months. He has a 20-pack-year smoking history and continues to smoke."
+]
+},
+{
+"type":"p",
+"hlId":"d46cb0",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% with the patient breathing ambient air. Auscultation of the lungs reveals coarse bibasilar inspiratory crackles. The cardiac examination and remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"528e0f",
+"children":[
+"Chest radiograph demonstrates bilateral reticular infiltrates. High-resolution chest CT demonstrates patchy ground-glass infiltrates with lower-lobe predominance. Pulmonary function testing shows an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 65% of predicted, an ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio of 0.81, and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 56% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Glucocorticoids"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pirfenidone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Smoking cessation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c1c103",
+"hvc":true,
+"children":[
+"There are several diffuse parenchymal lung diseases that occur almost exclusively in persons who are current smokers."
+]
+},
+{
+"type":"keypoint",
+"hlId":"94e55f",
+"hvc":true,
+"children":[
+"For all smoking-related diffuse parenchymal lung diseases, smoking cessation is the cornerstone of treatment."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1f808d",
+"children":[
+"This patient has smoking-related diffuse parenchymal lung disease (DPLD), and smoking cessation is the most appropriate treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). There are several DPLDs that occur almost exclusively in persons who are current smokers. The pathology from smoking-related DPLD includes respiratory bronchiolitis–associated interstitial lung disease (RB-ILD), desquamative interstitial pneumonia (DIP), pulmonary Langerhans cell histiocytosis (PLCH), and smoking-related interstitial fibrosis (SRIF). Smoking in conjunction with other endogenous or exogenous factors may also contribute to idiopathic pulmonary fibrosis as well as combined pulmonary fibrosis and emphysema. Physiologically, smoking-related DPLD may have obstructive, restrictive, or mixed defects. This patient has a restrictive defect. D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" is reduced in all patients with DPLD, including smoking-related DPLD. Findings on high-resolution CT (HRCT) can often help distinguish between the various types of smoking-related DPLD. This patient's HRCT findings of lower-lobe-predominant ground-glass opacities suggest DIP. RB-ILD is characterized by patchy ground-glass opacities with fine centrilobular nodules. PLCH, in contrast, is characterized by diffuse thin-walled cysts and nodular lesions in the mid- and upper lung zones. SRIF mimics RB-ILD on chest radiograph; however, it is pathologically distinct, with deposition of hyalinized collagen in alveolar septa and minimal inflammation. For all smoking-related DPLDs, smoking cessation is the cornerstone of treatment. Patients should receive behavioral counseling and at least one of seven FDA-approved treatments for smoking cessation."
+]
+},
+{
+"type":"p",
+"hlId":"18550f",
+"children":[
+"Glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be required in severe disease or refractory cases of smoking-related DPLD, but they should not be instituted in the absence of smoking cessation."
+]
+},
+{
+"type":"p",
+"hlId":"a9dcd0",
+"children":[
+"Immunosuppressant therapies are occasionally used in selected patients with interstitial lung disease. Methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not used and is not recommended for patients with DIP or other DPLDs. Methotrexate, particularly chronic low-dose methotrexate, is associated with a small but not insignificant risk of pulmonary toxicity, including hypersensitivity pneumonitis, organizing pneumonia, acute interstitial pneumonia, and pulmonary fibrosis."
+]
+},
+{
+"type":"p",
+"hlId":"17cac3",
+"children":[
+"Pirfenidone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an antifibrotic agent that is FDA approved for the treatment of idiopathic pulmonary fibrosis. It does not have a role in the management of smoking-related DPLD in general or DIP specifically."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s3_3_1",
+"objective":{
+"__html":"Treat smoking-related diffuse parenchymal lung disease."
+},
+"references":[
+[
+"Kumar A, Cherian SV, Vassallo R, et al. Current concepts in pathogenesis, diagnosis, and management of smoking-related interstitial lung diseases. Chest. 2018;154:394-408. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29222007",
+"target":"_blank"
+},
+"children":[
+"PMID: 29222007"
+]
+},
+" doi:10.1016/j.chest.2017.11.023"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":10,
+"B":3,
+"C":6,
+"D":81,
+"E":0
+},
+"hlIds":[
+"6cf878",
+"d46cb0",
+"528e0f",
+"1054f1",
+"c1c103",
+"94e55f",
+"1f808d",
+"18550f",
+"a9dcd0",
+"17cac3"
+]
+}

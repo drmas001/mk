@@ -1,0 +1,197 @@
+{
+"id":"mk19_a_gm_q048",
+"number":48,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 48",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a93337",
+"children":[
+"A 28-year-old woman is evaluated in the emergency department for an episode of syncope. Before the syncopal event, she was standing motionless in a warm environment for several minutes, and then she felt warm, dizzy, and nauseated. She lost consciousness for less than 30 seconds. She experienced no trauma during the event and had no confusion afterward. She has previously experienced presyncope at work while standing for long periods of time but had never lost consciousness. She has no medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"418244",
+"children":[
+"On physical examination, vital signs and the remainder of the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f7f15f",
+"children":[
+"An ECG is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Avoidance of triggers"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fludrocortisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Midodrine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Propranolol"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"abb885",
+"hvc":true,
+"children":[
+"Vasovagal syncope is treated with targeted education about avoiding triggers, such as prolonged standing and warm environments."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3a5e74",
+"hvc":true,
+"children":[
+"Physical counterpressure measures, such as squatting and leg crossing, as well as increased fluid and salt intake, can decrease the risk for recurrent vasovagal syncope."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7ee1a7",
+"children":[
+"The most appropriate treatment is education about avoidance of triggers (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient probably has vasovagal syncope, which is provoked by noxious stimuli, fear, stress, or heat overexposure and is preceded by a prodrome of warmth, dizziness, and nausea. In cases of vasovagal (reflex) syncope, explaining the diagnosis to the patient is strongly recommended, along with targeted education about avoiding triggers (e.g., prolonged standing, warm environments) and how to cope with noxious events (e.g., blood draws). In addition, physical counterpressure measures, such as squatting and leg crossing, and increased fluid and salt intake can decrease the risk for recurrence of the syncopal event in selected patients."
+]
+},
+{
+"type":"p",
+"hlId":"b6cf7a",
+"children":[
+"Fludrocortisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has mineralocorticoid activity that increases blood volume through sodium and water retention. Hypertension and hypokalemia are expected adverse effects. Fludrocortisone might be considered for patients with vasovagal syncope not responding to avoidance of triggers and physical counterpressure measures. Studies show a 31% non–statistically significant reduction in recurrent syncope in patients with frequent vasovagal syncope after 2 weeks of therapy. Fludrocortisone is not indicated in this patient who has yet to try more effective means of syncope prevention that are associated with fewer side effects."
+]
+},
+{
+"type":"p",
+"hlId":"08edaf",
+"children":[
+"Midodrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is metabolized to a peripherally active α-agonist that may counter the reduction of sympathetic neural outflow and resultant venous pooling associated with vasovagal syncopal. A meta-analysis suggests that midodrine can reduce recurrent vasovagal syncopal episodes by 43%. However, this patient has yet to try less expensive, and presumably safer, nonpharmacologic options."
+]
+},
+{
+"type":"p",
+"hlId":"648ec7",
+"children":[
+"Trials of β-blockers for the prevention of vasovagal syncope have, for the most part, been negative. However, some studies have documented benefit with β-blocker therapy in patients aged 42 years or older. It is unlikely that this young patient needs or will respond to β-blocker therapy, such as propranolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9_4",
+"objective":{
+"__html":"Treat vasovagal syncope."
+},
+"references":[
+[
+"Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. Circulation. 2017;136:e25-59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28280232",
+"target":"_blank"
+},
+"children":[
+"PMID: 28280232"
+]
+},
+" doi:10.1161/CIR.0000000000000498"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":96,
+"B":1,
+"C":2,
+"D":0,
+"E":0
+},
+"hlIds":[
+"a93337",
+"418244",
+"f7f15f",
+"1054f1",
+"abb885",
+"3a5e74",
+"7ee1a7",
+"b6cf7a",
+"08edaf",
+"648ec7"
+]
+}

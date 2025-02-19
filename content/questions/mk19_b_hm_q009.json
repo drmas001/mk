@@ -1,0 +1,269 @@
+{
+"id":"mk19_b_hm_q009",
+"number":9,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7e8e8c",
+"children":[
+"A 40-year-old woman is hospitalized with acute shortness of breath. Medical history is significant for two pregnancy losses in the second trimester. Laboratory testing 3 months ago after her second pregnancy loss was positive for lupus anticoagulant, high titer IgG anticardiolipin antibodies, and high titer IgG anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibodies. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"aaa357",
+"children":[
+"On physical examination, pulse rate is 120/min and respiration rate is 20/min; ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 92% breathing ambient air."
+]
+},
+{
+"type":"p",
+"hlId":"7b2cfa",
+"children":[
+"Laboratory studies show a positive lupus anticoagulant, high-titer IgG anticardiolipin antibodies, and high-titer IgG anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibodies."
+]
+},
+{
+"type":"p",
+"hlId":"82ec64",
+"children":[
+"CT angiography shows a pulmonary embolism in the right main pulmonary artery."
+]
+},
+{
+"type":"p",
+"hlId":"827877",
+"children":[
+"Low-molecular-weight heparin is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"60b0c5",
+"children":[
+"Which of the following is the most appropriate long-term treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Dabigatran plus aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Rivaroxaban"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Warfarin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Warfarin plus inferior vena cava filter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9ec7a2",
+"children":[
+"High-risk antiphospholipid antibody syndrome is defined by the presence of triple positivity for the lupus anticoagulant, anticardiolipin antibodies, and anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibodies, measured on two occasions 12 weeks apart."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cd4109",
+"children":[
+"Warfarin is the preferred oral anticoagulant in patients with high-risk antiphospholipid antibody syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cf1247",
+"children":[
+"The most appropriate long-term treatment for this patient is anticoagulation with warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). She meets the criteria for antiphospholipid antibody syndrome (APLAS) based on her vascular thrombosis (acute pulmonary embolism), history of pregnancy morbidity, and laboratory criteria. Pregnancy morbidity that meets the criteria for APLAS includes at least one pregnancy loss after 10 weeks' gestation; at least one premature birth before 34 weeks' gestation because of eclampsia, preeclampsia, or placental insufficiency; or three or more unexplained consecutive spontaneous abortions before the 10th week of gestation. APLAS evaluation includes the anticardiolipin antibodies, anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibodies, and lupus anticoagulant; for APLAS diagnosis, laboratory findings must include medium- or high-titer antiphospholipid antibodies on two or more occasions at least 12 weeks apart. This patient has high-risk APLAS based on triple positivity for the lupus anticoagulant, anticardiolipin antibodies, and anti–β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-glycoprotein antibodies on two occasions measured 12 weeks apart."
+]
+},
+{
+"type":"p",
+"hlId":"ec919e",
+"children":[
+"Emerging data from systematic reviews indicate that the use of direct oral anticoagulants, such as dabigatran, are not as effective as warfarin in the prevention of recurrent thrombotic events in patients with high-risk APLAS. Aspirin is often added to anticoagulation in patients with arterial thrombosis and in patients with a pre-existing indication for aspirin therapy such as cardiovascular or cerebrovascular disease. This patient should be treated with warfarin, not dabigatran, and has no indication for the addition of aspirin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"750726",
+"children":[
+"Warfarin is the preferred anticoagulant in patients with high-risk APLAS because clinical trials have demonstrated an increased risk of thromboembolic events with rivaroxaban compared with warfarin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"64d7df",
+"children":[
+"Guidelines do not recommend dual therapy with an inferior vena cava filter and anticoagulation for patients with deep venous thrombosis (DVT), even for patients with proximal DVT and significant preexisting cardiopulmonary disease, as well as for patients with pulmonary embolism and hemodynamic compromise (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s9_2_3_4",
+"objective":{
+"__html":"Treat a patient with high-risk antiphospholipid antibody syndrome."
+},
+"references":[
+[
+"Garcia D, Erkan D. Diagnosis and management of the antiphospholipid syndrome. N Engl J Med. 2018;378:2010-2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29791828",
+"target":"_blank"
+},
+"children":[
+"PMID: 29791828"
+]
+},
+" doi:10.1056/NEJMra1705454"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":19,
+"C":59,
+"D":8,
+"E":0
+},
+"hlIds":[
+"7e8e8c",
+"aaa357",
+"7b2cfa",
+"82ec64",
+"827877",
+"60b0c5",
+"9ec7a2",
+"cd4109",
+"cf1247",
+"ec919e",
+"750726",
+"64d7df"
+]
+}

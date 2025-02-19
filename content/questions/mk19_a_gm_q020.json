@@ -1,0 +1,199 @@
+{
+"id":"mk19_a_gm_q020",
+"number":20,
+"bookId":"gm",
+"correctAnswer":"B",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e427f4",
+"children":[
+"A published systematic review and meta-analysis assessed the effect of a new biologic agent for treatment of metastatic appendiceal adenocarcinoma. Six randomized controlled trials met the inclusion criteria for the systematic review. The largest of these demonstrated a statistically significant benefit associated with the new biologic agent. Three smaller trials showed a trend toward benefit that was not significant, and two trials showed a nonsignificant trend toward no benefit. In the trials that showed no benefit, the disease was considerably more advanced and patients had poorer performance status. Studies demonstrating trend toward benefit varied regarding inclusion of patients previously treated with other agents. The meta-analysis showed a beneficial treatment effect (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" = 0.048)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a632bc",
+"children":[
+"Which of the following is the most important limitation to this meta-analysis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Confounding"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Heterogeneity"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lack of power"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Random error"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"53f481",
+"children":[
+"Meta-analysis is a statistical method that combines the results from different studies included in systematic reviews; meta-analysis increases sample size and statistical power."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b9787b",
+"children":[
+"Heterogeneity refers to factors that limit the ability to meaningfully combine study results in a meta-analysis because of differences in study populations, research measures, or statistical techniques."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"55ba53",
+"children":[
+"The most important limitation to this meta-analysis is heterogeneity (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Meta-analysis is a statistical method that combines the results from different studies included in systematic reviews. Systematic reviews are systematic literature searches performed by using predefined criteria to collect all relevant studies. The systematic selection of the included studies minimizes bias. The resultant larger sample size has greater power to discriminate differences between groups; thus, meta-analysis increases sample size and statistical power. Meta-analysis of high-quality randomized controlled trials is considered one of the highest levels of clinical evidence. Factors that limit the ability to combine study results meaningfully include differences in the study populations, research measures, and statistical techniques. These differences are termed heterogeneity. This systematic review had differences in patient populations that included more advanced disease, sicker patients, and variability in previous treatment before inclusion in the study."
+]
+},
+{
+"type":"p",
+"hlId":"90aad7",
+"children":[
+"Confounding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") occurs when factors other than the treatments being studied are independently associated with the participants being studied and the end point being assessed. Although statistical techniques can account for known or anticipated confounders, random assignment of the intervention being studied (i.e., a randomized controlled study) best protects against both known and unknown confounders. This protection should also apply to meta-analysis of randomized controlled trials."
+]
+},
+{
+"type":"p",
+"hlId":"5cea15",
+"children":[
+"Meta-analysis, as previously stated, combines the results of multiple studies, thus effectively increasing sample size. The associated increase in statistical power (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to detect differences is a strength of this technique."
+]
+},
+{
+"type":"p",
+"hlId":"ed7c10",
+"children":[
+"Random error (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is introduced by random variability or chance and is expressed by the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P"
+]
+},
+" value or confidence interval. All study designs, including meta-analysis, are subject to random error, but random error is not a unique vulnerability of this design compared with others. Random error can be decreased by increasing the sample size (a strength of meta-analysis) and using precise measurement strategies."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s2_3_1_3",
+"objective":{
+"__html":"Recognize heterogeneity as a limitation of a meta-analysis."
+},
+"references":[
+[
+"Lee YH. An overview of meta-analysis for clinicians. Korean J Intern Med. 2018;33:277-83. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29277096",
+"target":"_blank"
+},
+"children":[
+"PMID: 29277096"
+]
+},
+" doi:10.3904/kjim.2016.195"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":26,
+"B":59,
+"C":12,
+"D":4,
+"E":0
+},
+"hlIds":[
+"e427f4",
+"a632bc",
+"53f481",
+"b9787b",
+"55ba53",
+"90aad7",
+"5cea15",
+"ed7c10"
+]
+}

@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_cv_q008",
+"number":8,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d94d75",
+"children":[
+"A 78-year-old woman with progressive exertional dyspnea and chest pain is evaluated for aortic valve replacement. Results show severe aortic stenosis in the absence of obstructive coronary artery disease. Medical history is significant for hypertension, chronic kidney disease (stage G3a), hyperlipidemia, COPD, and atrial fibrillation. Medications are amlodipine, atorvastatin, lisinopril, metoprolol, apixaban, furosemide, and an albuterol-ipratropium inhaler."
+]
+},
+{
+"type":"p",
+"hlId":"84285f",
+"children":[
+"Her Society of Thoracic Surgeons adult cardiac surgery risk score is consistent with high risk."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Balloon aortic valvuloplasty"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continued medical therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgical aortic valve replacement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2c6058",
+"children":[
+"Transcatheter aortic valve implantation is recommended in preference to surgical aortic valve replacement for symptomatic patients with severe aortic stenosis who are older than 80 years or younger patients with a life expectancy less than 10 years."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cb4bc1",
+"children":[
+"Transcatheter aortic valve implantation is recommended for symptomatic patients of any age with severe aortic stenosis and a high or prohibitive surgical risk if predicted postprocedure survival is more than 12 months with an acceptable quality of life."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c143a8",
+"children":[
+"The most appropriate next step in treatment is transcatheter aortic valve implantation (TAVI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Aortic valve replacement is a life-prolonging procedure in patients with severe aortic stenosis. The indications for aortic valve replacement in severe aortic stenosis are (1) the presence of symptoms, (2) left ventricular systolic dysfunction (ejection fraction <50%) in an asymptomatic patient, or (3) a concomitant cardiac surgical procedure for other indications. Exertional dyspnea, syncope, and angina are the most common presenting symptoms that result in aortic valve intervention. Aortic valve replacement can be performed with surgical aortic valve replacement (SAVR) or via transcatheter approach (TAVI). TAVI is recommended in preference to SAVR for symptomatic patients with severe aortic stenosis who are older than 80 years or for younger patients with a life expectancy less than 10 years. TAVI is also recommended for symptomatic patients of any age with severe aortic stenosis and a high or prohibitive surgical risk if predicted postprocedure survival is more than 12 months with an acceptable quality of life. For symptomatic patients aged 65 to 80 years, either SAVR or TAVI is appropriate following shared decision making."
+]
+},
+{
+"type":"p",
+"hlId":"f2246d",
+"children":[
+"Balloon aortic valvuloplasty (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") was previously used to treat symptomatic severe aortic stenosis by temporarily increasing the aortic valve area in patients who were not surgical candidates. With the advent of the less invasive TAVI, balloon valvuloplasty is now rarely used."
+]
+},
+{
+"type":"p",
+"hlId":"3b1c74",
+"children":[
+"Although the patient is at prohibitive surgical risk and would not likely be approved for SAVR, she would likely be a candidate for TAVI. Thus, simply continuing medical therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be inappropriate, given the mortality and quality-of-life benefit associated with TAVI."
+]
+},
+{
+"type":"p",
+"hlId":"74ea55",
+"children":[
+"The patient's comorbid conditions—atrial fibrillation, stage G3a chronic kidney disease, COPD, and hypertension—make her a poor candidate for SAVR (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Her high surgical risk is further quantified by her Society of Thoracic Surgeons adult cardiac surgery risk score."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_2_2",
+"objective":{
+"__html":"Treat a patient with symptomatic severe aortic stenosis with transcatheter aortic valve implantation."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":4,
+"C":3,
+"D":86,
+"E":0
+},
+"hlIds":[
+"d94d75",
+"84285f",
+"765904",
+"2c6058",
+"cb4bc1",
+"c143a8",
+"f2246d",
+"3b1c74",
+"74ea55"
+]
+}

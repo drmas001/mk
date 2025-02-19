@@ -1,0 +1,201 @@
+{
+"id":"mk19_b_hm_q014",
+"number":14,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c03800",
+"children":[
+"A 28-year-old woman is seen to establish care. Medical history is significant for acute lymphoblastic leukemia diagnosed and treated at age 5 years; she has been leukemia free since completion of therapy that included anthracycline and high-dose glucocorticoids. Bone mineral density measurement following treatment was normal. An echocardiogram performed 1 year ago was normal. She reports regular menses. She has no medical problems and takes no medications. She is not sexually active and does not smoke cigarettes, use recreational drugs, or drink alcohol. She exercises 150 minutes per week."
+]
+},
+{
+"type":"p",
+"hlId":"a4a0ba",
+"children":[
+"The physical examination is unremarkable. BMI is 28. Cervical cancer screening is performed."
+]
+},
+{
+"type":"p",
+"hlId":"210285",
+"children":[
+"Complete blood count is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f9c51d",
+"children":[
+"Which of the following is the most appropriate additional survivorship assessment to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone marrow biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Estrogen and progesterone levels"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise stress test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lipids and fasting glucose"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Whole genome sequencing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"71de3f",
+"children":[
+"Survivors of pediatric leukemia (typically acute lymphoblastic leukemia) are at increased risk of developing metabolic syndrome, so screening for dyslipidemia, diabetes mellitus, and hypertension is recommended."
+]
+},
+{
+"type":"keypoint",
+"hlId":"256707",
+"children":[
+"In cancer survivors who received either high-dose anthracycline or chest irradiation, echocardiography to screen for left ventricular dysfunction should be performed at intervals of 3 to 5 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"81aab3",
+"children":[
+"Screening for diabetes and dyslipidemia should be performed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Survivors of pediatric leukemia (typically acute lymphoblastic leukemia, ALL) are at increased risk of developing metabolic syndrome as a result of exposure to cancer chemotherapy. The primary care physician should also request a treatment summary to fully ascertain the risk of cardiovascular disease, metabolic syndrome, and secondary malignancies for this patient. Studies have shown that adult survivors of childhood ALL are more likely to have features of metabolic syndrome, including high BMI, truncal obesity, dyslipidemia, insulin resistance, and hypertension compared with age-matched controls. Therefore, regular screening for dyslipidemia, diabetes, and hypertension is recommended. Those in remission for 20 years or more are not at risk of ALL recurrence. High-dose glucocorticoids, typical of ALL regimens, pose a risk for osteopenia. A normal bone mineral density measurement at the time of entry into long-term care does not need to be repeated until age 65 years unless other risk factors for osteoporosis develop. Patients should be counseled about lifestyle risk factors, age-based screening, and early reporting of persistent symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"6d378e",
+"children":[
+"Although adult ALL survivors are at risk of therapy-related acute myeloid leukemia (AML) or myelodysplastic syndrome (MDS), this risk does not usually extend beyond 15 years. This patient has a normal complete blood count, so bone marrow examination and whole genome sequencing for AML or MDS are not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A, E"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"65518a",
+"children":[
+"Leukemia therapy in childhood does not usually compromise ovarian function. This patient has regular menses, which further confirms normal ovarian function. Checking estrogen and progesterone levels would not be helpful (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"7ac6ba",
+"children":[
+"Exposure to anthracycline during therapy for childhood ALL can lead to heart failure in adulthood. However, exercise stress testing is not the appropriate test to evaluate cardiac function (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Echocardiography to screen for left ventricular dysfunction should be performed at intervals of 3 to 5 years, particularly if anthracycline exposure was high or if chest irradiation was used. In addition, female survivors have a higher risk of myocardial dysfunction during pregnancy."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_5_2",
+"objective":{
+"__html":"Screen for dyslipidemia and diabetes mellitus in survivors of pediatric leukemia."
+},
+"references":[
+[
+"Friedman DN, Tonorezos ES, Cohen P. Diabetes and metabolic syndrome in survivors of childhood cancer. Horm Res Paediatr. 2019;91:118-127. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30650414",
+"target":"_blank"
+},
+"children":[
+"PMID: 30650414"
+]
+},
+" doi:10.1159/000495698"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":6,
+"C":8,
+"D":74,
+"E":9
+},
+"hlIds":[
+"c03800",
+"a4a0ba",
+"210285",
+"f9c51d",
+"71de3f",
+"256707",
+"81aab3",
+"6d378e",
+"65518a",
+"7ac6ba"
+]
+}

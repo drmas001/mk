@@ -1,0 +1,223 @@
+{
+"id":"mk19_qq_q042",
+"number":42,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f17e6c",
+"children":[
+"A 67-year-old man reports a several-day history of light-headedness with rest and activity. The symptoms can be abated by lying down. His only other medical problem is mild-severity Alzheimer disease treated with donepezil."
+]
+},
+{
+"type":"p",
+"hlId":"828663",
+"children":[
+"On physical examination, blood pressure is 137/88 mm Hg and pulse rate is 47/min."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_qq_mcq_f042",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_qq_mcq_f042"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ectopic junctional rhythm"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Second-degree atrioventricular block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Sinus arrest"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sinus node dysfunction"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"97f46b",
+"children":[
+"Sinus node dysfunction can cause sinus or ectopic atrial bradycardia (rate <50/min), sinoatrial exit block, sinus pause (>3 seconds), sinus node arrest, tachycardia-bradycardia syndrome, chronotropic incompetence, or isorhythmic dissociation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3ee136",
+"children":[
+"Medications such as β-blockers or parasympathetic nervous system stimulants (e.g., donepezil, neostigmine, and pyridostigmine) are the most common reversible cause of sinus node dysfunction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"32872d",
+"children":[
+"Because this patient's episodes of sinus bradycardia correlate with lightheadedness, he likely has sinus node dysfunction (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Sinus node dysfunction can cause sinus or ectopic atrial bradycardia (rate <50/min), sinoatrial exit block, sinus pause (>3 seconds), sinus node arrest, tachycardia-bradycardia syndrome, chronotropic incompetence, or isorhythmic dissociation. Symptoms of lightheadedness (most typical), near-syncope, syncope, or confusion are manifestations of hypoperfusion. Sinus node dysfunction can be caused by degenerative fibrosis of the sinoatrial node or be related to other myocardial disease processes. Medications such as β-blockers or parasympathetic nervous system stimulants (e.g., donepezil, neostigmine, and pyridostigmine) are the most common reversible cause of sinus node dysfunction. Permanent pacemaker implantation is the most appropriate treatment for symptomatic sinus node dysfunction with documented bradycardia not caused by treatable factors."
+]
+},
+{
+"type":"p",
+"hlId":"543490",
+"children":[
+"If impulse generation is faster in the atrioventricular (AV) junction than the sinus node rate, an ectopic junctional rhythm (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") will be seen on ECG. Ectopic junctional rhythm is characterized by lack of P waves before the QRS complexes, but retrograde P waves may be buried within QRS complex or occur after the QRS complex deforming the ST segment or T wave. Sinus node impulses are inhibited by the retrograde conducted P waves. This patient has P waves prior to each QRS complex, excluding the diagnosis of ectopic junctional rhythm."
+]
+},
+{
+"type":"p",
+"hlId":"5cc8fb",
+"children":[
+"In second-degree AV block (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), only some P waves conduct to the ventricles. Mobitz type 1 second-degree (Wenckebach) AV block is characterized electrocardiographically by a PR interval that progressively prolongs until a beat is dropped, resulting in grouped beating. Mobitz type 2 second-degree AV block is typified by intermittent nonconducted P waves with unchanging PR intervals. This patient has no evidence of nonconducted P waves, excluding the diagnosis of second-degree heart block."
+]
+},
+{
+"type":"p",
+"hlId":"da37a3",
+"children":[
+"The transient absence of sinus P waves on ECG defines sinus node pause or sinus node arrest. The pause may last from 2 seconds to several minutes and is the result of an alteration in discharge by the sinoatrial node pacemaker. This patient's ECG shows a regular sinus bradycardia without evidence of sinus pauses or arrest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_2",
+"objective":{
+"__html":"Diagnose sinus node dysfunction."
+},
+"references":[
+[
+"Sidhu S, Marine JE. Evaluating and managing bradycardia. Trends Cardiovasc Med. 2020;30:265-272. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31311698",
+"target":"_blank"
+},
+"children":[
+"PMID: 31311698"
+]
+},
+" doi:10.1016/j.tcm.2019.07.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"mk19_qq_mcq_f042":{
+"id":"mk19_qq_mcq_f042",
+"number":42,
+"bookId":"qq",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"cb4b9af6f3063abb6873f6b77be84ff3",
+"height":697,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f17e6c",
+"828663",
+"4a9f79",
+"413696",
+"97f46b",
+"3ee136",
+"32872d",
+"543490",
+"5cc8fb",
+"da37a3"
+]
+}

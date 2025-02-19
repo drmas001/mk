@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q013",
+"number":13,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 13",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a87114",
+"children":[
+"A 63-year-old woman is evaluated for left calf pain that limits walking. She has peripheral artery disease and recently completed an exercise rehabilitation program with minimal improvement in her symptoms. She also has hyperlipidemia. Medications are aspirin and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"51c154",
+"children":[
+"On physical examination, vital signs are normal. Diminished left femoral, popliteal, ankle, and pedal pulses are noted. Transthoracic echocardiography shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 55%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cilostazol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ticagrelor"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Warfarin or rivaroxaban"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d2bb34",
+"children":[
+"In patients who can exercise, supervised exercise training has been associated with improved functional performance and is recommended for patients with intermittent claudication."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e55eca",
+"children":[
+"In the absence of heart failure, a therapeutic trial of cilostazol should be considered in all patients with lifestyle-limiting claudication."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"b6da71",
+"children":[
+"The most appropriate treatment for this patient is the addition of cilostazol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). In patients who can exercise, supervised exercise training has been associated with improved functional performance and is recommended for patients with intermittent claudication. Cilostazol, a phosphodiesterase inhibitor with antiplatelet and vasodilator activity, has been shown in randomized clinical trials to increase pain-free walking and overall walking distance in patients with claudication. Cilostazol is contraindicated in patients with heart failure or left ventricular ejection fraction less than 40% because cilostazol has a similar pharmacologic action to the inotropic drugs milrinone and amrinone, which increase mortality rates with long-term use in patients with heart failure. In the absence of heart failure, a therapeutic trial of cilostazol should be considered in all patients with lifestyle-limiting claudication."
+]
+},
+{
+"type":"p",
+"hlId":"1243ee",
+"children":[
+"Pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has no benefit for the treatment of symptomatic peripheral artery disease (PAD) and should not be prescribed to this patient."
+]
+},
+{
+"type":"p",
+"hlId":"9962d7",
+"children":[
+"Ticagrelor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or another thienopyridine should be added to aspirin therapy in all patients after acute coronary syndrome and after coronary artery stent placement. However, there is no benefit in adding ticagrelor to aspirin in patients with PAD to treat vascular occlusion or reduce the risk for cardiovascular events."
+]
+},
+{
+"type":"p",
+"hlId":"39479b",
+"children":[
+"Neither warfarin nor rivaroxaban should be initiated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). In the absence of other established indications for warfarin therapy, the addition of warfarin to antiplatelet therapy for the treatment of PAD does not confer any clinical benefit and instead increases the risk for major bleeding. In the Warfarin Antiplatelet Vascular Evaluation trial, the combination of an oral anticoagulant and antiplatelet therapy in patients with PAD was not more effective than antiplatelet therapy alone in preventing major cardiovascular complications and was associated with an increase in life-threatening bleeding. Evidence from the COMPASS trial demonstrated that aspirin (100 mg/d) plus low-dose rivaroxaban (2.5 mg twice daily) was associated with improved major adverse cardiovascular and limb end points when compared with aspirin plus placebo in patients with coronary artery disease and PAD. Major bleeding, primarily gastrointestinal bleeding, was increased in patients assigned to receive aspirin plus rivaroxaban; however, fatal or critical organ bleeding was not significantly different between the groups."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_4_2",
+"objective":{
+"__html":"Treat peripheral artery disease with cilostazol."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2017;135:e726-e779. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27840333",
+"target":"_blank"
+},
+"children":[
+"PMID: 27840333"
+]
+},
+" doi:10.1161/CIR.0000000000000471"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"a87114",
+"51c154",
+"78ff87",
+"d2bb34",
+"e55eca",
+"b6da71",
+"1243ee",
+"9962d7",
+"39479b"
+]
+}

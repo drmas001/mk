@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q102",
+"number":102,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 102",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5db9be",
+"children":[
+"A 48-year-old man is evaluated following a recent hospitalization for hypertriglyceridemia-related acute pancreatitis. Evaluation for acquired hypertriglyceridemia is negative. He consumes a very-low-fat diet and avoids refined carbohydrates and alcohol. Medications are simvastatin and an omega-3 fatty acid supplement."
+]
+},
+{
+"type":"p",
+"hlId":"3ab232",
+"children":[
+"On physical examination, BMI is 25. Bilateral xanthelasmas are present. Fasting ",
+{
+"type":"reference-range-link",
+"referenceRange":"Triglycerides",
+"children":[
+"triglyceride"
+]
+},
+" level is 630 mg/dL (7.12 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bempedoic acid"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cholestyramine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Ezetimibe"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Fenofibrate"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3cc9aa",
+"children":[
+"Patients with persistent fasting severe hypertriglyceridemia (triglycerides ≥500 mg/dL) are at risk for acute pancreatitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d156d4",
+"children":[
+"Patients with persistent triglycerides ≥500 mg/dL despite addressing contributing comorbidities and lifestyle modification should be considered for fibrate therapy with the goal of reducing triglycerides to <500 mg/dL to reduce the risk for pancreatitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"987394",
+"children":[
+"The most appropriate treatment is fibrate therapy with fenofibrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with persistent fasting severe hypertriglyceridemia (triglycerides ≥500 mg/dL) are at risk for acute pancreatitis. Those with a previous history of pancreatitis are at even higher risk. Patients with severe hypertriglyceridemia should make dietary modifications, including initiating a very-low-fat diet, avoiding refined carbohydrates and alcohol, and consuming omega-3 fatty acids. Contributing comorbidities, such as diabetes mellitus, obesity, hypothyroidism, and nephrotic syndrome, should also be addressed. If patients have persistent triglycerides of 500 mg/dL or more despite these interventions, fibrate therapy should be considered, with the goal of reducing triglycerides to less than 500 mg/dL to reduce the risk for pancreatitis. Fibrates can reduce triglycerides by 30% to 50% and could help this patient achieve a goal triglyceride level of less than 500 mg/dL."
+]
+},
+{
+"type":"p",
+"hlId":"de9388",
+"children":[
+"Bempedoic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an oral adenosine triphosphate-citrate lyase inhibitor that lowers LDL cholesterol. Bempedoic acid has been approved for use as a single agent or in a fixed-dose combination with ezetimibe and maximally tolerated statin therapy in adults with heterozygous familial hypercholesterolemia or established atherosclerotic cardiovascular disease who require additional lowering of LDL cholesterol. Bempedoic acid is not indicated for the treatment of hypertriglyceridemia."
+]
+},
+{
+"type":"p",
+"hlId":"9bf4d2",
+"children":[
+"Cholestyramine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a bile acid sequestrant that can be used to lower LDL cholesterol. It may be considered in patients who are taking maximally tolerated doses of a statin and ezetimibe but whose LDL cholesterol level has not reached the desired goal reduction. Bile acid sequestrants raise triglycerides and should be avoided in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"6a8d0b",
+"children":[
+"Ezetimibe (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and the PCSK9 inhibitors are the preferred nonstatin drugs for high-risk patients who do not achieve goal LDL cholesterol reduction. Ezetimibe can be added to maximally tolerated statin therapy. Ezetimibe will not be as effective in reducing triglycerides as fenofibrate."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s8_2_3",
+"objective":{
+"__html":"Treat severe hypertriglyceridemia."
+},
+"references":[
+[
+"Grundy SM, Stone NJ, Bailey AL, et al. 2018 AHA/ACC/AACVPR/AAPA/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of blood cholesterol: executive summary: A report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines. Circulation. 2019;139:e1046-e1081. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30565953",
+"target":"_blank"
+},
+"children":[
+"PMID: 30565953"
+]
+},
+" doi:10.1161/CIR.0000000000000624"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"5db9be",
+"3ab232",
+"78ff87",
+"3cc9aa",
+"d156d4",
+"987394",
+"de9388",
+"9bf4d2",
+"6a8d0b"
+]
+}

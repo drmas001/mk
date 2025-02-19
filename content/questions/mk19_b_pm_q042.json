@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_pm_q042",
+"number":42,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 42",
+"stimulus":[
+{
+"type":"p",
+"hlId":"db305c",
+"children":[
+"A 32-year-old man is evaluated in the emergency department after being found unresponsive at home. Methadone and lorazepam pill bottles were found nearby. At the scene, respiratory rate was 6/min. He was administered supplemental oxygen and intranasal naloxone, followed by intravenous naloxone. Food found in his mouth was cleared."
+]
+},
+{
+"type":"p",
+"hlId":"06cff6",
+"children":[
+"In the emergency department, intravenous naloxone is repeated. Temperature is 37.2 °C (99.0 °F), blood pressure is 120/68 mm Hg, pulse rate is 80/min, respiratory rate is 10/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 90% breathing oxygen, 5 L/min by nasal cannula. The patient is unresponsive. Pupillary miosis is present but responsive to light."
+]
+},
+{
+"type":"p",
+"hlId":"bfca33",
+"children":[
+"The fingerstick blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" level is 88 mg/dL (4.9 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"bc7276",
+"children":[
+"Portable chest radiograph shows a right lower lobe infiltrate."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Endotracheal intubation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Flumazenil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous naloxone infusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oxygen by nonrebreather mask"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b47dc6",
+"children":[
+"Opioid overdose should be suspected in patients with respiratory depression, miotic pupils, and depressed level of consciousness."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b8b57e",
+"children":[
+"In addition to seeking to identify the specific agents or classes of drugs taken, care of overdose patients is primarily supportive; maintenance of airway patency and ventilation is critically important in patients with decreased mental status."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"231ea3",
+"children":[
+"The most appropriate treatment is endotracheal intubation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has a toxic syndrome manifesting as respiratory depression, and there is concern for possible aspiration. The circumstances of the toxic syndrome in this patient are unclear and may involve more than one substance. However, a primary consideration is opioid toxicity, with a background of access to methadone, respiratory depression, miotic pupils, depressed level of consciousness, and a transient response of the respiratory rate to naloxone. In addition to identifying the agents or classes of drugs taken, care of patients who have taken an overdose is primarily supportive; maintenance of airway patency and ventilation is critically important in patients with decreased mental status. This patient's inability to protect the airway and concern for aspiration necessitate airway intubation."
+]
+},
+{
+"type":"p",
+"hlId":"bee204",
+"children":[
+"Flumazenil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), an antagonist of the benzodiazepine receptor, is generally not indicated in patients with depressed consciousness due to polysubstance intoxication because it can precipitate withdrawal seizures. Furthermore, because the respiratory depressant effects of benzodiazepines are proportionally small relative to those of opioids, reversal with flumazenil will not benefit a patient with impending respiratory failure."
+]
+},
+{
+"type":"p",
+"hlId":"f11d8c",
+"children":[
+"Naloxone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an opioid antidote that can be administered intravenously, intramuscularly, intranasally, and endotracheally. If respiratory depression measurably improves, naloxone can be given in repeated doses or as an intravenous infusion until the opioid is sufficiently metabolized and cleared. In many instances, naloxone can avert the need for mechanical ventilation. In this patient, however, intubation is necessary because of his apparent inability to protect the airway."
+]
+},
+{
+"type":"p",
+"hlId":"87fd1c",
+"children":[
+"Providing higher levels of supplemental oxygen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") could modestly raise the patient's blood oxygen levels but will not affect the primary underlying problems of alveolar hypoventilation and inability to protect the airway from aspiration."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_4_4",
+"objective":{
+"__html":"Treat unprotected airway with endotracheal intubation."
+},
+"references":[
+[
+"Skolnik A, Monas J. The crashing toxicology patient. Emerg Med Clin North Am. 2020;38:841-856. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32981621",
+"target":"_blank"
+},
+"children":[
+"PMID: 32981621"
+]
+},
+" doi:10.1016/j.emc.2020.06.014"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":62,
+"B":15,
+"C":19,
+"D":4,
+"E":0
+},
+"hlIds":[
+"db305c",
+"06cff6",
+"bfca33",
+"bc7276",
+"1054f1",
+"b47dc6",
+"b8b57e",
+"231ea3",
+"bee204",
+"f11d8c",
+"87fd1c"
+]
+}

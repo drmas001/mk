@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q111",
+"number":111,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 111",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c2d683",
+"children":[
+"A 69-year-old man undergoes follow-up evaluation. He has stable but incapacitating angina and is being optimally treated with aspirin, metoprolol, atorvastatin, once-daily extended-release isosorbide mononitrate, and as-needed sublingual nitrate. He also has type 2 diabetes mellitus treated with metformin and liraglutide."
+]
+},
+{
+"type":"p",
+"hlId":"f219ea",
+"children":[
+"On physical examination, blood pressure is 112/72 mm Hg and pulse rate is 60/min. Coronary angiography reveals multivessel disease with involvement of the proximal left anterior descending artery; ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" is 50%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Change metoprolol to nifedipine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Coronary artery bypass grafting surgery"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase isosorbide mononitrate to twice daily"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Multivessel percutaneous intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f1d65a",
+"children":[
+"Coronary artery bypass grafting surgery is recommended for patients who remain symptomatic despite optimal medical therapy and have either left main disease or multivessel disease with involvement of the proximal left anterior descending artery, concomitant reduced systolic function, or diabetes mellitus."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4c9369",
+"children":[
+"A nitrate-free interval of 8 to 12 hours, generally at night, is needed to avoid nitrate tolerance and reduced efficacy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"32d50f",
+"children":[
+"The most appropriate management of this patient is coronary artery bypass grafting (CABG) surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). He has type 2 diabetes mellitus and multivessel coronary artery disease with severe symptoms despite optimal medical therapy. Compared with percutaneous coronary intervention (PCI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), performing CABG surgery as the initial revascularization strategy in patients with a clear indication is associated with improved outcomes, including reduced rates of death, myocardial infarction, and stroke. The FREEDOM trial evaluating management of multivessel coronary artery disease in patients with diabetes mellitus showed that the composite end point of death, myocardial infarction, and stroke was significantly lower in patients treated with CABG versus PCI. This difference was driven by a statistically significant reduction in the occurrence of death and myocardial infarction in patients undergoing CABG surgery, although stroke rates were higher in the CABG group than the PCI group. CABG is recommended for patients who have left main disease, triple vessel disease, and reduced systolic function, or multivessel disease with involvement of the proximal left anterior descending artery in the presence of diabetes."
+]
+},
+{
+"type":"p",
+"hlId":"eeb8b2",
+"children":[
+"Calcium channel blockers (CCBs) are a reasonable second-line therapy in patients who are intolerant of β-blockers or who have continued symptoms on β-blockers and nitrates. However, it would not be appropriate to switch to a nifedipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A)"
+]
+},
+" in this patient who currently tolerates β-blocker therapy. Furthermore, short-acting dihydropyridine formulations, such as short-acting nifedipine, should be avoided because they can paradoxically worsen angina by acutely lowering blood pressure, resulting in reflex tachycardia and increased myocardial oxygen demand. Nondihydropyridine CCBs should not be used in patients with left ventricular dysfunction, owing to the increased adverse events associated with their negative chronotropic and inotropic effects."
+]
+},
+{
+"type":"p",
+"hlId":"b92a7b",
+"children":[
+"Nitrates improve myocardial oxygen delivery through coronary vasodilation and reduce oxygen demand by reducing preload, thereby reducing ventricular wall stress. The beneficial effects may be offset by reflex tachycardia unless combined with β-blockers or CCBs. Short-acting sublingual nitrates should be prescribed for acute relief of angina. Long-acting nitrates, including isosorbide mononitrate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), provide constant vasodilation. A nitrate-free interval of 8 to 12 hours, generally at night, is needed to avoid nitrate tolerance and reduced efficacy. Increasing the patient's isosorbide mononitrate to twice daily will result in tolerance and worsening angina."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_1_3_3",
+"objective":{
+"__html":"Treat stable angina pectoris with coronary artery bypass grafting."
+},
+"references":[
+[
+"Patel MR, Calhoon JH, Dehmer GJ, et al. ACC/AATS/AHA/ASE/ASNC/SCAI/SCCT/STS 2017 appropriate use criteria for coronary revascularization in patients with stable ischemic heart disease: A report of the American College of Cardiology appropriate use criteria task force, American Association for Thoracic Surgery, American Heart Association, American Society of Echocardiography, American Society of Nuclear Cardiology, Society for Cardiovascular Angiography and Interventions, Society of Cardiovascular Computed Tomography, and Society of Thoracic Surgeons. J Am Coll Cardiol. 2017;69:2212-2241. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28291663",
+"target":"_blank"
+},
+"children":[
+"PMID: 28291663"
+]
+},
+" doi:10.1016/j.jacc.2017.02.001"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"c2d683",
+"f219ea",
+"cb2b54",
+"f1d65a",
+"4c9369",
+"32d50f",
+"eeb8b2",
+"b92a7b"
+]
+}

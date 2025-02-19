@@ -1,0 +1,263 @@
+{
+"id":"mk19_b_gm_q080",
+"number":80,
+"bookId":"gm2",
+"correctAnswer":"D",
+"title":"Question 80",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e1407e",
+"children":[
+"A 66-year-old man is evaluated in the emergency department for sudden onset of perineal pain that began 1 day ago. He also reports urinary frequency, urgency, and hesitancy, and fever and chills. He is not sexually active. Medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"fe0921",
+"children":[
+"On physical examination, temperature is 38.7 °C (101.8 °F); other vital signs are normal. On digital rectal examination, the prostate is tender, enlarged, and boggy. The remainder of the examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"142e54",
+"children":[
+"Which of the following is the most appropriate next management step?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the prostate"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Nitrofurantoin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prostatic massage followed by urine culture"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Trimethoprim-sulfamethoxazole"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Urinary catheter placement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f03583",
+"hvc":true,
+"children":[
+"Bacterial prostatitis is associated with acute onset of local symptoms (dysuria, urinary frequency and urgency, suprapubic and/or perineal pain) and systemic symptoms (fevers, chills, nausea/vomiting, malaise)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f7b00d",
+"hvc":true,
+"children":[
+"Oral trimethoprim-sulfamethoxazole or an oral fluoroquinolone (ciprofloxacin, levofloxacin) is an appropriate empiric antibiotic for acute bacterial prostatitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51d6dc",
+"children":[
+"The most appropriate next step in management is empiric trimethoprim-sulfamethoxazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has acute bacterial prostatitis. These patients typically present with acute onset of local symptoms (dysuria, urinary frequency and urgency, suprapubic and/or perineal pain) and systemic symptoms (fevers, chills, nausea/vomiting, malaise). Most cases of acute bacterial prostatitis are caused by gram-negative bacteria, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterobacter"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Proteus"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Serratia"
+]
+},
+" species. Oral trimethoprim-sulfamethoxazole has both excellent coverage of gram-negative bacteria and prostatic tissue penetration. It is a reasonable empiric antibiotic choice in patients able to tolerate oral intake. A fluoroquinolone antibiotic (ciprofloxacin, levofloxacin) is also an appropriate empiric antibiotic choice. Antibiotic therapy should be initiated after a urine sample is obtained for analysis and culture and should be continued for 2 to 4 weeks; some experts recommend up to 6 weeks. Treatment can be modified on the basis of results of the urine culture."
+]
+},
+{
+"type":"p",
+"hlId":"a33f37",
+"children":[
+"CT or MRI of the prostate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated for patients with symptoms and physical examination findings of acute bacterial prostatitis. CT can be obtained if there is diagnostic uncertainty or if the patient does not improve after appropriate antibiotic therapy, because antibiotic failure raises the suspicion for prostate abscess."
+]
+},
+{
+"type":"p",
+"hlId":"98e3c2",
+"children":[
+"Although nitrofurantoin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is appropriate for uncomplicated cystitis, it has poor penetration into prostatic tissue. It is not indicated for a patient with acute bacterial prostatitis."
+]
+},
+{
+"type":"p",
+"hlId":"68450b",
+"children":[
+"Although prostatic massage followed by urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has a role in patients with suspected chronic bacterial prostatitis, it should be avoided in patients with acute bacterial prostatitis because it can potentially cause bacteremia and sepsis."
+]
+},
+{
+"type":"p",
+"hlId":"73c908",
+"children":[
+"Placement of a urinary catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is necessary in patients with prostatitis experiencing acute urinary retention. Acute urinary retention is usually associated with inability to urinate and lower abdominal and/or suprapubic discomfort. Although this patient has obstructive urinary symptoms, he has no evidence of acute urinary retention."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s6_7",
+"objective":{
+"__html":"Treat acute bacterial prostatitis."
+},
+"references":[
+[
+"Gill BC, Shoskes DA. Bacterial prostatitis. Curr Opin Infect Dis. 2016;29:86-91. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26555038",
+"target":"_blank"
+},
+"children":[
+"PMID: 26555038"
+]
+},
+" doi:10.1097/QCO.0000000000000222"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":2,
+"C":26,
+"D":63,
+"E":4
+},
+"hlIds":[
+"e1407e",
+"fe0921",
+"142e54",
+"f03583",
+"f7b00d",
+"51d6dc",
+"a33f37",
+"98e3c2",
+"68450b",
+"73c908"
+]
+}

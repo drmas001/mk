@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_gm_q054",
+"number":54,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 54",
+"stimulus":[
+{
+"type":"p",
+"hlId":"679a29",
+"children":[
+"A 68-year-old woman is evaluated in the hospital for agitated delirium. She has metastatic non–small cell lung cancer. She was admitted to the hospital 5 days ago with acute hypoxic respiratory failure, and she opted for a comfort-directed care strategy. She is currently receiving oxygen through nasal cannula and parenteral opioids for dyspnea and bone pain. She became agitated 2 days ago, and after a thorough search excluded reversible causes, she was treated with intravenous haloperidol. Response to haloperidol was initially positive but is now waning. Her only other medication is morphine."
+]
+},
+{
+"type":"p",
+"hlId":"0fcfd6",
+"children":[
+"On physical examination, pulse rate is 121/min, respiration rate is 26/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 93% breathing 3 L/min oxygen by nasal cannula. The patient is not oriented or responding appropriately to questions. She is agitated and is attempting to climb out of bed."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add parenteral lorazepam"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Change haloperidol to olanzapine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop haloperidol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop morphine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f99dbf",
+"children":[
+"Treatment with lorazepam and haloperidol may improve agitated delirium in patients at the end of life."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"10d21e",
+"children":[
+"The most appropriate next step in management is to add parenteral lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to the patient's current medications. Delirium is an acute-onset disorder associated with fluctuation in mental status. It may manifest as either inattention and agitation or hypoactivity. Terminally ill patients often experience delirium, and in elderly patients with cancer, delirium is associated with increased morbidity. Regardless of the presentation of delirium, diagnosis and treatment are indicated to ensure patient safety and to provide comfort to both patient and family. Potentially reversible causes of delirium, such as noise, medication side effects, pain, bladder distention, constipation, and dehydration, should be addressed. There is very little evidence supporting the use of antipsychotics, such as haloperidol, in the treatment of delirium, but they are commonly prescribed. Benzodiazepines are typically avoided for patients at the end of life, primarily because of greater incidence of paradoxical reactions, including worsened delirium. However, recent evidence from clinical trials show a potential benefit with the addition of lorazepam to haloperidol for agitated delirium in hospitalized patients at the end of life. In this case, the patient initially had a positive response to parenteral haloperidol, but it is now ineffective. Given that the goal of therapy is the patient's comfort, a trial of lorazepam and haloperidol would be reasonable at this time."
+]
+},
+{
+"type":"p",
+"hlId":"a5da5f",
+"children":[
+"There is no evidence to suggest that second-generation antipsychotics, such as olanzapine, (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are more effective than haloperidol in the management of patients with agitated delirium."
+]
+},
+{
+"type":"p",
+"hlId":"30b2ef",
+"children":[
+"Stopping haloperidol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be considered until a trial of haloperidol and lorazepam can be evaluated as a treatment for this patient's agitated delirium."
+]
+},
+{
+"type":"p",
+"hlId":"e99cd2",
+"children":[
+"This patient was started on opioids to manage pain from bony metastatic lung cancer as well as dyspnea refractory to medical management, two indications for which opioids are considered first-line therapy. In a patient receiving comfort-directed care, pain management with morphine should not be discontinued (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s6_3_8",
+"objective":{
+"__html":"Treat delirium at the end of life."
+},
+"references":[
+[
+"Hui D, Frisbee-Hume S, Wilson A, et al. Effect of lorazepam with haloperidol vs haloperidol alone on agitated delirium in patients with advanced cancer receiving palliative care: a randomized clinical trial. JAMA. 2017;318:1047-56. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28975307",
+"target":"_blank"
+},
+"children":[
+"PMID: 28975307"
+]
+},
+" doi:10.1001/jama.2017.11468"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":36,
+"B":26,
+"C":22,
+"D":17,
+"E":0
+},
+"hlIds":[
+"679a29",
+"0fcfd6",
+"1a5dcc",
+"f99dbf",
+"10d21e",
+"a5da5f",
+"30b2ef",
+"e99cd2"
+]
+}

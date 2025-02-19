@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gm_q038",
+"number":38,
+"bookId":"gm",
+"correctAnswer":"A",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5f6d3b",
+"children":[
+"A 67-year-old woman is evaluated after admission to the hospital for severely painful and progressive ulcerations on her abdomen and lower extremities due to calciphylaxis. She rates the pain as an 8 on a 10-point scale. Her medical history includes type 2 diabetes mellitus, end-stage kidney disease managed with hemodialysis, and hypertension. Medications are sevelamer, sodium bicarbonate, amlodipine, labetalol, and basal and prandial insulin."
+]
+},
+{
+"type":"p",
+"hlId":"cd279e",
+"children":[
+"On physical examination, the patient appears to be in acute pain. Vital signs are normal. Multiple areas of violaceous erythema, three with raised black eschars, are seen on the abdomen and thighs."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a9ee65",
+"children":[
+"Which of the following is the most appropriate pain treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous hydromorphone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous morphine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral oxycodone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral tramadol"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transdermal fentanyl patch"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"555c9f",
+"children":[
+"Hydromorphone is cleared during hemodialysis, which gives it a more favorable safety profile for patients on dialysis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e9731a",
+"children":[
+"Morphine is contraindicated in patients with end-stage kidney disease because of accumulation of active metabolites that can lead to neurotoxicity."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"865f49",
+"children":[
+"The most appropriate treatment is intravenous hydromorphone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to control this patient's acute severe somatic and neuropathic pain caused by calciphylaxis. Hydromorphone is a μ-opioid receptor agonist that is primarily metabolized by the liver and is also cleared during hemodialysis, which gives it a more favorable safety profile than other opioids for patients with kidney disease or on dialysis. Neuroexcitatory metabolites can accumulate between dialysis treatments, and care still must be taken to prevent toxicity. Although the enteral route should be used whenever possible, parenteral opioids are appropriate for immediate control of severe pain because of their rapid onset of action, within 5 to 15 minutes. After intravenous hydromorphone administration, this patient's underlying condition should be evaluated and treated, and the patient should be rotated to oral opioid therapy once the acute severe pain is controlled. The state prescription drug monitoring database should be reviewed to identify previous prescriptions for the patient, which will help inform further treatment and the eventual transition to oral medication."
+]
+},
+{
+"type":"p",
+"hlId":"bc677c",
+"children":[
+"Parenteral morphine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is contraindicated in patients with end-stage kidney disease on hemodialysis because of accumulation of active metabolites that can lead to neurotoxicity."
+]
+},
+{
+"type":"p",
+"hlId":"c12583",
+"children":[
+"In this patient with acute severe pain, intravenous treatment is preferable to oral medication, including oxycodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and tramadol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), because of the slower onset of action through the oral route. Tramadol is a weak μ-opioid receptor agonist with noradrenergic and serotonergic activity. Its active metabolites accumulate in the setting of kidney failure, making it an inappropriate choice for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"75c279",
+"children":[
+"Because of its lack of clinically active metabolites in the setting of kidney failure, fentanyl delivered via a transdermal patch (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is a reasonable choice in patients with end-stage kidney disease on dialysis who have an established clinical need for basal analgesia and ongoing opioid therapy. However, for this patient with acute pain, a fentanyl patch would not be an appropriate choice because the patient's overall analgesic needs must be evaluated first, and the delivery method of a transdermal patch takes effect more slowly than intravenously administered medication."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s5_3_3",
+"objective":{
+"__html":"Treat acute pain in a hospital setting."
+},
+"references":[
+[
+"Herzig SJ, Mosher HJ, Calcaterra SL, et al. Improving the safety of opioid use for acute noncancer pain in hospitalized adults: a consensus statement from the Society of Hospital Medicine. J Hosp Med. 2018;13:263-71. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29624189",
+"target":"_blank"
+},
+"children":[
+"PMID: 29624189"
+]
+},
+" doi:10.12788/jhm.2980"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":37,
+"B":23,
+"C":14,
+"D":8,
+"E":19
+},
+"hlIds":[
+"5f6d3b",
+"cd279e",
+"a9ee65",
+"555c9f",
+"e9731a",
+"865f49",
+"bc677c",
+"c12583",
+"75c279"
+]
+}

@@ -1,0 +1,615 @@
+{
+"id":"mk19_b_hm_q029",
+"number":29,
+"bookId":"hm",
+"correctAnswer":"C",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f5288f",
+"children":[
+"A 28-year-old woman is evaluated for a 3-day history of fever and pharyngitis. Medical history is significant for hyperthyroidism diagnosed 3 months ago. She consumes a vegetarian diet. Her only medication is methimazole."
+]
+},
+{
+"type":"p",
+"hlId":"f38448",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F); other vital signs are normal. Posterior pharyngeal erythema is noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fa79c8",
+"class":"cell text l",
+"children":[
+"13.9 g/dL (139 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dec21e",
+"class":"cell text l",
+"children":[
+"2300/μL (2.3 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (20% neutrophils, 72% lymphocytes, 8% monocytes)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft2"
+},
+"children":[
+{
+"type":"p",
+"hlId":"efe1e4",
+"class":"cell text li",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Absolute neutrophil count",
+"children":[
+"Absolute neutrophil count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"bf80a9",
+"class":"cell text l",
+"children":[
+"460/μL (0.46 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"42dff3",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular volume",
+"children":[
+"Mean corpuscular volume"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f4c0a9",
+"class":"cell text l",
+"children":[
+"92 fL"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a2448a",
+"class":"cell text l",
+"children":[
+"302,000/μL (302 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Benign ethnic neutropenia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cyclic neutropenia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Drug-induced neutropenia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Vitamin B<sub>12</sub> deficiency"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"184dbd",
+"children":[
+"Neutropenia is defined as a circulating absolute neutrophil count (ANC) less than 1500/μL (1.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L); severe neutropenia is an ANC less than 500/μL (0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"24e4c2",
+"children":[
+"Medications are a common cause of neutropenia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"07bf98",
+"children":[
+"The most likely diagnosis is drug-induced neutropenia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Neutropenia is defined as a circulating absolute neutrophil count (ANC) less than 1500/μL (1.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L); severe neutropenia is an ANC less than 500/μL (0.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). The differential diagnosis for neutropenia is broad. Degree of neutropenia, acuity of onset, and presence of other abnormalities in the complete blood count, such as anemia or thrombocytopenia, are helpful in differentiating the potential cause. Review of medications is important in the evaluation of neutropenia because medications are a common cause. Drug-induced neutropenia results from impairment of normal granulopoiesis in the bone marrow or through a drug-dependent, antibody-mediated immune destruction of circulating neutrophils. The thionamides propylthiouracil and methimazole are among the drugs known to cause agranulocytosis; although the overall prevalence is low (around 0.5%), the risk is higher compared with other drug classes. Agranulocytosis is more likely to occur within the first 3 months of drug initiation, is more common in women, and appears to be dose related with methimazole. The ANC should recover within 1 to 3 weeks after discontinuing the medication."
+]
+},
+{
+"type":"p",
+"hlId":"bb609f",
+"children":[
+"Benign ethnic neutropenia (BEN) is more common in patients of African descent (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Patients with BEN are asymptomatic, and its presence does not increase risk for infections. It is associated with a persistent, mild-to-moderate degree of neutropenia, rarely with an ANC less than 1000/μL (1 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L). This patient's degree of neutropenia is much greater than would be expected with BEN."
+]
+},
+{
+"type":"p",
+"hlId":"ff48b1",
+"children":[
+"Cyclic neutropenia is a rare genetic cause of symptomatic neutropenia that recurs every 3 weeks (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The neutropenia can be severe (<200/μL [0.2 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L]); lasts for 2 to 3 days; and is associated with recurrent fever, oral ulcerations, and infections. In this patient, the recent initiation of methimazole is a more likely cause of neutropenia."
+]
+},
+{
+"type":"p",
+"hlId":"747874",
+"children":[
+"Vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" is necessary for DNA synthesis and can be associated with pancytopenia. Vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency is more likely to occur in those who are vegetarians because vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" is not found in plant-based foods. However, her normal hemoglobin level and mean corpuscular volume do not support a diagnosis of vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" deficiency (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s1_1",
+"objective":{
+"__html":"Diagnose drug-induced neutropenia."
+},
+"references":[
+[
+"Curtis BR. Non-chemotherapy drug-induced neutropenia: key points to manage the challenges. Hematology Am Soc Hematol Educ Program. 2017;2017:187-193. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29222255",
+"target":"_blank"
+},
+"children":[
+"PMID: 29222255"
+]
+},
+" doi:10.1182/asheducation-2017.1.187"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":3,
+"C":90,
+"D":6,
+"E":0
+},
+"hlIds":[
+"f5288f",
+"f38448",
+"a462a3",
+"f9867c",
+"fa79c8",
+"2989c0",
+"dec21e",
+"efe1e4",
+"bf80a9",
+"42dff3",
+"f4c0a9",
+"fcac73",
+"a2448a",
+"413696",
+"184dbd",
+"24e4c2",
+"07bf98",
+"bb609f",
+"ff48b1",
+"747874"
+]
+}

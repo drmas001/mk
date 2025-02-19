@@ -1,0 +1,200 @@
+{
+"id":"mk19_a_nr_q035",
+"number":35,
+"bookId":"nr",
+"correctAnswer":"E",
+"title":"Question 35",
+"stimulus":[
+{
+"type":"p",
+"hlId":"dbd2f4",
+"children":[
+"A 64-year-old man is hospitalized for right-sided weakness and slurred speech of 24 hours' duration. He has hypertension and dyslipidemia. Current medications are aspirin and high-intensity atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"90b6be",
+"children":[
+"On physical examination, blood pressure is 190/88 mm Hg and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. The remaining vital signs are normal. Abnormal physical examination findings are confined to right facial weakness and right arm and leg pronator drift. National Institutes of Health Stroke Scale score is 3."
+]
+},
+{
+"type":"p",
+"hlId":"a537c3",
+"children":[
+"ECG is normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+" level is 0.9 mg/dL (79.6 µmol/L), and cardiac biomarkers are negative."
+]
+},
+{
+"type":"p",
+"hlId":"7b0fe5",
+"children":[
+"CT scan of the head shows a left frontal infarction. CT angiogram shows 80% stenosis of middle cerebral artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c4ff97",
+"children":[
+"Which of the following is the most appropriate immediate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chlorthalidone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Furosemide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intracranial stenting"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Lisinopril"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No additional intervention or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"57f3d8",
+"hvc":true,
+"children":[
+"In patients not eligible for thrombolytic therapy, the blood pressure (BP) threshold for initiating antihypertensive therapy is greater than 220/120 mm Hg; reduction of BP by 15% during the first 24 hours may then be reasonable."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3b023a",
+"children":[
+"The most appropriate immediate action is no further intervention or treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). The patient has had a minor ischemic stroke (National Institutes of Health Stroke Scale score of 3) due to high-grade stenosis of the middle cerebral artery. He is receiving the most appropriate medical therapy, including aspirin and a high-intensity statin. In the long term, the patient will require control of hypertension. A target blood pressure less than 130/80 mm Hg is considered a reasonable therapeutic target for most patients. In the first 48 hours, however, and especially in patients with symptomatic intracranial stenosis, lowering blood pressure is associated with neurologic worsening."
+]
+},
+{
+"type":"p",
+"hlId":"4ef057",
+"children":[
+"Furosemide, chlorthalidone, and lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options A-C"
+]
+},
+") are not appropriate because blood pressure lowering in the acute setting is associated with neurologic worsening. Acute lowering of blood pressure is indicated if clinical findings suggest end-organ damage, including active ischemic coronary disease, heart failure, aortic dissection, or hypertensive encephalopathy. Treatment in the acute setting is also indicated in patients who are receiving intravenous alteplase, to maintain the blood pressure less than 180/105 mm Hg. In others, treatment is indicated if blood pressure exceeds 220/120 mm Hg. In these patients, it might be reasonable to lower blood pressure by 15% during the first 24 hours after onset of stroke. For this patient with recent minor noncardioembolic ischemic stroke, dual antiplatelet therapy (aspirin plus clopidogrel) should be initiated early (at least within 7 days of onset) and continued for 21 to 90 days, followed by aspirin to reduce the risk of recurrent ischemic stroke."
+]
+},
+{
+"type":"p",
+"hlId":"57c018",
+"children":[
+"Intracranial stenting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of symptomatic intracranial arterial stenosis is not appropriate because it is associated with a high risk for procedural stroke and no long-term reduction in risk for subsequent stroke. Stenting can be considered on a case-by-case basis if the patient has additional infarcts despite adherence to best medical therapy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_2",
+"objective":{
+"__html":"Manage elevated blood pressure in a patient with ischemic stroke."
+},
+"references":[
+[
+"Powers WJ, Rabinstein AA, Ackerson T, et al; American Heart Association Stroke Council. 2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association. Stroke. 2018;49:e46-e110. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29367334",
+"target":"_blank"
+},
+"children":[
+"PMID: 29367334"
+]
+},
+" doi:10.1161/STR.0000000000000158"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":4,
+"B":1,
+"C":33,
+"D":29,
+"E":33
+},
+"hlIds":[
+"dbd2f4",
+"90b6be",
+"a537c3",
+"7b0fe5",
+"c4ff97",
+"57f3d8",
+"3b023a",
+"4ef057",
+"57c018"
+]
+}

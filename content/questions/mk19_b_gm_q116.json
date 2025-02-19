@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_gm_q116",
+"number":116,
+"bookId":"gm2",
+"correctAnswer":"E",
+"title":"Question 116",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fbe5dd",
+"children":[
+"A 72-year-old man is admitted to the hospital with cellulitis of the right lower extremity. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"ea04e7",
+"children":[
+"On physical examination, temperature is 38.7 °C (101.8 °F), blood pressure is 150/80 mm Hg, pulse rate is 111/min, and respiration rate is 22/min. There is extensive erythema, warmth, swelling and tenderness extending from the midcalf to the left medial malleolus and dorsomedial aspect of the right foot. There is no fluctuance or drainage."
+]
+},
+{
+"type":"p",
+"hlId":"40f33f",
+"children":[
+"Doppler ultrasound of the right lower extremity shows no evidence of deep venous thrombosis or fluid collection. Intravenous cefazolin is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"120b35",
+"children":[
+"Which of the following is the most appropriate management for preventing venous thromboembolism?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Direct oral anticoagulant"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intermittent pneumatic compression (IPC)"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"IPC and direct oral anticoagulant"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"IPC and low-molecular-weight heparin (LMWH)"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"LMWH"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0831d1",
+"hvc":true,
+"children":[
+"In acutely ill medical patients, parenteral anticoagulation using low-molecular-weight heparin, unfractionated heparin, or fondaparinux is suggested to prevent venous thromboembolism."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8cb821",
+"hvc":true,
+"children":[
+"In acutely ill medical patients, parenteral anticoagulation to prevent venous thromboembolism is suggested over oral anticoagulants and over mechanical prophylaxis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d2eb10",
+"children":[
+"The most appropriate management for preventing venous thromboembolism (VTE) in this hospitalized patient is low-molecular-weight heparin (LMWH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). Rates of VTE (both pulmonary embolism and deep venous thrombosis) are elevated in acutely ill medical patients. Acutely ill medical patients are patients hospitalized for a medical illness. In acutely ill medical patients, the 2018 American Society of Hematology (ASH) guideline suggests parenteral anticoagulation using LMWH, unfractionated heparin (UFH), or fondaparinux to prevent VTE. In critically ill patients, the ASH guideline prefers LMWH to UFH."
+]
+},
+{
+"type":"p",
+"hlId":"e53f6b",
+"children":[
+"In acutely ill medical patients requiring VTE chemoprophylaxis, the ASH and other guidelines recommend use of parenteral anticoagulants over oral anticoagulants. Direct oral anticoagulants (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are increasingly used as the agent of choice for postsurgical VTE prophylaxis, and in the 2019 ASH VTE guideline, direct oral anticoagulants are preferred over LMWH for postoperative VTE prophylaxis in total knee and hip arthroplasty."
+]
+},
+{
+"type":"p",
+"hlId":"a923fa",
+"children":[
+"In acutely or critically ill medical patients, the ASH guideline suggests using pharmacologic VTE prophylaxis over mechanical VTE prophylaxis, such as intermittent pneumatic compression (IPC) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or gradient stockings. IPC is indicated for a patient at increased risk for VTE and at high risk for major bleeding or experiencing bleeding on prophylactic-dose anticoagulants. It is also very unlikely that this patient with extensive cellulitis would tolerate the discomfort of IPC or gradient stockings."
+]
+},
+{
+"type":"p",
+"hlId":"f7c225",
+"children":[
+"In acutely ill medical patients, the ASH guideline panel does not suggest combined use of IPC devices and parenteral anticoagulation prophylaxis over parenteral anticoagulation alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+"). This recommendation is based on low-quality evidence because there are no trials comparing both strategies in this population. The ASH guideline recommends combined mechanical and pharmacologic prophylaxis over pharmacologic prophylaxis alone in the hospitalized surgical patient."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s3_3",
+"objective":{
+"__html":"Prevent venous thromboembolism in a hospitalized patient."
+},
+"references":[
+[
+"Schünemann HJ, Cushman M, Burnett AE, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: prophylaxis for hospitalized and nonhospitalized medical patients. Blood Adv. 2018;2:3198-225. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482763",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482763"
+]
+},
+" doi:10.1182/bloodadvances.2018022954"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":4,
+"C":3,
+"D":14,
+"E":73
+},
+"hlIds":[
+"fbe5dd",
+"ea04e7",
+"40f33f",
+"120b35",
+"0831d1",
+"8cb821",
+"d2eb10",
+"e53f6b",
+"a923fa",
+"f7c225"
+]
+}

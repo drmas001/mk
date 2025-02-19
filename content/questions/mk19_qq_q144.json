@@ -1,0 +1,198 @@
+{
+"id":"mk19_qq_q144",
+"number":144,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 144",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6e6e24",
+"children":[
+"A 59-year-old man is evaluated because of a 5-week history of progressive exertional dyspnea. Three months ago, he was evaluated for palpitations with transthoracic echocardiogram, which showed normal left ventricular size, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 65%, and moderate mitral regurgitation."
+]
+},
+{
+"type":"p",
+"hlId":"9efe3b",
+"children":[
+"On physical examination, vital signs are normal. There is a grade 3/6 holosystolic murmur radiating to the axilla. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"565145",
+"children":[
+"ECG shows sinus rhythm."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"B-type natriuretic peptide measurement"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac MRI"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"944769",
+"children":[
+"All patients with valvular heart disease should undergo repeat transthoracic echocardiography with any change in clinical status."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9796d3",
+"children":[
+"In patients with valvular heart disease, transthoracic echocardiography can evaluate valve function and other causes of progressive shortness of breath, such as an interval reduction in left ventricular ejection fraction or new wall motion abnormalities suggestive of myocardial infarction."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"7fa67d",
+"children":[
+"Transthoracic echocardiography (TTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the most appropriate test in this patient with moderate mitral regurgitation (MR) and a change in clinical status. Periodic TTE is indicated in patients with MR, and frequency is dependent on regurgitation severity, rate of progression, left ventricular ejection fraction, and left ventricular chamber size. All patients should undergo repeat TTE with any change in clinical status. In patients with myxomatous mitral valve disease, rupture of a valve chorda may cause an acute change in the degree of mitral regurgitation. TTE also evaluates other causes of progressive shortness of breath, such as an interval reduction in left ventricular ejection fraction or new wall motion abnormalities suggestive of myocardial infarction."
+]
+},
+{
+"type":"p",
+"hlId":"fe42c7",
+"children":[
+"Measurement of natriuretic peptide levels, such as B-type natriuretic peptide (BNP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), provides objective evidence of decompensation in patients with chronic severe MR. Elevated BNP levels indicate increased reliance on preload to maintain an adequate forward cardiac output, and finding elevated levels may be helpful in making management decisions about intervention when other data are conflicting. Although BNP measurement may be necessary in this patient's evaluation at some point in time, the first diagnostic step is to repeat the TTE."
+]
+},
+{
+"type":"p",
+"hlId":"caab54",
+"children":[
+"In patients with primary MR, cardiac MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated to assess left and right ventricular volumes and function and may help with assessing MR severity when there is a discrepancy between the findings on clinical assessment and echocardiography. Cardiac MRI may also be helpful in cases when TTE image quality is poor. However, in most cases, TTE provides the data needed for adequate cardiac evaluation and should be the first imaging test performed."
+]
+},
+{
+"type":"p",
+"hlId":"d363c9",
+"children":[
+"Transesophageal echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is indicated when TTE provides insufficient or discordant information and is needed to evaluate the severity of MR, mechanism of MR, and status of left ventricular function, particularly when surgical or interventional therapy is planned. Transesophageal echocardiography may be especially useful in evaluating for acute MR, in which rapid systolic equalization of left ventricular and atrial pressures can pose challenges for both the bedside examination and TTE. However, the initial management of this patient with a change in clinical status is noninvasive TTE."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_6_1",
+"objective":{
+"__html":"Evaluate a patient with mitral regurgitation and recent change in clinical status."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: A report of the American College of Cardiology/American Heart Association joint committee on clinical practice guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"6e6e24",
+"9efe3b",
+"565145",
+"c5165c",
+"944769",
+"9796d3",
+"7fa67d",
+"fe42c7",
+"caab54",
+"d363c9"
+]
+}

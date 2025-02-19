@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q061",
+"number":61,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 61",
+"stimulus":[
+{
+"type":"p",
+"hlId":"49611a",
+"children":[
+"A 61-year-old man is evaluated for recently diagnosed hypogonadism, for which testosterone therapy will be initiated. He has no history of prostate cancer, cardiovascular disease, or venous thromboembolic disease. He has no symptoms of excessive daytime sleepiness. A previous digital prostate examination revealed no nodules or areas of asymmetry."
+]
+},
+{
+"type":"p",
+"hlId":"25d34f",
+"children":[
+"Hematocrit level is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"d72b05",
+"children":[
+"Which of the following is the most appropriate next step before initiating testosterone therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Factor V Leiden screening"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Home sleep study"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prostate-specific antigen measurement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urology consultation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"689307",
+"children":[
+"Potential adverse effects of testosterone replacement therapy include acne, prostate enlargement and prostate cancer, obstructive sleep apnea, thrombophilia, and erythrocytosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"479de9",
+"children":[
+"Measurement of prostate-specific antigen level should be done before initiating testosterone replacement therapy in men older than 40 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c318db",
+"children":[
+"Potential adverse effects of testosterone replacement therapy include acne, prostate enlargement and prostate cancer, obstructive sleep apnea, thrombophilia, and erythrocytosis. The 2018 American Urological Association (AUA) guidelines recommend measuring prostate-specific antigen (PSA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to exclude a prostate cancer diagnosis in men older than 40 years before starting testosterone therapy. The AUA also recommends the PSA test for patients with testosterone deficiency who maintain testosterone levels in the normal range, using a shared decision-making approach. The AUA does not recommend routine PSA testing in men aged 40 to 54 years unless they are at higher risk (AUA cited risk factors include positive family history and Black race), for whom PSA testing decisions should be individualized. In men aged 55 to 69 years, biennial PSA testing should be considered. The 2018 Endocrine Society guidelines recommend that men who begin testosterone treatment and are older than age 50 years (or 40 years if at high risk) should be reevaluated for prostate cancer with PSA testing at 3 months and 1 year after beginning treatment and thereafter according to the standard of care. An increase in PSA greater than 1.4 ng/mL (1.4 μg/L) at 1 year or greater than 0.4 ng/mL (0.4 μg/L) after 6 months of testosterone use or abnormal results on digital rectal examination should prompt further investigation for prostate cancer. A hematocrit level should also be obtained at baseline and then at 3 months and 6 months after therapy initiation, followed by yearly measurements."
+]
+},
+{
+"type":"p",
+"hlId":"34760f",
+"children":[
+"Venous thromboembolic disease (VTE) risk is increased in men receiving testosterone replacement therapy. A careful family and personal history for VTE disease should precede testosterone therapy. However, routine screening for thrombophilia with factor V Leiden (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") screening or for other thrombophilic disorders is not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"947e20",
+"children":[
+"The most important established consequence of obstructive sleep apnea (OSA) is excessive daytime sleepiness. Home sleep testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") does not measure electroencephalographic sleep as polysomnography does. However, home sleep testing is diagnostically similar in otherwise healthy patients (without underlying cardiopulmonary or neuromuscular disease) who are suspected of having at least moderate to severe OSA. This patient has no symptoms to suggest OSA."
+]
+},
+{
+"type":"p",
+"hlId":"7ca9a5",
+"children":[
+"Urology consultation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be obtained if the PSA level is elevated before the initiation of testosterone replacement therapy or if a palpable abnormality of the prostate gland is found. Routine referral for urology consultation is not indicated before starting testosterone replacement therapy."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_5_2",
+"objective":{
+"__html":"Evaluate safety of testosterone replacement therapy."
+},
+"references":[
+[
+"Bhasin S, Brito JP, Cunningham GR, et al. Testosterone therapy in men with hypogonadism: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2018;103:1715-1744. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29562364",
+"target":"_blank"
+},
+"children":[
+"PMID: 29562364"
+]
+},
+" doi:10.1210/jc.2018-00229"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":8,
+"C":80,
+"D":5,
+"E":0
+},
+"hlIds":[
+"49611a",
+"25d34f",
+"d72b05",
+"689307",
+"479de9",
+"c318db",
+"34760f",
+"947e20",
+"7ca9a5"
+]
+}

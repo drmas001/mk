@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q050",
+"number":50,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8e6624",
+"children":[
+"A 57-year-old woman with peripheral artery disease is evaluated prior to elective cholecystectomy."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f050",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f050"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"a9e9ee",
+"children":[
+"Which of the following is the most likely electrocardiographic diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bifascicular block conduction delay"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Left anterior fascicular block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Left posterior fascicular block"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Right bundle branch block"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6ddb2d",
+"children":[
+"This ECG demonstrates left posterior fascicular block, which occurs when conduction system disease involves the posterior fascicle of the left bundle branch. It is defined as a pathologic right axis (>+90 degrees) with no other cause (such as right ventricular hypertrophy). The QRS duration is less than 120 ms with a negative QRS complex (small R wave and deep S wave) in leads I and aVL and a qR pattern in leads III and aVF. Left anterior fascicular block is recognized by a positive QRS complex in lead I and a negative QRS complex in lead aVF. Right bundle branch conduction disturbance combined with anterior or posterior left bundle branch block is called bifascicular block."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Identify ECG features of left posterior fascicular block."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f050":{
+"id":"vdx4_cv_mcq_f050",
+"number":50,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"dc568b38c025ca75b08ef8571e1d5e2d",
+"height":340,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"8e6624",
+"4a9f79",
+"a9e9ee",
+"6ddb2d"
+]
+}

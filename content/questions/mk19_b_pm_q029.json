@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q029",
+"number":29,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 29",
+"stimulus":[
+{
+"type":"p",
+"hlId":"303bb8",
+"children":[
+"A 62-year-old woman is evaluated in the emergency department for fatigue, headaches, confusion, and weakness that have progressed over the past 6 weeks. She has an 11.3 kg (25 lb) unintentional weight loss over the past month. She has an 85-pack-year history of smoking and quit smoking 3 months ago."
+]
+},
+{
+"type":"p",
+"hlId":"b69680",
+"children":[
+"On physical examination, blood pressure is 125/75 mm Hg, pulse rate is 92/min, respiration rate is 21/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 89% with the patient breathing ambient air. BMI is 17. An expiratory wheeze is noted on the left side. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"c72560",
+"children":[
+"Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, Sodium, serum",
+"children":[
+"serum sodium"
+]
+},
+" level of 123 mEq/L (123 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"d85dcb",
+"children":[
+"CT scan of the chest shows a 4-cm mediastinal mass compressing the left upper lobe bronchus with associated bulky mediastinal lymphadenopathy."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adenocarcinoma of lung"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Fibrosing mediastinitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Large cell lung cancer"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Small cell lung cancer"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"78c894",
+"children":[
+"Small cell lung cancer typically presents as bulky symptomatic masses with mediastinal involvement, and is associated with paraneoplastic syndromes—most frequently, the syndrome of inappropriate antidiuretic hormone secretion."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cf5c74",
+"children":[
+"The most likely diagnosis is small cell lung cancer (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). There are two major classes of lung cancer: non–small cell lung cancer (NSCLC) and small cell lung cancer (SCLC). Small cell lung cancer typically presents as bulky symptomatic masses with mediastinal involvement. It originates from neuroendocrine cell precursors and is characterized by rapid growth and early metastases. Extrathoracic spread is present in 75% to 80% of patients at initial diagnosis. Symptom onset is rapid (typically <8-12 weeks) and includes cough, wheezing, dyspnea, hemoptysis, weight loss, fatigue, anorexia, and manifestations of paraneoplastic syndromes. The most frequent paraneoplastic syndrome is the syndrome of inappropriate antidiuretic hormone secretion (SIADH). This syndrome results from production of antidiuretic hormone by malignant cells. Other paraneoplastic syndromes associated with SCLC include Cushing syndrome, Lambert-Eaton syndrome, encephalomyelitis, and sensory neuropathy. This patient has a lung mass with bulky mediastinal lymphadenopathy and hyponatremia (secondary to SIADH), making small cell lung cancer the most likely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"726a8d",
+"children":[
+"Approximately 80% of lung cancer cases are NSCLC, which is divided into adenocarcinoma, squamous cell carcinoma, and large cell carcinoma. Adenocarcinoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most common NSCLC and accounts for almost all lung cancer diagnoses in nonsmokers. The most frequent location of adenocarcinoma is in the peripheral aspects of the lung parenchyma as a solitary nodule or mass. Squamous cell carcinoma is the second most common subtype of NSCLC. It correlates highly with smoking history and usually originates in the central airways. Large cell carcinoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an undifferentiated carcinoma and characteristically presents as a peripheral mass with prominent necrosis. Adenocarcinoma and large cell carcinoma are not associated with SIADH-related hyponatremia."
+]
+},
+{
+"type":"p",
+"hlId":"d2b397",
+"children":[
+"Fibrosing mediastinitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a rare complication of previous histoplasmosis. It is characterized by an excessive fibrotic reaction in the mediastinum and can cause compression of adjacent structures, such as the airways, vessels, and esophagus. Fibrosing mediastinitis usually affects younger patients, slowly progresses over 2 to 5 years, and has calcifications on imaging. Thus, it is an unlikely diagnosis in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s7_2_1",
+"objective":{
+"__html":"Diagnose small cell lung cancer."
+},
+"references":[
+[
+"Wang S, Zimmermann S, Parikh K, et al. Current diagnosis and management of small-cell lung cancer. Mayo Clin Proc. 2019;94:1599-1622. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31378235",
+"target":"_blank"
+},
+"children":[
+"PMID: 31378235"
+]
+},
+" doi:10.1016/j.mayocp.2019.01.034"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":2,
+"C":4,
+"D":80,
+"E":0
+},
+"hlIds":[
+"303bb8",
+"b69680",
+"c72560",
+"d85dcb",
+"413696",
+"78c894",
+"cf5c74",
+"726a8d",
+"d2b397"
+]
+}

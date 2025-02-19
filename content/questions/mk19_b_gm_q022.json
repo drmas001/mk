@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_gm_q022",
+"number":22,
+"bookId":"gm2",
+"correctAnswer":"A",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b81496",
+"children":[
+"A 45-year-old man is evaluated during a routine visit. He reports no symptoms, and his medical and family history are unremarkable. He does not smoke cigarettes, and he engages in moderate exercise for 150 minutes per week and consumes a Mediterranean diet. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"cc7da5",
+"children":[
+"On physical examination, blood pressure is 120/78 mm Hg; other vital signs are normal. BMI is 25. The remainder of the physical examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4ac443",
+"children":[
+"Which of the following is the most appropriate cardiovascular disease assessment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Calculating cardiovascular disease risk"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Carotid artery ultrasonography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"ECG"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Exercise stress test"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No cardiovascular disease assessment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"aa4b22",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force recommends calculating the cardiovascular disease risk in adults aged 40 to 75 years using the Pooled Cohort Equations."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b20196",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force does not recommend screening for coronary artery disease with either resting or exercise ECG in asymptomatic patients at low risk."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9b2da7",
+"children":[
+"The U.S. Preventive Services Task Force (USPSTF) recommends calculating the cardiovascular disease risk (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in adults aged 40 to 75 years using the Pooled Cohort Equations. This requires measurement of serum lipid levels to determine risk for an atherosclerotic cardiovascular disease (ASCVD) event. The USPSTF recommendation has shifted away from routine measurement of serum lipid levels and toward identifying adults with a 10-year risk for a cardiovascular event that is 10% or greater. For adults 40 to 75 years of age, the American College of Cardiology/American Heart Association also recommends routine assessment of traditional cardiovascular risk factors and calculation of the 10-year risk for ASCVD by using the Pooled Cohort Equations."
+]
+},
+{
+"type":"p",
+"hlId":"0b1528",
+"children":[
+"The USPSTF does not recommend screening for carotid artery stenosis, such as carotid artery ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), in the general adult population. The rationale for this recommendation is based on the very low prevalence of carotid stenosis (0.5%-1%) and the resulting high rate of false-positive results yielded by commonly used ultrasonography. Auscultation of the neck for carotid bruits is ineffective for screening as well. Screening for carotid stenosis in asymptomatic patients could lead to harm as a result of complications from unnecessary angiographic studies or endarterectomy."
+]
+},
+{
+"type":"p",
+"hlId":"8a06d2",
+"children":[
+"The USPSTF does not recommend screening for coronary artery disease with either resting or exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options C, D"
+]
+},
+") in asymptomatic patients at low risk, defined by the USPSTF as a 10-year cardiovascular event risk less than 10% using the Pooled Cohort Equations. In patients at intermediate or high risk for such events, evidence was inadequate to assess the relative benefits and harms of screening (I statement). Similarly, the American College of Physicians recommends against screening low-risk and asymptomatic adults with resting or exercise ECG."
+]
+},
+{
+"type":"p",
+"hlId":"7424f3",
+"children":[
+"Cardiovascular disease is the leading cause of morbidity and mortality in the United States, accounting for 1 of every 3 deaths among adults. The rationale for calculating cardiovascular risk is that some asymptomatic individuals between 40 and 75 years of age without a history of cardiovascular disease may have undetected atherosclerotic changes and may be candidates for preventive interventions. Assessing cardiovascular risk to identify persons that will benefit from prevention strategies is reasonable (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_2_3_1_6",
+"objective":{
+"__html":"Assess cardiovascular disease risk."
+},
+"references":[
+[
+"Bibbins-Domingo K, Grossman DC, Curry SJ, et al; US Preventive Services Task Force. Statin use for the primary prevention of cardiovascular disease in adults: US Preventive Services Task Force recommendation statement. JAMA. 2016;316:1997-2007. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27838723",
+"target":"_blank"
+},
+"children":[
+"PMID: 27838723"
+]
+},
+" doi:10.1001/jama.2016.15450"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":45,
+"B":1,
+"C":2,
+"D":0,
+"E":52
+},
+"hlIds":[
+"b81496",
+"cc7da5",
+"4ac443",
+"aa4b22",
+"b20196",
+"9b2da7",
+"0b1528",
+"8a06d2",
+"7424f3"
+]
+}

@@ -1,0 +1,221 @@
+{
+"id":"mk19_b_en_q052",
+"number":52,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7ad3a0",
+"children":[
+"A 67-year-old man is evaluated for a 4-week history of headache and fatigue. He has metastatic melanoma and receives nivolumab every 2 weeks. The patient has otherwise been well and has no additional symptoms. He takes no other medications."
+]
+},
+{
+"type":"p",
+"hlId":"426ec6",
+"children":[
+"On physical examination, vital signs are normal. Confrontational visual field testing is normal. No focal neurologic findings are present."
+]
+},
+{
+"type":"p",
+"hlId":"7c6a2a",
+"children":[
+"On laboratory evaluation, adrenocorticotropin hormone and 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cortisol, serum, morning",
+"children":[
+"cortisol"
+]
+},
+" levels are low."
+]
+},
+{
+"type":"p",
+"hlId":"9965af",
+"children":[
+"Chest radiograph is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypophysitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Metastatic melanoma"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pituitary apoplexy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sarcoidosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"45a9f4",
+"children":[
+"Immune checkpoint inhibitors, including anti-programmed cell death protein-1 and anti-cytotoxic T-lymphocyte-associated protein-4 antibodies, can cause hypophysitis in 0.5% to 17% of patients and often presents with headache and fatigue."
+]
+},
+{
+"type":"keypoint",
+"hlId":"be3bd6",
+"children":[
+"Treatment of immune check point-related hypophysitis includes replacement of the hormone deficiencies in addition to high-dose glucocorticoids."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9f2db2",
+"children":[
+"The most likely diagnosis is immune checkpoint inhibitor-related hypophysitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). These drugs, including anti-programmed cell death protein-1 (anti-PD-1) (nivolumab, pembrolizumab) and anti-cytotoxic T-lymphocyte-associated protein-4 (anti-CTL-4) (ipilimumab, tremelimumab, and pembrolizumab) antibodies, are used to treat many solid tumors. Hypophysitis occurs in 0.5% to 17% of patients and often presents with headache and fatigue. Hypophysitis is more common in patients managed with anti-CTL-4 antibodies or combination therapy (anti-CTL-4 plus anti-PD-1 antibodies), in men, and in older patients. Although endocrine evaluation usually reveals adrenocorticotropic hormone, luteinizing hormone, and thyroid-stimulating hormone deficiency, as well as low levels of growth hormone, adrenocorticotropic hormone deficiency is the most immediate concern because cortisol deficiency can be life-threatening. Imaging demonstrates enhancement or enlargement of the pituitary gland with thickening of the pituitary stalk. Diabetes insipidus is uncommon. Treatment includes replacement of the hormone deficiencies and high-dose glucocorticoids in severe cases to treat the inflammatory process, although hormone deficiencies often persist. It is important to replace cortisol before initiation of thyroid hormone to avoid precipitating an adrenal crisis."
+]
+},
+{
+"type":"p",
+"hlId":"a0f328",
+"children":[
+"Metastasis to the pituitary gland is rare. Breast cancer and lung cancer are the solid malignancies most likely to metastasize to the pituitary gland. Although anterior pituitary hormone deficiency can occur in pituitary metastasis, diabetes insipidus is most often the initial presentation. In this case, hypophysitis is much more likely than metastatic melanoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"3c4b3a",
+"children":[
+"Rapid expansion of a pituitary tumor caused by pituitary apoplexy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), defined as sudden hemorrhage or infarction of a pituitary adenoma, typically causes sudden severe headache and compression of the optic chiasm (bitemporal hemianopsia) and may also be associated with cranial nerve palsies of nerves III, IV, and VI. The patient's 4-week history of fatigue and headache are unlike the acute and dramatic symptoms typically associated with pituitary apoplexy."
+]
+},
+{
+"type":"p",
+"hlId":"a1f1b0",
+"children":[
+"Pituitary infiltrative disorders, most often sarcoidosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") and Langerhans cell histiocytosis, can cause deficiencies of anterior pituitary hormones and diabetes insipidus. Most patients with pituitary sarcoidosis have evidence of sarcoidosis elsewhere, typically the lungs (>90% of cases). Isolated pituitary sarcoidosis is rare, and the absence of diabetes insipidus also argues against this diagnosis."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_3_1_2",
+"objective":{
+"__html":"Diagnose immune checkpoint inhibitor-related hypophysitis."
+},
+"references":[
+[
+"Albarel F, Castinetti F, Brue T. Management of endocrine disease: immune check point inhibitors-induced hypophysitis. Eur J Endocrinol. 2019;181:R107-R118. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31311002",
+"target":"_blank"
+},
+"children":[
+"PMID: 31311002"
+]
+},
+" doi:10.1530/EJE-19-0169"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":69,
+"B":14,
+"C":17,
+"D":0,
+"E":0
+},
+"hlIds":[
+"7ad3a0",
+"426ec6",
+"7c6a2a",
+"9965af",
+"413696",
+"45a9f4",
+"be3bd6",
+"9f2db2",
+"a0f328",
+"3c4b3a",
+"a1f1b0"
+]
+}

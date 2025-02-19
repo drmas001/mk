@@ -1,0 +1,188 @@
+{
+"id":"mk19_a_nr_q050",
+"number":50,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b33bc8",
+"children":[
+"A 67-year-old man comes to the office for a follow-up evaluation of secondary progressive multiple sclerosis (MS). He was diagnosed with relapsing-remitting MS 20 years ago and had his last relapse 6 years ago. His disease converted to a secondary progressive course 4 years ago, and 2.5 years ago, he became nonambulatory. His only medication is interferon-beta 1b."
+]
+},
+{
+"type":"p",
+"hlId":"ef875d",
+"children":[
+"On physical examination, all vital signs are normal. Marked spasticity is noted in the lower extremities. Muscle strength is grade 1/5 with hip and knee flexion, bilaterally, and grade 2/5 with ankle dorsiflexion, bilaterally. An indwelling suprapubic catheter is noted."
+]
+},
+{
+"type":"p",
+"hlId":"af693a",
+"children":[
+"A recent MRI of the brain shows multiple lesions consistent with MS that are unchanged from 2 years ago; gadolinium does not enhance the lesions."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"32bfdb",
+"children":[
+"Which of the following changes to the patient's immunomodulatory therapy is most appropriate?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Administer intravenous glucocorticoids"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue interferon beta-1b"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Substitute natalizumab for interferon beta-1b"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Substitute ocrelizumab for interferon beta-1b"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3c395a",
+"hvc":true,
+"children":[
+"Disease-modifying therapy should be discontinued in patients with secondary progressive MS who have been nonambulatory for more than 2 years and who have had no relapsing activity during that same period."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"687cee",
+"children":[
+"The most appropriate change is to discontinue the interferon beta-1b (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in this patient. His multiple sclerosis (MS) would be characterized currently as secondary progressive with progression but no activity. American Academy of Neurology guidelines recommend discontinuation of all disease-modifying therapy in patients with secondary progressive MS who have been nonambulatory for more than 2 years and who have had no relapsing activity during that same period. This patient has been nonambulatory for more than 2 years, has no evidence of MS activity within the past 2 years on a recent MRI, and has not had any relapses for 6 years. This recommendation is based on data from clinical trials in patients with progressive forms of MS that show a lack of benefit from disease-modifying drugs in patients of any age with high degrees of disability and no relapsing activity. Additionally, patients older than 65 years are more prone to infectious complications from disease-modifying therapy, which results in a risk-to-benefit ratio that does not favor treatment."
+]
+},
+{
+"type":"p",
+"hlId":"23e29b",
+"children":[
+"Courses of intravenous glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are only used as an acute treatment of MS relapses and are not indicated as disease-modifying therapy."
+]
+},
+{
+"type":"p",
+"hlId":"97d11a",
+"children":[
+"A clinical trial of natalizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with secondary progressive MS was unsuccessful, so this therapy cannot be recommended."
+]
+},
+{
+"type":"p",
+"hlId":"8fee00",
+"children":[
+"Ocrelizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is approved only for patients with relapsing-remitting MS and primary progressive MS and has not been approved for patients with secondary progressive MS."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_3_3",
+"objective":{
+"__html":"Manage secondary progressive multiple sclerosis in a nonambulatory patient."
+},
+"references":[
+[
+"Rae-Grant A, Day GS, Marrie RA, et al. Practice guideline recommendations summary: disease-modifying therapies for adults with multiple sclerosis. Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology. Neurology 2018;90(17);777-88. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29686116",
+"target":"_blank"
+},
+"children":[
+"PMID: 29686116"
+]
+},
+" doi:10.1212/WNL.0000000000005347."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":14,
+"B":18,
+"C":34,
+"D":34,
+"E":0
+},
+"hlIds":[
+"b33bc8",
+"ef875d",
+"af693a",
+"32bfdb",
+"3c395a",
+"687cee",
+"23e29b",
+"97d11a",
+"8fee00"
+]
+}

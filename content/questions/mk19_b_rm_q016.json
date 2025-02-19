@@ -1,0 +1,202 @@
+{
+"id":"mk19_b_rm_q016",
+"number":16,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 16",
+"stimulus":[
+{
+"type":"p",
+"hlId":"122ecc",
+"children":[
+"A 78-year-old man is evaluated at a follow-up visit. Two weeks ago, he presented with severe new-onset headaches, claudicative jaw pain, and proximal myalgia of all four limbs. He was diagnosed with biopsy-confirmed giant cell arteritis, and prednisone, 60 mg/d, was initiated. Since initiation of prednisone, his presenting symptoms have improved but he has also developed mood swings, insomnia, significant hyperglycemia, elevated blood pressure, and dependent edema. His other medical problems are type 2 diabetes mellitus, hypertension, dyslipidemia, and atherosclerotic coronary artery disease. Other current medications are aspirin, metformin, metoprolol, atorvastatin, losartan, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"4eb204",
+"children":[
+"On physical examination, blood pressure is 172/94 mm Hg and pulse rate is 90/min. Other than pitting pedal edema, the cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"a54c3f",
+"children":[
+"Point-of-care blood glucose level is 310 mg/dL (17.2 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"bd2799",
+"children":[
+"Changes in the patient's current medical regimen, including prednisone taper, are made to control glucose, blood pressure, and edema."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cyclophosphamide"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Infliximab"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Tocilizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6553df",
+"children":[
+"Generally accepted indications for a glucocorticoid-sparing agent in patients with giant cell arteritis include the presence of comorbid diseases that are negatively affected by glucocorticoids, development of glucocorticoid-related adverse effects, and prolonged need for glucocorticoids."
+]
+},
+{
+"type":"keypoint",
+"hlId":"6f2186",
+"children":[
+"Tocilizumab, an interleukin-6 blocker, is an effective glucocorticoid-sparing agent in the treatment of giant cell arteritis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"28df2d",
+"children":[
+"The most appropriate additional treatment is tocilizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Giant cell arteritis (GCA) is a medical emergency that requires immediate therapy. The risk for sudden and irreversible loss of vision is imminent in the absence of appropriate treatment. Symptoms and inflammatory markers usually respond rapidly to glucocorticoids. However, glucocorticoids have many adverse effects, and this patient will benefit from the addition of a glucocorticoid-sparing agent. Generally accepted indications for a glucocorticoid-sparing agent include the presence of comorbid diseases that are negatively affected by glucocorticoids, development of glucocorticoid-related adverse effects, and prolonged need for treatment. This patient meets all indications for a glucocorticoid-sparing agent. Tocilizumab, an interleukin-6 blocker, is highly effective for the treatment of GCA when administered during glucocorticoid tapering or as monotherapy following discontinuation of glucocorticoids. The 2021 American College of Rheumatology guidelines make a conditional recommendation for glucocorticoids with tocilizumab over oral glucocorticoids alone in patients with newly diagnosed GCA."
+]
+},
+{
+"type":"p",
+"hlId":"8c898d",
+"children":[
+"Cyclophosphamide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an immunosuppressive agent used to treat systemic vasculitis, such as granulomatosis with polyangiitis. Its use and effectiveness in patients with GCA are unproven, consisting mainly of a few uncontrolled studies involving small numbers of patients."
+]
+},
+{
+"type":"p",
+"hlId":"d8a735",
+"children":[
+"A randomized clinical trial demonstrated that infliximab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") did not reduce the proportion of patients with GCA relapses or increase the proportion of patients who could taper glucocorticoid dosages. Infliximab is not an effective agent for the treatment of GCA and should not be used."
+]
+},
+{
+"type":"p",
+"hlId":"95a37a",
+"children":[
+"Methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a glucocorticoid-sparing drug used in the treatment of GCA. Evidence on its effectiveness is mixed, and clinical effect seems to be modest at best."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s14_2_1_3",
+"objective":{
+"__html":"Treat giant cell arteritis with a glucocorticoid-sparing agent."
+},
+"references":[
+[
+"Maz M, Chung SA, Abril A, et al. 2021 American College of Rheumatology/Vasculitis Foundation guideline for the management of giant cell arteritis and Takayasu arteritis. Arthritis Rheumatol. 2021. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34235884",
+"target":"_blank"
+},
+"children":[
+"PMID: 34235884"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":13,
+"C":34,
+"D":40,
+"E":0
+},
+"hlIds":[
+"122ecc",
+"4eb204",
+"a54c3f",
+"bd2799",
+"78ff87",
+"6553df",
+"6f2186",
+"28df2d",
+"8c898d",
+"d8a735",
+"95a37a"
+]
+}

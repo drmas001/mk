@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_nr_q057",
+"number":57,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bb18d1",
+"children":[
+"A 27-year-old woman is evaluated for a 10-day history of involuntary movements involving the face, arms, and trunk. Symptoms began as occasional twitching of the limbs and then became more generalized and persistent to the point that now she has difficulty sitting still. She cannot suppress the movements voluntarily. The patient has no personal or family medical history of involuntary movements. She is otherwise well and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"cdc739",
+"children":[
+"On physical examination, vital signs are normal. Variable and random movements that flow from one body part to another are noted; the movements are not distractible. Gait has a prancing quality with flailing arms. Cognition is intact and motor strength and deep tendon reflexes are normal."
+]
+},
+{
+"type":"p",
+"hlId":"3219bb",
+"children":[
+"A complete blood count and comprehensive metabolic profile are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Genetic testing for Huntington disease"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Peripheral blood smear"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pregnancy test"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum ceruloplasmin measurement"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Spinal fluid analysis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a74131",
+"hvc":true,
+"children":[
+"Subacute onset of chorea is indicative of an acquired cause, whereas a more insidious course would be suggestive of neurodegenerative causes."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0a7f6a",
+"hvc":true,
+"children":[
+"Pregnancy should be considered as a potential cause of chorea in a young woman."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c183d3",
+"children":[
+"The most appropriate diagnostic test is a pregnancy test (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to diagnose chorea gravidarum. Chorea presents as random, nonrepetitive, flowing, dance-like movements that are not suppressible. Subacute onset of chorea is indicative of an acquired cause, whereas a more insidious course would be suggestive of neurodegenerative causes. Pregnancy should be considered as a potential cause of chorea in a young woman. Chorea can emerge early in pregnancy as a result of gestational hormonal changes and usually abates after childbirth. A history of rheumatic fever and antiphospholipid antibodies are risk factors for chorea gravidarum. Other acquired causes of acute or subacute chorea include medications, autoimmune disorders, endocrine disorders, and paraneoplastic syndromes."
+]
+},
+{
+"type":"p",
+"hlId":"43b3b2",
+"children":[
+"Huntington disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), the most common neurodegenerative cause of chorea, is a slowly progressive autosomal dominant condition caused by a trinucleotide repeat expansion in the huntingtin gene. Cognitive and mood symptoms often precede chorea. The rapid progression of chorea, the absence of a family history of Huntington disease, and the patient's normal cognition makes Huntington disease unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"70b06d",
+"children":[
+"Chorea-acanthocytosis is a neurodegenerative disorder. Detection of acanthocytes on a peripheral blood smear (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") helps with diagnosis. This patient's subacute course makes this diagnosis unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"970ea6",
+"children":[
+"Wilson disease should be considered in all patients younger than 40 years with involuntary movements. Measurement of serum ceruloplasmin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or 24-hour urine copper excretion can be diagnostic. The subacute course of symptoms and absence of tremor and dystonia in this patient make Wilson disease unlikely."
+]
+},
+{
+"type":"p",
+"hlId":"155b28",
+"children":[
+"Spinal fluid analysis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not a priority in the clinical evaluation of isolated chorea without encephalopathy. Acquired causes should first be ruled out with serologies and, if needed, brain MRI. Rarely, spinal fluid analysis may be considered to assess for autoimmune or paraneoplastic causes."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_3_3",
+"objective":{
+"__html":"Diagnose chorea gravidarum."
+},
+"references":[
+[
+"Miyasaki J, Aldakheel A. Movement disorders in pregnancy. Continuum (Minneap Minn). 2014 Feb;20(1 Neurology of Pregnancy):148-161. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/24492816",
+"target":"_blank"
+},
+"children":[
+"PMID: 24492816"
+]
+},
+" doi:10.1212/01.CON.0000443842.18063.a9."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":38,
+"B":4,
+"C":15,
+"D":31,
+"E":11
+},
+"hlIds":[
+"bb18d1",
+"cdc739",
+"3219bb",
+"2eb226",
+"a74131",
+"0a7f6a",
+"c183d3",
+"43b3b2",
+"70b06d",
+"970ea6",
+"155b28"
+]
+}

@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q110",
+"number":110,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 110",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d04648",
+"children":[
+"A 37-year-old man is evaluated because of daily pressure-like headaches, insomnia, fatigue, and difficulty concentrating. He recently stopped attending his softball league games. He drinks a maximum of one to two beers nightly, unchanged for the past year, and does not use tobacco or illicit drugs. He reports no other symptoms and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"bedc10",
+"children":[
+"Physical examination is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Alcohol use disorder assessment"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Depression assessment"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fluoxetine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Melatonin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7d23f1",
+"children":[
+"The U.S. Preventive Services Task Force recommends brief screening for depression in all adults by using a validated instrument such as the Patient Health Questionnaire-2."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2e25eb",
+"children":[
+"If a patient has a positive screening test with the Patient Health Questionnaire-2 or if the patient has symptoms suggestive of depression, more comprehensive assessment using a validated screening tool is recommended."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0b3829",
+"children":[
+"Depression assessment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be performed. The U.S. Preventive Services Task Force (USPSTF) recommends brief screening for depression in all adults by using a validated instrument, such as the Patient Health Questionnaire (PHQ)-2. If the patient answers positively to one of the two questions on the PHQ-2 or if the patient has symptoms suggestive of depression, more comprehensive assessment using a validated screening tool, such as the PHQ-9, should be performed. The PHQ-9 has robust sensitivity and specificity for detecting (or excluding) depression and assessing the severity of depression, if present. The PHQ-9 additionally includes questions intended to screen for suicidal ideation. This patient has insomnia, decreased energy, decreased concentration, and loss of interest in previously enjoyable activities; these are all symptoms of depression that should be evaluated further."
+]
+},
+{
+"type":"p",
+"hlId":"7eba82",
+"children":[
+"The USPSTF recommends routine screening for unhealthy alcohol use. Recommended screening tools include the Alcohol Use Disorders Identification Test (AUDIT), the abbreviated AUDIT-Consumption (AUDIT-C), and the single-question screen “How many times in the past year have you had five [four for women and adults older than age 65 years] or more drinks in 1 day?” Patients with a positive screening result should be assessed for the presence of an alcohol use disorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), the severity of the disorder, and related health consequences. This patient has no evidence of risky drinking on initial screening (less than 14 drinks per week and less than 4 drinks per day in the last year), and assessment for alcohol use disorder is not necessary."
+]
+},
+{
+"type":"p",
+"hlId":"36880d",
+"children":[
+"First-line pharmacologic therapy for depression includes second-generation antidepressants such as fluoxetine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, pharmacologic treatment for depression is premature because a diagnosis has not been established yet."
+]
+},
+{
+"type":"p",
+"hlId":"1939f3",
+"children":[
+"Melatonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be effective for circadian rhythm disruptions affecting sleep and has a low side-effect profile. Although melatonin is often recommended, especially to older adults owing to the lower risk for side effects, there is insufficient evidence to support its use. However, this patient's insomnia, in combination with reported changes in energy level and concentration, suggest that his sleep-related symptoms may represent undiagnosed depression, and screening and treating depression is preferred to treating a symptom of depression."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_1_1",
+"objective":{
+"__html":"Diagnose depression."
+},
+"references":[
+[
+"Park LT, Zarate CA Jr. Depression in the primary care setting. N Engl J Med. 2019;380:559-568. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30726688",
+"target":"_blank"
+},
+"children":[
+"PMID: 30726688"
+]
+},
+" doi:10.1056/NEJMcp1712493"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"d04648",
+"bedc10",
+"1a5dcc",
+"7d23f1",
+"2e25eb",
+"0b3829",
+"7eba82",
+"36880d",
+"1939f3"
+]
+}

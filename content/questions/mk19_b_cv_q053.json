@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_cv_q053",
+"number":53,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d10983",
+"children":[
+"A 75-year-old man is evaluated for dyspnea and an episode of exertional syncope. He is diagnosed on clinical examination with aortic stenosis."
+]
+},
+{
+"type":"p",
+"hlId":"069948",
+"children":[
+"An ECG shows normal sinus rhythm and left ventricular hypertrophy with repolarization abnormalities. The echocardiogram reveals a severely thickened, minimally mobile tricuspid aortic valve compatible with severe aortic stenosis. However, hemodynamic data from echocardiography show a mean aortic gradient and aortic valve area consistent with moderate aortic stenosis. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"Left ventricular ejection fraction"
+]
+},
+" is greater than 55%, and stroke volume index is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the aortic valve"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exercise stress testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Surgical aortic valve replacement"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7bb095",
+"children":[
+"Guidelines recommend cardiac catheterization to evaluate patients with suspected significant aortic stenosis when there is a discrepancy between the clinical evaluation and the echocardiogram."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e4222f",
+"children":[
+"The most appropriate next step in management is to perform cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient's symptoms of dyspnea and syncope are consistent with symptomatic, potentially severe aortic stenosis. When caused by aortic stenosis, syncope is usually a late finding and raises concern for sudden cardiac death if aortic stenosis is not adequately treated. Severe aortic stenosis is typically defined by a small valve area (≤1.0 cm",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"), high peak velocity (≥4 m/s), and/or high mean gradient (≥40 mm Hg). However, although the two-dimensional morphologic description of this patient's aortic valve is consistent with severe aortic stenosis (severely thickened, minimally mobile tricuspid aortic valve), the mean valve gradient and aortic valve area are consistent with moderate aortic stenosis. Because technical considerations may result in either over- or underestimation of aortic valve gradient and aortic valve area by echocardiography, further hemodynamic testing with cardiac catheterization should be pursued in cases of discrepant clinical and echocardiographic findings."
+]
+},
+{
+"type":"p",
+"hlId":"5e4e79",
+"children":[
+"CT of the aortic valve (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a useful diagnostic modality for severe aortic stenosis in low-flow, low-gradient disease with normal or reduced cardiac output. However, the issue at present is discrepant clinical and echocardiographic findings. A study that can provide hemodynamic data, such as cardiac catheterization, is preferred."
+]
+},
+{
+"type":"p",
+"hlId":"1bf86b",
+"children":[
+"Exercise stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not appropriate for this patient. Exercise stress testing is contraindicated in most patients with symptomatic severe aortic stenosis, given the increased risk for sudden cardiac death during the test. A symptom-limited treadmill test may be performed in asymptomatic patients with severe aortic stenosis to confirm asymptomatic status."
+]
+},
+{
+"type":"p",
+"hlId":"47c3d6",
+"children":[
+"Neither surgical aortic valve replacement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") nor transcatheter aortic valve implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is appropriate until hemodynamic confirmation of severe aortic stenosis is made."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s6_2_1",
+"objective":{
+"__html":"Diagnose severe aortic stenosis in a patient with discrepant clinical and echocardiographic findings."
+},
+"references":[
+[
+"Otto CM, Nishimura RA, Bonow RO, et al. 2020 ACC/AHA guideline for the management of patients with valvular heart disease: a report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 2021;143:e72-e227. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332150",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332150"
+]
+},
+" doi:10.1161/CIR.0000000000000923"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":48,
+"B":7,
+"C":12,
+"D":11,
+"E":22
+},
+"hlIds":[
+"d10983",
+"069948",
+"1a5dcc",
+"7bb095",
+"e4222f",
+"5e4e79",
+"1bf86b",
+"47c3d6"
+]
+}

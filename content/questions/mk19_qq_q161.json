@@ -1,0 +1,193 @@
+{
+"id":"mk19_qq_q161",
+"number":161,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 161",
+"stimulus":[
+{
+"type":"p",
+"hlId":"77f87d",
+"children":[
+"A 32-year-old woman is evaluated for a 12-day history of slowly progressive right leg weakness and blurred vision. In addition, she has ocular pain and photopsia when moving the left eye and has experienced loss of color vision. She experienced double vision last year that resolved over 5 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"b46dd0",
+"children":[
+"Physical examination reveals reduced visual acuity and left optic disc pallor and weakness, hyperreflexia, and plantar extensor response of the right leg."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Guillain-Barré syndrome"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Multiple sclerosis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Neuromyelitis optica spectrum disorder"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transverse myelitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"80f17a",
+"children":[
+"Diagnostic criteria for multiple sclerosis require symptoms of central nervous system demyelination separated in space and time from a series of clinical relapses or progression, signs on physical examination, distribution of lesions on MRI, and (if necessary) the presence of cerebrospinal fluid-unique oligoclonal bands."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ef4cdd",
+"children":[
+"The most common clinical manifestations of multiple sclerosis are optic neuritis, myelitis, and brainstem/cerebellar syndromes."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6b7f30",
+"children":[
+"This patient most likely is experiencing a relapse of multiple sclerosis (MS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). MS is an autoimmune disorder of the central nervous system (CNS) that causes inflammatory damage to the brain, spinal cord, and optic nerve. Relapses or flares involve development of neurologic symptoms over the course of hours to days and often peak in severity over the course of days to weeks. This is typically followed by a period of remission lasting weeks to months. Remyelination and recruitment of other brain regions to functionally substitute for the damaged area may result in clinical improvement during times of remission. The most common clinical manifestations of MS are optic neuritis, myelitis, and brainstem/cerebellar syndromes. This patient had a previous self-limited episode of diplopia and a new episode of optic neuritis (as suggested by monocular blurry vision with optic disc pallor) and central pattern focal right leg weakness (suggested by hyperreflexia and plantar extensor response). An MRI of the brain and cervical spine should be obtained to evaluate for lesions consistent with MS. If they are present, a diagnosis of MS is likely, based on validated diagnostic criteria, which require symptoms of CNS demyelination separated in space and time from a series of clinical relapses or progression, signs on physical examination, distribution of lesions on MRI, and (if necessary) the presence of cerebrospinal fluid (CSF)-unique oligoclonal bands. In this patient, the occurrence of two disparate clinical events happening at separate times satisfies criteria for dissemination in time, and the presence of an optic nerve (cranial nerve II) lesion (detected on clinical examination) and additional lesions (if shown by MRI) would satisfy criteria for dissemination in space."
+]
+},
+{
+"type":"p",
+"hlId":"0fa386",
+"children":[
+"Guillain-Barré syndrome (GBS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") presents as an acute ascending paralysis associated with diffuse areflexia. Symptoms are symmetric, and disease course is often monophasic. GBS is associated with inflammatory demyelination of peripheral nerves and nerve roots, whereas MS is a central demyelinating disease. In this patient, the relapsing course, asymmetric presentation, hyperreflexia, and involvement of the optic nerve are inconsistent with GBS."
+]
+},
+{
+"type":"p",
+"hlId":"80ad0b",
+"children":[
+"Neuromyelitis optica (NMO) spectrum disorder (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is an antibody-mediated inflammation directed at aquaporin-4 antibody channels in the CNS, or less commonly, myelin oligodendrocyte glycoprotein (MOG), that results in inflammatory demyelination in the optic nerves and spinal cord. NMO can be differentiated from MS by NMO IgG (anti-aquaporin-4) or anti-MOG antibody testing and by its lack of significant brain involvement, large and longitudinally extensive spinal cord lesions, and profound CSF leukocytosis. The patient's central pattern of focal weakness (leg weakness, hyperreflexia) excludes the diagnosis of NMO."
+]
+},
+{
+"type":"p",
+"hlId":"adc6b3",
+"children":[
+"Idiopathic transverse myelitis (ITM) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a monophasic, inflammatory, and demyelinating disorder of the spinal cord. ITM typically affects only one region of the spinal cord and is considered to be a para- or postinfectious inflammatory response. Affected patients frequently experience subacute weakness, sensory changes, and bladder or bowel dysfunction. Some patients experience an initial prodrome of back pain or a thoracic banding sensation. The patient's optic nerve involvement excludes the diagnosis of ITM."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_2_1",
+"objective":{
+"__html":"Diagnose multiple sclerosis."
+},
+"references":[
+[
+"Olek MJ. Multiple sclerosis. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC202106150",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2021;174:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34097429",
+"target":"_blank"
+},
+"children":[
+"PMID: 34097429"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"77f87d",
+"b46dd0",
+"413696",
+"80f17a",
+"ef4cdd",
+"6b7f30",
+"0fa386",
+"80ad0b",
+"adc6b3"
+]
+}

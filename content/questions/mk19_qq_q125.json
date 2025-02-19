@@ -1,0 +1,130 @@
+{
+"id":"mk19_qq_q125",
+"number":125,
+"bookId":"qq",
+"correctAnswer":"A",
+"title":"Question 125",
+"stimulus":[
+{
+"type":"p",
+"hlId":"48a858",
+"children":[
+"A 58-year-old asymptomatic woman is evaluated for persistent hypertension despite lifestyle modifications, including adherence to the Dietary Approaches to Stop Hypertension diet, exercise, alcohol cessation, and weight loss. Home blood pressure recordings average 158/92 mm Hg. She has no other medical problems and is taking no medications."
+]
+},
+{
+"type":"p",
+"hlId":"b51e45",
+"children":[
+"Serum electrolytes and kidney function are normal; urinalysis is unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Amlodipine and lisinopril"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Chlorthalidone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Losartan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nifedipine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7c0bdd",
+"children":[
+"For patients with blood pressure 20/10 mm Hg above target, combination therapy with two antihypertensive agents from different classes is preferred to treatment with a single agent."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"360873",
+"children":[
+"Combination therapy with the ACE inhibitor lisinopril and the calcium channel blocker amlodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is appropriate for this patient with stage 2 hypertension, which is defined as a systolic blood pressure (BP) of 140 mm Hg or higher and/or a diastolic BP of 90 mm Hg or higher. There is general agreement among hypertension societies that a single agent, such as chlorthalidone, losartan, or nifedipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Options B, C, D"
+]
+},
+"), is unlikely to control BP in patients with BP 20/10 mm Hg above target. Given this patient's degree of hypertension, it is unlikely that a single agent will achieve her treatment goal of less than 130/80 mm Hg. Therefore, continued therapeutic lifestyle interventions and combination drug therapy are indicated. In this circumstance, initial therapy may include a combination of two agents from two different classes of antihypertensive drugs, either separately or in a fixed-dose pill. A combination of two agents at moderate doses is often more successful at achieving BP goals than one BP agent at maximal dose and minimizes the adverse effects that are more commonly noted at higher doses. Guidelines recommend that drug combinations with similar mechanisms of action or clinical effects should be avoided. For example, two drugs from the same class should not be administered together (e.g., two different β-blockers, ACE inhibitors, or nondihydropyridine calcium channel blockers). Likewise, two drugs from classes that target the same BP control system are less effective and potentially harmful when used together (e.g., ACE inhibitors and angiotensin receptor blockers). Exceptions to this rule include concomitant use of a thiazide diuretic, potassium-sparing diuretic, and/or loop diuretic in various combinations. Also, dihydropyridine and nondihydropyridine calcium channel blockers can be combined. Combined use of any renin-angiotensin system drug classes (ACE inhibitors, angiotensin receptor blockers, and direct renin inhibitors) is harmful; several clinical trials have revealed more adverse events with these combinations (hyperkalemia, hypotension, acute kidney injury), without additional cardiovascular or kidney benefits."
+]
+}
+],
+"relatedSection":"mk19_a_np_s4_7_2_1",
+"objective":{
+"__html":"Treat a patient with stage 2 hypertension using combination therapy."
+},
+"references":[
+[
+"Whelton PK, Carey RM, Aronow WS, et al. 2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA guideline for the prevention, detection, evaluation, and management of high blood pressure in adults: A report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Hypertension. 2018;71:e13-e115. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29133356",
+"target":"_blank"
+},
+"children":[
+"PMID: 29133356"
+]
+},
+" doi:10.1161/HYP.0000000000000065"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"48a858",
+"b51e45",
+"1054f1",
+"7c0bdd",
+"360873"
+]
+}

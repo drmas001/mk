@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_on_q053",
+"number":53,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4f1d4e",
+"children":[
+"A 34-year-old man is evaluated for increasing fatigue, constipation, and weight gain of several months' duration. He has no chest pain, palpitations, dyspnea, or edema. Medical history is significant for classic Hodgkin lymphoma treated with combination chemotherapy and involved site irradiation to the neck 7 years ago. He has been in complete remission since then."
+]
+},
+{
+"type":"p",
+"hlId":"62e432",
+"children":[
+"On physical examination, blood pressure is 135/80 mm Hg and pulse rate is 56/min. Other vital signs are normal. There is a healed incision on his left mid neck. The remainder of the examination is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"983777",
+"children":[
+"Which of the following is the most appropriate test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of neck, chest, abdomen, and pelvis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Echocardiogram"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"PET/CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Thyroid-stimulating hormone measurement"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Thyroid ultrasound"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"332a2e",
+"children":[
+"Irradiation to the neck significantly increases the risk of hypothyroidism."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ca49bd",
+"children":[
+"Annual measurement of serum thyroid-stimulating hormone is recommended in patients who received irradiation to the neck or mediastinum."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9fac4d",
+"children":[
+"The most appropriate test to perform next is measurement of thyroid-stimulating hormone (TSH) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient is at risk for radiation-induced hypothyroidism. Risk factors for radiation-induced hypothyroidism include higher doses and treatment at a younger age. Rates of hypothyroidism may approach 50%. Patients who have received radiation therapy to the thyroid may develop subclinical or clinical hypothyroidism many years or decades later. These patients are also at increased risk for thyroid cancer compared with the general population, although the overall risk remains low. Annual measurement of TSH is recommended in patients who received radiation therapy to the neck or mediastinum. An elevated TSH concentration should be followed by measurement of thyroxine to confirm the diagnosis of hypothyroidism. Other late effects of irradiation in Hodgkin lymphoma survivors can include an increased risk of breast cancer in women who receive thoracic irradiation, particularly in adolescence and early adulthood. There is also an increased risk of sarcoma and lung cancers."
+]
+},
+{
+"type":"p",
+"hlId":"7b1b99",
+"children":[
+"Although a CT of the neck, chest, abdomen, and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") or PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") could be obtained if there were concern about a relapse of Hodgkin lymphoma, relapse after 7 years would be unusual and thus a less likely cause for his symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"ba3915",
+"children":[
+"Patients who have received mantle irradiation for Hodgkin lymphoma also have a high risk of cardiac disease, including accelerated coronary artery disease, pericardial disease, and valvular disease. However, these risks for Hodgkin lymphoma survivors have likely been reduced from the past, as fewer patients receive radiation therapy and those who do have smaller fields, lower total cumulative doses, and more sophisticated treatment planning to minimize toxicities. This patient received neck, not mantle irradiation, and has no signs or symptoms of cardiovascular disease. An echocardiogram (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"d4a325",
+"children":[
+"Although the risk of thyroid cancer is also increased after radiation therapy to the neck, the overall incidence remains low. Routine ultrasound screening (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is not recommended, but diagnostic ultrasonography should be performed if the patient develops a palpable nodule."
+]
+}
+],
+"relatedSection":"mk19_a_on_s13_2_2",
+"objective":{
+"__html":"Diagnose radiation-induced hypothyroidism."
+},
+"references":[
+[
+"Ng AK. Current survivorship recommendations for patients with Hodgkin lymphoma: focus on late effects. Blood. 2014;124:3373-79. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/25428219",
+"target":"_blank"
+},
+"children":[
+"PMID: 25428219"
+]
+},
+" doi:10.1182/blood-2014-05-579193"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":3,
+"D":82,
+"E":6
+},
+"hlIds":[
+"4f1d4e",
+"62e432",
+"983777",
+"332a2e",
+"ca49bd",
+"9fac4d",
+"7b1b99",
+"ba3915",
+"d4a325"
+]
+}

@@ -1,0 +1,208 @@
+{
+"id":"mk19_b_cv_q085",
+"number":85,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 85",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bed4fa",
+"children":[
+"A 67-year-old man is evaluated for a 3-month history of progressive dyspnea and peripheral edema. He also has a 6-month history of exertional chest “heaviness.” Medical history is otherwise significant for hypertension and type 2 diabetes mellitus. He is a former cigarette smoker, quitting 6 months ago. Medications are hydrochlorothiazide, atorvastatin, metformin, and liraglutide."
+]
+},
+{
+"type":"p",
+"hlId":"40c922",
+"children":[
+"On physical examination, blood pressure is 122/86 mm Hg and pulse rate is 96/min; other vital signs are normal. BMI is 27. Jugular venous distention and an S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" are present. Lower extremity edema to the mid-thigh is noted."
+]
+},
+{
+"type":"p",
+"hlId":"410c7e",
+"children":[
+"ECG shows left bundle branch block. Echocardiogram shows ejection fraction of 25% with anterior hypokinesis and normal wall thickness."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Cardiac magnetic resonance imaging"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Cardiac PET"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Technetium-99m pyrophosphate scintigraphy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1425c7",
+"children":[
+"Patients with new-onset heart failure and a high likelihood of coronary artery disease should be evaluated with cardiac catheterization."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c253c5",
+"children":[
+"Cardiac catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate test to perform in this patient with new-onset heart failure of unclear cause. Echocardiography should be performed initially in all patients with new heart failure; this patient's echocardiogram is notable for a low ejection fraction, anterior wall hypokinesis, and absence of left ventricular (LV) hypertrophy. The anterior wall motion abnormality increases suspicion for coronary artery disease (CAD), the most common underlying cause of heart failure. The patient also has exertional chest heaviness; thus, clinical suspicion for CAD should be high. Cardiac catheterization offers the most direct information about coronary anatomy and therefore is the best method for assessing ischemia in such patients. If the patient has CAD, revascularization has been associated with improved survival rates and often with improved ejection fraction."
+]
+},
+{
+"type":"p",
+"hlId":"461c6f",
+"children":[
+"Cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be reasonable to perform after echocardiography and after CAD has been excluded. CMR imaging can help identify infiltrative processes, such as sarcoidosis, hemochromatosis, amyloidosis, Fabry disease, or endomyocardial fibrosis, and has distinct imaging patterns that can suggest the diagnosis of myocarditis. CMR imaging is also becoming more widely used to evaluate for ischemia and hibernating myocardium, but guidelines recommend either stress testing or cardiac catheterization as the first study in the evaluation of possible ischemic cardiomyopathy."
+]
+},
+{
+"type":"p",
+"hlId":"2bd2ff",
+"children":[
+"Cardiac PET (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can aid in assessing LV function and evaluating for ischemia. It may help distinguish between inflammation and fibrosis and therefore can guide decisions about therapy. However, given this patient's high likelihood of CAD, cardiac catheterization is the most direct and appropriate modality to assess for CAD."
+]
+},
+{
+"type":"p",
+"hlId":"e01cfd",
+"children":[
+"Cardiac amyloidosis is suggested by heart failure with restrictive physiology, increased wall thickness, and low ECG voltage. Technetium-99m pyrophosphate scintigraphy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is used to diagnose the transthyretin variant of cardiac amyloidosis. This patient's lack of LV hypertrophy on echocardiogram and anterior hypokinesis argue against the diagnosis of amyloidosis, an infiltrative cardiomyopathy."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_3_3",
+"objective":{
+"__html":"Evaluate for coronary artery disease in a patient with new-onset heart failure."
+},
+"references":[
+[
+"Wu A. Heart failure. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201806050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;168:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29868816",
+"target":"_blank"
+},
+"children":[
+"PMID: 29868816"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":82,
+"B":7,
+"C":6,
+"D":4,
+"E":0
+},
+"hlIds":[
+"bed4fa",
+"40c922",
+"410c7e",
+"c5165c",
+"1425c7",
+"c253c5",
+"461c6f",
+"2bd2ff",
+"e01cfd"
+]
+}

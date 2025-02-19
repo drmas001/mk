@@ -1,0 +1,247 @@
+{
+"id":"mk19_b_rm_q062",
+"number":62,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"139a5b",
+"children":[
+"A 52-year-old man is evaluated for treatment of interstitial lung disease. Over the last 6 months, he developed a nonproductive cough and dyspnea on exertion. He has a 3-year history of diffuse cutaneous systemic sclerosis and gastroesophageal reflux disease. Current medication is pantoprazole."
+]
+},
+{
+"type":"p",
+"hlId":"298102",
+"children":[
+"On physical examination, respiration rate is 18/min and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. On a 6-minute walk test, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" drops to 90%. Crackles are heard at both lung bases. Heart sounds are normal. Skin changes consistent with diffuse cutaneous systemic sclerosis are present."
+]
+},
+{
+"type":"p",
+"hlId":"2209a8",
+"children":[
+"A high-resolution CT scan shows ground-glass changes in the lower lung fields."
+]
+},
+{
+"type":"p",
+"hlId":"189e40",
+"children":[
+"Pulmonary function tests show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced vital capacity (FVC)",
+"children":[
+"FVC"
+]
+},
+" of 82% of predicted and a D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+" of 65% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydroxychloroquine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methotrexate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mycophenolate mofetil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nintedanib"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"94c507",
+"children":[
+"Interstitial lung disease occurs in 50% of patients with diffuse cutaneous systemic sclerosis; the prevalence is 85% in the presence of anti–Scl-70 antibodies."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2ec7e5",
+"children":[
+"Mycophenolate mofetil is a mainstay of therapy for interstitial lung disease in systemic sclerosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"253513",
+"children":[
+"The most appropriate treatment is mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient with systemic sclerosis has classic manifestations of interstitial lung disease (ILD), which occurs in 50% of patients with diffuse cutaneous systemic sclerosis. The prevalence is even higher in those who have anti–Scl-70 antibodies (85%). This patient has dyspnea on exertion, cough, a reduction in FVC and D",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"LCO"
+]
+},
+", and a high-resolution CT scan that is typical for nonspecific interstitial pneumonitis. Patients may also have usual interstitial pneumonitis. A usual interstitial pneumonitis pattern demonstrates honeycombing on high-resolution CT and is less responsive to therapy than nonspecific interstitial pneumonitis. The 6-minute walk test provides a functional assessment; if oxygen desaturation of 88% or below occurs while the patient is walking, the patient is a candidate for home oxygen therapy. Some studies suggest that aggressive treatment of gastrointestinal reflux disease may have a positive effect on ILD progression. Mycophenolate mofetil is a mainstay of therapy for ILD in systemic sclerosis. Data from open-label trials suggest that mycophenolate mofetil can stabilize and, in some cases, improve lung function. The Scleroderma Lung Study II compared oral cyclophosphamide for 1 year to mycophenolate mofetil for 2 years. Both agents were equally efficacious in improving and stabilizing FVC; however, mycophenolate mofetil was better tolerated and can be used for many years, whereas cyclophosphamide has a time-limited utility due to toxicity. Expert opinion places mycophenolate mofetil first for both induction and maintenance therapy in patients with systemic sclerosis and ILD."
+]
+},
+{
+"type":"p",
+"hlId":"28af77",
+"children":[
+"Hydroxychloroquine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") may be useful for arthritis in systemic sclerosis but does not play a role in other manifestations of the disease, including ILD."
+]
+},
+{
+"type":"p",
+"hlId":"1a5c54",
+"children":[
+"Methotrexate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has utility in skin disease and arthritis of systemic sclerosis, but no data suggest it is useful for ILD."
+]
+},
+{
+"type":"p",
+"hlId":"56a44f",
+"children":[
+"Nintedanib (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a tyrosine kinase inhibitor, slows the progression of idiopathic pulmonary fibrosis and ILD in the setting of systemic sclerosis. However, the patients who will benefit the most, when to initiate therapy, and optimal duration of therapy are unclear. Most experts reserve nintedanib for patients who cannot take mycophenolate mofetil or cyclophosphamide or who progress while receiving these treatments."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s10_4",
+"objective":{
+"__html":"Treat interstitial lung disease in systemic sclerosis."
+},
+"references":[
+[
+"Volkmann ER, Tashkin DP, Li N, et al. Mycophenolate mofetil versus placebo for systemic sclerosis-related interstitial lung disease: an analysis of Scleroderma Lung Studies I and II. Arthritis Rheumatol. 2017;69:1451-1460. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28376288",
+"target":"_blank"
+},
+"children":[
+"PMID: 28376288"
+]
+},
+" doi:10.1002/art.40114"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":13,
+"C":44,
+"D":39,
+"E":0
+},
+"hlIds":[
+"139a5b",
+"298102",
+"2209a8",
+"189e40",
+"1054f1",
+"94c507",
+"2ec7e5",
+"253513",
+"28af77",
+"1a5c54",
+"56a44f"
+]
+}

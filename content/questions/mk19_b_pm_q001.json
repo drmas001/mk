@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_pm_q001",
+"number":1,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 1",
+"stimulus":[
+{
+"type":"p",
+"hlId":"832411",
+"children":[
+"An 87-year-old woman was hospitalized 2 days ago for sepsis related to pyelonephritis. Medical history is significant for hypertension and heart failure. She has responded to fluid resuscitation and antibiotic therapy but is intermittently confused. She reports no pain. Attempts have been made not to interrupt her night-time sleep. Nurses provide frequent orientation, and she has been provided with her glasses and hearing aids. Medications are ceftriaxone, acetaminophen, carvedilol, hydrochlorothiazide, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"f979ff",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% breathing oxygen, 2 L/min by nasal cannula. She is awake and oriented. There are no focal neurologic deficits."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b0c361",
+"children":[
+"Which of the following is the most appropriate measure to prevent delirium?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Early mobilization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Haloperidol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lorazepam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Melatonin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e85ddf",
+"hvc":true,
+"children":[
+"Measures to decrease the risk of delirium include early mobilization, preservation of nocturnal sleep, adequate pain management, orientation of the patient, provision of visual and hearing aids, and minimization of nonessential medications."
+]
+},
+{
+"type":"keypoint",
+"hlId":"38c720",
+"hvc":true,
+"children":[
+"Except in treating alcohol withdrawal, pharmacologic strategies are ineffective in the prevention and treatment of delirium."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"87fb86",
+"children":[
+"The most appropriate management is early mobilization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Delirium is characterized by an acute change in cognitive functioning occurring over hours to days, with fluctuations during the course of the day. Features of delirium include inattention, disorganized thinking, executive dysfunction, altered level of consciousness (lethargy or hypervigilance), perceptual disturbances (hallucinations or delusions), altered psychomotor activity (hyperactivity, hypoactivity, or alternating periods of hyperactivity and hypoactivity), sleep-wake disturbances, and labile mood. It is extremely common in patients in the ICU and is associated with increased length of ICU stay, morbidity, mortality, and cognitive impairment. Risk factors for delirium include preexisting dementia, hypertension, alcoholism, and high severity of illness on ICU admission. Patients should be monitored regularly and assessed using scales such as the Confusion Assessment Method-ICU (CAM-ICU) or the Intensive Care Delirium Screening Checklist (ICDSC). Measures to decrease the risk of delirium include early mobilization, preservation of nocturnal sleep, adequate pain management, orientation of the patient, provision of visual and hearing aids, and minimization of nonessential medications. Early mobilization, consisting of interruption of sedation followed by physical and occupational therapy in the earliest days of critical illness, can be effective for treating and preventing delirium."
+]
+},
+{
+"type":"p",
+"hlId":"4f547f",
+"children":[
+"Several pharmacologic strategies, including haloperidol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), have been attempted to prevent delirium in critically ill patients. None have proved effective. Several of these medications (aripiprazole and haloperidol) have been added to the American Geriatrics Society Beers Criteria for Potentially Inappropriate Medication Use in Older Adults. Thus, minimizing factors that are known to increase the risk for delirium remains the main focus of care of critically ill patients."
+]
+},
+{
+"type":"p",
+"hlId":"1729b3",
+"children":[
+"In general, benzodiazepines such as lorazepam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should not be used for treating delirium in the ICU unless needed in patients with alcohol withdrawal or seizures. In the absence of these indications, benzodiazepines such as lorazepam may increase the risk of delirium."
+]
+},
+{
+"type":"p",
+"hlId":"e016f9",
+"children":[
+"Melatonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a popular medication prescribed with an aim to maintain the sleep cycle, which in turn may prevent delirium. The data on its effect in promoting sleep or preventing delirium are inconsistent, and thus it is not recommended as a routine delirium prevention strategy."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_1_2",
+"objective":{
+"__html":"Prevent delirium with early mobilization."
+},
+"references":[
+[
+"Blair GJ, Mehmood T, Rudnick M, et al. Nonpharmacologic and medication minimization strategies for the prevention and treatment of ICU delirium: A narrative review. J Intensive Care Med. 2019;34:183-190. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29699467",
+"target":"_blank"
+},
+"children":[
+"PMID: 29699467"
+]
+},
+" doi:10.1177/0885066618771528"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":96,
+"B":2,
+"C":2,
+"D":1,
+"E":0
+},
+"hlIds":[
+"832411",
+"f979ff",
+"b0c361",
+"e85ddf",
+"38c720",
+"87fb86",
+"4f547f",
+"1729b3",
+"e016f9"
+]
+}

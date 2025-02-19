@@ -1,0 +1,231 @@
+{
+"id":"mk19_b_pm_q041",
+"number":41,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 41",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ca331c",
+"children":[
+"A 27-year-old woman is evaluated in the emergency department for difficulty breathing following a hornet sting to the leg."
+]
+},
+{
+"type":"p",
+"hlId":"bbce55",
+"children":[
+"On physical examination, blood pressure is 86/54 mm Hg, pulse rate is 130/min, and respiration rate is 20/min. Expiratory wheezing is noted. Her lips are swollen. Urticarial skin lesions are present."
+]
+},
+{
+"type":"p",
+"hlId":"fd3dc9",
+"children":[
+"She is administered 1 L of intravenous 0.9% saline, nebulized albuterol, and intramuscular epinephrine. Vital signs normalize, and dyspnea improves. Forty-five minutes later, systolic blood pressure is 90 mm Hg, pulse rate is 128/min, and wheezing has returned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Diphenhydramine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Epinephrine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Famotidine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Methylprednisolone"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Norepinephrine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e1d453",
+"children":[
+"Epinephrine is the treatment of choice for anaphylaxis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4f7d52",
+"children":[
+"If anaphylaxis persists after an initial epinephrine dose, repeat doses may be needed."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0f4a6c",
+"children":[
+"The most appropriate treatment is epinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has anaphylaxis from a Hymenoptera sting. Anaphylaxis is a severe reaction caused by acute mediator release into the circulation, usually triggered by IgE-linked immunologic responses to specific foods, medications, insect venom, latex, or other antigens but sometimes occurring without an allergic trigger. The mediator release results in various clinical manifestations, including pruritus, hypotension, tachycardia, and airway compromise with bronchoconstriction. Initial treatment of anaphylaxis is with epinephrine, which may be administered intramuscularly or intravenously. Mechanisms of action of epinephrine include vasoconstriction, respiratory smooth muscle relaxation, and stabilization of degranulating inflammatory cells. Some patients, such as this one, require repeat doses of epinephrine or even an intravenous epinephrine infusion if anaphylaxis persists. Patients should be given supplemental oxygen and watched closely for signs of airway compromise, such as stridor or obstruction due to a swollen tongue, which may require intubation to maintain airway patency. Patients often require fluid resuscitation, with or without vasopressor therapy. Factors that increase risk for biphasic anaphylaxis (anaphylaxis occurring 1-72 hours after resolution of the initial episode) include a severe initial episode and a need for more than one dose of epinephrine. When such risk exists, or when there is risk of anaphylaxis fatality due to coexisting cardiovascular disease or lack of access to epinephrine or emergency services, extended observation of up to 6 hours or longer may be warranted."
+]
+},
+{
+"type":"p",
+"hlId":"05b3a0",
+"children":[
+"Antihistamines that antagonize the H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" receptor, such as diphenhydramine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), and the H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" receptor, such as famotidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), are often given in the setting of anaphylaxis. However, they are of little proven benefit beyond relief of pruritus and skin eruptions such as urticaria. They do not affect respiratory smooth muscle or vascular tone."
+]
+},
+{
+"type":"p",
+"hlId":"a8fb68",
+"children":[
+"Glucocorticoids such as methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are often given for anaphylaxis, but their efficacy in this setting is not well proved. Furthermore, their delayed onset of action renders them ineffective in the management of early and acute signs and symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"e9a1f5",
+"children":[
+"Other vasopressors, such as norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), might be useful for persistent hypotension and shock but do not correct impairment of other organ systems, such as the respiratory system. Repeat dosing of epinephrine, rather than administration of norepinephrine, is the appropriate intervention for this patient."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s13_1",
+"objective":{
+"__html":"Treat anaphylaxis."
+},
+"references":[
+[
+"Shaker MS, Wallace DV, Golden DBK, et al; Collaborators. Anaphylaxis-a 2020 practice parameter update, systematic review, and Grading of Recommendations, Assessment, Development and Evaluation (GRADE) analysis. J Allergy Clin Immunol. 2020;145:1082-1123. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32001253",
+"target":"_blank"
+},
+"children":[
+"PMID: 32001253"
+]
+},
+" doi:10.1016/j.jaci.2020.01.017"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":67,
+"C":0,
+"D":28,
+"E":2
+},
+"hlIds":[
+"ca331c",
+"bbce55",
+"fd3dc9",
+"1054f1",
+"e1d453",
+"4f7d52",
+"0f4a6c",
+"05b3a0",
+"a8fb68",
+"e9a1f5"
+]
+}

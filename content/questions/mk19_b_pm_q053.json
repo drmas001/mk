@@ -1,0 +1,218 @@
+{
+"id":"mk19_b_pm_q053",
+"number":53,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2e0d13",
+"children":[
+"A 77-year-old man is evaluated in the emergency department following two episodes of melena. He reports no dyspnea or lightheadedness and no hematemesis. Medical history is significant for cirrhosis secondary to hepatitis C virus, which has previously been well compensated. He also has grade 1 esophageal varices but no history of gastrointestinal bleeding. His only medication is propranolol."
+]
+},
+{
+"type":"p",
+"hlId":"7e936b",
+"children":[
+"On physical examination, the patient is alert and oriented. Temperature is normal, blood pressure is 85/45 mm Hg, pulse rate is 76/min, and respiration rate is 18/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% with the patient breathing ambient air. Icterus is present. Extremities are cool to touch. The abdomen is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"ac043d",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" is 6.5 g/dL (65 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"142bd7",
+"children":[
+"Two peripheral intravenous lines are inserted, and fluid resuscitation with 0.9% saline is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Esophageal balloon tamponade"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Norepinephrine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Packed red blood cell transfusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transjugular intrahepatic portosystemic shunt"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a51ce7",
+"children":[
+"Most patients with acute upper gastrointestinal bleeding should receive a transfusion of packed red blood cells to a target hemoglobin level of 7 to 9 g/dL (70-90 g/L)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"9a8123",
+"children":[
+"In patients with portal hypertension and acute gastrointestinal bleeding, transfusion to 10 g/dL (100 g/L) or higher can rapidly increase portal pressure, putting the patient at significant risk for rebleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d3f8d0",
+"children":[
+"The most appropriate treatment for this patient is transfusion of packed red blood cells (PRBCs) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). He is likely experiencing acute upper gastrointestinal bleeding from a variceal hemorrhage with subsequent hypovolemia and hypotension. In patients with cirrhosis, variceal hemorrhage carries a significant risk of morbidity and mortality. Studies have demonstrated that the mortality rate is decreased with a restrictive transfusion strategy, defined as a hemoglobin goal of 7 to 9 g/dL (70-90 g/L), compared with a liberal transfusion strategy. However, different thresholds and hemoglobin levels may trigger transfusion in actively bleeding patients who are in shock. Higher hemoglobin values may also be desirable in patients with acute coronary syndrome or chronic cardiovascular disease. In patients with portal hypertension, transfusion to higher values (10 g/dL [100 g/L] or higher) can rapidly increase portal pressure, putting the patient at significant risk for rebleeding. In addition to PRBCs, early resuscitation with crystalloid fluids is indicated to provide vascular support while waiting for blood products."
+]
+},
+{
+"type":"p",
+"hlId":"e1a455",
+"children":[
+"During massive variceal bleeding in which endoscopic care is delayed or it is impossible to visualize the bleeding source, balloon tamponade (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an option. However, balloon tamponade carries several risks, including esophageal rupture and ulceration, and should be used only in cases of life-threatening hemorrhage and only until alternative hemostasis methods can be employed. Although this patient has evidence of acute upper gastrointestinal bleeding, the source of the bleeding is not yet identified and clinical findings do not indicate uncontrolled bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"1915d1",
+"children":[
+"In patients with hypovolemic shock, vasopressors such as norepinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are usually not helpful since they do not correct the primary underlying problem and, in the absence of adequate volume resuscitation, further reduce tissue perfusion."
+]
+},
+{
+"type":"p",
+"hlId":"74007f",
+"children":[
+"Transjugular intrahepatic portosystemic shunt (TIPS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can help in managing acute variceal bleeding and preventing recurrent variceal hemorrhage. In patients without previous variceal hemorrhage, hemostasis should be attempted with pharmacologic and endoscopic methods first. If this fails, TIPS should be considered."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_2_2",
+"objective":{
+"__html":"Treat gastrointestinal bleeding with packed red blood cell transfusion."
+},
+"references":[
+[
+"Siau K, Hearnshaw S, Stanley AJ, et al. British Society of Gastroenterology (BSG)-led multisociety consensus care bundle for the early clinical management of acute upper gastrointestinal bleeding. Frontline Gastroenterol. 2020;11:311-323. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32582423",
+"target":"_blank"
+},
+"children":[
+"PMID: 32582423"
+]
+},
+" doi:10.1136/flgastro-2019-101395"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":2,
+"C":94,
+"D":1,
+"E":0
+},
+"hlIds":[
+"2e0d13",
+"7e936b",
+"ac043d",
+"142bd7",
+"78ff87",
+"a51ce7",
+"9a8123",
+"d3f8d0",
+"e1a455",
+"1915d1",
+"74007f"
+]
+}

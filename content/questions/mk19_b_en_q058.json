@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_en_q058",
+"number":58,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 58",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c1d71e",
+"children":[
+"A 34-year-old woman is evaluated after a recent diagnosis of gestational diabetes mellitus, which she also experienced during a pregnancy 2 years ago. She is 28 weeks pregnant. Since her most recent diagnosis, she has improved her diet, is exercising regularly, and is monitoring her glucose levels."
+]
+},
+{
+"type":"p",
+"hlId":"d92ca1",
+"children":[
+"Fasting plasma glucose levels are 105 to 115 mg/dL (5.8-6.4 mmol/L), and 2-hour postprandial glucose levels are 130 to 140 mg/dL (7.2-7.8 mmol/L). For patients with gestational diabetes, the recommended glucose targets are a fasting plasma glucose level less than 95 mg/dL (5.3 mmol/L) and a 2-hour postprandial glucose level less than 120 mg/dL (6.7 mmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate basal and prandial insulin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate glyburide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Initiate metformin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Intensify lifestyle modifications"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5baf32",
+"children":[
+"Women with gestational diabetes mellitus who are unable to meet glycemic targets with therapeutic lifestyle interventions should be started on insulin therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"075d6f",
+"children":[
+"Insulin is the preferred therapy in gestational diabetes mellitus because it does not cross the placenta to the same degree as other medications."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3d6fe8",
+"children":[
+"The most appropriate management is to initiate basal and prandial insulin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Adverse maternal and neonatal outcomes related to diabetes mellitus increase with worsening hyperglycemia. Complications include macrosomia, labor and delivery complications, preeclampsia, neonatal hypoglycemia, spontaneous abortion, and intrauterine fetal demise. Many women with gestational diabetes are able to meet glycemic targets with a low–glycemic-index diet and reduced carbohydrate intake. However, when the glycemic targets of less than 95 mg/dL (5.3 mmol/L) fasting and less than 120 mg/dL (6.7 mmol/L) 2 hours after a meal are not achieved with therapeutic lifestyle modifications, medical therapy should be initiated to improve perinatal outcomes. Insulin is the preferred therapy in gestational diabetes because it does not cross the placenta to the same degree as other medications. Basal insulin (insulin detemir or neutral protamine Hagedorn [NPH] based on their established safety in pregnancy) should be used to treat fasting hyperglycemia, whereas rapid-acting insulins, such as insulin aspart or insulin lispro, are best to treat postprandial glycemic excursions."
+]
+},
+{
+"type":"p",
+"hlId":"3d06c2",
+"children":[
+"Sulfonylureas, such as glyburide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), can cross the placenta and may increase the risk for fetal macrosomia and hypoglycemia; no long-term safety data are available to support sulfonylurea use during pregnancy. In addition, glyburide would treat only this patient's postprandial glycemic excursions and not her fasting hyperglycemia."
+]
+},
+{
+"type":"p",
+"hlId":"c0190b",
+"children":[
+"Metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has a significant treatment failure rate in gestational diabetes. It is unlikely that metformin would help this patient reach her glycemic goals. Metformin also crosses the placenta freely and may increase the risk for preterm labor. The long-term safety data for metformin in pregnancy are unclear; thus, metformin is not recommended as first-line therapy for patients with gestational diabetes. Other oral and noninsulin injectable glucose-lowering medications also lack long-term safety data."
+]
+},
+{
+"type":"p",
+"hlId":"381bf5",
+"children":[
+"Although this patient should certainly continue her lifestyle modifications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") of medical nutrition therapy and exercise, intensifying these efforts is unlikely to help her reach target glucose levels. Pharmacologic therapy should be initiated with basal and prandial insulin."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_1_4_5_3",
+"objective":{
+"__html":"Treat gestational diabetes mellitus."
+},
+"references":[
+[
+"American Diabetes Association. 14. Management of diabetes in pregnancy: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S200-S210. [PMID: ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298425",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298425"
+]
+},
+"] doi:10.2337/dc21-S014"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":53,
+"B":3,
+"C":20,
+"D":24,
+"E":0
+},
+"hlIds":[
+"c1d71e",
+"d92ca1",
+"1054f1",
+"5baf32",
+"075d6f",
+"3d6fe8",
+"3d06c2",
+"c0190b",
+"381bf5"
+]
+}

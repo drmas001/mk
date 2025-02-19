@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_pm_q072",
+"number":72,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 72",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8ad75c",
+"children":[
+"A 54-year-old man is evaluated in the emergency department for shock. He is confused and inattentive. Medical records indicate that he has hypertension, hyperlipidemia, and diabetes. Medications are atorvastatin, metformin, valsartan, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"9c2fa1",
+"children":[
+"On physical examination, the patient is awake but disoriented. Blood pressure is 82/54 mm Hg, pulse rate is 118/min, and respiration rate is 26/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 89% with the patient breathing ambient air. Skin is cool and clammy. There is jugular venous distention to the angle of the jaw. Heart sounds are distant but without murmur, rubs, or gallops. Diffuse pulmonary crackles are present."
+]
+},
+{
+"type":"p",
+"hlId":"58c39e",
+"children":[
+"ECG shows sinus tachycardia (rate 118/min)."
+]
+},
+{
+"type":"p",
+"hlId":"a36a7b",
+"children":[
+"Resuscitation efforts are initiated. Portable chest radiography and laboratory studies have been ordered."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4596d0",
+"children":[
+"Which of the following is the most appropriate additional test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Pulmonary artery catheterization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Transesophageal echocardiography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d9437c",
+"children":[
+"The initial evaluation of cardiogenic shock includes laboratory testing for myocardial ischemia and heart failure, chest radiography, electrocardiography, and transthoracic echocardiography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f38547",
+"children":[
+"The most appropriate management is transthoracic echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has features consistent with cardiogenic shock (cool extremities, pulmonary crackles, jugular venous distention, altered mental status, oliguria). Cardiogenic shock occurs when a primary cardiac insult causes decreased cardiac output. In addition to a physical examination, the American Heart Association (AHA) recommends laboratory testing for myocardial ischemia and heart failure, chest radiography, electrocardiography, and transthoracic echocardiography. A transthoracic echocardiogram provides information on heart size, systolic and diastolic function, regional wall motion abnormalities, and valvular disease. Regional wall motion abnormalities suggest coronary artery disease, and changes in the myocardium can suggest conditions such as cardiac amyloid. Echocardiography may also provide prognostic information."
+]
+},
+{
+"type":"p",
+"hlId":"240ffa",
+"children":[
+"In the absence of contraindications, additional imaging with CT angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is appropriate if pulmonary embolism is considered high probability. CT angiography has significantly improved the accuracy of evaluating pulmonary embolism and could be considered in this patient if the initial tests do not support myocardial infarction or other cardiac causes of this patient's shock. However, CT angiography would not be part of the initial battery of tests, and transporting this unstable patient would pose additional risk."
+]
+},
+{
+"type":"p",
+"hlId":"8ba3a8",
+"children":[
+"Pulmonary artery catheters (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") have lost favorability in recent years because several large studies and meta-analyses suggest no benefit to patients, and in some cases suggest increased risk, when they are used to guide therapy. The use of a pulmonary artery catheter for hemodynamic monitoring may be reasonable when the diagnosis remains uncertain or the patient has not responded to resuscitation efforts."
+]
+},
+{
+"type":"p",
+"hlId":"100545",
+"children":[
+"The AHA recommends transthoracic echocardiography as the initial noninvasive imaging test following a chest radiograph. If the transthoracic echocardiogram fails to provide adequate images or the diagnosis remains uncertain, the AHA recommends considering transesophageal echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_2_3",
+"objective":{
+"__html":"Evaluate shock with transthoracic echocardiography."
+},
+"references":[
+[
+"van Diepen S, Katz JN, Albert NM, et al; American Heart Association Council on Clinical Cardiology; Council on Cardiovascular and Stroke Nursing; Council on Quality of Care and Outcomes Research; and Mission: Lifeline. Contemporary management of cardiogenic shock: A scientific statement from the American Heart Association. Circulation. 2017;136:e232-e268. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28923988",
+"target":"_blank"
+},
+"children":[
+"PMID: 28923988"
+]
+},
+" doi:10.1161/CIR.0000000000000525"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":10,
+"B":3,
+"C":4,
+"D":83,
+"E":0
+},
+"hlIds":[
+"8ad75c",
+"9c2fa1",
+"58c39e",
+"a36a7b",
+"4596d0",
+"d9437c",
+"f38547",
+"240ffa",
+"8ba3a8",
+"100545"
+]
+}

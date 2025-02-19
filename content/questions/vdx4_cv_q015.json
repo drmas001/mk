@@ -1,0 +1,131 @@
+{
+"id":"vdx4_cv_q015",
+"number":15,
+"bookId":"vdx_cv",
+"correctAnswer":"B",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f62038",
+"children":[
+"A 46-year-old woman is evaluated for atypical chest pain. ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f015",
+"wrapId":"1",
+"children":[
+"Exercise stress testing"
+]
+},
+" is performed."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f015"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hypertrophic cardiomyopathy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ischemic coronary artery disease"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Normal test result"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rate-dependent conduction defect"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f7a320",
+"children":[
+"Although the resting ECG is normal, the exercise ECG demonstrates horizontal ST depressions in multiple leads, including II, III, aVF, and V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" through V",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"5"
+]
+},
+". The most likely cause of the ST depressions following exercise is ischemic coronary artery disease. Ischemia is defined by the development of horizontal or downsloping ST-segment depression of at least 1 mm occurring 80 ms after the J point on exercise ECG. Unlike ST segment changes in the setting of acute coronary syndrome, ST-segment depression on exercise testing cannot localize ischemia."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_1_1",
+"objective":{
+"__html":"Diagnose cardiac ischemia based on exercise stress testing."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f015":{
+"id":"vdx4_cv_mcq_f015",
+"number":15,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"ca7861646f933928d11d8e706fd44c4f",
+"height":779,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"f62038",
+"413696",
+"f7a320"
+]
+}

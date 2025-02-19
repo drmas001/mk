@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_nr_q052",
+"number":52,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 52",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8918b6",
+"children":[
+"A 55-year-old man is evaluated for a 1-year history of worsening personality and behavioral changes, compulsive tendencies, a loss of empathy, and poor insight. Although he previously was neither a drinker nor a smoker, he now drinks heavily and smokes two packs of cigarettes daily. According to his son, the patient lost more than half of his retirement savings in the past month while gambling, and 2 weeks ago, he was arrested for breaking into a neighbor's house. Results of recent cognitive screening have been normal. He has no other medical problems and takes no medication."
+]
+},
+{
+"type":"p",
+"hlId":"93bba9",
+"children":[
+"All physical examination findings, including vital signs, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"164073",
+"children":[
+"An MRI of the brain shows atrophy of the right frontal lobe."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"f6563f",
+"children":[
+"Which of the following classes of drugs is most appropriate for the pharmacologic treatment of this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Acetylcholinesterase inhibitors"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Atypical antipsychotic agents"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>N</i>-Methyl-<small>D</small>-aspartate receptor antagonists"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Selective serotonin reuptake inhibitors"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8ee5df",
+"hvc":true,
+"children":[
+"The most prominent feature of behavioral-variant frontotemporal dementia is an alteration in personality and behavior that typically develops years before the onset of cognitive impairment."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e1fcb0",
+"hvc":true,
+"children":[
+"Selective serotonin reuptake inhibitors have shown effectiveness in treating some of the symptoms of frontotemporal dementia, especially compulsive behaviors."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"be47e0",
+"children":[
+"This patient most likely has behavioral-variant frontotemporal dementia and should be treated with a selective serotonin reuptake inhibitor (SSRI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The most prominent feature of behavioral-variant frontotemporal dementia is an alteration in personality and behavior that typically develops years before the onset of cognitive impairment. Because these behaviors often manifest as obsessive-compulsive tendencies, impulsivity, apathy, and impaired judgment, patients with this disorder are often misdiagnosed as having bipolar disorder, obsessive-compulsive disorder, and depression. Although there are no FDA-approved pharmacologic treatments for frontotemporal dementia, SSRIs have shown effectiveness in treating some of its symptoms, especially by decreasing the frequency of compulsive behaviors. Consequently, SSRIs are considered first-line treatment of the behavioral disturbances of frontotemporal dementia and should be used before any agents with a sedative effect."
+]
+},
+{
+"type":"p",
+"hlId":"fc4a4f",
+"children":[
+"Acetylcholinesterase inhibitors (donepezil, rivastigmine, and galantamine) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and NMDA receptor antagonists (memantine) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are not FDA approved for the treatment of frontotemporal dementia and have little evidence of benefit. In fact, they may actually increase behavioral problems. Additionally, an increase in acetylcholine can lead to delirium, which in the setting of a patient with behavioral-variant frontotemporal dementia can increase dangerous, impulsive behavior."
+]
+},
+{
+"type":"p",
+"hlId":"f298cb",
+"children":[
+"Atypical antipsychotic agents (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), such as risperidone, aripiprazole, and olanzapine, are not an FDA-approved treatment of dementia. Current evidence does not support the routine use of haloperidol or second-generation antipsychotic agents to treat delirium in adult inpatients. Additionally, atypical antipsychotic agents can increase the risk of death from cardiac arrhythmia or aspiration pneumonia in patients with dementia and thus should be avoided in these patients unless absolutely necessary."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s5_5_1_2_2",
+"objective":{
+"__html":"Treat the symptoms of frontotemporal dementia pharmacologically."
+},
+"references":[
+[
+"Rosness TA, Engedal K, Chemali Z. (2016). Frontotemporal dementia: an updated clinician's guide. J Geriatr Psychiatry Neurol. 2016 Sep;29(5):271–80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27502302",
+"target":"_blank"
+},
+"children":[
+"PMID: 27502302"
+]
+},
+" doi.org/10.1177/0891988716654986."
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":13,
+"B":38,
+"C":18,
+"D":31,
+"E":0
+},
+"hlIds":[
+"8918b6",
+"93bba9",
+"164073",
+"f6563f",
+"8ee5df",
+"e1fcb0",
+"be47e0",
+"fc4a4f",
+"f298cb"
+]
+}

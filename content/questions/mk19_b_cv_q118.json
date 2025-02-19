@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q118",
+"number":118,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 118",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7fd786",
+"children":[
+"A 78-year-old woman is evaluated in follow-up for a 3-month history of intermittent claudication, which is worse in the left leg than in the right. Her symptoms have become life limiting despite adherence to a structured exercise program. Medical history is significant for type 2 diabetes mellitus and hypertension. She has a 60-pack-year smoking history and quit 1 year ago. Medications are aspirin, metformin, canagliflozin, cilostazol, atorvastatin, and olmesartan."
+]
+},
+{
+"type":"p",
+"hlId":"859db7",
+"children":[
+"On physical examination, vital signs are normal. Dorsalis pedis and posterior tibialis pulses are faint bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"70e6ee",
+"children":[
+"The ankle-brachial index is 0.82 on the right and 0.64 on the left."
+]
+},
+{
+"type":"p",
+"hlId":"316b96",
+"children":[
+"CT angiogram reveals diffuse calcified atherosclerotic plaques in both iliac arteries, with a 30% stenosis on the right and an 80% stenosis in the left iliac artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Pentoxifylline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Revascularization"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop canagliflozin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Switch olmesartan to ramipril"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"614902",
+"children":[
+"Revascularization is indicated in patients with intermittent claudication and severe disability who have not improved with optimal medical therapy and structured exercise programs."
+]
+},
+{
+"type":"keypoint",
+"hlId":"3ebd8c",
+"children":[
+"Canagliflozin and ertugliflozin should be used with caution in patients with severe peripheral artery disease because of an increased risk for amputation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6bedad",
+"children":[
+"The most appropriate treatment is revascularization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient with peripheral artery disease (PAD) has quit smoking, been adherent to a supervised exercise program, and been treated with aspirin, cilostazol, and atorvastatin; despite these interventions, she remains symptomatic, with lifestyle-limiting claudication. She is therefore a candidate for revascularization, and because she has worse symptoms and a lower ankle-brachial index on the left, revascularization should be targeted to the left leg. Experienced vascular specialists can accomplish recanalization with angioplasty, atherectomy, stenting, and/or a combination of techniques. Aortobifemoral bypass surgery is reserved for patients with severe aortoiliac stenoses. Aortoiliac disease most typically manifests as buttock, hip, and, in some cases, thigh claudication."
+]
+},
+{
+"type":"p",
+"hlId":"9186be",
+"children":[
+"Historically, pentoxifylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") was used in patients with intermittent claudication; however, this medication has a high adverse-effect profile, is not effective, and is no longer recommended by guidelines."
+]
+},
+{
+"type":"p",
+"hlId":"f44785",
+"children":[
+"In patients with type 2 diabetes mellitus, sodium-glucose cotransporter 2 (SGLT2) inhibitors and glucagon-like peptide 1 receptor agonists reduce the rates of acute myocardial infarction, stroke, cardiovascular death, and, in the case of SGLT2 inhibitors, heart failure hospitalizations. These classes of drugs are recommended as part of the glucose-lowering regimen in patients with atherosclerotic cardiovascular disease (ASCVD) or at high risk for ASCVD. The American College of Cardiology recommends that canagliflozin be used with caution in patients with prior amputation, severe peripheral neuropathy, severe peripheral vascular disease, or active diabetic foot infections. In this patient, revascularization will improve her symptoms, whereas stopping canagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is neither necessary nor helpful."
+]
+},
+{
+"type":"p",
+"hlId":"ecad15",
+"children":[
+"A small study showed that patients with intermittent claudication treated with ramipril had an improvement in pain-free walking time and maximal walking time compared with patients treated with usual care. However, there have not been additional studies that have shown ramipril or other ACE inhibitors to be associated with improvements in functional capacity or symptoms in patients with PAD. ACE inhibitors and angiotensin receptor blockers may be effective in reducing cardiac events in patients with PAD, and there are no data showing preference for one over the others. Switching from olmesartan to ramipril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s11_5",
+"objective":{
+"__html":"Treat intermittent claudication with revascularization."
+},
+"references":[
+[
+"Gerhard-Herman MD, Gornik HL, Barrett C, et al. 2016 AHA/ACC guideline on the management of patients with lower extremity peripheral artery disease: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2017;69:1465-1508. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27851991",
+"target":"_blank"
+},
+"children":[
+"PMID: 27851991"
+]
+},
+" doi:10.1016/j.jacc.2016.11.008"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":86,
+"C":8,
+"D":1,
+"E":0
+},
+"hlIds":[
+"7fd786",
+"859db7",
+"70e6ee",
+"316b96",
+"1054f1",
+"614902",
+"3ebd8c",
+"6bedad",
+"9186be",
+"f44785",
+"ecad15"
+]
+}

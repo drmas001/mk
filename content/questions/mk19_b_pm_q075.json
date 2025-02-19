@@ -1,0 +1,521 @@
+{
+"id":"mk19_b_pm_q075",
+"number":75,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 75",
+"stimulus":[
+{
+"type":"p",
+"hlId":"04769c",
+"children":[
+"A 64-year-old man is treated in the emergency department for a COPD exacerbation characterized by worsened dyspnea, cough, and increased purulent sputum. Home medications are inhaled fluticasone-vilanterol and tiotropium."
+]
+},
+{
+"type":"p",
+"hlId":"e8b69d",
+"children":[
+"On physical examination, temperature is 36.9 °C (98.4 °F), blood pressure is 128/71 mm Hg, pulse rate is 96/min, respiration rate is 18/min, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 92% breathing oxygen, 2 L/min by nasal cannula. Lung examination reveals expiratory wheezing and mildly labored respirations. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"cfb74a",
+"children":[
+"Arterial blood gas studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8cf049",
+"class":"cell text l",
+"children":[
+"7.39"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f721da",
+"class":"cell text l",
+"children":[
+"41 mm Hg (5.4 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"a6ba34",
+"class":"cell text l",
+"children":[
+"61 mm Hg (8.1 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"8ba4a9",
+"children":[
+"Chest radiograph shows a flattened diaphragm but no infiltrates or pleural effusions."
+]
+},
+{
+"type":"p",
+"hlId":"d38148",
+"children":[
+"Treatment is initiated with prednisone and nebulized albuterol-ipratropium."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous theophylline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous piperacillin-tazobactam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Noninvasive bilevel positive airway pressure ventilation"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral azithromycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"37f335",
+"children":[
+"Antibiotics are indicated in patients with COPD exacerbation who have increased sputum purulence and either increased dyspnea or increased sputum volume, as well as in patients who require invasive or noninvasive mechanical ventilation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e569b1",
+"children":[
+"Commonly used antibiotics for COPD exacerbations include amoxicillin with clavulanic acid and macrolide and tetracycline antibiotics."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2f0e35",
+"children":[
+"The most appropriate additional treatment is oral azithromycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Infectious agents in COPD exacerbations are often viral but can be bacterial. The most common bacterial causes include ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Moraxella catarrhalis"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma pneumoniae"
+]
+},
+". Antibiotics are indicated in patients who have increased sputum purulence and either increased dyspnea or increased sputum volume, as well as in patients who require invasive or noninvasive mechanical ventilation. The recommended duration of antibiotic therapy is 5 days. The antibiotic used should be based on local bacterial resistance patterns; common initial treatments include amoxicillin with clavulanic acid and macrolide and tetracycline antibiotics. Thus, azithromycin would be an appropriate treatment for this patient."
+]
+},
+{
+"type":"p",
+"hlId":"47b8f5",
+"children":[
+"The methylxanthines (aminophylline and theophylline) are now rarely used to treat COPD. Theophylline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") has been shown to improve functional capacity and reduce the number of exacerbations. However, it has a narrow window between therapeutic and toxic dosages and therefore is used only for patients with advanced COPD who have refractory symptoms not controlled using standard therapy. Studies of the use of either aminophylline or theophylline during acute exacerbations have shown no benefit."
+]
+},
+{
+"type":"p",
+"hlId":"d793f2",
+"children":[
+"This patient does not have a fever or an infiltrate on chest radiograph; thus, broad-spectrum antibiotics such as piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would be inappropriate. Potential indications for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" coverage with piperacillin-tazobactam would include chronic colonization with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" or previous documented infection within the previous 12 months, very severe COPD, bronchiectasis on imaging, broad-spectrum antibiotic use in the previous 3 months, or chronic oral glucocorticoid use."
+]
+},
+{
+"type":"p",
+"hlId":"30f4e2",
+"children":[
+"For patients with acute hypercapnic respiratory failure with acidosis due to a COPD exacerbation, noninvasive ventilation with bilevel positive airway pressure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can improve symptoms and reduce intubation rates, length of hospital stay, and mortality. However, this patient has adequate ventilation (as evidenced by his normal pH and P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" levels) and does not require noninvasive ventilation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_10_4",
+"objective":{
+"__html":"Treat an acute COPD exacerbation with azithromycin."
+},
+"references":[
+[
+"Dobler CC, Morrow AS, Beuschel B, et al. Pharmacologic therapies in patients with exacerbation of chronic obstructive pulmonary disease: A systematic review with meta-analysis. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M19-3007",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2020;172:413-422. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32092762",
+"target":"_blank"
+},
+"children":[
+"PMID: 32092762"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":4,
+"C":15,
+"D":80,
+"E":0
+},
+"hlIds":[
+"04769c",
+"e8b69d",
+"cfb74a",
+"397dff",
+"8cf049",
+"dd372e",
+"f721da",
+"acab5a",
+"a6ba34",
+"8ba4a9",
+"d38148",
+"78ff87",
+"37f335",
+"e569b1",
+"2f0e35",
+"47b8f5",
+"d793f2",
+"30f4e2"
+]
+}

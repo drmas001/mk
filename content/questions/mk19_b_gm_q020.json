@@ -1,0 +1,191 @@
+{
+"id":"mk19_b_gm_q020",
+"number":20,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"91054a",
+"class":"updated",
+"children":[
+"This question has been updated as a result of postpublication analysis and/or new data that are relevant to the question."
+]
+},
+{
+"type":"p",
+"hlId":"5121d9",
+"children":[
+"A 65-year-old woman is evaluated during a routine health examination. She received the 23-valent pneumococcal polysaccharide vaccine 4 years ago; the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis vaccine 2 years ago; the hepatitis B vaccine series 1 year ago; and the influenza and COVID-19 vaccines during the most recent influenza season. She received two doses of the recombinant herpes zoster vaccine 3 years ago. Medical history is significant for stage 4 chronic kidney disease and type 2 diabetes mellitus."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"3dcf69",
+"children":[
+"Which of the following is the most appropriate vaccine to administer to this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Tetanus and diphtheria toxoids booster"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"20-Valent pneumococcal conjugate vaccine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"23-Valent pneumococcal polysaccharide vaccine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No vaccines are indicated"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"bad4e0",
+"children":[
+"Pneumococcal vaccination is recommended in all adults aged 65 years or older and in adults aged 19 to 64 years with certain high-risk conditions."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5f97ea",
+"children":[
+"The most appropriate vaccine to administer to this patient is the 20-valent pneumococcal conjugate vaccine (PCV20) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Pneumococcal vaccination is recommended in all adults aged 65 years or older and in adults aged 19 to 64 years with certain high-risk conditions. Three pneumococcal vaccines are available: the 15-valent conjugate vaccine (PCV15), the PCV20, and the 23-valent polysaccharide vaccine (PPSV23). The conjugate vaccines are favored over the PPSV23 as the primary vaccine. This patient received the PPSV23 four years ago because she has chronic kidney disease and is at increased risk for pneumococcal disease. She should additionally receive one of the conjugate vaccines at this time. The Advisory Committee on Immunization Practices (ACIP) recommends vaccination with either PCV15 or PCV20 in eligible patients who were previously vaccinated with PPSV23. In patients without prior vaccination, if PCV15 is used it should be followed by vaccination with PPSV23; this patient has already received PPSV23, so use of PCV15 or PCV20 alone is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"91400f",
+"children":[
+"All adults should receive a tetanus and diphtheria toxoids (Td) or the tetanus toxoid, reduced diphtheria toxoid, and acellular pertussis (Tdap) booster every 10 years. This patient received Tdap vaccine 2 years ago and does not require a Td booster (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") at this time."
+]
+},
+{
+"type":"p",
+"hlId":"050506",
+"children":[
+"Although most patients should receive pneumococcal vaccine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") at age 65 years, this patient received the vaccine early because of her increased risk. She should now receive one of the pneumococcal conjugate vaccines."
+]
+},
+{
+"type":"p",
+"hlId":"6d902d",
+"children":[
+"Given this patient's history of chronic kidney disease, and thus increased risk for pneumococcal disease, offering no vaccines at this time would not be the best strategy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s1_3_2_2",
+"objective":{
+"__html":"Vaccinate a patient at increased risk for pneumococcal disease."
+},
+"references":[
+[
+"Murthy N, Wodi AP, Bernstein H, et al; Advisory Committee on Immunization Practices. Recommended adult immunization schedule, United States, 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/M22-0036",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2022. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/35175828",
+"target":"_blank"
+},
+"children":[
+"PMID: 35175828"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":58,
+"C":14,
+"D":27,
+"E":0
+},
+"hlIds":[
+"91054a",
+"5121d9",
+"3dcf69",
+"bad4e0",
+"5f97ea",
+"91400f",
+"050506",
+"6d902d"
+]
+}

@@ -1,0 +1,1967 @@
+{
+"id":"mk19_a_id_s20",
+"subspecialtyId":"id",
+"title":"Stewardship and Emerging Resistance",
+"jsonContent":{
+"type":"section",
+"id":"mk19_a_id_s20",
+"title":{
+"__html":"Stewardship and Emerging Resistance"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"be4850",
+"children":[
+"Stewardship and Emerging Resistance"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_a_id_s20_1",
+"title":{
+"__html":"Introduction"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"0b7979",
+"children":[
+"Introduction"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"6be94e",
+"children":[
+"Emergence of antibiotic resistance is potentiated by all antibiotic use. Careful antibiotic use is essential to preserving the armamentarium. Approximately 269 million outpatient antibiotic prescriptions were dispensed in the United States in 2015, and at least 30% of these were considered unnecessary. Most prescriptions are for acute respiratory infections (usually caused by viruses) and asymptomatic bacteriuria not requiring antibiotic treatment. Inpatient antibiotic use accounts for 38.5% of all antibiotic use; half of hospitalized patients receive antibiotics, and half of these medications are considered unnecessary or inappropriate. The CDC and the World Health Organization developed comprehensive plans outlining urgent actions to combat antibiotic resistance; these include addressing carbapenem-resistant Enterobacteriaceae (CRE) and other highly resistant gram-negative bacteria, developing improved diagnostics, and accelerating research for new antibiotics."
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s20_2",
+"title":{
+"__html":"Antimicrobial Stewardship and the Value of Infectious Disease Consultation"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a71c38",
+"children":[
+"Antimicrobial Stewardship and the Value of Infectious Disease Consultation"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"908247",
+"children":[
+"Antibiotic stewardship refers to coordinated interventions to improve antibiotic use and clinical outcomes by promoting optimal antibiotic regimens. Goals include minimizing adverse events (5% risk per antibiotic per patient), risk of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" infection, and emergence of resistance. A key responsibility of stewardship programs is avoiding antibiotic administration when not indicated. Antibiotic selection, dosing, therapy duration, and route of administration are also considered. Furthermore, antimicrobial stewardship teams, including an infectious disease physician and a dedicated pharmacist, address simplifying unnecessary combination therapy, avoiding redundant double anaerobic coverage, streamlining de-escalation, targeting antibiotics with a high risk of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"C. difficile"
+]
+},
+" infection (such as clindamycin, fluoroquinolones, and broad-spectrum antibiotics), pharmacokinetic monitoring and dose adjustment, converting intravenous to oral agents, and raising awareness of potential adverse effects (for example, increased risk with fluoroquinolones for QT interval prolongation, aortic aneurysm and dissection, hypoglycemia, and tendinitis and tendon rupture)."
+]
+},
+{
+"type":"p",
+"hlId":"032fbf",
+"children":[
+"Combination therapy does not prevent the emergence of resistance. However, it may be considered in specific circumstances, such as empiric therapy regimens, to broaden the spectrum of activity or provide coverage for potential antimicrobial-resistant organisms pending culture and susceptibility results. Antibiotic combination therapy may also provide synergistic activity in limited situations, such as enterococcal endocarditis and bacteremia caused by CRE."
+]
+},
+{
+"type":"p",
+"hlId":"0bce8b",
+"children":[
+"Conversion from an intravenous to an oral antimicrobial agent should be considered for ease of administration and to limit intravenous catheter use. Factors supporting readiness for conversion include a temperature of 38 °C (100.4 °F) or less, an improving leukocyte count, clinical stability and improvement of signs and symptoms related to infection, a functioning gastrointestinal tract, no indication for intravenous therapy (endocarditis, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" bacteremia), and availability of a suitable oral alternative with good oral bioavailability (fluoroquinolones, metronidazole, or doxycycline, among others)."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"1c7ca2",
+"hvc":true,
+"children":[
+"Avoiding unnecessary antibiotic use, simplifying unnecessary combination therapy, avoiding double anaerobic coverage, converting intravenous to oral agents, streamlining de-escalation, and minimizing therapy duration are important components of antimicrobial stewardship programs."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s20_3",
+"title":{
+"__html":"Antibiotics for Antibiotic-Resistant Organisms"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"0cfd81",
+"children":[
+"Antibiotics for Antibiotic-Resistant Organisms"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"426439",
+"children":[
+"An infectious diseases consultation should be considered for infections with antibiotic-resistant organisms because few effective antibiotics are available to treat these infections. ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterococcus faecium"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Acinetobacter"
+]
+},
+" species, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas aeruginosa"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterobacter"
+]
+},
+" species are particularly problematic antibiotic-resistant organisms. This group includes extended-spectrum β-lactamase (ESBL)–producing gram-negative bacteria and carbapenemase-producing CRE (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+" carbapenemases [KPC] and New Delhi metallo-β-lactamase) that destroy carbapenems. The presence of ESBLs can be inferred by the antibiotic sensitivity pattern (i.e., cefotaxime, ceftazidime, ceftriaxone, or cefepime resistance). Intravenous carbapenems are the preferred option for treating serious infections caused by ESBLs. In addition to several newer antibiotics, tigecycline and ceftazidime-avibactam remain options for treating infections caused by KPC-producing gram-negative bacteria. Ceftolozane-tazobactam is an option for treating multidrug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+" infections."
+]
+},
+{
+"type":"p",
+"hlId":"a9218c",
+"children":[
+"Several older antibiotics retain their activity against some antibiotic-resistant organisms. Minocycline has activity against multidrug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Acinetobacter"
+]
+},
+" and has been used to treat ventilator-associated pneumonia with an 80% clinical response rate. Minocycline is also useful for treating infections caused by ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Stenotrophomonas maltophilia"
+]
+},
+", a problematic pathogen with intrinsic antibiotic resistance. In vitro susceptibility to minocycline can be inferred from susceptibility to tetracycline; however, some tetracycline-resistant strains are sensitive to minocycline. Fosfomycin is a bactericidal oral antibiotic with gram-negative and gram-positive activity (including methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" [MRSA] and vancomycin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterococcus"
+]
+},
+" [VRE]). It achieves high concentrations in the urine and may be used to treat cystitis caused by multidrug-resistant uropathogens such as VRE and carbapenemase-producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+". Colistin (polymyxin E) is a bactericidal agent, administered by nebulized aerosol or intravenously, that is used to treat multidrug- and pan-resistant aerobic, gram-negative infections, including ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"P. aeruginosa"
+]
+},
+". ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Proteus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Providencia"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Burkholderia"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Morganella"
+]
+},
+", and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Serratia"
+]
+},
+" species are resistant to colistin. Colistin resistance has been described in some multidrug-resistant gram-negative infections (mostly carbapenemase-producing ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+"). The most common adverse effect is nephrotoxicity (up to 50% of patients), which is usually reversible."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"d94f5b",
+"children":[
+"Minocycline has activity against multidrug-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Acinetobacter"
+]
+},
+" and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Stenotrophomonas maltophilia"
+]
+},
+"."
+]
+},
+{
+"type":"keypoint",
+"hlId":"acdbc7",
+"children":[
+"Fosfomycin has gram-negative and gram-positive activity (including methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" and vancomycin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterococcus"
+]
+},
+") and achieves high concentrations in the urine, making it useful for treating cystitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"8082da",
+"children":[
+"Nephrotoxicity occurs in up to 50% of patients treated with colistin, although it is usually reversible."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s20_4",
+"title":{
+"__html":"Newer Antibacterial Drugs"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"47867f",
+"children":[
+"Newer Antibacterial Drugs"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"f382bd",
+"children":[
+"Two novel tetracycline derivatives, eravacycline and omadacycline, have activity against many gram-positive (including MRSA and VRE) and gram-negative organisms (including CRE) as well as anaerobes and atypical bacteria. Meropenem-vaborbactam is a combination carbapenem/β-lactamase inhibitor antibiotic that has activity against KPC (vaborbactam is more potent against KPC-producing organisms than other β-lactamase inhibitors), ESBL, and AmpC β-lactamase–producing Enterobacteriaceae. Plazomicin is an aminoglycoside with activity against some aminoglycoside-resistant, gram-negative organisms; however, it does not provide superior benefit to older aminoglycosides for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Acinetobacter"
+]
+},
+" species ",
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+"className":"text-nowrap"
+},
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+{
+"type":"table-link",
+"target":"mk19_a_id_t69",
+"wrapId":"1",
+"children":[
+"Table 69"
+]
+}
+]
+},
+")"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_id_t69"
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s20_5",
+"title":{
+"__html":"Outpatient Parenteral Antibiotic Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"f09601",
+"children":[
+"Outpatient Parenteral Antibiotic Therapy"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"6ea03a",
+"children":[
+"Outpatient parenteral antibiotic therapy (OPAT) is defined as administration of at least two doses of intravenous antibiotics on different days without intervening hospitalization. OPAT allows patients to complete parenteral antibiotic therapy at home or in other outpatient settings when an oral antibiotic is not appropriate or available. Bone and joint infections are those most commonly treated with OPAT; other candidates include endocarditis, cardiac device infections, abdominal infections, skin and soft tissue infections, and antibiotic-resistant infections for which parenteral antibiotics are the only option (such as urinary tract infection)."
+]
+},
+{
+"type":"p",
+"hlId":"dad49e",
+"children":[
+"Patients should be clinically stable and their infection improving before starting OPAT. When considering OPAT, it is important to assess the type of infection being treated, the prescribed antibiotic and dosing frequency, the planned therapy duration, the administration site, the intravenous catheter type, and the monitoring process for possible complications. Increasingly, OPAT is being started without initial hospitalization after careful medical assessment by a well-established and organized OPAT program. OPAT requires close monitoring and may include antibiotic levels (vancomycin, aminoglycosides), complete blood count, creatinine level, liver chemistry tests, and coagulation tests; patients receiving daptomycin therapy in particular should undergo baseline measurement of kidney function and creatine kinase level, followed by weekly monitoring. Antibiotic doses and timing should be adjusted based on monitoring results. Treatment failure may result from relapse or progression of primary infection (60% and 21%, respectively) and therapeutic complications (19%). Successful OPAT requires patient participation; supervised infectious diseases OPAT programs have been shown to be safe, efficient, and clinically effective."
+]
+},
+{
+"type":"keypoints",
+"children":[
+{
+"type":"keypoint",
+"hlId":"5e0cb8",
+"children":[
+"Bone and joint infections are the primary infections treated with outpatient parenteral antibiotic therapy (OPAT); other candidates for OPAT include serious infections (endocarditis, cardiac device infections, abdominal infections, and skin and soft tissue infections) and antibiotic-resistant infections for which parenteral antibiotics are the only option (such as urinary tract infection)."
+]
+}
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_a_id_s20_6",
+"bibliography":true,
+"title":{
+"__html":"Bibliography"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"a7cc81",
+"children":[
+"Bibliography"
+]
+},
+"children":[
+{
+"type":"references",
+"children":[
+{
+"type":"reference",
+"children":[
+"Karaiskos I, Lagou S, Pontikis K, et al. The “old” and the “new” antibiotics for MDR gram-negative pathogens: for whom, when, and how. Front Public Health. 2019;7:151. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31245348",
+"target":"_blank"
+},
+"children":[
+"PMID: 31245348"
+]
+},
+" doi:10.3389/fpubh.2019.00151"
+]
+},
+{
+"type":"reference",
+"children":[
+"Logan LK, Weinstein RA. The epidemiology of carbapenem-resistant enterobacteriaceae: the impact and evolution of a global menace. J Infect Dis. 2017;215:S28-S36. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28375512",
+"target":"_blank"
+},
+"children":[
+"PMID: 28375512"
+]
+},
+" doi:10.1093/infdis/jiw282"
+]
+},
+{
+"type":"reference",
+"children":[
+"Norris AH, Shrestha NK, Allison GM, et al. 2018 Infectious Diseases Society of America clinical practice guideline for the management of outpatient parenteral antimicrobial therapy. Clin Infect Dis. 2019;68:1-4. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30551156",
+"target":"_blank"
+},
+"children":[
+"PMID: 30551156"
+]
+},
+" doi:10.1093/cid/ciy867"
+]
+}
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_a_id_t69":{
+"id":"mk19_a_id_t69",
+"number":69,
+"bookId":"id",
+"title":{
+"__html":"Newer Antimicrobial Agents"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"833a30",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 69. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_id_t69"
+}
+]
+},
+"Newer Antimicrobial Agents"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"744605",
+"class":"col hd l",
+"children":[
+"Agent"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9bd813",
+"class":"col hd l",
+"children":[
+"Class"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6cdc4b",
+"class":"col hd l",
+"children":[
+"Mechanism of Action"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"9405c3",
+"class":"col hd l",
+"children":[
+"Route"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b8bc11",
+"class":"col hd l",
+"children":[
+"Adverse Effects"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f586ee",
+"class":"col hd l",
+"children":[
+"Issues/Limitations"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f33e18",
+"class":"col hd l",
+"children":[
+"FDA Indications"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6476fb",
+"class":"col hd l",
+"children":[
+"Relative Cost/d"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e8c8e4",
+"class":"cell txt l",
+"children":[
+"Eravacycline"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"605e6f",
+"class":"cell txt l",
+"children":[
+"Fluorocycline (a next-generation tetracycline)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cc23d8",
+"class":"cell txt l",
+"children":[
+"Disrupts protein synthesis by binding to the 30S ribosome; prevents incorporation of amino acids into elongating peptide chains"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf482c",
+"class":"cell txt l",
+"children":[
+"IV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"23e4be",
+"class":"cell txt l",
+"children":[
+"Inhibition of bone growth"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"be671e",
+"class":"cell txt l",
+"children":[
+"Other effects similar to other tetracycline-class antibacterial drugs (tooth discoloration, photosensitivity)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e180d9",
+"class":"cell txt l",
+"children":[
+"Dose modification with severe hepatic impairment; potential risk to fetus in 2nd and 3rd trimester of pregnancy"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"fdba44",
+"class":"cell txt l",
+"children":[
+"Complicated intra-abdominal infections"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"13cec1",
+"class":"cell txt l",
+"children":[
+"Active against ESBL and CRE gram-negative bacteria, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Escherichia coli"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Citrobacter freundii"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterobacter cloacae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella oxytoca"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterococcus faecalis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Enterococcus faecium"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus anginosus"
+]
+},
+" group, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridium perfringens"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Bacteroides"
+]
+},
+" species, and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Parabacteroides distasonis"
+]
+},
+" strains"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"58859d",
+"class":"cell txt l",
+"children":[
+"$$"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"92f6c4",
+"class":"cell txt l",
+"children":[
+"Meropenem-vaborbactam"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"129b2b",
+"class":"cell txt l",
+"children":[
+"Carbapenem with a β-lactamase inhibitor"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8ce20e",
+"class":"cell txt l",
+"children":[
+"Inhibits cell wall synthesis, penetrates cell wall of most gram-positive and gram-negative bacteria and binds with high affinity binding to PBPs"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf482c",
+"class":"cell txt l",
+"children":[
+"IV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c9b993",
+"class":"cell txt l",
+"children":[
+"Similar to meropenem, including seizures and other central nervous system events"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d8ae0c",
+"class":"cell txt l",
+"children":[
+"Lowers valproic acid levels; should not be used concomitantly with valproic acid or divalproex sodium"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"450289",
+"class":"cell txt l",
+"children":[
+"Not active against metallo-β-lactamases"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b91fab",
+"class":"cell txt l",
+"children":[
+"Complicated UTIs, including pyelonephritis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"941953",
+"class":"cell txt l",
+"children":[
+"Same activity as meropenem PLUS KPC-producing gram-negative organisms (",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. cloacae"
+]
+},
+" species complex)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f1fd19",
+"class":"cell txt l",
+"children":[
+"$$$$"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"57c999",
+"class":"cell txt l",
+"children":[
+"Omadacycline"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"6c95b5",
+"class":"cell txt l",
+"children":[
+"Aminomethylcycline (a next-generation tetracycline)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a0d212",
+"class":"cell txt l",
+"children":[
+"Disrupts protein synthesis by binding to the 30S ribosome; prevents incorporation of amino acids into elongating peptide chains; able to bypass certain resistance mechanisms affecting older tetracycline antibiotics (e.g., efflux pumps and ribosomal protection proteins)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"43a280",
+"class":"cell txt l",
+"children":[
+"IV, PO"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"23e4be",
+"class":"cell txt l",
+"children":[
+"Inhibition of bone growth"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"be671e",
+"class":"cell txt l",
+"children":[
+"Other effects similar to other tetracycline-class antibacterial drugs (tooth discoloration, photosensitivity)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bd7595",
+"class":"cell txt l",
+"children":[
+"Avoid use during pregnancy"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"3f3ebd",
+"class":"cell txt l",
+"children":[
+"Oral absorption impaired by antacids, dairy products, and vitamins"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ec53b9",
+"class":"cell txt l",
+"children":[
+"ABSSSIs and CABP"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"68f09b",
+"class":"cell txt l",
+"children":[
+"For CABP, active against: ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", MSSA, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus parainfluenzae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Legionella pneumophila"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Chlamydophila pneumoniae"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"225417",
+"class":"cell txt l",
+"children":[
+"For ABSSSI, active against: MSSA and MRSA, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus lugdunensis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pyogenes"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. anginosus"
+]
+},
+" species, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. faecalis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. cloacae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"54ce99",
+"class":"cell txt l",
+"children":[
+"$$$"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b309ad",
+"class":"cell txt l",
+"children":[
+"Plazomicin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"01d70c",
+"class":"cell txt l",
+"children":[
+"Aminoglycoside; retains activity against aminoglycoside-resistant organisms owing to protection from most aminoglycoside-modifying enzymes"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1244c5",
+"class":"cell txt l",
+"children":[
+"Binds to bacterial 30S ribosomal subunit inhibiting protein synthesis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf482c",
+"class":"cell txt l",
+"children":[
+"IV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"78a093",
+"class":"cell txt l",
+"children":[
+"Nephrotoxicity, ototoxicity, neuromuscular blockade"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"55a308",
+"class":"cell txt l",
+"children":[
+"Monitor trough levels"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4064d9",
+"class":"cell txt l",
+"children":[
+"Complicated UTI including pyelonephritis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f5c91b",
+"class":"cell txt l",
+"children":[
+"Active against ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. coli"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"K. pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Proteus mirabilis"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"E. cloacae"
+]
+},
+", ESBL-producing gram-negative bacteria, and CRE"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f1fd19",
+"class":"cell txt l",
+"children":[
+"$$$$"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"ABSSSI = acute bacterial skin and skin-structure infection; CABP = community-acquired bacterial pneumonia; CRE = carbapenem-resistant Enterobacteriaceae; ESBL = extended-spectrum β-lactamase; KPC = ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Klebsiella pneumoniae"
+]
+},
+" carbapenemases; IV = intravenous; MRSA = methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+"; MSSA = methicillin-sensitive ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+"; PBP = penicillin-binding protein; PO = by mouth; UTI = urinary tract infection."
+]
+]
+}
+}
+}

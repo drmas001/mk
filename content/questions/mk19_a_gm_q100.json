@@ -1,0 +1,207 @@
+{
+"id":"mk19_a_gm_q100",
+"number":100,
+"bookId":"gm",
+"correctAnswer":"D",
+"title":"Question 100",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3adb63",
+"children":[
+"A 50-year-old man is evaluated for worsening depressive symptoms. He has major depressive disorder, which was previously well controlled with fluoxetine, 20 mg daily."
+]
+},
+{
+"type":"p",
+"hlId":"3096dc",
+"children":[
+"On physical examination, vital signs are normal. The patient appears anxious and tired. He becomes tearful when discussing his current situation."
+]
+},
+{
+"type":"p",
+"hlId":"d38a12",
+"children":[
+"Repeat score on PHQ-9 is 15; his previous score was 8."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"51c557",
+"children":[
+"Which of the following is the most important next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Add olanzapine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Administer the Mood Disorder Questionnaire"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Increase fluoxetine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Inquire about suicidal ideation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6a4ee4",
+"children":[
+"Patients with depression must be specifically asked about suicidal ideation and behaviors."
+]
+},
+{
+"type":"keypoint",
+"hlId":"db5a0a",
+"children":[
+"Patients with positive or equivocal answers about suicidality require an immediate safety assessment and full mental health evaluation."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51825c",
+"children":[
+"This patient with acute worsening of previously controlled major depressive disorder should be assessed for suicidal ideation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Nearly 40% of patients who attempt suicide report being seen by a physician within 1 week of the attempt; failing to inquire about suicidal ideation is a missed opportunity to intervene in a potentially life-threatening situation. Patients can be screened with validated instruments, such as the Ask Suicide-Screening Questions tool (",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/asq-screening-tool.shtml",
+"target":"_blank"
+},
+"children":[
+"https://www.nimh.nih.gov/research/research-conducted-at-nimh/asq-toolkit-materials/asq-tool/asq-screening-tool.shtml"
+]
+},
+"). Patients with positive or equivocal answers about suicidality require an immediate safety assessment and full mental health evaluation; this patient cannot leave until evaluated for safety."
+]
+},
+{
+"type":"p",
+"hlId":"549130",
+"children":[
+"If initial monotherapy for depression fails to achieve an adequate response, increasing the dosage of the chosen medication or adding psychotherapy (if not already used) may be appropriate. If no response is seen, switching to another agent or adding a second agent with or without psychotherapy is indicated. A second-line approach is the addition of an antipsychotic drug. Approved antidepressant-antipsychotic combinations include olanzapine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") with fluoxetine and aripiprazole or quetiapine with any antidepressant. Before changes in therapy are initiated, suicidality must be assessed because that assessment will dictate subsequent actions."
+]
+},
+{
+"type":"p",
+"hlId":"96de2a",
+"children":[
+"The Mood Disorder Questionnaire (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is intended to screen for mania. Clinicians must assess patients with depression for any history of elevated mood, which would suggest bipolar disorder; prescribing antidepressant monotherapy to a patient with bipolar disorder may precipitate a manic episode. This patient does not have any symptoms concerning for mania, and the current crisis is related to worsening depressive symptoms, not mania."
+]
+},
+{
+"type":"p",
+"hlId":"e48ae8",
+"children":[
+"Selective serotonin reuptake inhibitors—such as fluoxetine, with which this patient is treated—are one of the four classes of second-generation antidepressants that are considered first-line therapy for major depressive disorder. Partial response to the initial dosage should be followed by dosage titration. Although an increase in fluoxetine dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be required to treat this patient's increased depressive symptoms, the time-to-effect of this dosage change would not be immediate and would be insufficient to address suicidal ideation if present."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s9_1_1",
+"objective":{
+"__html":"Screen for suicidal ideation in a patient with major depressive disorder."
+},
+"references":[
+[
+"Fazel S, Runeson B. Suicide. N Engl J Med. 2020;382:266-74. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31940700",
+"target":"_blank"
+},
+"children":[
+"PMID: 31940700"
+]
+},
+" doi:10.1056/NEJMra1902944"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":5,
+"C":8,
+"D":85,
+"E":0
+},
+"hlIds":[
+"3adb63",
+"3096dc",
+"d38a12",
+"51c557",
+"6a4ee4",
+"db5a0a",
+"51825c",
+"549130",
+"96de2a",
+"e48ae8"
+]
+}

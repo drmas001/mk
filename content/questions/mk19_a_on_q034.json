@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_on_q034",
+"number":34,
+"bookId":"on",
+"correctAnswer":"D",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"904f5e",
+"children":[
+"A 64-year-old woman is evaluated in the office following a diagnosis of metastatic breast cancer. Six years ago, she was diagnosed with breast cancer and treated with lumpectomy, irradiation, and a complete course of adjuvant hormonal therapy. Two weeks ago, a bone lytic lesion was found on a lumbar spine radiograph taken for low back pain after a fall while playing tennis. Subsequent CT scans revealed diffuse involvement of her axial skeleton with no associated fractures and no epidural extension. The patient is currently asymptomatic. Medical history is unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"c0de9e",
+"children":[
+"On physical examination, vital signs are within normal limits, and examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"cbe26c",
+"children":[
+"Systemic therapy for metastatic breast cancer is planned."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Calcium and vitamin D"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Spine irradiation"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Teriparatide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Zoledronic acid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"42aa00",
+"children":[
+"For patients who have breast cancer with bone metastases, bone-modifying agents such as zoledronic acid or denosumab are recommended to prevent bone-related events such as bone pain, cord compression, need for palliative irradiation, and hypercalcemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dd5aa4",
+"children":[
+"This patient should receive zoledronic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A bone-modifying agent is administered routinely to all patients with metastatic breast cancer and bone metastases to prevent the development of skeletal-related events, including bone pain, cord compression, need for palliative radiation therapy, and hypercalcemia. Appropriate agents include zoledronic acid (a bisphosphonate) or denosumab (a receptor activator of nuclear factor κB ligand inhibitor). Zoledronic acid and denosumab are generally administered every 3 months because of similar efficacy to monthly dosing. Zoledronic acid is cleared through the kidneys and is contraindicated among patients with creatinine clearance less than 30 mL/min. Dose adjustment is not recommended for denosumab in patients with renal insufficiency. Both agents may cause symptomatic hypocalcemia. Additionally, both agents are associated with small risks of osteonecrosis of the jaw, and treatment should generally be held for patients who have active dental issues for which extractions or other dental work is needed. Zoledronic acid is substantially less costly than denosumab and, given similar efficacy, should be the preferred option for most patients."
+]
+},
+{
+"type":"p",
+"hlId":"2bfa4b",
+"children":[
+"Patients receiving bone-modifying agents may be at risk for the development of hypocalcemia and, in the absence of hypercalcemia, should be treated with vitamin D and calcium to prevent hypocalcemia. However, calcium and vitamin D alone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are an insufficient preventive therapy for this patient with metastatic bone disease."
+]
+},
+{
+"type":"p",
+"hlId":"124f2f",
+"children":[
+"This patient has asymptomatic bone metastases and should not receive spine irradiation. Metastatic breast cancer is managed primarily with systemic treatments to control growth and spread of the disease and to prevent treatment symptoms that arise from metastases. Palliative irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is often useful for patients with focal areas of pain caused by bone metastases but is not indicated in this asymptomatic woman."
+]
+},
+{
+"type":"p",
+"hlId":"026dd8",
+"children":[
+"Teriparatide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is a form of parathyroid hormone and acts as an anabolic agent to promote bone formation for the treatment of osteoporosis. It is not used to treat bone metastases from solid tumors. Additionally, its use is contraindicated for patients with a history of irradiation due to concerns regarding an increased risk of osteosarcoma in the treatment field."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_9",
+"objective":{
+"__html":"Treat bone metastases from breast cancer."
+},
+"references":[
+[
+"Tahara RK, Brewer TM, Theriault RL, et al. Bone metastasis of breast cancer. Adv Exp Med Biol. 2019;1152:105-29. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31456182",
+"target":"_blank"
+},
+"children":[
+"PMID: 31456182"
+]
+},
+" doi:10.1007/978-3-030-20301-6_7"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":9,
+"B":18,
+"C":6,
+"D":68,
+"E":0
+},
+"hlIds":[
+"904f5e",
+"c0de9e",
+"cbe26c",
+"78ff87",
+"42aa00",
+"dd5aa4",
+"2bfa4b",
+"124f2f",
+"026dd8"
+]
+}

@@ -1,0 +1,222 @@
+{
+"id":"mk19_b_cv_q079",
+"number":79,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 79",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ef2f23",
+"children":[
+"A 68-year-old man is evaluated during a routine follow-up visit. Medical history is significant for type 2 diabetes mellitus, hyperlipidemia, hypertension, and aortofemoral bypass surgery 2 years ago. Previous evaluation documented a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 50% and stage G3bA2 chronic kidney disease. Medications are metformin, atenolol, lisinopril, amlodipine, aspirin, rivaroxaban, and atorvastatin."
+]
+},
+{
+"type":"p",
+"hlId":"32df55",
+"children":[
+"On physical examination, vital signs are normal. BMI is 30. An aortofemoral bypass surgical scar is present. Pulses are present and moderately strong in the lower extremities."
+]
+},
+{
+"type":"p",
+"hlId":"3856f1",
+"children":[
+"The most recent ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level is 7.1%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"78ff87",
+"children":[
+"Which of the following is the most appropriate additional treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Clopidogrel"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Liraglutide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Niacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pramlintide"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e8c054",
+"children":[
+"In patients with type 2 diabetes mellitus, sodium-glucose cotransporter 2 inhibitors and glucagon-like peptide 1 receptor agonists are associated with reduced rates of adverse cardiovascular events, including stroke, myocardial infarction, and cardiovascular death, compared with placebo."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1b812f",
+"children":[
+"The most appropriate additional treatment is liraglutide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The 2021 Standards of Medical Care in Diabetes from the American Diabetes Association, endorsed by the American College of Cardiology, recommends either a sodium-glucose cotransporter 2 (SGLT2) inhibitor or a glucagon-like peptide 1 (GLP-1) receptor agonist in patients with type 2 diabetes mellitus who have established atherosclerotic cardiovascular disease, as part of comprehensive cardiovascular risk reduction and/or the glucose-lowering regimen. In this population, both drugs are associated with reduced rates of adverse cardiovascular events, including stroke, myocardial infarction, and cardiovascular death. In this patient with obesity, the GLP-1 receptor agonist liraglutide may be preferred to an SGLT2 inhibitor because it is associated with weight loss. Furthermore, the hypoglycemic effect of SGLT2 inhibitors is diminished if the estimated glomerular filtration rate is less than 45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", as it is in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"6f2ff9",
+"children":[
+"Long-term treatment with dual antiplatelet therapy, such as aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), should be considered for patients with prior coronary intervention, high ischemic risk, and low bleeding risk to prevent major adverse cardiovascular events. However, this patient is already taking rivaroxaban and aspirin. Combination therapy with aspirin plus low-dose rivaroxaban should be considered in patients with stable coronary and/or peripheral artery disease and low bleeding risk to prevent major adverse limb and cardiovascular events. The addition of clopidogrel to this regimen (triple antithrombotic therapy) is generally avoided because of the increased risk for bleeding."
+]
+},
+{
+"type":"p",
+"hlId":"72ce61",
+"children":[
+"Statin plus niacin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") combination therapy has not been shown to provide additional cardiovascular benefit above statin therapy alone, may increase side effects, and is generally not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"62d471",
+"children":[
+"Pramlintide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), an injectable agent used to treat diabetes, is an amylin mimetic that slows gastric emptying, suppresses glucagon secretion, and increases satiety. It is associated with weight loss but has no known effects on the incidence of cardiovascular events, including myocardial infarction, stroke, or cardiovascular death, and would not be the best choice for this high-risk patient."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_3_4_2",
+"objective":{
+"__html":"Treat a patient with diabetes mellitus and atherosclerotic cardiovascular disease with a glucagon-like peptide 1 receptor agonist."
+},
+"references":[
+[
+"American Diabetes Association. 10. Cardiovascular disease and risk management: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S125-S150. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298421",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298421"
+]
+},
+" doi:10.2337/dc21-S010"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":8,
+"B":84,
+"C":3,
+"D":4,
+"E":0
+},
+"hlIds":[
+"ef2f23",
+"32df55",
+"3856f1",
+"78ff87",
+"e8c054",
+"1b812f",
+"6f2ff9",
+"72ce61",
+"62d471"
+]
+}

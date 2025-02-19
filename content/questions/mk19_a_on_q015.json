@@ -1,0 +1,259 @@
+{
+"id":"mk19_a_on_q015",
+"number":15,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"19a758",
+"children":[
+"A 62-year-old woman undergoes follow-up evaluation for epithelial ovarian cancer. Seven months ago, she underwent surgical debulking with optimal cytoreduction, and the primary tumor and visible metastases were all resected. Surgery was followed by platinum-taxane chemotherapy. There has been no evidence of disease recurrence. Germline genetic testing revealed a ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" mutation. Her medical history is otherwise unremarkable, and she takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"64932f",
+"children":[
+"On physical examination, vital signs are normal. There is a well-healed laparotomy incision."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1fa31e",
+"children":[
+"Which of the following is the most appropriate additional treatment for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Irradiation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Poly (ADP-ribose) polymerase inhibitor therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Second course of chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"defcc0",
+"children":[
+"Women with advanced ovarian cancer and ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" mutations who achieve some response to platinum-based chemotherapy should receive subsequent maintenance therapy with a poly (ADP-ribose) polymerase inhibitor."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"df3df0",
+"children":[
+"This patient has advanced epithelial ovarian cancer and a germline ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" mutation and should receive maintenance therapy with a poly (ADP-ribose) polymerase (PARP) inhibitor (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). She had optimal debulking, defined as residual tumor deposits less than 1 cm in size, which is associated with improved outcomes. The addition of adjuvant platinum-taxane chemotherapy also improves disease-free and overall survival. For ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1"
+]
+},
+" or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+" mutation carriers with platinum-sensitive disease (a disease-free interval greater than 6 months), the addition of a maintenance PARP inhibitor following the completion of adjuvant chemotherapy is associated with substantial improvements in progression-free survival. PARPs are involved in repair of single-strand breaks. PARP inhibition leads to DNA breaks that activate homologous recombination (HR) repair. Patients with ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA"
+]
+},
+" mutations have defective HR repair, which results in an error-prone repair mechanism that cannot repair these breaks, leading to cell death. In this way, PARP inhibitors are cytotoxic for cancer cells, especially those with a germline or somatic ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" mutation. Maintenance PARP inhibition is also recommended for patients without ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA1/2"
+]
+},
+" mutations, but benefits in progression-free survival are lesser."
+]
+},
+{
+"type":"p",
+"hlId":"c9369b",
+"children":[
+"Irradiation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") does not play a role in the adjuvant management of patients with advanced ovarian cancer. Ovarian cancer has a tendency to disseminate within the peritoneal cavity along the peritoneal surface and requires a systemic therapy approach following initial surgery."
+]
+},
+{
+"type":"p",
+"hlId":"4b0bba",
+"children":[
+"Repeat treatment with platinum-taxane chemotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not recommended in this patient who has responded to initial therapy and has no evidence of recurrent disease. Platinum-based chemotherapy is indicated in patients who relapse 6 months or longer after initial therapy and are more likely to respond to a second course of platinum-based chemotherapy than those who relapse before 6 months. This patient has responded to initial therapy, and the addition of maintenance PARP inhibitor therapy further improves progression-free survival and delays the need for a second course of platinum-based chemotherapy."
+]
+},
+{
+"type":"p",
+"hlId":"8c365b",
+"children":[
+"No additional therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is inappropriate for this patient with advanced epithelial ovarian cancer. The addition of a PARP inhibitor results in substantial improvements in progression-free survival and delays the need for a second course of chemotherapy."
+]
+}
+],
+"relatedSection":"mk19_a_on_s3_4",
+"objective":{
+"__html":"Treat a patient with germline <i>BRCA1</i> mutation and advanced ovarian cancer."
+},
+"references":[
+[
+"González-Martín A, Pothuri B, Vergote I, et al; PRIMA/ENGOT-OV26/GOG-3012 Investigators. Niraparib in patients with newly diagnosed advanced ovarian cancer. N Engl J Med. 2019;381:2391-2402. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31562799",
+"target":"_blank"
+},
+"children":[
+"PMID: 31562799"
+]
+},
+" doi:10.1056/NEJMoa1910962"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":29,
+"C":6,
+"D":63,
+"E":0
+},
+"hlIds":[
+"19a758",
+"64932f",
+"1fa31e",
+"defcc0",
+"df3df0",
+"c9369b",
+"4b0bba",
+"8c365b"
+]
+}

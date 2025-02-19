@@ -1,0 +1,171 @@
+{
+"id":"mk19_a_on_q014",
+"number":14,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"413dae",
+"children":[
+"A 62-year-old woman was diagnosed 2.5 years ago with left-sided, stage IIB, estrogen receptor–positive, human epidermal growth factor receptor 2–negative breast cancer treated with mastectomy, postmastectomy irradiation, and letrozole, which was started 2 years ago. Medical history is otherwise unremarkable. Current medications are letrozole, a calcium supplement, and cholecalciferol."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"211735",
+"children":[
+"Which of the following is the most appropriate screening or surveillance test to perform at this time?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of chest, abdomen, and pelvis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dual-energy x-ray absorptiometry"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Echocardiogram"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pelvic ultrasound"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"02b80a",
+"children":[
+"Aromatase inhibitors are associated with bone loss and an elevated risk of fracture; patients on aromatase inhibitors should have bone density studies every 2 years."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3a4d40",
+"children":[
+"Patients on aromatase inhibitors are recommended to have bone density evaluated with dual-energy x-ray absorptiometry (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") at the start of treatment to establish a baseline and periodically, every 2 years, while on treatment. Aromatase inhibitors are associated with bone loss and an elevated risk of fracture. The risk of fracture with 5 years of aromatase inhibitor therapy is about 8% to 10%. Patients receiving extended aromatase inhibitor therapy have a higher risk of bone loss and fracture. Consensus guidelines recommend obtaining bone density tests routinely to assess fracture risk. Clinical tools such as the Fracture Risk Assessment Tool can be used to estimate fracture risk using bone density measurement. Fracture risk informs management strategies for osteoporosis and osteopenia, including use of supplemental vitamin D and/or a bone-modifying agent such as a bisphosphonate."
+]
+},
+{
+"type":"p",
+"hlId":"7663da",
+"children":[
+"Breast cancer survivors without symptoms suggestive of distant recurrence are not recommended to undergo routine surveillance CTs (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Multiple randomized trials have compared an intensive surveillance strategy (with CTs and tumor markers) versus routine care and found no difference in long-term outcomes except that intensive surveillance was associated with inferior quality of life."
+]
+},
+{
+"type":"p",
+"hlId":"a48fd8",
+"children":[
+"Echocardiograms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") are not routinely recommended for breast cancer survivors taking aromatase inhibitors or after postmastectomy irradiation. Echocardiograms are performed before receipt of cardiotoxic chemotherapy such as anthracyclines or trastuzumab. Patients with higher cumulative doses and evidence of reduced ejection fraction should have a cardiology consultation. For asymptomatic patients treated with human epidermal growth factor receptor 2–targeted therapy, routine testing posttherapy is not recommended. Potential complications of radiation therapy include coronary artery disease, cardiomyopathy, valvular disease, pericardial disease, and arrhythmias. However, there is no consensus on cardiac testing in asymptomatic patients after chest irradiation."
+]
+},
+{
+"type":"p",
+"hlId":"9c6846",
+"children":[
+"Pelvic ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not performed routinely for patients on aromatase inhibitors, which do not increase the risk of endometrial cancer. Tamoxifen is associated with a small increase in the risk of endometrial cancer. If a postmenopausal woman on tamoxifen experiences vaginal bleeding, pelvic ultrasonography should be performed to evaluate for uterine abnormalities."
+]
+}
+],
+"relatedSection":"mk19_a_on_s2_8",
+"objective":{
+"__html":"Screen for bone loss in a patient on an aromatase inhibitor."
+},
+"references":[
+[
+"Shapiro CL, Van Poznak C, Lacchetti C, et al. Management of osteoporosis in survivors of adult cancers with nonmetastatic disease: ASCO clinical practice guideline. J Clin Oncol. 2019;37:2916-46. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31532726",
+"target":"_blank"
+},
+"children":[
+"PMID: 31532726"
+]
+},
+" doi:10.1200/JCO.19.01696"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":25,
+"B":71,
+"C":3,
+"D":1,
+"E":0
+},
+"hlIds":[
+"413dae",
+"211735",
+"02b80a",
+"3a4d40",
+"7663da",
+"a48fd8",
+"9c6846"
+]
+}

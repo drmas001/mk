@@ -1,0 +1,447 @@
+{
+"id":"mk19_b_hm_q020",
+"number":20,
+"bookId":"hm",
+"correctAnswer":"B",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"33ba07",
+"children":[
+"A 49-year-old man is evaluated for progressive fatigue and a 13.6-kg (30-lb) weight loss in 4 months. Medical history is unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"2fc361",
+"children":[
+"On physical examination, vital signs are normal. On abdominal palpation, the spleen is enlarged to 17 cm."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"8601ec",
+"class":"cell text l",
+"children":[
+"11 g/dL (110 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"0e7e01",
+"class":"cell text l",
+"children":[
+"87,500/μL (87.5 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L) (87% neutrophils, 2% bands, 2% metamyelocytes, 3% myeloblasts, 2% basophils, 2% lymphocytes)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"7cb239",
+"class":"cell text l",
+"children":[
+"465,000/μL (465 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"6a7899",
+"children":[
+"Bone marrow biopsy shows hypercellular marrow with granulocytic hyperplasia and 6% myeloblasts. Chromosomal analysis and fluorescence in-situ hybridization studies show t(9;22)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydroxyurea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Imatinib"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Induction chemotherapy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stem cell transplantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"302fb7",
+"children":[
+"The hallmark of chronic myeloid leukemia is the Philadelphia chromosome, a reciprocal translocation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ABL"
+]
+},
+" gene on chromosome 9 to the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BCR"
+]
+},
+" gene on chromosome 22, designated as t(9;22)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0e5f84",
+"children":[
+"A tyrosine kinase inhibitor such as imatinib is considered first-line treatment for patients with chronic myeloid leukemia diagnosed in the chronic phase (<10% blasts in the bone marrow)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d069b6",
+"children":[
+"Imatinib is the most appropriate treatment for this patient with chronic myeloid leukemia (CML) in the chronic phase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Patients may present in the accelerated (10%-19% blasts) or blast phase (≥20% blasts) of the disease, with blast phase resembling features seen with acute leukemia, but most patients present in the chronic phase (<10% blasts in the bone marrow). The hallmark of CML is the Philadelphia chromosome, a reciprocal translocation of the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"ABL"
+]
+},
+" gene on chromosome 9 to the ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BCR"
+]
+},
+" gene on chromosome 22. Patients often present with constitutional symptoms that include night sweats, weight loss, and fatigue, and splenomegaly is common; laboratory studies frequently show marked leukocytosis with a left shift, and basophilia and thrombocytosis can be seen. First-line treatment with a tyrosine kinase inhibitor (TKI) such as imatinib is considered accepted care for patients with CML in the chronic phase. TKIs bind to the BCR-ABL oncoprotein and prevent downstream signaling. Other TKIs include nilotinib and dasatinib. Availability of TKIs has dramatically changed outcomes in CML, with the 8-year overall survival in CML exceeding 90%."
+]
+},
+{
+"type":"p",
+"hlId":"14a6f5",
+"children":[
+"Hydroxyurea is a nonspecific myelosuppressive agent that is effective at reducing granulocyte, erythrocyte, and platelet production in myeloproliferative neoplasms (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It can be used as a temporizing measure to reduce peripheral blood counts while awaiting a final diagnosis. However, in those with a confirmed diagnosis of CML, TKIs are more disease specific and preferred over hydroxyurea."
+]
+},
+{
+"type":"p",
+"hlId":"a237ad",
+"children":[
+"Induction chemotherapy is only considered in some patients with CML in the blast phase (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). It would not be appropriate first-line therapy for those with CML in the chronic phase."
+]
+},
+{
+"type":"p",
+"hlId":"8ad1c3",
+"children":[
+"Stem cell transplantation is a potentially curative option for CML but has significant associated morbidity and mortality (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). With the efficacy and safety of TKIs, the need for transplantation has been substantially reduced. It is typically only considered in patients in the blast phase or in younger patients who do not respond to TKIs."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s2_3_1",
+"objective":{
+"__html":"Treat chronic myeloid leukemia."
+},
+"references":[
+[
+"Hochhaus A, Baccarani M, Silver RT, et al. European LeukemiaNet 2020 recommendations for treating chronic myeloid leukemia. Leukemia. 2020;34:966-984. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32127639",
+"target":"_blank"
+},
+"children":[
+"PMID: 32127639"
+]
+},
+" doi:10.1038/s41375-020-0776-2"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":68,
+"C":21,
+"D":7,
+"E":0
+},
+"hlIds":[
+"33ba07",
+"2fc361",
+"a462a3",
+"f9867c",
+"8601ec",
+"2989c0",
+"0e7e01",
+"fcac73",
+"7cb239",
+"6a7899",
+"1054f1",
+"302fb7",
+"0e5f84",
+"d069b6",
+"14a6f5",
+"a237ad",
+"8ad1c3"
+]
+}

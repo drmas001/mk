@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q036",
+"number":36,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 36",
+"stimulus":[
+{
+"type":"p",
+"hlId":"fee5d7",
+"children":[
+"A 60-year-old woman comes to the office for follow-up evaluation 1 year after having a drug-eluting stent placed in the mid left anterior descending coronary artery to treat non–ST-elevation acute coronary syndrome. She has been adherent to dual antiplatelet therapy for the past year without any bleeding events. The patient's only other medical problem is diabetes mellitus. Medications are metformin, liraglutide, atorvastatin, clopidogrel, and aspirin."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"9b252c",
+"children":[
+"Which of the following is the most reasonable management of the antiplatelet therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Stop aspirin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Stop aspirin and clopidogrel"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop clopidogrel and add low-dose rivaroxaban"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Continue aspirin and clopidogrel"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"976f6f",
+"children":[
+"Extending dual antiplatelet therapy (DAPT) beyond 12 months is reasonable in patients who have successfully tolerated 12 months of DAPT and remain at high risk for recurrent vascular events if the benefit exceeds the risk for increased bleeding."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"9fd6ca",
+"children":[
+"Dual antiplatelet therapy (DAPT) beyond 1 year (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is reasonable for this patient with acute coronary syndrome (ACS) to reduce the risk for repeat myocardial infarction. DAPT with aspirin and P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibition is recommended for 1 year after ACS presentation with ST-elevation myocardial infarction (STEMI) or non-STEMI. Clopidogrel or ticagrelor is typically indicated as the P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor, regardless of revascularization status, and prasugrel is reserved for patients treated with percutaneous coronary intervention. Whereas lifelong aspirin therapy is recommended as secondary prevention after discontinuation of the P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitor, guidelines indicate that it is reasonable to extend DAPT beyond 12 months (up to 36 months) in patients who have successfully tolerated 12 months of DAPT and remain at high risk for recurrent vascular events (e.g., those with depressed left ventricular systolic function, saphenous vein graft stenting, or diabetes mellitus), for whom the benefit exceeds the increased bleeding risk. A personalized approach is appropriate when considering whether to extend DAPT, with readily available risk scores, such as the DAPT bleeding risk score, which provides composite risk-benefit assessment for patients considered for DAPT extension."
+]
+},
+{
+"type":"p",
+"hlId":"f48c24",
+"children":[
+"Low-dose aspirin is the preferred single antiplatelet agent beyond 1 year after ACS because of its low cost, effectiveness, and lower risk for bleeding compared with P2Y",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+" inhibitors. Clopidogrel is a reasonable substitute for aspirin in patients with aspirin sensitivity or intolerance, or those with a history of upper gastrointestinal bleeding. There is no indication to stop aspirin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"21a272",
+"children":[
+"Stopping both aspirin and clopidogrel (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated. This patient needs an antiplatelet agent consisting of aspirin, clopidogrel, or both to reduce the risk for stent thrombosis and myocardial infarction, stroke, and other cardiovascular events."
+]
+},
+{
+"type":"p",
+"hlId":"2066c3",
+"children":[
+"Evidence from the COMPASS (Rivaroxaban for the Prevention of Major Cardiovascular Events in Coronary or Peripheral Artery Disease) trial demonstrated that aspirin (100 mg/d) plus rivaroxaban (2.5 mg twice daily), a direct factor Xa inhibitor, was associated with improved major adverse cardiovascular and limb end points compared with aspirin plus placebo in patients with coronary artery disease and peripheral artery disease (PAD). This patient does not have PAD, and aspirin plus rivaroxaban (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s3_2_6",
+"objective":{
+"__html":"Treat a patient with extended dual antiplatelet therapy following percutaneous intervention."
+},
+"references":[
+[
+"Levine GN, Bates ER, Bittl JA, et al. 2016 ACC/AHA guideline focused update on duration of dual antiplatelet therapy in patients with coronary artery disease: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. J Am Coll Cardiol. 2016;68:1082-115. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27036918",
+"target":"_blank"
+},
+"children":[
+"PMID: 27036918"
+]
+},
+" doi:10.1016/j.jacc.2016.03.513"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":28,
+"B":8,
+"C":11,
+"D":54,
+"E":0
+},
+"hlIds":[
+"fee5d7",
+"9b252c",
+"976f6f",
+"9fd6ca",
+"f48c24",
+"21a272",
+"2066c3"
+]
+}

@@ -1,0 +1,198 @@
+{
+"id":"mk19_b_cv_q111",
+"number":111,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 111",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d35a56",
+"children":[
+"A 78-year-old woman is evaluated during follow-up of nonischemic heart failure with reduced ejection fraction diagnosed 6 months ago. She has New York Heart Association functional class III symptoms. She is receiving optimal guideline-directed medical therapy consisting of valsartan-sacubitril, carvedilol, spironolactone, and furosemide."
+]
+},
+{
+"type":"p",
+"hlId":"edf23c",
+"children":[
+"On physical examination, blood pressure is 104/62 mm Hg and pulse rate is 58/min. A grade 2/6 holosystolic murmur is heard at the apex, and a grade 1/6 crescendo-decrescendo systolic murmur is heard at the base. There is no jugular venous distention or peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"113e30",
+"children":[
+"ECG shows sinus rhythm and left bundle branch block with QRS duration of 155 ms. Echocardiogram shows an ejection fraction of 30%, left ventricular end-systolic dimension of 53 mm, mild to moderate mitral regurgitation, and mild aortic stenosis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac resynchronization therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ivabradine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mitral valve clip placement"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transcatheter aortic valve implantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"af1cf8",
+"children":[
+"Cardiac resynchronization therapy is indicated for patients with ejection fraction of 35% or less with left bundle branch block, QRS duration of 150 ms or greater, and New York Heart Association functional class II to IV symptoms despite guideline-directed medical therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"502c8f",
+"children":[
+"Cardiac resynchronization therapy (CRT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is the most appropriate treatment. This patient with heart failure with reduced ejection fraction is on optimal guideline-directed medical therapy. CRT is indicated in patients with a left ventricular ejection fraction (LVEF) of 35% or less, New York Heart Association (NYHA) functional class II to IV symptoms despite guideline-directed medical therapy, sinus rhythm, and left bundle branch block with a QRS complex of 150 ms or longer (class 1 recommendation). In such patients, CRT is associated with improved LVEF, reduced symptoms, and improved survival rates. Many patients who meet the indication for CRT also meet indications for implantable cardioverter-defibrillator (ICD) therapy. ICD therapy reduces mortality in patients with NYHA class I to III heart failure symptoms and LVEF less than 35% on optimal medical therapy. This patient meets the criteria for ICD placement, but she may experience substantial improvement in ejection fraction with CRT and may not require or benefit from ICD insertion."
+]
+},
+{
+"type":"p",
+"hlId":"063a74",
+"children":[
+"In patients with LVEF of 35% or less who are in sinus rhythm with a heart rate of at least 70/min and taking maximally tolerated doses of a β-blocker, the sinoatrial node modulator ivabradine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") reduces heart failure–associated hospitalizations and the combined end point of mortality and heart failure hospitalization. Ivabradine is not indicated in this patient with a heart rate of 58/min."
+]
+},
+{
+"type":"p",
+"hlId":"483891",
+"children":[
+"The mitral valve clip (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is designed to approximate mitral valve leaflets and reduce mitral regurgitation. Mitral valve clip placement is reasonable for patients with severe secondary mitral regurgitation with heart failure symptoms and a left ventricular end-systolic dimension less than 70 mm and pulmonary artery pressure less than 70 mm Hg. CRT is more likely to improve symptoms and is the most appropriate step for this patient before considering a mitral valve clip."
+]
+},
+{
+"type":"p",
+"hlId":"1fb5df",
+"children":[
+"Transcatheter aortic valve implantation (TAVI) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is usually reserved for patients with symptomatic severe aortic stenosis. Factors that increase procedural risk include reduced ejection fraction, another reason not to proceed with TAVI in this patient."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s4_4_1_2_2",
+"objective":{
+"__html":"Treat heart failure with cardiac resynchronization therapy."
+},
+"references":[
+[
+"Wu A. Heart failure. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201806050",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;168:ITC81-ITC96. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29868816",
+"target":"_blank"
+},
+"children":[
+"PMID: 29868816"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":65,
+"B":16,
+"C":15,
+"D":4,
+"E":0
+},
+"hlIds":[
+"d35a56",
+"edf23c",
+"113e30",
+"1054f1",
+"af1cf8",
+"502c8f",
+"063a74",
+"483891",
+"1fb5df"
+]
+}

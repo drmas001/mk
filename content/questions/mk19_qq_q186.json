@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q186",
+"number":186,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 186",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3c9e49",
+"children":[
+"A 41-year-old woman is evaluated for 2 days of lower abdominal pain. She is otherwise healthy."
+]
+},
+{
+"type":"p",
+"hlId":"30f9b7",
+"children":[
+"Temperature is 37.6 °C (99.8 °F). Bowel sounds are present. There is tenderness in the left lower quadrant without guarding or rigidity. Contrast CT scan shows sigmoid diverticula with focal bowel wall thickening and inflammation of the pericolic fat."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Piperacillin-tazobactam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Surgery"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Supportive care with close observation."
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"815e48",
+"children":[
+"Current guidelines based on high-quality evidence strongly recommend that antibiotics be avoided in select patients with uncomplicated diverticulitis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f4a371",
+"children":[
+"Immunocompromised patients with acute diverticulitis and those with systemic infection or associated comorbidities should be treated with antibiotics."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f05791",
+"children":[
+"The most appropriate management strategy for a healthy patient with early uncomplicated diverticulitis is observation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Diverticulitis results from obstruction at the diverticular neck by fecal matter, leading to mucus accumulation, bacterial overgrowth, and inflammation. Left lower quadrant pain is the most common clinical manifestation and is often accompanied by fever. Other symptoms may include nausea, vomiting, and anorexia. An elevated leukocyte count, C-reactive protein level, or procalcitonin level supports the diagnosis. Diverticulitis may be diagnosed based on the history and physical examination, but imaging is helpful and can predict failure of medical treatment and development of complications. Although uncomplicated diverticulitis traditionally has been treated with oral antibiotics, such as ciprofloxacin, current guidelines based on high-quality evidence strongly recommend that antibiotics be avoided in select patients with uncomplicated diverticulitis. The supporting evidence for this recommendation implies that such patients include otherwise healthy adults with early diverticular disease. Immunocompromised patients and those with systemic infection or associated comorbidities should be treated with antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"947384",
+"children":[
+"Acute diverticulitis may be associated with colon cancer, but colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") should be avoided in the acute setting because of the increased risk for perforation and potential worsening of inflammation. Colonoscopy is advised after resolution of an episode of complicated diverticulitis and after resolution of a first episode of uncomplicated diverticulitis. Colonoscopy should be delayed by 6 to 8 weeks after an acute episode or until complete resolution of the acute symptoms, whichever is longer, unless there are alarm features suggesting colon cancer."
+]
+},
+{
+"type":"p",
+"hlId":"6e6c07",
+"children":[
+"Hospitalization and intravenous antibiotics, such as piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are generally reserved for patients with complicated diverticulitis (abscess, fistula, obstruction, peritonitis, or stricture) or significant comorbidities, as well as for those who cannot tolerate oral intake. Antibiotics should at least include coverage for anaerobes and gram-negative bacilli."
+]
+},
+{
+"type":"p",
+"hlId":"b52300",
+"children":[
+"Surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for acute diverticulitis is indicated for patients who present with or develop peritonitis, perforation, obstruction, or persistent sepsis. This patient has no indication for surgery."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_8",
+"objective":{
+"__html":"Manage acute uncomplicated diverticulitis."
+},
+"references":[
+[
+"Hall J, Hardiman K, Lee S, et al; Prepared on behalf of the Clinical Practice Guidelines Committee of the American Society of Colon and Rectal Surgeons. The American Society of Colon and Rectal Surgeons clinical practice guidelines for the treatment of left-sided colonic diverticulitis. Dis Colon Rectum. 2020;63:728-747. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32384404",
+"target":"_blank"
+},
+"children":[
+"PMID: 32384404"
+]
+},
+" doi:10.1097/DCR.0000000000001679"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"3c9e49",
+"30f9b7",
+"cb2b54",
+"815e48",
+"f4a371",
+"f05791",
+"947384",
+"6e6c07",
+"b52300"
+]
+}

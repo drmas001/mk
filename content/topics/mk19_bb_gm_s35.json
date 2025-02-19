@@ -1,0 +1,1518 @@
+{
+"id":"mk19_bb_gm_s35",
+"subspecialtyId":"gm",
+"title":"Perioperative Medicine",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_gm_s35",
+"title":{
+"__html":"Perioperative Medicine"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"5e12df",
+"children":[
+"Perioperative Medicine"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_1",
+"title":{
+"__html":"Preoperative Testing"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"ca23a4",
+"children":[
+"Preoperative Testing"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd743c",
+"children":[
+{
+"type":"alert",
+"children":[
+"Routine diagnostic testing is not indicated preoperatively."
+]
+},
+" Do not obtain:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"5ad6c5",
+"children":[
+"routine preoperative laboratory studies in healthy patients undergoing elective or low-risk surgery"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"2dc434",
+"children":[
+"preoperative chest radiography in the absence of cardiopulmonary symptoms"
+]
+},
+" "
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_gm_s35_inline_t1"
+],
+"forceOpen":true
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_2",
+"title":{
+"__html":"Cardiovascular Risk Assessment"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"f77292",
+"children":[
+"Cardiovascular Risk Assessment"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"2104c0",
+"children":[
+"Risk factors for a major adverse cardiac event (",
+{
+"type":"abbreviation",
+"title":"major adverse cardiac event",
+"children":[
+"MACE"
+]
+},
+") include:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"dababe",
+"children":[
+"known ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"coronary artery disease",
+"children":[
+"CAD"
+]
+},
+","
+]
+},
+" cerebrovascular disease (",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"cerebrovascular accident",
+"children":[
+"CVA"
+]
+},
+","
+]
+},
+" ",
+{
+"type":"abbreviation",
+"title":"transient ischemic attack",
+"children":[
+"TIA"
+]
+},
+")"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"c63790",
+"children":[
+" ",
+{
+"type":"abbreviation",
+"title":"chronic kidney disease",
+"children":[
+"CKD"
+]
+},
+" "
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"e8afc1",
+"children":[
+"diabetes mellitus"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"5d16f8",
+"children":[
+" ",
+{
+"type":"abbreviation",
+"title":"heart failure",
+"children":[
+"HF"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"d960c0",
+"children":[
+"Patients with risk factors should undergo estimation of MACE risk using a validated risk calculator such as the Revised Cardiac Risk Index. Patients with an elevated risk of MACE ≥1% should have their functional capacity assessed with a standardized tool such as the Duke Activity Status Index. Patients with functional capacity ≥5 ",
+{
+"type":"abbreviation",
+"title":"metabolic equivalents",
+"children":[
+"METs"
+]
+},
+" are low risk and can proceed to surgery. Otherwise, preoperative cardiac stress testing should be considered but only if the results will change perioperative management."
+]
+},
+{
+"type":"p",
+"hlId":"d1c016",
+"children":[
+"Obtain an ",
+{
+"type":"abbreviation",
+"title":"electrocardiogram",
+"children":[
+"ECG"
+]
+},
+" within 1 to 3 months of surgery (except low-risk surgery) in any patient with:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"eccb09",
+"children":[
+"CAD"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"312134",
+"children":[
+"significant arrhythmias"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"4e4cb5",
+"children":[
+"cerebrovascular disease (stroke or TIA)"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"bb4eea",
+"children":[
+" ",
+{
+"type":"abbreviation",
+"title":"peripheral arterial disease",
+"children":[
+"PAD"
+]
+},
+" "
+]
+},
+" "
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"77bdff",
+"children":[
+"If a patient has no history, symptoms, or risk factors for CAD, no preoperative coronary evaluation is necessary."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"0da424",
+"children":[
+"Low-risk surgeries (cataract extraction, carpal tunnel release, breast biopsy, inguinal hernia repair) do not require cardiac testing even if a calculated risk score is elevated."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"fc9f5d",
+"children":[
+"No survival benefit is associated with revascularization in stable patients with CAD before noncardiac surgery unless they otherwise meet the general requirements for revascularization."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_3",
+"title":{
+"__html":"Cardiovascular Risk Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"32efc3",
+"children":[
+"Cardiovascular Risk Management"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"579742",
+"children":[
+"Patients with a known recent MACE should not undergo elective surgery within:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"44fe71",
+"children":[
+"14 to 30 days of a bare-metal coronary stent implantation for stable CAD"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"18a447",
+"children":[
+"3 to 6 months of a drug-eluting coronary stent placement for stable CAD"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"7ac194",
+"children":[
+"12 months after ",
+{
+"type":"abbreviation",
+"title":"acute coronary syndrome",
+"children":[
+"ACS"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"30dc80",
+"children":[
+"Patients with hypertension who are undergoing surgery do not require urgent ",
+{
+"type":"abbreviation",
+"title":"blood pressure",
+"children":[
+"BP"
+]
+},
+" lowering preoperatively unless end-organ dysfunction is evident."
+]
+},
+{
+"type":"p",
+"hlId":"d7d34e",
+"children":[
+"Most cardiac medications can be continued throughout the perioperative period. ",
+{
+"type":"abbreviation",
+"title":"angiotensin-converting enzyme",
+"children":[
+"ACE"
+]
+},
+" inhibitors and ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"angiotensin receptor blocker",
+"children":[
+"ARB"
+]
+},
+"s"
+]
+},
+" are typically withheld if prescribed for hypertension (unless BP is poorly controlled); diuretics are typically started as soon as possible postoperatively if prescribed for HF."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"5b0892",
+"children":[
+"Do not routinely initiate β-blockers before surgery to reduce cardiovascular risk."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"ae2b5c",
+"children":[
+"In the absence of ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"atherosclerotic cardiovascular disease",
+"children":[
+"ASCVD"
+]
+},
+","
+]
+},
+" do not routinely initiate statin therapy before surgery to reduce cardiovascular risk."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"60197d",
+"children":[
+"Do not use aspirin before surgery to reduce cardiovascular risk."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1a059f",
+"children":[
+"Do not choose routine postoperative surveillance with ECG or cardiac biomarkers unless symptoms of an ACS are present."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_4",
+"title":{
+"__html":"Pulmonary Perioperative Management"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"c69e48",
+"children":[
+"Pulmonary Perioperative Management"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"2d4dea",
+"children":[
+"Screen all surgical patients for ",
+{
+"type":"abbreviation",
+"title":"obstructive sleep apnea",
+"children":[
+"OSA"
+]
+},
+" with a validated tool such as the STOP-BANG survey. Obtain polysomnography for patients with presumed OSA and initiate ",
+{
+"type":"abbreviation",
+"title":"continuous positive airway pressure",
+"children":[
+"CPAP"
+]
+},
+" for patients with severe OSA undergoing high-risk elective surgical procedures."
+]
+},
+{
+"type":"p",
+"hlId":"b95e0a",
+"children":[
+"Preoperative inspiratory muscle training can reduce perioperative pulmonary complication rates by up to 50%. Smoking cessation reduces pulmonary risk and should be encouraged as far in advance of surgery as possible."
+]
+},
+{
+"type":"p",
+"hlId":"9e70e8",
+"children":[
+"Select early mobilization and lung expansion maneuvers (deep breathing exercises, incentive spirometry) to prevent pulmonary complications."
+]
+},
+{
+"type":"heading",
+"class":"tricked",
+"children":[
+"Don't Be Tricked"
+]
+},
+{
+"type":"list",
+"class":"tricked",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"eb21a4",
+"children":[
+"Do not order spirometry for risk assessment in the absence of dyspnea or hypoxia of uncertain cause."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_5",
+"title":{
+"__html":"Perioperative Management of Anticoagulant Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"849864",
+"children":[
+"Perioperative Management of Anticoagulant Therapy"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"71bec9",
+"children":[
+"Anticoagulation must be stopped for most surgical procedures except those with minimal expected blood loss (cataract surgery, dermatologic procedures, endoscopic procedures without biopsy)."
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"38399e",
+"children":[
+"Stop warfarin 5 days before surgery."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"19c0ae",
+"children":[
+"Stop apixaban, rivaroxaban, and dabigatran 1 to 2 days before surgery if ",
+{
+"type":"abbreviation",
+"title":"estimated glomerular filtration rate",
+"children":[
+"eGFR"
+]
+},
+" >50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Stop earlier if eGFR is lower."
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"c566c3",
+"children":[
+"Bridging anticoagulation involves providing heparin during the perioperative period until an oral anticoagulant is resumed. Bridging should be considered only in patients taking warfarin with a high thrombotic risk:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"f82f06",
+"children":[
+"high-risk ",
+{
+"type":"abbreviation",
+"title":"atrial fibrillation",
+"children":[
+"AF"
+]
+},
+" (e.g., CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc ≥7)"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"cfd450",
+"children":[
+"AF with mechanical valve"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"da5ef0",
+"children":[
+"AF with moderate to severe mitral stenosis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"1d7d49",
+"children":[
+"older generation mechanical valves (ball-cage or tilting disc)"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"14c1fa",
+"children":[
+"recent thromboembolic event (e.g., CVA, TIA, ",
+{
+"type":"abbreviation",
+"title":"venous thromboembolism",
+"children":[
+"VTE"
+]
+},
+" within previous 3 mo)"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"f728b5",
+"children":[
+"aortic mechanical valve plus additional risk factor for thrombosis"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"18a1d9",
+"children":[
+"moderate to severe mitral stenosis"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"2a1889",
+"children":[
+"Stopping and restarting perioperative anticoagulation:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"e33703",
+"children":[
+"Stop ",
+{
+"type":"abbreviation",
+"title":"unfractionated heparin",
+"children":[
+"UFH"
+]
+},
+" 4 to 6 hours before surgery."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"082000",
+"children":[
+"Stop ",
+{
+"type":"abbreviation",
+"title":"low-molecular-weight heparin",
+"children":[
+"LMWH"
+]
+},
+" 12 hours before surgery."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"66fa1d",
+"children":[
+"Restart heparin 24 hours after surgery."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"651e18",
+"children":[
+"Restart warfarin 12 to 24 hours after surgery."
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"611499",
+"children":[
+"Restart dabigatran, rivaroxaban, and apixaban 24 hours after surgery."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"section",
+"id":"mk19_bb_gm_s35_6",
+"title":{
+"__html":"Perioperative Management of Antiplatelet Therapy"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"b4e124",
+"children":[
+"Perioperative Management of Antiplatelet Therapy"
+]
+},
+"children":[
+{
+"type":"p",
+"hlId":"ec2566",
+"children":[
+"Dual antiplatelet therapy should be continued:"
+]
+},
+{
+"type":"list",
+"children":[
+" ",
+{
+"type":"list-item",
+"hlId":"796e60",
+"children":[
+"14 to 30 days after bare-metal stent placement for stable CAD"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"15e237",
+"children":[
+"3 to 6 months after drug-eluting stent placement for stable CAD"
+]
+},
+" ",
+{
+"type":"list-item",
+"hlId":"38dfb1",
+"children":[
+"≥1 year in patients following ACS"
+]
+},
+" "
+]
+},
+{
+"type":"p",
+"hlId":"2f8237",
+"children":[
+"Dual antiplatelet therapy should be restarted as soon as possible postoperatively."
+]
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_gm_s35_inline_t1":{
+"id":"mk19_bb_gm_s35_inline_t1",
+"number":1,
+"bookId":"gm",
+"title":{
+"__html":"Study Table: Select Indications for Preoperative Laboratory Testing"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"7a15de",
+"children":[
+"Study Table: Select Indications for Preoperative Laboratory Testing"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"675300",
+"class":"col hd l",
+"children":[
+"Laboratory Test",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bf2781",
+"class":"col hd l",
+"children":[
+"Preoperative Indications"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"172a9f",
+"class":"cell txt l",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f1f553",
+"class":"cell txt l",
+"children":[
+"History of anemia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e034c5",
+"class":"cell txt l",
+"children":[
+"Signs/symptoms or examination findings suggesting anemia"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a92e2d",
+"class":"cell txt l",
+"children":[
+"Underlying disease that predisposes to anemia (e.g., kidney disease, myelodysplasia)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"db055a",
+"class":"cell txt l",
+"children":[
+"Expected substantial operative blood loss"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"65ed4c",
+"class":"cell txt l",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"eec9c2",
+"class":"cell txt l",
+"children":[
+"History of thrombocytopenia or cirrhosis; signs or symptoms of bleeding or liver disease"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"4760b9",
+"class":"cell txt l",
+"children":[
+"Coagulation studies"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d9ffeb",
+"class":"cell txt l",
+"children":[
+"Warfarin or heparin use"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"b04d22",
+"class":"cell txt l",
+"children":[
+"History of abnormal bleeding"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"210b2b",
+"class":"cell txt l",
+"children":[
+"Medical conditions that predispose to coagulopathy (e.g., liver disease, nutritional disorders, hemophilia)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"06bcde",
+"class":"cell txt l",
+"children":[
+"Electrolytes"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2e642b",
+"class":"cell txt l",
+"children":[
+"Diseases that predispose to electrolyte derangements (e.g., kidney disease)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f65167",
+"class":"cell txt l",
+"children":[
+"Use of medications that can cause electrolyte abnormalities (e.g., diuretics, ACE inhibitors, ARBs)"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e33337",
+"class":"cell txt l",
+"children":[
+"Creatinine"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"bad2e0",
+"class":"cell txt l",
+"children":[
+"Kidney disease"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"6d2dc0",
+"class":"cell txt l",
+"children":[
+"Expected large intraoperative fluid and BP shifts"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"f8181b",
+"class":"cell txt l",
+"children":[
+"Used in preoperative cardiovascular risk calculators and for calculation of the ",
+{
+"type":"abbreviation",
+"title":"Model for End-Stage Liver Disease",
+"children":[
+"MELD"
+]
+},
+" score"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d310ea",
+"class":"cell txt l",
+"children":[
+"Liver chemistry tests (including bilirubin)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"78a32c",
+"class":"cell txt l",
+"children":[
+"Cirrhosis, history of abnormal liver chemistry tests, or signs or symptoms of liver disease"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"57a6a4",
+"class":"cell txt l",
+"children":[
+"Fasting glucose and hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e01645",
+"class":"cell txt l",
+"children":[
+"Known or suspected diabetes mellitus"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-8 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"747c2a",
+"class":"cell txt l",
+"children":[
+"Urinalysis"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"619e8a",
+"class":"cell txt l",
+"children":[
+"Suspected ",
+{
+"type":"abbreviation",
+"title":"urinary tract infection",
+"children":[
+"UTI"
+]
+}
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"39d9d3",
+"class":"cell txt l",
+"children":[
+"Planned urologic procedures"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-9 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a661de",
+"class":"cell txt l",
+"children":[
+"Pregnancy test"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d88163",
+"class":"cell txt l",
+"children":[
+"Women of childbearing age"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+"If patient is clinically stable and has no medication changes, tests other than pregnancy test need not be repeated if performed within 4 months of procedure."
+]
+]
+}
+}
+}

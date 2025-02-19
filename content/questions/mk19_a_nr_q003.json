@@ -1,0 +1,187 @@
+{
+"id":"mk19_a_nr_q003",
+"number":3,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3b27a6",
+"children":[
+"A 65-year-old man is evaluated in the emergency department for a 24-hour history of difficulty walking and inability to urinate. He has hypertension treated with amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"0f5f1c",
+"children":[
+"On physical examination, vital signs are normal. Muscle strength is 4/5 for both hip flexors. Patellar reflexes are 3+ bilaterally. There are bilateral extensor plantar responses in the toes, decreased sensation to pinprick below the nipple line bilaterally, and a palpable bladder. Upper extremity reflexes are 2+ in both biceps. Arm strength is normal. Gait is ataxic."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT myelography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"MRI of the brain"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the lumbosacral spine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI of the thoracic spine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"2a5b1f",
+"children":[
+"Myelopathy may result in spastic paresis or paralysis, with weakness, hyperreflexia, muscle spasticity, extensor plantar responses, and often loss of sensation at or below the site of injury."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d3ba30",
+"children":[
+"MRI is the preferred initial imaging test for most patients with findings of myelopathy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4167c1",
+"children":[
+"The most appropriate diagnostic test to perform next is MRI of the thoracic spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Myelopathy (any disorder involving the spinal cord) arises from extrinsic (external compression) and intrinsic (intramedullary) pathologic causes. Corticospinal tract injury results in spastic paresis or paralysis, with weakness, hyperreflexia, muscle spasticity, and extensor plantar responses. There is often loss of sensation at or below the site of injury. This patient has signs of thoracic myelopathy on examination, with bilateral patellar hyperreflexia, extensor plantar responses, and a sensory level at approximately T3 (below the nipple line). These examination findings suggest a thoracic cord localization, and thus the most specific test to order would be MRI of the thoracic spine. Determining the location and mechanism of injury is crucial for rapidly deciding on the accurate site, type of neuroimaging required, and the kind of specialty consultation (such as neurosurgical) needed."
+]
+},
+{
+"type":"p",
+"hlId":"ab7a2d",
+"children":[
+"CT myelography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not the most appropriate choice in this situation. Although this imaging modality could potentially reveal a compressive cord cause, it is not clear from the patient's history that the cause is compressive in nature. Whereas CT myelography is sensitive to compressive causes, intrinsic cord pathology can be missed. Noncompressive myelopathy is possible in this patient and can be caused by many inflammatory, infectious, metabolic, vascular, and genetic disorders. Inflammatory causes are most common, including multiple sclerosis, neuromyelitis optica, and sarcoidosis. Finally, CT myelography is invasive and thus should not be used as first-line therapy."
+]
+},
+{
+"type":"p",
+"hlId":"ebc7da",
+"children":[
+"MRI of the brain (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is incorrect. The patient's neurologic examination cannot be explained by a brain lesion. No brain localization can result in a distinct spinal sensory level as seen in this patient. Further, the bilateral findings in the lower extremities would require bilateral brain lesions, which, although they may occur, are less likely than a single lesion in the spinal cord and would likely result in far greater neurologic sequelae than that seen in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"76f3b4",
+"children":[
+"A lumbosacral spine MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") would not be an appropriate diagnostic test in this situation because the patient has signs of upper motor neuron dysfunction and a thoracic sensory deficit, which cannot occur in disorders of the lumbosacral spine."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s8_1",
+"objective":{
+"__html":"Evaluate myelopathy."
+},
+"references":[
+[
+"Bhattacharyya S. Spinal cord disorders: myelopathy. Am J Med. 2018;131(11):1293–97. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29605415",
+"target":"_blank"
+},
+"children":[
+"PMID: 29605415"
+]
+},
+" doi:10.1016/j.amjmed.2018.03.009"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":7,
+"C":17,
+"D":64,
+"E":0
+},
+"hlIds":[
+"3b27a6",
+"0f5f1c",
+"ab9d96",
+"2a5b1f",
+"d3ba30",
+"4167c1",
+"ab7a2d",
+"ebc7da",
+"76f3b4"
+]
+}

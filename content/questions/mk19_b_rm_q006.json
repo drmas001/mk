@@ -1,0 +1,195 @@
+{
+"id":"mk19_b_rm_q006",
+"number":6,
+"bookId":"rm",
+"correctAnswer":"B",
+"title":"Question 6",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1861f5",
+"children":[
+"A 25-year-old woman is evaluated for a 3-year history of joint pain involving her hands with more than 1 hour of morning stiffness. She also has intermittent photosensitive facial rash, fatigue, and intermittent subjective fever."
+]
+},
+{
+"type":"p",
+"hlId":"544382",
+"children":[
+"On physical examination, vital signs are normal. There is tenderness to palpation with swelling of the second and third metacarpophalangeal joints bilaterally."
+]
+},
+{
+"type":"p",
+"hlId":"298959",
+"children":[
+"Complete blood count, serum creatinine level, and urinalysis are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"Erythrocyte sedimentation rate"
+]
+},
+" is 35 mm/h."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Anti–double-stranded DNA antibodies"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Antinuclear antibodies"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Anti-Ro/SSA, anti-La/SSB antibodies"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Anti-Smith antibodies"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Anti–U1-ribonucleoprotein antibodies"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a45c0e",
+"children":[
+"Antinuclear antibody (ANA) specificity or subserology testing (testing for antibodies to specific nuclear components) should be reserved for patients with a positive ANA result and a clinical syndrome suggesting an underlying connective tissue disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"986578",
+"children":[
+"The most appropriate laboratory test to perform next is antinuclear antibody (ANA) measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has specific features of autoimmune disease, inflammatory polyarthritis, and photosensitive facial rash, along with fever (a nonspecific systemic feature). ANA is directed against nuclear antigens and associated with systemic lupus erythematosus (SLE). Up to one third of the healthy population has a low titer (1:40-1:80) for ANA, and up to 5% has a titer of 1:160 or higher. ANA can also be seen in other autoimmune conditions, infection, and malignancy or may be drug-induced. An isolated positive ANA result with nonspecific symptoms and normal clinical examination does not establish the diagnosis of a connective tissue disease. In a patient with findings strongly suggesting an underlying rheumatologic disease, such as this patient with features of SLE, ANA testing is appropriate. ANA testing should be done before any subserology testing. If the ANA test result is positive, then specific subserologies are indicated on the basis of the clinical scenario. If the ANA test result is negative, then the ANA subserologic findings are typically negative. Therefore, if the initial ANA result is negative, then subserology testing is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"00649c",
+"children":[
+"ANA specificity or subserology testing (i.e., testing for antibodies to specific nuclear components, such as DNA or centromeres) should be reserved for patients with a positive ANA result and a clinical syndrome suggesting an underlying rheumatologic disease. If the ANA result is positive and clinical findings suggest a specific autoimmune inflammatory disease, then subserology testing is appropriate. In this patient, if the ANA result is positive, SLE-specific autoantibodies (anti–double-stranded DNA [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"], anti-Ro/SSA and anti-La/SSB antibodies [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"], anti-Smith [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"], anti–U1-ribonucleoprotein [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"]) should be obtained to further characterize the disease. Anti–double-stranded DNA antibodies are 95% specific for SLE and approximately 50% to 60% sensitive. They are typically found in more severe disease, especially kidney disease. Antibody levels commonly follow disease activity and are useful to monitor during therapy. Anti-Smith antibodies are the most specific for SLE (99%) but have low sensitivity. Antibody levels do not correlate with disease activity. Anti–U1-ribonucleoprotein antibodies (particularly high titers) are sensitive for mixed connective tissue disease. Antibody levels do not correlate with disease activity. In patients with SLE, anti-Ro/SSA and anti-La/SSB antibodies are associated with photosensitive rash. In addition, offspring of mothers who are positive for anti-Ro/SSA or anti-La/SSB are at increased risk for neonatal lupus erythematosus (rash and congenital heart block). However, none of these antibodies should be obtained until the ANA test result is confirmed positive."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s1_6_2",
+"objective":{
+"__html":"Evaluate a patient by using antinuclear antibody testing."
+},
+"references":[
+[
+"Mulhearn B, Tansley SL, McHugh NJ. Autoantibodies in connective tissue disease. Best Pract Res Clin Rheumatol. 2020;34:101462. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31848055",
+"target":"_blank"
+},
+"children":[
+"PMID: 31848055"
+]
+},
+" doi:10.1016/j.berh.2019.101462"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":47,
+"B":48,
+"C":3,
+"D":1,
+"E":1
+},
+"hlIds":[
+"1861f5",
+"544382",
+"298959",
+"ab9d96",
+"a45c0e",
+"986578",
+"00649c"
+]
+}

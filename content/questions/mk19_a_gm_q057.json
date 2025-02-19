@@ -1,0 +1,215 @@
+{
+"id":"mk19_a_gm_q057",
+"number":57,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cae4b9",
+"children":[
+"A 32-year-old man is evaluated in the emergency department for low back pain of several weeks' duration. The pain is in the lumbar area and does not radiate. He has no other symptoms. Medical history is significant for injection drug use."
+]
+},
+{
+"type":"p",
+"hlId":"e0ba42",
+"children":[
+"On physical examination, temperature is 37.4 °C (99.4 °F); other vital signs are normal. Pain is present with gentle palpation of L3 and L4. The pain worsens with hyperextension or flexion of the spine. Marks from injection drug use are seen on the forearms. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"154d6d",
+"children":[
+"Interferon-γ release assay, HIV test results, and blood and urine cultures are pending."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the lumbar spine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Empirical antibiotic therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of the lumbar spine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiography of the lumbar spine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dc938c",
+"children":[
+"Urgent imaging of the spine is indicated for patients with low back pain and “red flag” symptoms suggesting an underlying process that requires intervention."
+]
+},
+{
+"type":"keypoint",
+"hlId":"4ee3ed",
+"children":[
+"MRI is considered the gold standard in patients with suspected spinal infection, cancer, cord compression, or cauda equina syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bd5d9f",
+"children":[
+"The most appropriate management is urgent MRI of the lumbar spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Spinal imaging for acute back pain should be limited to patients with “red flags” suggesting an underlying process that requires intervention, such as a personal history of cancer or symptoms concerning for cancer (fever, persistent pain, vertebral tenderness, or weight loss) or cauda equina syndrome (bowel or bladder dysfunction, persistent or increasing lower motor neuron weakness, or saddle anesthesia). In this case, the patient's injection drug use and focal vertebral tenderness should heighten suspicion for an acute infection of the spine, such as epidural abscess, diskitis, or osteomyelitis. MRI is considered the gold standard in patients with suspected spinal infection, cancer, cord compression, or cauda equina syndrome."
+]
+},
+{
+"type":"p",
+"hlId":"ea01fb",
+"children":[
+"CT of the lumbar spine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") would be appropriate if the patient were unable to undergo MRI (for example, because of hardware implantation). However, MRI allows for better visualization of the soft tissue structures of the lumbar spine and is therefore the preferred imaging modality in patients who are candidates for either procedure."
+]
+},
+{
+"type":"p",
+"hlId":"99c646",
+"children":[
+"Patients with suspected osteomyelitis-related complications, such as severe sepsis, progressive neurologic deficits, spinal instability, or epidural abscess, should receive empirical antibiotic therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Otherwise, initiation of antibiotic therapy for uncomplicated vertebral osteomyelitis is based on culture results. Blood cultures should be performed in all patients. Testing for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycobacterium tuberculosis"
+]
+},
+" infection (with tuberculin skin testing or an interferon- γ release assay), fungal blood cultures, and serologic tests for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Brucella"
+]
+},
+" species are appropriate for patients at risk for these pathogens. Image-guided biopsy has a diagnostic yield of approximately 60% and should be used in patients with negative blood culture results."
+]
+},
+{
+"type":"p",
+"hlId":"29ad03",
+"children":[
+"Radiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be useful for detecting pathology of the vertebral bodies, such as metastatic cancer or vertebral compression fractures. Because soft tissue structures of the spine, such as the spinal canal and disks, cannot be visualized on radiographs, MRI should be performed first in a patient with suspected vertebral infection."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s7_2_1_1",
+"objective":{
+"__html":"Evaluate a patient with suspected osteomyelitis."
+},
+"references":[
+[
+"Smith DE, Siket MS. High-risk chief complaints III: neurologic emergencies. Emerg Med Clin North Am. 2020;38:523-37. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32336338",
+"target":"_blank"
+},
+"children":[
+"PMID: 32336338"
+]
+},
+" doi:10.1016/j.emc.2020.02.006"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":15,
+"B":9,
+"C":65,
+"D":11,
+"E":0
+},
+"hlIds":[
+"cae4b9",
+"e0ba42",
+"154d6d",
+"1a5dcc",
+"dc938c",
+"4ee3ed",
+"bd5d9f",
+"ea01fb",
+"99c646",
+"29ad03"
+]
+}

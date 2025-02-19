@@ -1,0 +1,190 @@
+{
+"id":"mk19_qq_q012",
+"number":12,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 12",
+"stimulus":[
+{
+"type":"p",
+"hlId":"28e6bc",
+"children":[
+"A 39-year-old man is evaluated after fainting while waiting to buy concert tickets. Just before he fainted, he felt warm and diaphoretic. He recovered completely within 1 to 2 minutes."
+]
+},
+{
+"type":"p",
+"hlId":"12e564",
+"children":[
+"On physical examination, pulse rate is 50/min; the remainder of vital signs and the examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f5a934",
+"children":[
+"ECG shows sinus bradycardia with a heart rate of 52/min."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI and carotid ultrasonography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Echocardiography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prolonged electrocardiographic monitoring"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"37f15c",
+"children":[
+"Suggestive features of vasovagal syncope include any of the “3 P's”: posture (occurrence during prolonged standing or aborted by lying down), provoking factors (e.g., pain or a medical procedure), and prodromal symptoms (diaphoresis, warmth, and pallor)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f50878",
+"children":[
+"All patients with syncope should undergo ECG, but patients with uncomplicated vasovagal syncope do not require further investigation or specialist referral."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4a82b5",
+"children":[
+"No further testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is required for this patient with symptoms consistent with neurally mediated syncope (also known as neurocardiogenic or reflex syncope), the most common form of syncope. The underlying syncopal mechanism, termed the neurocardiogenic or vasodepressor reflex, is a response of vasodilation, bradycardia, and systemic hypotension, which leads to transient hypoperfusion of the brain. Neurally mediated syncope includes vasovagal syncope, which may be provoked by noxious stimuli, fear, stress, or heat overexposure; situational syncope, which is triggered by cough, micturition, defecation, or deglutition; and carotid sinus hypersensitivity, which is sometimes experienced during head rotation, shaving, or use of a tight-fitting neck collar. Suggestive features of vasovagal syncope include any of the “3 Ps”: posture (occurrence during prolonged standing or aborted by lying down), provoking factors (e.g., pain or a medical procedure), and prodromal symptoms (diaphoresis, warmth, and pallor). All patients with syncope should undergo ECG, but patients with uncomplicated vasovagal syncope do not require further investigation or specialist referral. This patient's bradycardia is likely a result of the vasovagal physiology, which can cause peripheral vasodilation, bradycardia, or both. Patients should be counseled to maintain adequate hydration and perform counterpressure maneuvers like crossing/flexing their legs or lying down if the symptoms recur."
+]
+},
+{
+"type":"p",
+"hlId":"fef73d",
+"children":[
+"Guidelines recommend against routinely obtaining brain imaging with either CT or MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") in cases of syncope that do not involve objective focal neurologic findings. Bilateral carotid stenosis is a rare cause of syncope, and routine carotid duplex ultrasonography is not recommended. Unilateral carotid artery stenosis does not cause syncope. Typical manifestations of unilateral carotid artery stenosis include transient ischemic attack, amaurosis fugax, and stroke."
+]
+},
+{
+"type":"p",
+"hlId":"417046",
+"children":[
+"If structural heart disease is suspected, echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be pursued. This patient's symptoms are compatible with neurally mediated syncope, and his history and ECG results do not suggest structural heart disease."
+]
+},
+{
+"type":"p",
+"hlId":"ae893c",
+"children":[
+"Prolonged electrocardiographic monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") with an ambulatory monitor, event monitor, or implantable loop recorder should be considered in selected patients with a probable arrhythmic cause; the choice of test is based on the frequency and nature of the syncopal event. Arrhythmogenic syncope might be suggested by sudden loss of consciousness without a prodrome, syncope in the sitting position, or history of cardiovascular disease. This patient's syncope is not arrhythmogenic, and electrocardiographic monitoring is not indicated."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_9_1",
+"objective":{
+"__html":"Diagnose neurally mediated syncope."
+},
+"references":[
+[
+"Shen WK, Sheldon RS, Benditt DG, et al. 2017 ACC/AHA/HRS guideline for the evaluation and management of patients with syncope: executive summary: A report of the American College of Cardiology/American Heart Association task force on clinical practice guidelines and the Heart Rhythm Society. Circulation. 2017;136:e25-e59. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28280232",
+"target":"_blank"
+},
+"children":[
+"PMID: 28280232"
+]
+},
+" doi:10.1161/CIR.0000000000000498"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"28e6bc",
+"12e564",
+"f5a934",
+"1a5dcc",
+"37f15c",
+"f50878",
+"4a82b5",
+"fef73d",
+"417046",
+"ae893c"
+]
+}

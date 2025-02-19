@@ -1,0 +1,237 @@
+{
+"id":"mk19_b_gm_q047",
+"number":47,
+"bookId":"gm2",
+"correctAnswer":"B",
+"title":"Question 47",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f8f9f0",
+"children":[
+"A 46-year-old woman is seen for a routine evaluation after Roux-en-Y gastric bypass surgery 2 months ago. She is doing well and has lost 13.6 kg (30 lb). She recently initiated an exercise program. She has type 2 diabetes mellitus and hypertension. Her current medications are metformin, low-dose insulin glargine, chlorthalidone, lisinopril, atorvastatin, vitamin B",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"12"
+]
+},
+", vitamin D, thiamine, calcium, and a multivitamin with iron and folate."
+]
+},
+{
+"type":"p",
+"hlId":"4eaf47",
+"children":[
+"On physical examination, blood pressure is 132/78 mm Hg; the remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"2db9a3",
+"children":[
+"Home glucose monitoring data for the previous 7 days show average fasting blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" of 108 mg/dL (6.0 mmol/L). She has experienced no episodes of hypoglycemia."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"0e5b7d",
+"children":[
+"Which of the following medications should be discontinued for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atorvastatin"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Insulin glargine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Lisinopril"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Metformin"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vitamin D and calcium"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f295d",
+"children":[
+"After bariatric surgery, as patients lose weight, frequent reassessment of medications is required."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e29af9",
+"children":[
+"After bariatric surgery, in patients with diabetes mellitus, preemptive lowering of hypoglycemic agents is recommended to prevent the development of hypoglycemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"972ea2",
+"children":[
+"The most appropriate medication to discontinue is insulin glargine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Weight loss is rapid during the first few months after bariatric surgery. Following Roux-en-Y gastric bypass (RYGB) surgery, patients lose on average 4.5 to 7 kg (10-15 lb) per month, and at 6 months, the average weight loss is as much as 36 kg (80 lb). Weight should be monitored closely in the early postoperative period. As patients lose weight, frequent reassessment of medications is required. In patients with diabetes mellitus, symptoms of hypoglycemia should be sought. Because of the potential harmful effects of hypoglycemia, preemptive lowering or discontinuation of some hypoglycemic agents is recommended to prevent the development of hypoglycemia. Discontinuing this patient's basal insulin now is reasonable considering her near-normal fasting blood glucose levels."
+]
+},
+{
+"type":"p",
+"hlId":"b7b689",
+"children":[
+"Patients aged 40 to 75 years with diabetes should be started on a moderate-intensity statin. If additional atherosclerotic cardiovascular disease (ASCVD) risk factors are present, the Pooled Cohort Equations can be used to calculate the 10-year ASCVD risk to determine whether high-intensity statin therapy is indicated. Because this patient has diabetes, she should continue therapy with atorvastatin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") regardless of weight loss."
+]
+},
+{
+"type":"p",
+"hlId":"6f71ee",
+"children":[
+"The American Diabetes Association hypertension treatment goal for most persons with diabetes is less than 140/90 mm Hg. Those persons with known ASCVD or at high risk (10-year ASCVD risk ≥15%) should have a blood pressure target less than 130/80 mm Hg. Guidelines from the American College of Cardiology/American Heart Association advocate for a treatment target below 130/80 mm Hg for most patients with diabetes. This patient is asymptomatic and, although her blood pressure should be carefully monitored, she can continue lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because her blood pressure remains well controlled on current medications."
+]
+},
+{
+"type":"p",
+"hlId":"4dceff",
+"children":[
+"Metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") does not cause hypoglycemia and should be continued, particularly if insulin glargine is to be discontinued."
+]
+},
+{
+"type":"p",
+"hlId":"908d88",
+"children":[
+"The primary sites of vitamin D absorption are the jejunum and ileum, and deficiencies of vitamin D and other fat-soluble vitamins occur regularly after RYGB surgery. Calcium absorption is dependent on the presence of vitamin D. Patients require lifelong vitamin D and calcium supplementation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") after most bariatric surgical procedures, and they should not be discontinued."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s5_3_3_2",
+"objective":{
+"__html":"Manage medication for diabetes following bariatric surgery."
+},
+"references":[
+[
+"O'Kane M. Nutritional consequences of bariatric surgery - prevention, detection and management. Curr Opin Gastroenterol. 2021;37:135-44. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33332915",
+"target":"_blank"
+},
+"children":[
+"PMID: 33332915"
+]
+},
+" doi:10.1097/MOG.0000000000000707"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":84,
+"C":2,
+"D":6,
+"E":5
+},
+"hlIds":[
+"f8f9f0",
+"4eaf47",
+"2db9a3",
+"0e5b7d",
+"6f295d",
+"e29af9",
+"972ea2",
+"b7b689",
+"6f71ee",
+"4dceff",
+"908d88"
+]
+}

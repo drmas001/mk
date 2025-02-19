@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_cv_q116",
+"number":116,
+"bookId":"cv",
+"correctAnswer":"E",
+"title":"Question 116",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8861fc",
+"children":[
+"A 76-year-old woman is evaluated in the emergency department for an episode of near-syncope. She has also had progressive dyspnea and nonproductive cough over a 3-week period and an unintentional weight loss of 4.1 kg (9 lb) over the past 3 months. She reports no fever. She has a 50-pack-year history of cigarette smoking, but she stopped smoking 3 weeks ago."
+]
+},
+{
+"type":"p",
+"hlId":"06df90",
+"children":[
+"On physical examination, the patient is afebrile. Blood pressure is 132/60 mm Hg, with a fall in systolic pressure of 24 mm Hg during inspiration. Pulse rate is 110/min and regular. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 90% with the patient breathing ambient air. BMI is 17. Jugular venous distention is present. Heart sounds are distant. Crackles are present at the lung bases."
+]
+},
+{
+"type":"p",
+"hlId":"8fb3bf",
+"children":[
+"A chest radiograph shows a 6-cm right upper lobe mass and an enlarged cardiac silhouette."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac catheterization"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT-directed needle biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Fiberoptic bronchoscopy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"PET/CT"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"160db9",
+"children":[
+"Findings suggesting cardiac tamponade include pulsus paradoxus, tachycardia, distant heart sounds, and occasionally an enlarged silhouette on chest radiograph."
+]
+},
+{
+"type":"keypoint",
+"hlId":"71fdb4",
+"children":[
+"Echocardiography is an essential tool in the diagnosis of cardiac tamponade because it defines the presence, distribution, and relative volume of pericardial fluid."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"727324",
+"children":[
+"Transthoracic echocardiography (TTE) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is the most appropriate diagnostic test. Symptoms of progressive dyspnea may be caused by underlying pulmonary or cardiac disorders, but this patient's physical findings, including a significant pulsus paradoxus (24 mm Hg), tachycardia, distant heart sounds, and crackles, as well as an enlarged cardiac silhouette on chest radiograph, suggest the life-threatening diagnosis of cardiac tamponade. Pulsus paradoxus represents exaggerated ventricular interdependence and is a key clinical feature of cardiac tamponade. It is characterized by a fall in systolic pressure of greater than 10 mm Hg during inspiration. Pulsus paradoxus is not specific for tamponade and must be interpreted in conjunction with other clinical and echocardiographic features. If the fluid has accumulated slowly, the cardiac silhouette is typically enlarged on chest radiograph. This patient's findings should prompt urgent evaluation for cardiac tamponade and treatment if present. Echocardiography to evaluate for the presence, distribution, and relative volume of pericardial fluid is important to establish the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"644edb",
+"children":[
+"Right heart catheterization (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") might confirm hemodynamic findings consistent with tamponade, and pericardiocentesis could be performed within the cardiac catheterization laboratory. TTE to evaluate for a pericardial effusion and tamponade should precede any invasive evaluation or therapeutic procedure because it is safe and readily available."
+]
+},
+{
+"type":"p",
+"hlId":"27796d",
+"children":[
+"This patient has a lung mass that is likely malignant, with associated malignant pericardial effusion. CT-directed needle biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), fiberoptic bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and/or PET/CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may all be indicated to refine the diagnosis and guide treatment after the patient is stabilized, but echocardiographic evaluation is needed immediately."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_2_2_1",
+"objective":{
+"__html":"Diagnose pericardial effusion with tamponade."
+},
+"references":[
+[
+"Imazio M, De Ferrari GM. Cardiac tamponade: an educational review. Eur Heart J Acute Cardiovasc Care. 2020:2048872620939341. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32628038",
+"target":"_blank"
+},
+"children":[
+"PMID: 32628038"
+]
+},
+" doi:10.1177/2048872620939341"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":22,
+"C":8,
+"D":9,
+"E":59
+},
+"hlIds":[
+"8861fc",
+"06df90",
+"8fb3bf",
+"2eb226",
+"160db9",
+"71fdb4",
+"727324",
+"644edb",
+"27796d"
+]
+}

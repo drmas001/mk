@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q007",
+"number":7,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f93e83",
+"children":[
+"A 38-year-old woman is hospitalized with a subarachnoid hemorrhage. The patient's medical history is otherwise unremarkable, and she takes no medications or illicit drugs."
+]
+},
+{
+"type":"p",
+"hlId":"53e64f",
+"children":[
+"On physical examination, blood pressure is 142/82 mm Hg; the remaining vital signs are normal. Nuchal rigidity is present. The right pupil is 2 mm larger than the left; both pupils are reactive to light. Mental status examination shows somnolence but is otherwise normal."
+]
+},
+{
+"type":"p",
+"hlId":"af8dff",
+"children":[
+"CT scan of the head shows subarachnoid hemorrhage in the basal cisterns with intraventricular hemorrhage. Digital subtraction angiogram shows an 8-mm aneurysm in the right posterior communicating artery; during angiography, this aneurysm was successfully treated with coiling."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Intravenous dexamethasone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous labetalol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Oral nimodipine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Oral verapamil"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"3f2439",
+"children":[
+"A target systolic blood pressure of less than 160 mm Hg is recommended for patients in the acute phase following subarachnoid hemorrhage."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2cf14f",
+"children":[
+"The use of nimodipine is associated with improved long-term neurologic outcomes in patients with aneurysmal subarachnoid hemorrhage."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"37233a",
+"children":[
+"The most appropriate treatment is oral nimodipine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient has had a subarachnoid hemorrhage (SAH) due to a ruptured aneurysm in the posterior communicating artery that has now been occluded to prevent neurologic decline from aneurysmal rebleeding. Treatment of SAH focuses on prevention of early (≤48 hours) and late neurologic complications. Within the first 48 hours, a major cause of morbidity is aneurysmal rebleeding; early surgical exclusion of the ruptured aneurysm and blood pressure control are the foundations of early treatment. The target blood pressure for patients following SAH is not well defined, but guidelines suggest a systolic blood pressure of less than 160 mm Hg as reasonable. Late complications include elevated intracranial pressure from obstructive hydrocephalus, cerebral edema, seizures, and cerebral vasospasm. Cerebral vasospasm with resultant cerebral ischemia and neurologic worsening may develop beginning near day 5. Nimodipine should be started as early as possible once the patient is stabilized to improve neurologic outcomes. Nimodipine was thought to prevent cerebral artery vasospasm, but evidence for this effect is lacking. However, nimodipine does improve clinical outcomes in patients with SAH and is recommended in all patients as soon as possible following diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"943610",
+"children":[
+"Intravenous dexamethasone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not effective in reducing cerebral edema following a SAH. In patients undergoing craniotomy, dexamethasone may be used on a case-by-case basis to reduce surgery-related edema, but this is not indicated after coiling."
+]
+},
+{
+"type":"p",
+"hlId":"de4aeb",
+"children":[
+"The patient has no acute indications for lowering blood pressure with intravenous labetalol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") now that the ruptured cerebral aneurysm has been secured and her systolic blood pressure is less than the 160 mm Hg guideline suggested target. Patients with a treated aneurysm may require blood pressure augmentation if there is any evidence of vasospasm detected with surveillance transcranial Doppler ultrasonography."
+]
+},
+{
+"type":"p",
+"hlId":"542194",
+"children":[
+"Oral verapamil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate because it does not reduce the risk of vasospasm or improve neurologic outcomes after aneurysmal SAH. In case series of patients with reversible cerebral vasoconstriction syndrome (a rare condition that can be triggered by medications, such as amphetamines or selective serotonin reuptake inhibitors), verapamil has been associated with a reduction in neurologic adverse events."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_4_3_2",
+"objective":{
+"__html":"Treat aneurysmal subarachnoid hemorrhage with nimodipine."
+},
+"references":[
+[
+"Lawton MT, Vates GE. Subarachnoid hemorrhage. N Engl J Med. 2017;377:257-266. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28723321",
+"target":"_blank"
+},
+"children":[
+"PMID: 28723321"
+]
+},
+" doi:10.1056/NEJMcp1605827"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":18,
+"C":59,
+"D":4,
+"E":0
+},
+"hlIds":[
+"f93e83",
+"53e64f",
+"af8dff",
+"1054f1",
+"3f2439",
+"2cf14f",
+"37233a",
+"943610",
+"de4aeb",
+"542194"
+]
+}

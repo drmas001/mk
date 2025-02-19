@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_pm_q057",
+"number":57,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 57",
+"stimulus":[
+{
+"type":"p",
+"hlId":"16eeff",
+"children":[
+"A 45-year-old woman is evaluated in the ICU for septic shock secondary to a necrotic diabetic foot infection. She has not responded to initial resuscitation with 30 mL/kg Ringer lactate infusion and vasopressor therapy. Medications are low-molecular-weight heparin, insulin glargine, norepinephrine, vasopressin, metronidazole, ceftriaxone, and vancomycin."
+]
+},
+{
+"type":"p",
+"hlId":"f2068e",
+"children":[
+"On physical examination, temperature is 38.6 °C (101.5 °F), blood pressure is 78/46 mm Hg, pulse rate is 102/min, and respiration rate is 16/min. Oxygen saturation is 95% with the patient breathing ambient air. A 4-cm diameter, recently debrided ulcer is present over the dorsal metacarpophalangeal joint of the great toe, extending to bone."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cosyntropin stimulation test"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous hydrocortisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous immune globulin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Procalcitonin measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0eb601",
+"children":[
+"The use of glucocorticoids is suggested in the setting of sepsis with an ongoing vasopressor requirement."
+]
+},
+{
+"type":"keypoint",
+"hlId":"a9fad8",
+"children":[
+"Guideline-recommended hydrocortisone dosage for refractory septic shock varies from a maximum of 200 mg to 400 mg daily."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"1c424a",
+"children":[
+"The most appropriate additional management is intravenous administration of hydrocortisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has septic shock related to the necrotic diabetic foot ulcer. Despite aggressive early resuscitation with crystalloid fluids and concomitant vasopressors, the patient's hemodynamic status remains unstable. The use of glucocorticoids in the setting of sepsis has been suggested to achieve hemodynamic stability in patients with an ongoing vasopressor requirement. A 2018 meta-analysis of 42 trials concluded that although there was no evidence that glucocorticoids improve mortality, patients with septic shock who receive glucocorticoids are more likely to have reversal of shock within 7 days. Guidelines published by the Society of Critical Care Medicine and the European Society of Intensive Care Medicine in 2017 recommend consideration of glucocorticoids for patients with refractory septic shock at a maximum dose of 400 mg hydrocortisone daily or the equivalent using another glucocorticoid. The 2016 Surviving Sepsis Campaign guidelines recommend hydrocortisone in doses up to 200 mg daily for refractory shock."
+]
+},
+{
+"type":"p",
+"hlId":"9614b8",
+"children":[
+"Several studies have evaluated the utility of assessing endogenous cortisol levels and cortisol reserves in patients with shock. Historically, utilization of cosyntropin stimulation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") was widespread. However, failure to demonstrate correlation between baseline cortisol level or cortisol reserve and response to glucocorticoid supplementation does not support use of this measurement in patients with refractory shock."
+]
+},
+{
+"type":"p",
+"hlId":"e3f055",
+"children":[
+"Guidelines recommend against the use of intravenous immunoglobulins (IVIG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with sepsis or septic shock. Individual randomized studies and systematic reviews and meta-analyses have failed to convincingly demonstrate that the use of IVIG results in reduced mortality and are not recommended."
+]
+},
+{
+"type":"p",
+"hlId":"0c6e20",
+"children":[
+"Procalcitonin measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should not be ordered in this patient. Its use as a therapeutic guide for initiation of antibiotics in septic patients or as a way to determine the source of infection in critical illness has been studied with conflicting results. The most robust data have been shown when procalcitonin levels were used to guide antibiotic deescalation in patients with lower respiratory tract infection. Since the test would not help guide the management of this patient's refractory shock, it is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_3_3_3",
+"objective":{
+"__html":"Treat refractory septic shock with glucocorticoid therapy."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":87,
+"C":2,
+"D":6,
+"E":0
+},
+"hlIds":[
+"16eeff",
+"f2068e",
+"1e31fb",
+"0eb601",
+"a9fad8",
+"1c424a",
+"9614b8",
+"e3f055",
+"0c6e20"
+]
+}

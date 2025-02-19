@@ -1,0 +1,220 @@
+{
+"id":"mk19_qq_q178",
+"number":178,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 178",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4ccf6d",
+"children":[
+"A 17-year-old boy is evaluated for a 3-week history of cough following a typical upper respiratory tract infection. Although his symptoms of fever, headache, nasal congestion, and productive cough improved, a dry cough persisted. He has no other symptoms or medical problems."
+]
+},
+{
+"type":"p",
+"hlId":"168e0e",
+"children":[
+"On physical examination, there is a single episode of coughing. No other abnormalities are noted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cough-variant asthma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Gastroesophageal reflux disease-related cough"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pertussis infection"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Postinfectious cough"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f27d12",
+"children":[
+"Subacute cough (3-8 weeks' duration) is most often a postinfectious cough following an acute respiratory tract infection, particularly viral or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" infection."
+]
+},
+{
+"type":"keypoint",
+"hlId":"77f816",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Bordetella pertussis"
+]
+},
+" infection should be considered in patients with subacute cough characterized by paroxysms of severe coughing and posttussive emesis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"198982",
+"children":[
+"Subacute cough (3-8 weeks' duration) is most often a postinfectious cough (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") following an acute respiratory tract infection, particularly a viral or ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Mycoplasma"
+]
+},
+" infection. The cough tends to be mild and generally improves progressively from the time of initial infection but may persist for 4 or more weeks. Postinfectious cough is usually caused by postnasal drip or airway hyperreactivity."
+]
+},
+{
+"type":"p",
+"hlId":"7438b2",
+"children":[
+"Cough-variant asthma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a manifestation of asthma in which cough is the predominant presenting symptom. This patient has no other history or respiratory symptoms suggestive of asthma, and his clinical presentation is more consistent with a diagnosis of postinfectious cough."
+]
+},
+{
+"type":"p",
+"hlId":"e6d9b6",
+"children":[
+"Gastroesophageal reflux disease-related cough (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a common cause of persistent, mild cough; however, the onset of the patient's cough with an acute infectious process, the cough severity, and the lack of gastrointestinal symptoms makes this a less likely diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"d63d79",
+"children":[
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Bordetella pertussis"
+]
+},
+" infection should be considered in patients with subacute cough characterized by paroxysms of severe coughing and posttussive emesis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although traditionally associated with children, more than half of cases of pertussis now occur in adolescents and adults. Symptoms in adults may be less severe than the “whooping cough” usually associated with infection in children, and a severe, persistent cough may be the primary clinical manifestation in adults. The incubation period is 7 to 10 days, which is then followed by the catarrhal phase that lasts for 1 to 2 weeks and is characterized by malaise, rhinorrhea, and mild cough. The paroxysmal phase, in which the other symptoms improve but the cough becomes severe, follows. Vigorous inspiration during paroxysms of cough causes the characteristic “whooping” sound, and the episodes of coughing may be severe enough to trigger emesis. This phase may last weeks to months if untreated, followed by the convalescent phase that lasts 1 to 3 months during which the cough slowly resolves. Pertussis is highly communicable, and treatment with a macrolide antibiotic in the first 2 to 3 weeks of infection decreases the severity of symptoms and decreases transmission of disease."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s4_2_2",
+"objective":{
+"__html":"Diagnose postinfectious cough."
+},
+"references":[
+[
+"Irwin RS, French CL, Chang AB, et al; CHEST Expert Cough Panel*. Classification of cough as a symptom in adults and management algorithms: CHEST guideline and expert panel report. Chest. 2018;153:196-209. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29080708",
+"target":"_blank"
+},
+"children":[
+"PMID: 29080708"
+]
+},
+" doi:10.1016/j.chest.2017.10.016"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"4ccf6d",
+"168e0e",
+"413696",
+"f27d12",
+"77f816",
+"198982",
+"7438b2",
+"e6d9b6",
+"d63d79"
+]
+}

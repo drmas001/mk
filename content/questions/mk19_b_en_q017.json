@@ -1,0 +1,493 @@
+{
+"id":"mk19_b_en_q017",
+"number":17,
+"bookId":"en",
+"correctAnswer":"B",
+"title":"Question 17",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bfda7e",
+"children":[
+"A 28-year-old woman is evaluated for a 6-month history of amenorrhea. Medical history is significant for schizophrenia. Her only medication is risperidone."
+]
+},
+{
+"type":"p",
+"hlId":"500803",
+"children":[
+"On physical examination, vital signs are normal. BMI is 28. No breast discharge is evident."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"b916c4",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Estradiol, serum",
+"children":[
+"Estradiol"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"577767",
+"class":"cell text l",
+"children":[
+"20 pg/mL (73 pmol/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c163f1",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Follicle-stimulating hormone, serum",
+"children":[
+"Follicle-stimulating hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"984d91",
+"class":"cell text l",
+"children":[
+"1 mU/mL (1 U/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e7a8aa",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prolactin, serum",
+"children":[
+"Prolactin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93e70a",
+"class":"cell text l",
+"children":[
+"150 ng/mL (150 μg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"61d71d",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"3ffae9",
+"class":"cell text l",
+"children":[
+"2.2 μU/mL (2.2 mU/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f597f1",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"Thyroxine, free"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"182005",
+"class":"cell text l",
+"children":[
+"1.2 ng/dL (15 pmol/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"350ea3",
+"children":[
+"MRI reveals a normal pituitary gland."
+]
+},
+{
+"type":"p",
+"hlId":"d8e646",
+"children":[
+"Consultation with the patient's psychiatrist confirms that risperidone cannot be discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Begin cabergoline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Begin estrogen-progesterone replacement therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat pituitary MRI in 6 months"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Repeat prolactin measurement in 6 months"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5e7c99",
+"children":[
+"Although medication-induced hyperprolactinemia most often results in prolactin levels of 25 to 100 ng/mL (25-100 μg/L), drugs such as metoclopramide, risperidone, and phenothiazines can lead to prolactin levels greater than 200 ng/mL (200 μg/L)."
+]
+},
+{
+"type":"keypoint",
+"hlId":"929216",
+"children":[
+"Untreated hyperprolactinemia can lead to hypogonadism and bone loss."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"24c68b",
+"children":[
+"The most appropriate management is to initiate estrogen-progesterone replacement therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has risperidone-induced hyperprolactinemia. Symptoms of hyperprolactinemia in women include amenorrhea and in some cases galactorrhea. The most common cause of non-tumor-related hyperprolactinemia is medication. Up to 40% of patients taking typical antipsychotics will develop hyperprolactinemia because of the dopamine antagonist effect. Although medication-induced hyperprolactinemia most often results in prolactin levels of 25 to 100 ng/mL (25-100 μg/L), drugs such as metoclopramide, risperidone, and phenothiazines can lead to prolactin levels greater than 200 ng/mL (200 μg/L). Confirmation of medication-induced hyperprolactinemia is often challenging. A pituitary-specific MRI is often necessary to ensure that an adenoma is not present. If this patient's hyperprolactinemia remains untreated, she will continue to have amenorrhea and bone loss over time because of estrogen deficiency. Estrogen-progesterone replacement therapy is necessary to avoid the sequelae of estrogen deficiency."
+]
+},
+{
+"type":"p",
+"hlId":"400673",
+"children":[
+"Initiating a dopamine agonist such as cabergoline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") to treat medication-induced hyperprolactinemia in cases such as described for this patient is not recommended because it can induce psychosis."
+]
+},
+{
+"type":"p",
+"hlId":"4c6924",
+"children":[
+"Repeat pituitary MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") or repeat prolactin measurement in 6 months (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not appropriate. This patient has an estrogen deficiency that requires estrogen-progesterone replacement to avoid long-term consequences. Additionally, the elevated prolactin is unlikely to improve if the patient continues taking risperidone, and the pituitary MRI is unlikely to change. If possible and in consultation with the patient's psychiatrist, prolactin levels should be rechecked after either the causative medication has been withheld for 3 days or switched to a medication less likely to cause hyperprolactinemia. However, in this case, the patient's psychiatrist confirms that continuing risperidone necessary; therefore, estrogen-progesterone replacement therapy is indicated."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_5_1",
+"objective":{
+"__html":"Treat medication-induced hyperprolactinemia."
+},
+"references":[
+[
+"Montejo ÁL, Arango C, Bernardo M, et al. Multidisciplinary consensus on the therapeutic recommendations for iatrogenic hyperprolactinemia secondary to antipsychotics. Front Neuroendocrinol. 2017;45:25-34. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28235557",
+"target":"_blank"
+},
+"children":[
+"PMID: 28235557"
+]
+},
+" doi:10.1016/j.yfrne.2017.02.003"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":43,
+"B":40,
+"C":3,
+"D":14,
+"E":0
+},
+"hlIds":[
+"bfda7e",
+"500803",
+"a462a3",
+"b916c4",
+"577767",
+"c163f1",
+"984d91",
+"e7a8aa",
+"93e70a",
+"61d71d",
+"3ffae9",
+"f597f1",
+"182005",
+"350ea3",
+"d8e646",
+"cb2b54",
+"5e7c99",
+"929216",
+"24c68b",
+"400673",
+"4c6924"
+]
+}

@@ -1,0 +1,244 @@
+{
+"id":"mk19_a_np_q021",
+"number":21,
+"bookId":"np",
+"correctAnswer":"B",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5eab4c",
+"children":[
+"A 25-year-old woman is evaluated for a 6-month history of fatigue, joint pain, sun sensitivity, and pleuritic chest pain. Medications are an oral contraceptive pill and as-needed naproxen."
+]
+},
+{
+"type":"p",
+"hlId":"1a56e7",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F), blood pressure is 142/90 mm Hg, and pulse rate is 100/min. The fingers and wrist joints are tender, but there is no synovitis. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"49dd19",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 1.4 mg/dL (123.8 µmol/L); dipstick urinalysis shows 2+ blood, 3+ protein, positive leukocyte esterase, and no nitrites."
+]
+},
+{
+"type":"p",
+"hlId":"57876a",
+"children":[
+"Urine microscopy is ",
+{
+"type":"figure-link",
+"target":"mk19_a_np_mcq_f021",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_a_np_mcq_f021"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cystoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Kidney biopsy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Kidney ultrasonography"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine culture"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ad1317",
+"children":[
+"Glomerular hematuria typically features dysmorphic erythrocytes (or acanthocytes) and/or erythrocyte casts on urine sediment examination and is associated with proteinuria."
+]
+},
+{
+"type":"keypoint",
+"hlId":"2e41ad",
+"children":[
+"Undiagnosed glomerular hematuria is an indication for a kidney biopsy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a9b1ab",
+"children":[
+"The most appropriate test is kidney biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient likely has glomerulonephritis. Glomerular hematuria typically features tea- or brown-colored urine with dysmorphic erythrocytes (or acanthocytes) and/or erythrocyte casts on urine sediment examination. Leukocyturia and leukocyte casts can be seen in patients, such as this one, with glomerulonephritis. Dysmorphic urinary erythrocytes are defined by their irregular (nonspherical) shape; acanthocytes are one type of dysmorphic erythrocyte. Erythrocyte casts are recognized by their cylindrical or tubular structure and inclusion of small, agranular spherocytes and, when present, are specific for hematuria of glomerular origin. Indications for kidney biopsy include glomerular hematuria, severely increased albuminuria, acute or chronic kidney disease of unclear cause (in the absence of atrophic kidneys), and kidney transplant dysfunction or monitoring. This patient with undiagnosed glomerular hematuria should have a kidney biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"d64a3a",
+"children":[
+"Cystoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated in the evaluation of gross or microscopic hematuria of nonglomerular origin. The presence of erythrocyte casts, proteinuria, and clinical features suggesting an underlying rheumatologic or autoimmune disease signifies glomerular bleeding and precludes the need for cystoscopy."
+]
+},
+{
+"type":"p",
+"hlId":"4a452c",
+"children":[
+"Ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most commonly used kidney imaging modality. It is easily available, safe, and relatively inexpensive. Ultrasonography can demonstrate hydronephrosis, kidney size and cortical thickness, echogenicity, and presence of cysts and tumors. Absence of hydronephrosis quickly rules out obstruction in most cases. Echogenicity is the ability of a tissue to “bounce back” or return the ultrasound signal and is recognized as brighter shades on the sonogram image. Echogenicity is nonspecific but implies acute or chronic parenchymal disease. Ultrasonography is very useful in the evaluation of patients with undifferentiated acute kidney injury but is of limited usefulness in the evaluation of glomerulonephritis."
+]
+},
+{
+"type":"p",
+"hlId":"da4a69",
+"children":[
+"Leukocyte esterase is an enzyme present in leukocytes. A positive test suggests pyuria (≥5 leukocytes/hpf). A positive nitrite test signifies the presence of gram-negative bacteria capable of converting urine nitrates into nitrites. Dipstick analysis for urinary tract infection is most helpful when both the leukocyte esterase and nitrite tests are concordant. This patient's microscopic urinalysis reveals pyuria and accounts for the positive leukocyte esterase test. In this case, pyuria would be an expected finding in a patient with the nephritic syndrome. A urine culture (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") therefore is not needed."
+]
+}
+],
+"relatedSection":"mk19_a_np_s1_4",
+"objective":{
+"__html":"Diagnose glomerulonephritis."
+},
+"references":[
+[
+"Willis GC, Tewelde SZ. The approach to the patient with hematuria. Emerg Med Clin North Am. 2019;37:755-769. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31563206",
+"target":"_blank"
+},
+"children":[
+"PMID: 31563206"
+]
+},
+" doi:10.1016/j.emc.2019.07.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":83,
+"C":6,
+"D":10,
+"E":0
+},
+"figuresContent":{
+"mk19_a_np_mcq_f021":{
+"id":"mk19_a_np_mcq_f021",
+"number":21,
+"bookId":"np",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"0a2ee7c6dcfe98014dc5181bd4c3279b",
+"height":1199,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"5eab4c",
+"1a56e7",
+"49dd19",
+"57876a",
+"c5165c",
+"ad1317",
+"2e41ad",
+"a9b1ab",
+"d64a3a",
+"4a452c",
+"da4a69"
+]
+}

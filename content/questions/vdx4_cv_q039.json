@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q039",
+"number":39,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6d54a5",
+"children":[
+"A 36-year-old man is evaluated in the emergency department for an irregular heart rhythm. He is otherwise asymptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"8d659e",
+"children":[
+"A representative sample from an ECG rhythm strip is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f039",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f039"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"b1916c",
+"children":[
+"Which of the following abnormalities is seen on this patient's ECG?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Complete heart block"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"High-grade atrioventricular block"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mobitz type 1 second-degree atrioventricular block"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mobitz type 2 second-degree atrioventricular block"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"dddcfc",
+"children":[
+"This ECG demonstrates Mobitz type 1 second-degree (Wenckebach) atrioventricular block, which is characterized electrocardiographically by a PR interval that progressively prolongs until, eventually, the beat is dropped. In the tracing shown, the PR interval widens over the first six beats and no ventricular complex follows the seventh atrial beat."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_2_3",
+"objective":{
+"__html":"Identify Mobitz type 1 second-degree (Wenckebach) atrioventricular block on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f039":{
+"id":"vdx4_cv_mcq_f039",
+"number":39,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"407e20ab220e11f1d6e33e32f5795ad3",
+"height":78,
+"width":504,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"6d54a5",
+"8d659e",
+"b1916c",
+"dddcfc"
+]
+}

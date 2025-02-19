@@ -1,0 +1,179 @@
+{
+"id":"mk19_a_gi_q015",
+"number":15,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8ce3be",
+"children":[
+"A 34-year-old woman is evaluated at routine follow-up after diagnosis of primary sclerosing cholangitis (PSC) earlier this month. The diagnosis of PSC was confirmed with magnetic resonance cholangiopancreatography showing multifocal intra- and extrahepatic bile duct strictures without evidence of a dominant stricture or mass. A carbohydrate antigen 19-9 measurement was normal. She has no other medical conditions and takes no medications."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"7906c3",
+"children":[
+"Which of the following is the most appropriate management at this time?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Endoscopic retrograde cholangiopancreatography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Liver biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Liver transplantation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0c07db",
+"children":[
+"Primary sclerosing cholangitis (PSC) is associated with inflammatory bowel disease (IBD) in approximately 85% of cases; therefore, all patients with PSC without known IBD should have colonoscopy with biopsies at the time of PSC diagnosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d3d8e3",
+"children":[
+"Patients with PSC have a 15% lifetime risk for cholangiocarcinoma; annual or biannual magnetic resonance cholangiopancreatography and carbohydrate antigen 19-9 measurement is recommended for cholangiocarcinoma surveillance."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0ec051",
+"children":[
+"The most appropriate management is colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The clinical presentation of primary sclerosing cholangitis (PSC) varies. Many patients are asymptomatic, whereas others are diagnosed after an evaluation of abnormal laboratory test results demonstrating a cholestatic pattern of liver injury. Symptomatic patients present with fatigue and pruritus. Clinical findings vary as well. Asymptomatic patients may have no findings, and others may have jaundice, hepatomegaly, splenomegaly, and excoriations related to pruritus. PSC is associated with inflammatory bowel disease (IBD) in approximately 85% of cases. Therefore, all patients with PSC without known IBD should have colonoscopy with biopsies at the time of PSC diagnosis. Common colonoscopy findings in patients with PSC and IBD include mild pancolitis with rectal sparing and backwash ileitis. Because of the higher risk for colon cancer in these patients, surveillance colonoscopy with biopsies is also recommended every 1 to 2 years. Patients with PSC have a 15% lifetime risk for cholangiocarcinoma. Annual or biannual magnetic resonance cholangiopancreatography (MRCP) and measurement of the carbohydrate antigen 19-9 level are recommended for cholangiocarcinoma surveillance. The incidence of cholangiocarcinoma is highest in the first 2 years after PSC is diagnosed. There is also an increased risk for gallbladder cancer in PSC, and regular annual screening with ultrasonography is recommended."
+]
+},
+{
+"type":"p",
+"hlId":"f24bb5",
+"children":[
+"PSC is most commonly diagnosed by MRCP. Endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is indicated in patients who have associated jaundice, worsening pruritus, cholangitis, or a dominant stricture or bile duct mass on MRCP. This patient has no indication for ERCP at this time."
+]
+},
+{
+"type":"p",
+"hlId":"643739",
+"children":[
+"Liver biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is useful in patients for whom PSC is suspected but the MRCP result is normal. In this situation, small-duct PSC not seen on MRCP may be diagnosed with liver biopsy. This patient has no indication for liver biopsy because MRCP established the diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"075415",
+"children":[
+"Liver transplantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") should be considered for patients with PSC and decompensated cirrhosis, recurrent bacterial cholangitis, and hilar cholangiocarcinoma. Transplant outcomes for patients with PSC are excellent, with 1-year survival rates of at least 90% and recurrence rates of approximately 20% at 5 years after liver transplantation. This patient does not have an indication for liver transplantation."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s6_8_2",
+"objective":{
+"__html":"Evaluate for inflammatory bowel disease in a patient with primary sclerosing cholangitis."
+},
+"references":[
+[
+"Bowlus CL, Lim JK, Lindor KD. AGA clinical practice update on surveillance for hepatobiliary cancers in patients with primary sclerosing cholangitis: expert review. Clin Gastroenterol Hepatol. 2019;17:2416-2422. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31306801",
+"target":"_blank"
+},
+"children":[
+"PMID: 31306801"
+]
+},
+" doi:10.1016/j.cgh.2019.07.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":57,
+"B":17,
+"C":12,
+"D":13,
+"E":0
+},
+"hlIds":[
+"8ce3be",
+"7906c3",
+"0c07db",
+"d3d8e3",
+"0ec051",
+"f24bb5",
+"643739",
+"075415"
+]
+}

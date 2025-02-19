@@ -1,0 +1,213 @@
+{
+"id":"mk19_b_en_q050",
+"number":50,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1a1650",
+"children":[
+"A 45-year-old woman is evaluated for an incidentally found pituitary tumor. She was recently seen in the emergency department following a motor vehicle accident, where head CT demonstrated an 8-mm pituitary tumor without compression of the optic chiasm. She has otherwise been well with normal menstrual periods and no symptoms suggesting an endocrine disorder. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"86c2da",
+"children":[
+"Vital signs and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"a482dc",
+"children":[
+"Laboratory evaluation reveals normal levels of 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum cortisol, thyroid-stimulating hormone, and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"4596d0",
+"children":[
+"Which of the following is the most appropriate additional test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Follicle-stimulating hormone and luteinizing hormone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"24-Hour urine cortisol"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prolactin and insulin-like growth factor-1"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urine and serum osmolality"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c523ad",
+"children":[
+"In patients with pituitary incidentaloma, pituitary hypersecretion should be ruled out by measurement of prolactin and insulin-like growth factor 1."
+]
+},
+{
+"type":"keypoint",
+"hlId":"748fb1",
+"children":[
+"All patients with pituitary tumors should be evaluated for hypopituitarism."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0db18c",
+"children":[
+"The most appropriate additional diagnostic test to evaluate an incidentally noted pituitary lesion is measurement of prolactin and insulin-like growth factor 1 levels (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). A pituitary lesion discovered incidentally on imaging is termed a “pituitary incidentaloma.” Small, incidentally noted pituitary lesions are common. In patients undergoing MRI for nonpituitary reasons, microadenomas are found in 10% to 38% of cases whereas incidental macroadenomas are seen in 0.2%. Most pituitary incidentalomas are benign nonfunctional adenomas. Pituitary hypersecretion should be ruled out by measurement of prolactin and insulin-like growth factor 1. Evaluation for Cushing disease is unnecessary in patients without signs or symptoms of cortisol excess. Pituitary tumors can also cause hypopituitarism. Screening for hypopituitarism is recommended in all patients with pituitary tumors, regardless of symptoms, with measurement of follicle-stimulating hormone (FSH), luteinizing hormone (LH), cortisol, thyroid-stimulating hormone, free thyroxine, and total testosterone in men. Hypogonadotropic hypogonadism can be assessed in premenopausal women through menstrual history. A history of normal menses essentially rules out hypogonadotropic hypogonadism and the need to measure FSH and LH."
+]
+},
+{
+"type":"p",
+"hlId":"86b32a",
+"children":[
+"This patient reports normal menstrual cycles, which shows normal functioning of the gonadal axis. Therefore, measurement of FSH and LH (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") levels is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"492e7a",
+"children":[
+"Tests for hypercortisolism include 24-hour urinary cortisol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), salivary cortisol, or dexamethasone suppression testing. However, this patient has no evidence of overt hypercortisolism, including supraclavicular fat pads, proximal muscle weakness, facial plethora, and wide violaceous striae or subclinical Cushing disease, which typically lacks these stigmata but instead presents with obesity, hypertension, and type 2 diabetes mellitus. In the absence of supporting symptoms or signs, tests for hypercortisolism are not needed."
+]
+},
+{
+"type":"p",
+"hlId":"e3888a",
+"children":[
+"The inability of the posterior pituitary gland to produce adequate antidiuretic hormone results in central diabetes insipidus (DI), causing in polyuria and polydipsia. Urine and serum osmolality tests (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are a consideration because an inappropriately low urine osmolality in the setting of an elevated serum osmolality and hypernatremia in a patient with polyuria (>50 mL/kg/24 h in absence of glucosuria) is diagnostic of DI. However, there is no indication for DI testing. In addition, DI would be very unlikely in a patient with a small pituitary tumor."
+]
+}
+],
+"relatedSection":"mk19_b_en_s2_3_3",
+"objective":{
+"__html":"Evaluate an incidentally noted pituitary lesion."
+},
+"references":[
+[
+"Boguszewski CL, de Castro Musolino NR, Kasuki L. Management of pituitary incidentaloma. Best Pract Res Clin Endocrinol Metab. 2019;33:101268. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31027975",
+"target":"_blank"
+},
+"children":[
+"PMID: 31027975"
+]
+},
+" doi:10.1016/j.beem.2019.04.002"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":13,
+"B":5,
+"C":71,
+"D":11,
+"E":0
+},
+"hlIds":[
+"1a1650",
+"86c2da",
+"a482dc",
+"4596d0",
+"c523ad",
+"748fb1",
+"0db18c",
+"86b32a",
+"492e7a",
+"e3888a"
+]
+}

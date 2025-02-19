@@ -1,0 +1,163 @@
+{
+"id":"mk19_b_pm_q055",
+"number":55,
+"bookId":"pm",
+"correctAnswer":"C",
+"title":"Question 55",
+"stimulus":[
+{
+"type":"p",
+"hlId":"da9f0e",
+"children":[
+"A 45-year-old woman is evaluated in the emergency department 2 days after elective laparoscopic cholecystectomy. She is febrile, has emesis, and reports abdominal pain and fullness."
+]
+},
+{
+"type":"p",
+"hlId":"b232c9",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.1 °F), blood pressure is 110/50 mm Hg, pulse rate is 115/min, respiration rate is 28/min, and oxygen saturation is 94% with the patient breathing ambient air. Abdominal examination reveals right-upper-quadrant tenderness and diminished and infrequent bowel sounds. There are decreased breath sounds in the right lung base. The patient is confused. Laparoscopy wounds are intact, with no drainage or erythema."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c499c3",
+"children":[
+"Which of the following is the best venue of care for this patient?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Emergency department observation unit"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"General medical ward"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"ICU"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Outpatient"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4bf138",
+"children":[
+"Signs and symptoms of clinical instability, including hypotension, hypoxemia, arrhythmias, and mental status changes, may be useful in identifying those patients who require intense resources or may be at risk of deterioration."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e090ea",
+"children":[
+"The most appropriate venue for care of this patient is the ICU (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). There are no universally accepted criteria for admission to an ICU. Signs and symptoms of clinical instability, including hypotension, hypoxemia, arrhythmias, and mental status changes, may be useful to identify patients who require intense resources or may be at risk of sudden deterioration. This patient has many findings to suggest clinical instability, including abnormal oxygen saturation, borderline hypotension, tachycardia, tachypnea, and altered mental status. Scoring systems such as the National Early Warning Score (NEWS), systemic inflammatory response syndrome (SIRS), and Modified Early Warning Score (MEWS) can be helpful screening tools. Because there is no perfect test for identifying sepsis, scoring systems should not be used as the sole indicator of disease or triage needs."
+]
+},
+{
+"type":"p",
+"hlId":"3cb8c7",
+"children":[
+"This patient has evidence of clinical instability, including borderline abnormal oxygen saturation, hypotension, tachycardia, tachypnea, and altered mental status. She is at risk of rapid clinical deterioration. Managing this patient in sites other than the ICU, including the emergency department observation unit (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), general medicine ward (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), or an outpatient setting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), places her at risk if there is a sudden change in clinical status in a setting that is unable to respond with the necessary personnel and resources for quick and effective resuscitation."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s10_1",
+"objective":{
+"__html":"Assess need for critical care placement in a patient at high risk for sepsis."
+},
+"references":[
+[
+"Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Crit Care Med. 2021;49:e1063-e1143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34605781",
+"target":"_blank"
+},
+"children":[
+"PMID: 34605781"
+]
+},
+" doi:10.1097/CCM.0000000000005337"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":6,
+"B":25,
+"C":69,
+"D":0,
+"E":0
+},
+"hlIds":[
+"da9f0e",
+"b232c9",
+"c499c3",
+"4bf138",
+"e090ea",
+"3cb8c7"
+]
+}

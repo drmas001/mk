@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_gi_q014",
+"number":14,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 14",
+"stimulus":[
+{
+"type":"p",
+"hlId":"e6e9b9",
+"children":[
+"A 52-year-old man is evaluated for a 6-month history of constipation. He has bowel movements once every 5 days, low back pain after 2 days without a bowel movement, and straining during defecation. He reports no abdominal pain. Colon cancer screening was performed 2 years ago with fecal immunochemical testing."
+]
+},
+{
+"type":"p",
+"hlId":"019a94",
+"children":[
+"On physical examination, vital signs are normal. Abdominal examination reveals palpable stool in the left lower quadrant without tenderness. Result of digital anorectal examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"06d7cb",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hematocrit",
+"children":[
+"hematocrit"
+]
+},
+" of 44%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Colonoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prucalopride"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Psyllium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radiopaque marker study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"376282",
+"children":[
+"Constipation can be secondary or functional (idiopathic); medications are the most common cause of secondary constipation."
+]
+},
+{
+"type":"keypoint",
+"hlId":"94a125",
+"children":[
+"Colonoscopy is the initial evaluation of constipation in elderly patients with acute constipation and patients with unintentional weight loss, family history of colorectal cancer, unexplained anemia, and age older than 45 years with no previous colonoscopy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"014838",
+"children":[
+"The most appropriate management is colonoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Constipation is one of the most common gastrointestinal symptoms, affecting 20% of the general population. Constipation can present with symptoms including infrequent, difficult, or incomplete defecation, and it can be acute or chronic. The patient's history is compatible with chronic constipation. Constipation can be secondary or functional (idiopathic). Medications are the most common cause of secondary constipation. Other causes of this common condition include mechanical obstruction, systemic illnesses, altered physiologic states, and psychosocial conditions. Once secondary causes have been excluded, chronic constipation is considered functional. Functional constipation is subtyped into categories of slow transit, normal transit, or dyssynergic defecation. Slow-transit constipation is defined as the delayed passage of fecal contents through the colon based on objective transit testing. Normal-transit constipation is functional constipation in which colonic transit times are adequate. Dyssynergic defecation refers to difficulty with or inability to expel stool as a result of some combination of abnormalities in contraction and/or relaxation of the muscles of the pelvic floor during defecation. Colonoscopy is the initial evaluation of constipation in elderly patients with acute constipation and patients with unintentional weight loss, family history of colorectal cancer, unexplained anemia, and age older than 45 years with no previous colonoscopy. This patient is age 52 years, and colonoscopy should be performed as the initial study to evaluate for mechanical causes of constipation."
+]
+},
+{
+"type":"p",
+"hlId":"ca4f71",
+"children":[
+"Treatment options for chronic constipation include serotonergic prokinetic agents (prucalopride [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"]), bulking agents (psyllium [",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"]), stimulant laxatives (senna, bisacodyl), osmotic laxatives (polyethylene glycol, lactulose, sorbitol), stool softeners (docusate), secretagogues (lubiprostone, linaclotide, plecanatide), and/or biofeedback. These therapeutic modalities are appropriate after evaluation for a cause of constipation."
+]
+},
+{
+"type":"p",
+"hlId":"01dab2",
+"children":[
+"Physiologic testing, including colon transit testing with a radiopaque marker study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), scintigraphy, or the wireless motility capsule, is reserved for patients with constipation symptoms that do not respond to initial trials of lifestyle modification and laxative therapy."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s4_5_1",
+"objective":{
+"__html":"Evaluate chronic constipation."
+},
+"references":[
+[
+"Bharucha AE, Wald A. Chronic constipation. Mayo Clin Proc. 2019;94:2340-2357. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31054770",
+"target":"_blank"
+},
+"children":[
+"PMID: 31054770"
+]
+},
+" doi:10.1016/j.mayocp.2019.01.031"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":59,
+"B":4,
+"C":32,
+"D":4,
+"E":0
+},
+"hlIds":[
+"e6e9b9",
+"019a94",
+"06d7cb",
+"cb2b54",
+"376282",
+"94a125",
+"014838",
+"ca4f71",
+"01dab2"
+]
+}

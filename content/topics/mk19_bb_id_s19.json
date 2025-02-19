@@ -1,0 +1,584 @@
+{
+"id":"mk19_bb_id_s19",
+"subspecialtyId":"id",
+"title":"Endemic Mycoses",
+"jsonContent":{
+"type":"section",
+"id":"mk19_bb_id_s19",
+"title":{
+"__html":"Endemic Mycoses"
+},
+"titleNode":{
+"type":"section-title",
+"hlId":"8ad25d",
+"children":[
+"Endemic Mycoses"
+]
+},
+"children":[
+{
+"type":"section",
+"id":"mk19_bb_id_s19_0",
+"children":[
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_bb_id_s19_inline_t1"
+],
+"forceOpen":true
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"mk19_bb_id_f11"
+],
+"forceOpen":true
+}
+]
+}
+]
+},
+"tablesContent":{
+"mk19_bb_id_s19_inline_t1":{
+"id":"mk19_bb_id_s19_inline_t1",
+"number":1,
+"bookId":"id",
+"title":{
+"__html":"Study Table: Differentiation of Endemic Mycoses"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"c0efe3",
+"children":[
+"Study Table: Differentiation of Endemic Mycoses"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0ddc0",
+"class":"col hd l",
+"children":[
+"Infection"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f1c01a",
+"class":"col hd l",
+"children":[
+"Geographic Distribution"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1f7215",
+"class":"col hd l",
+"children":[
+"What to Look for"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f0b936",
+"class":"cell txt l",
+"children":[
+"Blastomycosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"4cea7d",
+"class":"cell txt l",
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Blastomyces dermatitidis"
+]
+},
+")"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"475afd",
+"class":"cell txt l",
+"children":[
+"Midwestern, southeastern, and south central United States (Mississippi, Missouri, and Ohio river valleys)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1997fd",
+"class":"cell txt l",
+"children":[
+"Symptom onset 4-6 weeks after exposure"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d1abf7",
+"class":"cell txt l",
+"children":[
+"Consider in patients with primary skin lesion or concurrent pulmonary and skin or bone findings"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"18f94e",
+"class":"cell txt l",
+"children":[
+"Consider in patients being evaluated for ",
+{
+"type":"no-wrap",
+"children":[
+{
+"type":"abbreviation",
+"title":"tuberculosis",
+"children":[
+"TB"
+]
+},
+","
+]
+},
+" malignancy"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2e0cd1",
+"class":"cell txt l",
+"children":[
+"Coccidiomycosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"021ef6",
+"class":"cell txt l",
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Coccidioides"
+]
+},
+" species)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"81a880",
+"class":"cell txt l",
+"children":[
+"Southern Arizona, south central California, southwestern New Mexico, west Texas"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"42b0ed",
+"class":"cell txt l",
+"children":[
+"Symptom onset 1-3 weeks after exposure"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1e7370",
+"class":"cell txt l",
+"children":[
+"Consider in patients with pulmonary symptoms and erythema nodosum or erythema multiforme"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"e9ef64",
+"class":"cell txt l",
+"children":[
+"Consider in patients with pulmonary symptoms and prolonged constitutional symptoms (fever, fatigue) or meningitis"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"986872",
+"class":"cell txt l",
+"children":[
+"Histoplasmosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"2fc0d0",
+"class":"cell txt l",
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Histoplasma capsulatum"
+]
+},
+")"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ab44de",
+"class":"cell txt l",
+"children":[
+"Midwestern states in the Ohio and Mississippi river valley regions"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"68c3dc",
+"class":"cell txt l",
+"children":[
+"Symptom onset 2-3 weeks after exposure"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"810a89",
+"class":"cell txt l",
+"children":[
+"Consider in patients with complex pulmonary disease (nodular, cavitary, lymphadenopathy)"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"d3ce11",
+"class":"cell txt l",
+"children":[
+"Consider in patients being evaluated for sarcoidosis, TB, or malignancy"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2edbc8",
+"class":"cell txt l",
+"children":[
+"Sporotrichosis"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"515a14",
+"class":"cell txt l",
+"children":[
+"(",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Sporothrix schenckii"
+]
+},
+")"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"59a44a",
+"class":"cell txt l",
+"children":[
+"Occurs almost exclusively in persons who engage in landscaping or gardening"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8def7c",
+"class":"cell txt l",
+"children":[
+"A papule appears days to weeks later at the inoculation site. Similar lesions then occur along lymphatic channels proximal to the inoculation site."
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+
+]
+}
+}
+}

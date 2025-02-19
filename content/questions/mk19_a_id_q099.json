@@ -1,0 +1,239 @@
+{
+"id":"mk19_a_id_q099",
+"number":99,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 99",
+"stimulus":[
+{
+"type":"p",
+"hlId":"db0f64",
+"children":[
+"A 43-year-old man is evaluated in the emergency department in early September for a 1-day history of left facial weakness following 10 days of headache, stiff neck, and photophobia. He reports no sick contacts. He is a park ranger in Pennsylvania. His only medication is ibuprofen for headaches."
+]
+},
+{
+"type":"p",
+"hlId":"b80793",
+"children":[
+"On physical examination, temperature is 38.6 °C (101.5 °F). Mental status is normal. A left facial cranial nerve (VII) palsy is noted."
+]
+},
+{
+"type":"p",
+"hlId":"6c44be",
+"children":[
+"Cerebrospinal fluid studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Cell count, cerebrospinal fluid",
+"children":[
+"leukocyte count"
+]
+},
+" of 95/µL (95 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L) with 90% lymphocytes, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, cerebrospinal fluid",
+"children":[
+"glucose"
+]
+},
+" level of 56 mg/dL (3.1 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, cerebrospinal fluid",
+"children":[
+"protein"
+]
+},
+" level of 76 mg/dL (760 mg/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Enterovirus meningitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"<i>Borrelia burgdorferi</i> meningitis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Mycobacterium tuberculosis</i> meningitis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"West Nile virus meningitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"842824",
+"children":[
+"Lyme meningitis may be indistinguishable from viral meningitis, with fever, headache, and meningismus."
+]
+},
+{
+"type":"keypoint",
+"hlId":"57734c",
+"children":[
+"The “rule of 7s” can help classify a patient at low risk of having Lyme disease (headache duration <7 days, <70% mononuclear cells in the cerebrospinal fluid, and absence of a seventh facial nerve palsy)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"d88e9f",
+"children":[
+"The most likely diagnosis is ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Borrelia burgdorferi"
+]
+},
+" meningitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The first stage of Lyme disease usually presents with a flu-like illness 1 to 4 weeks after infection, characterized by an erythema migrans rash. Focal cardiac or neurologic symptoms may also occur in early disseminated disease, typically 2 to 10 weeks following the development of the rash. Although Lyme meningitis can involve any cranial nerve, facial nerve palsy is the most common manifestation, occurring in 8% of patients with Lyme disease. Lyme disease causes a lymphocytic meningitis that may be indistinguishable from viral meningitis, with fever, headache, and meningismus. The “rule of 7s” can help classify a patient at low risk of having Lyme disease (headache duration <7 days, <70% mononuclear cells in the cerebrospinal fluid [CSF], and absence of a seventh facial nerve palsy). Lyme meningitis usually occurs in the summer and fall in endemic areas (e.g., northeastern United States), and it is often associated with peripheral facial palsy. The patient works outdoors in an endemic state (Pennsylvania), and tick bite exposure is likely."
+]
+},
+{
+"type":"p",
+"hlId":"1aba16",
+"children":[
+"Enteroviruses (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") are the most common cause of viral meningitis with symptoms including headache, fever, nuchal rigidity, photophobia, nausea, vomiting, myalgia, pharyngitis, maculopapular rash, and cough. Usually, a recently sick contact has been present (e.g., small children with viral illness). Facial palsy does not occur in enteroviral meningitis."
+]
+},
+{
+"type":"p",
+"hlId":"06795b",
+"children":[
+"Tuberculosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can cause a subacute meningitis with cranial nerve palsies resulting from basilar meningitis. Tuberculous meningitis would be more likely in this patient if he had a low CSF glucose level, elevated protein level, and mental status changes. Cranial neuropathies and long tract signs can be observed in patients with tubercular basilar meningitis (with or without hydrocephalus or tuberculomas)."
+]
+},
+{
+"type":"p",
+"hlId":"ed2686",
+"children":[
+"West Nile meningitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can present with a similar CSF profile to Lyme meningitis in endemic areas during the summer and fall but has a more acute presentation. West Nile virus can present as meningitis, encephalitis, or acute flaccid paralysis. A maculopapular rash may be seen, and patients usually report mosquito bites in the preceding weeks. In patients with encephalitis, basal ganglia involvement (tremor, rigidity, postural instability, bradykinesia) is a clue. Isolated facial palsy in West Nile meningitis is rare."
+]
+}
+],
+"relatedSection":"mk19_a_id_s1_1_2",
+"objective":{
+"__html":"Diagnose Lyme meningitis."
+},
+"references":[
+[
+"Garcia-Monco JC, Benach JL. Lyme neuroborreliosis: clinical outcomes, controversy, pathogenesis, and polymicrobial infections. Ann Neurol. 2019;85:21-31. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30536421",
+"target":"_blank"
+},
+"children":[
+"PMID: 30536421"
+]
+},
+" doi:10.1002/ana.25389"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":84,
+"C":1,
+"D":10,
+"E":0
+},
+"hlIds":[
+"db0f64",
+"b80793",
+"6c44be",
+"413696",
+"842824",
+"57734c",
+"d88e9f",
+"1aba16",
+"06795b",
+"ed2686"
+]
+}

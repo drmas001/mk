@@ -1,0 +1,204 @@
+{
+"id":"mk19_a_nr_q023",
+"number":23,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 23",
+"stimulus":[
+{
+"type":"p",
+"hlId":"64feec",
+"children":[
+"A 21-year-old woman comes to the office requesting clearance to resume playing collegiate soccer. Two weeks ago, she sustained a mild traumatic brain injury in a head-to-head collision during a match and, for the next 3 days, had episodic dizziness and recurrent headaches lasting minutes to hours; symptoms resolved spontaneously with a combination of physical and cognitive rest. She resumed normal activities and has been free of symptoms for the past 10 days. She has taken no medication. Neuroimaging was not performed at the time of injury."
+]
+},
+{
+"type":"p",
+"hlId":"25e11e",
+"children":[
+"Physical examination findings, including vital signs and neurologic examination results, are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Brain MRI"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Clearance to return to play"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Head CT"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Neuropsychological testing"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Vestibular therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"d10a11",
+"hvc":true,
+"children":[
+"For athletes who sustain a mild traumatic brain injury, guidelines recommend continued avoidance of contact sports until 10 days after the trauma or until the patient has been asymptomatic while taking no medication for a period of 7 days."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"43fa33",
+"children":[
+"The patient has fully recovered from her mild traumatic brain injury (TBI) and may be advised to return to play (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The terms mild TBI and concussion are often used interchangeably. Concussion has been defined as a clinical syndrome of biomechanically induced alteration of brain function. Altered brain function is most commonly described by affected subjects as being confused or dazed, with 10% reporting transient loss of consciousness. Next to accidents, sporting activities represent the second most common source of TBI in young adults. In men, football and hockey result in most cases of mild TBI, whereas in women, the most common cause is soccer. When TBI is suspected, athletes must be immediately removed from play and subjected to standardized sideline assessment tools. Guidelines recommend continued avoidance of contact sports until 10 days after the trauma or until the patient has been asymptomatic while taking no medication for a period of 7 days. This patient meets both time-based criteria, is asymptomatic with normal findings on neurologic examination, and may be cleared to return to play."
+]
+},
+{
+"type":"p",
+"hlId":"1e4c05",
+"children":[
+"Although brain MRI (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is more diagnostically accurate than head CT in the setting of subacute or chronic headache, a patient without symptoms or abnormal examination findings after a mild TBI does not require imaging before return to play."
+]
+},
+{
+"type":"p",
+"hlId":"38c9b7",
+"children":[
+"There are many published indications for head CT (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in the setting of acute head injury, such as age greater than 60 years, progressive headache, seizure, repeated vomiting after the trauma, persistent drowsiness or amnesia, focal deficits, and certain dangerous mechanisms of injury. This patient, however, sustained the TBI 10 days ago and had none of these indications, so head CT is unnecessary."
+]
+},
+{
+"type":"p",
+"hlId":"5d3fe2",
+"children":[
+"Neuropsychological testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is valuable in the assessment of patients remaining symptomatic after a mild TBI, but this patient has returned to baseline and needs no such testing."
+]
+},
+{
+"type":"p",
+"hlId":"4f5b73",
+"children":[
+"Vestibular therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may be valuable in the management of patients with persistent posttraumatic dizziness or gait imbalance. This patient exhibits no symptoms or signs of ongoing vestibular dysfunction."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s2_2_1",
+"objective":{
+"__html":"Assess “return to play” following mild traumatic brain injury in athletes."
+},
+"references":[
+[
+"Mullally WJ. Concussion. Am J Med. 2017 Aug;130(8):885-92. Epub 2017 May 11. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28502817",
+"target":"_blank"
+},
+"children":[
+"PMID: 28502817"
+]
+},
+" doi:10.1016/j.amjmed.2017.04.016"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":6,
+"B":74,
+"C":6,
+"D":13,
+"E":0
+},
+"hlIds":[
+"64feec",
+"25e11e",
+"1a5dcc",
+"d10a11",
+"43fa33",
+"1e4c05",
+"38c9b7",
+"5d3fe2",
+"4f5b73"
+]
+}

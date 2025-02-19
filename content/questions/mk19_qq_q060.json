@@ -1,0 +1,193 @@
+{
+"id":"mk19_qq_q060",
+"number":60,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f743cf",
+"children":[
+"A 67-year-old man is hospitalized for urosepsis. On admission to the hospital, his blood pressure was 92/58 mm Hg despite broad-spectrum antibiotics, intravenous fluid resuscitation, vasopressors, and ultimately glucocorticoids. His vital signs stabilize 2 days later, but he is oliguric, and his ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level has increased from 0.8 mg/dL (70.7 µmol/L) to 2.2 mg/dL (194.5 µmol/L). Serum electrolytes are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT of the abdomen and pelvis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Measurement of bladder pressure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measurement of serum and urine osmolality"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urinalysis with microscopy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"367179",
+"children":[
+"In patients with acute kidney injury, pigmented (muddy brown) granular casts and tubular epithelial cells will establish the diagnosis of acute tubular necrosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"41742e",
+"children":[
+"Ultrasonography of the kidneys and bladder should be obtained for suspected bladder outlet obstruction or when the underlying cause of acute kidney injury is unclear."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e2be46",
+"children":[
+"The most appropriate initial test is urinalysis with microscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The diagnosis of acute kidney injury (AKI) is based on increased levels of serum creatinine and blood urea nitrogen (BUN). Physical examination focuses on volume status, signs of systemic illness that might impair kidney function, and evidence of urinary obstruction (such as a palpable bladder or flank pain). Laboratory evaluation includes BUN and creatinine concentrations, electrolytes, complete blood count, and assessment of the urine (urine indices, urinalysis, and microscopic evaluation of the urine sediment). In patients with AKI, pigmented (muddy brown) granular casts and tubular epithelial cells will establish the diagnosis of acute tubular necrosis (ATN) and help distinguish it from prerenal azotemia (normal urinalysis or hyaline casts), antibiotic-associated interstitial nephritis (mild proteinuria, leukocytes, erythrocytes, leukocyte casts, eosinophiluria), acute glomerulonephritis (proteinuria, dysmorphic erythrocytes, erythrocyte casts), and intratubular obstruction (crystalluria or Bence-Jones proteinuria)."
+]
+},
+{
+"type":"p",
+"hlId":"3834ed",
+"children":[
+"CT of the abdomen and pelvis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary and costly, removes the patient from the ICU, and exposes the patient to unnecessary radiation. Ultrasonography of the kidneys and bladder should be obtained for suspected bladder outlet obstruction or when the underlying cause of AKI is unclear."
+]
+},
+{
+"type":"p",
+"hlId":"725a82",
+"children":[
+"Abdominal compartment syndrome (ACS) is defined as a sustained elevated intra-abdominal pressure (IAP) associated with new organ dysfunction. ACS occurs in the setting of abdominal surgery, trauma, hemoperitoneum, retroperitoneal bleed, ascites, bowel obstruction, ileus, and pancreatitis. It can also occur from capillary leak with concurrent massive fluid resuscitation. Increasing IAP causes hypoperfusion and ischemia of the intestines and other peritoneal and retroperitoneal structures, leading to hemodynamic, respiratory, neurologic, and kidney impairment. Renal vein compression and renal artery vasoconstriction cause oliguric AKI. ACS is diagnosed by measuring IAP; measurement of bladder pressure (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") with an indwelling catheter is the standard methodology. There is no compelling indication to perform IAP measurement before obtaining a urinalysis in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"000e59",
+"children":[
+"Ethylene glycol intoxication causes AKI from intratubular precipitation of needle-shaped calcium oxalate crystals, which can be seen on urine microscopy. Ethylene glycol should be suspected in a patient with a history of ingestion and whose laboratory studies demonstrate an increased anion gap metabolic acidosis and osmolal gap. This patient's history of urosepsis and hypotension adequately account for his AKI and his electrolytes are normal, excluding an anion gap metabolic acidosis. Measuring serum and urine osmolality (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to calculate the osmolar gap is unnecessary."
+]
+}
+],
+"relatedSection":"mk19_a_np_s9_5_2_1",
+"objective":{
+"__html":"Diagnose acute tubular necrosis as cause of acute kidney injury."
+},
+"references":[
+[
+"Levey AS, James MT. Acute kidney injury. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201711070",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2017;167:ITC66-ITC80. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29114754",
+"target":"_blank"
+},
+"children":[
+"PMID: 29114754"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"f743cf",
+"2eb226",
+"367179",
+"41742e",
+"e2be46",
+"3834ed",
+"725a82",
+"000e59"
+]
+}

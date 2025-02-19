@@ -1,0 +1,229 @@
+{
+"id":"mk19_b_cv_q089",
+"number":89,
+"bookId":"cv",
+"correctAnswer":"A",
+"title":"Question 89",
+"stimulus":[
+{
+"type":"p",
+"hlId":"6a207d",
+"children":[
+"A 42-year-old man is evaluated in the emergency department for palpitations, neck pulsations, and light-headedness that began 45 minutes ago. He reports no chest pain or breathlessness. He has been under pressure at work and has been anxious and sleepless. There is no other relevant personal or family history. He does not use illicit drugs or supplements."
+]
+},
+{
+"type":"p",
+"hlId":"094e5a",
+"children":[
+"On physical examination, blood pressure is 90/70 mm Hg and pulse rate is 160/min; other vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 98% with the patient breathing ambient air. Intermittent cannon ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"a"
+]
+},
+" waves are noted on neck examination. Other than a rapid regular rhythm, cardiac examination is unremarkable. Lungs are clear."
+]
+},
+{
+"type":"p",
+"hlId":"6181fa",
+"children":[
+"ECG reveals ventricular tachycardia. He is successfully cardioverted."
+]
+},
+{
+"type":"p",
+"hlId":"d22ed2",
+"children":[
+"Complete blood count and metabolic panel, including electrolytes, are normal."
+]
+},
+{
+"type":"p",
+"hlId":"f4f757",
+"children":[
+"Echocardiogram and subsequent ECG are both normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cardiac magnetic resonance imaging with stress perfusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Electrophysiology study"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Implantable cardioverter-defibrillator"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Implantable loop recorder"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"fbeb97",
+"children":[
+"The initial evaluation of ventricular tachycardia focuses on the identification of reversible causes and includes echocardiography, cardiac magnetic resonance imaging, and exercise ECG."
+]
+},
+{
+"type":"keypoint",
+"hlId":"85536b",
+"children":[
+"Idiopathic ventricular tachycardia occurs in the absence of structural heart disease, typically manifesting as palpitations in the third to fifth decades of life, often triggered by stress, emotion, or sleeplessness."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4350c5",
+"children":[
+"The most appropriate initial management is an evaluation for structural heart disease with cardiac magnetic resonance (CMR) imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The presence or absence of structural heart disease is an important distinction in the management of ventricular tachycardia (VT). CMR imaging generally allows for tissue characterization, making it an important method for evaluating myocardial diseases that may manifest as VT, including arrhythmogenic right ventricular cardiomyopathy, cardiac sarcoidosis, and other infiltrative cardiomyopathies (e.g., amyloidosis)."
+]
+},
+{
+"type":"p",
+"hlId":"517816",
+"children":[
+"Electrophysiologic testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated as part of the initial management of this patient. It may be useful to establish the diagnosis of sustained monomorphic tachycardia if the diagnosis is in doubt. It is similarly useful to establish the mechanism of VT and to identify the location of the arrhythmogenic focus if ablation is being considered. However, the initial management should focus on (1) assessment for structural heart disease and (2) identification of correctable causes of VT, including myocardial ischemia, heart failure, drug effects, anemia, and electrolyte abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"727098",
+"children":[
+"It is premature to consider an implantable cardioverter-defibrillator (ICD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for this patient. If CMR imaging demonstrates significant structural heart disease, ICD placement or additional testing may be warranted before discharge. An ICD is indicated for secondary prevention of sudden cardiac death as well as for primary prevention of sudden cardiac death in patients with an ejection fraction of 35% or less and New York Heart Association functional class II or III heart failure symptoms while receiving guideline-directed medical therapy. ICD placement is generally unnecessary in idiopathic VT, owing to the benign prognosis and high efficacy of other therapies."
+]
+},
+{
+"type":"p",
+"hlId":"a28651",
+"children":[
+"If the patient has idiopathic VT, which is VT in the absence of structural heart disease, an implantable loop recorder (ILR) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may be appropriate. Idiopathic VT typically manifests as palpitations in the third to fifth decades of life, often triggered by stress, emotion, or sleeplessness. It would be premature to consider ILR placement before assessment for structural heart disease. An ILR may be valuable to assess rare recurrences of arrhythmia and/or to assess symptoms, but further evaluation is needed first."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_8_2_2",
+"objective":{
+"__html":"Evaluate a patient with ventricular tachycardia."
+},
+"references":[
+[
+"Al-Khatib SM, Stevenson WG, Ackerman MJ, et al. 2017 AHA/ACC/HRS guideline for management of patients with ventricular arrhythmias and the prevention of sudden cardiac death: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society. J Am Coll Cardiol. 2018;72:e91-e220. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29097296",
+"target":"_blank"
+},
+"children":[
+"PMID: 29097296"
+]
+},
+" doi:10.1016/j.jacc.2017.10.054"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":54,
+"C":20,
+"D":7,
+"E":0
+},
+"hlIds":[
+"6a207d",
+"094e5a",
+"6181fa",
+"d22ed2",
+"f4f757",
+"e15e9d",
+"fbeb97",
+"85536b",
+"4350c5",
+"517816",
+"727098",
+"a28651"
+]
+}

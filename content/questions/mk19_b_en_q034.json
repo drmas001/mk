@@ -1,0 +1,227 @@
+{
+"id":"mk19_b_en_q034",
+"number":34,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 34",
+"stimulus":[
+{
+"type":"p",
+"hlId":"07f475",
+"children":[
+"A 51-year-old woman is evaluated for abnormal thyroid function tests. Thyroid function testing was pursued because she has a family history of Hashimoto thyroiditis. She has no symptoms of thyroid disease. She takes large doses of biotin, exceeding 300 mg/d, for its perceived health benefit, but no other drugs."
+]
+},
+{
+"type":"p",
+"hlId":"d36663",
+"children":[
+"On physical examination, vital signs are normal. The thyroid gland is normal size without nodules. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"9a6426",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of less than 0.01 μU/L (0.01 mU/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 2.8 ng/dL (36 pmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Start methimazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start propylthiouracil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop biotin; repeat thyroid tests"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Refer for thyroidectomy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e67c8e",
+"children":[
+"Patients taking 10 mg/d or more of biotin should discontinue ingestion 2 to 5 days before thyroid function testing."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0aa86f",
+"children":[
+"The most appropriate management for this patient is to stop biotin and repeat thyroid function tests (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") after 2 to 5 days of biotin discontinuation. Biotin is a water-soluble vitamin commonly found in over-the-counter dietary supplements. High circulating levels of biotin have been shown to interfere with laboratory assays that use streptavidin-biotin as an immobilizing system. Biotin interference causes falsely high results with competitive immunoassays used to measure small molecules, including free thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+"), free triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"), total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+", and total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"; it also causes falsely low results with sandwich assays used to measure large molecules such as thyroid-stimulating hormone. This interference results in a testing profile that mimics thyrotoxicosis. Biotin is a popular dietary supplement and is also used to treat multiple sclerosis and other neuromuscular disorders. Although biotin is also found in plants, the richest sources are liver, egg yolk, soybeans, and yeast. An adequate intake for adults is estimated to be 30 μg/d. Larger doses are commonly taken as an adjunctive medical treatment or for their perceived health benefits. Most case reports of biotin interference with thyroid function assays document biotin doses of 300 mg/d or higher, although interference with 10 mg/d has also been reported. Interference with thyroid assay results typically resolves within 48 hours, but expert opinion recommends testing after stopping biotin for several days."
+]
+},
+{
+"type":"p",
+"hlId":"2a5258",
+"children":[
+"Methimazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), propylthiouracil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), and thyroidectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are all treatments for Graves disease, which are inappropriate to consider until abnormalities on a thyroid function test are confirmed. Thyroidectomy in Graves hyperthyroidism is most appropriate with large goiter and compressive symptoms, moderate to severe Graves ophthalmopathy, and/or coexistent thyroid cancer or primary hyperparathyroidism. Thyroidectomy is not first-line therapy for most patients, and it not indicated in this patient without a confirmed diagnosis of Graves disease."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_4",
+"objective":{
+"__html":"Diagnose biotin supplementation as a cause of abnormal thyroid function tests."
+},
+"references":[
+[
+"Burch HB. Drug effects on the thyroid. N Engl J Med. 2019;381:749-761. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31433922",
+"target":"_blank"
+},
+"children":[
+"PMID: 31433922"
+]
+},
+" doi:10.1056/NEJMra1901214"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":2,
+"C":94,
+"D":0,
+"E":0
+},
+"hlIds":[
+"07f475",
+"d36663",
+"9a6426",
+"1a5dcc",
+"e67c8e",
+"0aa86f",
+"2a5258"
+]
+}

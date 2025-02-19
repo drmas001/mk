@@ -1,0 +1,197 @@
+{
+"id":"mk19_b_pm_q076",
+"number":76,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"aac42f",
+"children":[
+"A 55-year-old woman is evaluated for progressive anemia during her 12-day hospital stay. She was hospitalized for pneumonia that progressed to acute respiratory distress syndrome requiring intubation and mechanical ventilation. Since intubation, daily routine laboratory evaluation has detected a slow decline in ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level from 12.5 g/dL (125 g/L) to the current level of 9.0 g/dL (90 g/L). There is no evidence of bleeding. Medications are propofol infusion, fentanyl infusions, and cefotaxime and levofloxacin."
+]
+},
+{
+"type":"p",
+"hlId":"0d40d9",
+"children":[
+"Laboratory studies document normal platelet and leukocyte counts. The reticulocyte count is elevated, and the peripheral blood smear, other than documenting reticulocytosis, is normal. The direct antiglobulin test is negative, and there is no laboratory evidence of hemolysis."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue routine blood testing"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythropoietin administration"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Iron studies"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transfusion"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f462d1",
+"hvc":true,
+"children":[
+"Approximately 20% of laboratory tests obtained in hospitalized patients are not needed."
+]
+},
+{
+"type":"keypoint",
+"hlId":"77bb89",
+"hvc":true,
+"children":[
+"Excessive laboratory testing in hospitalized patients can result in iatrogenic anemia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0c08b6",
+"children":[
+"The most appropriate strategy is discontinuation of routine blood testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Numerous studies in the literature have documented excessive use of laboratory studies in the hospital setting in general and in the ICU in particular. Estimates suggest that approximately 20% of laboratory tests obtained in hospitalized patients are not needed, resulting in waste. In addition to the financial impact to the health care system, overutilization invariably results in false-positive test results, leading to further downstream testing. Studies show that excessive blood draws can result in iatrogenic anemia, as is likely the case in this patient. Efforts to reduce unnecessary laboratory testing have the dual benefit of improving patient safety and reducing health care expenditures. Studies have shown that a reduction in laboratory testing does not lead to adverse patient outcomes, and some studies suggest a decrease in hospital lengths of hospital stay and the need for transfusion. The first management step in this patient is to discontinue daily routine laboratory testing. Laboratory testing should only be undertaken in response to specific clinical questions."
+]
+},
+{
+"type":"p",
+"hlId":"169b0b",
+"children":[
+"Erythropoietin-stimulating agents (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") and iron supplementation are used in protocols for patients who cannot receive blood. In this patient, reducing blood loss through discontinuation of routine daily blood tests is a much more practical, safe, and economical management approach for anemia."
+]
+},
+{
+"type":"p",
+"hlId":"ec9d47",
+"children":[
+"Anemia in nonbleeding critically ill patients can be challenging to evaluate because the inflammatory state may result in inflammatory anemia. Iron studies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can help diagnose inflammatory anemia. However, inflammatory anemia usually does not result in hemoglobin concentrations of less than 10 g/dL (100 g/L) and certainly not over 12 days, and since hemolysis has been excluded, the elevated reticulocyte count suggests blood loss."
+]
+},
+{
+"type":"p",
+"hlId":"6ff3da",
+"children":[
+"Guidelines recommend transfusion of erythrocytes (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in nonbleeding critically ill patients at a hemoglobin threshold of 7 g/dL (70 g/L). In patients with acute coronary syndrome, the threshold is unclear, but guidelines recommend thresholds of 8 to 9 g/dL (80-90 g/L). This patient does not require a transfusion but rather discontinuation of routine daily blood tests."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s11_1_5",
+"objective":{
+"__html":"Diagnose excessive laboratory testing as the cause of anemia."
+},
+"references":[
+[
+"Bindraban RS, Ten Berg MJ, Naaktgeboren CA, et al. Reducing test utilization in hospital settings: A narrative review. Ann Lab Med. 2018;38:402-412. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29797809",
+"target":"_blank"
+},
+"children":[
+"PMID: 29797809"
+]
+},
+" doi:10.3343/alm.2018.38.5.402"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":77,
+"B":4,
+"C":19,
+"D":1,
+"E":0
+},
+"hlIds":[
+"aac42f",
+"0d40d9",
+"cb2b54",
+"f462d1",
+"77bb89",
+"0c08b6",
+"169b0b",
+"ec9d47",
+"6ff3da"
+]
+}

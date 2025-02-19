@@ -1,0 +1,227 @@
+{
+"id":"mk19_a_gi_q085",
+"number":85,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 85",
+"stimulus":[
+{
+"type":"p",
+"hlId":"d58915",
+"children":[
+"A 30-year-old man is evaluated for epigastric pain that is more severe with eating and has progressively worsened over the past 6 months. He has diminished oral intake, as well as occasional nausea and diarrhea. Family history includes stomach cancer in his father. A ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" test is negative, and proton pump inhibitor therapy with omeprazole has been ineffective. His only other medication is loperamide."
+]
+},
+{
+"type":"p",
+"hlId":"48c1ca",
+"children":[
+"On physical examination, vital signs are normal. BMI is 24. The abdomen is tender to palpation. No guarding is noted."
+]
+},
+{
+"type":"p",
+"hlId":"922a47",
+"children":[
+"Upper endoscopy findings are normal, as are biopsy specimens obtained from the stomach (for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"H. pylori"
+]
+},
+") and duodenum (for celiac disease). Omeprazole is discontinued."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Citalopram"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Famotidine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Metoclopramide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Nortriptyline"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f87326",
+"children":[
+"In patients with functional dyspepsia who do not respond to an initial trial of a proton pump inhibitor, therapy with a tricyclic antidepressant should be initiated."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"61fcd5",
+"children":[
+"The most appropriate next step in treatment is initiating a nortriptyline trial (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has functional dyspepsia, epigastric pain that lacks an identifiable cause. Symptoms that may accompany epigastric pain include fullness, nausea, vomiting, bloating, heartburn, or alteration in bowel habits; however, the epigastric pain must be the predominant symptom. A diagnosis of functional dyspepsia traditionally requires normal findings on upper endoscopy or an upper gastrointestinal series. In patients with functional dyspepsia for whom ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Helicobacter pylori"
+]
+},
+" infection is confirmed, eradication therapy should be pursued because it may relieve symptoms. Some evidence suggests that a subset of patients with functional dyspepsia are sensitive to acid; therefore, a proton pump inhibitor (PPI) should be the initial therapy. However, pooled studies indicate that about 70% of patients with functional dyspepsia still have dyspeptic symptoms after a 2- to 8-week PPI trial. Tricyclic antidepressants (TCAs) are effective in the treatment of functional dyspepsia. Pooled results of three clinical trials involving 339 patients with this disorder demonstrated superiority of TCAs over placebo (number needed to treat, 6). The adverse events of TCAs, such as constipation, dry mouth, urinary retention, and somnolence, can be minimized by initiating TCA therapy at a low dosage (e.g., 10 mg once daily) and slowly titrating the dose by 10-mg increments every several weeks."
+]
+},
+{
+"type":"p",
+"hlId":"bbda77",
+"children":[
+"Selective serotonin reuptake inhibitors, such as citalopram (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), have shown no superiority over placebo in the treatment of functional dyspepsia."
+]
+},
+{
+"type":"p",
+"hlId":"dac727",
+"children":[
+"Studies directly comparing H",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" blockers vs PPIs for treating functional dyspepsia have found no difference in treatment efficacy. Switching from omeprazole to famotidine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is unlikely to improve this patient's symptoms."
+]
+},
+{
+"type":"p",
+"hlId":"3c2910",
+"children":[
+"Although prokinetic agents, such as metoclopramide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), may also help a small subset of patients with functional dyspepsia, a TCA trial should be pursued first given the potential side effects of prokinetic agents, such as dystonia and tardive dyskinesia, and stronger evidence of efficacy for TCAs."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s2_1_2",
+"objective":{
+"__html":"Treat functional dyspepsia."
+},
+"references":[
+[
+"Moayyedi P, Lacy BE, Andrews CN, et al. ACG and CAG clinical guideline: management of dyspepsia. Am J Gastroenterol. 2017;112:988-1013. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28631728",
+"target":"_blank"
+},
+"children":[
+"PMID: 28631728"
+]
+},
+" doi:10.1038/ajg.2017.154"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":24,
+"B":9,
+"C":25,
+"D":42,
+"E":0
+},
+"hlIds":[
+"d58915",
+"48c1ca",
+"922a47",
+"765904",
+"f87326",
+"61fcd5",
+"bbda77",
+"dac727",
+"3c2910"
+]
+}

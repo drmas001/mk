@@ -1,0 +1,210 @@
+{
+"id":"mk19_a_nr_q074",
+"number":74,
+"bookId":"nr",
+"correctAnswer":"A",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"3c541f",
+"children":[
+"A 78-year-old man is evaluated for two generalized tonic-clonic seizures that occurred 2 weeks apart during the past month. Medical history includes hypertension and type 2 diabetes mellitus and a recent diagnosis of mild cognitive impairment. Medications are hydrochlorothiazide and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"a4ff4d",
+"children":[
+"On physical examination, vital signs are normal. All other examination findings, including those from a neurologic examination, are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"375024",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"Serum creatinine"
+]
+},
+", ",
+{
+"type":"reference-range-link",
+"referenceRange":"Electrolytes, serum",
+"children":[
+"electrolytes"
+]
+},
+", and liver chemistry tests are normal."
+]
+},
+{
+"type":"p",
+"hlId":"366e1c",
+"children":[
+"Findings on brain MRI and electroencephalography are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Lamotrigine"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oxcarbazepine"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Valproic acid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No seizure medication is necessary"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8f43c0",
+"hvc":true,
+"children":[
+"Lamotrigine, gabapentin, and levetiracetam are better-tolerated and equally effective seizure medications when compared with older antiepileptic drugs in treatment of older adults."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"004050",
+"children":[
+"The most appropriate treatment for this patient is lamotrigine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), which is a recommended treatment for older adults with new-onset epilepsy. Incidence of new-onset epilepsy is highest in adults older than 60 years. Major risk factors for seizure recurrence include stroke and dementia, but about one-third to one-half of cases are of unknown cause. The diagnosis of seizures in older adults may be difficult because of atypical presentations that may mimic delirium, transient ischemic attack, or syncope. Possible seizures should always be included in the differential diagnosis of older patients with intermittent or fluctuating confusional states of unclear etiology. Antiepileptic drug therapy should be started in older adults following two clearly documented unprovoked seizures (e.g., seizures not related to alcohol metabolic derangements, medication, or medication withdrawal). The dosing strategy can be summarized as “start low and go slow” because older adults usually require lower antiepileptic drug doses and are at increased risk of interactions and decreased drug clearance. Multiple studies suggest lamotrigine, gabapentin, and levetiracetam are better-tolerated and equally effective seizure medications when compared with older antiepileptic drugs in treatment of older adults."
+]
+},
+{
+"type":"p",
+"hlId":"6075c0",
+"children":[
+"Oxcarbazepine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not an appropriate treatment measure because it is known to cause hyponatremia, as does carbamazepine and eslicarbazepine. The risk for hyponatremia is particularly high in elderly patients, including this patient, who is taking other medications that can lower sodium levels, such as thiazide diuretics."
+]
+},
+{
+"type":"p",
+"hlId":"2434e1",
+"children":[
+"Treatment with valproic acid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be avoided in the elderly because it has an overall high risk for multiple adverse effects, including tremor and cognitive impairment (for example, parkinsonism with dementia that is often reversible)."
+]
+},
+{
+"type":"p",
+"hlId":"bd6237",
+"children":[
+"Not initiating seizure medication (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") in this patient is inappropriate despite the normal findings on his brain MRI and electroencephalogram. These tests are inadequately sensitive for the diagnosis of epilepsy. Clinically, this patient meets the criteria for the diagnosis of epilepsy based on having two generalized tonic-clonic seizures that occurred more than 24 hours apart and without clear provoking factors."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s3_6_1",
+"objective":{
+"__html":"Treat epilepsy in older adults."
+},
+"references":[
+[
+"Lezaic N, Gore G, Josephson CB, et al. The medical treatment of epilepsy in the elderly: a systematic review and meta-analysis. Epilepsia. 2019;60:1325-40. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31185130",
+"target":"_blank"
+},
+"children":[
+"PMID: 31185130"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":45,
+"B":12,
+"C":28,
+"D":16,
+"E":0
+},
+"hlIds":[
+"3c541f",
+"a4ff4d",
+"375024",
+"366e1c",
+"1054f1",
+"8f43c0",
+"004050",
+"6075c0",
+"2434e1",
+"bd6237"
+]
+}

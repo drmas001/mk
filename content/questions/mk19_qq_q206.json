@@ -1,0 +1,218 @@
+{
+"id":"mk19_qq_q206",
+"number":206,
+"bookId":"qq",
+"correctAnswer":"C",
+"title":"Question 206",
+"stimulus":[
+{
+"type":"p",
+"hlId":"85fe4f",
+"children":[
+"A 64-year-old man is evaluated for heat intolerance and hand tremors."
+]
+},
+{
+"type":"p",
+"hlId":"0fb5db",
+"children":[
+"On physical examination, pulse rate is 96/min. Fine hand tremors and brisk reflexes are noted. A left-sided thyroid nodule is palpated. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"Thyroid-stimulating hormone"
+]
+},
+" level is 0.05 µU/mL (0.05 mU/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level is 2.9 ng/dL (37.4 pmol/L). Neck ultrasound shows a 1.4-cm right thyroid nodule and 2.0-cm left thyroid nodule."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fine-needle aspiration biopsy of the left nodule"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiation of methimazole"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radioactive iodine (<sup>123</sup>I) uptake and scan"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Radioactive iodine (<sup>131</sup>I) therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"e8efa1",
+"children":[
+"The initial evaluation of a thyroid nodule begins with measuring thyroid-stimulating hormone (TSH); patients with thyroid nodules and a suppressed TSH level are evaluated with thyroid scintigraphy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0661b2",
+"children":[
+"Autonomous “hot” nodules have a very low risk for malignancy and do not require fine-needle aspiration biopsy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6fc68a",
+"children":[
+"Performing a radioactive iodine (",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"123"
+]
+},
+"I) uptake and scan (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate management for this patient, who most likely has a toxic nodule or nodules causing his hyperthyroidism. The initial evaluation of a thyroid nodule begins with measuring thyroid stimulating-hormone (TSH). TSH suppression is found with autonomously functioning or “hot” nodules, accounting for 5% to 10% of palpable thyroid nodules. Patients with thyroid nodules and a suppressed TSH are evaluated with thyroid scintigraphy. A radioactive isotope is administered, the percentage taken up by the thyroid is calculated (radioactive iodine uptake), and an image is obtained (thyroid scan). Hot nodules concentrate radioactive iodine to a greater extent than normal thyroid tissue. Autonomous hot nodules have a very low risk for malignancy and do not require fine-needle aspiration biopsy (FNAB). Because multiple nodules were identified on neck ultrasonography, it is important to ascertain which of them are autonomous. Performing a radioactive iodine uptake and scan will help identify whether one or more of the nodules are responsible for the patient's thyroid function abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"72bd15",
+"children":[
+"A thyroid scan will also determine whether FNAB (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is indicated elsewhere in the gland. Nodules identified as autonomously functioning (or hot) do not require fine-needle aspiration, whereas nodules that are either “cold” or “warm” (with uptake similar to that of the surrounding nonnodular thyroid tissue) may require cytologic evaluation. Performing an FNAB on the largest nodule may not be necessary if the nodule is autonomously functioning, and not performing an FNAB on the small nodule may miss a nonfunctioning nodule that might harbor thyroid cancer."
+]
+},
+{
+"type":"p",
+"hlId":"b96790",
+"children":[
+"This patient may ultimately benefit from methimazole therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"); however, his hyperthyroidism is mild, and it is safe to wait to initiate medical therapy until after the thyroid scan is performed. In patients with a greater degree of thyrotoxicosis, beginning methimazole to lower the thyroid hormone levels before performing additional testing is reasonable. Once the hormone levels are nearing the normal range, methimazole should be withheld for 5 days before a thyroid scan."
+]
+},
+{
+"type":"p",
+"hlId":"3f19aa",
+"children":[
+"First-line therapy for a toxic adenoma or toxic multinodular goiter is either ",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"131"
+]
+},
+"I therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or thyroid surgery. Therapy selection is determined by patient preference, presence of compressive symptoms, and access to a high-volume thyroid surgeon. Because the functional status of the patient's thyroid nodules has yet to be determined, treating with radioactive iodine is premature."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_3_1",
+"objective":{
+"__html":"Evaluate a toxic thyroid nodule."
+},
+"references":[
+[
+"Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: the American Thyroid Association guidelines task force on thyroid nodules and differentiated thyroid cancer. Thyroid. 2016;26:1-133. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26462967",
+"target":"_blank"
+},
+"children":[
+"PMID: 26462967"
+]
+},
+" doi:10.1089/thy.2015.0020"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"85fe4f",
+"0fb5db",
+"1a5dcc",
+"e8efa1",
+"0661b2",
+"6fc68a",
+"72bd15",
+"b96790",
+"3f19aa"
+]
+}

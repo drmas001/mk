@@ -1,0 +1,275 @@
+{
+"id":"mk19_a_id_q007",
+"number":7,
+"bookId":"id",
+"correctAnswer":"C",
+"title":"Question 7",
+"stimulus":[
+{
+"type":"p",
+"hlId":"50c8d1",
+"children":[
+"A 24-year-old man is hospitalized with a 1-day history of fever. He resides at a skilled nursing facility; he was in a motor vehicle accident 6 months ago and sustained a traumatic brain injury. He is totally dependent on others for care. He is fed through a percutaneous gastrostomy tube. Three days ago, he had an episode of emesis, and tube feed material was suctioned from his oropharynx. He experiences anaphylaxis with penicillin; he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"76a271",
+"children":[
+"On physical examination, temperature is 38.4 °C (101.1 °F), blood pressure is 110/70 mm Hg, pulse rate is 96/min, and respiration rate is 20/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% breathing ambient air."
+]
+},
+{
+"type":"p",
+"hlId":"cdd320",
+"children":[
+"Sputum Gram stain shows moderate polymorphonuclear cells but no bacteria. COVID-19 testing is negative."
+]
+},
+{
+"type":"p",
+"hlId":"99118f",
+"children":[
+"A chest radiograph shows right lower lobe consolidation."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aztreonam and metronidazole"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ceftriaxone and azithromycin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Levofloxacin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Meropenem"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Moxifloxacin and clindamycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"839ba6",
+"children":[
+"Patients with community-acquired pneumonia requiring hospitalization can be treated with the standard inpatient regimens regardless of a documented aspiration event."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e94ba7",
+"children":[
+"Antibiotic coverage for anaerobic organisms can be considered in patients with pneumonia characterized by the presence of empyema, lung abscess, or postobstructive pneumonia."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e6c970",
+"children":[
+"This patient has aspiration pneumonia without complications (such as lung abscess or empyema), so standard therapy for community-acquired pneumonia (CAP) with a respiratory quinolone (levofloxacin) is appropriate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Aspiration pneumonia is estimated to account for 5% to 15% of CAP occurrences. This patient has multiple risk factors for aspiration, including residence in a nursing home, neurologic impairment, vomiting, and the presence of a percutaneous gastrostomy feeding tube. Suctioning of tube feed material confirms aspiration of gastric contents into the lungs, although a witnessed or confirmed aspiration event is rare. Among patients with gastrostomy tubes, chronic low-grade aspiration of oropharyngeal contents is the most common risk factor for aspiration pneumonia, which remains the leading cause of death in this population. New insights into the pathophysiology of CAP have identified that aspiration is not restricted to patients with classic risk factors (e.g., dysphagia, neurologic dysfunction, or gastroesophageal reflux disease). Silent aspiration is recognized as a common phenomenon, and most CAP infections result from microaspiration of bacteria colonizing the respiratory tract. Aspiration pneumonia occurs along a continuum and represents macroaspiration of a larger quantity of material in patients who are unable to protect their airway. Recent studies have also found that the microbiology of aspiration pneumonia is similar to other causes of CAP, with oropharyngeal flora such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Streptococcus pneumoniae"
+]
+},
+", ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Haemophilus influenzae"
+]
+},
+", and gram-negative organisms predominating. Anaerobes are rarely identified in contemporary studies of aspiration pneumonia; therefore, dedicated anaerobic coverage is not necessary, although it could be considered in the presence of empyema, lung abscess, or postobstructive pneumonia."
+]
+},
+{
+"type":"p",
+"hlId":"becee4",
+"children":[
+"Aztreonam plus metronidazole does not cover pneumococcus or other gram-positive organisms; therefore, this combination would be suboptimal for empiric therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"ba3efb",
+"children":[
+"Ceftriaxone plus azithromycin would be an appropriate alternative if this patient did not have a history of immediate hypersensitivity reaction to β-lactam antibiotics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"a35c03",
+"children":[
+"Residence in a skilled nursing facility is not an independent risk factor for ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Pseudomonas"
+]
+},
+" pneumonia, so an antipseudomonal agent such as meropenem is not indicated for empiric therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"a9bc63",
+"children":[
+"Moxifloxacin monotherapy would be an appropriate choice, but the addition of empiric clindamycin increases the risk of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Clostridioides difficile"
+]
+},
+" colitis with minimal therapeutic benefit (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s3_4_2",
+"objective":{
+"__html":"Treat community-acquired pneumonia following aspiration."
+},
+"references":[
+[
+"Mandell LA, Niederman MS. Aspiration pneumonia. N Engl J Med. 2019;380:651-663. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30763196",
+"target":"_blank"
+},
+"children":[
+"PMID: 30763196"
+]
+},
+" doi:10.1056/NEJMra1714562"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":23,
+"B":12,
+"C":17,
+"D":13,
+"E":35
+},
+"hlIds":[
+"50c8d1",
+"76a271",
+"cdd320",
+"99118f",
+"1054f1",
+"839ba6",
+"e94ba7",
+"e6c970",
+"becee4",
+"ba3efb",
+"a35c03",
+"a9bc63"
+]
+}

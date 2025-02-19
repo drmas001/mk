@@ -1,0 +1,233 @@
+{
+"id":"mk19_b_cv_q076",
+"number":76,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 76",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8a208f",
+"children":[
+"A 42-year-old woman is evaluated for a 3-month history of exertional dyspnea and a burning sensation in her throat. She had Hodgkin lymphoma at age 22 years treated with chemotherapy and mantle irradiation. She has no history of hypertension, hyperlipidemia, or diabetes mellitus and has never smoked."
+]
+},
+{
+"type":"p",
+"hlId":"b8ef66",
+"children":[
+"On physical examination, vital signs are normal. No jugular venous distention is seen. Heart sounds are normal. No murmur or early diastolic sound is heard. There is no peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"d35a80",
+"children":[
+"A chest radiograph and 12-lead ECG are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aortic stenosis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Constrictive pericarditis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Coronary artery disease"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mitral stenosis"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Restrictive cardiomyopathy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"f78485",
+"children":[
+"Cancer survivors who received chest radiotherapy are at risk for the late development of cardiovascular complications, including pericardial constriction, valvular heart disease, restrictive cardiomyopathy, and coronary artery disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"4e04fa",
+"children":[
+"The most likely diagnosis is coronary artery disease (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although the patient has no typical risk factors for atherosclerosis, she underwent significant radiotherapy at an early age that included the heart within the field. Cancer survivors who received such radiotherapy are at risk for the late development of cardiovascular complications, including pericardial constriction, valvular heart disease, and coronary artery disease. Stenosis is often ostial within the coronary arteries and may be more fibrous or fibrocalcific than typical atheroma. Anginal symptoms, especially in women, may not be typical. Given the exertional nature of this patient's symptoms and the lack of other features supporting a pericardial or valvular underlying cause, a high index of suspicion should be maintained for ischemic disease."
+]
+},
+{
+"type":"p",
+"hlId":"3cebe8",
+"children":[
+"Patients with significant aortic or mitral valvular disease may present with exertional dyspnea, but this patient's normal findings on auscultation make the diagnosis of valvular heart disease less likely. Severe aortic stenosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is associated with a late-peaking systolic murmur, a diminished or absent aortic component of the S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and a delay in the carotid upstroke (pulsus tardus). Mitral stenosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") produces a low-frequency diastolic murmur heard best at the cardiac apex."
+]
+},
+{
+"type":"p",
+"hlId":"c4ed47",
+"children":[
+"Pericardial disease is a potential cardiac sequela of radiotherapy, but late constrictive pericarditis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") generally presents in an indolent fashion with symptoms of fatigue and dyspnea limiting exertion. Jugular venous distention is usually present, and the Kussmaul venous sign may be seen (no change or rise in jugular pressure with inspiration). An early diastolic sound (pericardial knock) may be heard. Increased abdominal girth (ascites) may be present, and peripheral edema is common. This patient's presentation is not compatible with the diagnosis of constrictive pericarditis."
+]
+},
+{
+"type":"p",
+"hlId":"0efda8",
+"children":[
+"Radiation also damages the microvasculature, causing endothelial dysfunction and ischemia that result in myocardial fibrosis, diastolic dysfunction, and restrictive physiology. Radiation-induced cardiomyopathy presents similarly to primary restrictive cardiomyopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"), with symptoms of dyspnea, peripheral edema, and exercise intolerance. There is usually evidence of significant pulmonary hypertension (loud S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and eventually widely split S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"), and tricuspid and mitral valve regurgitation are commonly present. In this patient with a normal cardiac examination, coronary artery disease is the most likely cause of exertional dyspnea and burning throat pain."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s12_1",
+"objective":{
+"__html":"Diagnose radiation-associated coronary artery disease."
+},
+"references":[
+[
+"Groarke JD, Nguyen PL, Nohria A, et al. Cardiovascular complications of radiation therapy for thoracic malignancies: the role for non-invasive imaging for detection of cardiovascular disease. Eur Heart J. 2014;35:612-23. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/23666251",
+"target":"_blank"
+},
+"children":[
+"PMID: 23666251"
+]
+},
+" doi:10.1093/eurheartj/eht114"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":3,
+"B":31,
+"C":29,
+"D":2,
+"E":35
+},
+"hlIds":[
+"8a208f",
+"b8ef66",
+"d35a80",
+"413696",
+"f78485",
+"4e04fa",
+"3cebe8",
+"c4ed47",
+"0efda8"
+]
+}

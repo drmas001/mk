@@ -1,0 +1,202 @@
+{
+"id":"mk19_b_rm_q025",
+"number":25,
+"bookId":"rm",
+"correctAnswer":"C",
+"title":"Question 25",
+"stimulus":[
+{
+"type":"p",
+"hlId":"daf93b",
+"children":[
+"A 26-year-old woman is evaluated for a 3-month history of increasing left hip pain that is worse with prolonged standing. Systemic lupus erythematosus was diagnosed 5 years ago, characterized by small joint arthralgia, malar rash, cytopenias, and Raynaud phenomenon. At diagnosis she required high-dose prednisone, hydroxychloroquine, and azathioprine therapy. Prednisone dosage was tapered over 6 months. Periodic flares have been treated with increased dosages of prednisone. Current medications are hydroxychloroquine, azathioprine, and low-dose prednisone."
+]
+},
+{
+"type":"p",
+"hlId":"b689a6",
+"children":[
+"On physical examination, internal rotation and full flexion of the left hip are limited and elicit pain. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"729be7",
+"children":[
+"Complete blood count, erythrocyte sedimentation rate, and serum complement levels are normal. Anti–double-stranded DNA antibody titer is low and has been unchanged for 6 months."
+]
+},
+{
+"type":"p",
+"hlId":"57d36d",
+"children":[
+"Radiograph of the left hip is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Change azathioprine to mycophenolate mofetil"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Increase prednisone dosage"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"MRI of left hip"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Physical therapy"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cc4f36",
+"children":[
+"Patients with systemic lupus erythematosus, especially those who have received high cumulative doses of glucocorticoids, are at risk for osteonecrosis, especially in the hip."
+]
+},
+{
+"type":"keypoint",
+"hlId":"006e90",
+"children":[
+"MRI is the imaging modality of choice for suspected osteonecrosis at earlier stages of disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"ab9c50",
+"children":[
+"The most appropriate management is MRI of the left hip (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Isolated new pain in the hip is an uncommon manifestation of a systemic lupus erythematosus (SLE) flare. A serious complication of SLE is osteonecrosis, which most commonly affects the hips but can also involve other large joints, and should be suspected when there is otherwise unexplained pain and/or reduced range of motion in a single joint. Long-term and high prednisone dosages (>20 mg/d), severe/active SLE, and vasculitis are all associated with increased risk. In patients with osteonecrosis, the plain radiograph can remain normal for months after symptoms begin. MRI is the modality of choice for sensitive evaluation of early disease, with plain radiography useful to diagnose and monitor later stages. Small lesions can improve and resolve spontaneously, but larger lesions usually lead to bony collapse and structural sequelae. New hip pain in patients with a history of SLE should prompt evaluation for osteonecrosis with MRI."
+]
+},
+{
+"type":"p",
+"hlId":"aac5c6",
+"children":[
+"If the patient were experiencing a more global flare or intolerance to her current medications, switching her maintenance therapy from azathioprine to mycophenolate mofetil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") could be reasonable. However, she has no other signs of SLE activity, and so this change would not be appropriate."
+]
+},
+{
+"type":"p",
+"hlId":"f7a183",
+"children":[
+"This patient has a normal erythrocyte sedimentation rate, normal serum complement levels, and low-titer anti–double-stranded DNA antibodies. Because this patient's isolated hip pain is unlikely to be caused by increased inflammation, and because her disease is otherwise well controlled, increasing her prednisone dosage (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") would not be appropriate and could accelerate damage from osteonecrosis."
+]
+},
+{
+"type":"p",
+"hlId":"ae79f8",
+"children":[
+"Physical therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can be useful for rehabilitation of joint pain in SLE and may be helpful for this patient, but diagnosing the cause of this patient's hip pain should take priority because the diagnosis and stage of osteonecrosis are important for determining the need for potential surgical intervention."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s7_2_2",
+"objective":{
+"__html":"Diagnose cause of joint pain in a patient with systemic lupus erythematosus."
+},
+"references":[
+[
+"Tse SM, Mok CC. Time trend and risk factors of avascular bone necrosis in patients with systemic lupus erythematosus. Lupus. 2017;26:715-722. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27831540",
+"target":"_blank"
+},
+"children":[
+"PMID: 27831540"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":2,
+"C":79,
+"D":17,
+"E":0
+},
+"hlIds":[
+"daf93b",
+"b689a6",
+"729be7",
+"57d36d",
+"cb2b54",
+"cc4f36",
+"006e90",
+"ab9c50",
+"aac5c6",
+"f7a183",
+"ae79f8"
+]
+}

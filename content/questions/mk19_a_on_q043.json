@@ -1,0 +1,221 @@
+{
+"id":"mk19_a_on_q043",
+"number":43,
+"bookId":"on",
+"correctAnswer":"B",
+"title":"Question 43",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8942ed",
+"children":[
+"A 66-year-old man is evaluated for increased confusion and lethargy over the past 2 days, as well as nausea and vomiting. He has also had diffuse bone pain that began 6 weeks ago and has worsened over the past month. His medical history is otherwise unremarkable, and he takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"97d739",
+"children":[
+"On physical examination, temperature is 36.4 °C (97.6 °F), blood pressure is 110/60 mm Hg, pulse rate is 110/min, and respiration rate is 16/min. He is somnolent but can be aroused. Mucous membranes are dry, and he has decreased skin turgor. Cardiopulmonary examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"76681b",
+"children":[
+"Results of laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, Albumin, serum",
+"children":[
+"albumin"
+]
+},
+" level of 3.8 g/dL (38 g/L), ",
+{
+"type":"reference-range-link",
+"referenceRange":"Calcium, serum",
+"children":[
+"calcium"
+]
+},
+" level of 14.8 mg/dL (3.7 mmol/L), and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"creatinine"
+]
+},
+" level of 2.5 mg/dL (221 µmol/L)."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Denosumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous isotonic saline and calcitonin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Intravenous isotonic saline and furosemide"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Zoledronic acid"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"1cc4f0",
+"hvc":true,
+"children":[
+"Patients with severe or symptomatic hypercalcemia should receive intravenous isotonic saline to expand vascular volume, renal perfusion, and urine calcium excretion."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ba0fc8",
+"hvc":true,
+"children":[
+"Loop diuretics are not indicated in the treatment of hypercalcemia of malignancy unless kidney failure or heart failure is present; in these circumstances, intravenous expansion of vascular volume should precede the administration of loop diuretics."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"502c76",
+"children":[
+"This patient has hypercalcemia, likely due to malignancy, and should be treated urgently with intravenous isotonic saline and calcitonin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). Hypercalcemia of malignancy occurs in 20% to 30% of patients with advanced cancer. It is most frequent in patients with myeloma and cancer of the lung, breast, kidney, head, and neck. Patients with severe or symptomatic hypercalcemia should receive isotonic saline volume expansion, which will increase renal perfusion and urine calcium excretion. The administration of isotonic saline at an initial rate of 200 to 300 mL/hour that is then adjusted to maintain the urine output at 100 to 150 mL/hour is a reasonable goal. Calcitonin increases kidney excretion of calcium and decreases bone resorption; it can decrease calcium within several hours in responsive patients. Tachyphylaxis to calcitonin may appear after 24 to 48 hours, so therapy is usually discontinued after this time period. This patient has an elevated serum creatinine level, which is a common complication of hypercalcemia, and intravenous isotonic saline may improve renal function as well."
+]
+},
+{
+"type":"p",
+"hlId":"bdb82d",
+"children":[
+"Denosumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), a receptor activator of nuclear factor κB ligand inhibitor, is very effective in reducing serum calcium levels. It is typically reserved for patients who do not respond to bisphosphonate therapy. Denosumab can be used when bisphosphonate therapy is contraindicated, such as in patients with kidney failure. Patients receiving denosumab should be monitored for the subsequent development of hypocalcemia."
+]
+},
+{
+"type":"p",
+"hlId":"d43162",
+"children":[
+"Furosemide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), a loop diuretic, is not recommended unless kidney failure or heart failure is present, in which case volume expansion should precede the administration of furosemide to avoid hypotension and further kidney injury."
+]
+},
+{
+"type":"p",
+"hlId":"97606b",
+"children":[
+"Bisphosphonates (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") are effective medications for correcting hypercalcemia of malignancy and are frequently used as a key part of management. However, their maximum effect occurs in 2 to 4 days, so they are usually given in conjunction with intravenous isotonic saline. Bisphosphonates are contraindicated in the setting of kidney failure."
+]
+}
+],
+"relatedSection":"mk19_a_on_s12_2_2",
+"objective":{
+"__html":"Treat hypercalcemia of malignancy."
+},
+"references":[
+[
+"Goldner W. Cancer-related hypercalcemia. J Oncol Pract. 2016;12:426-32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27170690",
+"target":"_blank"
+},
+"children":[
+"PMID: 27170690"
+]
+},
+" doi:10.1200/JOP.2016.011155"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":1,
+"B":53,
+"C":40,
+"D":6,
+"E":0
+},
+"hlIds":[
+"8942ed",
+"97d739",
+"76681b",
+"e15e9d",
+"1cc4f0",
+"ba0fc8",
+"502c76",
+"bdb82d",
+"d43162",
+"97606b"
+]
+}

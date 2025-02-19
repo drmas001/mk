@@ -1,0 +1,423 @@
+{
+"id":"mk19_b_pm_q009",
+"number":9,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 9",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc1401",
+"children":[
+"A 35-year-old man is evaluated in the emergency department 4 hours after being rescued from his burning home by firefighters. He initially refused transportation to the hospital but now desires an evaluation. He reports tracheal irritation with breathing, sore throat, and a change in his voice."
+]
+},
+{
+"type":"p",
+"hlId":"6bcc57",
+"children":[
+"On physical examination, he is alert and in moderate pain. Temperature is 37.5 °C (99.5 °F), blood pressure is 144/90 mm Hg, pulse rate is 100/min, and respiration rate is 26/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 96% with the patient breathing ambient air. He has dysphonia. There is no soot in the nares or the oral pharynx or burns on his face, neck, or thorax. Nonobstructing edema of the oropharynx is noted. Cardiac examination reveals a regular rhythm. Chest is clear to auscultation; there is no stridor."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"cfb74a",
+"children":[
+"Arterial blood gas studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"397dff",
+"class":"cell text l",
+"children":[
+"pH"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cc060a",
+"class":"cell text l",
+"children":[
+"7.45"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"dd372e",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Pco2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"CO"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"726fcb",
+"class":"cell text l",
+"children":[
+"35 mm Hg (4.7 kPa)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"acab5a",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Po2, arterial (ambient air)",
+"children":[
+"P",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"O"
+]
+},
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+}
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"c61b9c",
+"class":"cell text l",
+"children":[
+"95 mm Hg (12.6 kPa)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"c499cd",
+"children":[
+"A chest radiograph shows no infiltrates."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bronchoscopy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Methylprednisolone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Nebulized epinephrine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Noninvasive positive pressure ventilation"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"412787",
+"children":[
+"Following smoke inhalational injury, immediate protection of the airway is indicated for patients with extensive facial or neck burns, decreased level of consciousness, or airway obstruction."
+]
+},
+{
+"type":"keypoint",
+"hlId":"96d7f2",
+"children":[
+"Following smoke inhalation, one third of patients develop airway edema or mucosal sloughing from epithelial necrosis; airway inspection, bronchoscopy, and chest physiotherapy are frequently necessary to facilitate continued airway clearance."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5d362e",
+"children":[
+"The most appropriate next step is to perform bronchoscopy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient sustained thermal injury to his upper airway as evidenced by symptoms of tracheal irritation, sore throat, dysphonia, and an edematous oropharynx. Intense heat can cause edema and blistering from the mouth to the larynx, and patients with a visibly damaged airway or stridor are at high risk of complete upper airway obstruction due to swelling. It is difficult to predict which patients with acute inhalational injury will develop complete upper airway obstruction, and even patients with minimally apparent inhalational airway injury may develop worsening obstruction associated with intravenous hydration or analgesia needed for burn treatment. Following smoke inhalation, one third of patients develop airway edema or mucosal sloughing from epithelial necrosis. Chest physiotherapy and serial bronchoscopy are frequently necessary to facilitate continued airway clearance. Other presenting symptoms and signs of inhalation injury include stridor, dysphagia, singed nasal hairs, and sooty sputum, which signal the need for inspection of the upper airway. Immediate protection of the airway is indicated for patients with extensive facial or neck burns, decreased level of consciousness, or airway obstruction. If there is any doubt about the airway patency, intubation is always preferred."
+]
+},
+{
+"type":"p",
+"hlId":"d7bd95",
+"children":[
+"Methylprednisolone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") or other glucocorticoids do not have a role in treating upper airway edema or smoke-induced injury of the lower airways."
+]
+},
+{
+"type":"p",
+"hlId":"5f8b9f",
+"children":[
+"Nebulized epinephrine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can transiently reduce upper airway edema from allergic or anaphylactic reactions, but it does not have a role in the treatment of inhalational injury."
+]
+},
+{
+"type":"p",
+"hlId":"24d097",
+"children":[
+"Noninvasive positive pressure ventilation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") will not prevent this patient from developing progressive airway obstruction or clear the airway of debris."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s12_1_3",
+"objective":{
+"__html":"Assess thermal upper airway injury with bronchoscopy."
+},
+"references":[
+[
+"Sheridan RL. Fire-related inhalation injury. N Engl J Med. 2016;375:464-9. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27518664",
+"target":"_blank"
+},
+"children":[
+"PMID: 27518664"
+]
+},
+" doi:10.1056/NEJMra1601128"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":49,
+"C":23,
+"D":7,
+"E":0
+},
+"hlIds":[
+"bc1401",
+"6bcc57",
+"cfb74a",
+"397dff",
+"cc060a",
+"dd372e",
+"726fcb",
+"acab5a",
+"c61b9c",
+"c499cd",
+"cb2b54",
+"412787",
+"96d7f2",
+"5d362e",
+"d7bd95",
+"5f8b9f",
+"24d097"
+]
+}

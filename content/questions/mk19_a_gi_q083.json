@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_gi_q083",
+"number":83,
+"bookId":"gi",
+"correctAnswer":"D",
+"title":"Question 83",
+"stimulus":[
+{
+"type":"p",
+"hlId":"866195",
+"children":[
+"A 37-year-old man is evaluated in the emergency department for right-upper-quadrant pain, fever, and malaise of 3 days' duration. Until now he had been well."
+]
+},
+{
+"type":"p",
+"hlId":"6d439b",
+"children":[
+"On physical examination, his temperature is 38.9 °C (102.0 °F), blood pressure is 100/40 mm Hg, and pulse rate is 94/min. Jaundice is present. Abdominal examination reveals right-upper-quadrant tenderness and guarding."
+]
+},
+{
+"type":"p",
+"hlId":"d01cd0",
+"children":[
+"Laboratory evaluation shows a normal hemoglobin value, an elevated leukocyte count, a total ",
+{
+"type":"reference-range-link",
+"referenceRange":"Bilirubin, serum",
+"children":[
+"serum bilirubin"
+]
+},
+" level of 9 mg/dL (153.9 μmol/L), and a normal lipase level."
+]
+},
+{
+"type":"p",
+"hlId":"e03634",
+"children":[
+"Right-upper-quadrant ultrasound demonstrates a gallbladder with stones and no gallbladder wall thickening or pericolic fluid; common bile duct is somewhat dilated. A stone is visualized in the distal common bile duct."
+]
+},
+{
+"type":"p",
+"hlId":"14d4d4",
+"children":[
+"Antibiotic therapy with piperacillin-tazobactam is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Laparoscopic biliary drainage"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Magnetic resonance cholangiopancreatography"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Urgent cholecystectomy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Urgent endoscopic retrograde cholangiopancreatography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"9375bb",
+"children":[
+"Acute cholangitis is suggested by fever, jaundice, and right-upper-quadrant pain."
+]
+},
+{
+"type":"keypoint",
+"hlId":"61b027",
+"children":[
+"The treatment of choice for acute cholangitis is antibiotics and biliary drainage with endoscopic retrograde cholangiopancreatography."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3aedc4",
+"children":[
+"The most appropriate treatment is urgent endoscopic retrograde cholangiopancreatography (ERCP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This patient has acute cholangitis, an infection of the biliary tree that is heralded by the Charcot triad (fever, jaundice, and right-upper-quadrant pain). Cholangitis is potentially life-threatening; therapy should include immediate antimicrobial therapy targeting Enterobacteriaceae in combination with urgent decompression of the biliary tree with endoscopic sphincterotomy and stone extraction. Additionally, cholecystectomy should be performed during initial hospitalization or within 2 weeks to reduce the risk for subsequent complications."
+]
+},
+{
+"type":"p",
+"hlId":"01075e",
+"children":[
+"Surgical drainage of the biliary tree, either open or laparoscopic (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), is reserved for patients with acute cholangitis who cannot undergo ERCP or in whom ERCP has failed. The surgical objectives are biliary decompression with choledocholithiasis removal. ERCP biliary drainage is preferred over surgical drainage because of substantially lower morbidity and mortality."
+]
+},
+{
+"type":"p",
+"hlId":"10b40a",
+"children":[
+"Magnetic resonance cholangiopancreatography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a valuable tool in evaluating the biliary and pancreatic ducts and may be indicated in the nonurgent evaluation of suspected choledocholithiasis. In this case, however, the patient has a life-threatening infection (acute cholangitis), and urgent decompression of the biliary tree is indicated. There is no need for further imaging before intervention because the stone has already been identified on ultrasonography."
+]
+},
+{
+"type":"p",
+"hlId":"3f4c50",
+"children":[
+"Although cholecystectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the treatment of choice for acute cholecystitis, it has an ancillary role in the management of acute cholangitis. In acute cholangitis, stone location is typically within the common bile duct rather than in the cystic duct (as in acute cholecystitis), and cholecystectomy does not result in decompression of the biliary tree. After the stones are removed with ERCP, elective cholecystectomy should be performed during the initial hospital stay to reduce the risk for additional complications from gallstones."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s7_6",
+"objective":{
+"__html":"Treat acute cholangitis."
+},
+"references":[
+[
+"Buxbaum JL, Abbas Fehmi SM, Sultan S, et al; ASGE Standards of Practice Committee. ASGE guideline on the role of endoscopy in the evaluation and management of choledocholithiasis. Gastrointest Endosc. 2019;89:1075-1105.e15. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30979521",
+"target":"_blank"
+},
+"children":[
+"PMID: 30979521"
+]
+},
+" doi:10.1016/j.gie.2018.10.001"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":5,
+"C":3,
+"D":84,
+"E":0
+},
+"hlIds":[
+"866195",
+"6d439b",
+"d01cd0",
+"e03634",
+"14d4d4",
+"1a5dcc",
+"9375bb",
+"61b027",
+"3aedc4",
+"01075e",
+"10b40a",
+"3f4c50"
+]
+}

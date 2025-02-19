@@ -1,0 +1,237 @@
+{
+"id":"mk19_b_hm_q003",
+"number":3,
+"bookId":"hm",
+"correctAnswer":"E",
+"title":"Question 3",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f2b695",
+"children":[
+"A 27-year-old woman is evaluated for shortness of breath and palpitations. She reports no chest pain, cough, or hemoptysis. She is pregnant at 34 weeks' gestation. Her only medication is a prenatal vitamin."
+]
+},
+{
+"type":"p",
+"hlId":"bcb4f5",
+"children":[
+"On physical examination, vital signs are normal. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 97% breathing ambient air. She has a gravid uterus. Lungs are clear to auscultation. She has no edema, erythema, or tenderness of the legs."
+]
+},
+{
+"type":"p",
+"hlId":"3a667a",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"D-Dimer",
+"children":[
+"D-dimer"
+]
+},
+" level of 0.88 μg/mL (0.88 mg/L)."
+]
+},
+{
+"type":"p",
+"hlId":"bad687",
+"children":[
+"Doppler ultrasonography of the legs is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"CT pulmonary angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Perfusion-only lung scan"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pulmonary MRI with gadolinium"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Ventilation-perfusion lung scan"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further tests"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"697b50",
+"hvc":true,
+"children":[
+"Pregnancy is associated with elevated D-dimer measurement."
+]
+},
+{
+"type":"keypoint",
+"hlId":"44db59",
+"hvc":true,
+"children":[
+"The pregnancy-adapted YEARS criteria along with D-dimer measurement can help determine the risk for pulmonary embolism and avoid unnecessary radiation exposure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"2dda09",
+"children":[
+"No further evaluation is needed (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+"). According to the pregnancy-adapted YEARS algorithm, this patient has a very low probability of having a pulmonary embolism (PE). She has an elevated D-dimer measurement, but D-dimer levels progressively increase during the course of pregnancy, making interpretation difficult. To assist in the diagnosis of PE in pregnant women, diagnostic algorithms have been developed. The YEARS criteria have been shown to reduce the risk of unnecessary CT angiography in pregnant patients suspected of having a PE. The YEARS algorithm assigns 1 point each for the presence of three cardinal criteria: clinical signs of deep venous thrombosis, hemoptysis, and PE as the most likely diagnosis (point range 0-3). The score is used in conjunction with four potential D-dimer results (<0.5 μg/mL [0.5 mg/L], ≥0.5 μg/mL [0.5 mg/L], <1 μg/mL [1 mg/L], and ≥1 μg/mL [1 mg/L]). This patient met no YEARS clinical criteria and had a D-dimer measurement less than 1 μg/mL (1 mg/L). This corresponds to very low risk for PE, so she should not undergo additional testing or anticoagulation."
+]
+},
+{
+"type":"p",
+"hlId":"21a739",
+"children":[
+"CT pulmonary angiography can be used in pregnancy to diagnose PE, but it exposes the woman to unnecessary radiation if the probability of PE is low such as in this patient (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"dc5933",
+"children":[
+"A perfusion-only scan can be used to rule out PE in a pregnant patient, but only after chest radiography has been performed and the results are interpreted as normal (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has a normal respiratory examination and a low probability of PE, so a perfusion-only scan is not needed. Similarly, a ventilation-perfusion lung scan is unnecessary when the probability of PE is low (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"ea6c4c",
+"children":[
+"MRI with gadolinium can be used to detect pulmonary emboli, but it is an expensive test and not necessary for this patient with low probability for PE (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Gadolinium should not be used early in pregnancy because of the uncertainty of the effects on the fetus. MRI with gadolinium may be a diagnostic option in select patients in whom neither CT angiography nor ventilation-perfusion scan can be performed."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s10_4_3",
+"objective":{
+"__html":"Evaluate a pregnant patient for pulmonary embolism."
+},
+"references":[
+[
+"van der Pol LM, Tromeur C, Bistervels IM, et al; Artemis Study Investigators. Pregnancy-adapted YEARS algorithm for diagnosis of suspected pulmonary embolism. N Engl J Med. 2019;380:1139-1149. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30893534",
+"target":"_blank"
+},
+"children":[
+"PMID: 30893534"
+]
+},
+" doi:10.1056/NEJMoa1813865"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":4,
+"C":3,
+"D":34,
+"E":49
+},
+"hlIds":[
+"f2b695",
+"bcb4f5",
+"3a667a",
+"bad687",
+"ab9d96",
+"697b50",
+"44db59",
+"2dda09",
+"21a739",
+"dc5933",
+"ea6c4c"
+]
+}

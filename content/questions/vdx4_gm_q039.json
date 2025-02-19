@@ -1,0 +1,548 @@
+{
+"id":"vdx4_gm_q039",
+"number":39,
+"bookId":"vdx_gm",
+"correctAnswer":"B",
+"title":"Question 39",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bc0bc6",
+"children":[
+"An elderly hospitalized patient is evaluated for a ",
+{
+"type":"figure-link",
+"target":"vdx4_gm_mcq_f039",
+"wrapId":"1",
+"children":[
+"pressure injury"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_gm_mcq_f039"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"54247e",
+"children":[
+"Which of the following is the most likely stage of the pressure injury shown?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Stage I"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Stage II"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stage III"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stage IV"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3d5666",
+"children":[
+"This patient has a stage II pressure injury. This patient has evidence of bruising and ulceration, which is beyond the nonblanchable redness characteristic of a stage I injury and is most compatible with stage II pressure injury. Pressure injuries (or pressure ulcers) represent damage to the skin and underlying tissue caused by unrelieved pressure. Pressure injuries may be classified with the use of a ",
+{
+"type":"table-link",
+"target":"vdx4_gm_mcq_t039",
+"wrapId":"2",
+"children":[
+"staging system"
+]
+},
+"; advanced stages are characterized by increasing tissue loss, depth, and ulcer size."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"2",
+"contentIds":[
+"vdx4_gm_mcq_t039"
+]
+}
+],
+"relatedSection":"mk19_a_gm_s10_7",
+"objective":{
+"__html":"Diagnose stage II pressure injury."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"tablesContent":{
+"vdx4_gm_mcq_t039":{
+"id":"vdx4_gm_mcq_t039",
+"number":39,
+"bookId":"vdx_gm",
+"title":{
+"__html":"Pressure Injury Staging System"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"9d88a0",
+"children":[
+"Pressure Injury Staging System"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"29d662",
+"class":"col hd l",
+"children":[
+"Stage of Pressure Injury"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"b5a7ad",
+"class":"col hd l",
+"children":[
+"Description"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"dd7536",
+"class":"cell txt l",
+"children":[
+"I"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"22b4f6",
+"class":"cell txt l",
+"children":[
+"Intact skin with nonblanchable redness"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"66cc12",
+"class":"cell txt l",
+"children":[
+"II"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ba6d03",
+"class":"cell txt l",
+"children":[
+"Partial-thickness loss of dermis; shallow open ulcer with red-pink wound bed without slough"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"42a062",
+"class":"cell txt l",
+"children":[
+"May also present as intact or ruptured serum-filled blister"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"51ac45",
+"class":"cell txt l",
+"children":[
+"III"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1731ca",
+"class":"cell txt l",
+"children":[
+"Full-thickness tissue loss; visible subcutaneous fat but not bone, tendon, or muscle"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"6b0307",
+"class":"cell txt l",
+"children":[
+"May include undermining or tunneling"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"cf482c",
+"class":"cell txt l",
+"children":[
+"IV"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d4af6a",
+"class":"cell txt l",
+"children":[
+"Full-thickness tissue loss with exposed bone, tendon, or muscle"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"d06c64",
+"class":"cell txt l",
+"children":[
+"Unstageable"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"75a9d9",
+"class":"cell txt l",
+"children":[
+"Full-thickness tissue loss in which base of the ulcer is covered by slough or eschar"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"5e9dc7",
+"class":"cell txt l",
+"children":[
+"Suspected deep-tissue injury"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"8f18ca",
+"class":"cell txt l",
+"children":[
+"Purple or maroon localized area of discolored but intact skin, or blood-filled blister caused by damage of underlying soft tissue from pressure or shear"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"Information from Edsberg LE, Black JM, Goldberg M, et al. Revised National Pressure Ulcer Advisory Panel pressure injury staging system: revised pressure injury staging system. J Wound Ostomy Continence Nurs. 2016;43:585-97. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27749790",
+"target":"_blank"
+},
+"children":[
+"PMID: 27749790"
+]
+},
+" doi:10.1097/WON.0000000000000281"
+]
+]
+}
+},
+"figuresContent":{
+"vdx4_gm_mcq_f039":{
+"id":"vdx4_gm_mcq_f039",
+"number":39,
+"bookId":"vdx_gm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"c06cd80a13e796c71dd7e26e605acc82",
+"height":373,
+"width":251,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"bc0bc6",
+"54247e",
+"3d5666"
+]
+}

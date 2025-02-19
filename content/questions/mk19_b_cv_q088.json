@@ -1,0 +1,257 @@
+{
+"id":"mk19_b_cv_q088",
+"number":88,
+"bookId":"cv",
+"correctAnswer":"C",
+"title":"Question 88",
+"stimulus":[
+{
+"type":"p",
+"hlId":"270359",
+"children":[
+"A 66-year-old woman is evaluated for a 6-month history of right shoulder pressure that occurs after walking half a mile and improves with 5 minutes of rest. She has no dyspnea, nausea, or fatigue. The frequency and duration of her symptoms have not changed. Her history is otherwise unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"28b514",
+"children":[
+"On physical examination, vital signs are normal. BMI is 33. Other than a paradoxically split S",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", the cardiac examination is normal. The lungs are clear to auscultation."
+]
+},
+{
+"type":"p",
+"hlId":"b12718",
+"children":[
+"A chest radiograph is normal. ECG is ",
+{
+"type":"figure-link",
+"target":"mk19_b_cv_mcq_f088",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_cv_mcq_f088"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Coronary angiography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Exercise ECG"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pharmacologic myocardial perfusion imaging"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Transthoracic echocardiography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"No further testing is required"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"be11ae",
+"children":[
+"Stress testing with imaging is indicated in patients with an inability to exercise, baseline ECG abnormalities that limit interpretation of the exercise ECG, or indeterminate findings on the exercise ECG."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"69ef3a",
+"children":[
+"Pharmacologic myocardial perfusion imaging (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is the most appropriate next test. The evaluation of angina should include a physical examination to detect conditions that may mimic symptomatic coronary artery disease (CAD), as well as a focused history to assist in determining the pretest probability of CAD. A resting ECG is required to evaluate for ongoing ischemic insult and to guide the choice of subsequent diagnostic testing. This 66-year-old woman with clinical features of possible angina has an intermediate pretest likelihood of CAD, an indication for stress test diagnostic evaluation. In addition to its role as a first-line test in the evaluation of possible CAD, stress testing with imaging is indicated in patients with an inability to exercise, baseline ECG abnormalities (such as left bundle branch block [LBBB]) that limit interpretation of the exercise ECG, or indeterminate findings on the exercise ECG. In patients able to exercise but with underlying LBBB, such as this patient, pharmacologic stress testing with imaging (myocardial perfusion, cardiac magnetic resonance, or echocardiographic) is appropriate to reduce the rate of false-positive test results associated with exercise ECG (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in this population."
+]
+},
+{
+"type":"p",
+"hlId":"65d4cd",
+"children":[
+"Coronary angiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not indicated for stable, low-risk clinical features. It should be reserved for patients with a high pretest likelihood of CAD and unstable symptoms, or for those in whom optimal medical therapy has been ineffective."
+]
+},
+{
+"type":"p",
+"hlId":"87131a",
+"children":[
+"Resting transthoracic echocardiography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") can provide helpful prognostic information related to ventricular function and is useful in assessing for noncoronary cardiac causes of chest pain. It is not as helpful as exercise stress testing as an initial test for symptomatic CAD."
+]
+},
+{
+"type":"p",
+"hlId":"bb0f5b",
+"children":[
+"Reassurance without additional testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") may be appropriate when an alternative cause of chest discomfort has been identified in a patient with a low pretest probability of CAD, but this patient's ongoing exertional chest pain and intermediate likelihood of CAD require further investigation."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s2_2_1_2_2",
+"objective":{
+"__html":"Evaluate possible angina with pharmacologic myocardial perfusion imaging."
+},
+"references":[
+[
+"Katz D, Gavin MC. Stable ischemic heart disease. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201908060",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2019;171:ITC17-ITC32. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31382288",
+"target":"_blank"
+},
+"children":[
+"PMID: 31382288"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":25,
+"B":7,
+"C":40,
+"D":26,
+"E":3
+},
+"figuresContent":{
+"mk19_b_cv_mcq_f088":{
+"id":"mk19_b_cv_mcq_f088",
+"number":88,
+"bookId":"cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"a28fb3bbbcbc3ccc807bc76236f67479",
+"height":499,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"270359",
+"28b514",
+"b12718",
+"c5165c",
+"be11ae",
+"69ef3a",
+"65d4cd",
+"87131a",
+"bb0f5b"
+]
+}

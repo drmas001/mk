@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q020",
+"number":20,
+"bookId":"vdx_cv",
+"correctAnswer":"C",
+"title":"Question 20",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f87c49",
+"children":[
+"A 35-year-old man is evaluated for the acute onset of severe chest pain."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f020",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f020"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Arrhythmogenic right ventricular cardiomyopathy/dysplasia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Brugada syndrome"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Pericarditis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pulmonary embolism"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e98647",
+"children":[
+"The most likely diagnosis is pericarditis. Electrocardiographic changes characteristic of acute pericarditis include diffuse ST-segment elevations and a depressed PR interval, both of which are present in this patient's ECG; leads I and II in this ECG demonstrate a depressed PR interval, most notably in the lead II rhythm strip. As pericarditis evolves, the electrocardiographic manifestations change and are classified into stages: Stage 1 is characterized by diffuse ST-segment elevations; stage 2, by “pseudonormalization,” in which the ST segments normalize; stage 3, by diffuse T-wave inversion and possible slightly depressed ST segments; and stage 4, by a return to normal on ECG."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s8_1_1",
+"objective":{
+"__html":"Identify manifestations of pericarditis on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f020":{
+"id":"vdx4_cv_mcq_f020",
+"number":20,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"bc2e98570c3064aedad8039f5ce93bd4",
+"height":324,
+"width":600,
+"extension":"png"
+}
+}
+},
+"hlIds":[
+"f87c49",
+"4a9f79",
+"413696",
+"e98647"
+]
+}

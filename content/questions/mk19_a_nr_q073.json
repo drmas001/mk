@@ -1,0 +1,234 @@
+{
+"id":"mk19_a_nr_q073",
+"number":73,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 73",
+"stimulus":[
+{
+"type":"p",
+"hlId":"c1b10e",
+"children":[
+"A 32-year-old woman is hospitalized for recent-onset leg weakness. She reports development of pins-and-needles sensation in her upper and lower extremities 10 days ago, followed by low back pain and progressive weakness in her lower extremities. She has otherwise been well and reports no other symptoms. She received an influenza vaccination a month ago. She takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"65037a",
+"children":[
+"On physical examination, temperature is 37.2 °C (98.9 °F), blood pressure is 105/70 mm Hg, pulse rate is 115/min, respiration rate is 18/min. Moderate weakness in hip flexors and mild weakness in foot dorsiflexors and plantar flexors bilaterally are observed. Deep tendon reflexes are absent throughout. Cranial nerves, including extraocular movements, are intact. Plantar responses are flexor. Sensory perception is intact to all modalities."
+]
+},
+{
+"type":"p",
+"hlId":"018d10",
+"children":[
+{
+"type":"reference-range-link",
+"referenceRange":"Cell count, cerebrospinal fluid",
+"children":[
+"Cerebrospinal fluid cell count"
+]
+},
+" and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Protein, serum",
+"children":[
+"protein"
+]
+},
+" and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glucose, plasma",
+"children":[
+"glucose"
+]
+},
+" levels are normal."
+]
+},
+{
+"type":"p",
+"hlId":"b6ce61",
+"children":[
+"Electromyogram shows no neuropathy, radiculopathy, or myopathy."
+]
+},
+{
+"type":"p",
+"hlId":"4ab2f3",
+"children":[
+"Cervical, thoracic, and lumbar MRI findings are unremarkable."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Doxycycline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Intravenous glucocorticoids"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Plasma exchange"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"4f4710",
+"children":[
+"Guillain-Barré syndrome is an acute autoimmune demyelinating polyradiculoneuropathy that presents with rapidly progressive flaccid weakness."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d634dc",
+"children":[
+"Plasma exchange and intravenous immunoglobulin are equally effective treatment options for Guillain-Barré syndrome."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"e1194f",
+"children":[
+"The most appropriate treatment is plasma exchange (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient with rapidly progressive dysesthesia, weakness, and areflexia after recent vaccination likely has Guillain-Barré syndrome. Onset is often preceded by a respiratory or gastrointestinal infection, triggering a T-cell–mediated autoimmune attack against peripheral nerve and root myelin. A very few patients develop Guillain-Barré syndrome after immunization, surgery, or trauma. The weakness may occur first in the proximal muscles. Paresthesia and early low back pain are common. Dysautonomia can be severe and predispose patients to labile blood pressure and arrhythmias. Progressive respiratory and bulbar weakness may lead to rapid respiratory failure. Both plasma exchange and intravenous immunoglobulin are equally effective and appropriate options in this setting. The combination of plasma exchange and immunoglobulin therapy is no more effective than treatment with either modality alone. Although albuminocytologic dissociation (elevated protein level with a normal or mildly elevated leukocyte count) on cerebrospinal fluid (CSF) analysis and demyelinating polyradiculoneuropathy on electromyography are characteristic of Guillain-Barré syndrome, these findings may be absent early in the course of disease; the tests may need to be repeated later if diagnostic uncertainty persists. However, treatment should not be delayed for confirmatory testing. In this patient with characteristic symptoms and normal findings on spinal imaging and CSF cell count, the most likely diagnosis is Guillain-Barré syndrome and treatment should be initiated."
+]
+},
+{
+"type":"p",
+"hlId":"e630f4",
+"children":[
+"Doxycycline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be administered for treatment of Lyme disease, a condition that should be considered in the differential diagnosis of Guillain-Barré syndrome in endemic areas. In this patient, normal electromyographic studies and CSF analysis do not support a diagnosis of Lyme disease; therefore, there is no indication for empiric therapy with doxycycline."
+]
+},
+{
+"type":"p",
+"hlId":"d9f692",
+"children":[
+"Glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are contraindicated in Guillain-Barré syndrome and may worsen outcome."
+]
+},
+{
+"type":"p",
+"hlId":"3918aa",
+"children":[
+"No additional treatment (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") would be required in patients with pure sensory neuropathy and without definitive diagnosis. However, this patient's progressive weakness and areflexia should prompt initiation of therapy, with the goal of preventing respiratory failure and reducing time to functional recovery."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s9_2_3_3_1",
+"objective":{
+"__html":"Treat Guillain-Barré syndrome."
+},
+"references":[
+[
+"Willison HJ, Jacobs BC, van Doorn PA. Guillain-Barré syndrome. Lancet. 2016;388:717-27. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26948435",
+"target":"_blank"
+},
+"children":[
+"PMID: 26948435"
+]
+},
+" doi:10.1016/S0140-6736(16)00339-1"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":25,
+"C":62,
+"D":13,
+"E":0
+},
+"hlIds":[
+"c1b10e",
+"65037a",
+"018d10",
+"b6ce61",
+"4ab2f3",
+"1054f1",
+"4f4710",
+"d634dc",
+"e1194f",
+"e630f4",
+"d9f692",
+"3918aa"
+]
+}

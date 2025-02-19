@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q015",
+"number":15,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"663d2e",
+"children":[
+"A 29-year-old man is evaluated in the emergency department for pain and discomfort with movement of his left eye that began yesterday morning. He awoke this morning with blurry vision and a dark spot in the center of the visual field of his left eye. He has no other medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"376879",
+"children":[
+"On physical examination, vital signs are normal. Funduscopic examination is normal. Pupils are reactive, with an afferent pupillary defect in the left eye. Visual acuity is 20/20 in the right eye and 20/100 in the left eye with a central scotoma. There is no proptosis, conjunctival erythema, or pain on palpation of the orbit."
+]
+},
+{
+"type":"p",
+"hlId":"4a06de",
+"children":[
+"Results of laboratory studies show a normal leukocyte count and erythrocyte sedimentation rate."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Central retinal artery occlusion"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Giant cell arteritis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Optic neuritis"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Orbital cellulitis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"faad88",
+"children":[
+"Classic findings of optic neuritis include pain with eye movement, unilateral visual deficit, and an afferent pupillary defect."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cd1507",
+"children":[
+"The cumulative 5-year incidence of clinically definite multiple sclerosis is 30% following a first episode of demyelinating optic neuritis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"93a87a",
+"children":[
+"The most likely diagnosis is optic neuritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The patient has pain with eye movement, unilateral visual deficit, and an afferent pupillary defect in the left eye. These are classic findings of optic neuritis, an inflammation of the optic nerve. The lack of funduscopic examination findings in this patient does not rule out this diagnosis. Acute papillitis (flared appearance of the optic disc caused by inflammatory changes) is only seen when the inflammatory changes occur at the optic nerve head, and optic disc pallor is only seen as a chronic change—occurring weeks to months after an acute optic neuritis event. This patient may have a clinically isolated syndrome (CIS). CIS is a first symptomatic episode compatible with demyelination or multiple sclerosis (MS). The cumulative 5-year incidence of clinically definite MS is 30% following a first episode of demyelinating optic neuritis."
+]
+},
+{
+"type":"p",
+"hlId":"5f3258",
+"children":[
+"Central retinal artery occlusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not a likely diagnosis in this case. Although central retinal artery occlusions are typically unilateral in nature, they are painless, acute in onset (as opposed to this patient's subacute onset), and often responsible for altitudinal defects, which are those in the upper or lower portion of vision in the eye rather than diffuse or central."
+]
+},
+{
+"type":"p",
+"hlId":"d8c54a",
+"children":[
+"Giant cell arteritis (GCA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is an unlikely cause of this patient's visual deficit given his young age (peak incidence of GCA is between 70 and 80 years of age), normal erythrocyte sedimentation rate, and absence of headache or jaw claudication. Patients with GCA involving the ophthalmic artery note an abrupt partial field defect or temporary curtain effect (a moving dark shadow) in the field of vision of one eye."
+]
+},
+{
+"type":"p",
+"hlId":"6e9553",
+"children":[
+"Orbital cellulitis (infection of the fat and muscle cells of the orbit) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is a vision-threatening eye infection requiring immediate intravenous antibiotics and ophthalmology evaluation. Characteristic findings include ocular pain and eyelid swelling with erythema as well as pain with eye movements, proptosis, and less frequently, ophthalmoplegia with diplopia. Orbital cellulitis is an unlikely cause given the absence of fever, swelling, erythema, proptosis, pain on palpation of the orbit, or elevated leukocyte count."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_1",
+"objective":{
+"__html":"Diagnose optic neuritis."
+},
+"references":[
+[
+"Bennett JL. Optic neuritis. Continuum (Minneap Minn). 2019;25(5):1236–64. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31584536",
+"target":"_blank"
+},
+"children":[
+"PMID: 31584536"
+]
+},
+" doi:10.1212/CON.0000000000000768"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":30,
+"B":1,
+"C":70,
+"D":0,
+"E":0
+},
+"hlIds":[
+"663d2e",
+"376879",
+"4a06de",
+"413696",
+"faad88",
+"cd1507",
+"93a87a",
+"5f3258",
+"d8c54a",
+"6e9553"
+]
+}

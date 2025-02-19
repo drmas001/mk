@@ -1,0 +1,202 @@
+{
+"id":"mk19_qq_q164",
+"number":164,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 164",
+"stimulus":[
+{
+"type":"p",
+"hlId":"88b0c6",
+"children":[
+"A 24-year-old man is evaluated for severe asthma requiring frequent hospitalizations and oral glucocorticoids. He is adherent to his medical regimen and demonstrates excellent inhaler technique. He follows a written asthma management plan. Medications are high-dose inhaled budesonide, formoterol, montelukast, tiotropium, and albuterol."
+]
+},
+{
+"type":"p",
+"hlId":"a6565b",
+"children":[
+"Blood eosinophil percentage is normal. Total serum IgE level is elevated. Skin testing is positive for multiple allergens."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Allergen immunotherapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Bronchial thermoplasty"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Mepolizumab"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Omalizumab"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b5d1b2",
+"children":[
+"Omalizumab is a monoclonal antibody that binds IgE and has been shown to reduce exacerbations in patients with severe persistent asthma despite standard therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d3c974",
+"children":[
+"Mepolizumab and reslizumab are anti-interleukin-5 monoclonal antibodies that reduce eosinophil levels in airway and sputum and are effective in patients with severe asthma associated with elevated eosinophil levels, regardless of IgE level."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"745fbb",
+"children":[
+"The most appropriate treatment is omalizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a humanized monoclonal antibody directed at IgE. This patient has severe asthma, which is asthma that is uncontrolled despite adherence to maximal optimized therapy and treatment of contributory factors, that worsens when high-dose inhaled glucocorticoid treatment is decreased, or that requires continuous oral glucocorticoids. Severe asthma is characterized by frequent exacerbations; patients may require emergency department visits or hospitalizations and may experience long durations of treatment with high-dose glucocorticoids. This patient's asthma has not been controlled despite trigger avoidance and treatment with multiple controller drugs. Omalizumab is indicated in patients with severe persistent asthma inadequately controlled with standard therapy who have elevated IgE levels and sensitivity to multiple allergens, as documented by skin testing, or elevated serum allergen-specific IgE. Omalizumab is administered subcutaneously every 2 to 4 weeks."
+]
+},
+{
+"type":"p",
+"hlId":"0e7931",
+"children":[
+"Allergen immunotherapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be useful when a single trigger is identified or when a trigger is consistently the source of asthma instability. In this patient with sensitivity to multiple allergens, omalizumab anti-IgE therapy is a more appropriate choice. Beneficial effects of allergen immunotherapy begin during the first year of therapy, whereas omalizumab would be expected to provide asthma control within weeks."
+]
+},
+{
+"type":"p",
+"hlId":"cf6e35",
+"children":[
+"Bronchial thermoplasty (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a radiofrequency airway treatment using bronchoscopy that can reduce exacerbations and improve quality of life. Candidates are patients with an FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+" greater than 60% and severe asthma that is poorly controlled despite high-dose inhaled glucocorticoid/long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" agonist combination therapy. This patient has a recognizable asthma phenotype that will respond to less invasive therapy with omalizumab."
+]
+},
+{
+"type":"p",
+"hlId":"39645e",
+"children":[
+"Mepolizumab (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") and reslizumab are anti-interleukin-5 monoclonal antibodies that reduce eosinophil levels in airway and sputum by blocking the action of interleukin-5, a cytokine that plays a significant role in eosinophil recruitment and maturation. Mepolizumab is effective in patients with severe asthma associated with elevated eosinophil levels, regardless of IgE level. Mepolizumab is not an appropriate choice in this patient with normal serum eosinophil levels."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_6_2",
+"objective":{
+"__html":"Treat severe asthma with omalizumab."
+},
+"references":[
+[
+"Israel E, Reddel HK. Severe and difficult-to-treat asthma in adults. N Engl J Med. 2017;377:965-76. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28877019",
+"target":"_blank"
+},
+"children":[
+"PMID: 28877019"
+]
+},
+" doi:10.1056/NEJMra1608969"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"88b0c6",
+"a6565b",
+"1054f1",
+"b5d1b2",
+"d3c974",
+"745fbb",
+"0e7931",
+"cf6e35",
+"39645e"
+]
+}

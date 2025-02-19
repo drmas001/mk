@@ -1,0 +1,187 @@
+{
+"id":"mk19_b_rm_q086",
+"number":86,
+"bookId":"rm",
+"correctAnswer":"A",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"b64ff1",
+"children":[
+"A 72-year-old man is evaluated for severe left knee pain with swelling that has worsened over the past 5 days. Pain is exacerbated with weight bearing. He has no history of trauma. Current medication is acetaminophen."
+]
+},
+{
+"type":"p",
+"hlId":"89f592",
+"children":[
+"On physical examination, temperature is 38.2 °C (100.8 °F). Other vital signs are normal. The left knee is swollen and warm, with erythema, tenderness to palpation, and limited range of motion due to pain. Other joints are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Aspiration of the left knee"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Erythrocyte sedimentation rate"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Radiography of the left knee"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum urate level"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"ed8f11",
+"children":[
+"Joint aspiration is necessary to make an accurate diagnosis and distinguish among causes of acute monoarthritis, including crystal-induced disease (gout or calcium pyrophosphate deposition), infection, and hemarthrosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"627c9b",
+"children":[
+"In patients with an acute inflammatory arthritis, synovial fluid should be analyzed for cell count and differential, crystal examination, Gram stain, and culture."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"0fcf9d",
+"children":[
+"The most appropriate diagnostic test to perform next is aspiration of the left knee (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). This patient has acute inflammatory arthritis of the knee characterized by pain, swelling, and redness for less than 1 week. Physical examination shows swelling with warmth and redness, as well as tenderness with palpation and limited range of motion. The differential diagnosis of acute monoarthritis includes crystal-induced disease (gout or calcium pyrophosphate deposition), infection, and hemarthrosis (bleeding into the joint). Joint aspiration is necessary to make an accurate diagnosis and distinguish among these causes. Synovial fluid should be analyzed for cell count and differential, crystal examination, Gram stain, and culture."
+]
+},
+{
+"type":"p",
+"hlId":"b723ea",
+"children":[
+"Erythrocyte sedimentation rate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a blood test that indicates systemic inflammation. It may be elevated in any inflammatory process, including crystal-induced disease and infection, but does not distinguish between the two diagnoses."
+]
+},
+{
+"type":"p",
+"hlId":"33eb9a",
+"children":[
+"Radiography of the knee (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be a useful test but is not adequate to distinguish the cause of acute monoarthritis unless there is a history of trauma and fracture with hemarthrosis is suspected. This patient has no history of trauma."
+]
+},
+{
+"type":"p",
+"hlId":"1a5407",
+"children":[
+"Serum urate (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is not helpful for determining the cause of this patient's acute monoarthritis. Although an elevated level might increase clinical suspicion of gout as the cause, only knee aspiration with fluid analysis for cell count and crystals can determine the cause of the knee inflammation. The presence of sodium urate crystals in the synovial fluid polymorphonuclear cells is diagnostic for gout. Gout and infection may coexist, so aspiration would be indicated even if the serum urate level was elevated. Finally, even in patients with acute gout, serum urate level may be normal at the time of the flare. Thus, a normal serum urate level would not rule out gout as the cause of acute monoarthritis."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s1_3_1",
+"objective":{
+"__html":"Diagnose the cause of acute monoarthritis by using arthrocentesis."
+},
+"references":[
+[
+"Singh N, Vogelgesang SA. Monoarticular arthritis. Med Clin North Am. 2017;101:607-613. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28372716",
+"target":"_blank"
+},
+"children":[
+"PMID: 28372716"
+]
+},
+" doi:10.1016/j.mcna.2016.12.004"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":89,
+"B":3,
+"C":8,
+"D":1,
+"E":0
+},
+"hlIds":[
+"b64ff1",
+"89f592",
+"ab9d96",
+"ed8f11",
+"627c9b",
+"0fcf9d",
+"b723ea",
+"33eb9a",
+"1a5407"
+]
+}

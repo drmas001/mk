@@ -1,0 +1,318 @@
+{
+"id":"mk19_b_en_q053",
+"number":53,
+"bookId":"en",
+"correctAnswer":"A",
+"title":"Question 53",
+"stimulus":[
+{
+"type":"p",
+"hlId":"1f401a",
+"children":[
+"A 62-year-old woman is evaluated for management of type 2 diabetes mellitus. Her medical history is significant for hypertension. Medications are metformin, empagliflozin, atorvastatin, and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"f21421",
+"children":[
+"On physical examination, blood pressure is 130/80 mm Hg. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"1f45e8",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin A1c, blood",
+"children":[
+"hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+}
+]
+},
+" level of 7.0%, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration"
+]
+},
+" rate of 50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and a urine ",
+{
+"type":"reference-range-link",
+"referenceRange":"Albumin-creatinine ratio, urine",
+"children":[
+"albumin-to-creatinine"
+]
+},
+" ratio of 98 mg/g."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"765904",
+"children":[
+"Which of the following is the most appropriate next step in treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Start lisinopril"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Start verapamil"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Stop empagliflozin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Stop metformin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"b488b9",
+"children":[
+"An ACE inhibitor or angiotensin receptor blocker therapy is recommended in nonpregnant women with type 2 diabetes and hypertension with an estimated glomerular filtration of less than 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" or a urine albumin-to-creatinine ratio that exceeds 30 mg/g."
+]
+},
+{
+"type":"keypoint",
+"hlId":"e12caa",
+"children":[
+"For patients with type 2 diabetes mellitus and chronic kidney disease, use of a sodium-glucose cotransporter 2 inhibitor or glucagon-like peptide 1 receptor agonist reduces the risk for progression of chronic kidney disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c0f85d",
+"children":[
+"The most appropriate next step in management is to start lisinopril (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The American Diabetes Association (ADA) recommends an ACE inhibitor or an angiotensin receptor blocker (ARB) as first-line therapy to slow progression of diabetic kidney disease and to prevent cardiovascular disease in nonpregnant women with type 2 diabetes mellitus and a modestly elevated urine albumin-to-creatinine ratio (UACR) (30-299 mg/g). The ADA also strongly recommends this approach for patients with UACR 300 mg/g or greater or an estimated glomerular filtration rate (eGFR) less than 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". Treatment with an ACE inhibitor or ARB is not recommended for patients with type 2 diabetes who have normal blood pressure, UACR less than 30 mg/g, and eGFR level greater than 60 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+". This patient has a reduced eGFR (50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+") and a UACR of 98 mg/g and would benefit from the addition of an ACE inhibitor such as lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"8292f2",
+"children":[
+"Diltiazem and verapamil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), non-dihydropyridine calcium channel blockers, have a significant antiproteinuric effect and may be a reasonable therapeutic option for patients with diabetic kidney disease and persistent proteinuria despite maximum doses of ACE inhibitors or ARBs. Additionally, these agents may be reasonable alternatives to ACE inhibitors or ARBs if the patient has a contraindication or intolerance. In this patient, however, the initial drug class of choice to slow the progression of diabetic kidney disease is an ACE inhibitor or ARB."
+]
+},
+{
+"type":"p",
+"hlId":"9f617b",
+"children":[
+"Empagliflozin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") should be continued. For patients with type 2 diabetes and chronic kidney disease (CKD), the ADA recommends that physicians consider a sodium-glucose cotransporter 2 inhibitor (such as empagliflozin) or glucagon-like peptide 1 receptor agonist (such as liraglutide) to reduce risk for CKD progression and cardiovascular disease as part of the antihyperglycemic regimen."
+]
+},
+{
+"type":"p",
+"hlId":"0f8d30",
+"children":[
+"This patient has no indication to stop metformin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") or change the dosage because his eGFR is 50 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" and hemoglobin A",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1c"
+]
+},
+" is at goal. Metformin should be used with caution in patients with CKD because of the increased risk of lactic acidosis. Metformin is contraindicated at eGFR less than 30 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+", and clinicians should assess benefits and risks of continuing therapy if the eGFR is less than 45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+" during therapy."
+]
+}
+],
+"relatedSection":"mk19_b_en_s1_5_3",
+"objective":{
+"__html":"Treat diabetic kidney disease."
+},
+"references":[
+[
+"American Diabetes Association. 11. Microvascular complications and foot care: standards of medical care in diabetes-2021. Diabetes Care. 2021;44:S151-S167. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33298422",
+"target":"_blank"
+},
+"children":[
+"PMID: 33298422"
+]
+},
+" doi:10.2337/dc21-S011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":93,
+"B":1,
+"C":3,
+"D":4,
+"E":0
+},
+"hlIds":[
+"1f401a",
+"f21421",
+"1f45e8",
+"765904",
+"b488b9",
+"e12caa",
+"c0f85d",
+"8292f2",
+"9f617b",
+"0f8d30"
+]
+}

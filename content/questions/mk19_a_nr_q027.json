@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_nr_q027",
+"number":27,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 27",
+"stimulus":[
+{
+"type":"p",
+"hlId":"37b344",
+"children":[
+"A 72-year-old woman is hospitalized for an acute stroke; symptoms have been present for 24 hours. She has chronic hypertension. Current medications are amlodipine and hydrochlorothiazide."
+]
+},
+{
+"type":"p",
+"hlId":"2ff169",
+"children":[
+"On physical examination, temperature is normal and blood pressure is 136/78 mm Hg (decreased from 170/90 mm Hg at presentation); the remaining vital signs are normal. Oxygen saturation is 97% with the patient breathing ambient air. Left facial weakness, no movement in the left arm and leg, and decreased pinprick sensation on the left side are noted. Mental status is normal. A bedside swallow examination is positive for dysphagia. The patient is incontinent of urine."
+]
+},
+{
+"type":"p",
+"hlId":"330518",
+"children":[
+"CT scan of the head shows an acute intracerebral hemorrhage in the right thalamus, which has remained stable at 24 hours."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"e15e9d",
+"children":[
+"Which of the following is the most appropriate initial management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Early feeding"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Placement of bladder catheter"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Supplemental oxygen"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Venous thromboembolism prophylaxis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5776ef",
+"children":[
+"Patients with acute stroke, including patients with intracerebral hemorrhage, are at increased risk for venous thromboembolism."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b2479e",
+"children":[
+"Venous thromboembolism prevention should be initiated for patients with acute stroke on the day of hospital admission."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"943d9d",
+"children":[
+"The most appropriate management is venous thromboembolism (VTE) prophylaxis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Patients with acute stroke, including patients with intracerebral hemorrhage (ICH), are at increased risk for VTE. In patients with acute stroke, guidelines recommend intermittent pneumatic compression beginning the day of hospital admission. Intermittent pneumatic compression is superior to either knee-high or thigh-high compression stockings in the prevention of VTE. After 24 hours, if there is no evidence of hematoma expansion, then subcutaneous pharmacoprophylaxis (typically, low-molecular-weight heparin) is recommended for VTE prophylaxis."
+]
+},
+{
+"type":"p",
+"hlId":"481136",
+"children":[
+"Dysphagia is a common complication of stroke and is a major risk factor for developing aspiration pneumonia. A bedside water swallowing test is often a sufficient screening test for dysphagia until more sophisticated diagnostic testing, such as video fluoroscopy, can assess the severity of dysphagia. This patient should not begin oral feeding (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") following a positive bedside dysphagia screening test until further evaluation is completed."
+]
+},
+{
+"type":"p",
+"hlId":"22215d",
+"children":[
+"Routine placement of a bladder catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") in acutely ill hospitalized patients is not recommended. Indications for bladder catheterization have been established and include conditions such as acute or chronic urinary retention, treatment of significant pressure injury complicated by urinary incontinence, and need for hourly urine output measurements. This patient has no indication for bladder catheterization."
+]
+},
+{
+"type":"p",
+"hlId":"fa1643",
+"children":[
+"A 2018 systematic review found that supplemental oxygen (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") in patients with normal oxygen saturation as measured by pulse oximetry increases mortality in patients with stroke. The American Heart Association/American Stroke Association recommends oxygen to maintain an oxygen saturation of 94% or greater. Other guidelines recommend against starting oxygen therapy in patients at or above 93% saturation and discontinuing oxygen if saturation is at or above 96%. This patient has no indication for supplemental oxygen therapy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_7_2",
+"objective":{
+"__html":"Prevent deep venous thrombosis following acute stroke."
+},
+"references":[
+[
+"Schünemann HJ, Cushman M, Burnett AE, et al. American Society of Hematology 2018 guidelines for management of venous thromboembolism: prophylaxis for hospitalized and nonhospitalized medical patients. Blood Adv. 2018;2:3198-3225. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30482763",
+"target":"_blank"
+},
+"children":[
+"PMID: 30482763"
+]
+},
+" doi:10.1182/bloodadvances.2018022954"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":12,
+"B":16,
+"C":4,
+"D":67,
+"E":0
+},
+"hlIds":[
+"37b344",
+"2ff169",
+"330518",
+"e15e9d",
+"5776ef",
+"b2479e",
+"943d9d",
+"481136",
+"22215d",
+"fa1643"
+]
+}

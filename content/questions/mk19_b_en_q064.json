@@ -1,0 +1,319 @@
+{
+"id":"mk19_b_en_q064",
+"number":64,
+"bookId":"en",
+"correctAnswer":"C",
+"title":"Question 64",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a03e42",
+"children":[
+"A 59-year-old man is evaluated for a 3-day history of palpitations and a 2.2-kg (5.0-lb) weight loss during the past 3 months."
+]
+},
+{
+"type":"p",
+"hlId":"a8a5be",
+"children":[
+"On physical examination, pulse rate is 105/min. A 3-cm right upper pole thyroid nodule is firm and mobile. Other than tachycardia, the remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"f3b8c5",
+"children":[
+"Laboratory studies show a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroid-stimulating hormone (TSH)",
+"children":[
+"thyroid-stimulating hormone"
+]
+},
+" level of less than 0.01 μU/mL (0.01 mU/L) and a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Thyroxine (T4), free",
+"children":[
+"free thyroxine"
+]
+},
+" level of 2.5 ng/dL (32.0 pmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"25e486",
+"children":[
+"ECG shows sinus rhythm. Atenolol is initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"2eb226",
+"children":[
+"Which of the following is the most appropriate diagnostic test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Fine-needle aspiration biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Neck CT with contrast"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Thyroid scintigraphy with radioactive iodine uptake"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Total triiodothyronine measurement"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"afcc35",
+"children":[
+"Patients with thyroid nodules and a suppressed thyroid-stimulating hormone level should be evaluated with thyroid scintigraphy with radioactive iodine uptake."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ef3a2b",
+"children":[
+"Thyroid ultrasonography with survey of the cervical lymph nodes should be performed in all patients with known or suspected thyroid nodules with normal thyroid-stimulating hormone."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"cd4dc1",
+"children":[
+"Patients with thyroid nodules and a suppressed thyroid-stimulating hormone (TSH) level should be evaluated with thyroid scintigraphy with radioactive iodine uptake (RAIU) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). A radioactive isotope, preferably iodine 123 (",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"123"
+]
+},
+"I), is administered and the percentage taken up by the thyroid is calculated (RAIU); then an image is obtained. Autonomously functioning (“hot”) nodules concentrate radioactive iodine to a greater extent than normal thyroid tissue. This patient has a thyroid nodule associated with thyrotoxicosis. Overt hyperthyroidism is diagnosed by the suppressed TSH and elevated thyroxine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+") or triiodothyronine (T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+") levels. Both overt and subclinical hyperthyroidism are associated with an increased risk for atrial fibrillation and cardiovascular events. Thyroid ultrasonography with survey of the cervical lymph nodes should be performed in all patients with known or suspected thyroid nodules. This population includes the subset of patients with low serum TSH levels who have undergone radionuclide thyroid scintigraphy suggesting nodularity, to evaluate both the presence of nodules concordant with the hyperfunctioning areas on the scan, which do not require fine-needle aspiration biopsy (FNAB), as well as other nonfunctioning nodules that meet sonographic criteria for FNAB."
+]
+},
+{
+"type":"p",
+"hlId":"d3b73f",
+"children":[
+"FNAB (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is not the most appropriate diagnostic test. The initial evaluation of a thyroid nodule begins with measuring serum TSH. Suppression of TSH may indicate the presence of an autonomously functioning thyroid nodule that can be confirmed with thyroid scintigraphy with RAIU. Autonomously functioning thyroid nodules have very low risk for malignancy and do not require FNAB."
+]
+},
+{
+"type":"p",
+"hlId":"2f8b0e",
+"children":[
+"Administering a neck CT with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may worsen thyrotoxicosis by providing additional iodine in the synthesis of thyroid hormone. Following thyroid scintigraphy with RAIU, ultrasonography is the preferred imaging modality for the neck and thyroid."
+]
+},
+{
+"type":"p",
+"hlId":"7a81cf",
+"children":[
+"Total T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" measurement (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is recommended in three settings: (1) in evaluation of thyrotoxicosis to identify isolated T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" toxicosis, (2) to assess the severity of hyperthyroidism and response to therapy, and (3) to potentially differentiate hyperthyroidism from destructive thyroiditis. In T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+" toxicosis, the T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+"-to-T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" ratio is often greater than 20 because of preferential secretion of T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"3"
+]
+},
+". In this patient, the free T",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"4"
+]
+},
+" is unequivocally elevated, confirming thyrotoxicosis."
+]
+}
+],
+"relatedSection":"mk19_b_en_s4_3_1",
+"objective":{
+"__html":"Diagnose an autonomously functioning thyroid nodule."
+},
+"references":[
+[
+"Haugen BR, Alexander EK, Bible KC, et al. 2015 American Thyroid Association management guidelines for adult patients with thyroid nodules and differentiated thyroid cancer: the American Thyroid Association Guidelines Task Force on Thyroid Nodules and Differentiated Thyroid Cancer. Thyroid. 2016;26:1-133. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26462967",
+"target":"_blank"
+},
+"children":[
+"PMID: 26462967"
+]
+},
+" doi:10.1089/thy.2015.0020"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":19,
+"B":1,
+"C":72,
+"D":8,
+"E":0
+},
+"hlIds":[
+"a03e42",
+"a8a5be",
+"f3b8c5",
+"25e486",
+"2eb226",
+"afcc35",
+"ef3a2b",
+"cd4dc1",
+"d3b73f",
+"2f8b0e",
+"7a81cf"
+]
+}

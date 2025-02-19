@@ -1,0 +1,211 @@
+{
+"id":"mk19_b_gm_q056",
+"number":56,
+"bookId":"gm2",
+"correctAnswer":"C",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cd3854",
+"children":[
+"A 76-year-old woman is seen for a preoperative medical evaluation before elective cholecystectomy. Medical history is significant for nonvalvular atrial fibrillation, hypertension, and diabetes mellitus. Medications are warfarin, metoprolol, and metformin."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1ccb56",
+"children":[
+"Which of the following is the most appropriate perioperative management of this patient's warfarin?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Withhold warfarin 2 days prior to surgery; restart 2 days after surgery"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Withhold warfarin 5 days prior to surgery; bridge with low-molecular-weight heparin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Withhold warfarin 5 days prior to surgery; restart 12 hours after surgery"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Withhold warfarin 5 days prior to surgery; restart 5 days after surgery"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a6d3ac",
+"children":[
+"In patients undergoing major surgery, warfarin should be withheld a minimum of 5 days before surgery to normalize the INR."
+]
+},
+{
+"type":"keypoint",
+"hlId":"c8f6b0",
+"children":[
+"In patients on chronic warfarin therapy, warfarin should be restarted within 12 to 24 hours of surgery, pending adequate hemostasis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"c6b2ad",
+"children":[
+"The most appropriate perioperative management of this patient's warfarin is to withhold warfarin 5 days prior to surgery and to restart in 12 to 24 hours after surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Warfarin should be withheld a minimum of 5 days before surgery to normalize the patient's INR. The timing of warfarin discontinuation is based on its 36- to 42-hour half-life and clinical studies documenting the time for the INR to return to normal following discontinuation. In general, 2 to 3 days are required for the INR to drop below 2 and 4 to 6 days for the INR to normalize. Some physicians obtain an INR on day 4 and intervene with vitamin K supplementation if necessary for persistently elevated INRs. Postoperative re-initiation of anticoagulation should be guided by the patient's thrombotic and bleeding risk and determined in collaboration with the surgical team. Owing to its delayed effect, the first dose of warfarin is typically administered 12 to 24 hours after surgery, pending adequate hemostasis and barring any surgical complications that may increase the risk for bleeding. It usually takes 5 to 6 days to achieve a therapeutic INR."
+]
+},
+{
+"type":"p",
+"hlId":"540bb0",
+"children":[
+"Withholding warfarin for only 2 days prior to surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") increases the risk for surgical bleeding owing to the long half-life of warfarin. Many patients would have an INR of approximately 2 following only 2 days of warfarin discontinuation. Starting warfarin 2 or 5 days after surgery (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is unnecessarily delayed, considering 5 to 6 days are required for full anticoagulation."
+]
+},
+{
+"type":"p",
+"hlId":"e080ff",
+"children":[
+"Withholding warfarin for 5 days and bridging with low-molecular-weight heparin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated because this may increase bleeding risk without offering any additional antithrombotic benefits in the perioperative period. This patient has a CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score of 5 (female, hypertension, diabetes mellitus, age) without additional risk factors for bleeding and is at moderate to high risk for stroke with atrial fibrillation over the long term (7.2%-10% annually). Bridging can be considered for patients at highest risk for devastating thromboembolic disease (recent pulmonary embolism, prior stroke, high-thrombotic-risk mechanical heart valve, CHA",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"DS",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-VASc score ≥7)."
+]
+}
+],
+"relatedSection":"mk19_b_gm_s4_4_2",
+"objective":{
+"__html":"Manage warfarin anticoagulation in the perioperative period."
+},
+"references":[
+[
+"Lip GY, Banerjee A, Boriani G, et al. Antithrombotic therapy for atrial fibrillation: CHEST guideline and expert panel report. Chest. 2018;154:1121-201. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30144419",
+"target":"_blank"
+},
+"children":[
+"PMID: 30144419"
+]
+},
+" doi:10.1016/j.chest.2018.07.040"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":38,
+"C":48,
+"D":4,
+"E":0
+},
+"hlIds":[
+"cd3854",
+"1ccb56",
+"a6d3ac",
+"c8f6b0",
+"c6b2ad",
+"540bb0",
+"e080ff"
+]
+}

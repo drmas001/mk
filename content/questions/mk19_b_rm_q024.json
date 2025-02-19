@@ -1,0 +1,245 @@
+{
+"id":"mk19_b_rm_q024",
+"number":24,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"65c3a3",
+"children":[
+"A 66-year-old woman is evaluated for a 10-year history of pain in the hands and knees. She has tried occupational therapy, with minimal benefit; she is enrolled in a weight loss program. She has hypertension and chronic kidney disease. Current medications are lisinopril and amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"d05ce7",
+"children":[
+"On physical examination, Heberden and Bouchard nodes are present and there is carpometacarpal joint tenderness. The medial joint line of each knee is tender to palpation. There is bony enlargement of the medial knees, with crepitus on range of motion."
+]
+},
+{
+"type":"p",
+"hlId":"133b9a",
+"children":[
+"Laboratory evaluation shows a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Creatinine, serum",
+"children":[
+"serum creatinine"
+]
+},
+" level of 2.2 mg/dL (194.5 μmol/L) and an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Glomerular filtration rate (GFR), urine",
+"children":[
+"estimated glomerular filtration rate"
+]
+},
+" of 45 mL/min/1.73 m",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hydrocodone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Meloxicam"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Topical capsaicin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Topical diclofenac"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Topical lidocaine"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"967009",
+"children":[
+"Topical NSAIDs are safe and effective for treatment of knee and hand osteoarthritis and should be considered before oral NSAIDs."
+]
+},
+{
+"type":"keypoint",
+"hlId":"0f5c9f",
+"children":[
+"Oral NSAIDs are recommended for the treatment of hand, knee, and hip osteoarthritis but should be avoided in patients with comorbidities, such as peptic ulcer disease, cardiovascular disease, and chronic kidney disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"258de0",
+"children":[
+"The most appropriate treatment is topical diclofenac (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Topical NSAIDs, such as diclofenac, are safe and effective for treatment of knee and hand osteoarthritis (OA). For OA in those locations, the 2019 American College of Rheumatology (ACR)/Arthritis Foundation (AF) guideline suggests that topical NSAIDs should be considered before oral NSAIDs because of fewer safety concerns. Topical NSAIDs are not effective for hip OA and have limited efficacy in OA of other sites."
+]
+},
+{
+"type":"p",
+"hlId":"1a9118",
+"children":[
+"There is minimal benefit of opioid therapy, including hydrocodone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), for chronic pain control in patients with OA. Opioids pose a high risk for toxicity and dependence and should not be used to treat OA."
+]
+},
+{
+"type":"p",
+"hlId":"cc794a",
+"children":[
+"Oral NSAIDs, such as meloxicam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), are an ACR/AF guideline–recommended first-line treatment for hand, knee, and hip OA. However, they should be used cautiously in patients older than age 50 years and avoided in those with comorbidities, such as a history of peptic ulcer disease or gastrointestinal bleeding, and in patients with hypertension, cardiovascular disease, or chronic kidney disease, as in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"232ef3",
+"children":[
+"The ACR/AF guideline conditionally recommends topical capsaicin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") for patients with knee OA and conditionally recommends against topical capsaicin in patients with hand OA. The guideline notes limited data supporting the efficacy of topical capsaicin for knee OA. No direct evidence supports topical capsaicin in the treatment of hand OA, and eye contamination is possible when it is used on the hands."
+]
+},
+{
+"type":"p",
+"hlId":"dc1ee9",
+"children":[
+"Other topical agents are available, such as lidocaine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") and methyl salicylate preparations, but they are not as well studied or as efficacious as topical NSAIDs. They may be used as adjunctive measures."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s4_6_2_1",
+"objective":{
+"__html":"Treat osteoarthritis of the knees and hands with a topical NSAID."
+},
+"references":[
+[
+"Kolasinski SL, Neogi T, Hochberg MC, et al. 2019 American College of Rheumatology/Arthritis Foundation guideline for the management of osteoarthritis of the hand, hip, and knee. Arthritis Rheumatol. 2020;72:220-233. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31908163",
+"target":"_blank"
+},
+"children":[
+"PMID: 31908163"
+]
+},
+" doi:10.1002/art.41142"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":13,
+"D":75,
+"E":3
+},
+"hlIds":[
+"65c3a3",
+"d05ce7",
+"133b9a",
+"1054f1",
+"967009",
+"0f5c9f",
+"258de0",
+"1a9118",
+"cc794a",
+"232ef3",
+"dc1ee9"
+]
+}

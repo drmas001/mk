@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gm_q060",
+"number":60,
+"bookId":"gm",
+"correctAnswer":"C",
+"title":"Question 60",
+"stimulus":[
+{
+"type":"p",
+"hlId":"cce20d",
+"children":[
+"A 42-year-old man is seen for a routine evaluation. Medical history is unremarkable. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"07fc4f",
+"children":[
+"On physical examination, vital signs are normal. BMI is 35. The remainder of the physical examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"3a4785",
+"children":[
+"Laboratory studies reveal an LDL cholesterol level of 128 mg/dL (3.32 mmol/L) and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Triglycerides",
+"children":[
+"triglyceride"
+]
+},
+" level of 348 mg/dL (3.93 mmol/L)."
+]
+},
+{
+"type":"p",
+"hlId":"e8b7f5",
+"children":[
+"His 10-year risk for atherosclerotic cardiovascular disease based on the Pooled Cohort Equations is 2.4%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiate fibrate therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Initiate statin therapy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Recommend lifestyle interventions"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Recommend omega-3 fatty acid supplements"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"310237",
+"children":[
+"Management of elevated triglyceride levels includes addressing lifestyle factors (obesity and metabolic syndrome); managing secondary factors (diabetes mellitus, chronic liver or kidney disease and/or nephrotic syndrome, hypothyroidism); and avoiding medications that increase triglyceride levels (estrogens, β-blockers, glucocorticoids)."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6b5903",
+"children":[
+"The most appropriate management of this patient with moderate hypertriglyceridemia (fasting triglyceride level of 150-499 mg/dL [1.69-5.64 mmol/L] or nonfasting triglyceride level of 175-499 mg/dL [1.98-5.65 mmol/L]) is therapeutic lifestyle modification (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). The American College of Cardiology Expert Consensus Decision Pathway recommends that moderate hypertriglyceridemia be initially treated by addressing lifestyle factors (obesity, metabolic syndrome); reducing dietary intake of added sugar and total fat; restricting or abstaining from alcohol; managing secondary factors (diabetes mellitus, chronic liver or kidney disease and/or nephrotic syndrome, hypothyroidism); and avoiding medications that increase triglyceride levels (estrogens, β-blockers, glucocorticoids). In addition to adhering to a low-calorie diet to achieve a 5% to 10% weight loss, this patient should engage in physical activity. The AHA/ACC primary prevention guideline recommends at least 150 min/wk of accumulated moderate-intensity physical activity or 75 minutes per week of vigorous-intensity aerobic physical activity (or an equivalent combination of moderate and vigorous activity) to reduce risk for atherosclerotic cardiovascular disease (ASCVD)."
+]
+},
+{
+"type":"p",
+"hlId":"543cfb",
+"children":[
+"Fibrate therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be considered for patients with a triglyceride level higher than 500 mg/dL (5.65 mmol/L). Fibrates (preferably fenofibrate) are effective at decreasing triglyceride levels by 50% or more; however, these drugs are associated with muscle toxicity and multiple drug interactions."
+]
+},
+{
+"type":"p",
+"hlId":"a18082",
+"children":[
+"Statin therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is reasonable in patients with moderate hypertriglyceridemia and an ASCVD risk of 5% to less than 20%, even in the absence of other known risk factors or with concurrent initiation of lifestyle interventions. Statin therapy is recommended in patients with moderate hypertriglyceridemia that has not responded to lifestyle modification alone and whose ASCVD risk is 20% or higher."
+]
+},
+{
+"type":"p",
+"hlId":"af35e8",
+"children":[
+"Evidence of a beneficial effect for omega-3 fatty acid supplements (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") other than icosapent ethyl is lacking. Icosapent ethyl is a highly purified eicosapentaenoic acid ethyl ester (fish oil). In patients with moderate hypertriglyceridemia and ASCVD and in patients aged 50 years or older with hypertriglyceridemia, diabetes, and one additional ASCVD risk factor, treatment with a statin and icosapent ethyl may be considered to reduce the composite end point of cardiovascular death, nonfatal myocardial infarction, nonfatal stroke, coronary revascularization, and unstable angina. This patient does not fall into one of the two high-risk groups that benefited from treatment with icosapent ethyl and statin therapy."
+]
+}
+],
+"relatedSection":"mk19_a_gm_s8_2_3",
+"objective":{
+"__html":"Treat hypertriglyceridemia with therapeutic lifestyle interventions."
+},
+"references":[
+[
+"Virani SS, Morris PB, Agarwala A, et al. 2021 ACC expert consensus decision pathway on the management of ASCVD risk reduction in patients with persistent hypertriglyceridemia: A report of the American College of Cardiology solution set oversight committee. J Am Coll Cardiol. 2021;78:960-993. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34332805",
+"target":"_blank"
+},
+"children":[
+"PMID: 34332805"
+]
+},
+" doi:10.1016/j.jacc.2021.06.011"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":5,
+"B":4,
+"C":91,
+"D":1,
+"E":0
+},
+"hlIds":[
+"cce20d",
+"07fc4f",
+"3a4785",
+"e8b7f5",
+"cb2b54",
+"310237",
+"6b5903",
+"543cfb",
+"a18082",
+"af35e8"
+]
+}

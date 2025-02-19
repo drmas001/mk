@@ -1,0 +1,233 @@
+{
+"id":"mk19_a_np_q086",
+"number":86,
+"bookId":"np",
+"correctAnswer":"D",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"099370",
+"children":[
+"A 27-year-old man is evaluated in the ICU for septic shock. For the past 3 months, he has received dialysis for end-stage kidney disease with a tunneled catheter because his arteriovenous fistula has not matured for use. He reports a 1-day history of fever and malaise."
+]
+},
+{
+"type":"p",
+"hlId":"77c59f",
+"children":[
+"On physical examination, temperature is 38.5 °C (101.3 °F), blood pressure is 90/50 mm Hg, pulse rate is 89/min, and respiration rate is 22/min. A right internal jugular tunneled hemodialysis catheter is in place with no erythema or discharge at the exit site. A normal-appearing and functioning left arteriovenous fistula is present. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"5c60c5",
+"children":[
+"Blood and urine cultures are obtained."
+]
+},
+{
+"type":"p",
+"hlId":"671988",
+"children":[
+"Cefepime and vancomycin are initiated, repeated fluid boluses are administered, and intravenous norepinephrine is started."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1e31fb",
+"children":[
+"Which of the following is the most appropriate additional management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Antibiotic lock therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Arteriovenous fistula excision"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Exchange the tunneled catheter"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Remove the tunneled catheter"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a5f421",
+"children":[
+"Tunneled catheters should be removed immediately for severe sepsis, evidence of metastatic infection, evidence of an exit-site or tunnel infection, persistent fever, or bacteremia despite administration of antibiotics."
+]
+},
+{
+"type":"keypoint",
+"hlId":"248374",
+"children":[
+"Antibiotic lock therapy with vancomycin and/or ceftazidime is an alternative option to treat catheter-related bloodstream infections in stable patients with less virulent organisms such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus epidermitis"
+]
+},
+"."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"bb7a87",
+"children":[
+"The most appropriate additional management is to remove the tunneled hemodialysis catheter (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Infection is the second leading cause of death in patients with end-stage kidney disease (ESKD). Patients are at increased risk due to a relatively immunosuppressed state from chronic inflammation and frequent exposure to the health care environment. Tunneled dialysis catheters increase the risk for bacteremia, and empiric antibiotics should be administered while awaiting blood culture results in patients with suspected bacteremia. Tunneled catheters should be removed immediately for severe sepsis, evidence of metastatic infection, evidence of an exit-site or tunnel infection, persistent fever, or bacteremia despite administration of antibiotics."
+]
+},
+{
+"type":"p",
+"hlId":"44eae4",
+"children":[
+"Antibiotic lock therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") consists of the instillation of a highly concentrated antibiotic solution into an intravascular catheter lumen to treat catheter-related bloodstream infections. Antibiotic lock therapy with vancomycin and/or ceftazidime is an alternative option for stable patients with less virulent organisms such as ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus epidermitis"
+]
+},
+", but catheter salvage should not be attempted for patients with severe sepsis, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" infections, and some gram-negative organisms."
+]
+},
+{
+"type":"p",
+"hlId":"b82fd1",
+"children":[
+"Arteriovenous fistula (AVF) excision (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not indicated. Hemodialysis arm-access sites have a lower risk for infection than do catheters; AVFs have the lowest risk compared with arteriovenous grafts. This patient has no evidence of an AVF-related infection, nor is it expected, as his AVF has not yet been used for dialysis."
+]
+},
+{
+"type":"p",
+"hlId":"3d25f5",
+"children":[
+"Exchange of the catheter over a guidewire (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") may be an option for clinically stable patients without a tunnel infection or for patients who clear the bacteremia within 48 hours of antibiotic administration. This patient meets none of these indications for catheter exchange."
+]
+}
+],
+"relatedSection":"mk19_a_np_s12_9_3_2",
+"objective":{
+"__html":"Manage hemodialysis line–related sepsis."
+},
+"references":[
+[
+"Johns TS, Mokrzycki MH. Optimal approach for the diagnosis of hemodialysis catheter-related bacteremia [Editorial]. Clin J Am Soc Nephrol. 2016;11:756-758. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/27037273",
+"target":"_blank"
+},
+"children":[
+"PMID: 27037273"
+]
+},
+" doi:10.2215/CJN.02910316"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":18,
+"B":1,
+"C":15,
+"D":66,
+"E":0
+},
+"hlIds":[
+"099370",
+"77c59f",
+"5c60c5",
+"671988",
+"1e31fb",
+"a5f421",
+"248374",
+"bb7a87",
+"44eae4",
+"b82fd1",
+"3d25f5"
+]
+}

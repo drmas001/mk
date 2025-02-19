@@ -1,0 +1,219 @@
+{
+"id":"mk19_b_rm_q022",
+"number":22,
+"bookId":"rm",
+"correctAnswer":"D",
+"title":"Question 22",
+"stimulus":[
+{
+"type":"p",
+"hlId":"78f2fa",
+"children":[
+"A 35-year-old woman is evaluated in the emergency department for sudden vision loss in the left eye. Two years ago, she had developed intermittent fever, myalgia, and chronic fatigue. She reports recent postprandial abdominal pain and effort-related left arm pain."
+]
+},
+{
+"type":"p",
+"hlId":"904632",
+"children":[
+"On physical examination, blood pressure is 160/100 mm Hg in the left arm and 130/80 mm Hg in the right arm. Pulse rate is 88/min. Radial pulse in the left arm is absent; left-sided subclavian bruit is present."
+]
+},
+{
+"type":"p",
+"hlId":"218e74",
+"children":[
+"Laboratory studies reveal an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 76 mm/h and a blood ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"hemoglobin"
+]
+},
+" level of 9.2 g/dL (92 g/L)."
+]
+},
+{
+"type":"p",
+"hlId":"167064",
+"children":[
+"Magnetic resonance angiogram of the chest and abdomen shows focal luminal narrowing in several areas, including the ascending aorta, left subclavian artery, superior mesenteric artery, and right renal artery."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Cryoglobulinemic vasculitis"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Giant cell arteritis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Polyarteritis nodosa"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Takayasu arteritis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"73ecd5",
+"children":[
+"Takayasu arteritis is a rare large-vessel vasculitis causing inflammation and subsequent stenoses in the large arteries, including the aorta and its branches."
+]
+},
+{
+"type":"keypoint",
+"hlId":"d08ceb",
+"children":[
+"Manifestations of Takayasu arteritis can include limb ischemia and associated diminished (or absent) pulses, mesenteric ischemia, and hypertension due to renal artery stenosis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"621138",
+"children":[
+"The most likely diagnosis is Takayasu arteritis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). This rare large-vessel vasculitis disproportionately affects young women and is much more common in East Asia (prevalence is 40/million in Japan and up to 8/million elsewhere). Onset is usually indolent, with nonspecific symptoms and signs presenting months to years before onset of frank vasculitis. The disease causes inflammation and subsequent stenoses in the large arteries, including the aorta and its branches. Manifestations can include limb ischemia and associated diminished (or absent) pulses, mesenteric ischemia, and hypertension due to renal artery stenosis. Clues on examination include bruits over large vessels, absent pulses, discrepancy in blood pressure between limbs, and hypertension. Laboratory findings indicate active systemic inflammation but are not diagnostic. Imaging of the aorta and its branches is diagnostic; biopsy of an involved vessel is not feasible. Thirty percent of patients can present with ocular involvement, much of which is attributed to Takayasu retinopathy and hypertensive retinopathy."
+]
+},
+{
+"type":"p",
+"hlId":"44f974",
+"children":[
+"This patient does not have the cutaneous features (palpable purpura, digital ischemia, ulcers, necrosis, livedo reticularis) that are the most common symptoms of cryoglobulinemic vasculitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), seen in more than 90% of patients. Other common manifestations include peripheral neuropathy and glomerulonephritis."
+]
+},
+{
+"type":"p",
+"hlId":"e37df1",
+"children":[
+"Giant cell arteritis (GCA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is not present. Nearly all patients with GCA are older than 50 years. Absent pulses are typical in Takayasu arteritis but do not occur in GCA. In addition, GCA rarely affects the descending aorta and its branches; thus, renovascular hypertension from renal artery stenosis and mesenteric ischemia are not manifestations of GCA."
+]
+},
+{
+"type":"p",
+"hlId":"3a3183",
+"children":[
+"This patient's findings do not suggest polyarteritis nodosa (PAN) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Although PAN can cause renal artery stenosis leading to hypertension, as well as mesenteric ischemia, it affects medium-sized vessels and so would not involve the subclavian artery. In addition, the most common manifestations of PAN are cutaneous findings (such as palpable purpura) and neurologic involvement. Roughly 70% of patients with PAN have neurologic disease, most commonly manifesting as mononeuritis multiplex. Unlike in Takayasu arteritis, pulselessness is not characteristic of PAN."
+]
+}
+],
+"relatedSection":"mk19_b_rm_s14_2_3_2",
+"objective":{
+"__html":"Diagnose Takayasu arteritis."
+},
+"references":[
+[
+"Keser G, Aksu K. Diagnosis and differential diagnosis of large-vessel vasculitides. Rheumatol Int. 2019;39:169-185. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30221327",
+"target":"_blank"
+},
+"children":[
+"PMID: 30221327"
+]
+},
+" doi:10.1007/s00296-018-4157-3"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":1,
+"B":11,
+"C":15,
+"D":73,
+"E":0
+},
+"hlIds":[
+"78f2fa",
+"904632",
+"218e74",
+"167064",
+"413696",
+"73ecd5",
+"d08ceb",
+"621138",
+"44f974",
+"e37df1",
+"3a3183"
+]
+}

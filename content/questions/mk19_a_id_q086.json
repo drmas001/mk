@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_id_q086",
+"number":86,
+"bookId":"id",
+"correctAnswer":"B",
+"title":"Question 86",
+"stimulus":[
+{
+"type":"p",
+"hlId":"191f80",
+"children":[
+"A 36-year-old man is evaluated for fatigue, headache, myalgia, arthralgia, and sore throat of 2 days' duration. He is also seeking HIV pre-exposure prophylaxis initiation. He has had multiple male and female sexual partners, with rare condom use. His last sexual encounter was approximately 2 weeks ago. He takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"a1f01c",
+"children":[
+"On physical examination, vital signs are normal. Examination of the head and neck reveals anterior cervical and occipital lymphadenopathy; the remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"bc670d",
+"children":[
+"Laboratory testing shows a negative fourth-generation HIV-1/2 antigen/antibody combination immunoassay and negative serum rapid plasma reagin test."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Check absolute CD4 cell count"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Perform HIV-1 RNA nucleic acid amplification testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Start tenofovir-emtricitabine"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Start tenofovir-emtricitabine plus dolutegravir"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5abdab",
+"children":[
+"In patients presenting with symptoms worrisome for acute HIV infection but with negative HIV p24 antigen and HIV-1/HIV-2 antibody detection tests, HIV-1 RNA nucleic acid amplification testing should be performed to confirm the diagnosis."
+]
+},
+{
+"type":"keypoint",
+"hlId":"def9c8",
+"children":[
+"HIV infection must be ruled out before starting pre-exposure prophylaxis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5f5de4",
+"children":[
+"The most appropriate next step in management would be to perform HIV-1 RNA nucleic acid amplification testing (NAAT) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). The patient's symptoms are worrisome for acute retroviral syndrome, and acute HIV infection must be ruled out before proceeding with pre-exposure prophylaxis (PrEP). The HIV p24 antigen and HIV-1/HIV-2 antibody detection tests have significantly reduced the window period (time from exposure to positive screening test) from previous tests. However, in the setting of acute retroviral syndrome, screening tests could be negative if performed too early in the course of infection. With his symptoms of fatigue, body aches, and sore throat and findings of lymphadenopathy, which could be related to acute retroviral syndrome, the most appropriate testing following the negative HIV antigen/antibody combination assay would be HIV-1 RNA NAAT."
+]
+},
+{
+"type":"p",
+"hlId":"b04d29",
+"children":[
+"If the HIV-1 RNA is positive, further evaluation will be needed, including testing for baseline CD4 cell count and other co-infections (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). However, assessing this patient's CD4 cell count without confirming the diagnosis of HIV infection does not provide benefit and should be avoided."
+]
+},
+{
+"type":"p",
+"hlId":"834529",
+"children":[
+"Considering he is in a high-risk group for HIV acquisition, this patient would certainly benefit from HIV pre-exposure prophylaxis with tenofovir-emtricitabine (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). However, acute HIV infection must be ruled out first. If an alternate explanation is found, he can start HIV pre-exposure prophylaxis, with follow-up HIV testing (fourth-generation HIV-1/2 antigen/antibody testing at least every 3 months) as recommended by the CDC guidelines."
+]
+},
+{
+"type":"p",
+"hlId":"22584b",
+"children":[
+"Starting antiretroviral therapy with tenofovir-emtricitabine plus dolutegravir without testing HIV-1 RNA to confirm acute HIV infection exposes the patient to unnecessary toxicity from these antiretroviral agents (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Likewise, this combination of antiretroviral agents cannot be administered as a postexposure prophylaxis regimen because his last potential exposure was 2 weeks ago; postexposure prophylaxis is not recommended if more than 72 hours have passed."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_2",
+"objective":{
+"__html":"Diagnose acute retroviral syndrome in a patient at risk for HIV infection."
+},
+"references":[
+[
+"Hurt CB, Nelson JAE, Hightow-Weidman LB, et al. Selecting an HIV test: A narrative review for clinicians and researchers. Sex Transm Dis. 2017;44:739-746. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29140890",
+"target":"_blank"
+},
+"children":[
+"PMID: 29140890"
+]
+},
+" doi:10.1097/OLQ.0000000000000719"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":68,
+"C":20,
+"D":8,
+"E":0
+},
+"hlIds":[
+"191f80",
+"a1f01c",
+"bc670d",
+"cb2b54",
+"5abdab",
+"def9c8",
+"5f5de4",
+"b04d29",
+"834529",
+"22584b"
+]
+}

@@ -1,0 +1,119 @@
+{
+"id":"vdx4_cv_q038",
+"number":38,
+"bookId":"vdx_cv",
+"correctAnswer":"D",
+"title":"Question 38",
+"stimulus":[
+{
+"type":"p",
+"hlId":"300151",
+"children":[
+"A 25-year-old woman is evaluated for a “racing heart” sensation."
+]
+},
+{
+"type":"p",
+"hlId":"4a9f79",
+"children":[
+"ECG is ",
+{
+"type":"figure-link",
+"target":"vdx4_cv_mcq_f038",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"vdx4_cv_mcq_f038"
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrial tachycardia"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Atrioventricular nodal reentrant tachycardia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Atrioventricular reciprocating tachycardia"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Sinus tachycardia"
+}
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"144525",
+"children":[
+"The most likely diagnosis is sinus tachycardia. This ECG demonstrates sinus tachycardia, defined as a sinus rhythm (a normal P-wave axis with an upright P wave in lead II and a constant PR interval) with a heart rate of 100/min or faster. The consistent and normal P wave morphology makes the other answer options less likely."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_4",
+"objective":{
+"__html":"Identify sinus tachycardia on ECG."
+},
+"references":[
+
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"figuresContent":{
+"vdx4_cv_mcq_f038":{
+"id":"vdx4_cv_mcq_f038",
+"number":38,
+"bookId":"vdx_cv",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"4e499346a537ca5d7039e98e062cef55",
+"height":419,
+"width":900,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"300151",
+"4a9f79",
+"413696",
+"144525"
+]
+}

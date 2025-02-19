@@ -1,0 +1,219 @@
+{
+"id":"mk19_a_nr_q021",
+"number":21,
+"bookId":"nr",
+"correctAnswer":"B",
+"title":"Question 21",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5c1339",
+"children":[
+"A 56-year-old woman is evaluated for changes in her voice. Over the past year her voice has become strained and strangled, and she has had problems with expressing certain consonants. She reports no pain or shortness of breath but has intermittent tightness in her throat. She notes no other symptoms or medical problems and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"06c5d5",
+"children":[
+"On physical examination, vital signs are normal. Her voice is hoarse, and she speaks with a strained and pressured voice disrupted by sudden pauses, but she can sing without any problems. The remainder of the neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"42516a",
+"children":[
+"Video laryngoscopy reveals slow, sustained, and nonrhythmic pulling of vocal cords toward midline with intermittent relaxations."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Chorea"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dystonia"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Functional disorder"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Myoclonus"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Tic"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"0a57a8",
+"children":[
+"Dystonia is characterized by sustained or intermittent muscle contractions that are slow, repetitive, and directional."
+]
+},
+{
+"type":"keypoint",
+"hlId":"aa4310",
+"children":[
+"Dystonia can be generalized or focal and can involve isolated body parts, such as the vocal cords, face, or neck."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6c2cec",
+"children":[
+"The most likely diagnosis is dystonia (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has focal dystonia of the vocal cords, also known as laryngeal dystonia or vocal cord spasmodic dysphonia. Dystonia is characterized by sustained or intermittent muscle contractions that are slow, repetitive, and directional. It can be generalized or focal and can involve isolated body parts, such as the vocal cords, face, or neck. In this patient, persistent worsening of movements with certain sounds, resolution of spasms with different tasks (such as singing), and direct observation of slow and sustained pulling of vocal cords support a diagnosis of dystonia."
+]
+},
+{
+"type":"p",
+"hlId":"e939e0",
+"children":[
+"Chorea (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is characterized by random flowing movements. Sustained and patterned movements on direct observation and isolated involvement of vocal cords do not support a diagnosis of chorea."
+]
+},
+{
+"type":"p",
+"hlId":"24f457",
+"children":[
+"Functional disorders (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") can present with variability, distractibility, and inconsistency with organic disorders. This patient's symptoms are not variable or inconsistent, and observation of involuntary movements of vocal cords in a pattern typical for dystonia rules out functional disorder. Dystonia is sometimes misdiagnosed as a functional disorder because of clinical features, such as task dependency or sensory tricks (difficulty speaking but ability to sing and movement or touch that interrupts dystonia, also known as geste antagoniste)."
+]
+},
+{
+"type":"p",
+"hlId":"c2171c",
+"children":[
+"Myoclonus (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is characterized by fast jerky movements that can involve various body parts. Slow movements and isolated involvement of vocal cords are inconsistent with myoclonus."
+]
+},
+{
+"type":"p",
+"hlId":"fe944a",
+"children":[
+"Vocal tics (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") usually present as sudden utterances or words, including repetition of others' words (echolalia) or obscenities (coprolalia), that disrupt otherwise normal speech. Tics often start in childhood, are associated with premonitory urges, and are transiently suppressible. In this patient, the absence of these features and sustained pulling on direct observation make tics an unlikely diagnosis."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s6_3_2",
+"objective":{
+"__html":"Diagnose focal dystonia of the vocal cords."
+},
+"references":[
+[
+"Albanese A, Di Giovanni M, Lalli S. Dystonia: diagnosis and management. Eur J Neurol. 2019;26:5-17. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30035844",
+"target":"_blank"
+},
+"children":[
+"PMID: 30035844"
+]
+},
+" doi:10.1111/ene.13762"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":2,
+"B":62,
+"C":18,
+"D":11,
+"E":6
+},
+"hlIds":[
+"5c1339",
+"06c5d5",
+"42516a",
+"413696",
+"0a57a8",
+"aa4310",
+"6c2cec",
+"e939e0",
+"24f457",
+"c2171c",
+"fe944a"
+]
+}

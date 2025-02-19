@@ -1,0 +1,236 @@
+{
+"id":"mk19_a_id_q087",
+"number":87,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 87",
+"stimulus":[
+{
+"type":"p",
+"hlId":"4bb8da",
+"children":[
+"A 71-year-old man undergoes follow-up consultation regarding a bone biopsy of the right fifth metatarsal head. The patient had a nonhealing ulcer on the plantar aspect of the right foot that developed 10 weeks ago. A plain radiograph showed evidence of osteomyelitis of the fifth metatarsal head, and a biopsy of the involved bone was obtained. Medical history is notable for type 2 diabetes mellitus and hypertension. Medications are metformin, sitagliptin, and amlodipine."
+]
+},
+{
+"type":"p",
+"hlId":"ed3e82",
+"children":[
+"On physical examination, vital signs are normal. A 3- × 3-cm ulcer is located on the plantar aspect of the foot; the ulcer base appears clean. The foot is warm with a palpable dorsalis pedis pulse."
+]
+},
+{
+"type":"p",
+"hlId":"dd7363",
+"children":[
+"Laboratory studies show a normal serum creatinine level."
+]
+},
+{
+"type":"p",
+"hlId":"227cab",
+"children":[
+"Bone culture results show methicillin-susceptible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" susceptible to vancomycin, trimethoprim-sulfamethoxazole, doxycycline, and clindamycin."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Oral doxycycline"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Parenteral ceftaroline"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Parenteral piperacillin-tazobactam"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Parenteral vancomycin"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"5b528a",
+"hvc":true,
+"children":[
+"Oral antibiotics (such as doxycycline) with high bioavailability have been shown to be noninferior to intravenous antibiotics for the management of osteomyelitis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6f9da7",
+"children":[
+"Oral doxycycline is an appropriate treatment option for this patient with osteomyelitis caused by methicillin-susceptible ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Staphylococcus aureus"
+]
+},
+" (MSSA) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+")",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"."
+]
+},
+" The much anticipated OVIVA study published in January 2019 showed that oral antibiotics with high bioavailability were noninferior to intravenous antibiotics for the management of osteomyelitis. Although data from randomized controlled trials is scarce, a treatment duration of 6 weeks has been generally recommended for osteomyelitis in adults. Longer courses of therapy may be necessary in infections with significant residual necrotic bone, in the setting of orthopedic hardware when the hardware cannot be removed, or when oral antibiotics are used."
+]
+},
+{
+"type":"p",
+"hlId":"1313e1",
+"children":[
+"If parenteral therapy is chosen, the most narrow-spectrum agent to which the isolate is susceptible should be used. Ceftaroline (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") has been shown to be successful in osteomyelitis management and has activity against MSSA but is also active against methicillin-resistant ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"S. aureus"
+]
+},
+" (MRSA) and gram-negative pathogens. This agent would be unnecessarily broad for treating an infection caused by MSSA."
+]
+},
+{
+"type":"p",
+"hlId":"787fef",
+"children":[
+"Piperacillin-tazobactam (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") has activity against MSSA but also has broad-spectrum activity against gram-negatives and anaerobes, so it would be unnecessarily broad for a monomicrobial MSSA infection."
+]
+},
+{
+"type":"p",
+"hlId":"1d2934",
+"children":[
+"Parenteral vancomycin (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is reserved for treatment of MRSA infections or in those patients with MSSA and severe allergies to effective agents."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_3",
+"objective":{
+"__html":"Treat methicillin-susceptible <i>Staphylococcus aureus</i> osteomyelitis with oral antibiotics."
+},
+"references":[
+[
+"Li HK, Rombach I, Zambellas R, et al; OVIVA Trial Collaborators. Oral versus intravenous antibiotics for bone and joint infection. N Engl J Med. 2019;380:425-436. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30699315",
+"target":"_blank"
+},
+"children":[
+"PMID: 30699315"
+]
+},
+" doi:10.1056/NEJMoa1710926"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":50,
+"B":9,
+"C":10,
+"D":30,
+"E":0
+},
+"hlIds":[
+"4bb8da",
+"ed3e82",
+"dd7363",
+"227cab",
+"1054f1",
+"5b528a",
+"6f9da7",
+"1313e1",
+"787fef",
+"1d2934"
+]
+}

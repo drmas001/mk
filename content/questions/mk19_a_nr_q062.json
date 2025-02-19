@@ -1,0 +1,212 @@
+{
+"id":"mk19_a_nr_q062",
+"number":62,
+"bookId":"nr",
+"correctAnswer":"C",
+"title":"Question 62",
+"stimulus":[
+{
+"type":"p",
+"hlId":"11ff24",
+"children":[
+"A 53-year-old woman was admitted to the hospital for bilateral optic neuritis. She is receiving intravenous methylprednisolone."
+]
+},
+{
+"type":"p",
+"hlId":"7cdbe5",
+"children":[
+"On physical examination, vital signs are normal. Visual acuity is 20/200 in both eyes. Reflexes are 3+ in the lower extremities, and plantar response is extensor. The remainder of the examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"8af3d6",
+"children":[
+"An MRI of the thoracic spine shows an extensive hyperintense lesion in the thoracic cord from T3 to T7 with mild contrast enhancement. An MRI of the orbits shows hyperintensity in the anterior portion of the optic nerve bilaterally with contrast enhancement. Cerebrospinal fluid testing shows leukocytes (180/µL [180 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"6"
+]
+},
+"/L) composed mostly of neutrophils."
+]
+},
+{
+"type":"p",
+"hlId":"329e29",
+"children":[
+"An MRI of the brain is normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Interferon beta"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Oligoclonal band testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Serum aquaporin-4 antibody testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Serum copper level"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"393a57",
+"children":[
+"Neuromyelitis optica is an inflammatory disorder of the central nervous system characterized by immune-mediated demyelination and axonal damage primarily affecting the spinal cord and optic nerves."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ccb597",
+"children":[
+"The aquaporin-4 antibody is a specific biomarker for NMO and has a direct role in the pathogenesis."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"66f14e",
+"children":[
+"The most appropriate management is serum aquaporin-4 antibody testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient presents with bilateral optic neuritis. T2-weighted MRI of the thoracic spine shows a longitudinally extensive (≥3 spinal segments) myelitis. These findings are most suggestive of neuromyelitis optica (NMO), a demyelinating disorder caused by antibodies against aquaporin-4 channels that results in inflammatory demyelination in the optic nerves and spinal cord. Although NMO may present with symptoms that are similar to multiple sclerosis, distinguishing features include bilateral (rather than unilateral) optic neuritis and longitudinally extensive (rather than segmental) myelitis. If there is brain involvement, brainstem or hypothalamic syndromes may be seen. However, the brain may not be involved, as in this patient whose brain MRI was normal. The marked spinal fluid pleocytosis with mostly neutrophils also is consistent with NMO and would be highly unusual for multiple sclerosis (MS) (in which cerebrospinal fluid [CSF] leukocytes are often normal or slightly elevated). Aquaporin-4 antibody is a specific biomarker for NMO and has a direct role in the pathogenesis; diagnostic sensitivity and specificity has been reported to be as high as 91% and 100%, respectively."
+]
+},
+{
+"type":"p",
+"hlId":"eb3b58",
+"children":[
+"This patient is unlikely to have MS, and treatment with interferon beta (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary. Further, there is evidence to suggest that interferon beta can worsen the condition of patients with NMO."
+]
+},
+{
+"type":"p",
+"hlId":"bfaf00",
+"children":[
+"Oligoclonal band testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") cannot adequately discriminate between those with NMO and MS. Although 90% to 95% of patients with MS will have CSF-unique oligoclonal bands, up to 25% of patients with NMO can also have this finding. Aquaporin-4 antibody testing would be a much more specific test to discriminate between these conditions."
+]
+},
+{
+"type":"p",
+"hlId":"351d01",
+"children":[
+"Copper (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") deficiency can cause optic neuropathy and myelopathy. However, the presence of MRI contrast enhancement and CSF pleocytosis in this patient are indications of a marked inflammatory response, which would not be seen in copper deficiency."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s7_2_2",
+"objective":{
+"__html":"Diagnose neuromyelitis optica."
+},
+"references":[
+[
+"Wingerchuk DM, Banwell B, Bennett JL, et al; International Panel for NMO Diagnosis. International consensus diagnostic criteria for neuromyelitis optica spectrum disorders. Neurology. 2015;85:177-89. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26092914",
+"target":"_blank"
+},
+"children":[
+"PMID: 26092914"
+]
+}
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":21,
+"B":45,
+"C":30,
+"D":4,
+"E":0
+},
+"hlIds":[
+"11ff24",
+"7cdbe5",
+"8af3d6",
+"329e29",
+"cb2b54",
+"393a57",
+"ccb597",
+"66f14e",
+"eb3b58",
+"bfaf00",
+"351d01"
+]
+}

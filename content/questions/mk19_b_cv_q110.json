@@ -1,0 +1,179 @@
+{
+"id":"mk19_b_cv_q110",
+"number":110,
+"bookId":"cv",
+"correctAnswer":"B",
+"title":"Question 110",
+"stimulus":[
+{
+"type":"p",
+"hlId":"abb0ca",
+"children":[
+"A 56-year-old man is hospitalized for an ST-elevation myocardial infarction. He is treated with percutaneous coronary intervention and is now asymptomatic. Medical history is significant for hypertension and paroxysmal atrial fibrillation. Outpatient medications are flecainide, rivaroxaban, metoprolol, and lisinopril."
+]
+},
+{
+"type":"p",
+"hlId":"78509f",
+"children":[
+"A predischarge ECG shows sinus rhythm (heart rate, 58/min), a QRS complex duration of 124 ms, and a right bundle branch block pattern. An echocardiogram reveals a mildly reduced left ventricular ejection fraction with an inferior wall motion abnormality."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Ambulatory ECG monitoring"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Discontinue flecainide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Discontinue metoprolol"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Exercise stress testing"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"7499f7",
+"children":[
+"Flecainide and other class IC antiarrhythmic agents are contraindicated in patients with ischemic heart disease."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"10f416",
+"children":[
+"The most appropriate management is to discontinue flecainide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient has ischemic heart disease and previously diagnosed paroxysmal atrial fibrillation (AF). Amiodarone, dofetilide, flecainide, propafenone, sotalol, and dronedarone may be used to maintain sinus rhythm in patients with AF. Antiarrhythmic drug selection is guided by the patient's comorbid conditions and safety considerations. Flecainide is a class IC antiarrhythmic agent and, along with propafenone, is absolutely contraindicated in patients with ischemic heart disease, given the increased risk for ventricular arrhythmias in this population. This patient also has evidence of left ventricular (LV) dysfunction on a post–myocardial infarction echocardiogram, which may be due to infarcted (as opposed to stunned) myocardium and may lead to increased long-term risk for ventricular arrhythmias. Furthermore, his ECG shows widening of the QRS interval, which may reflect adverse effects of flecainide. This drug, therefore, is not safe in this patient; it should be discontinued and not restarted."
+]
+},
+{
+"type":"p",
+"hlId":"ef25de",
+"children":[
+"Although ambulatory ECG monitoring (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") at discharge may be helpful to assess AF burden, rates, and symptoms, it should not be used to guide flecainide therapy in this patient, given his contraindications, which ambulatory ECG monitoring will not address."
+]
+},
+{
+"type":"p",
+"hlId":"51bc5d",
+"children":[
+"There is no reason to stop metoprolol (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient's heart rate is only mildly bradycardic, does not appear to be causing adverse effects, and is unlikely to be affecting his right bundle branch block. Aggressive β-blockade is warranted, given his recent myocardial infarction, coronary artery disease, and LV dysfunction. Furthermore, he will likely need metoprolol for rate control, if or when he reverts to AF."
+]
+},
+{
+"type":"p",
+"hlId":"06da3b",
+"children":[
+"In the revascularized patient with stable or absent ischemic symptoms, there is no role for predischarge stress testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Although exercise stress testing is sometimes used to assess the QRS duration during exercise in patients treated with class IC antiarrhythmic drugs, it will not change management in this patient. This patient already has QRS prolongation at rest and an absolute contraindication to flecainide because of his coronary artery disease."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_3_2",
+"objective":{
+"__html":"Discontinue flecainide in a patient with ischemic heart disease."
+},
+"references":[
+[
+"Echt DS, Ruskin JN. Use of flecainide for the treatment of atrial fibrillation. Am J Cardiol. 2020;125:1123-33. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32044037",
+"target":"_blank"
+},
+"children":[
+"PMID: 32044037"
+]
+},
+" doi:10.1016/j.amjcard.2019.12.041"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+"A":17,
+"B":60,
+"C":6,
+"D":17,
+"E":0
+},
+"hlIds":[
+"abb0ca",
+"78509f",
+"cb2b54",
+"7499f7",
+"10f416",
+"ef25de",
+"51bc5d",
+"06da3b"
+]
+}

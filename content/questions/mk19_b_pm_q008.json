@@ -1,0 +1,286 @@
+{
+"id":"mk19_b_pm_q008",
+"number":8,
+"bookId":"pm",
+"correctAnswer":"B",
+"title":"Question 8",
+"stimulus":[
+{
+"type":"p",
+"hlId":"bd1e5a",
+"children":[
+"A 59-year-old man is seen in a follow-up visit for a 6-month history of progressively worsening chronic cough productive of small amounts of thin clear sputum and dyspnea on exertion. He has shortness of breath when he walks quickly and when he walks uphill. He has a 45-pack-year smoking history but quit 2 years ago. He has been using albuterol as needed since his diagnosis of COPD 3 months ago, but he remains symptomatic."
+]
+},
+{
+"type":"p",
+"hlId":"c836b3",
+"children":[
+"On physical examination, ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"oxygen saturation"
+]
+},
+" is 95% with the patient breathing ambient air. Scattered expiratory wheezing is heard. Cardiac examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"e2af4a",
+"children":[
+"Chest radiograph from 3 months ago shows flattened diaphragm but no infiltrate."
+]
+},
+{
+"type":"p",
+"hlId":"9b9d7a",
+"children":[
+"Spirometry at the time of diagnosis showed reduced postbronchodilator ",
+{
+"type":"reference-range-link",
+"referenceRange":"FEV1/FVC",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"/FVC"
+]
+},
+" ratio and ",
+{
+"type":"reference-range-link",
+"referenceRange":"Forced expiratory volume in 1 second (FEV1)",
+"children":[
+"FEV",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+}
+]
+},
+" of 69% of predicted."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"600676",
+"children":[
+"Which of the following is the most appropriate pharmacologic treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Inhaled fluticasone propionate–salmeterol"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Inhaled tiotropium bromide"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Roflumilast"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8851f4",
+"children":[
+"Regardless of COPD severity, β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonists and anticholinergic/antimuscarinic agents are the mainstay of therapy."
+]
+},
+{
+"type":"keypoint",
+"hlId":"fed8de",
+"children":[
+"Initial management of COPD includes short-acting bronchodilators, but a long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist or long-acting muscarinic antagonist should be added if symptoms remain poorly controlled."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"51bf41",
+"children":[
+"The most appropriate treatment is inhaled tiotropium bromide (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). This patient's pulmonary disease is consistent with COPD. He has a chronic cough and dyspnea on exertion, a significant smoking history, a chest radiograph showing hyperinflation, and spirometry results demonstrating nonreversible obstruction. Pharmacologic therapies can be used to reduce symptoms, improve quality of life, and reduce exacerbations in patients with COPD. Regardless of COPD severity, bronchodilators are the mainstay of COPD therapy. Inhaled bronchodilators include β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonists and antimuscarinic agents. There are inhaled short- and long-acting forms of both types. Initial management includes short-acting bronchodilators, but a long-acting β",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"2"
+]
+},
+"-agonist (LABA) or a long-acting muscarinic antagonist (LAMA), such as tiotropium bromide, should be added if symptoms are still poorly controlled. A combination LABA–LAMA can be used if patients have persistent symptoms despite monotherapy with either long-acting bronchodilator."
+]
+},
+{
+"type":"p",
+"hlId":"b5a276",
+"children":[
+"Inhaled glucocorticoids (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") can be used in combination with a bronchodilator in COPD but should not be used as monotherapy unless the patient cannot use a bronchodilator. A combination inhaled glucocorticoid–LABA could be considered if the patient's symptoms are poorly controlled with LABA or LAMA monotherapy, but that approach has not yet been tried in this patient."
+]
+},
+{
+"type":"p",
+"hlId":"852917",
+"children":[
+"Evidence-based guidelines do not endorse chronic oral glucocorticoid therapy with agents such as prednisone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") because clinical trials have not shown improved outcomes with oral glucocorticoid therapy. In addition, there is ample evidence that chronic oral glucocorticoid therapy has potential for harm, including but not limited to hypertension, hyperglycemia, osteoporosis, and susceptibility to infection. Oral glucocorticoids are recommended for short-duration treatment of acute exacerbations of COPD."
+]
+},
+{
+"type":"p",
+"hlId":"362223",
+"children":[
+"Roflumilast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"), a selective phosphodiesterase-4 inhibitor, can reduce symptoms and exacerbations in patients with COPD who have chronic bronchitis or frequent exacerbations; thus, it is not the initial therapy of choice in this patient who lacks the sputum production of chronic bronchitis or history of frequent exacerbations."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_2_9_2_1",
+"objective":{
+"__html":"Treat COPD with a long-acting bronchodilator."
+},
+"references":[
+[
+"Nici L, Mammen MJ, Charbek E, et al. Pharmacologic management of chronic obstructive pulmonary disease. an official American Thoracic Society clinical practice guideline. Am J Respir Crit Care Med. 2020;201:e56-e69. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/32283960",
+"target":"_blank"
+},
+"children":[
+"PMID: 32283960"
+]
+},
+" doi:10.1164/rccm.202003-0625ST"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":35,
+"B":63,
+"C":2,
+"D":0,
+"E":0
+},
+"hlIds":[
+"bd1e5a",
+"c836b3",
+"e2af4a",
+"9b9d7a",
+"600676",
+"8851f4",
+"fed8de",
+"51bf41",
+"b5a276",
+"852917",
+"362223"
+]
+}

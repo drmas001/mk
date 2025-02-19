@@ -1,0 +1,203 @@
+{
+"id":"mk19_a_gi_q050",
+"number":50,
+"bookId":"gi",
+"correctAnswer":"C",
+"title":"Question 50",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a91654",
+"children":[
+"A 57-year-old man is evaluated for dysphagia. During the past year, he has noticed that swallowed meat occasionally gets stuck in his throat. More recently, softer foods have also been slow to move down after swallowing. He has lost 4.5 kg (9.9 lb) in the past 6 months. He has a many-year history of gastroesophageal reflux disease. His only medication is omeprazole."
+]
+},
+{
+"type":"p",
+"hlId":"0c5044",
+"children":[
+"On physical examination, vital signs are normal. BMI is 30. Other physical examination findings are unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"b4417c",
+"children":[
+"Laboratory evaluation reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Mean corpuscular volume",
+"children":[
+"mean corpuscular volume"
+]
+},
+" of 70 fL."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Barium esophagography"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"CT of the chest"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Endoscopy with biopsy"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Esophageal motility study"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"eafe7c",
+"children":[
+"Dysphagia occurring with solids alone suggests a mechanical obstruction, whereas dysphagia with either liquids alone or the combination of liquids and solids favors a motility disorder."
+]
+},
+{
+"type":"keypoint",
+"hlId":"49a40b",
+"children":[
+"Dysphagia in the setting of weight loss, anemia, and history of gastroesophageal reflux disease should prompt endoscopy to evaluate for malignancy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f7b518",
+"children":[
+"The most appropriate diagnostic test to perform next is endoscopy with biopsy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). This patient has esophageal dysphagia in the setting of weight loss and history of gastroesophageal reflux disease (GERD). Endoscopy should be performed to evaluate for malignancy. The most common initial presentation of esophageal carcinoma is dysphagia with solid foods; other symptoms include weight loss, anorexia, anemia caused by gastrointestinal bleeding, and chest pain. The two types of esophageal carcinoma are squamous cell carcinoma (most commonly located in the proximal esophagus) and adenocarcinoma (usually found in the distal esophagus). Risk factors for adenocarcinoma include male sex, older age, GERD, Barrett esophagus, obesity, and tobacco use. Risk factors for squamous cell carcinoma include tobacco and alcohol use, caustic injury, achalasia, past thoracic radiation, nutritional deficiencies (zinc, selenium), and poor socioeconomic status."
+]
+},
+{
+"type":"p",
+"hlId":"e08f24",
+"children":[
+"Barium esophagography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a useful test in the evaluation of esophageal dysphagia in specific situations, such as suspicion for motility disorders or proximal lesions (e.g., Zenker diverticulum). In this case, however, the likelihood of malignancy is high given the presence of weight loss and anemia. Even if a peptic stricture secondary to GERD were suspected, biopsy would still be necessary, making endoscopy the initial test of choice."
+]
+},
+{
+"type":"p",
+"hlId":"5303f9",
+"children":[
+"CT of the chest (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") may be used to evaluate for extrinsic compression as a cause of dysphagia and for staging of established esophageal cancer. However, it is not a first-line test for dysphagia because it poorly visualizes the esophageal mucosa and does not provide the opportunity for biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"a90175",
+"children":[
+"Dysphagia occurring with solids alone suggests a mechanical obstruction, whereas dysphagia with either liquids alone or the combination of liquids and solids favors a motility disorder. An esophageal motility study (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is an important diagnostic test in patients with nonobstructive dysphagia. In this case, however, the progression of dysphagia from solid to soft foods suggests a mechanical obstruction rather than a motility disorder, making endoscopy the preferred test."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s1_3_2_3",
+"objective":{
+"__html":"Evaluate progressive esophageal dysphagia."
+},
+"references":[
+[
+"Liu LWC, Andrews CN, Armstrong D, et al. Clinical practice guidelines for the assessment of uninvestigated esophageal dysphagia. J Can Assoc Gastroenterol. 2018;1:5-19. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31294391",
+"target":"_blank"
+},
+"children":[
+"PMID: 31294391"
+]
+},
+" doi:10.1093/jcag/gwx008–"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":11,
+"B":1,
+"C":83,
+"D":4,
+"E":0
+},
+"hlIds":[
+"a91654",
+"0c5044",
+"b4417c",
+"ab9d96",
+"eafe7c",
+"49a40b",
+"f7b518",
+"e08f24",
+"5303f9",
+"a90175"
+]
+}

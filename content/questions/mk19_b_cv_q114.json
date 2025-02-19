@@ -1,0 +1,203 @@
+{
+"id":"mk19_b_cv_q114",
+"number":114,
+"bookId":"cv",
+"correctAnswer":"D",
+"title":"Question 114",
+"stimulus":[
+{
+"type":"p",
+"hlId":"a41a53",
+"children":[
+"A 65-year-old woman is evaluated in the office after several visits to the emergency department for paroxysmal atrial fibrillation and acute heart failure. Medications are apixaban, metoprolol, furosemide, and losartan."
+]
+},
+{
+"type":"p",
+"hlId":"d91f39",
+"children":[
+"Vital signs are normal. Cardiopulmonary examination and the remainder of the physical examination are normal."
+]
+},
+{
+"type":"p",
+"hlId":"872c4d",
+"children":[
+"Results of laboratory studies show a normal serum thyroid-stimulating hormone level."
+]
+},
+{
+"type":"p",
+"hlId":"491391",
+"children":[
+"An ECG shows sinus rhythm with a heart rate of 58/min. An echocardiogram reveals a ",
+{
+"type":"reference-range-link",
+"referenceRange":"Left ventricular ejection fraction",
+"children":[
+"left ventricular ejection fraction"
+]
+},
+" of 45%."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Atrioventricular node ablation with permanent pacemaker implantation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Implantable cardioverter-defibrillator placement"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Left atrial appendage occlusion"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Rhythm control"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"cf4765",
+"children":[
+"Aggressive efforts to achieve rhythm control in patients with atrial fibrillation and concomitant heart failure decrease morbidity and mortality."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"12283a",
+"children":[
+"The most appropriate treatment is rhythm control (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Atrial fibrillation (AF) complicates nearly 40% of heart failure cases, and the combination of AF and heart failure dramatically worsens outcomes. Several clinical trials have demonstrated that aggressive efforts to achieve rhythm control in patients with AF and concomitant heart failure decrease morbidity and mortality. In patients with heart failure with reduced ejection fraction, recent clinical trials have shown that catheter ablation of AF is associated with a favorable effect on morbidity and mortality compared with medical therapy. Amiodarone is another option for rhythm control. Although amiodarone carries a risk for toxicity, this patient's lifetime exposure to the drug is likely to be relatively low given her age, comorbid conditions, and probable amiodarone dosage, which is generally lower for AF than for ventricular arrhythmias. Monitored appropriately, it can be used safely and effectively in patients her age."
+]
+},
+{
+"type":"p",
+"hlId":"9a45f2",
+"children":[
+"Atrioventricular node ablation with permanent pacemaker implantation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is an option for patients with AF who have continued symptomatic tachycardia despite rate and rhythm control therapy. Therapeutic ablation of the atrioventricular node requires implantation of a permanent pacemaker. These patients remain in AF and still require anticoagulation. Management with rhythm control should be attempted first."
+]
+},
+{
+"type":"p",
+"hlId":"be2734",
+"children":[
+"An implantable cardioverter-defibrillator (ICD) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") improves survival when used for both primary and secondary prevention of sudden cardiac death (SCD). Patients with sustained ventricular arrhythmias (>30 seconds) or cardiac arrest without a reversible cause have a class 1 recommendation for secondary prevention ICD placement. ICD placement is recommended for the primary prevention of SCD in patients with ischemic or nonischemic cardiomyopathy, ejection fraction less than 35%, and New York Heart Association functional class II or III heart failure. This patient with AF and an ejection fraction of 45% does not have an indication for ICD therapy."
+]
+},
+{
+"type":"p",
+"hlId":"b69831",
+"children":[
+"In patients with AF who are at high risk for stroke and have contraindications to anticoagulation therapy, left atrial appendage occlusion (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") to prevent stroke and systemic thromboembolism may be considered. Left atrial appendage occlusion will not help control her arrhythmia and is not indicated."
+]
+}
+],
+"relatedSection":"mk19_b_cv_s5_6_4",
+"objective":{
+"__html":"Treat paroxysmal atrial fibrillation with heart failure with rhythm control."
+},
+"references":[
+[
+"January CT, Wann LS, Calkins H, et al. 2019 AHA/ACC/HRS focused update of the 2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines and the Heart Rhythm Society in Collaboration With the Society of Thoracic Surgeons. Circulation. 2019;140:e125-e151. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30686041",
+"target":"_blank"
+},
+"children":[
+"PMID: 30686041"
+]
+},
+" doi:10.1161/CIR.0000000000000665"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":34,
+"B":4,
+"C":14,
+"D":48,
+"E":0
+},
+"hlIds":[
+"a41a53",
+"d91f39",
+"872c4d",
+"491391",
+"1054f1",
+"cf4765",
+"12283a",
+"9a45f2",
+"be2734",
+"b69831"
+]
+}

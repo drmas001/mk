@@ -1,0 +1,182 @@
+{
+"id":"mk19_qq_q015",
+"number":15,
+"bookId":"qq",
+"correctAnswer":"D",
+"title":"Question 15",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8f360c",
+"children":[
+"A 27-year-old woman is evaluated during a routine wellness visit. She has never been tested for HIV infection. She is asymptomatic and reports no known risk factors for HIV infection."
+]
+},
+{
+"type":"p",
+"hlId":"ee783d",
+"children":[
+"Physical examination findings, including vital signs, are normal. HIV-1/2 antigen/antibody combination immunoassay is reactive. Subsequent HIV-1/HIV-2 antibody differentiation immunoassay is negative, as is the result of HIV-1 nucleic acid amplification testing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1a5dcc",
+"children":[
+"Which of the following is the most appropriate next step in management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Initiation of HIV therapy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"T-cell subset testing"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Viral load testing"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing or treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"096aa0",
+"children":[
+"The fourth-generation HIV antigen/antibody combination assay, which evaluates for the presence of HIV antibodies and the p24 viral nucleic acid protein, is recommended for initial HIV testing."
+]
+},
+{
+"type":"keypoint",
+"hlId":"39835c",
+"children":[
+"The preferred follow-up testing for a positive result on an antigen/antibody combination assay includes an HIV-1/HIV-2 antibody differentiation assay and HIV nucleic acid amplification testing if the antibody differentiation assay finding is indeterminate or negative."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"f4af53",
+"children":[
+"No further testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is needed for this patient who does not have HIV infection. The CDC, American College of Physicians, Infectious Diseases Society of America, and U.S. Preventive Services Task Force recommend universal screening for HIV in all adults at least once. The fourth-generation HIV antigen/antibody combination assay, which evaluates for the presence of HIV antibodies and the p24 viral nucleic acid protein, is recommended for initial HIV testing. This patient's initial test was reactive, so further testing was indicated. The preferred follow-up testing for a positive result on an antigen/antibody combination assay includes an HIV-1/HIV-2 antibody differentiation assay followed by HIV nucleic acid amplification testing (NAAT) if the antibody differentiation assay finding is indeterminate or negative. HIV-1/HIV-2 antibody differentiation assay can identify the presence of HIV-1 or HIV-2 antibodies in the serum; HIV NAAT can detect viral RNA and is used to detect HIV RNA during the antibody-negative “window” period of acute HIV infection. Despite her initial positive test result, both follow-up test results were negative; the appropriate interpretation is that her initial positive result on the screening test was a false positive. Although the recommended initial screening test has a reported specificity of 99.6%, in persons at low risk with very low pretest probability, the rate of false-positive results may still be significant. This asymptomatic woman should be reassured that the initial test result was a false positive based on her negative results on follow-up testing."
+]
+},
+{
+"type":"p",
+"hlId":"c9dff6",
+"children":[
+"All persons who test positive for HIV should immediately be referred to a health care provider with HIV infection management expertise. However, referral and initiation of HIV therapy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is unnecessary for this patient, because she does not have HIV infection. The initial HIV-1/2 antigen/antibody combination immunoassay revealed a false-positive result."
+]
+},
+{
+"type":"p",
+"hlId":"9100fe",
+"children":[
+"In patients with confirmed HIV infection, a baseline CD4 cell count guides opportunistic infection prophylaxis, but T-cell subsets (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should never be used in diagnostic testing for HIV infection, because a reduced CD4 cell count is neither sensitive nor specific for HIV infection."
+]
+},
+{
+"type":"p",
+"hlId":"e058c9",
+"children":[
+"In patients with confirmed HIV infection, a baseline viral load (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used to monitor antiretroviral therapy effectiveness. Because this patient has no evidence of HIV infection, including a negative test for HIV nucleic acid (negative NAAT), measurement of viral load will not be helpful."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_3",
+"objective":{
+"__html":"Interpret the results of fourth-generation HIV antigen/antibody combination testing."
+},
+"references":[
+[
+"Saag MS. HIV infection - screening, diagnosis, and treatment. N Engl J Med. 2021;384:2131-2143. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34077645",
+"target":"_blank"
+},
+"children":[
+"PMID: 34077645"
+]
+},
+" doi:10.1056/NEJMcp1915826"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"8f360c",
+"ee783d",
+"1a5dcc",
+"096aa0",
+"39835c",
+"f4af53",
+"c9dff6",
+"9100fe",
+"e058c9"
+]
+}

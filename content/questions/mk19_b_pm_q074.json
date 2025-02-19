@@ -1,0 +1,188 @@
+{
+"id":"mk19_b_pm_q074",
+"number":74,
+"bookId":"pm",
+"correctAnswer":"D",
+"title":"Question 74",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ffed41",
+"children":[
+"A 44-year-old woman is evaluated for daytime sleepiness of 1 year's duration. She sleeps 8 to 9 hours nightly. She naps during the day. She has chronic musculoskeletal back pain and depression. Medications are venlafaxine and sustained-release oxycodone."
+]
+},
+{
+"type":"p",
+"hlId":"14f32e",
+"children":[
+"On physical examination, respiration rate is 12/min; the remainder of the vital signs are normal. She has antalgic gait and limited trunk flexion due to pain. Oropharyngeal airway is patent. Nasal, lung, and heart examinations are normal. There is no peripheral edema."
+]
+},
+{
+"type":"p",
+"hlId":"344bac",
+"children":[
+"Polysomnography documents central sleep apnea without obstructive sleep apnea."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"1054f1",
+"children":[
+"Which of the following is the most appropriate treatment?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Adaptive servo-ventilation"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Continuous positive airway pressure"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Modafinil"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Pain rehabilitation program"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"db7305",
+"hvc":true,
+"children":[
+"The initial management of central sleep apnea should target modifiable risk factors such as the reduction or elimination of opioids or medical optimization of heart failure."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"a71b66",
+"children":[
+"The most appropriate treatment is a pain rehabilitation program (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A sleep study showed that this patient has central sleep apnea (CSA). CSA is defined by pauses in airflow due to loss of output from the central respiratory generators in the brainstem to the respiratory muscles, resulting in lack of respiratory effort. There are few clinical trials proving a role for specific treatment of CSA, so initial management should target modifiable risk factors. For example, reduction or elimination of opioids improves CSA. Medical optimization of heart failure (with drugs or devices, optimizing fluid balance in the setting of volume overload, or surgery such as valve repair or cardiac transplantation) has been shown to improve CSA. This patient's CSA is most likely related to use of opioid analgesics. Because initial management of CSA should target modifiable risk factors, a pain rehabilitation program to help the patient curtail opioid use is appropriate. Additionally, a more appropriate long-term pain management strategy is needed to improve her quality of life. However, adherence to a pain management plan that includes opioid reduction may be difficult and failure is frequent."
+]
+},
+{
+"type":"p",
+"hlId":"91ee08",
+"children":[
+"Adaptive servo-ventilation (ASV) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") is a form of positive airway pressure therapy that effectively suppresses CSA. Small observational studies suggest that it has some efficacy in opioid-induced CSA, but controlled trials are lacking to demonstrate improvements in important outcomes. Although a trial of ASV may be warranted in some patients with opioid-related CSA, it should be preceded by an attempt to reduce opioid use and to try other treatments with proven efficacy and safety. Consideration should also be given to an increased risk of death associated with ASV treatment in a large trial of patients with heart failure defined by a left ventricular ejection fraction less than 45%."
+]
+},
+{
+"type":"p",
+"hlId":"f7b3d8",
+"children":[
+"Continuous positive airway pressure (CPAP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is effective at maintaining upper airway patency in obstructive sleep apnea (OSA) but is generally ineffective in treating CSA, a disorder of ventilatory control. In fact, when CPAP is used in the treatment of obstructive sleep apnea, it can occasionally result in CSA (a condition called treatment-emergent central sleep apnea). CPAP may be appropriate in some patients with combined CSA and OSA, as determined by polysomnography."
+]
+},
+{
+"type":"p",
+"hlId":"44c7a1",
+"children":[
+"The patient has nonspecific fatigue and tiredness. Modafinil (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is used to combat excessive sleepiness associated with hypersomnia syndromes, such as narcolepsy, and residual sleepiness associated with OSA despite adequate CPAP therapy. A stimulant medication is not indicated for this patient."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s8_4_4",
+"objective":{
+"__html":"Treat opioid-related sleep apnea."
+},
+"references":[
+[
+"Wasef S, Mir S, Ryan C, et al. Treatment for patients with sleep apnea on opioids for chronic pain: results of the OpSafe trial. J Clin Sleep Med. 2021;17:819-824. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/33382032",
+"target":"_blank"
+},
+"children":[
+"PMID: 33382032"
+]
+},
+" doi:10.5664/jcsm.9064"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":11,
+"B":12,
+"C":15,
+"D":62,
+"E":0
+},
+"hlIds":[
+"ffed41",
+"14f32e",
+"344bac",
+"1054f1",
+"db7305",
+"a71b66",
+"91ee08",
+"f7b3d8",
+"44c7a1"
+]
+}

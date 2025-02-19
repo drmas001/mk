@@ -1,0 +1,481 @@
+{
+"id":"mk19_a_gm_t08",
+"number":8,
+"bookId":"gm",
+"title":{
+"__html":"Application of Evidence-Based Medicine Concepts"
+},
+"jsonContent":{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"07865c",
+"children":[
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+"className":"table-number"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"span",
+"attrs":{
+},
+"children":[
+"Table 8. "
+]
+},
+{
+"type":"new-window-link",
+"targetType":"table",
+"targetId":"mk19_a_gm_t08"
+}
+]
+},
+"Application of Evidence-Based Medicine Concepts"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"thead",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"394a27",
+"class":"col hd l",
+"children":[
+"Evidence-Based Medicine Concepts"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"th",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"66e9e6",
+"class":"col hd l",
+"children":[
+"Shortcomings and Examples"
+]
+},
+" "
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"0bbf9d",
+"class":"cell txt l",
+"children":[
+"Sensitivity, specificity, and predictive values"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"563c64",
+"class":"cell txt l",
+"children":[
+"Predictive values are often used in preference to sensitivity and specificity in clinical practice; however, if disease prevalence in the study population is different than in the clinical population, the predictive values will change"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"ca73eb",
+"class":"cell txt l",
+"children":[
+"Example: Screening for cervical cancer with HPV testing alone in women aged 21-29 years results in a high false-positive rate compared with testing in women aged 30-65 years owing to higher rates of HPV exposure"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"e4a6e9",
+"class":"cell txt l",
+"children":[
+"Likelihood ratio"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"2b1f9b",
+"class":"cell txt l",
+"children":[
+"Likelihood ratios are not interchangeable with odds ratios"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"fc642b",
+"class":"cell txt l",
+"children":[
+"Positive likelihood ratios are not the reciprocals of negative likelihood ratios"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"68cab0",
+"class":"cell txt l",
+"children":[
+"Example: Dry axillae are supportive of hypovolemia (LR+, 2.8), but their absence does not exclude hypovolemia (LR–, 0.6)."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"c23443",
+"class":"cell txt l",
+"children":[
+"Absolute and relative risk reduction"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ffdfb7",
+"class":"cell txt l",
+"children":[
+"Absolute and relative risk reduction calculations do not identify whether the difference is clinically significant. A large relative risk may distract from small absolute changes"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a5e641",
+"class":"cell txt l",
+"children":[
+"Example: Ezetimibe reduces stroke risk from 32/1000 to 27/1000. Relative risk reduction is 17%, but absolute risk reduction is 0.5%."
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"a58a9a",
+"class":"cell txt l",
+"children":[
+"Number needed to treat or number needed to harm"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"1e3811",
+"class":"cell txt l",
+"children":[
+"These measures do not qualitatively compare the magnitude of the benefit or harm"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"1f554f",
+"class":"cell txt l",
+"children":[
+"Example: An emergency department visit for a nosebleed requiring packing may have fewer significant long-term consequences than stroke in patients with atrial fibrillation"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"ed534f",
+"class":"cell txt l",
+"children":[
+"External validity (generalizability)"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"10ad03",
+"class":"cell txt l",
+"children":[
+"Exclusion criteria or bias in recruitment may result in a study population that is not representative of the general population"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"88a67d",
+"class":"cell txt l",
+"children":[
+"Example: The reduction in risk for myocardial infarction associated with a drug studied in a secondary prevention population cannot be applied to a primary prevention population"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"f9dff9",
+"class":"cell txt l",
+"children":[
+"Internal validity and bias"
+]
+},
+" "
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"rowSpan":"1",
+"colSpan":"1"
+},
+"children":[
+" ",
+{
+"type":"p",
+"hlId":"145371",
+"class":"cell txt l",
+"children":[
+"Intention-to-treat and per-protocol analyses can have significantly different results"
+]
+},
+" ",
+{
+"type":"p",
+"hlId":"a949fc",
+"class":"cell txt l",
+"children":[
+"Example: A high rate of drug side effects may lead to frequent discontinuation, reducing efficacy in an intention-to-treat analysis. A per-protocol analysis would exclude those patients and potentially overestimate the benefit in routine clinical practice"
+]
+},
+" "
+]
+}
+]
+}
+]
+}
+]
+},
+"footnotes":[
+[
+"HPV = human papillomavirus; LR+ = positive likelihood ratio; LR- = negative likelihood ratio."
+]
+]
+}

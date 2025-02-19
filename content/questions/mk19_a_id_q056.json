@@ -1,0 +1,198 @@
+{
+"id":"mk19_a_id_q056",
+"number":56,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 56",
+"stimulus":[
+{
+"type":"p",
+"hlId":"0e355c",
+"children":[
+"A 71-year-old man arrives for pretravel consultation. He is leaving in 3 weeks for the Democratic Republic of the Congo and plans to spend 10 days there. Medical history is significant for chronic myeloid leukemia, for which he underwent allogeneic hematopoietic stem cell transplantation 2 months ago. His posttransplant course has been without infection or complications. He is up to date on routine recommended vaccinations. Pretransplant screening showed immunity to varicella-zoster virus and hepatitis B but not to hepatitis A. Medications are prednisone, tacrolimus, mycophenolate mofetil, acyclovir, and trimethoprim-sulfamethoxazole."
+]
+},
+{
+"type":"p",
+"hlId":"2a623a",
+"children":[
+"Advice about travelers' diarrhea and appropriate prophylaxis for travelers' diarrhea and malaria is provided."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"632f8b",
+"children":[
+"Which of the following is the most appropriate additional travel-related infection prophylaxis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Hepatitis A and capsular polysaccharide typhoid vaccines"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Dengue and cholera vaccines"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Measles (rubeola) vaccine and immune globulin"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Yellow fever and live-attenuated typhoid vaccines"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"6f5510",
+"children":[
+"Live vaccines are contraindicated in most persons with immune compromise."
+]
+},
+{
+"type":"keypoint",
+"hlId":"f6a406",
+"children":[
+"Inactivated, recombinant, and capsular polysaccharide vaccines are safe to administer because they are not live vaccines."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"700f0b",
+"children":[
+"The most appropriate preventive management for this patient is administration of the hepatitis A and capsular polysaccharide typhoid vaccines (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Depending on the level of immune suppression, travel itinerary, and trip duration, immunocompromised travelers are at greater risk of disease acquisition and more severe illness. Recommended and required vaccinations must be individualized for each traveler's immune status. Live vaccines are contraindicated in persons with significant immune compromise, either from disease or immunosuppressive medication. Regardless of immune status, all susceptible persons can safely receive the inactivated hepatitis A vaccine, which should be administered as early as possible before travel to countries with intermediate to high hepatitis A endemicity. Immunization with either the multidose live-attenuated oral typhoid or the single-dose intramuscular capsular polysaccharide typhoid vaccine provides similar protection; however, the capsular polysaccharide vaccine is more appropriate in this immunosuppressed transplant recipient."
+]
+},
+{
+"type":"p",
+"hlId":"d6f3d9",
+"children":[
+"The dengue vaccine (not available in the United States) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is only indicated for persons aged 9 to 16 years who have laboratory-confirmed previous dengue infection. No data exist regarding the safety of the live-attenuated oral cholera vaccine in immunocompromised persons, so it should not be administered following transplantation."
+]
+},
+{
+"type":"p",
+"hlId":"364fec",
+"children":[
+"Persons born before 1957 are presumed to have natural immunity to measles, so vaccination is not recommended for this patient. Immune globulin administered with the hepatitis A vaccine is reserved for persons older than 40 years, those with chronic liver disease, or persons who are immunocompromised and planning travel in less than 2 weeks. None of these indications (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") apply to this patient."
+]
+},
+{
+"type":"p",
+"hlId":"0ec25e",
+"children":[
+"The live-attenuated oral typhoid vaccine is contraindicated in this immunosuppressed patient; the yellow fever vaccine is a live virus vaccine and is contraindicated in transplant recipients and other immunosuppressed patients (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Following vaccine administration, a viremia often develops persisting for 1 to 3 weeks. Yellow fever vaccination is strongly contraindicated in those with compromised immune systems because it can result in a particularly aggressive infection in these patients."
+]
+}
+],
+"relatedSection":"mk19_a_id_s14_1",
+"objective":{
+"__html":"Prevent travel-related infection in an immunocompromised patient."
+},
+"references":[
+[
+"Leung DT, LaRocque RC, Ryan ET. Travel medicine. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"https://www.acpjournals.org/doi/10.7326/AITC201801020",
+"target":"_blank"
+},
+"children":[
+"Ann Intern Med"
+]
+},
+". 2018;168:ITC1-ITC16. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/29297035",
+"target":"_blank"
+},
+"children":[
+"PMID: 29297035"
+]
+}
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":85,
+"B":3,
+"C":0,
+"D":11,
+"E":0
+},
+"hlIds":[
+"0e355c",
+"2a623a",
+"632f8b",
+"6f5510",
+"f6a406",
+"700f0b",
+"d6f3d9",
+"364fec",
+"0ec25e"
+]
+}

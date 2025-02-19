@@ -1,0 +1,192 @@
+{
+"id":"mk19_qq_q163",
+"number":163,
+"bookId":"qq",
+"correctAnswer":"B",
+"title":"Question 163",
+"stimulus":[
+{
+"type":"p",
+"hlId":"736c3e",
+"children":[
+"A 34-year-old woman is evaluated in the hospital for a 6-week history of worsening confusion, visual defects, and right hemiparesis. She is HIV positive with a CD4 cell count of 35/μL; she has never received treatment."
+]
+},
+{
+"type":"p",
+"hlId":"4b76a5",
+"children":[
+"Vital signs are normal. Neurologic examination shows right hemiparesis/hemianopsia; Mini–Mental State Examination score is 15/30. Brain MRI with contrast shows bilateral, hypodense, nonenhancing, periventricular parieto-occipital white matter lesions without mass effect."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"413696",
+"children":[
+"Which of the following is the most likely diagnosis?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Primary central nervous system lymphoma"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Progressive multifocal leukoencephalopathy"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Reversible cerebral vasoconstriction syndrome"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Toxoplasmosis"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"dc1046",
+"children":[
+"Progressive multifocal leukoencephalopathy is a demyelinating disease of the central nervous system caused by the JC polyomavirus, occurring almost exclusively in severely immunocompromised patients."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ec9ce7",
+"children":[
+"Among patients with advanced HIV/AIDS, the probability of progressive multifocal leukoencephalopathy exceeds 80% in those with white matter lesions with no mass effect."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"157dd9",
+"children":[
+"Progressive multifocal leukoencephalopathy (PML) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") is a demyelinating disease of the central nervous system (CNS) caused by the JC polyomavirus (JCV). It occurs almost exclusively in severely immunocompromised patients, including those with advanced AIDS. Clinical findings of PML include dementia, hemiparesis or paralysis of one extremity, ataxia, hemianopsia, and diplopia. The characteristic appearance of these lesions on MRI is hyperintense (white) areas on T2-weighted images and fluid-attenuated inversion recovery sequences and hypointense (dark) areas on T1-weighted images. There is usually no mass effect. Among patients with advanced HIV/AIDS, the probability of PML exceeds 80% in those with white matter lesions with no mass effect. The treatment approach involves initiation of antiretroviral therapy to reverse the immunosuppression that interferes with the normal host response to JCV."
+]
+},
+{
+"type":"p",
+"hlId":"b3e75d",
+"children":[
+"Primary CNS lymphoma (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") occurs in approximately 2% to 12% of patients with HIV infection, typically when the CD4 cell count is less than 200/µL, and often less than 50/μL. Primary CNS lymphoma is typically associated with mass effect on MRI."
+]
+},
+{
+"type":"p",
+"hlId":"0dd59c",
+"children":[
+"Reversible cerebral vasoconstriction syndrome (RCVS) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is characterized by recurrent thunderclap headache and multifocal constriction of intracranial vessels, usually normalizing within 3 months of onset. Focal deficits, encephalopathy, and seizures are seen in a few patients. RCVS is not associated with immunosuppression, demonstrates more gray matter involvement, and does not cause hypointense lesions on T1-weighted MRI."
+]
+},
+{
+"type":"p",
+"hlId":"123c1a",
+"children":[
+"In patients with HIV infection and CD4 cell counts less than 100/μL, localized or focal encephalitis is the most common presentation of toxoplasmosis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Toxoplasmosis is the most common cause of a focal brain lesion in patients with HIV infection, and multiple lesions are the rule. Like CNS lymphoma, ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Toxoplasma"
+]
+},
+" lesions are typically associated with enhancement and mass effect, which are absent in this patient."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_5_5",
+"objective":{
+"__html":"Diagnose progressive multifocal leukoencephalopathy associated with HIV/AIDS."
+},
+"references":[
+[
+"Pruitt AA. Central nervous system infections in immunocompromised patients. Curr Neurol Neurosci Rep. 2021;21:37. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/34037866",
+"target":"_blank"
+},
+"children":[
+"PMID: 34037866"
+]
+},
+" doi:10.1007/s11910-021-01119-w"
+]
+],
+"hospitalist":true,
+"hvc":false,
+"peerComparison":{
+},
+"hlIds":[
+"736c3e",
+"4b76a5",
+"413696",
+"dc1046",
+"ec9ce7",
+"157dd9",
+"b3e75d",
+"0dd59c",
+"123c1a"
+]
+}

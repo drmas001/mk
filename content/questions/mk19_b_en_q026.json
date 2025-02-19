@@ -1,0 +1,225 @@
+{
+"id":"mk19_b_en_q026",
+"number":26,
+"bookId":"en",
+"correctAnswer":"D",
+"title":"Question 26",
+"stimulus":[
+{
+"type":"p",
+"hlId":"5e4c3f",
+"children":[
+"A 42-year-old man is evaluated for left breast enlargement. Breast enlargement started about 3 months ago and has been progressively worsening. His mother and sister have had breast cancer."
+]
+},
+{
+"type":"p",
+"hlId":"c42ce5",
+"children":[
+"On physical examination, vital signs are normal. BMI is 30. Palpation of the left breast reveals a firm, nontender 3-cm subareolar mass. The right breast examination is normal. The testicular examination and remainder of the physical examination are normal."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"c5165c",
+"children":[
+"Which of the following is the most appropriate test?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"8 <small>AM</small> Serum testosterone"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Human chorionic gonadotropin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Luteinizing hormone"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Mammography"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Testicular ultrasonography"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"50f5e4",
+"children":[
+"A unilateral, nontender, fixed breast mass in a male patient raises concern for breast cancer, and mammography is indicated."
+]
+},
+{
+"type":"keypoint",
+"hlId":"266a60",
+"children":[
+"The highest rates of male breast cancer are found in those with Klinefelter syndrome and in persons with a family history of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+"-positive breast cancer."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"6ff766",
+"children":[
+"This man with a breast mass should undergo mammography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). A unilateral, nontender, fixed breast mass should raise concern for breast cancer, and imaging with mammography and subsequent breast biopsy is warranted. Other physical examination features of male breast cancer include nipple involvement/retraction (approximately 40%-50% of cases) overlying skin changes or ulceration, and axillary adenopathy. Gynecomastia is a benign proliferation of glandular tissue in males, and patients with gynecomastia of relatively recent onset may experience breast tenderness, but this finding is unusual in male breast cancer. Only 0.2% of all cancers in men are male breast cancer. The highest rates of male breast cancer are found in those with Klinefelter syndrome and those with a family history of ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"BRCA2"
+]
+},
+"-positive breast cancer, which is likely in this patient. Other conditions that may predispose to male breast cancer include abnormally high estrogen states that may occur in patients with obesity, liver disease, or testicular disorders. Chest irradiation is also a risk factor. Male breast cancer has been associated with gynecomastia, particularly if unilateral or asymmetric, and should always be included in the differential diagnosis."
+]
+},
+{
+"type":"p",
+"hlId":"1cd355",
+"children":[
+"Gynecomastia is diagnosed by physical examination. Palpation of subareolar glandular tissue greater than 0.5 cm in diameter is consistent with gynecomastia. Gynecomastia is typically bilateral and tender to palpation, particularly early in its course of development. This patient does not have a physical examination consistent with gynecomastia. The initial laboratory evaluation for gynecomastia includes measurement of 8 ",
+{
+"type":"tag",
+"tagName":"small",
+"attrs":{
+},
+"children":[
+"AM"
+]
+},
+" serum testosterone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"), human chorionic gonadotropin (hCG) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), luteinizing hormone (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"), and estradiol. These tests are not indicated for this patient because he does not have gynecomastia on examination but rather a breast mass that requires imaging and biopsy."
+]
+},
+{
+"type":"p",
+"hlId":"f3e910",
+"children":[
+"Because testicular germ cell tumors can cause gynecomastia, evaluation should include testicular examination and hCG measurement. Testicular ultrasonography (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") is recommended if hCG is elevated or a testicular mass is palpated on physical examination. In this case, the patient did not have gynecomastia on examination, so neither hCG measurement nor testicular ultrasonography are indicated."
+]
+}
+],
+"relatedSection":"mk19_b_en_s5_9",
+"objective":{
+"__html":"Diagnose male breast cancer."
+},
+"references":[
+[
+"Kanakis GA, Nordkap L, Bang AK, et al. EAA clinical practice guidelines-gynecomastia evaluation and management. Andrology. 2019;7:778-793. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/31099174",
+"target":"_blank"
+},
+"children":[
+"PMID: 31099174"
+]
+},
+" doi:10.1111/andr.12636"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":4,
+"B":1,
+"C":1,
+"D":94,
+"E":2
+},
+"hlIds":[
+"5e4c3f",
+"c42ce5",
+"c5165c",
+"50f5e4",
+"266a60",
+"6ff766",
+"1cd355",
+"f3e910"
+]
+}

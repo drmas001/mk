@@ -1,0 +1,243 @@
+{
+"id":"mk19_b_pm_q024",
+"number":24,
+"bookId":"pm",
+"correctAnswer":"A",
+"title":"Question 24",
+"stimulus":[
+{
+"type":"p",
+"hlId":"ada073",
+"children":[
+"A 50-year-old man is referred for poorly controlled asthma. Triggers include exercise and exposure to dust, pollen, and fumes. He has allergic rhinitis. He has been treated with several courses of glucocorticoids, but symptoms recurred after he stopped treatment despite regular use of his fluticasone-salmeterol and tiotropium inhalers. His only other medication is albuterol. He has good inhaler technique."
+]
+},
+{
+"type":"p",
+"hlId":"f262d7",
+"children":[
+"On physical examination, vital signs are normal. BMI is 23. Pulmonary examination reveals few expiratory wheezes. The remainder of the examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"945d7f",
+"children":[
+"Laboratory studies reveal a normal total IgE level and complete blood count."
+]
+},
+{
+"type":"p",
+"hlId":"b29854",
+"children":[
+"Chest radiograph is normal. Spirometry demonstrates moderate airflow obstruction that improves with bronchodilators."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"ab9d96",
+"children":[
+"Which of the following is the most appropriate diagnostic test to perform next?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Absolute blood eosinophil count"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"α<sub>1</sub>-Antitrypsin level"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"<i>Aspergillus</i>-specific IgE level"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Measurement of common allergen-specific IgE levels"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"29bf76",
+"children":[
+"Clinical characteristics suggesting a type 2 asthma phenotype include atopy, seasonal exacerbations, hay fever, and allergen sensitization."
+]
+},
+{
+"type":"keypoint",
+"hlId":"b4c855",
+"children":[
+"For patients with symptoms suggestive of type 2 asthma phenotype, measurement of IgE levels and total eosinophil count can be used to confirm this asthma phenotype and direct therapy."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"96fd62",
+"children":[
+"The most appropriate diagnostic test for this patient is measurement of the absolute blood eosinophil count (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient presents with symptoms suggestive of allergic asthma; establishing this asthma phenotype can help direct therapy. Clinical characteristics suggesting a type 2 asthma phenotype include atopy, seasonal exacerbations, hay fever, and allergen sensitization. Biomarker evaluation in these patients often demonstrates serum or sputum eosinophilia and/or high IgE levels. This patient has a normal IgE level, but this does not preclude type 2 asthma. Obtaining a blood absolute eosinophil count will help establish the phenotype. In patients with severe disease, elevated levels of IgE and eosinophils are therapeutic targets for biologic therapies. Several types of biologic therapies are available that are directed against type 2 inflammation, targeting pathways involved in activation of eosinophils and IgE production. Use of antibody therapies in eligible patients with severe persistent allergic asthma despite standard therapy reduces symptoms, exacerbations, and need for oral glucocorticoids."
+]
+},
+{
+"type":"p",
+"hlId":"4b3787",
+"children":[
+"An α",
+{
+"type":"tag",
+"tagName":"sub",
+"attrs":{
+},
+"children":[
+"1"
+]
+},
+"-antitrypsin level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") should be obtained once in all patients with chronic obstructive pulmonary disease. A pattern of basilar emphysema, associated liver disease or panniculitis, or a strong family history of emphysema in patients with COPD suggests possible α-1 antitrypsin deficiency, but none of these features is sufficiently sensitive for the condition. Routine testing is not indicated in patients with asthma."
+]
+},
+{
+"type":"p",
+"hlId":"d75de6",
+"children":[
+"Patients with allergic bronchopulmonary aspergillosis (ABPA) present with difficult-to-control asthma, productive cough, and expectoration of mucus plugs. Commonly accepted diagnostic criteria include elevated IgE levels, positive skin tests to ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+" antigens, increased ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+"-specific IgE and IgG levels, and either central bronchiectasis or infiltrates. This patient does not have the clinical phenotype of ABPA, radiographic findings, or elevated IgE level suggesting ABPA. Measuring ",
+{
+"type":"tag",
+"tagName":"i",
+"attrs":{
+},
+"children":[
+"Aspergillus"
+]
+},
+"-specific IgE level (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not indicated."
+]
+},
+{
+"type":"p",
+"hlId":"db49a0",
+"children":[
+"Identifying the presence of atopy can identify an allergic asthma phenotype in a patient with respiratory symptoms. Atopic status can be measured by skin prick testing or measurement of allergen-specific IgE testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). Skin prick testing is rapid, simple, and relatively inexpensive. Measurement of immunoglobulin-specific IgE is more expensive but not more accurate. However, the first management step for this patient is to measure the total blood eosinophil count to determine his asthma phenotype."
+]
+}
+],
+"relatedSection":"mk19_b_pm_s2_1_5_1",
+"objective":{
+"__html":"Diagnose allergic asthma phenotype."
+},
+"references":[
+[
+"McGregor MC, Krings JG, Nair P, et al. Role of biologics in asthma. Am J Respir Crit Care Med. 2019;199:433-445. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30525902",
+"target":"_blank"
+},
+"children":[
+"PMID: 30525902"
+]
+},
+" doi:10.1164/rccm.201810-1944CI"
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":38,
+"B":6,
+"C":28,
+"D":27,
+"E":0
+},
+"hlIds":[
+"ada073",
+"f262d7",
+"945d7f",
+"b29854",
+"ab9d96",
+"29bf76",
+"b4c855",
+"96fd62",
+"4b3787",
+"d75de6",
+"db49a0"
+]
+}

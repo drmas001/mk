@@ -1,0 +1,173 @@
+{
+"id":"mk19_a_gi_q094",
+"number":94,
+"bookId":"gi",
+"correctAnswer":"A",
+"title":"Question 94",
+"stimulus":[
+{
+"type":"p",
+"hlId":"7bb0f5",
+"children":[
+"A 65-year-old man is evaluated before hospital discharge. During hospitalization, he was treated for massive lower gastrointestinal bleeding. Fluid resuscitation relieved associated hypotension and tachycardia. The bleeding was attributed to diverticulosis, which was successfully treated during colonoscopy. He also has hypertension, type 2 diabetes mellitus, and hyperlipidemia. His medications include low-dose aspirin, hydrochlorothiazide, metformin, and rosuvastatin. Aspirin was held at the time of hospital admission. Family history includes stroke in his father."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"20f74c",
+"children":[
+"Which of the following is the most appropriate management of this patient's aspirin therapy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Discontinue indefinitely"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Restart in 30 days"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Restart now"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Restart now and add omeprazole"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"875bd7",
+"hvc":true,
+"children":[
+"After an episode of gastrointestinal bleeding, aspirin for primary prevention of atherosclerotic cardiovascular disease should be discontinued."
+]
+},
+{
+"type":"keypoint",
+"hlId":"1c7a27",
+"hvc":true,
+"children":[
+"After an episode of gastrointestinal bleeding, aspirin for secondary prevention of atherosclerotic cardiovascular disease should not be routinely stopped; if aspirin is stopped, then it should be restarted as soon as hemostasis is achieved."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"854ff9",
+"children":[
+"The most appropriate management is to discontinue aspirin indefinitely (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The U.S. Preventive Services Task Force recommends low-dose aspirin for the primary prevention of atherosclerotic cardiovascular disease (ASCVD) and colorectal cancer in adults aged 50 to 59 years with a 10-year ASCVD risk of 10% or higher who do not have an increased risk for bleeding. In those aged 60 to 69 years, the benefits of aspirin use for primary prevention are smaller and the decision to initiate low-dose aspirin in this population should be individualized. The American College of Cardiology and American Diabetes Association suggest that low-dose aspirin might be considered for ASCVD primary prevention in adults aged 40 to 70 years who are at higher ASCVD risk but not at increased bleeding risk. This patient recently experienced hemodynamically significant lower gastrointestinal bleeding from diverticulosis. Although this bleeding was successfully treated, he is at considerable risk for recurrent bleeding from his diverticulosis. Case series demonstrate early rebleeding, defined as before hospital discharge, in up to 16% of patients and late rebleeding, defined as 30 or more days after discharge (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"), in up to 24% of patients. Reinitiation of an NSAID or aspirin further increases risk for rebleeding. This patient had been taking aspirin for primary prevention of ASCVD. Although he does have several cardiovascular risk factors (age, hypertension, diabetes, dyslipidemia), the risk for recurrent lower gastrointestinal bleeding is greater than the benefit of daily aspirin in preventing myocardial infarction or stroke. Therefore, he should not restart aspirin now (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+},
+{
+"type":"p",
+"hlId":"0e8f90",
+"children":[
+"Guidelines on the management of lower gastrointestinal bleeding recommend avoidance of aspirin for primary prevention of cardiovascular events in most patients, particularly those with bleeding due to diverticulosis or angiodysplasia. However, after an episode of gastrointestinal bleeding, aspirin for secondary prevention of ASCVD should not be routinely stopped. If aspirin is stopped, then it should be restarted as soon as hemostasis is achieved."
+]
+},
+{
+"type":"p",
+"hlId":"11c7be",
+"children":[
+"The addition of a proton pump inhibitor such as omeprazole (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") may provide some protection from upper gastrointestinal bleeding, but it will not protect this patient from recurrent lower gastrointestinal bleeding. In this patient aspirin should be discontinued."
+]
+}
+],
+"relatedSection":"mk19_a_gi_s8_3_3",
+"objective":{
+"__html":"Manage aspirin therapy after lower gastrointestinal bleeding."
+},
+"references":[
+[
+"Oakland K, Chadwick G, East JE, et al. Diagnosis and management of acute lower gastrointestinal bleeding: guidelines from the British Society of Gastroenterology. Gut. 2019;68:776-789. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/30792244",
+"target":"_blank"
+},
+"children":[
+"PMID: 30792244"
+]
+},
+" doi:10.1136/gutjnl-2018-317807"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":32,
+"B":18,
+"C":36,
+"D":14,
+"E":0
+},
+"hlIds":[
+"7bb0f5",
+"20f74c",
+"875bd7",
+"1c7a27",
+"854ff9",
+"0e8f90",
+"11c7be"
+]
+}

@@ -1,0 +1,670 @@
+{
+"id":"mk19_b_hm_q049",
+"number":49,
+"bookId":"hm",
+"correctAnswer":"D",
+"title":"Question 49",
+"stimulus":[
+{
+"type":"p",
+"hlId":"2422dc",
+"children":[
+"A 75-year-old man is hospitalized with sepsis secondary to community-acquired pneumonia. He has been otherwise well before hospital admission and was taking no medications."
+]
+},
+{
+"type":"p",
+"hlId":"4ffa0e",
+"children":[
+"On physical examination, temperature is 39.4 °C (102.9 °F), blood pressure is 90/52 mm Hg, pulse rate is 110/min, and respiration rate is 16/min. ",
+{
+"type":"reference-range-link",
+"referenceRange":"Blood gases, Oxygen saturation, arterial (ambient air)",
+"children":[
+"Oxygen saturation"
+]
+},
+" is 92% using a nonrebreathing mask. Cardiac examination reveals tachycardia. Bilateral basilar pulmonary crackles are noted."
+]
+},
+{
+"type":"tag",
+"tagName":"table",
+"attrs":{
+"className":"lab-values table"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"caption",
+"attrs":{
+},
+"children":[
+{
+"type":"p",
+"hlId":"a462a3",
+"children":[
+"Laboratory studies:"
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tbody",
+"attrs":{
+},
+"children":[
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-1 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"08837d",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Activated partial thromboplastin time",
+"children":[
+"Activated partial thromboplastin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"e6c674",
+"class":"cell text l",
+"children":[
+"55 s"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-2 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ad4b32",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"D-Dimer",
+"children":[
+"D-dimer"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"96dcc6",
+"class":"cell text l",
+"children":[
+"2.8 μg/mL (2.8 mg/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-3 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"f9867c",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Hemoglobin, blood",
+"children":[
+"Hemoglobin"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"ed04bc",
+"class":"cell text l",
+"children":[
+"9.1 g/dL (91 g/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-4 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2989c0",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Leukocyte count",
+"children":[
+"Leukocyte count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2f11d3",
+"class":"cell text l",
+"children":[
+"14,000/μL (14 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-5 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"fcac73",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Platelet count",
+"children":[
+"Platelet count"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"135311",
+"class":"cell text l",
+"children":[
+"55,000/μL (55 × 10",
+{
+"type":"tag",
+"tagName":"sup",
+"attrs":{
+},
+"children":[
+"9"
+]
+},
+"/L)"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-6 row-even"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"93eab9",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Prothrombin time",
+"children":[
+"Prothrombin time"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"cf3e64",
+"class":"cell text l",
+"children":[
+"19 s"
+]
+}
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"tr",
+"attrs":{
+"className":"group_1-7 row-odd"
+},
+"children":[
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellLeft1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"d905c8",
+"class":"cell text l",
+"children":[
+" ",
+{
+"type":"reference-range-link",
+"referenceRange":"Fibrinogen, plasma",
+"children":[
+"Fibrinogen"
+]
+},
+" "
+]
+}
+]
+},
+{
+"type":"tag",
+"tagName":"td",
+"attrs":{
+"className":"labValueCellRight1"
+},
+"children":[
+{
+"type":"p",
+"hlId":"2a7442",
+"class":"cell text l",
+"children":[
+"105 mg/dL (1.05 g/L)"
+]
+}
+]
+}
+]
+}
+]
+}
+]
+},
+{
+"type":"p",
+"hlId":"f3f1a8",
+"children":[
+"Peripheral blood smear is ",
+{
+"type":"figure-link",
+"target":"mk19_b_hm_mcq_f049",
+"wrapId":"1",
+"children":[
+"shown"
+]
+},
+"."
+]
+},
+{
+"type":"inline-wrap",
+"wrapId":"1",
+"contentIds":[
+"mk19_b_hm_mcq_f049"
+]
+},
+{
+"type":"p",
+"hlId":"b73c02",
+"children":[
+"Cultures are collected. Fluid resuscitation is provided with 0.9% saline, and broad-spectrum antibiotics are initiated."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"412b17",
+"children":[
+"Which of the following is the most appropriate initial treatment for the coagulopathy?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Eculizumab"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Prednisone"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Therapeutic plasma exchange"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No additional treatment"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a473de",
+"hvc":true,
+"children":[
+"Disseminated intravascular coagulation is characterized by thrombocytopenia, coagulation abnormalities, hypofibrinogenemia, and microangiopathic hemolytic anemia."
+]
+},
+{
+"type":"keypoint",
+"hlId":"ed64bf",
+"hvc":true,
+"children":[
+"Treatment of disseminated intravascular coagulation focuses on the underlying disorder."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"5b55a0",
+"children":[
+"No additional treatment is required for this patient's coagulopathy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). He has disseminated intravascular coagulation (DIC), which has been triggered by sepsis. DIC is a systemic process with widespread and inappropriate activation of coagulation and concomitant fibrinolysis. In acute DIC, coagulation factors and platelets are rapidly consumed, leading to bleeding, organ dysfunction, and microangiopathic hemolytic anemia manifesting as schistocytes on the peripheral blood smear (see figure in Stem). Normal compensatory mechanisms are unable to keep up with the consumption of many blood components, resulting in depletion of platelets and coagulation proteins. Patients may have bleeding resulting from lack of available procoagulant factors in addition to large amounts of fibrin degradation products released from accompanying fibrinolysis, which interferes with normal platelet function and fibrin formation. Bleeding can often be seen at mucosal sites and areas of procedures (e.g., venous catheters). Organ dysfunction, including kidney and liver impairment, is also common. Laboratory findings in acute DIC include prolongation of the prothrombin and activated partial thromboplastin times, thrombocytopenia, low fibrinogen level, and markers of fibrinolysis such as an elevated D-dimer. Sepsis is the most common cause of acute DIC. Treatment focuses on addressing the underlying condition. Platelet transfusions, cryoprecipitate, and fresh frozen plasma are provided as needed for bleeding manifestations."
+]
+},
+{
+"type":"p",
+"hlId":"f7bb9a",
+"children":[
+"Eculizumab is a monoclonal antibody directed against complement component C5 and inhibits complement activation (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). It has been shown to be effective for use in paroxysmal nocturnal hemoglobinuria and atypical hemolytic uremic syndrome (aHUS). Although thrombocytopenia, thrombotic microangiopathy, and kidney disease are seen with aHUS, it is not associated with coagulation abnormalities."
+]
+},
+{
+"type":"p",
+"hlId":"a44b37",
+"children":[
+"Glucocorticoids, such as prednisone, would be considered in patients with autoimmune hemolytic anemia or immune thrombocytopenic purpura but not with DIC (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). These entities are not associated with coagulation abnormalities or schistocytes on the peripheral blood smear."
+]
+},
+{
+"type":"p",
+"hlId":"19322c",
+"children":[
+"Therapeutic plasma exchange is a mainstay of therapy in patients with thrombotic thrombocytopenic purpura (TTP) (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+"). Thrombocytopenia and microangiopathic hemolytic anemia are hallmarks of TTP, but coagulation abnormalities are not. Therapeutic plasma exchange is not used for treatment of DIC."
+]
+}
+],
+"relatedSection":"mk19_b_hm_s7_4_2",
+"objective":{
+"__html":"Treat disseminated intravascular coagulation."
+},
+"references":[
+[
+"Squizzato A, Hunt BJ, Kinasewitz GT, et al. Supportive management strategies for disseminated intravascular coagulation. An international consensus. Thromb Haemost. 2016;115:896-904. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/26676927",
+"target":"_blank"
+},
+"children":[
+"PMID: 26676927"
+]
+},
+" doi:10.1160/TH15-09-0740"
+]
+],
+"hospitalist":true,
+"hvc":true,
+"peerComparison":{
+"A":2,
+"B":6,
+"C":38,
+"D":54,
+"E":0
+},
+"figuresContent":{
+"mk19_b_hm_mcq_f049":{
+"id":"mk19_b_hm_mcq_f049",
+"number":49,
+"bookId":"hm",
+"legend":"",
+"footnotes":[
+
+],
+"imageInfo":{
+"hash":"1e9670830fd9da0fd33841735765e50e",
+"height":217,
+"width":322,
+"extension":"jpg"
+}
+}
+},
+"hlIds":[
+"2422dc",
+"4ffa0e",
+"a462a3",
+"08837d",
+"e6c674",
+"ad4b32",
+"96dcc6",
+"f9867c",
+"ed04bc",
+"2989c0",
+"2f11d3",
+"fcac73",
+"135311",
+"93eab9",
+"cf3e64",
+"d905c8",
+"2a7442",
+"f3f1a8",
+"b73c02",
+"412b17",
+"a473de",
+"ed64bf",
+"5b55a0",
+"f7bb9a",
+"a44b37",
+"19322c"
+]
+}

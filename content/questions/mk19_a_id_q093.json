@@ -1,0 +1,195 @@
+{
+"id":"mk19_a_id_q093",
+"number":93,
+"bookId":"id",
+"correctAnswer":"D",
+"title":"Question 93",
+"stimulus":[
+{
+"type":"p",
+"hlId":"8944e6",
+"children":[
+"A 31-year-old man is seen for follow-up discussion of HIV testing. He reports a single extra-marital encounter 6 weeks ago without the use of a condom. He has never been diagnosed with a sexually transmitted infection. He has been symptom free and takes no medications."
+]
+},
+{
+"type":"p",
+"hlId":"d38165",
+"children":[
+"The physical examination is unremarkable."
+]
+},
+{
+"type":"p",
+"hlId":"54f792",
+"children":[
+"Subsequent testing shows a reactive fourth generation HIV-1/2 antigen/antibody combination assay, negative HIV-1 differentiation immunoassay, and negative HIV-1/2 RNA nucleic acid amplification test."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Check CD4 cell count"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Provide HIV postexposure prophylaxis"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Repeat testing in 1 month"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"Reinforce safe sexual practice counseling"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"8681a6",
+"children":[
+"A positive result on the fourth-generation HIV-1/2 antigen/antibody combination assay but negative result on HIV antibody differentiation is tested for HIV RNA by nucleic acid amplification testing; if positive, acute HIV infection is confirmed, and a negative result identifies a false-positive combination assay."
+]
+},
+{
+"type":"keypoint",
+"hlId":"19286d",
+"children":[
+"Postexposure prophylaxis should be started as soon as possible after exposure; it is not recommended if more than 72 hours have passed."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"87462f",
+"children":[
+"The most appropriate management is to reinforce safe sexual practice counseling (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). According to an algorithm from the CDC, this screening test was a false positive. Fourth generation HIV testing uses a combination assay for HIV antibody and HIV p24 antigen, which detects acute infection at least 1 week earlier than older assays. A positive result on the combination assay leads to testing with an HIV-1/HIV-2 antibody differentiation immunoassay, which, if positive, confirms infection. Specimens that test positive on the initial combination assay but negative for HIV antibody are tested for HIV RNA by nucleic acid amplification testing; if positive, acute HIV infection is confirmed, and a negative result identifies a false-positive HIV antibody and HIV p24 combination assay. Although the initial combination assay has a 99.6% specificity, testing in low prevalence populations can result in false positives, so waiting for the results of the confirmatory antibody differentiation immunoassay and nucleic acid amplification testing is important. This patient does not have HIV infection, and safe sexual practice counseling should be reinforced."
+]
+},
+{
+"type":"p",
+"hlId":"87b772",
+"children":[
+"CD4 cell counts are useful in patients with a new diagnosis of HIV infection in determining the nadir CD4 cell count before treatment initiation and in determining opportunistic infection prophylaxis strategies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). Because this patient does not have HIV infection, it would not be useful to perform this test."
+]
+},
+{
+"type":"p",
+"hlId":"c4e8c0",
+"children":[
+"Six weeks have passed since this patient's sexual encounter, so postexposure prophylaxis is not indicated (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+"). When given, prophylaxis should be started as soon as possible after exposure; it is not recommended if more than 72 hours have passed."
+]
+},
+{
+"type":"p",
+"hlId":"210d68",
+"children":[
+"Following HIV exposure, detectable viremia develops 10 to 15 days after infection, and screening tests become positive approximately 5 days later. Early testing after exposure may not detect HIV infection, and repeat testing 2 weeks later is recommended. However, this patient's exposure was 6 weeks ago; therefore, it is unlikely that early infection has been missed with testing (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+")."
+]
+}
+],
+"relatedSection":"mk19_a_id_s18_3",
+"objective":{
+"__html":"Identify false-positive HIV test results."
+},
+"references":[
+[
+"Centers for Disease Control and Prevention and Association of Public Health Laboratories. Laboratory testing for the diagnosis of HIV infection: updated recommendations. Published June 27, 2014. Available at ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://dx.doi.org/10.15620/cdc.23447",
+"target":"_blank"
+},
+"children":[
+"http://dx.doi.org/10.15620/cdc.23447"
+]
+},
+". Accessed April 17, 2020."
+]
+],
+"hospitalist":false,
+"hvc":false,
+"peerComparison":{
+"A":7,
+"B":16,
+"C":30,
+"D":47,
+"E":0
+},
+"hlIds":[
+"8944e6",
+"d38165",
+"54f792",
+"cb2b54",
+"8681a6",
+"19286d",
+"87462f",
+"87b772",
+"c4e8c0",
+"210d68"
+]
+}

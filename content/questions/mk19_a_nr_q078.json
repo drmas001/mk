@@ -1,0 +1,189 @@
+{
+"id":"mk19_a_nr_q078",
+"number":78,
+"bookId":"nr",
+"correctAnswer":"D",
+"title":"Question 78",
+"stimulus":[
+{
+"type":"p",
+"hlId":"15ce62",
+"children":[
+"A 48-year-old man is seen following a self-referred carotid ultrasonography. He has type 2 diabetes mellitus. Current medications are atorvastatin and metformin."
+]
+},
+{
+"type":"p",
+"hlId":"bc462d",
+"children":[
+"On physical examination, blood pressure is 134/68 mm Hg; the remaining vital signs are normal. General physical examination reveals a right carotid bruit. The screening neurologic examination is normal."
+]
+},
+{
+"type":"p",
+"hlId":"9b6210",
+"children":[
+"A carotid duplex ultrasound shows right internal carotid artery stenosis of 60% to 80%, without acoustic shadowing."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Carotid endarterectomy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Carotid stenting"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"CT angiography of neck"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"No further testing or intervention"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"c2c901",
+"hvc":true,
+"children":[
+"Patients with asymptomatic carotid artery stenosis less than 80% have a low annual risk for stroke, likely less than 1%."
+]
+},
+{
+"type":"keypoint",
+"hlId":"cf777f",
+"hvc":true,
+"children":[
+"The U.S. Preventive Services Task Force does not recommend screening for carotid artery stenosis in the general adult population."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"3ce03b",
+"children":[
+"The most appropriate management is no further testing or intervention (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+"). The patient has asymptomatic stenosis of the internal carotid artery (ICA) of less than 80%, and neither surgical intervention nor further imaging is indicated. Patients with ICA stenosis less than 80% have a low annual risk for stroke (likely <1%), and the risk associated with surgical intervention is higher. The patient should be treated with the best medical therapy to prevent further progression; the use of a high-intensity statin in patients with dyslipidemia is especially indicated. The U.S. Preventive Services Task Force (USPSTF) does not recommend screening for carotid artery stenosis in the general adult population. The USPSTF concludes with moderate certainty that the harms of screening (mainly related to subsequent interventions, such as carotid artery endarterectomy) for asymptomatic carotid artery stenosis outweigh the benefits."
+]
+},
+{
+"type":"p",
+"hlId":"e01da7",
+"children":[
+"Carotid endarterectomy (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+") and carotid stenting (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B"
+]
+},
+") are not appropriate because the patient did not experience a stroke or transient ischemic attack stemming from ICA stenosis. Carotid revascularization can be considered on a case-by-case basis in patients with greater than 80% asymptomatic ICA stenosis when surgical risk for stroke is less than 3%, although these patients are recommended for enrollment in an NIH-funded clinical trial. Patients with stenosis greater than 80% and other high-risk features can be considered for surgical intervention; such features include rapid progression or presence of hemodynamic failure seen on transcranial Doppler ultrasonography or cerebral blood flow measures."
+]
+},
+{
+"type":"p",
+"hlId":"bf151e",
+"children":[
+"CT angiography of the neck (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option C"
+]
+},
+") is not appropriate because it is not likely to change management and is associated with potential risks from radiation and contrast material. CT angiography can be considered in patients with greater than 80% stenosis, particularly if surgical intervention is being considered, to confirm the degree of stenosis seen on ultrasound and to outline anatomic features that may help in choosing between stenting and endarterectomy."
+]
+}
+],
+"relatedSection":"mk19_a_nr_s4_5_1",
+"objective":{
+"__html":"Treat asymptomatic internal carotid artery stenosis."
+},
+"references":[
+[
+"Naylor AR, Ricco JB, de Borst GJ, et al. Editor's choice - management of atherosclerotic carotid and vertebral artery disease: 2017 clinical practice guidelines of the European Society for Vascular Surgery (ESVS). Eur J Vasc Endovasc Surg. 2018;55:3-81. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28851594",
+"target":"_blank"
+},
+"children":[
+"PMID: 28851594"
+]
+},
+" doi:10.1016/j.ejvs.2017.06.021"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":14,
+"B":2,
+"C":28,
+"D":55,
+"E":0
+},
+"hlIds":[
+"15ce62",
+"bc462d",
+"9b6210",
+"cb2b54",
+"c2c901",
+"cf777f",
+"3ce03b",
+"e01da7",
+"bf151e"
+]
+}

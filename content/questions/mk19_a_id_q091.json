@@ -1,0 +1,210 @@
+{
+"id":"mk19_a_id_q091",
+"number":91,
+"bookId":"id",
+"correctAnswer":"A",
+"title":"Question 91",
+"stimulus":[
+{
+"type":"p",
+"hlId":"f20092",
+"children":[
+"A 42-year-old woman is evaluated for a 3-week history of increasing pain in the left heel. She sustained a puncture wound from a nail 10 weeks ago. She was evaluated promptly and given a tetanus immunization; a plain radiograph was normal. After initial improvement, the patient experienced progressively increasing pain over the injured area."
+]
+},
+{
+"type":"p",
+"hlId":"25ada4",
+"children":[
+"On physical examination, vital signs are normal. Evidence of a healed wound is seen on the left heel. Mild edema is noted with significant tenderness on palpation but without warmth, erythema, or drainage."
+]
+},
+{
+"type":"p",
+"hlId":"90de94",
+"children":[
+"Laboratory studies show an ",
+{
+"type":"reference-range-link",
+"referenceRange":"Erythrocyte sedimentation rate",
+"children":[
+"erythrocyte sedimentation rate"
+]
+},
+" of 110 mm/h."
+]
+},
+{
+"type":"p",
+"hlId":"5b60ec",
+"children":[
+"A repeat plain radiograph shows evidence of soft tissue swelling with cortical destruction and accompanying periosteal reaction in the distal calcaneus."
+]
+}
+],
+"prompt":[
+" ",
+{
+"type":"p",
+"hlId":"cb2b54",
+"children":[
+"Which of the following is the most appropriate management?"
+]
+},
+" "
+],
+"options":[
+{
+"letter":"A",
+"text":{
+"__html":"Bone biopsy"
+}
+},
+{
+"letter":"B",
+"text":{
+"__html":"Ciprofloxacin"
+}
+},
+{
+"letter":"C",
+"text":{
+"__html":"Linezolid"
+}
+},
+{
+"letter":"D",
+"text":{
+"__html":"MRI with contrast"
+}
+},
+{
+"letter":"E",
+"text":{
+"__html":"Three-phase nuclear bone scan"
+}
+}
+],
+"keypoints":[
+{
+"type":"keypoint",
+"hlId":"a4a9aa",
+"hvc":true,
+"children":[
+"Bone biopsy should be performed before initiating treatment for osteomyelitis because microbiologic culture results will guide antibiotic therapy selection."
+]
+}
+],
+"exposition":[
+{
+"type":"p",
+"hlId":"87cd5b",
+"children":[
+"The patient should undergo a bone biopsy to establish the microbiologic diagnosis of osteomyelitis (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option A"
+]
+},
+"). The patient had a predisposing traumatic injury that healed; however, she then experienced progressively worsening pain and has physical findings of local swelling and tenderness. The elevated erythrocyte sedimentation rate is nonspecific; however, based on the clinical presentation, acute osteomyelitis must be considered. Because her symptom duration is greater than 2 weeks, plain radiography may be used to investigate the possibility of osteomyelitis. Plain radiographs are not sufficiently sensitive to exclude the diagnosis, but the findings of cortical destruction accompanied by periosteal reaction, especially when a previous radiograph is available for comparison, are sufficiently specific to confirm the diagnosis and proceed with bone biopsy to establish a microbiologic diagnosis and guide antibiotic therapy selection. Acute osteomyelitis in adults requires a prolonged therapy duration (generally 6 weeks), so guiding antibiotic therapy using bone biopsy culture results is optimal to ensure that the selected therapy is effective."
+]
+},
+{
+"type":"p",
+"hlId":"c37e95",
+"children":[
+"Ciprofloxacin and linezolid (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option B, C"
+]
+},
+") are oral antibiotics with high bioavailability that are potentially important agents in the therapeutic armamentarium for bone infection treatment. However, beginning antibiotic therapy is not urgent in patients with no signs of concomitant soft tissue infection or sepsis, and every effort should be made to confirm a microbiologic cause when managing osteomyelitis."
+]
+},
+{
+"type":"p",
+"hlId":"3cbde9",
+"children":[
+"MRI with contrast (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option D"
+]
+},
+") is the imaging modality of choice for evaluating osteomyelitis if the plain radiograph is unrevealing. It is not indicated in this patient because the findings on plain radiography are quite specific for bone infection. In patients who require additional imaging and cannot undergo MRI, contrast-enhanced CT should be performed."
+]
+},
+{
+"type":"p",
+"hlId":"599dd5",
+"children":[
+"Nuclear medicine studies (",
+{
+"type":"tag",
+"tagName":"b",
+"attrs":{
+},
+"children":[
+"Option E"
+]
+},
+") are less sensitive and specific for the diagnosis of osteomyelitis and should only be utilized if MRI or CT cannot be performed."
+]
+}
+],
+"relatedSection":"mk19_a_id_s10_2",
+"objective":{
+"__html":"Diagnose the microbial cause of osteomyelitis with a bone biopsy."
+},
+"references":[
+[
+"Schmitt SK. Osteomyelitis. Infect Dis Clin North Am. 2017;31:325-338. ",
+{
+"type":"tag",
+"tagName":"a",
+"attrs":{
+"href":"http://www.ncbi.nlm.nih.gov/pubmed/28483044",
+"target":"_blank"
+},
+"children":[
+"PMID: 28483044"
+]
+},
+" doi:10.1016/j.idc.2017.01.010"
+]
+],
+"hospitalist":false,
+"hvc":true,
+"peerComparison":{
+"A":60,
+"B":6,
+"C":2,
+"D":25,
+"E":5
+},
+"hlIds":[
+"f20092",
+"25ada4",
+"90de94",
+"5b60ec",
+"cb2b54",
+"a4a9aa",
+"87cd5b",
+"c37e95",
+"3cbde9",
+"599dd5"
+]
+}
