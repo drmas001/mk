@@ -21,9 +21,23 @@
 	<body>
 		<div class="splash-screen">
 		</div>
+		<div id="user-status" class="ml-3">
+		  <span id="user-email"></span>
+		  <button onclick="handleSignOut()" class="sign-out-btn">Sign Out</button>
+		  <button onclick="handleLogin()" class="sign-in-btn">Sign In</button>
+		</div>
+		<form name="user-progress" netlify netlify-honeypot="bot-field" hidden>
+		  <input type="text" name="userId" />
+		  <input type="email" name="email" />
+		  <input type="text" name="timestamp" />
+		  <input type="text" name="progress" />
+		</form>
 		<script type="text/javascript" src="content.js"></script>
 		<script type="text/javascript" src="cordova.js"></script>
 		<script type="text/javascript" src="setNativeApp.js"></script>
 		<script type="text/javascript" src="assets/app.js"></script>
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+		<script type="module" src="src/auth.js"></script>
+		<script type="module" src="src/progress.js"></script>
 	</body>
 </html>
