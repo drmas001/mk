@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; img-src * data:">
     <title>Sign In - MKSAP</title>
     <style>
         body {
@@ -66,7 +67,6 @@
 <body>
     <div class="auth-container">
         <div class="logo">
-            <!-- Add your logo image here -->
             <h1>MKSAP</h1>
         </div>
         <div class="auth-buttons">
@@ -82,16 +82,21 @@
             window.location.href = '/index.html';
         }
 
+        // Initialize Netlify Identity
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.init();
+        }
+
         function handleLogin() {
-            netlifyIdentity.open('login');
-            netlifyIdentity.on('login', user => {
+            window.netlifyIdentity.open('login');
+            window.netlifyIdentity.on('login', user => {
                 window.location.href = '/index.html';
             });
         }
 
         function handleSignup() {
-            netlifyIdentity.open('signup');
-            netlifyIdentity.on('login', user => {
+            window.netlifyIdentity.open('signup');
+            window.netlifyIdentity.on('login', user => {
                 window.location.href = '/index.html';
             });
         }

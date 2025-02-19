@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="native-app loading">
+<html>
 	<head>
 		<!--
 		Customize this policy to fit your own app's needs. For more guidance, see:
@@ -10,39 +10,64 @@
 			* Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
 				* Enable inline JS: add 'unsafe-inline' to default-src
 		-->
-		<meta http-equiv="Content-Security-Policy" content="default-src 'self' https://mksap19-api.acponline.org https://mksap19-stage.acponline.org https://mksap19-dev.acponline.org cdvfile://* content://* http://localhost:3000 http://localhost:8080 data: gap: https://ssl.gstatic.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline'; media-src * content://* cdvfile://*; img-src * content://* cdvfile://* data:;">
-		<meta charset="UTF-8" />
-		<meta name="format-detection" content="telephone=no">
-		<meta name="msapplication-tap-highlight" content="no">
-		<meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, viewport-fit=cover, shrink-to-fit=no">
-		<link rel="stylesheet" type="text/css" href="assets/app.css">
+		<meta charset="utf-8" />
+		<meta name="format-detection" content="telephone=no" />
+		<meta name="msapplication-tap-highlight" content="no" />
+		<meta
+			name="viewport"
+			content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, viewport-fit=cover, shrink-to-fit=no"
+		/>
+		<meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval'; img-src * data: https://mksap19-api.acponline.org https://mksap19-stage.acponline.org https://mksap19-dev.acponline.org cdvfile://* content://* http://localhost:3000 http://localhost:8080">
+		<link rel="stylesheet" type="text/css" href="assets/app.css" />
+		<link rel="stylesheet" type="text/css" href="assets/style.css" />
 		<title>MKSAP 19</title>
 	</head>
 	<body>
 		<script>
 			// Check if user is authenticated
-			if (!localStorage.getItem('gotrue.user')) {
+			if (!localStorage.getItem('gotrue.user') && !window.location.pathname.includes('signin.html')) {
 				window.location.href = '/signin.html';
 			}
+
+			// Handle Cordova initialization
+			function initApp() {
+				// Your app initialization code here
+				if (window.cordova && window.cordova.plugins && window.cordova.plugins.Keyboard) {
+					cordova.plugins.Keyboard.hideKeyboardAccessoryBar(true);
+				}
+				if (window.StatusBar) {
+					StatusBar.styleDefault();
+				}
+			}
+
+			// Initialize based on environment
+			if (window.cordova) {
+				document.addEventListener('deviceready', initApp, false);
+			} else {
+				document.addEventListener('DOMContentLoaded', initApp, false);
+			}
 		</script>
-		<div class="splash-screen">
-		</div>
+
+		<div class="splash-screen"></div>
 		<div id="user-status" class="ml-3">
-		  <span id="user-email"></span>
-		  <button onclick="handleSignOut()" class="sign-out-btn">Sign Out</button>
-		  <button onclick="handleLogin()" class="sign-in-btn">Sign In</button>
+			<span id="user-email"></span>
+			<button onclick="handleSignOut()" class="sign-out-btn">Sign Out</button>
+			<button onclick="handleLogin()" class="sign-in-btn">Sign In</button>
 		</div>
+
+		<!-- Hidden Netlify Form -->
 		<form name="user-progress" netlify netlify-honeypot="bot-field" hidden>
-		  <input type="text" name="userId" />
-		  <input type="email" name="email" />
-		  <input type="text" name="timestamp" />
-		  <input type="text" name="progress" />
+			<input type="text" name="userId" />
+			<input type="email" name="email" />
+			<input type="text" name="timestamp" />
+			<input type="text" name="progress" />
 		</form>
-		<script type="text/javascript" src="content.js"></script>
+
+		<!-- Load scripts in correct order -->
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<script type="text/javascript" src="cordova.js"></script>
 		<script type="text/javascript" src="setNativeApp.js"></script>
 		<script type="text/javascript" src="assets/app.js"></script>
-		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 		<script type="module" src="src/auth.js"></script>
 		<script type="module" src="src/progress.js"></script>
 	</body>

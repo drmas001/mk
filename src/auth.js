@@ -1,8 +1,10 @@
-import { fetch } from 'node-fetch';
+// Initialize Netlify Identity
+const netlifyIdentity = window.netlifyIdentity;
 
-const netlifyIdentity = require('netlify-identity-widget');
-
-netlifyIdentity.init();
+// Initialize the widget
+if (netlifyIdentity) {
+  netlifyIdentity.init();
+}
 
 // User state management
 let currentUser = null;
@@ -11,12 +13,14 @@ netlifyIdentity.on('login', user => {
   currentUser = user;
   localStorage.setItem('currentUser', JSON.stringify(user));
   updateUI();
+  window.location.href = '/index.html';
 });
 
 netlifyIdentity.on('logout', () => {
   currentUser = null;
   localStorage.removeItem('currentUser');
   updateUI();
+  window.location.href = '/signin.html';
 });
 
 function updateUI() {
@@ -37,6 +41,13 @@ function updateUI() {
 
 window.handleLogin = () => netlifyIdentity.open('login');
 window.handleSignOut = () => netlifyIdentity.logout();
+
+// Check if user is already logged in
+const storedUser = localStorage.getItem('currentUser');
+if (storedUser) {
+  currentUser = JSON.parse(storedUser);
+  updateUI();
+}
 
 export function getCurrentUser() {
   return currentUser;

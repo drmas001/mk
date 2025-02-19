@@ -35,4 +35,15 @@
 [[headers]]
   for = "/*"
   [headers.values]
+    Content-Security-Policy = """
+      default-src 'self' https://*.netlify.app https://identity.netlify.com https://mksap19-api.acponline.org https://mksap19-stage.acponline.org https://mksap19-dev.acponline.org cdvfile://* content://* http://localhost:* data: gap: https://ssl.gstatic.com https://www.google-analytics.com;
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://identity.netlify.com;
+      connect-src 'self' https://*.netlify.app https://identity.netlify.com https://mksap19-api.acponline.org https://mksap19-stage.acponline.org https://mksap19-dev.acponline.org;
+      style-src 'self' 'unsafe-inline';
+      img-src 'self' data: https://* http://*;
+      font-src 'self' data:;
+      frame-src 'self' https://identity.netlify.com;
+      media-src 'self' https://* http://*"""
     Access-Control-Allow-Origin = "*"
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
