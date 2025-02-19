@@ -22,6 +22,10 @@
 
 [identity]
   enabled = true
+  external_providers = []
+  [identity.signup]
+    allowed_domains = []  # Leave empty to allow all domains
+    autoconfirm = true   # Auto-confirm users after registration
 
 [[headers]]
   for = "/*"
